@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Document.compositeFonts", "file": "community-types/indesign/document/composite-fonts.md", "summary": "Open when looking up Document.compositeFonts in Shared Adobe platform.", "keywords": ["Document.compositeFonts"]},
+  {"topic": "Document.createMissingFontObject", "file": "community-types/indesign/document/create-missing-font-object.md", "summary": "Open when looking up Document.createMissingFontObject in Shared Adobe platform.", "keywords": ["Document.createMissingFontObject"]},
+  {"topic": "Document.fonts", "file": "community-types/indesign/document/fonts.md", "summary": "Open when looking up Document.fonts in Shared Adobe platform.", "keywords": ["Document.fonts"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

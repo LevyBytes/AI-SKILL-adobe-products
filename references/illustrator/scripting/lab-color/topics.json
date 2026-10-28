@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "LabColor.a", "file": "scripting/lab-color/a.md", "summary": "Open when looking up LabColor.a in Illustrator.", "keywords": ["LabColor.a"]},
+  {"topic": "LabColor.b", "file": "scripting/lab-color/b.md", "summary": "Open when looking up LabColor.b in Illustrator.", "keywords": ["LabColor.b"]},
+  {"topic": "LabColor.l", "file": "scripting/lab-color/l.md", "summary": "Open when looking up LabColor.l in Illustrator.", "keywords": ["LabColor.l"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

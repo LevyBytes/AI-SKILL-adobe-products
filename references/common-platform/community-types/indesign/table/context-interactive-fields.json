@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Table.buttons", "file": "community-types/indesign/table/buttons.md", "summary": "Open when looking up Table.buttons in Shared Adobe platform.", "keywords": ["Table.buttons"]},
+  {"topic": "Table.checkBoxes", "file": "community-types/indesign/table/check-boxes.md", "summary": "Open when looking up Table.checkBoxes in Shared Adobe platform.", "keywords": ["Table.checkBoxes"]},
+  {"topic": "Table.comboBoxes", "file": "community-types/indesign/table/combo-boxes.md", "summary": "Open when looking up Table.comboBoxes in Shared Adobe platform.", "keywords": ["Table.comboBoxes"]},
+  {"topic": "Table.formFields", "file": "community-types/indesign/table/form-fields.md", "summary": "Open when looking up Table.formFields in Shared Adobe platform.", "keywords": ["Table.formFields"]},
+  {"topic": "Table.listBoxes", "file": "community-types/indesign/table/list-boxes.md", "summary": "Open when looking up Table.listBoxes in Shared Adobe platform.", "keywords": ["Table.listBoxes"]},
+  {"topic": "Table.multiStateObjects", "file": "community-types/indesign/table/multi-state-objects.md", "summary": "Open when looking up Table.multiStateObjects in Shared Adobe platform.", "keywords": ["Table.multiStateObjects"]},
+  {"topic": "Table.radioButtons", "file": "community-types/indesign/table/radio-buttons.md", "summary": "Open when looking up Table.radioButtons in Shared Adobe platform.", "keywords": ["Table.radioButtons"]},
+  {"topic": "Table.signatureFields", "file": "community-types/indesign/table/signature-fields.md", "summary": "Open when looking up Table.signatureFields in Shared Adobe platform.", "keywords": ["Table.signatureFields"]},
+  {"topic": "Table.textBoxes", "file": "community-types/indesign/table/text-boxes.md", "summary": "Open when looking up Table.textBoxes in Shared Adobe platform.", "keywords": ["Table.textBoxes"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

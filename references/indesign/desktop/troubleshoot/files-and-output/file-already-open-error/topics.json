@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Change the file name or location", "file": "desktop/troubleshoot/files-and-output/file-already-open-error/change-the-file-name-or-location.md", "summary": "Open when looking up Change the file name or location in InDesign.", "keywords": ["Change the file name or location"]},
+  {"topic": "Force close InDesign or restart the system", "file": "desktop/troubleshoot/files-and-output/file-already-open-error/force-close-in-design-or-restart-the-system.md", "summary": "Open when looking up Force close InDesign or restart the system in InDesign.", "keywords": ["Force close InDesign or restart the system"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

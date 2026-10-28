@@ -1,0 +1,19 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "addEventListener", "file": "document-model/rule-data-object/add-event-listener.md", "summary": "Open when looking up addEventListener in InDesign.", "keywords": ["addEventListener"]},
+  {"topic": "dataType", "file": "document-model/rule-data-object/data-type.md", "summary": "Open when looking up dataType in InDesign.", "keywords": ["dataType"]},
+  {"topic": "dataValue", "file": "document-model/rule-data-object/data-value.md", "summary": "Open when looking up dataValue in InDesign.", "keywords": ["dataValue"]},
+  {"topic": "eventListeners", "file": "document-model/rule-data-object/event-listeners.md", "summary": "Open when looking up eventListeners in InDesign.", "keywords": ["eventListeners"]},
+  {"topic": "events", "file": "document-model/rule-data-object/events.md", "summary": "Open when looking up events in InDesign.", "keywords": ["events"]},
+  {"topic": "getElements", "file": "document-model/rule-data-object/get-elements.md", "summary": "Open when looking up getElements in InDesign.", "keywords": ["getElements"]},
+  {"topic": "id", "file": "document-model/rule-data-object/id.md", "summary": "Open when looking up id in InDesign.", "keywords": ["id"]},
+  {"topic": "index", "file": "document-model/rule-data-object/index.md", "summary": "Open when looking up index in InDesign.", "keywords": ["index"]},
+  {"topic": "isValid", "file": "document-model/rule-data-object/is-valid.md", "summary": "Open when looking up isValid in InDesign.", "keywords": ["isValid"]},
+  {"topic": "name", "file": "document-model/rule-data-object/name.md", "summary": "Open when looking up name in InDesign.", "keywords": ["name"]},
+  {"topic": "parent", "file": "document-model/rule-data-object/parent.md", "summary": "Open when looking up parent in InDesign.", "keywords": ["parent"]},
+  {"topic": "properties", "file": "document-model/rule-data-object/properties.md", "summary": "Open when looking up properties in InDesign.", "keywords": ["properties"]},
+  {"topic": "remove", "file": "document-model/rule-data-object/remove.md", "summary": "Open when looking up remove in InDesign.", "keywords": ["remove"]},
+  {"topic": "removeEventListener", "file": "document-model/rule-data-object/remove-event-listener.md", "summary": "Open when looking up removeEventListener in InDesign.", "keywords": ["removeEventListener"]},
+  {"topic": "toSource", "file": "document-model/rule-data-object/to-source.md", "summary": "Open when looking up toSource in InDesign.", "keywords": ["toSource"]},
+  {"topic": "toSpecifier", "file": "document-model/rule-data-object/to-specifier.md", "summary": "Open when looking up toSpecifier in InDesign.", "keywords": ["toSpecifier"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

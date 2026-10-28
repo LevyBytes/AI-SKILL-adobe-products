@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Top-Level (containing) Objects - Document", "file": "scripting/document/top-level-containing-objects-document.md", "summary": "Open when looking up Top-Level (containing) Objects - Document in Illustrator.", "keywords": ["Top-Level (containing) Objects - Document"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "CEP and ExtendScript integration references", "file": "cep/reference-index.md", "summary": "Open when looking up CEP and ExtendScript integration in Shared Adobe platform.", "keywords": ["CEP and ExtendScript integration references"]},
+  {"topic": "Community application declarations references", "file": "community-types/reference-index.md", "summary": "Open when looking up Community application declarations in Shared Adobe platform.", "keywords": ["Community application declarations references"]},
+  {"topic": "Scripting APIs references", "file": "scripting/reference-index.md", "summary": "Open when looking up Scripting APIs in Shared Adobe platform.", "keywords": ["Scripting APIs references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

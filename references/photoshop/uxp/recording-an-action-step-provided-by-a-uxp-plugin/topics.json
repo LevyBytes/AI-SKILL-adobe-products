@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Additional Notes", "file": "uxp/recording-an-action-step-provided-by-a-uxp-plugin/additional-notes.md", "summary": "Open when looking up Additional Notes in Photoshop.", "keywords": ["Additional Notes"]},
+  {"topic": "Errors", "file": "uxp/recording-an-action-step-provided-by-a-uxp-plugin/errors.md", "summary": "Open when looking up Errors in Photoshop.", "keywords": ["Errors"]},
+  {"topic": "Record Again", "file": "uxp/recording-an-action-step-provided-by-a-uxp-plugin/record-again.md", "summary": "Open when looking up Record Again in Photoshop.", "keywords": ["Record Again"]},
+  {"topic": "recordAction", "file": "uxp/recording-an-action-step-provided-by-a-uxp-plugin/record-action.md", "summary": "Open when looking up recordAction in Photoshop.", "keywords": ["recordAction"]},
+  {"topic": "Signature", "file": "uxp/recording-an-action-step-provided-by-a-uxp-plugin/signature.md", "summary": "Open when looking up Signature in Photoshop.", "keywords": ["Signature"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Document.afterBlendingIntent", "file": "community-types/indesign/document/after-blending-intent.md", "summary": "Open when looking up Document.afterBlendingIntent in Shared Adobe platform.", "keywords": ["Document.afterBlendingIntent"]},
+  {"topic": "Document.cmykPolicy", "file": "community-types/indesign/document/cmyk-policy.md", "summary": "Open when looking up Document.cmykPolicy in Shared Adobe platform.", "keywords": ["Document.cmykPolicy"]},
+  {"topic": "Document.cmykProfile", "file": "community-types/indesign/document/cmyk-profile.md", "summary": "Open when looking up Document.cmykProfile in Shared Adobe platform.", "keywords": ["Document.cmykProfile"]},
+  {"topic": "Document.cmykProfileList", "file": "community-types/indesign/document/cmyk-profile-list.md", "summary": "Open when looking up Document.cmykProfileList in Shared Adobe platform.", "keywords": ["Document.cmykProfileList"]},
+  {"topic": "Document.colorTransform", "file": "community-types/indesign/document/color-transform.md", "summary": "Open when looking up Document.colorTransform in Shared Adobe platform.", "keywords": ["Document.colorTransform"]},
+  {"topic": "Document.defaultImageIntent", "file": "community-types/indesign/document/default-image-intent.md", "summary": "Open when looking up Document.defaultImageIntent in Shared Adobe platform.", "keywords": ["Document.defaultImageIntent"]},
+  {"topic": "Document.rgbPolicy", "file": "community-types/indesign/document/rgb-policy.md", "summary": "Open when looking up Document.rgbPolicy in Shared Adobe platform.", "keywords": ["Document.rgbPolicy"]},
+  {"topic": "Document.rgbProfile", "file": "community-types/indesign/document/rgb-profile.md", "summary": "Open when looking up Document.rgbProfile in Shared Adobe platform.", "keywords": ["Document.rgbProfile"]},
+  {"topic": "Document.rgbProfileList", "file": "community-types/indesign/document/rgb-profile-list.md", "summary": "Open when looking up Document.rgbProfileList in Shared Adobe platform.", "keywords": ["Document.rgbProfileList"]},
+  {"topic": "Document.solidColorIntent", "file": "community-types/indesign/document/solid-color-intent.md", "summary": "Open when looking up Document.solidColorIntent in Shared Adobe platform.", "keywords": ["Document.solidColorIntent"]},
+  {"topic": "Document.transparencyPreferences", "file": "community-types/indesign/document/transparency-preferences.md", "summary": "Open when looking up Document.transparencyPreferences in Shared Adobe platform.", "keywords": ["Document.transparencyPreferences"]},
+  {"topic": "Document.trapPresets", "file": "community-types/indesign/document/trap-presets.md", "summary": "Open when looking up Document.trapPresets in Shared Adobe platform.", "keywords": ["Document.trapPresets"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

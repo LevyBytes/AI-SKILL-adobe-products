@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Libraries collection iteration", "file": "community-types/indesign/libraries/collection-iteration.md", "summary": "Open when looking up Libraries collection iteration in Shared Adobe platform.", "keywords": ["Libraries collection iteration"]},
+  {"topic": "Libraries declaration", "file": "community-types/indesign/libraries/declaration.md", "summary": "Open when looking up Libraries declaration in Shared Adobe platform.", "keywords": ["Libraries declaration"]},
+  {"topic": "Libraries named and indexed items", "file": "community-types/indesign/libraries/named-and-indexed-items.md", "summary": "Open when looking up Libraries named and indexed items in Shared Adobe platform.", "keywords": ["Libraries named and indexed items"]},
+  {"topic": "Libraries.add", "file": "community-types/indesign/libraries/add.md", "summary": "Open when looking up Libraries.add in Shared Adobe platform.", "keywords": ["Libraries.add"]},
+  {"topic": "Libraries.count", "file": "community-types/indesign/libraries/count.md", "summary": "Open when looking up Libraries.count in Shared Adobe platform.", "keywords": ["Libraries.count"]},
+  {"topic": "Libraries.IndexSignature", "file": "community-types/indesign/libraries/index-signature.md", "summary": "Open when looking up Libraries.IndexSignature in Shared Adobe platform.", "keywords": ["Libraries.IndexSignature"]},
+  {"topic": "Libraries.itemByRange", "file": "community-types/indesign/libraries/item-by-range.md", "summary": "Open when looking up Libraries.itemByRange in Shared Adobe platform.", "keywords": ["Libraries.itemByRange"]},
+  {"topic": "Libraries.length", "file": "community-types/indesign/libraries/length.md", "summary": "Open when looking up Libraries.length in Shared Adobe platform.", "keywords": ["Libraries.length"]},
+  {"topic": "Libraries.toSource", "file": "community-types/indesign/libraries/to-source.md", "summary": "Open when looking up Libraries.toSource in Shared Adobe platform.", "keywords": ["Libraries.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

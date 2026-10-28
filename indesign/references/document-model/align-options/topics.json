@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "BOTTOM_EDGES", "file": "references/document-model/align-options/bottomedges.md", "summary": "Open when looking up BOTTOM_EDGES in InDesign.", "keywords": ["BOTTOM_EDGES"]},
-  {"topic": "HORIZONTAL_CENTERS", "file": "references/document-model/align-options/horizontalcenters.md", "summary": "Open when looking up HORIZONTAL_CENTERS in InDesign.", "keywords": ["HORIZONTAL_CENTERS"]},
-  {"topic": "LEFT_EDGES", "file": "references/document-model/align-options/leftedges.md", "summary": "Open when looking up LEFT_EDGES in InDesign.", "keywords": ["LEFT_EDGES"]},
-  {"topic": "RIGHT_EDGES", "file": "references/document-model/align-options/rightedges.md", "summary": "Open when looking up RIGHT_EDGES in InDesign.", "keywords": ["RIGHT_EDGES"]},
-  {"topic": "TOP_EDGES", "file": "references/document-model/align-options/topedges.md", "summary": "Open when looking up TOP_EDGES in InDesign.", "keywords": ["TOP_EDGES"]},
-  {"topic": "VERTICAL_CENTERS", "file": "references/document-model/align-options/verticalcenters.md", "summary": "Open when looking up VERTICAL_CENTERS in InDesign.", "keywords": ["VERTICAL_CENTERS"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

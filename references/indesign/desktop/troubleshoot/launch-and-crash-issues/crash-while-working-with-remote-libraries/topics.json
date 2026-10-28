@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Corrupted local cache files disrupt access to network-stored libraries", "file": "desktop/troubleshoot/launch-and-crash-issues/crash-while-working-with-remote-libraries/remote-library-cache-corruption.md", "summary": "Open when looking up Corrupted local cache files disrupt access to network-stored libraries in InDesign.", "keywords": ["Corrupted local cache files disrupt access to network-stored libraries"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

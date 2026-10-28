@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Full TIFF request migration", "file": "cloud-services/output-types-migration/output-types-migration-guide-tiff-output-migration/full-tiff-request-migration.md", "summary": "Open when looking up Full TIFF request migration in Photoshop.", "keywords": ["Full TIFF request migration"]},
+  {"topic": "TIFF format changes", "file": "cloud-services/output-types-migration/output-types-migration-guide-tiff-output-migration/tiff-format-changes.md", "summary": "Open when looking up TIFF format changes in Photoshop.", "keywords": ["TIFF format changes"]},
+  {"topic": "V1 TIFF output", "file": "cloud-services/output-types-migration/output-types-migration-guide-tiff-output-migration/v1-tiff-output.md", "summary": "Open when looking up V1 TIFF output in Photoshop.", "keywords": ["V1 TIFF output"]},
+  {"topic": "V2 TIFF output", "file": "cloud-services/output-types-migration/output-types-migration-guide-tiff-output-migration/v2-tiff-output.md", "summary": "Open when looking up V2 TIFF output in Photoshop.", "keywords": ["V2 TIFF output"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

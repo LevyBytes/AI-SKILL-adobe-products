@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Best practices for creating passwords", "file": "desktop/digital-id-protection/best-practices-for-creating-passwords.md", "summary": "Open when looking up Best practices for creating passwords in Acrobat.", "keywords": ["Best practices for creating passwords"]},
+  {"topic": "Learn about adding security to your digital IDs in Adobe Acrobat.", "file": "desktop/digital-id-protection/digital-id-security.md", "summary": "Open when looking up Learn about adding security to your digital IDs in Adobe Acrobat. in Acrobat.", "keywords": ["Learn about adding security to your digital IDs in Adobe Acrobat."]},
+  {"topic": "Lost or stolen digital IDs", "file": "desktop/digital-id-protection/lost-or-stolen-digital-ids.md", "summary": "Open when looking up Lost or stolen digital IDs in Acrobat.", "keywords": ["Lost or stolen digital IDs"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

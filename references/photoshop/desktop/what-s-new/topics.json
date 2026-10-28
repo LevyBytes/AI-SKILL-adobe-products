@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "List of technology preview features", "file": "desktop/what-s-new/list-of-technology-preview-features.md", "summary": "Open when looking up List of technology preview features in Photoshop.", "keywords": ["List of technology preview features"]},
+  {"topic": "Overview of Adobe Photoshop (beta) on desktop", "file": "desktop/what-s-new/overview-of-adobe-photoshop-beta-on-desktop.md", "summary": "Open when looking up Overview of Adobe Photoshop (beta) on desktop in Photoshop.", "keywords": ["Overview of Adobe Photoshop (beta) on desktop"]},
+  {"topic": "Overview of Adobe Photoshop (beta) on desktop references", "file": "desktop/what-s-new/overview-of-adobe-photoshop-beta-on-desktop/reference-index.md", "summary": "Open when looking up Overview of Adobe Photoshop (beta) on desktop in Photoshop.", "keywords": ["Overview of Adobe Photoshop (beta) on desktop references"]},
+  {"topic": "Use technology previews", "file": "desktop/what-s-new/use-technology-previews.md", "summary": "Open when looking up Use technology previews in Photoshop.", "keywords": ["Use technology previews"]},
+  {"topic": "What's new", "file": "desktop/what-s-new/what-s-new.md", "summary": "Open when looking up What's new in Photoshop.", "keywords": ["What's new"]},
+  {"topic": "What’s new in Adobe Photoshop (beta) on desktop", "file": "desktop/what-s-new/what-s-new-in-adobe-photoshop-beta-on-desktop.md", "summary": "Open when looking up What’s new in Adobe Photoshop (beta) on desktop in Photoshop.", "keywords": ["What’s new in Adobe Photoshop (beta) on desktop"]},
+  {"topic": "What’s new in Adobe Photoshop on desktop", "file": "desktop/what-s-new/what-s-new-in-adobe-photoshop-on-desktop.md", "summary": "Open when looking up What’s new in Adobe Photoshop on desktop in Photoshop.", "keywords": ["What’s new in Adobe Photoshop on desktop"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

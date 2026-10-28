@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/audition", "topics": [
+  {"topic": "Import and playback references", "file": "desktop/audio-files/import-and-playback/reference-index.md", "summary": "Open when looking up Import and playback in Audition.", "keywords": ["Import and playback references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Creating a path from straight lines", "file": "scripting/path-item-example/creating-a-path-from-straight-lines.md", "summary": "Open when looking up Creating a path from straight lines in Illustrator.", "keywords": ["Creating a path from straight lines"]},
+  {"topic": "Swatch color assignment sample", "file": "scripting/path-item-example/swatch-color-assignment-sample.md", "summary": "Open when looking up Swatch color assignment sample in Illustrator.", "keywords": ["Swatch color assignment sample"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "CHANGE_BACKGROUND_USES_CHANGE_PREF_COLOR", "file": "document-model/change-background-color-choices/changebackgrounduseschangeprefcolor.md", "summary": "Open when looking up CHANGE_BACKGROUND_USES_CHANGE_PREF_COLOR in InDesign.", "keywords": ["CHANGE_BACKGROUND_USES_CHANGE_PREF_COLOR"]},
+  {"topic": "CHANGE_BACKGROUND_USES_GALLEY_BACKGROUND_COLOR", "file": "document-model/change-background-color-choices/changebackgroundusesgalleybackgroundcolor.md", "summary": "Open when looking up CHANGE_BACKGROUND_USES_GALLEY_BACKGROUND_COLOR in InDesign.", "keywords": ["CHANGE_BACKGROUND_USES_GALLEY_BACKGROUND_COLOR"]},
+  {"topic": "CHANGE_BACKGROUND_USES_USER_COLOR", "file": "document-model/change-background-color-choices/changebackgroundusesusercolor.md", "summary": "Open when looking up CHANGE_BACKGROUND_USES_USER_COLOR in InDesign.", "keywords": ["CHANGE_BACKGROUND_USES_USER_COLOR"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

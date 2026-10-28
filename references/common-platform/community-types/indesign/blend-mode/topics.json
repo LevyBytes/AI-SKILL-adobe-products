@@ -1,0 +1,20 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "BlendMode declaration", "file": "community-types/indesign/blend-mode/declaration.md", "summary": "Open when looking up BlendMode declaration in Shared Adobe platform.", "keywords": ["BlendMode declaration"]},
+  {"topic": "BlendMode.COLOR", "file": "community-types/indesign/blend-mode/color.md", "summary": "Open when looking up BlendMode.COLOR in Shared Adobe platform.", "keywords": ["BlendMode.COLOR"]},
+  {"topic": "BlendMode.COLOR_BURN", "file": "community-types/indesign/blend-mode/colorburn.md", "summary": "Open when looking up BlendMode.COLOR_BURN in Shared Adobe platform.", "keywords": ["BlendMode.COLOR_BURN"]},
+  {"topic": "BlendMode.COLOR_DODGE", "file": "community-types/indesign/blend-mode/colordodge.md", "summary": "Open when looking up BlendMode.COLOR_DODGE in Shared Adobe platform.", "keywords": ["BlendMode.COLOR_DODGE"]},
+  {"topic": "BlendMode.DARKEN", "file": "community-types/indesign/blend-mode/darken.md", "summary": "Open when looking up BlendMode.DARKEN in Shared Adobe platform.", "keywords": ["BlendMode.DARKEN"]},
+  {"topic": "BlendMode.DIFFERENCE", "file": "community-types/indesign/blend-mode/difference.md", "summary": "Open when looking up BlendMode.DIFFERENCE in Shared Adobe platform.", "keywords": ["BlendMode.DIFFERENCE"]},
+  {"topic": "BlendMode.EXCLUSION", "file": "community-types/indesign/blend-mode/exclusion.md", "summary": "Open when looking up BlendMode.EXCLUSION in Shared Adobe platform.", "keywords": ["BlendMode.EXCLUSION"]},
+  {"topic": "BlendMode.HARD_LIGHT", "file": "community-types/indesign/blend-mode/hardlight.md", "summary": "Open when looking up BlendMode.HARD_LIGHT in Shared Adobe platform.", "keywords": ["BlendMode.HARD_LIGHT"]},
+  {"topic": "BlendMode.HUE", "file": "community-types/indesign/blend-mode/hue.md", "summary": "Open when looking up BlendMode.HUE in Shared Adobe platform.", "keywords": ["BlendMode.HUE"]},
+  {"topic": "BlendMode.LIGHTEN", "file": "community-types/indesign/blend-mode/lighten.md", "summary": "Open when looking up BlendMode.LIGHTEN in Shared Adobe platform.", "keywords": ["BlendMode.LIGHTEN"]},
+  {"topic": "BlendMode.LUMINOSITY", "file": "community-types/indesign/blend-mode/luminosity.md", "summary": "Open when looking up BlendMode.LUMINOSITY in Shared Adobe platform.", "keywords": ["BlendMode.LUMINOSITY"]},
+  {"topic": "BlendMode.MULTIPLY", "file": "community-types/indesign/blend-mode/multiply.md", "summary": "Open when looking up BlendMode.MULTIPLY in Shared Adobe platform.", "keywords": ["BlendMode.MULTIPLY"]},
+  {"topic": "BlendMode.NORMAL", "file": "community-types/indesign/blend-mode/normal.md", "summary": "Open when looking up BlendMode.NORMAL in Shared Adobe platform.", "keywords": ["BlendMode.NORMAL"]},
+  {"topic": "BlendMode.OVERLAY", "file": "community-types/indesign/blend-mode/overlay.md", "summary": "Open when looking up BlendMode.OVERLAY in Shared Adobe platform.", "keywords": ["BlendMode.OVERLAY"]},
+  {"topic": "BlendMode.SATURATION", "file": "community-types/indesign/blend-mode/saturation.md", "summary": "Open when looking up BlendMode.SATURATION in Shared Adobe platform.", "keywords": ["BlendMode.SATURATION"]},
+  {"topic": "BlendMode.SCREEN", "file": "community-types/indesign/blend-mode/screen.md", "summary": "Open when looking up BlendMode.SCREEN in Shared Adobe platform.", "keywords": ["BlendMode.SCREEN"]},
+  {"topic": "BlendMode.SOFT_LIGHT", "file": "community-types/indesign/blend-mode/softlight.md", "summary": "Open when looking up BlendMode.SOFT_LIGHT in Shared Adobe platform.", "keywords": ["BlendMode.SOFT_LIGHT"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

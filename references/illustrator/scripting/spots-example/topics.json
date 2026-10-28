@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Build and apply a spot", "file": "scripting/spots-example/build-and-apply-a-spot.md", "summary": "Open when looking up Build and apply a spot in Illustrator.", "keywords": ["Build and apply a spot"]},
+  {"topic": "Remove spot entries", "file": "scripting/spots-example/remove-spot-entries.md", "summary": "Open when looking up Remove spot entries in Illustrator.", "keywords": ["Remove spot entries"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

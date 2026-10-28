@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "PrintPaperOptions.height", "file": "scripting/print-paper-options/height.md", "summary": "Open when looking up PrintPaperOptions.height in Illustrator.", "keywords": ["PrintPaperOptions.height"]},
+  {"topic": "PrintPaperOptions.name", "file": "scripting/print-paper-options/name.md", "summary": "Open when looking up PrintPaperOptions.name in Illustrator.", "keywords": ["PrintPaperOptions.name"]},
+  {"topic": "PrintPaperOptions.offset", "file": "scripting/print-paper-options/offset.md", "summary": "Open when looking up PrintPaperOptions.offset in Illustrator.", "keywords": ["PrintPaperOptions.offset"]},
+  {"topic": "PrintPaperOptions.transverse", "file": "scripting/print-paper-options/transverse.md", "summary": "Open when looking up PrintPaperOptions.transverse in Illustrator.", "keywords": ["PrintPaperOptions.transverse"]},
+  {"topic": "PrintPaperOptions.typename", "file": "scripting/print-paper-options/typename.md", "summary": "Open when looking up PrintPaperOptions.typename in Illustrator.", "keywords": ["PrintPaperOptions.typename"]},
+  {"topic": "PrintPaperOptions.width", "file": "scripting/print-paper-options/width.md", "summary": "Open when looking up PrintPaperOptions.width in Illustrator.", "keywords": ["PrintPaperOptions.width"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

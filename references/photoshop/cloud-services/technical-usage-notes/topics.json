@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "About retries", "file": "cloud-services/technical-usage-notes/about-retries.md", "summary": "Open when looking up About retries in Photoshop.", "keywords": ["About retries"]},
+  {"topic": "Compatibility with Photoshop versions", "file": "cloud-services/technical-usage-notes/compatibility-with-photoshop-versions.md", "summary": "Open when looking up Compatibility with Photoshop versions in Photoshop.", "keywords": ["Compatibility with Photoshop versions"]},
+  {"topic": "General service limits", "file": "cloud-services/technical-usage-notes/general-service-limits.md", "summary": "Open when looking up General service limits in Photoshop.", "keywords": ["General service limits"]},
+  {"topic": "Known limitations", "file": "cloud-services/technical-usage-notes/known-limitations.md", "summary": "Open when looking up Known limitations in Photoshop.", "keywords": ["Known limitations"]},
+  {"topic": "Masking service limits", "file": "cloud-services/technical-usage-notes/masking-service-limits.md", "summary": "Open when looking up Masking service limits in Photoshop.", "keywords": ["Masking service limits"]},
+  {"topic": "Photoshop API supported fonts", "file": "cloud-services/technical-usage-notes/photoshop-api-supported-fonts.md", "summary": "Open when looking up Photoshop API supported fonts in Photoshop.", "keywords": ["Photoshop API supported fonts"]},
+  {"topic": "Rate limits", "file": "cloud-services/technical-usage-notes/rate-limits.md", "summary": "Open when looking up Rate limits in Photoshop.", "keywords": ["Rate limits"]},
+  {"topic": "Remove background service limits", "file": "cloud-services/technical-usage-notes/remove-background-service-limits.md", "summary": "Open when looking up Remove background service limits in Photoshop.", "keywords": ["Remove background service limits"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

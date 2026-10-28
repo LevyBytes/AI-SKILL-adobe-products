@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Customizing the HUDs", "file": "desktop/correct-color/color-mode-fundamentals/understanding-heads-up-displays-huds/customizing-the-huds.md", "summary": "Open when looking up Customizing the HUDs in Premiere Pro.", "keywords": ["Customizing the HUDs"]},
+  {"topic": "How to read HUDs", "file": "desktop/correct-color/color-mode-fundamentals/understanding-heads-up-displays-huds/how-to-read-huds.md", "summary": "Open when looking up How to read HUDs in Premiere Pro.", "keywords": ["How to read HUDs"]},
+  {"topic": "Individual customization", "file": "desktop/correct-color/color-mode-fundamentals/understanding-heads-up-displays-huds/individual-customization.md", "summary": "Open when looking up Individual customization in Premiere Pro.", "keywords": ["Individual customization"]},
+  {"topic": "Preferences", "file": "desktop/correct-color/color-mode-fundamentals/understanding-heads-up-displays-huds/preferences.md", "summary": "Open when looking up Preferences in Premiere Pro.", "keywords": ["Preferences"]},
+  {"topic": "Using the HUDs", "file": "desktop/correct-color/color-mode-fundamentals/understanding-heads-up-displays-huds/using-the-huds.md", "summary": "Open when looking up Using the HUDs in Premiere Pro.", "keywords": ["Using the HUDs"]},
+  {"topic": "What are Heads Up Displays (HUDs)?", "file": "desktop/correct-color/color-mode-fundamentals/understanding-heads-up-displays-huds/what-are-heads-up-displays-huds.md", "summary": "Open when looking up What are Heads Up Displays (HUDs)? in Premiere Pro.", "keywords": ["What are Heads Up Displays (HUDs)?"]},
+  {"topic": "When HUDs get in the way", "file": "desktop/correct-color/color-mode-fundamentals/understanding-heads-up-displays-huds/when-huds-get-in-the-way.md", "summary": "Open when looking up When HUDs get in the way in Premiere Pro.", "keywords": ["When HUDs get in the way"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

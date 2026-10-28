@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "begin_sampling", "file": "plugin-sdk/pf-batch-sampling-suite1-functions/beginsampling.md", "summary": "Open when looking up begin_sampling in After Effects.", "keywords": ["begin_sampling"]},
+  {"topic": "end_sampling", "file": "plugin-sdk/pf-batch-sampling-suite1-functions/endsampling.md", "summary": "Open when looking up end_sampling in After Effects.", "keywords": ["end_sampling"]},
+  {"topic": "get_batch_func", "file": "plugin-sdk/pf-batch-sampling-suite1-functions/getbatchfunc.md", "summary": "Open when looking up get_batch_func in After Effects.", "keywords": ["get_batch_func"]},
+  {"topic": "get_batch_func16", "file": "plugin-sdk/pf-batch-sampling-suite1-functions/getbatchfunc16.md", "summary": "Open when looking up get_batch_func16 in After Effects.", "keywords": ["get_batch_func16"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

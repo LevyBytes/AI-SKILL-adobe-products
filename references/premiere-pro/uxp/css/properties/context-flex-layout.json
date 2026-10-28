@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "align-content", "file": "uxp/css/properties/align-content.md", "summary": "Open when looking up align-content in Premiere Pro.", "keywords": ["align-content"]},
+  {"topic": "align-items", "file": "uxp/css/properties/align-items.md", "summary": "Open when looking up align-items in Premiere Pro.", "keywords": ["align-items"]},
+  {"topic": "align-self", "file": "uxp/css/properties/align-self.md", "summary": "Open when looking up align-self in Premiere Pro.", "keywords": ["align-self"]},
+  {"topic": "flex", "file": "uxp/css/properties/flex.md", "summary": "Open when looking up flex in Premiere Pro.", "keywords": ["flex"]},
+  {"topic": "flex-basis", "file": "uxp/css/properties/flex-basis.md", "summary": "Open when looking up flex-basis in Premiere Pro.", "keywords": ["flex-basis"]},
+  {"topic": "flex-direction", "file": "uxp/css/properties/flex-direction.md", "summary": "Open when looking up flex-direction in Premiere Pro.", "keywords": ["flex-direction"]},
+  {"topic": "flex-grow", "file": "uxp/css/properties/flex-grow.md", "summary": "Open when looking up flex-grow in Premiere Pro.", "keywords": ["flex-grow"]},
+  {"topic": "flex-shrink", "file": "uxp/css/properties/flex-shrink.md", "summary": "Open when looking up flex-shrink in Premiere Pro.", "keywords": ["flex-shrink"]},
+  {"topic": "flex-wrap", "file": "uxp/css/properties/flex-wrap.md", "summary": "Open when looking up flex-wrap in Premiere Pro.", "keywords": ["flex-wrap"]},
+  {"topic": "justify-content", "file": "uxp/css/properties/justify-content.md", "summary": "Open when looking up justify-content in Premiere Pro.", "keywords": ["justify-content"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

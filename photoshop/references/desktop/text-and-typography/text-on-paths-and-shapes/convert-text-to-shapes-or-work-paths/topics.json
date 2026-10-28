@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Convert text to shapes", "file": "references/desktop/text-and-typography/text-on-paths-and-shapes/convert-text-to-shapes-or-work-paths/convert-text-to-shapes.md", "summary": "Open when looking up Convert text to shapes in Photoshop.", "keywords": ["Convert text to shapes"]},
-  {"topic": "Convert text to work paths", "file": "references/desktop/text-and-typography/text-on-paths-and-shapes/convert-text-to-shapes-or-work-paths/convert-text-to-work-paths.md", "summary": "Open when looking up Convert text to work paths in Photoshop.", "keywords": ["Convert text to work paths"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

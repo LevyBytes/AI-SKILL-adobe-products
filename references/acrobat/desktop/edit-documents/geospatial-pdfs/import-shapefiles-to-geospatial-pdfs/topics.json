@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Import the shapefile as a layer", "file": "desktop/edit-documents/geospatial-pdfs/import-shapefiles-to-geospatial-pdfs/import-the-shapefile-as-a-layer.md", "summary": "Open when looking up Import the shapefile as a layer in Acrobat.", "keywords": ["Import the shapefile as a layer"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

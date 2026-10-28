@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Place a movie or sound file from a disk", "file": "desktop/graphics-and-media/movies-and-sound/add-movie-and-sound-files/place-a-movie-or-sound-file-from-a-disk.md", "summary": "Open when looking up Place a movie or sound file from a disk in InDesign.", "keywords": ["Place a movie or sound file from a disk"]},
+  {"topic": "Place a video from a URL", "file": "desktop/graphics-and-media/movies-and-sound/add-movie-and-sound-files/place-a-video-from-a-url.md", "summary": "Open when looking up Place a video from a URL in InDesign.", "keywords": ["Place a video from a URL"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "ColorConversion", "file": "community-types/illustrator/color-conversion.md", "summary": "Open when looking up ColorConversion in Shared Adobe platform.", "keywords": ["ColorConversion"]},
+  {"topic": "ColorConvertPurpose", "file": "community-types/illustrator/color-convert-purpose.md", "summary": "Open when looking up ColorConvertPurpose in Shared Adobe platform.", "keywords": ["ColorConvertPurpose"]},
+  {"topic": "ColorDestination", "file": "community-types/illustrator/color-destination.md", "summary": "Open when looking up ColorDestination in Shared Adobe platform.", "keywords": ["ColorDestination"]},
+  {"topic": "ColorProfile", "file": "community-types/illustrator/color-profile.md", "summary": "Open when looking up ColorProfile in Shared Adobe platform.", "keywords": ["ColorProfile"]},
+  {"topic": "ColorDitherMethod", "file": "community-types/illustrator/color-dither-method.md", "summary": "Open when looking up ColorDitherMethod in Shared Adobe platform.", "keywords": ["ColorDitherMethod"]},
+  {"topic": "ColorReductionMethod", "file": "community-types/illustrator/color-reduction-method.md", "summary": "Open when looking up ColorReductionMethod in Shared Adobe platform.", "keywords": ["ColorReductionMethod"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

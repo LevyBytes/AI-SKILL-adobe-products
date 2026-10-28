@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "CENTER_ALIGNMENT", "file": "references/document-model/stroke-alignment/centeralignment.md", "summary": "Open when looking up CENTER_ALIGNMENT in InDesign.", "keywords": ["CENTER_ALIGNMENT"]},
-  {"topic": "INSIDE_ALIGNMENT", "file": "references/document-model/stroke-alignment/insidealignment.md", "summary": "Open when looking up INSIDE_ALIGNMENT in InDesign.", "keywords": ["INSIDE_ALIGNMENT"]},
-  {"topic": "OUTSIDE_ALIGNMENT", "file": "references/document-model/stroke-alignment/outsidealignment.md", "summary": "Open when looking up OUTSIDE_ALIGNMENT in InDesign.", "keywords": ["OUTSIDE_ALIGNMENT"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

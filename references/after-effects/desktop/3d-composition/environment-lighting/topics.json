@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Animated Environment Lights", "file": "desktop/3d-composition/environment-lighting/animated-environment-lights.md", "summary": "Open when looking up Animated Environment Lights in After Effects.", "keywords": ["Animated Environment Lights"]},
+  {"topic": "Animated Environment Lights references", "file": "desktop/3d-composition/environment-lighting/animated-environment-lights/reference-index.md", "summary": "Open when looking up Animated Environment Lights in After Effects.", "keywords": ["Animated Environment Lights references"]},
+  {"topic": "Create realistic reflections and ambient lighting in a 3D scene", "file": "desktop/3d-composition/environment-lighting/image-based-lighting.md", "summary": "Open when looking up Create realistic reflections and ambient lighting in a 3D scene in After Effects.", "keywords": ["Create realistic reflections and ambient lighting in a 3D scene"]},
+  {"topic": "Create realistic reflections and ambient lighting in a 3D scene references", "file": "desktop/3d-composition/environment-lighting/image-lighting-guide.md", "summary": "Open when looking up Create realistic reflections and ambient lighting in a 3D scene in After Effects.", "keywords": ["Create realistic reflections and ambient lighting in a 3D scene references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

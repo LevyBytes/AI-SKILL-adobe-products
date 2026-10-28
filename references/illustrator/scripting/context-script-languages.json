@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Apple script references", "file": "scripting/apple-script/reference-index.md", "summary": "Open when looking up Apple script in Illustrator.", "keywords": ["Apple script references"]},
+  {"topic": "Java script development options references", "file": "scripting/java-script-development-options/reference-index.md", "summary": "Open when looking up Java script development options in Illustrator.", "keywords": ["Java script development options references"]},
+  {"topic": "Java script references", "file": "scripting/java-script/reference-index.md", "summary": "Open when looking up Java script in Illustrator.", "keywords": ["Java script references"]},
+  {"topic": "JavaScript Object Reference", "file": "scripting/java-script-object-reference.md", "summary": "Open when looking up JavaScript Object Reference in Illustrator.", "keywords": ["JavaScript Object Reference"]},
+  {"topic": "Vb script references", "file": "scripting/vb-script/reference-index.md", "summary": "Open when looking up Vb script in Illustrator.", "keywords": ["Vb script references"]},
+  {"topic": "Executing Scripts", "file": "scripting/executing-scripts.md", "summary": "Open when looking up Executing Scripts in Illustrator.", "keywords": ["Executing Scripts"]},
+  {"topic": "Executing scripts from the other scripts menu item references", "file": "scripting/executing-scripts-from-the-other-scripts-menu-item/reference-index.md", "summary": "Open when looking up Executing scripts from the other scripts menu item in Illustrator.", "keywords": ["Executing scripts from the other scripts menu item references"]},
+  {"topic": "Installing scripts in the scripts menu references", "file": "scripting/installing-scripts-in-the-scripts-menu/reference-index.md", "summary": "Open when looking up Installing scripts in the scripts menu in Illustrator.", "keywords": ["Installing scripts in the scripts menu references"]},
+  {"topic": "Script file extensions references", "file": "scripting/script-file-extensions/reference-index.md", "summary": "Open when looking up Script file extensions in Illustrator.", "keywords": ["Script file extensions references"]},
+  {"topic": "Startup scripts jsx scripts only references", "file": "scripting/startup-scripts-jsx-scripts-only/reference-index.md", "summary": "Open when looking up Startup scripts jsx scripts only in Illustrator.", "keywords": ["Startup scripts jsx scripts only references"]},
+  {"topic": "What about actions references", "file": "scripting/what-about-actions/reference-index.md", "summary": "Open when looking up What about actions in Illustrator.", "keywords": ["What about actions references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

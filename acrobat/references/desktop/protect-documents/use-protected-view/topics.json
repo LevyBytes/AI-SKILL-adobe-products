@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Bypass protected view restrictions", "file": "references/desktop/protect-documents/use-protected-view/bypass-protected-view-restrictions.md", "summary": "Open when looking up Bypass protected view restrictions in Acrobat.", "keywords": ["Bypass protected view restrictions"]},
-  {"topic": "Protected View and Protected Mode overview", "file": "references/desktop/protect-documents/use-protected-view/protected-view-and-protected-mode-overview.md", "summary": "Open when looking up Protected View and Protected Mode overview in Acrobat.", "keywords": ["Protected View and Protected Mode overview"]},
-  {"topic": "Protected View and Protected Mode overview references", "file": "references/desktop/protect-documents/use-protected-view/protected-view-and-protected-mode-overview/reference-index.md", "summary": "Open when looking up Protected View and Protected Mode overview in Acrobat.", "keywords": ["Protected View and Protected Mode overview references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

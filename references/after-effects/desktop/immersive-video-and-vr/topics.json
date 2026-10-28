@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Construct vr environments references", "file": "desktop/immersive-video-and-vr/construct-vr-environments/reference-index.md", "summary": "Open when looking up Construct vr environments in After Effects.", "keywords": ["Construct vr environments references"]},
+  {"topic": "Immersive video effects references", "file": "desktop/immersive-video-and-vr/immersive-effects/reference-index.md", "summary": "Open when looking up Immersive video effects in After Effects.", "keywords": ["Immersive video effects references"]},
+  {"topic": "Vr 360 and vr 180 videos references", "file": "desktop/immersive-video-and-vr/vr-360-and-vr-180-videos/reference-index.md", "summary": "Open when looking up Vr 360 and vr 180 videos in After Effects.", "keywords": ["Vr 360 and vr 180 videos references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

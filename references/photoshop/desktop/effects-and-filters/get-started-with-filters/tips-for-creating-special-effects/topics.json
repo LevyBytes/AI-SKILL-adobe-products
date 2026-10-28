@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Improve filter performance", "file": "desktop/effects-and-filters/get-started-with-filters/tips-for-creating-special-effects/improve-filter-performance.md", "summary": "Open when looking up Improve filter performance in Photoshop.", "keywords": ["Improve filter performance"]},
+  {"topic": "Tips for consistent results", "file": "desktop/effects-and-filters/get-started-with-filters/tips-for-creating-special-effects/tips-for-consistent-results.md", "summary": "Open when looking up Tips for consistent results in Photoshop.", "keywords": ["Tips for consistent results"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

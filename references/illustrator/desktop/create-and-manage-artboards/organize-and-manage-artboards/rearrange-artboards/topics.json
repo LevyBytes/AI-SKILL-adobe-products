@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Rearrange selected artboards", "file": "desktop/create-and-manage-artboards/organize-and-manage-artboards/rearrange-artboards/rearrange-selected-artboards.md", "summary": "Open when looking up Rearrange selected artboards in Illustrator.", "keywords": ["Rearrange selected artboards"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

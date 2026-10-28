@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "DEFAULT_SIZE", "file": "document-model/size-type-enum/defaultsize.md", "summary": "Open when looking up DEFAULT_SIZE in InDesign.", "keywords": ["DEFAULT_SIZE"]},
+  {"topic": "FIXED_SIZE", "file": "document-model/size-type-enum/fixedsize.md", "summary": "Open when looking up FIXED_SIZE in InDesign.", "keywords": ["FIXED_SIZE"]},
+  {"topic": "NONE_SIZE", "file": "document-model/size-type-enum/nonesize.md", "summary": "Open when looking up NONE_SIZE in InDesign.", "keywords": ["NONE_SIZE"]},
+  {"topic": "RELATIVE_TO_TEXT_FLOW", "file": "document-model/size-type-enum/relativetotextflow.md", "summary": "Open when looking up RELATIVE_TO_TEXT_FLOW in InDesign.", "keywords": ["RELATIVE_TO_TEXT_FLOW"]},
+  {"topic": "RELATIVE_TO_TEXT_SIZE", "file": "document-model/size-type-enum/relativetotextsize.md", "summary": "Open when looking up RELATIVE_TO_TEXT_SIZE in InDesign.", "keywords": ["RELATIVE_TO_TEXT_SIZE"]},
+  {"topic": "USE_CUSTOM_HEIGHT", "file": "document-model/size-type-enum/usecustomheight.md", "summary": "Open when looking up USE_CUSTOM_HEIGHT in InDesign.", "keywords": ["USE_CUSTOM_HEIGHT"]},
+  {"topic": "USE_CUSTOM_WIDTH", "file": "document-model/size-type-enum/usecustomwidth.md", "summary": "Open when looking up USE_CUSTOM_WIDTH in InDesign.", "keywords": ["USE_CUSTOM_WIDTH"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

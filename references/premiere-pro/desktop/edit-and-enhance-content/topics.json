@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Access more assets", "file": "desktop/edit-and-enhance-content/access-more-assets.md", "summary": "Open when looking up Access more assets in Premiere Pro.", "keywords": ["Access more assets"]},
+  {"topic": "Broadcast editing practices for efficient creative work in Adobe Premiere", "file": "desktop/edit-and-enhance-content/broadcast-editing-practices.md", "summary": "Open when looking up Broadcast editing practices for efficient creative work in Adobe Premiere in Premiere Pro.", "keywords": ["Broadcast editing practices for efficient creative work in Adobe Premiere"]},
+  {"topic": "Find your media", "file": "desktop/edit-and-enhance-content/find-your-media.md", "summary": "Open when looking up Find your media in Premiere Pro.", "keywords": ["Find your media"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

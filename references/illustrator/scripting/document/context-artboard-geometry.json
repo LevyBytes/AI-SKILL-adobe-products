@@ -1,0 +1,16 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Document.artboards", "file": "scripting/document/artboards.md", "summary": "Open when looking up Document.artboards in Illustrator.", "keywords": ["Document.artboards"]},
+  {"topic": "Document.convertCoordinate()", "file": "scripting/document/convert-coordinate.md", "summary": "Open when looking up Document.convertCoordinate() in Illustrator.", "keywords": ["Document.convertCoordinate()"]},
+  {"topic": "Document.cropBox", "file": "scripting/document/crop-box.md", "summary": "Open when looking up Document.cropBox in Illustrator.", "keywords": ["Document.cropBox"]},
+  {"topic": "Document.cropStyle", "file": "scripting/document/crop-style.md", "summary": "Open when looking up Document.cropStyle in Illustrator.", "keywords": ["Document.cropStyle"]},
+  {"topic": "Document.fitArtboardToSelectedArt()", "file": "scripting/document/fit-artboard-to-selected-art.md", "summary": "Open when looking up Document.fitArtboardToSelectedArt() in Illustrator.", "keywords": ["Document.fitArtboardToSelectedArt()"]},
+  {"topic": "Document.geometricBounds", "file": "scripting/document/geometric-bounds.md", "summary": "Open when looking up Document.geometricBounds in Illustrator.", "keywords": ["Document.geometricBounds"]},
+  {"topic": "Document.height", "file": "scripting/document/height.md", "summary": "Open when looking up Document.height in Illustrator.", "keywords": ["Document.height"]},
+  {"topic": "Document.pageOrigin", "file": "scripting/document/page-origin.md", "summary": "Open when looking up Document.pageOrigin in Illustrator.", "keywords": ["Document.pageOrigin"]},
+  {"topic": "Document.rearrangeArboards()", "file": "scripting/document/rearrange-arboards.md", "summary": "Open when looking up Document.rearrangeArboards() in Illustrator.", "keywords": ["Document.rearrangeArboards()"]},
+  {"topic": "Document.rulerOrigin", "file": "scripting/document/ruler-origin.md", "summary": "Open when looking up Document.rulerOrigin in Illustrator.", "keywords": ["Document.rulerOrigin"]},
+  {"topic": "Document.rulerUnits", "file": "scripting/document/ruler-units.md", "summary": "Open when looking up Document.rulerUnits in Illustrator.", "keywords": ["Document.rulerUnits"]},
+  {"topic": "Document.visibleBounds", "file": "scripting/document/visible-bounds.md", "summary": "Open when looking up Document.visibleBounds in Illustrator.", "keywords": ["Document.visibleBounds"]},
+  {"topic": "Document.width", "file": "scripting/document/width.md", "summary": "Open when looking up Document.width in Illustrator.", "keywords": ["Document.width"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

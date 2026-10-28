@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "AutoSizingReferenceEnum", "file": "community-types/indesign/auto-sizing-reference-enum.md", "summary": "Open when looking up AutoSizingReferenceEnum in Shared Adobe platform.", "keywords": ["AutoSizingReferenceEnum"]},
+  {"topic": "AutoSizingTypeEnum", "file": "community-types/indesign/auto-sizing-type-enum.md", "summary": "Open when looking up AutoSizingTypeEnum in Shared Adobe platform.", "keywords": ["AutoSizingTypeEnum"]},
+  {"topic": "FirstBaseline", "file": "community-types/indesign/first-baseline.md", "summary": "Open when looking up FirstBaseline in Shared Adobe platform.", "keywords": ["FirstBaseline"]},
+  {"topic": "TextFrame references", "file": "community-types/indesign/text-frame/reference-index.md", "summary": "Open when looking up TextFrame in Shared Adobe platform.", "keywords": ["TextFrame references"]},
+  {"topic": "TextFrameContents", "file": "community-types/indesign/text-frame-contents.md", "summary": "Open when looking up TextFrameContents in Shared Adobe platform.", "keywords": ["TextFrameContents"]},
+  {"topic": "TextFramePreference references", "file": "community-types/indesign/text-frame-preference/reference-index.md", "summary": "Open when looking up TextFramePreference in Shared Adobe platform.", "keywords": ["TextFramePreference references"]},
+  {"topic": "TextFrames references", "file": "community-types/indesign/text-frames/reference-index.md", "summary": "Open when looking up TextFrames in Shared Adobe platform.", "keywords": ["TextFrames references"]},
+  {"topic": "TextWrapModes", "file": "community-types/indesign/text-wrap-modes.md", "summary": "Open when looking up TextWrapModes in Shared Adobe platform.", "keywords": ["TextWrapModes"]},
+  {"topic": "TextWrapPreference", "file": "community-types/indesign/text-wrap-preference.md", "summary": "Open when looking up TextWrapPreference in Shared Adobe platform.", "keywords": ["TextWrapPreference"]},
+  {"topic": "TextWrapSideOptions", "file": "community-types/indesign/text-wrap-side-options.md", "summary": "Open when looking up TextWrapSideOptions in Shared Adobe platform.", "keywords": ["TextWrapSideOptions"]},
+  {"topic": "ThreadedTextFrameTextOptions", "file": "community-types/indesign/threaded-text-frame-text-options.md", "summary": "Open when looking up ThreadedTextFrameTextOptions in Shared Adobe platform.", "keywords": ["ThreadedTextFrameTextOptions"]},
+  {"topic": "VerticalJustification", "file": "community-types/indesign/vertical-justification.md", "summary": "Open when looking up VerticalJustification in Shared Adobe platform.", "keywords": ["VerticalJustification"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

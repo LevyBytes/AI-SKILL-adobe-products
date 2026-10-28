@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "createImportTextSegmentsAction", "file": "uxp/host-api/transcript/static-methods/create-import-text-segments-action.md", "summary": "Open when looking up createImportTextSegmentsAction in Premiere Pro.", "keywords": ["createImportTextSegmentsAction"]},
+  {"topic": "exportToJSON", "file": "uxp/host-api/transcript/static-methods/export-to-json.md", "summary": "Open when looking up exportToJSON in Premiere Pro.", "keywords": ["exportToJSON"]},
+  {"topic": "importFromJSON", "file": "uxp/host-api/transcript/static-methods/import-from-json.md", "summary": "Open when looking up importFromJSON in Premiere Pro.", "keywords": ["importFromJSON"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

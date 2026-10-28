@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Run Sample", "file": "plugin-samples/tailwind-css-plugin-sample/run-sample.md", "summary": "Open when looking up Run Sample in Photoshop.", "keywords": ["Run Sample"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

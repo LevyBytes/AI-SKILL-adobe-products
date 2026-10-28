@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Replace missing Adobe fonts while activation is in progress", "file": "references/desktop/text-and-typography/select-and-manage-fonts/replace-missing-fonts/replace-missing-adobe-fonts-while-activation-is-in-progress.md", "summary": "Open when looking up Replace missing Adobe fonts while activation is in progress in Photoshop.", "keywords": ["Replace missing Adobe fonts while activation is in progress"]},
-  {"topic": "Replace missing non-Adobe fonts", "file": "references/desktop/text-and-typography/select-and-manage-fonts/replace-missing-fonts/replace-missing-non-adobe-fonts.md", "summary": "Open when looking up Replace missing non-Adobe fonts in Photoshop.", "keywords": ["Replace missing non-Adobe fonts"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

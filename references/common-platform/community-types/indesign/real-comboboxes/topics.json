@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "RealComboboxes collection iteration", "file": "community-types/indesign/real-comboboxes/collection-iteration.md", "summary": "Open when looking up RealComboboxes collection iteration in Shared Adobe platform.", "keywords": ["RealComboboxes collection iteration"]},
+  {"topic": "RealComboboxes declaration", "file": "community-types/indesign/real-comboboxes/declaration.md", "summary": "Open when looking up RealComboboxes declaration in Shared Adobe platform.", "keywords": ["RealComboboxes declaration"]},
+  {"topic": "RealComboboxes named and indexed items", "file": "community-types/indesign/real-comboboxes/named-and-indexed-items.md", "summary": "Open when looking up RealComboboxes named and indexed items in Shared Adobe platform.", "keywords": ["RealComboboxes named and indexed items"]},
+  {"topic": "RealComboboxes.add", "file": "community-types/indesign/real-comboboxes/add.md", "summary": "Open when looking up RealComboboxes.add in Shared Adobe platform.", "keywords": ["RealComboboxes.add"]},
+  {"topic": "RealComboboxes.count", "file": "community-types/indesign/real-comboboxes/count.md", "summary": "Open when looking up RealComboboxes.count in Shared Adobe platform.", "keywords": ["RealComboboxes.count"]},
+  {"topic": "RealComboboxes.IndexSignature", "file": "community-types/indesign/real-comboboxes/index-signature.md", "summary": "Open when looking up RealComboboxes.IndexSignature in Shared Adobe platform.", "keywords": ["RealComboboxes.IndexSignature"]},
+  {"topic": "RealComboboxes.itemByRange", "file": "community-types/indesign/real-comboboxes/item-by-range.md", "summary": "Open when looking up RealComboboxes.itemByRange in Shared Adobe platform.", "keywords": ["RealComboboxes.itemByRange"]},
+  {"topic": "RealComboboxes.length", "file": "community-types/indesign/real-comboboxes/length.md", "summary": "Open when looking up RealComboboxes.length in Shared Adobe platform.", "keywords": ["RealComboboxes.length"]},
+  {"topic": "RealComboboxes.toSource", "file": "community-types/indesign/real-comboboxes/to-source.md", "summary": "Open when looking up RealComboboxes.toSource in Shared Adobe platform.", "keywords": ["RealComboboxes.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

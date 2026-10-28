@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Edit and format text references", "file": "desktop/design-with-text/edit-and-format-text/reference-index.md", "summary": "Open when looking up Edit and format text in Illustrator.", "keywords": ["Edit and format text references"]},
+  {"topic": "Use special characters and glyphs references", "file": "desktop/design-with-text/glyphs-and-special-characters/reference-index.md", "summary": "Open when looking up Use special characters and glyphs in Illustrator.", "keywords": ["Use special characters and glyphs references"]},
+  {"topic": "Work with fonts and scripts references", "file": "desktop/design-with-text/work-with-fonts-and-scripts/reference-index.md", "summary": "Open when looking up Work with fonts and scripts in Illustrator.", "keywords": ["Work with fonts and scripts references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/media-encoder", "topics": [
+  {"topic": "Adobe Media Encoder (AME) Scripting API Reference (A-Z) - EncoderHostScriptObject", "file": "scripting/encoder-host-script-object/encoder-host-script-object.md", "summary": "Open when looking up Adobe Media Encoder (AME) Scripting API Reference (A-Z) - EncoderHostScriptObject in Media Encoder.", "keywords": ["Adobe Media Encoder (AME) Scripting API Reference (A-Z) - EncoderHostScriptObject"]},
+  {"topic": "Code Samples", "file": "scripting/encoder-host-script-object/code-samples.md", "summary": "Open when looking up Code Samples in Media Encoder.", "keywords": ["Code Samples"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

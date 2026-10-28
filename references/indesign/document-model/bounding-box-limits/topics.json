@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "GEOMETRIC_PATH_BOUNDS", "file": "document-model/bounding-box-limits/geometricpathbounds.md", "summary": "Open when looking up GEOMETRIC_PATH_BOUNDS in InDesign.", "keywords": ["GEOMETRIC_PATH_BOUNDS"]},
+  {"topic": "OUTER_STROKE_BOUNDS", "file": "document-model/bounding-box-limits/outerstrokebounds.md", "summary": "Open when looking up OUTER_STROKE_BOUNDS in InDesign.", "keywords": ["OUTER_STROKE_BOUNDS"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

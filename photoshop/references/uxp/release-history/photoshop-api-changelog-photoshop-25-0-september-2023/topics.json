@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Action Recording", "file": "references/uxp/release-history/photoshop-api-changelog-photoshop-25-0-september-2023/action-recording.md", "summary": "Open when looking up Action Recording in Photoshop.", "keywords": ["Action Recording"]},
-  {"topic": "batchPlay option: suppressProgressBar", "file": "references/uxp/release-history/photoshop-api-changelog-photoshop-25-0-september-2023/batch-play-option-suppress-progress-bar.md", "summary": "Open when looking up batchPlay option: suppressProgressBar in Photoshop.", "keywords": ["batchPlay option: suppressProgressBar"]},
-  {"topic": "Bug Fixes", "file": "references/uxp/release-history/photoshop-api-changelog-photoshop-25-0-september-2023/bug-fixes.md", "summary": "Open when looking up Bug Fixes in Photoshop.", "keywords": ["Bug Fixes"]},
-  {"topic": "Photoshop C++ SDK Access from UXP Hybrid Plugins", "file": "references/uxp/release-history/photoshop-api-changelog-photoshop-25-0-september-2023/photoshop-c-sdk-access-from-uxp-hybrid-plugins.md", "summary": "Open when looking up Photoshop C++ SDK Access from UXP Hybrid Plugins in Photoshop.", "keywords": ["Photoshop C++ SDK Access from UXP Hybrid Plugins"]},
-  {"topic": "Selection", "file": "references/uxp/release-history/photoshop-api-changelog-photoshop-25-0-september-2023/selection.md", "summary": "Open when looking up Selection in Photoshop.", "keywords": ["Selection"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

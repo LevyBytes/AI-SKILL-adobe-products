@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "PrintJobOptions.artboardRange", "file": "scripting/print-job-options/artboard-range.md", "summary": "Open when looking up PrintJobOptions.artboardRange in Illustrator.", "keywords": ["PrintJobOptions.artboardRange"]},
+  {"topic": "PrintJobOptions.bitmapResolution", "file": "scripting/print-job-options/bitmap-resolution.md", "summary": "Open when looking up PrintJobOptions.bitmapResolution in Illustrator.", "keywords": ["PrintJobOptions.bitmapResolution"]},
+  {"topic": "PrintJobOptions.collate", "file": "scripting/print-job-options/collate.md", "summary": "Open when looking up PrintJobOptions.collate in Illustrator.", "keywords": ["PrintJobOptions.collate"]},
+  {"topic": "PrintJobOptions.copies", "file": "scripting/print-job-options/copies.md", "summary": "Open when looking up PrintJobOptions.copies in Illustrator.", "keywords": ["PrintJobOptions.copies"]},
+  {"topic": "PrintJobOptions.designation", "file": "scripting/print-job-options/designation.md", "summary": "Open when looking up PrintJobOptions.designation in Illustrator.", "keywords": ["PrintJobOptions.designation"]},
+  {"topic": "PrintJobOptions.file", "file": "scripting/print-job-options/file.md", "summary": "Open when looking up PrintJobOptions.file in Illustrator.", "keywords": ["PrintJobOptions.file"]},
+  {"topic": "PrintJobOptions.name", "file": "scripting/print-job-options/name.md", "summary": "Open when looking up PrintJobOptions.name in Illustrator.", "keywords": ["PrintJobOptions.name"]},
+  {"topic": "PrintJobOptions.printAllArtboards", "file": "scripting/print-job-options/print-all-artboards.md", "summary": "Open when looking up PrintJobOptions.printAllArtboards in Illustrator.", "keywords": ["PrintJobOptions.printAllArtboards"]},
+  {"topic": "PrintJobOptions.printArea", "file": "scripting/print-job-options/print-area.md", "summary": "Open when looking up PrintJobOptions.printArea in Illustrator.", "keywords": ["PrintJobOptions.printArea"]},
+  {"topic": "PrintJobOptions.printAsBitmap", "file": "scripting/print-job-options/print-as-bitmap.md", "summary": "Open when looking up PrintJobOptions.printAsBitmap in Illustrator.", "keywords": ["PrintJobOptions.printAsBitmap"]},
+  {"topic": "PrintJobOptions.reversePages", "file": "scripting/print-job-options/reverse-pages.md", "summary": "Open when looking up PrintJobOptions.reversePages in Illustrator.", "keywords": ["PrintJobOptions.reversePages"]},
+  {"topic": "PrintJobOptions.typename", "file": "scripting/print-job-options/typename.md", "summary": "Open when looking up PrintJobOptions.typename in Illustrator.", "keywords": ["PrintJobOptions.typename"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

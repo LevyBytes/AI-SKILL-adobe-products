@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "AEGP_GetCamera", "file": "references/plugin-sdk/aegp-camera-suite2/aegp-get-camera.md", "summary": "Open when looking up AEGP_GetCamera in After Effects.", "keywords": ["AEGP_GetCamera"]},
-  {"topic": "AEGP_GetCameraFilmSize", "file": "references/plugin-sdk/aegp-camera-suite2/aegp-get-camera-film-size.md", "summary": "Open when looking up AEGP_GetCameraFilmSize in After Effects.", "keywords": ["AEGP_GetCameraFilmSize"]},
-  {"topic": "AEGP_GetCameraType", "file": "references/plugin-sdk/aegp-camera-suite2/aegp-get-camera-type.md", "summary": "Open when looking up AEGP_GetCameraType in After Effects.", "keywords": ["AEGP_GetCameraType"]},
-  {"topic": "AEGP_GetDefaultCameraDistanceToImagePlane", "file": "references/plugin-sdk/aegp-camera-suite2/aegp-get-default-camera-distance-to-image-plane.md", "summary": "Open when looking up AEGP_GetDefaultCameraDistanceToImagePlane in After Effects.", "keywords": ["AEGP_GetDefaultCameraDistanceToImagePlane"]},
-  {"topic": "AEGP_SetCameraFilmSize", "file": "references/plugin-sdk/aegp-camera-suite2/aegp-set-camera-film-size.md", "summary": "Open when looking up AEGP_SetCameraFilmSize in After Effects.", "keywords": ["AEGP_SetCameraFilmSize"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

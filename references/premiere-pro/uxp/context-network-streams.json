@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Count queuing strategy references", "file": "uxp/count-queuing-strategy/reference-index.md", "summary": "Open when looking up Count queuing strategy in Premiere Pro.", "keywords": ["Count queuing strategy references"]},
+  {"topic": "Network and data references", "file": "uxp/network-and-data/reference-index.md", "summary": "Open when looking up Network and data in Premiere Pro.", "keywords": ["Network and data references"]},
+  {"topic": "Network I/O", "file": "uxp/network-i-o.md", "summary": "Open when looking up Network I/O in Premiere Pro.", "keywords": ["Network I/O"]},
+  {"topic": "Network Operations", "file": "uxp/network-operations.md", "summary": "Open when looking up Network Operations in Premiere Pro.", "keywords": ["Network Operations"]},
+  {"topic": "Network Operations references", "file": "uxp/network-operations/reference-index.md", "summary": "Open when looking up Network Operations in Premiere Pro.", "keywords": ["Network Operations references"]},
+  {"topic": "Readable stream default controller references", "file": "uxp/readable-stream-default-controller/reference-index.md", "summary": "Open when looking up Readable stream default controller in Premiere Pro.", "keywords": ["Readable stream default controller references"]},
+  {"topic": "Streams", "file": "uxp/streams.md", "summary": "Open when looking up Streams in Premiere Pro.", "keywords": ["Streams"]},
+  {"topic": "Transform stream default controller references", "file": "uxp/transform-stream-default-controller/reference-index.md", "summary": "Open when looking up Transform stream default controller in Premiere Pro.", "keywords": ["Transform stream default controller references"]},
+  {"topic": "Window crypto references", "file": "uxp/window-crypto/reference-index.md", "summary": "Open when looking up Window crypto in Premiere Pro.", "keywords": ["Window crypto references"]},
+  {"topic": "Writable stream default controller references", "file": "uxp/writable-stream-default-controller/reference-index.md", "summary": "Open when looking up Writable stream default controller in Premiere Pro.", "keywords": ["Writable stream default controller references"]},
+  {"topic": "Xml Http Request", "file": "uxp/xml-http-request.md", "summary": "Open when looking up Xml Http Request in Premiere Pro.", "keywords": ["Xml Http Request"]},
+  {"topic": "Xml Http Request references", "file": "uxp/xml-http-request/reference-index.md", "summary": "Open when looking up Xml Http Request in Premiere Pro.", "keywords": ["Xml Http Request references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

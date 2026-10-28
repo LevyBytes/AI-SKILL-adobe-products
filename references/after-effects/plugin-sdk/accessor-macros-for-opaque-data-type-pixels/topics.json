@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "PF_EffectWorld / PF_LayerDef - Accessor Macros For Opaque (Data Type) Pixels", "file": "plugin-sdk/accessor-macros-for-opaque-data-type-pixels/accessor-macros-for-opaque-data-type-pixels.md", "summary": "Open when looking up PF_EffectWorld / PF_LayerDef - Accessor Macros For Opaque (Data Type) Pixels in After Effects.", "keywords": ["PF_EffectWorld / PF_LayerDef - Accessor Macros For Opaque (Data Type) Pixels"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,17 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Audio issues", "file": "desktop/troubleshooting/audio-issues.md", "summary": "Open when looking up Audio issues in Premiere Pro.", "keywords": ["Audio issues"]},
+  {"topic": "Audio issues references", "file": "desktop/troubleshooting/audio-issues/reference-index.md", "summary": "Open when looking up Audio issues in Premiere Pro.", "keywords": ["Audio issues references"]},
+  {"topic": "Crash issues", "file": "desktop/troubleshooting/crash-issues.md", "summary": "Open when looking up Crash issues in Premiere Pro.", "keywords": ["Crash issues"]},
+  {"topic": "Crash issues references", "file": "desktop/troubleshooting/crash-issues/reference-index.md", "summary": "Open when looking up Crash issues in Premiere Pro.", "keywords": ["Crash issues references"]},
+  {"topic": "Export issues", "file": "desktop/troubleshooting/export-issues.md", "summary": "Open when looking up Export issues in Premiere Pro.", "keywords": ["Export issues"]},
+  {"topic": "Export issues references", "file": "desktop/troubleshooting/export-issues/reference-index.md", "summary": "Open when looking up Export issues in Premiere Pro.", "keywords": ["Export issues references"]},
+  {"topic": "Limitations and known issues", "file": "desktop/troubleshooting/limitations-and-known-issues.md", "summary": "Open when looking up Limitations and known issues in Premiere Pro.", "keywords": ["Limitations and known issues"]},
+  {"topic": "Limitations and known issues references", "file": "desktop/troubleshooting/known-issues/reference-index.md", "summary": "Open when looking up Limitations and known issues in Premiere Pro.", "keywords": ["Limitations and known issues references"]},
+  {"topic": "Media issues", "file": "desktop/troubleshooting/media-issues.md", "summary": "Open when looking up Media issues in Premiere Pro.", "keywords": ["Media issues"]},
+  {"topic": "Media issues references", "file": "desktop/troubleshooting/media-issues/reference-index.md", "summary": "Open when looking up Media issues in Premiere Pro.", "keywords": ["Media issues references"]},
+  {"topic": "Playback issues", "file": "desktop/troubleshooting/playback-issues.md", "summary": "Open when looking up Playback issues in Premiere Pro.", "keywords": ["Playback issues"]},
+  {"topic": "Playback issues references", "file": "desktop/troubleshooting/playback-issues/reference-index.md", "summary": "Open when looking up Playback issues in Premiere Pro.", "keywords": ["Playback issues references"]},
+  {"topic": "Preferences and settings issues", "file": "desktop/troubleshooting/preferences-and-settings-issues.md", "summary": "Open when looking up Preferences and settings issues in Premiere Pro.", "keywords": ["Preferences and settings issues"]},
+  {"topic": "Preferences and settings issues references", "file": "desktop/troubleshooting/preferences-and-settings/reference-index.md", "summary": "Open when looking up Preferences and settings issues in Premiere Pro.", "keywords": ["Preferences and settings issues references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

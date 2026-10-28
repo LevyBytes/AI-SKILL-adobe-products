@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "CEP to UXP", "file": "uxp/cep-to-uxp.md", "summary": "Open when looking up CEP to UXP in InDesign.", "keywords": ["CEP to UXP"]},
+  {"topic": "ExtendScript to UXP", "file": "uxp/extend-script-to-uxp.md", "summary": "Open when looking up ExtendScript to UXP in InDesign.", "keywords": ["ExtendScript to UXP"]},
+  {"topic": "ExtendScript to UXP references", "file": "uxp/extend-script-to-uxp/reference-index.md", "summary": "Open when looking up ExtendScript to UXP in InDesign.", "keywords": ["ExtendScript to UXP references"]},
+  {"topic": "Migration Guides", "file": "uxp/migration-guides.md", "summary": "Open when looking up Migration Guides in InDesign.", "keywords": ["Migration Guides"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

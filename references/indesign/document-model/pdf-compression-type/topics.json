@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "COMPRESS_NONE", "file": "document-model/pdf-compression-type/compressnone.md", "summary": "Open when looking up COMPRESS_NONE in InDesign.", "keywords": ["COMPRESS_NONE"]},
+  {"topic": "COMPRESS_OBJECTS", "file": "document-model/pdf-compression-type/compressobjects.md", "summary": "Open when looking up COMPRESS_OBJECTS in InDesign.", "keywords": ["COMPRESS_OBJECTS"]},
+  {"topic": "COMPRESS_STRUCTURE", "file": "document-model/pdf-compression-type/compressstructure.md", "summary": "Open when looking up COMPRESS_STRUCTURE in InDesign.", "keywords": ["COMPRESS_STRUCTURE"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

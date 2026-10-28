@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Changelog - Adobe Premiere Pro 15.4", "file": "scripting/adobe-premiere-pro-15-4/changelog-adobe-premiere-pro-15-4.md", "summary": "Open when looking up Changelog - Adobe Premiere Pro 15.4 in Premiere Pro.", "keywords": ["Changelog - Adobe Premiere Pro 15.4"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

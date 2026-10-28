@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Change the color of selected text within a text layer", "file": "desktop/text-and-typography/get-started-with-text/change-text-color/change-the-color-of-selected-text-within-a-text-layer.md", "summary": "Open when looking up Change the color of selected text within a text layer in Photoshop.", "keywords": ["Change the color of selected text within a text layer"]},
+  {"topic": "Change the text color of a text layer", "file": "desktop/text-and-typography/get-started-with-text/change-text-color/change-the-text-color-of-a-text-layer.md", "summary": "Open when looking up Change the text color of a text layer in Photoshop.", "keywords": ["Change the text color of a text layer"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

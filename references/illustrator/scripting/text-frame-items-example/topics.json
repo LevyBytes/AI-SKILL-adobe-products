@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Creating and modifying text frames", "file": "scripting/text-frame-items-example/creating-and-modifying-text-frames.md", "summary": "Open when looking up Creating and modifying text frames in Illustrator.", "keywords": ["Creating and modifying text frames"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

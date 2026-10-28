@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Artisan Data Types - Registering An Artisan", "file": "plugin-sdk/registering-an-artisan/artisan-data-types-registering-an-artisan.md", "summary": "Open when looking up Artisan Data Types - Registering An Artisan in After Effects.", "keywords": ["Artisan Data Types - Registering An Artisan"]},
+  {"topic": "PR_ArtisanEntryPoints", "file": "plugin-sdk/registering-an-artisan/pr-artisan-entry-points.md", "summary": "Open when looking up PR_ArtisanEntryPoints in After Effects.", "keywords": ["PR_ArtisanEntryPoints"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "CUSTOM", "file": "document-model/spread-flattener-level/custom.md", "summary": "Open when looking up CUSTOM in InDesign.", "keywords": ["CUSTOM"]},
+  {"topic": "DEFAULT_VALUE", "file": "document-model/spread-flattener-level/defaultvalue.md", "summary": "Open when looking up DEFAULT_VALUE in InDesign.", "keywords": ["DEFAULT_VALUE"]},
+  {"topic": "NONE", "file": "document-model/spread-flattener-level/none.md", "summary": "Open when looking up NONE in InDesign.", "keywords": ["NONE"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

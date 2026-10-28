@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Audio-Specific Float Slider Variables - Phase", "file": "plugin-sdk/phase/audio-specific-float-slider-variables-phase.md", "summary": "Open when looking up Audio-Specific Float Slider Variables - Phase in After Effects.", "keywords": ["Audio-Specific Float Slider Variables - Phase"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

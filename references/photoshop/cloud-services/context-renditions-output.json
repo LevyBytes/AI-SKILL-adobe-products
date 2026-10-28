@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Export layers migration guide", "file": "cloud-services/export-layers-migration-guide.md", "summary": "Open when looking up Export layers migration guide in Photoshop.", "keywords": ["Export layers migration guide"]},
+  {"topic": "Export layers migration guide references", "file": "cloud-services/export-layers-migration-guide/reference-index.md", "summary": "Open when looking up Export layers migration guide in Photoshop.", "keywords": ["Export layers migration guide references"]},
+  {"topic": "Format conversion migration references", "file": "cloud-services/format-conversion-migration/reference-index.md", "summary": "Open when looking up Format conversion migration in Photoshop.", "keywords": ["Format conversion migration references"]},
+  {"topic": "Output format reference references", "file": "cloud-services/output-format-reference/reference-index.md", "summary": "Open when looking up Output format reference in Photoshop.", "keywords": ["Output format reference references"]},
+  {"topic": "Output types migration references", "file": "cloud-services/output-types-migration/reference-index.md", "summary": "Open when looking up Output types migration in Photoshop.", "keywords": ["Output types migration references"]},
+  {"topic": "PSD Renditions and Conversions", "file": "cloud-services/psd-renditions-and-conversions.md", "summary": "Open when looking up PSD Renditions and Conversions in Photoshop.", "keywords": ["PSD Renditions and Conversions"]},
+  {"topic": "PSD Renditions and Conversions references", "file": "cloud-services/psd-renditions-and-conversions/reference-index.md", "summary": "Open when looking up PSD Renditions and Conversions in Photoshop.", "keywords": ["PSD Renditions and Conversions references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

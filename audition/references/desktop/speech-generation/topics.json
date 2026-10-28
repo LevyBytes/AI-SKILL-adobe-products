@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "audition", "topics": [
-  {"topic": "Generating text-to-speech", "file": "references/desktop/speech-generation/generating-text-to-speech.md", "summary": "Open when looking up Generating text-to-speech in Audition.", "keywords": ["Generating text-to-speech"]},
-  {"topic": "Generating text-to-speech references", "file": "references/desktop/speech-generation/generating-text-to-speech/reference-index.md", "summary": "Open when looking up Generating text-to-speech in Audition.", "keywords": ["Generating text-to-speech references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

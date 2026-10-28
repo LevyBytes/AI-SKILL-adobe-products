@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Apple Silicon Support", "file": "plugin-sdk/apple-silicon-support.md", "summary": "Open when looking up Apple Silicon Support in After Effects.", "keywords": ["Apple Silicon Support"]},
+  {"topic": "Exception behavior with apple silicon across c functions references", "file": "plugin-sdk/exception-behavior-with-apple-silicon-across-c-functions/reference-index.md", "summary": "Open when looking up Exception behavior with apple silicon across c functions in After Effects.", "keywords": ["Exception behavior with apple silicon across c functions references"]},
+  {"topic": "How to add universal binary support for your plugins references", "file": "plugin-sdk/how-to-add-universal-binary-support-for-your-plugins/reference-index.md", "summary": "Open when looking up How to add universal binary support for your plugins in After Effects.", "keywords": ["How to add universal binary support for your plugins references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "filter : NodeFilter", "file": "uxp/dom/tree-walker/filter-node-filter.md", "summary": "Open when looking up filter : NodeFilter in Photoshop.", "keywords": ["filter : NodeFilter"]},
+  {"topic": "firstChild()", "file": "uxp/dom/tree-walker/first-child.md", "summary": "Open when looking up firstChild() in Photoshop.", "keywords": ["firstChild()"]},
+  {"topic": "lastChild()", "file": "uxp/dom/tree-walker/last-child.md", "summary": "Open when looking up lastChild() in Photoshop.", "keywords": ["lastChild()"]},
+  {"topic": "nextNode()", "file": "uxp/dom/tree-walker/next-node.md", "summary": "Open when looking up nextNode() in Photoshop.", "keywords": ["nextNode()"]},
+  {"topic": "nextSibling()", "file": "uxp/dom/tree-walker/next-sibling.md", "summary": "Open when looking up nextSibling() in Photoshop.", "keywords": ["nextSibling()"]},
+  {"topic": "parentNode()", "file": "uxp/dom/tree-walker/parent-node.md", "summary": "Open when looking up parentNode() in Photoshop.", "keywords": ["parentNode()"]},
+  {"topic": "previousNode()", "file": "uxp/dom/tree-walker/previous-node.md", "summary": "Open when looking up previousNode() in Photoshop.", "keywords": ["previousNode()"]},
+  {"topic": "previousSibling()", "file": "uxp/dom/tree-walker/previous-sibling.md", "summary": "Open when looking up previousSibling() in Photoshop.", "keywords": ["previousSibling()"]},
+  {"topic": "root : Node", "file": "uxp/dom/tree-walker/root-node.md", "summary": "Open when looking up root : Node in Photoshop.", "keywords": ["root : Node"]},
+  {"topic": "whatToShow : Number", "file": "uxp/dom/tree-walker/what-to-show-number.md", "summary": "Open when looking up whatToShow : Number in Photoshop.", "keywords": ["whatToShow : Number"]},
+  {"topic": "window.TreeWalker", "file": "uxp/dom/tree-walker/overview.md", "summary": "Open when looking up window.TreeWalker in Photoshop.", "keywords": ["window.TreeWalker"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

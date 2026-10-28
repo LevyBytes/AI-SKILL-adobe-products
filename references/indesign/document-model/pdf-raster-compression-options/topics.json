@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "AUTOMATIC_COMPRESSION", "file": "document-model/pdf-raster-compression-options/automaticcompression.md", "summary": "Open when looking up AUTOMATIC_COMPRESSION in InDesign.", "keywords": ["AUTOMATIC_COMPRESSION"]},
+  {"topic": "JPEG_COMPRESSION", "file": "document-model/pdf-raster-compression-options/jpegcompression.md", "summary": "Open when looking up JPEG_COMPRESSION in InDesign.", "keywords": ["JPEG_COMPRESSION"]},
+  {"topic": "LOSSLESS_COMPRESSION", "file": "document-model/pdf-raster-compression-options/losslesscompression.md", "summary": "Open when looking up LOSSLESS_COMPRESSION in InDesign.", "keywords": ["LOSSLESS_COMPRESSION"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

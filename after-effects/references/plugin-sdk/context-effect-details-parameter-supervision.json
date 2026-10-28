@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "Parameter Supervision - PF_ParamUtilSuite3", "file": "references/plugin-sdk/parameter-supervision-pf-param-util-suite3.md", "summary": "Open when looking up Parameter Supervision - PF_ParamUtilSuite3 in After Effects.", "keywords": ["Parameter Supervision - PF_ParamUtilSuite3"]},
-  {"topic": "Parameter Supervision - PF_ParamUtilSuite3 references", "file": "references/plugin-sdk/parameter-supervision-pf-param-util-suite3/reference-index.md", "summary": "Open when looking up Parameter Supervision - PF_ParamUtilSuite3 in After Effects.", "keywords": ["Parameter Supervision - PF_ParamUtilSuite3 references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

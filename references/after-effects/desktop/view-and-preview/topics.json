@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Copy frames references", "file": "desktop/view-and-preview/copy-frames/reference-index.md", "summary": "Open when looking up Copy frames in After Effects.", "keywords": ["Copy frames references"]},
+  {"topic": "Modifying Using Views", "file": "desktop/view-and-preview/modifying-using-views.md", "summary": "Open when looking up Modifying Using Views in After Effects.", "keywords": ["Modifying Using Views"]},
+  {"topic": "Modifying Using Views references", "file": "desktop/view-and-preview/modifying-using-views/reference-index.md", "summary": "Open when looking up Modifying Using Views in After Effects.", "keywords": ["Modifying Using Views references"]},
+  {"topic": "Preview video and audio references", "file": "desktop/view-and-preview/preview-video-and-audio/reference-index.md", "summary": "Open when looking up Preview video and audio in After Effects.", "keywords": ["Preview video and audio references"]},
+  {"topic": "Video Preview Using Mercury Transmit", "file": "desktop/view-and-preview/video-preview-using-mercury-transmit.md", "summary": "Open when looking up Video Preview Using Mercury Transmit in After Effects.", "keywords": ["Video Preview Using Mercury Transmit"]},
+  {"topic": "Video Preview Using Mercury Transmit references", "file": "desktop/view-and-preview/video-preview-using-mercury-transmit/reference-index.md", "summary": "Open when looking up Video Preview Using Mercury Transmit in After Effects.", "keywords": ["Video Preview Using Mercury Transmit references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

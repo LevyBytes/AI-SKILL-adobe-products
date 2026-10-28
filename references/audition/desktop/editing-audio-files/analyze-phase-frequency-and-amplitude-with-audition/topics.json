@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/audition", "topics": [
+  {"topic": "Analyze amplitude", "file": "desktop/editing-audio-files/analyze-phase-frequency-and-amplitude-with-audition/analyze-amplitude.md", "summary": "Open when looking up Analyze amplitude in Audition.", "keywords": ["Analyze amplitude"]},
+  {"topic": "Analyze frequency range", "file": "desktop/editing-audio-files/analyze-phase-frequency-and-amplitude-with-audition/analyze-frequency-range.md", "summary": "Open when looking up Analyze frequency range in Audition.", "keywords": ["Analyze frequency range"]},
+  {"topic": "Analyze phase", "file": "desktop/editing-audio-files/analyze-phase-frequency-and-amplitude-with-audition/analyze-phase.md", "summary": "Open when looking up Analyze phase in Audition.", "keywords": ["Analyze phase"]},
+  {"topic": "Frequency Analysis options", "file": "desktop/editing-audio-files/analyze-phase-frequency-and-amplitude-with-audition/frequency-analysis-options.md", "summary": "Open when looking up Frequency Analysis options in Audition.", "keywords": ["Frequency Analysis options"]},
+  {"topic": "General options", "file": "desktop/editing-audio-files/analyze-phase-frequency-and-amplitude-with-audition/general-options.md", "summary": "Open when looking up General options in Audition.", "keywords": ["General options"]},
+  {"topic": "RMS Settings options", "file": "desktop/editing-audio-files/analyze-phase-frequency-and-amplitude-with-audition/rms-settings-options.md", "summary": "Open when looking up RMS Settings options in Audition.", "keywords": ["RMS Settings options"]},
+  {"topic": "Zoom frequency graphs", "file": "desktop/editing-audio-files/analyze-phase-frequency-and-amplitude-with-audition/zoom-frequency-graphs.md", "summary": "Open when looking up Zoom frequency graphs in Audition.", "keywords": ["Zoom frequency graphs"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Image Buffer Management Functions", "file": "plugin-sdk/image-buffer-management-functions.md", "summary": "Open when looking up Image Buffer Management Functions in After Effects.", "keywords": ["Image Buffer Management Functions"]},
+  {"topic": "Image Buffer Management Functions - PF_WorldSuite2", "file": "plugin-sdk/image-buffer-management-functions-pf-world-suite2.md", "summary": "Open when looking up Image Buffer Management Functions - PF_WorldSuite2 in After Effects.", "keywords": ["Image Buffer Management Functions - PF_WorldSuite2"]},
+  {"topic": "Image Buffer Management Functions - PF_WorldSuite2 references", "file": "plugin-sdk/image-buffer-management-functions-pf-world-suite2/reference-index.md", "summary": "Open when looking up Image Buffer Management Functions - PF_WorldSuite2 in After Effects.", "keywords": ["Image Buffer Management Functions - PF_WorldSuite2 references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

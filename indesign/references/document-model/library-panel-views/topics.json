@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "LARGE_THUMBNAIL_VIEW", "file": "references/document-model/library-panel-views/largethumbnailview.md", "summary": "Open when looking up LARGE_THUMBNAIL_VIEW in InDesign.", "keywords": ["LARGE_THUMBNAIL_VIEW"]},
-  {"topic": "LIST_VIEW", "file": "references/document-model/library-panel-views/listview.md", "summary": "Open when looking up LIST_VIEW in InDesign.", "keywords": ["LIST_VIEW"]},
-  {"topic": "THUMBNAIL_VIEW", "file": "references/document-model/library-panel-views/thumbnailview.md", "summary": "Open when looking up THUMBNAIL_VIEW in InDesign.", "keywords": ["THUMBNAIL_VIEW"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

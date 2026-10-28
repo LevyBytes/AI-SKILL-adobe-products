@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Fix errors and verify resolution", "file": "desktop/print/preflight/view-and-resolve-preflight-errors/fix-errors-and-verify-resolution.md", "summary": "Open when looking up Fix errors and verify resolution in InDesign.", "keywords": ["Fix errors and verify resolution"]},
+  {"topic": "Locate and view problem items", "file": "desktop/print/preflight/view-and-resolve-preflight-errors/locate-and-view-problem-items.md", "summary": "Open when looking up Locate and view problem items in InDesign.", "keywords": ["Locate and view problem items"]},
+  {"topic": "Navigate and identify errors", "file": "desktop/print/preflight/view-and-resolve-preflight-errors/navigate-and-identify-errors.md", "summary": "Open when looking up Navigate and identify errors in InDesign.", "keywords": ["Navigate and identify errors"]},
+  {"topic": "Review error reports", "file": "desktop/print/preflight/view-and-resolve-preflight-errors/review-error-reports.md", "summary": "Open when looking up Review error reports in InDesign.", "keywords": ["Review error reports"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

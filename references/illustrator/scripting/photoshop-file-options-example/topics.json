@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Opening a Photoshop file", "file": "scripting/photoshop-file-options-example/opening-a-photoshop-file.md", "summary": "Open when looking up Opening a Photoshop file in Illustrator.", "keywords": ["Opening a Photoshop file"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

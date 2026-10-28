@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Environment Variables Setup", "file": "plugin-samples/unsplash-plugin-setup/environment-variables-setup.md", "summary": "Open when looking up Environment Variables Setup in Photoshop.", "keywords": ["Environment Variables Setup"]},
+  {"topic": "Install dependencies", "file": "plugin-samples/unsplash-plugin-setup/install-dependencies.md", "summary": "Open when looking up Install dependencies in Photoshop.", "keywords": ["Install dependencies"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

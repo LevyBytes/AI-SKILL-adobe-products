@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Set up your image for editing", "file": "web/integrations/figma/edit-images-with-text-prompts/set-up-your-image-for-editing.md", "summary": "Open when looking up Set up your image for editing in Firefly.", "keywords": ["Set up your image for editing"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

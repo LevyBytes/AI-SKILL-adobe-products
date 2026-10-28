@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "bottom", "file": "uxp/css/properties/bottom.md", "summary": "Open when looking up bottom in Premiere Pro.", "keywords": ["bottom"]},
+  {"topic": "display", "file": "uxp/css/properties/display.md", "summary": "Open when looking up display in Premiere Pro.", "keywords": ["display"]},
+  {"topic": "left", "file": "uxp/css/properties/left.md", "summary": "Open when looking up left in Premiere Pro.", "keywords": ["left"]},
+  {"topic": "right", "file": "uxp/css/properties/right.md", "summary": "Open when looking up right in Premiere Pro.", "keywords": ["right"]},
+  {"topic": "Styles", "file": "uxp/css/properties/styles.md", "summary": "Open when looking up Styles in Premiere Pro.", "keywords": ["Styles"]},
+  {"topic": "top", "file": "uxp/css/properties/top.md", "summary": "Open when looking up top in Premiere Pro.", "keywords": ["top"]},
+  {"topic": "visibility", "file": "uxp/css/properties/visibility.md", "summary": "Open when looking up visibility in Premiere Pro.", "keywords": ["visibility"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

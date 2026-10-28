@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "RETURN_AS_ERROR", "file": "references/document-model/preflight-rule-flag/returnaserror.md", "summary": "Open when looking up RETURN_AS_ERROR in InDesign.", "keywords": ["RETURN_AS_ERROR"]},
-  {"topic": "RETURN_AS_INFORMATIONAL", "file": "references/document-model/preflight-rule-flag/returnasinformational.md", "summary": "Open when looking up RETURN_AS_INFORMATIONAL in InDesign.", "keywords": ["RETURN_AS_INFORMATIONAL"]},
-  {"topic": "RETURN_AS_WARNING", "file": "references/document-model/preflight-rule-flag/returnaswarning.md", "summary": "Open when looking up RETURN_AS_WARNING in InDesign.", "keywords": ["RETURN_AS_WARNING"]},
-  {"topic": "RULE_IS_DISABLED", "file": "references/document-model/preflight-rule-flag/ruleisdisabled.md", "summary": "Open when looking up RULE_IS_DISABLED in InDesign.", "keywords": ["RULE_IS_DISABLED"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

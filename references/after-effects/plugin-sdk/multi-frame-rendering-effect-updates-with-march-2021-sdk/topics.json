@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Multi-Frame Rendering in AE - Multi-Frame Rendering Effect Updates with March 2021 SDK", "file": "plugin-sdk/multi-frame-rendering-effect-updates-with-march-2021-sdk/multi-frame-rendering-effect-updates-with-march-2021-sdk.md", "summary": "Open when looking up Multi-Frame Rendering in AE - Multi-Frame Rendering Effect Updates with March 2021 SDK in After Effects.", "keywords": ["Multi-Frame Rendering in AE - Multi-Frame Rendering Effect Updates with March 2021 SDK"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

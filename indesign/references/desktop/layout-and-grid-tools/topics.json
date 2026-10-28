@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Apply layout adjustments references", "file": "references/desktop/layout-and-grid-tools/apply-layout-adjustments/reference-index.md", "summary": "Open when looking up Apply layout adjustments in InDesign.", "keywords": ["Apply layout adjustments references"]},
-  {"topic": "Grids references", "file": "references/desktop/layout-and-grid-tools/grids/reference-index.md", "summary": "Open when looking up Grids in InDesign.", "keywords": ["Grids references"]},
-  {"topic": "Rulers and measure tools references", "file": "references/desktop/layout-and-grid-tools/rulers-and-measure-tools/reference-index.md", "summary": "Open when looking up Rulers and measure tools in InDesign.", "keywords": ["Rulers and measure tools references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

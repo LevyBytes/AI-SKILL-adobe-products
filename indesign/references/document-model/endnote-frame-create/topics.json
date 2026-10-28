@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "LOAD_ENDNOTE_PLACE_GUN", "file": "references/document-model/endnote-frame-create/loadendnoteplacegun.md", "summary": "Open when looking up LOAD_ENDNOTE_PLACE_GUN in InDesign.", "keywords": ["LOAD_ENDNOTE_PLACE_GUN"]},
-  {"topic": "NEW_PAGE", "file": "references/document-model/endnote-frame-create/newpage.md", "summary": "Open when looking up NEW_PAGE in InDesign.", "keywords": ["NEW_PAGE"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Blur and sharpen references", "file": "desktop/effects/blur-and-sharpen/reference-index.md", "summary": "Open when looking up Blur and sharpen in After Effects.", "keywords": ["Blur and sharpen references"]},
+  {"topic": "Content aware fill references", "file": "desktop/effects/content-aware-fill/reference-index.md", "summary": "Open when looking up Content aware fill in After Effects.", "keywords": ["Content aware fill references"]},
+  {"topic": "Effects and animation presets references", "file": "desktop/effects/effects-and-animation-presets/reference-index.md", "summary": "Open when looking up Effects and animation presets in After Effects.", "keywords": ["Effects and animation presets references"]},
+  {"topic": "Effects Animation Presets Overview", "file": "desktop/effects/effects-animation-presets-overview.md", "summary": "Open when looking up Effects Animation Presets Overview in After Effects.", "keywords": ["Effects Animation Presets Overview"]},
+  {"topic": "Effects Animation Presets Overview references", "file": "desktop/effects/effects-animation-presets-overview/reference-index.md", "summary": "Open when looking up Effects Animation Presets Overview in After Effects.", "keywords": ["Effects Animation Presets Overview references"]},
+  {"topic": "List of effects references", "file": "desktop/effects/list-of-effects/reference-index.md", "summary": "Open when looking up List of effects in After Effects.", "keywords": ["List of effects references"]},
+  {"topic": "Noise and grain references", "file": "desktop/effects/noise-and-grain/reference-index.md", "summary": "Open when looking up Noise and grain in After Effects.", "keywords": ["Noise and grain references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,23 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Compound path item example references", "file": "scripting/compound-path-item-example/reference-index.md", "summary": "Open when looking up Compound path item example in Illustrator.", "keywords": ["Compound path item example references"]},
+  {"topic": "CompoundPathItem", "file": "scripting/compound-path-item.md", "summary": "Open when looking up CompoundPathItem in Illustrator.", "keywords": ["CompoundPathItem"]},
+  {"topic": "CompoundPathItem references", "file": "scripting/compound-path-item/reference-index.md", "summary": "Open when looking up CompoundPathItem in Illustrator.", "keywords": ["CompoundPathItem references"]},
+  {"topic": "Compound path items example references", "file": "scripting/compound-path-items-example/reference-index.md", "summary": "Open when looking up Compound path items example in Illustrator.", "keywords": ["Compound path items example references"]},
+  {"topic": "CompoundPathItems", "file": "scripting/compound-path-items.md", "summary": "Open when looking up CompoundPathItems in Illustrator.", "keywords": ["CompoundPathItems"]},
+  {"topic": "CompoundPathItems references", "file": "scripting/compound-path-items/reference-index.md", "summary": "Open when looking up CompoundPathItems in Illustrator.", "keywords": ["CompoundPathItems references"]},
+  {"topic": "Path item example references", "file": "scripting/path-item-example/reference-index.md", "summary": "Open when looking up Path item example in Illustrator.", "keywords": ["Path item example references"]},
+  {"topic": "PathItem", "file": "scripting/path-item.md", "summary": "Open when looking up PathItem in Illustrator.", "keywords": ["PathItem"]},
+  {"topic": "PathItem references", "file": "scripting/path-item/reference-index.md", "summary": "Open when looking up PathItem in Illustrator.", "keywords": ["PathItem references"]},
+  {"topic": "Path items example references", "file": "scripting/path-items-example/reference-index.md", "summary": "Open when looking up Path items example in Illustrator.", "keywords": ["Path items example references"]},
+  {"topic": "PathItems", "file": "scripting/path-items.md", "summary": "Open when looking up PathItems in Illustrator.", "keywords": ["PathItems"]},
+  {"topic": "PathItems references", "file": "scripting/path-items/reference-index.md", "summary": "Open when looking up PathItems in Illustrator.", "keywords": ["PathItems references"]},
+  {"topic": "PathPoint", "file": "scripting/path-point.md", "summary": "Open when looking up PathPoint in Illustrator.", "keywords": ["PathPoint"]},
+  {"topic": "PathPoint references", "file": "scripting/path-point/reference-index.md", "summary": "Open when looking up PathPoint in Illustrator.", "keywords": ["PathPoint references"]},
+  {"topic": "Path points example references", "file": "scripting/path-points-example/reference-index.md", "summary": "Open when looking up Path points example in Illustrator.", "keywords": ["Path points example references"]},
+  {"topic": "PathPoints", "file": "scripting/path-points.md", "summary": "Open when looking up PathPoints in Illustrator.", "keywords": ["PathPoints"]},
+  {"topic": "PathPoints references", "file": "scripting/path-points/reference-index.md", "summary": "Open when looking up PathPoints in Illustrator.", "keywords": ["PathPoints references"]},
+  {"topic": "Path point selection references", "file": "scripting/path-point-selection/reference-index.md", "summary": "Open when looking up Path point selection in Illustrator.", "keywords": ["Path point selection references"]},
+  {"topic": "Point type references", "file": "scripting/point-type/reference-index.md", "summary": "Open when looking up Point type in Illustrator.", "keywords": ["Point type references"]},
+  {"topic": "Polarity values references", "file": "scripting/polarity-values/reference-index.md", "summary": "Open when looking up Polarity values in Illustrator.", "keywords": ["Polarity values references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

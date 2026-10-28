@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Need more help?", "file": "desktop/troubleshooting/crash-issues/fix-outdated-windows-libraries/need-more-help.md", "summary": "Open when looking up Need more help? in Premiere Pro.", "keywords": ["Need more help?"]},
+  {"topic": "Reverting to the earlier version", "file": "desktop/troubleshooting/crash-issues/fix-outdated-windows-libraries/reverting-to-the-earlier-version.md", "summary": "Open when looking up Reverting to the earlier version in Premiere Pro.", "keywords": ["Reverting to the earlier version"]},
+  {"topic": "Updating Microsoft Visual C++ Libraries", "file": "desktop/troubleshooting/crash-issues/fix-outdated-windows-libraries/updating-microsoft-visual-c-libraries.md", "summary": "Open when looking up Updating Microsoft Visual C++ Libraries in Premiere Pro.", "keywords": ["Updating Microsoft Visual C++ Libraries"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

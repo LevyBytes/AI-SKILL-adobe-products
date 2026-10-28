@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "overflow", "file": "uxp/css/properties/overflow.md", "summary": "Open when looking up overflow in InDesign.", "keywords": ["overflow"]},
+  {"topic": "overflow-x", "file": "uxp/css/properties/overflow-x.md", "summary": "Open when looking up overflow-x in InDesign.", "keywords": ["overflow-x"]},
+  {"topic": "overflow-y", "file": "uxp/css/properties/overflow-y.md", "summary": "Open when looking up overflow-y in InDesign.", "keywords": ["overflow-y"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

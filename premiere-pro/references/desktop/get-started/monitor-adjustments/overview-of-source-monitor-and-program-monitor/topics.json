@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Program Monitor", "file": "references/desktop/get-started/monitor-adjustments/overview-of-source-monitor-and-program-monitor/program-monitor.md", "summary": "Open when looking up Program Monitor in Premiere Pro.", "keywords": ["Program Monitor"]},
-  {"topic": "Source Monitor", "file": "references/desktop/get-started/monitor-adjustments/overview-of-source-monitor-and-program-monitor/source-monitor.md", "summary": "Open when looking up Source Monitor in Premiere Pro.", "keywords": ["Source Monitor"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

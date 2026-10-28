@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Customizable Overview (entry point)", "file": "web/explore-pdf-spaces/interactive-experience-sharing-with-pdf-spaces/customizable-overview-entry-point.md", "summary": "Open when looking up Customizable Overview (entry point) in Acrobat.", "keywords": ["Customizable Overview (entry point)"]},
+  {"topic": "Editable AI‑generated content", "file": "web/explore-pdf-spaces/interactive-experience-sharing-with-pdf-spaces/editable-ai-generated-content.md", "summary": "Open when looking up Editable AI‑generated content in Acrobat.", "keywords": ["Editable AI‑generated content"]},
+  {"topic": "Limitations", "file": "web/explore-pdf-spaces/interactive-experience-sharing-with-pdf-spaces/limitations.md", "summary": "Open when looking up Limitations in Acrobat.", "keywords": ["Limitations"]},
+  {"topic": "Multiple content formats", "file": "web/explore-pdf-spaces/interactive-experience-sharing-with-pdf-spaces/multiple-content-formats.md", "summary": "Open when looking up Multiple content formats in Acrobat.", "keywords": ["Multiple content formats"]},
+  {"topic": "Recipient engagement insights", "file": "web/explore-pdf-spaces/interactive-experience-sharing-with-pdf-spaces/recipient-engagement-insights.md", "summary": "Open when looking up Recipient engagement insights in Acrobat.", "keywords": ["Recipient engagement insights"]},
+  {"topic": "What recipients experience", "file": "web/explore-pdf-spaces/interactive-experience-sharing-with-pdf-spaces/what-recipients-experience.md", "summary": "Open when looking up What recipients experience in Acrobat.", "keywords": ["What recipients experience"]},
+  {"topic": "What you control", "file": "web/explore-pdf-spaces/interactive-experience-sharing-with-pdf-spaces/what-you-control.md", "summary": "Open when looking up What you control in Acrobat.", "keywords": ["What you control"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "CloseProjectOptions - Properties", "file": "uxp/host-api/close-project-options/close-project-options-properties.md", "summary": "Open when looking up CloseProjectOptions - Properties in Premiere Pro.", "keywords": ["CloseProjectOptions - Properties"]},
+  {"topic": "setIsAppBeingPreparedToQuit", "file": "uxp/host-api/close-project-options/set-is-app-being-prepared-to-quit.md", "summary": "Open when looking up setIsAppBeingPreparedToQuit in Premiere Pro.", "keywords": ["setIsAppBeingPreparedToQuit"]},
+  {"topic": "setPromptIfDirty", "file": "uxp/host-api/close-project-options/set-prompt-if-dirty.md", "summary": "Open when looking up setPromptIfDirty in Premiere Pro.", "keywords": ["setPromptIfDirty"]},
+  {"topic": "setSaveWorkspace", "file": "uxp/host-api/close-project-options/set-save-workspace.md", "summary": "Open when looking up setSaveWorkspace in Premiere Pro.", "keywords": ["setSaveWorkspace"]},
+  {"topic": "setShowCancelButton", "file": "uxp/host-api/close-project-options/set-show-cancel-button.md", "summary": "Open when looking up setShowCancelButton in Premiere Pro.", "keywords": ["setShowCancelButton"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

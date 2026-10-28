@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Specifying measurement values - UnitValue object", "file": "scripting/unit-value/specifying-measurement-values-unit-value-object.md", "summary": "Open when looking up Specifying measurement values - UnitValue object in Shared Adobe platform.", "keywords": ["Specifying measurement values - UnitValue object"]},
+  {"topic": "UnitValue object constructor", "file": "scripting/unit-value/unit-value-object-constructor.md", "summary": "Open when looking up UnitValue object constructor in Shared Adobe platform.", "keywords": ["UnitValue object constructor"]},
+  {"topic": "UnitValue.as()", "file": "scripting/unit-value/as.md", "summary": "Open when looking up UnitValue.as() in Shared Adobe platform.", "keywords": ["UnitValue.as()"]},
+  {"topic": "UnitValue.baseUnit", "file": "scripting/unit-value/base-unit.md", "summary": "Open when looking up UnitValue.baseUnit in Shared Adobe platform.", "keywords": ["UnitValue.baseUnit"]},
+  {"topic": "UnitValue.convert()", "file": "scripting/unit-value/convert.md", "summary": "Open when looking up UnitValue.convert() in Shared Adobe platform.", "keywords": ["UnitValue.convert()"]},
+  {"topic": "UnitValue.type", "file": "scripting/unit-value/type.md", "summary": "Open when looking up UnitValue.type in Shared Adobe platform.", "keywords": ["UnitValue.type"]},
+  {"topic": "UnitValue.value", "file": "scripting/unit-value/value.md", "summary": "Open when looking up UnitValue.value in Shared Adobe platform.", "keywords": ["UnitValue.value"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

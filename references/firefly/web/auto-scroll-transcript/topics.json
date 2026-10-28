@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Turn on transcript auto-scrolling for synced playback", "file": "web/auto-scroll-transcript/turn-on-transcript-auto-scrolling-for-synced-playback.md", "summary": "Open when looking up Turn on transcript auto-scrolling for synced playback in Firefly.", "keywords": ["Turn on transcript auto-scrolling for synced playback"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

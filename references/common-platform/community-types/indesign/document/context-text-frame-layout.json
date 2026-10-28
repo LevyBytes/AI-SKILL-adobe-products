@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Document.textFramePreferences", "file": "community-types/indesign/document/text-frame-preferences.md", "summary": "Open when looking up Document.textFramePreferences in Shared Adobe platform.", "keywords": ["Document.textFramePreferences"]},
+  {"topic": "Document.textWrapPreferences", "file": "community-types/indesign/document/text-wrap-preferences.md", "summary": "Open when looking up Document.textWrapPreferences in Shared Adobe platform.", "keywords": ["Document.textWrapPreferences"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

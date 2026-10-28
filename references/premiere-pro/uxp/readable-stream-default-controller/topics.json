@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "close()", "file": "uxp/readable-stream-default-controller/close.md", "summary": "Open when looking up close() in Premiere Pro.", "keywords": ["close()"]},
+  {"topic": "desiredSize : number", "file": "uxp/readable-stream-default-controller/desired-size-number.md", "summary": "Open when looking up desiredSize : number in Premiere Pro.", "keywords": ["desiredSize : number"]},
+  {"topic": "enqueue(chunk)", "file": "uxp/readable-stream-default-controller/enqueue.md", "summary": "Open when looking up enqueue(chunk) in Premiere Pro.", "keywords": ["enqueue(chunk)"]},
+  {"topic": "error(error)", "file": "uxp/readable-stream-default-controller/error.md", "summary": "Open when looking up error(error) in Premiere Pro.", "keywords": ["error(error)"]},
+  {"topic": "window.ReadableStreamDefaultController", "file": "uxp/readable-stream-default-controller/overview.md", "summary": "Open when looking up window.ReadableStreamDefaultController in Premiere Pro.", "keywords": ["window.ReadableStreamDefaultController"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

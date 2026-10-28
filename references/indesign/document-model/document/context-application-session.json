@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "filePath", "file": "document-model/document/file-path.md", "summary": "Open when looking up filePath in InDesign.", "keywords": ["filePath"]},
+  {"topic": "fullName", "file": "document-model/document/full-name.md", "summary": "Open when looking up fullName in InDesign.", "keywords": ["fullName"]},
+  {"topic": "preferences", "file": "document-model/document/preferences.md", "summary": "Open when looking up preferences in InDesign.", "keywords": ["preferences"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

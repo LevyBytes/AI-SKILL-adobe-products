@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "CharacterAlignment", "file": "document-model/character-alignment.md", "summary": "Open when looking up CharacterAlignment in InDesign.", "keywords": ["CharacterAlignment"]},
+  {"topic": "CharacterAlignment references", "file": "document-model/character-alignment/reference-index.md", "summary": "Open when looking up CharacterAlignment in InDesign.", "keywords": ["CharacterAlignment references"]},
+  {"topic": "Leading", "file": "document-model/leading.md", "summary": "Open when looking up Leading in InDesign.", "keywords": ["Leading"]},
+  {"topic": "Leading references", "file": "document-model/leading/reference-index.md", "summary": "Open when looking up Leading in InDesign.", "keywords": ["Leading references"]},
+  {"topic": "LeadingModel", "file": "document-model/leading-model.md", "summary": "Open when looking up LeadingModel in InDesign.", "keywords": ["LeadingModel"]},
+  {"topic": "LeadingModel references", "file": "document-model/leading-model/reference-index.md", "summary": "Open when looking up LeadingModel in InDesign.", "keywords": ["LeadingModel references"]},
+  {"topic": "LineSpacingType", "file": "document-model/line-spacing-type.md", "summary": "Open when looking up LineSpacingType in InDesign.", "keywords": ["LineSpacingType"]},
+  {"topic": "LineSpacingType references", "file": "document-model/line-spacing-type/reference-index.md", "summary": "Open when looking up LineSpacingType in InDesign.", "keywords": ["LineSpacingType references"]},
+  {"topic": "Position", "file": "document-model/position.md", "summary": "Open when looking up Position in InDesign.", "keywords": ["Position"]},
+  {"topic": "Position references", "file": "document-model/position/reference-index.md", "summary": "Open when looking up Position in InDesign.", "keywords": ["Position references"]},
+  {"topic": "Spacing", "file": "document-model/spacing.md", "summary": "Open when looking up Spacing in InDesign.", "keywords": ["Spacing"]},
+  {"topic": "Spacing references", "file": "document-model/spacing/reference-index.md", "summary": "Open when looking up Spacing in InDesign.", "keywords": ["Spacing references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "contentPlacer", "file": "document-model/application/content-placer.md", "summary": "Open when looking up contentPlacer in InDesign.", "keywords": ["contentPlacer"]},
+  {"topic": "epsImportPreferences", "file": "document-model/application/eps-import-preferences.md", "summary": "Open when looking up epsImportPreferences in InDesign.", "keywords": ["epsImportPreferences"]},
+  {"topic": "httpLinkConnectionManager", "file": "document-model/application/http-link-connection-manager.md", "summary": "Open when looking up httpLinkConnectionManager in InDesign.", "keywords": ["httpLinkConnectionManager"]},
+  {"topic": "importFile", "file": "document-model/application/import-file.md", "summary": "Open when looking up importFile in InDesign.", "keywords": ["importFile"]},
+  {"topic": "linkedPageItemOptions", "file": "document-model/application/linked-page-item-options.md", "summary": "Open when looking up linkedPageItemOptions in InDesign.", "keywords": ["linkedPageItemOptions"]},
+  {"topic": "linkedStoryOptions", "file": "document-model/application/linked-story-options.md", "summary": "Open when looking up linkedStoryOptions in InDesign.", "keywords": ["linkedStoryOptions"]},
+  {"topic": "linkingPreferences", "file": "document-model/application/linking-preferences.md", "summary": "Open when looking up linkingPreferences in InDesign.", "keywords": ["linkingPreferences"]},
+  {"topic": "pdfPlacePreferences", "file": "document-model/application/pdf-place-preferences.md", "summary": "Open when looking up pdfPlacePreferences in InDesign.", "keywords": ["pdfPlacePreferences"]},
+  {"topic": "place", "file": "document-model/application/place.md", "summary": "Open when looking up place in InDesign.", "keywords": ["place"]},
+  {"topic": "placeableFileExtensions", "file": "document-model/application/placeable-file-extensions.md", "summary": "Open when looking up placeableFileExtensions in InDesign.", "keywords": ["placeableFileExtensions"]},
+  {"topic": "placeableFileTypes", "file": "document-model/application/placeable-file-types.md", "summary": "Open when looking up placeableFileTypes in InDesign.", "keywords": ["placeableFileTypes"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

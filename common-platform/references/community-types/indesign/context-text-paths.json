@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "TextPath references", "file": "references/community-types/indesign/text-path/reference-index.md", "summary": "Open when looking up TextPath in Shared Adobe platform.", "keywords": ["TextPath references"]},
-  {"topic": "TextPathEffects", "file": "references/community-types/indesign/text-path-effects.md", "summary": "Open when looking up TextPathEffects in Shared Adobe platform.", "keywords": ["TextPathEffects"]},
-  {"topic": "TextPaths references", "file": "references/community-types/indesign/text-paths/reference-index.md", "summary": "Open when looking up TextPaths in Shared Adobe platform.", "keywords": ["TextPaths references"]},
-  {"topic": "TextTypeAlignments", "file": "references/community-types/indesign/text-type-alignments.md", "summary": "Open when looking up TextTypeAlignments in Shared Adobe platform.", "keywords": ["TextTypeAlignments"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

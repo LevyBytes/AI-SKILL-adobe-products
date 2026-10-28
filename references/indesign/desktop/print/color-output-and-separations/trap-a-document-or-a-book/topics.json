@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Assign trap presets to page ranges", "file": "desktop/print/color-output-and-separations/trap-a-document-or-a-book/assign-trap-presets-to-page-ranges.md", "summary": "Open when looking up Assign trap presets to page ranges in InDesign.", "keywords": ["Assign trap presets to page ranges"]},
+  {"topic": "Configure print settings and trap the document", "file": "desktop/print/color-output-and-separations/trap-a-document-or-a-book/configure-print-settings-and-trap-the-document.md", "summary": "Open when looking up Configure print settings and trap the document in InDesign.", "keywords": ["Configure print settings and trap the document"]},
+  {"topic": "Create a custom trap preset", "file": "desktop/print/color-output-and-separations/trap-a-document-or-a-book/create-a-custom-trap-preset.md", "summary": "Open when looking up Create a custom trap preset in InDesign.", "keywords": ["Create a custom trap preset"]},
+  {"topic": "Trap multiple documents in a book", "file": "desktop/print/color-output-and-separations/trap-a-document-or-a-book/trap-multiple-documents-in-a-book.md", "summary": "Open when looking up Trap multiple documents in a book in InDesign.", "keywords": ["Trap multiple documents in a book"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

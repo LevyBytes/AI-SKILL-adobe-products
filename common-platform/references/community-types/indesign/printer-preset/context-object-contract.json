@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "PrinterPreset declaration", "file": "references/community-types/indesign/printer-preset/declaration.md", "summary": "Open when looking up PrinterPreset declaration in Shared Adobe platform.", "keywords": ["PrinterPreset declaration"]},
-  {"topic": "PrinterPreset identity and parent", "file": "references/community-types/indesign/printer-preset/identity-and-parent.md", "summary": "Open when looking up PrinterPreset identity and parent in Shared Adobe platform.", "keywords": ["PrinterPreset identity and parent"]},
-  {"topic": "PrinterPreset object lifecycle", "file": "references/community-types/indesign/printer-preset/object-lifecycle.md", "summary": "Open when looking up PrinterPreset object lifecycle in Shared Adobe platform.", "keywords": ["PrinterPreset object lifecycle"]},
-  {"topic": "PrinterPreset object resolution", "file": "references/community-types/indesign/printer-preset/object-resolution.md", "summary": "Open when looking up PrinterPreset object resolution in Shared Adobe platform.", "keywords": ["PrinterPreset object resolution"]},
-  {"topic": "PrinterPreset.properties", "file": "references/community-types/indesign/printer-preset/properties.md", "summary": "Open when looking up PrinterPreset.properties in Shared Adobe platform.", "keywords": ["PrinterPreset.properties"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

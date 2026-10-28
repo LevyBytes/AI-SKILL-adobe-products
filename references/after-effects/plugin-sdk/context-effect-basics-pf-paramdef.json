@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Param zero references", "file": "plugin-sdk/param-zero/reference-index.md", "summary": "Open when looking up Param zero in After Effects.", "keywords": ["Param zero references"]},
+  {"topic": "Parameter flags references", "file": "plugin-sdk/parameter-flags/reference-index.md", "summary": "Open when looking up Parameter flags in After Effects.", "keywords": ["Parameter flags references"]},
+  {"topic": "Parameter ui flags references", "file": "plugin-sdk/parameter-ui-flags/reference-index.md", "summary": "Open when looking up Parameter ui flags in After Effects.", "keywords": ["Parameter ui flags references"]},
+  {"topic": "Pf param def members references", "file": "plugin-sdk/pf-param-def-members/reference-index.md", "summary": "Open when looking up Pf param def members in After Effects.", "keywords": ["Pf param def members references"]},
+  {"topic": "Pf value display flags references", "file": "plugin-sdk/pf-value-display-flags/reference-index.md", "summary": "Open when looking up Pf value display flags in After Effects.", "keywords": ["Pf value display flags references"]},
+  {"topic": "PF_ParamDef", "file": "plugin-sdk/pf-param-def.md", "summary": "Open when looking up PF_ParamDef in After Effects.", "keywords": ["PF_ParamDef"]},
+  {"topic": "The rest of the parameters references", "file": "plugin-sdk/the-rest-of-the-parameters/reference-index.md", "summary": "Open when looking up The rest of the parameters in After Effects.", "keywords": ["The rest of the parameters references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

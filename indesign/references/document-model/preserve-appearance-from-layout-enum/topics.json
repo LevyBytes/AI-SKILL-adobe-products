@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "PRESERVE_APPEARANCE_DEFAULT", "file": "references/document-model/preserve-appearance-from-layout-enum/preserveappearancedefault.md", "summary": "Open when looking up PRESERVE_APPEARANCE_DEFAULT in InDesign.", "keywords": ["PRESERVE_APPEARANCE_DEFAULT"]},
-  {"topic": "PRESERVE_APPEARANCE_RASTERIZE_CONTAINER", "file": "references/document-model/preserve-appearance-from-layout-enum/preserveappearancerasterizecontainer.md", "summary": "Open when looking up PRESERVE_APPEARANCE_RASTERIZE_CONTAINER in InDesign.", "keywords": ["PRESERVE_APPEARANCE_RASTERIZE_CONTAINER"]},
-  {"topic": "PRESERVE_APPEARANCE_RASTERIZE_CONTENT", "file": "references/document-model/preserve-appearance-from-layout-enum/preserveappearancerasterizecontent.md", "summary": "Open when looking up PRESERVE_APPEARANCE_RASTERIZE_CONTENT in InDesign.", "keywords": ["PRESERVE_APPEARANCE_RASTERIZE_CONTENT"]},
-  {"topic": "PRESERVE_APPEARANCE_USE_EXISTING_IMAGE", "file": "references/document-model/preserve-appearance-from-layout-enum/preserveappearanceuseexistingimage.md", "summary": "Open when looking up PRESERVE_APPEARANCE_USE_EXISTING_IMAGE in InDesign.", "keywords": ["PRESERVE_APPEARANCE_USE_EXISTING_IMAGE"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Base URLs", "file": "cloud-services/v2-api-catalog/cross-cutting-changes/base-urls.md", "summary": "Open when looking up Base URLs in Photoshop.", "keywords": ["Base URLs"]},
+  {"topic": "Error response structure", "file": "cloud-services/v2-api-catalog/cross-cutting-changes/error-response-structure.md", "summary": "Open when looking up Error response structure in Photoshop.", "keywords": ["Error response structure"]},
+  {"topic": "Output type migration", "file": "cloud-services/output-types-migration/reference-index.md", "summary": "Open when migrating Photoshop API output formats.", "keywords": ["Output type migration"]},
+  {"topic": "ICC profile migration", "file": "cloud-services/icc-profile-migration-guide-overview.md", "summary": "Open when checking ICC profile migration requirements.", "keywords": ["ICC profile migration"]},
+  {"topic": "Output format changes", "file": "cloud-services/v2-api-catalog/cross-cutting-changes/output-format-changes.md", "summary": "Open when looking up Output format changes in Photoshop.", "keywords": ["Output format changes"]},
+  {"topic": "Request structure", "file": "cloud-services/v2-api-catalog/cross-cutting-changes/request-structure.md", "summary": "Open when looking up Request structure in Photoshop.", "keywords": ["Request structure"]},
+  {"topic": "Storage options", "file": "cloud-services/v2-api-catalog/cross-cutting-changes/storage-options.md", "summary": "Open when looking up Storage options in Photoshop.", "keywords": ["Storage options"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

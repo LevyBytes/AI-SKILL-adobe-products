@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Building reveal animations in Adobe Premiere with masks, shapes, text, and keyframes", "file": "desktop/create-reveal-animations-using-masking-techniques/mask-based-reveal-animation.md", "summary": "Open when looking up Building reveal animations in Adobe Premiere with masks, shapes, text, and keyframes in Premiere Pro.", "keywords": ["Building reveal animations in Adobe Premiere with masks, shapes, text, and keyframes"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

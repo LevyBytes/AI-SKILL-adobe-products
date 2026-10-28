@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "ChangeTextPreference.appliedConditions", "file": "community-types/indesign/change-text-preference/applied-conditions.md", "summary": "Open when looking up ChangeTextPreference.appliedConditions in Shared Adobe platform.", "keywords": ["ChangeTextPreference.appliedConditions"]},
+  {"topic": "ChangeTextPreference.changeConditionsMode", "file": "community-types/indesign/change-text-preference/change-conditions-mode.md", "summary": "Open when looking up ChangeTextPreference.changeConditionsMode in Shared Adobe platform.", "keywords": ["ChangeTextPreference.changeConditionsMode"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

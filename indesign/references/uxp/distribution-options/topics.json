@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Distribute on Creative Cloud Plugin Marketplace", "file": "references/uxp/distribution-options/distribute-on-creative-cloud-plugin-marketplace.md", "summary": "Open when looking up Distribute on Creative Cloud Plugin Marketplace in InDesign.", "keywords": ["Distribute on Creative Cloud Plugin Marketplace"]},
-  {"topic": "Distributing plugins", "file": "references/uxp/distribution-options/distributing-plugins.md", "summary": "Open when looking up Distributing plugins in InDesign.", "keywords": ["Distributing plugins"]},
-  {"topic": "Distributing scripts", "file": "references/uxp/distribution-options/distributing-scripts.md", "summary": "Open when looking up Distributing scripts in InDesign.", "keywords": ["Distributing scripts"]},
-  {"topic": "Share directly using .ccx files", "file": "references/uxp/distribution-options/share-directly-using-ccx-files.md", "summary": "Open when looking up Share directly using .ccx files in InDesign.", "keywords": ["Share directly using .ccx files"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Content Credentials in Adobe Firefly", "file": "web/get-started/learn-the-basics/content-credentials-overview/content-credentials-in-adobe-firefly.md", "summary": "Open when looking up Content Credentials in Adobe Firefly in Firefly.", "keywords": ["Content Credentials in Adobe Firefly"]},
+  {"topic": "What information is included?", "file": "web/get-started/learn-the-basics/content-credentials-overview/what-information-is-included.md", "summary": "Open when looking up What information is included? in Firefly.", "keywords": ["What information is included?"]},
+  {"topic": "Where are Content Credentials stored?", "file": "web/get-started/learn-the-basics/content-credentials-overview/where-are-content-credentials-stored.md", "summary": "Open when looking up Where are Content Credentials stored? in Firefly.", "keywords": ["Where are Content Credentials stored?"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

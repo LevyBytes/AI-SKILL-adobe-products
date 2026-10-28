@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Firefly AI Assistant", "file": "web/firefly-ai-assistant/firefly-ai-assistant.md", "summary": "Open when looking up Firefly AI Assistant in Firefly.", "keywords": ["Firefly AI Assistant"]},
+  {"topic": "Firefly AI Assistant FAQ", "file": "web/firefly-ai-assistant/firefly-ai-assistant-faq.md", "summary": "Open when looking up Firefly AI Assistant FAQ in Firefly.", "keywords": ["Firefly AI Assistant FAQ"]},
+  {"topic": "Firefly AI Assistant FAQ references", "file": "web/firefly-ai-assistant/firefly-ai-assistant-faq/reference-index.md", "summary": "Open when looking up Firefly AI Assistant FAQ in Firefly.", "keywords": ["Firefly AI Assistant FAQ references"]},
+  {"topic": "Firefly AI Assistant overview", "file": "web/firefly-ai-assistant/firefly-ai-assistant-overview.md", "summary": "Open when looking up Firefly AI Assistant overview in Firefly.", "keywords": ["Firefly AI Assistant overview"]},
+  {"topic": "Firefly AI Assistant overview references", "file": "web/firefly-ai-assistant/firefly-ai-assistant-overview/reference-index.md", "summary": "Open when looking up Firefly AI Assistant overview in Firefly.", "keywords": ["Firefly AI Assistant overview references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

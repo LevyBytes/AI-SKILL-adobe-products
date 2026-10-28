@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Display the Measurement Log", "file": "references/desktop/grids-and-measurement/measure-and-scale/manage-measurement-logs/display-the-measurement-log.md", "summary": "Open when looking up Display the Measurement Log in Photoshop.", "keywords": ["Display the Measurement Log"]},
-  {"topic": "Export Measurement Log data", "file": "references/desktop/grids-and-measurement/measure-and-scale/manage-measurement-logs/export-measurement-log-data.md", "summary": "Open when looking up Export Measurement Log data in Photoshop.", "keywords": ["Export Measurement Log data"]},
-  {"topic": "Reorder, resize, or sort columns in the log", "file": "references/desktop/grids-and-measurement/measure-and-scale/manage-measurement-logs/reorder-resize-or-sort-columns-in-the-log.md", "summary": "Open when looking up Reorder, resize, or sort columns in the log in Photoshop.", "keywords": ["Reorder, resize, or sort columns in the log"]},
-  {"topic": "Select columns in the log", "file": "references/desktop/grids-and-measurement/measure-and-scale/manage-measurement-logs/select-columns-in-the-log.md", "summary": "Open when looking up Select columns in the log in Photoshop.", "keywords": ["Select columns in the log"]},
-  {"topic": "Select rows in the log", "file": "references/desktop/grids-and-measurement/measure-and-scale/manage-measurement-logs/select-rows-in-the-log.md", "summary": "Open when looking up Select rows in the log in Photoshop.", "keywords": ["Select rows in the log"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

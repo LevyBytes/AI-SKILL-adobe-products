@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Shape object", "file": "scripting/shape/shape-object.md", "summary": "Open when looking up Shape object in After Effects.", "keywords": ["Shape object"]},
+  {"topic": "Shape.closed", "file": "scripting/shape/closed.md", "summary": "Open when looking up Shape.closed in After Effects.", "keywords": ["Shape.closed"]},
+  {"topic": "Shape.featherInterps", "file": "scripting/shape/feather-interps.md", "summary": "Open when looking up Shape.featherInterps in After Effects.", "keywords": ["Shape.featherInterps"]},
+  {"topic": "Shape.featherRadii", "file": "scripting/shape/feather-radii.md", "summary": "Open when looking up Shape.featherRadii in After Effects.", "keywords": ["Shape.featherRadii"]},
+  {"topic": "Shape.featherRelCornerAngles", "file": "scripting/shape/feather-rel-corner-angles.md", "summary": "Open when looking up Shape.featherRelCornerAngles in After Effects.", "keywords": ["Shape.featherRelCornerAngles"]},
+  {"topic": "Shape.featherRelSegLocs", "file": "scripting/shape/feather-rel-seg-locs.md", "summary": "Open when looking up Shape.featherRelSegLocs in After Effects.", "keywords": ["Shape.featherRelSegLocs"]},
+  {"topic": "Shape.featherSegLocs", "file": "scripting/shape/feather-seg-locs.md", "summary": "Open when looking up Shape.featherSegLocs in After Effects.", "keywords": ["Shape.featherSegLocs"]},
+  {"topic": "Shape.featherTensions", "file": "scripting/shape/feather-tensions.md", "summary": "Open when looking up Shape.featherTensions in After Effects.", "keywords": ["Shape.featherTensions"]},
+  {"topic": "Shape.featherTypes", "file": "scripting/shape/feather-types.md", "summary": "Open when looking up Shape.featherTypes in After Effects.", "keywords": ["Shape.featherTypes"]},
+  {"topic": "Shape.inTangents", "file": "scripting/shape/in-tangents.md", "summary": "Open when looking up Shape.inTangents in After Effects.", "keywords": ["Shape.inTangents"]},
+  {"topic": "Shape.outTangents", "file": "scripting/shape/out-tangents.md", "summary": "Open when looking up Shape.outTangents in After Effects.", "keywords": ["Shape.outTangents"]},
+  {"topic": "Shape.vertices", "file": "scripting/shape/vertices.md", "summary": "Open when looking up Shape.vertices in After Effects.", "keywords": ["Shape.vertices"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

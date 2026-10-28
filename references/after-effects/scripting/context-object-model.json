@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "After Effects Class Hierarchy", "file": "scripting/after-effects-class-hierarchy.md", "summary": "Open when looking up After Effects Class Hierarchy in After Effects.", "keywords": ["After Effects Class Hierarchy"]},
+  {"topic": "After Effects Class Hierarchy references", "file": "scripting/after-effects-class-hierarchy/reference-index.md", "summary": "Open when looking up After Effects Class Hierarchy in After Effects.", "keywords": ["After Effects Class Hierarchy references"]},
+  {"topic": "Collection object references", "file": "scripting/collection-object/reference-index.md", "summary": "Open when looking up Collection object in After Effects.", "keywords": ["Collection object references"]},
+  {"topic": "Collection references", "file": "scripting/collection/reference-index.md", "summary": "Open when looking up Collection in After Effects.", "keywords": ["Collection references"]},
+  {"topic": "Collections references", "file": "scripting/collections/reference-index.md", "summary": "Open when looking up Collections in After Effects.", "keywords": ["Collections references"]},
+  {"topic": "Item collection references", "file": "scripting/item-collection/reference-index.md", "summary": "Open when looking up Item collection in After Effects.", "keywords": ["Item collection references"]},
+  {"topic": "Item object references", "file": "scripting/item-object/reference-index.md", "summary": "Open when looking up Item object in After Effects.", "keywords": ["Item object references"]},
+  {"topic": "Item references", "file": "scripting/item/reference-index.md", "summary": "Open when looking up Item in After Effects.", "keywords": ["Item references"]},
+  {"topic": "Objects references", "file": "scripting/objects/reference-index.md", "summary": "Open when looking up Objects in After Effects.", "keywords": ["Objects references"]},
+  {"topic": "The After Effects Object Model", "file": "scripting/the-after-effects-object-model.md", "summary": "Open when looking up The After Effects Object Model in After Effects.", "keywords": ["The After Effects Object Model"]},
+  {"topic": "The After Effects Object Model references", "file": "scripting/the-after-effects-object-model/reference-index.md", "summary": "Open when looking up The After Effects Object Model in After Effects.", "keywords": ["The After Effects Object Model references"]},
+  {"topic": "Top level references", "file": "scripting/top-level/reference-index.md", "summary": "Open when looking up Top level in After Effects.", "keywords": ["Top level references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "CSS", "file": "uxp/css/defined/css.md", "summary": "Open when looking up CSS in InDesign.", "keywords": ["CSS"]},
+  {"topic": "HTML", "file": "uxp/css/defined/html.md", "summary": "Open when looking up HTML in InDesign.", "keywords": ["HTML"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

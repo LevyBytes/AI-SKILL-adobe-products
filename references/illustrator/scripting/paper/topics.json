@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Paper.name", "file": "scripting/paper/name.md", "summary": "Open when looking up Paper.name in Illustrator.", "keywords": ["Paper.name"]},
+  {"topic": "Paper.paperInfo", "file": "scripting/paper/paper-info.md", "summary": "Open when looking up Paper.paperInfo in Illustrator.", "keywords": ["Paper.paperInfo"]},
+  {"topic": "Paper.typename", "file": "scripting/paper/typename.md", "summary": "Open when looking up Paper.typename in Illustrator.", "keywords": ["Paper.typename"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

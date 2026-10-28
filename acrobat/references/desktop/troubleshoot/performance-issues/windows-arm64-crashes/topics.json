@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Incorrect Visual C++ runtime files cause applications to crash", "file": "references/desktop/troubleshoot/performance-issues/windows-arm64-crashes/incorrect-visual-c-runtime-files-cause-applications-to-crash.md", "summary": "Open when looking up Incorrect Visual C++ runtime files cause applications to crash in Acrobat.", "keywords": ["Incorrect Visual C++ runtime files cause applications to crash"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

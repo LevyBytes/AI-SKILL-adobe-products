@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Factors that determine image size on screen", "file": "desktop/image-transforms/resize-and-adjust-resolution/monitor-display-resolution/factors-that-determine-image-size-on-screen.md", "summary": "Open when looking up Factors that determine image size on screen in Photoshop.", "keywords": ["Factors that determine image size on screen"]},
+  {"topic": "Monitor resolution", "file": "desktop/image-transforms/resize-and-adjust-resolution/monitor-display-resolution/monitor-resolution.md", "summary": "Open when looking up Monitor resolution in Photoshop.", "keywords": ["Monitor resolution"]},
+  {"topic": "Practical consideration", "file": "desktop/image-transforms/resize-and-adjust-resolution/monitor-display-resolution/practical-consideration.md", "summary": "Open when looking up Practical consideration in Photoshop.", "keywords": ["Practical consideration"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

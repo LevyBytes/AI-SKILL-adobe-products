@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Before you begin", "file": "desktop/explore-pdf-spaces/send-pdf-spaces-as-links-in-emails/before-you-begin.md", "summary": "Open when looking up Before you begin in Acrobat.", "keywords": ["Before you begin"]},
+  {"topic": "Recipient experience", "file": "desktop/explore-pdf-spaces/send-pdf-spaces-as-links-in-emails/recipient-experience.md", "summary": "Open when looking up Recipient experience in Acrobat.", "keywords": ["Recipient experience"]},
+  {"topic": "Sender experience", "file": "desktop/explore-pdf-spaces/send-pdf-spaces-as-links-in-emails/sender-experience.md", "summary": "Open when looking up Sender experience in Acrobat.", "keywords": ["Sender experience"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

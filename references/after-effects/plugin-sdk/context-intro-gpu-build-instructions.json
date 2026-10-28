@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "GPU-Accelerated Effect Build Instructions", "file": "plugin-sdk/gpu-accelerated-effect-build-instructions.md", "summary": "Open when looking up GPU-Accelerated Effect Build Instructions in After Effects.", "keywords": ["GPU-Accelerated Effect Build Instructions"]},
+  {"topic": "Mac setup instructions references", "file": "plugin-sdk/mac-setup-instructions/reference-index.md", "summary": "Open when looking up Mac setup instructions in After Effects.", "keywords": ["Mac setup instructions references"]},
+  {"topic": "Windows setup instructions references", "file": "plugin-sdk/windows-setup-instructions/reference-index.md", "summary": "Open when looking up Windows setup instructions in After Effects.", "keywords": ["Windows setup instructions references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

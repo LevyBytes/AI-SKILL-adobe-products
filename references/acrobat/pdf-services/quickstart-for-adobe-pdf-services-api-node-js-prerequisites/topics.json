@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Get credentials", "file": "pdf-services/quickstart-for-adobe-pdf-services-api-node-js-prerequisites/node-api-credentials.md", "summary": "Open when obtaining Adobe client credentials and Node.js samples.", "keywords": ["Quickstart for Adobe PDF Services API (Node.js) - Step One: Getting credentials"]},
+  {"topic": "Set up the project", "file": "pdf-services/quickstart-for-adobe-pdf-services-api-node-js-prerequisites/node-project-setup.md", "summary": "Open when creating the CommonJS project and installing the pinned SDK dependency.", "keywords": ["Quickstart for Adobe PDF Services API (Node.js) - Step Two: Setting up the project"]},
+  {"topic": "Run the export application", "file": "pdf-services/quickstart-for-adobe-pdf-services-api-node-js-prerequisites/node-application-creation.md", "summary": "Open when uploading a PDF, awaiting the DOCX export job and streaming its result to disk.", "keywords": ["Quickstart for Adobe PDF Services API (Node.js) - Step Three: Creating the application"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

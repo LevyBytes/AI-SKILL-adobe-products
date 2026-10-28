@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Configure color management settings in Premiere", "file": "desktop/render-and-export/export-files/mac-youtube-hdr/configure-color-management-settings-in-premiere.md", "summary": "Open when looking up Configure color management settings in Premiere in Premiere Pro.", "keywords": ["Configure color management settings in Premiere"]},
+  {"topic": "Export your project", "file": "desktop/render-and-export/export-files/mac-youtube-hdr/export-your-project.md", "summary": "Open when looking up Export your project in Premiere Pro.", "keywords": ["Export your project"]},
+  {"topic": "iPhone HDR media", "file": "desktop/render-and-export/export-files/mac-youtube-hdr/i-phone-hdr-media.md", "summary": "Open when looking up iPhone HDR media in Premiere Pro.", "keywords": ["iPhone HDR media"]},
+  {"topic": "Log and raw media", "file": "desktop/render-and-export/export-files/mac-youtube-hdr/log-and-raw-media.md", "summary": "Open when looking up Log and raw media in Premiere Pro.", "keywords": ["Log and raw media"]},
+  {"topic": "Sequence and Source Clip settings", "file": "desktop/render-and-export/export-files/mac-youtube-hdr/sequence-and-source-clip-settings.md", "summary": "Open when looking up Sequence and Source Clip settings in Premiere Pro.", "keywords": ["Sequence and Source Clip settings"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

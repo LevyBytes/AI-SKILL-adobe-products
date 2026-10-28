@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Move an object by dragging", "file": "desktop/manage-objects/arrange-objects/move-objects/move-an-object-by-dragging.md", "summary": "Open when looking up Move an object by dragging in Illustrator.", "keywords": ["Move an object by dragging"]},
+  {"topic": "Move an object using the arrow keys", "file": "desktop/manage-objects/arrange-objects/move-objects/move-an-object-using-the-arrow-keys.md", "summary": "Open when looking up Move an object using the arrow keys in Illustrator.", "keywords": ["Move an object using the arrow keys"]},
+  {"topic": "Move an object using X and Y coordinates", "file": "desktop/manage-objects/arrange-objects/move-objects/move-an-object-using-x-and-y-coordinates.md", "summary": "Open when looking up Move an object using X and Y coordinates in Illustrator.", "keywords": ["Move an object using X and Y coordinates"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

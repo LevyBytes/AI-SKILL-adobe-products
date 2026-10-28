@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "DEFAULT_DIRECTION", "file": "references/document-model/character-direction-options/defaultdirection.md", "summary": "Open when looking up DEFAULT_DIRECTION in InDesign.", "keywords": ["DEFAULT_DIRECTION"]},
-  {"topic": "LEFT_TO_RIGHT_DIRECTION", "file": "references/document-model/character-direction-options/lefttorightdirection.md", "summary": "Open when looking up LEFT_TO_RIGHT_DIRECTION in InDesign.", "keywords": ["LEFT_TO_RIGHT_DIRECTION"]},
-  {"topic": "RIGHT_TO_LEFT_DIRECTION", "file": "references/document-model/character-direction-options/righttoleftdirection.md", "summary": "Open when looking up RIGHT_TO_LEFT_DIRECTION in InDesign.", "keywords": ["RIGHT_TO_LEFT_DIRECTION"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Text Objects - Objects that represent text content", "file": "scripting/objects-that-represent-text-content/text-objects-objects-that-represent-text-content.md", "summary": "Open when looking up Text Objects - Objects that represent text content in Illustrator.", "keywords": ["Text Objects - Objects that represent text content"]},
+  {"topic": "Text ranges", "file": "scripting/objects-that-represent-text-content/text-ranges.md", "summary": "Open when looking up Text ranges in Illustrator.", "keywords": ["Text ranges"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Executing a specific action by name", "file": "cloud-services/actions-migration/traditional-photoshop-actions/executing-a-specific-action-by-name.md", "summary": "Open when looking up Executing a specific action by name in Photoshop.", "keywords": ["Executing a specific action by name"]},
+  {"topic": "Multiple actions", "file": "cloud-services/actions-migration/traditional-photoshop-actions/multiple-actions.md", "summary": "Open when looking up Multiple actions in Photoshop.", "keywords": ["Multiple actions"]},
+  {"topic": "Using .atn files", "file": "cloud-services/actions-migration/traditional-photoshop-actions/using-atn-files.md", "summary": "Open when looking up Using .atn files in Photoshop.", "keywords": ["Using .atn files"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

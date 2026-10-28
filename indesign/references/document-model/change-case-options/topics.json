@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "LOWERCASE", "file": "references/document-model/change-case-options/lowercase.md", "summary": "Open when looking up LOWERCASE in InDesign.", "keywords": ["LOWERCASE"]},
-  {"topic": "NONE", "file": "references/document-model/change-case-options/none.md", "summary": "Open when looking up NONE in InDesign.", "keywords": ["NONE"]},
-  {"topic": "SENTENCECASE", "file": "references/document-model/change-case-options/sentencecase.md", "summary": "Open when looking up SENTENCECASE in InDesign.", "keywords": ["SENTENCECASE"]},
-  {"topic": "TITLECASE", "file": "references/document-model/change-case-options/titlecase.md", "summary": "Open when looking up TITLECASE in InDesign.", "keywords": ["TITLECASE"]},
-  {"topic": "UPPERCASE", "file": "references/document-model/change-case-options/uppercase.md", "summary": "Open when looking up UPPERCASE in InDesign.", "keywords": ["UPPERCASE"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Dialog references", "file": "scripting/dialog/reference-index.md", "summary": "Open when looking up Dialog in Acrobat.", "keywords": ["Dialog references"]},
+  {"topic": "Examples references", "file": "scripting/examples/reference-index.md", "summary": "Open when looking up Examples in Acrobat.", "keywords": ["Examples references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

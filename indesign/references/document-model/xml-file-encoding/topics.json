@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "SHIFT_JIS", "file": "references/document-model/xml-file-encoding/shiftjis.md", "summary": "Open when looking up SHIFT_JIS in InDesign.", "keywords": ["SHIFT_JIS"]},
-  {"topic": "UTF16", "file": "references/document-model/xml-file-encoding/utf16.md", "summary": "Open when looking up UTF16 in InDesign.", "keywords": ["UTF16"]},
-  {"topic": "UTF8", "file": "references/document-model/xml-file-encoding/utf8.md", "summary": "Open when looking up UTF8 in InDesign.", "keywords": ["UTF8"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

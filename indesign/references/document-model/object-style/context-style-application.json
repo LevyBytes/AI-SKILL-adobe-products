@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "appliedParagraphStyle", "file": "references/document-model/object-style/applied-paragraph-style.md", "summary": "Open when looking up appliedParagraphStyle in InDesign.", "keywords": ["appliedParagraphStyle"]},
-  {"topic": "applyNextParagraphStyle", "file": "references/document-model/object-style/apply-next-paragraph-style.md", "summary": "Open when looking up applyNextParagraphStyle in InDesign.", "keywords": ["applyNextParagraphStyle"]},
-  {"topic": "basedOn", "file": "references/document-model/object-style/based-on.md", "summary": "Open when looking up basedOn in InDesign.", "keywords": ["basedOn"]},
-  {"topic": "emitCss", "file": "references/document-model/object-style/emit-css.md", "summary": "Open when looking up emitCss in InDesign.", "keywords": ["emitCss"]},
-  {"topic": "includeClass", "file": "references/document-model/object-style/include-class.md", "summary": "Open when looking up includeClass in InDesign.", "keywords": ["includeClass"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

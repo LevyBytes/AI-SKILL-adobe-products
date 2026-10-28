@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Bugs Fixes", "file": "references/uxp/uxp-changelog-uxp-v6-3/bugs-fixes.md", "summary": "Open when looking up Bugs Fixes in Photoshop.", "keywords": ["Bugs Fixes"]},
-  {"topic": "New", "file": "references/uxp/uxp-changelog-uxp-v6-3/new.md", "summary": "Open when looking up New in Photoshop.", "keywords": ["New"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

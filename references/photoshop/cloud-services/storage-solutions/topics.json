@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "AWS S3", "file": "cloud-services/storage-solutions/aws-s3.md", "summary": "Open when looking up AWS S3 in Photoshop.", "keywords": ["AWS S3"]},
+  {"topic": "Azure", "file": "cloud-services/storage-solutions/azure.md", "summary": "Open when looking up Azure in Photoshop.", "keywords": ["Azure"]},
+  {"topic": "Dropbox", "file": "cloud-services/storage-solutions/dropbox.md", "summary": "Open when looking up Dropbox in Photoshop.", "keywords": ["Dropbox"]},
+  {"topic": "Google Drive", "file": "cloud-services/storage-solutions/google-drive.md", "summary": "Open when looking up Google Drive in Photoshop.", "keywords": ["Google Drive"]},
+  {"topic": "Ready-to-use workflows", "file": "cloud-services/storage-solutions/ready-to-use-workflows.md", "summary": "Open when looking up Ready-to-use workflows in Photoshop.", "keywords": ["Ready-to-use workflows"]},
+  {"topic": "Set up your storage", "file": "cloud-services/storage-solutions/set-up-your-storage.md", "summary": "Open when looking up Set up your storage in Photoshop.", "keywords": ["Set up your storage"]},
+  {"topic": "Test your URLs", "file": "cloud-services/storage-solutions/test-your-urls.md", "summary": "Open when looking up Test your URLs in Photoshop.", "keywords": ["Test your URLs"]},
+  {"topic": "Using a Frame.io account", "file": "cloud-services/storage-solutions/using-a-frame-io-account.md", "summary": "Open when looking up Using a Frame.io account in Photoshop.", "keywords": ["Using a Frame.io account"]},
+  {"topic": "Using Amazon S3 buckets", "file": "cloud-services/storage-solutions/using-amazon-s3-buckets.md", "summary": "Open when looking up Using Amazon S3 buckets in Photoshop.", "keywords": ["Using Amazon S3 buckets"]},
+  {"topic": "Using Frame.io Developer API", "file": "cloud-services/storage-solutions/using-frame-io-developer-api.md", "summary": "Open when looking up Using Frame.io Developer API in Photoshop.", "keywords": ["Using Frame.io Developer API"]},
+  {"topic": "Using Google's direct link service", "file": "cloud-services/storage-solutions/using-google-s-direct-link-service.md", "summary": "Open when looking up Using Google's direct link service in Photoshop.", "keywords": ["Using Google's direct link service"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Channel", "file": "community-types/photoshop/channel.md", "summary": "Open when looking up Channel in Shared Adobe platform.", "keywords": ["Channel"]},
+  {"topic": "Channels", "file": "community-types/photoshop/channels.md", "summary": "Open when looking up Channels in Shared Adobe platform.", "keywords": ["Channels"]},
+  {"topic": "ChannelType", "file": "community-types/photoshop/channel-type.md", "summary": "Open when looking up ChannelType in Shared Adobe platform.", "keywords": ["ChannelType"]},
+  {"topic": "ColorSampler", "file": "community-types/photoshop/color-sampler.md", "summary": "Open when looking up ColorSampler in Shared Adobe platform.", "keywords": ["ColorSampler"]},
+  {"topic": "ColorSamplers", "file": "community-types/photoshop/color-samplers.md", "summary": "Open when looking up ColorSamplers in Shared Adobe platform.", "keywords": ["ColorSamplers"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

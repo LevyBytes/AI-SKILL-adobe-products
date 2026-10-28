@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "XMLAttributes collection iteration", "file": "community-types/indesign/xml-attributes/collection-iteration.md", "summary": "Open when looking up XMLAttributes collection iteration in Shared Adobe platform.", "keywords": ["XMLAttributes collection iteration"]},
+  {"topic": "XMLAttributes declaration", "file": "community-types/indesign/xml-attributes/declaration.md", "summary": "Open when looking up XMLAttributes declaration in Shared Adobe platform.", "keywords": ["XMLAttributes declaration"]},
+  {"topic": "XMLAttributes named and indexed items", "file": "community-types/indesign/xml-attributes/named-and-indexed-items.md", "summary": "Open when looking up XMLAttributes named and indexed items in Shared Adobe platform.", "keywords": ["XMLAttributes named and indexed items"]},
+  {"topic": "XMLAttributes.add", "file": "community-types/indesign/xml-attributes/add.md", "summary": "Open when looking up XMLAttributes.add in Shared Adobe platform.", "keywords": ["XMLAttributes.add"]},
+  {"topic": "XMLAttributes.count", "file": "community-types/indesign/xml-attributes/count.md", "summary": "Open when looking up XMLAttributes.count in Shared Adobe platform.", "keywords": ["XMLAttributes.count"]},
+  {"topic": "XMLAttributes.IndexSignature", "file": "community-types/indesign/xml-attributes/index-signature.md", "summary": "Open when looking up XMLAttributes.IndexSignature in Shared Adobe platform.", "keywords": ["XMLAttributes.IndexSignature"]},
+  {"topic": "XMLAttributes.itemByRange", "file": "community-types/indesign/xml-attributes/item-by-range.md", "summary": "Open when looking up XMLAttributes.itemByRange in Shared Adobe platform.", "keywords": ["XMLAttributes.itemByRange"]},
+  {"topic": "XMLAttributes.length", "file": "community-types/indesign/xml-attributes/length.md", "summary": "Open when looking up XMLAttributes.length in Shared Adobe platform.", "keywords": ["XMLAttributes.length"]},
+  {"topic": "XMLAttributes.toSource", "file": "community-types/indesign/xml-attributes/to-source.md", "summary": "Open when looking up XMLAttributes.toSource in Shared Adobe platform.", "keywords": ["XMLAttributes.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

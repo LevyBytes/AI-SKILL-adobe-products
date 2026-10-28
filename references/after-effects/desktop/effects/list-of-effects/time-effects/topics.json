@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Apply the Time Displacement effect", "file": "desktop/effects/list-of-effects/time-effects/apply-the-time-displacement-effect.md", "summary": "Open when looking up Apply the Time Displacement effect in After Effects.", "keywords": ["Apply the Time Displacement effect"]},
+  {"topic": "Echo effect", "file": "desktop/effects/list-of-effects/time-effects/echo-effect.md", "summary": "Open when looking up Echo effect in After Effects.", "keywords": ["Echo effect"]},
+  {"topic": "Pixel Motion Blur | CC", "file": "desktop/effects/list-of-effects/time-effects/pixel-motion-blur-cc.md", "summary": "Open when looking up Pixel Motion Blur | CC in After Effects.", "keywords": ["Pixel Motion Blur | CC"]},
+  {"topic": "Posterize Time effect", "file": "desktop/effects/list-of-effects/time-effects/posterize-time-effect.md", "summary": "Open when looking up Posterize Time effect in After Effects.", "keywords": ["Posterize Time effect"]},
+  {"topic": "Time Difference effect", "file": "desktop/effects/list-of-effects/time-effects/time-difference-effect.md", "summary": "Open when looking up Time Difference effect in After Effects.", "keywords": ["Time Difference effect"]},
+  {"topic": "Time Displacement effect", "file": "desktop/effects/list-of-effects/time-effects/time-displacement-effect.md", "summary": "Open when looking up Time Displacement effect in After Effects.", "keywords": ["Time Displacement effect"]},
+  {"topic": "Timewarp effect", "file": "desktop/effects/list-of-effects/time-effects/timewarp-effect.md", "summary": "Open when looking up Timewarp effect in After Effects.", "keywords": ["Timewarp effect"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

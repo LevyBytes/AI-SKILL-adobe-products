@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "Detect edit points using Scene Edit Detection", "file": "references/desktop/work-with-footage-items/scene-edit-detection/detect-edit-points-using-scene-edit-detection.md", "summary": "Open when looking up Detect edit points using Scene Edit Detection in After Effects.", "keywords": ["Detect edit points using Scene Edit Detection"]},
-  {"topic": "Detect edit points using Scene Edit Detection references", "file": "references/desktop/work-with-footage-items/scene-edit-detection/scene-cut-detection/reference-index.md", "summary": "Open when looking up Detect edit points using Scene Edit Detection in After Effects.", "keywords": ["Detect edit points using Scene Edit Detection references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "TableStyle declaration", "file": "references/community-types/indesign/table-style/declaration.md", "summary": "Open when looking up TableStyle declaration in Shared Adobe platform.", "keywords": ["TableStyle declaration"]},
-  {"topic": "TableStyle identity and parent", "file": "references/community-types/indesign/table-style/identity-and-parent.md", "summary": "Open when looking up TableStyle identity and parent in Shared Adobe platform.", "keywords": ["TableStyle identity and parent"]},
-  {"topic": "TableStyle labels and metadata", "file": "references/community-types/indesign/table-style/labels-and-metadata.md", "summary": "Open when looking up TableStyle labels and metadata in Shared Adobe platform.", "keywords": ["TableStyle labels and metadata"]},
-  {"topic": "TableStyle object lifecycle", "file": "references/community-types/indesign/table-style/object-lifecycle.md", "summary": "Open when looking up TableStyle object lifecycle in Shared Adobe platform.", "keywords": ["TableStyle object lifecycle"]},
-  {"topic": "TableStyle object resolution", "file": "references/community-types/indesign/table-style/object-resolution.md", "summary": "Open when looking up TableStyle object resolution in Shared Adobe platform.", "keywords": ["TableStyle object resolution"]},
-  {"topic": "TableStyle.properties", "file": "references/community-types/indesign/table-style/properties.md", "summary": "Open when looking up TableStyle.properties in Shared Adobe platform.", "keywords": ["TableStyle.properties"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

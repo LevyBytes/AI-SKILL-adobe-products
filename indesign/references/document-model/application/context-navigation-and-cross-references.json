@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "indexGenerationOptions", "file": "references/document-model/application/index-generation-options.md", "summary": "Open when looking up indexGenerationOptions in InDesign.", "keywords": ["indexGenerationOptions"]},
-  {"topic": "indexingSortOptions", "file": "references/document-model/application/indexing-sort-options.md", "summary": "Open when looking up indexingSortOptions in InDesign.", "keywords": ["indexingSortOptions"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

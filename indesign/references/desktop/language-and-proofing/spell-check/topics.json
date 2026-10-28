@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Check spelling", "file": "references/desktop/language-and-proofing/spell-check/check-spelling.md", "summary": "Open when looking up Check spelling in InDesign.", "keywords": ["Check spelling"]},
-  {"topic": "Set spelling preferences", "file": "references/desktop/language-and-proofing/spell-check/set-spelling-preferences.md", "summary": "Open when looking up Set spelling preferences in InDesign.", "keywords": ["Set spelling preferences"]},
-  {"topic": "Set up autocorrect and dynamic spelling", "file": "references/desktop/language-and-proofing/spell-check/set-up-autocorrect-and-dynamic-spelling.md", "summary": "Open when looking up Set up autocorrect and dynamic spelling in InDesign.", "keywords": ["Set up autocorrect and dynamic spelling"]},
-  {"topic": "Set up autocorrect and dynamic spelling references", "file": "references/desktop/language-and-proofing/spell-check/set-up-autocorrect-and-dynamic-spelling/reference-index.md", "summary": "Open when looking up Set up autocorrect and dynamic spelling in InDesign.", "keywords": ["Set up autocorrect and dynamic spelling references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

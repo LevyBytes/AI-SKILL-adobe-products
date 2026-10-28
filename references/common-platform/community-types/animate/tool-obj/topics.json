@@ -1,0 +1,16 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "ToolObj declaration", "file": "community-types/animate/tool-obj/declaration.md", "summary": "Open when looking up ToolObj declaration in Shared Adobe platform.", "keywords": ["ToolObj declaration"]},
+  {"topic": "ToolObj.depth", "file": "community-types/animate/tool-obj/depth.md", "summary": "Open when looking up ToolObj.depth in Shared Adobe platform.", "keywords": ["ToolObj.depth"]},
+  {"topic": "ToolObj.enablePIControl", "file": "community-types/animate/tool-obj/enable-pi-control.md", "summary": "Open when looking up ToolObj.enablePIControl in Shared Adobe platform.", "keywords": ["ToolObj.enablePIControl"]},
+  {"topic": "ToolObj.iconID", "file": "community-types/animate/tool-obj/icon-id.md", "summary": "Open when looking up ToolObj.iconID in Shared Adobe platform.", "keywords": ["ToolObj.iconID"]},
+  {"topic": "ToolObj.position", "file": "community-types/animate/tool-obj/position.md", "summary": "Open when looking up ToolObj.position in Shared Adobe platform.", "keywords": ["ToolObj.position"]},
+  {"topic": "ToolObj.setIcon", "file": "community-types/animate/tool-obj/set-icon.md", "summary": "Open when looking up ToolObj.setIcon in Shared Adobe platform.", "keywords": ["ToolObj.setIcon"]},
+  {"topic": "ToolObj.setMenuString", "file": "community-types/animate/tool-obj/set-menu-string.md", "summary": "Open when looking up ToolObj.setMenuString in Shared Adobe platform.", "keywords": ["ToolObj.setMenuString"]},
+  {"topic": "ToolObj.setOptionsFile", "file": "community-types/animate/tool-obj/set-options-file.md", "summary": "Open when looking up ToolObj.setOptionsFile in Shared Adobe platform.", "keywords": ["ToolObj.setOptionsFile"]},
+  {"topic": "ToolObj.setPI", "file": "community-types/animate/tool-obj/set-pi.md", "summary": "Open when looking up ToolObj.setPI in Shared Adobe platform.", "keywords": ["ToolObj.setPI"]},
+  {"topic": "ToolObj.setToolName", "file": "community-types/animate/tool-obj/set-tool-name.md", "summary": "Open when looking up ToolObj.setToolName in Shared Adobe platform.", "keywords": ["ToolObj.setToolName"]},
+  {"topic": "ToolObj.setToolTip", "file": "community-types/animate/tool-obj/set-tool-tip.md", "summary": "Open when looking up ToolObj.setToolTip in Shared Adobe platform.", "keywords": ["ToolObj.setToolTip"]},
+  {"topic": "ToolObj.showPIControl", "file": "community-types/animate/tool-obj/show-pi-control.md", "summary": "Open when looking up ToolObj.showPIControl in Shared Adobe platform.", "keywords": ["ToolObj.showPIControl"]},
+  {"topic": "ToolObj.showTransformHandles", "file": "community-types/animate/tool-obj/show-transform-handles.md", "summary": "Open when looking up ToolObj.showTransformHandles in Shared Adobe platform.", "keywords": ["ToolObj.showTransformHandles"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

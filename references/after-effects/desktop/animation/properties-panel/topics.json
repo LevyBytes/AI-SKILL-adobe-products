@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Animate quickly using the After Effects Properties panel", "file": "desktop/animation/properties-panel/animate-quickly-using-the-after-effects-properties-panel.md", "summary": "Open when looking up Animate quickly using the After Effects Properties panel in After Effects.", "keywords": ["Animate quickly using the After Effects Properties panel"]},
+  {"topic": "Animate quickly using the After Effects Properties panel references", "file": "desktop/animation/properties-panel/properties-panel-workflows/reference-index.md", "summary": "Open when looking up Animate quickly using the After Effects Properties panel in After Effects.", "keywords": ["Animate quickly using the After Effects Properties panel references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

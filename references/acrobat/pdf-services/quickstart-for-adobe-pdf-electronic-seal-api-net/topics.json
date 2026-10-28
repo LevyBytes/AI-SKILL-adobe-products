@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Prerequisites", "file": "pdf-services/quickstart-for-adobe-pdf-electronic-seal-api-net/prerequisites.md", "summary": "Open when checking the runtime, build tools and account requirements before sealing a PDF.", "keywords": ["Prerequisites"]},
+  {"topic": "Get credentials", "file": "pdf-services/quickstart-for-adobe-pdf-electronic-seal-api-net/step-one-getting-credentials.md", "summary": "Open when obtaining Adobe client credentials and the .NET sample download.", "keywords": ["Step One: Getting credentials"]},
+  {"topic": "Set up the project", "file": "pdf-services/quickstart-for-adobe-pdf-electronic-seal-api-net/step-two-setting-up-the-project.md", "summary": "Open when creating the project, resolving dependencies and preparing the PDF, seal image and logging configuration.", "keywords": ["Step Two: Setting up the project"]},
+  {"topic": "Run the seal application", "file": "pdf-services/quickstart-for-adobe-pdf-electronic-seal-api-net/step-three-creating-the-application.md", "summary": "Open when configuring provider credentials, appearance and field options, then submitting and downloading the sealed PDF.", "keywords": ["Step Three: Creating the application"]},
+  {"topic": "Next steps", "file": "pdf-services/quickstart-for-adobe-pdf-electronic-seal-api-net/next-steps.md", "summary": "Open when extending a completed first sealing workflow or finding product support.", "keywords": ["Next Steps"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

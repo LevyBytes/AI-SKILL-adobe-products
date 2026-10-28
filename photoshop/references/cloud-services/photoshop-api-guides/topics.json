@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Migration (v1 to v2)", "file": "references/cloud-services/photoshop-api-guides/migration-v1-to-v2.md", "summary": "Open when looking up Migration (v1 to v2) in Photoshop.", "keywords": ["Migration (v1 to v2)"]},
-  {"topic": "Photoshop API v1 guides", "file": "references/cloud-services/photoshop-api-guides/photoshop-api-v1-guides.md", "summary": "Open when looking up Photoshop API v1 guides in Photoshop.", "keywords": ["Photoshop API v1 guides"]},
-  {"topic": "Photoshop API v2 guides", "file": "references/cloud-services/photoshop-api-guides/photoshop-api-v2-guides.md", "summary": "Open when looking up Photoshop API v2 guides in Photoshop.", "keywords": ["Photoshop API v2 guides"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

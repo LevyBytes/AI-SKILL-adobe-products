@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Scripting Constants - SVGDTDVersion", "file": "scripting/svgdtd-version/scripting-constants-svgdtd-version.md", "summary": "Open when looking up Scripting Constants - SVGDTDVersion in Illustrator.", "keywords": ["Scripting Constants - SVGDTDVersion"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

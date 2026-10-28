@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "transformationMatrices", "file": "document-model/application/transformation-matrices.md", "summary": "Open when looking up transformationMatrices in InDesign.", "keywords": ["transformationMatrices"]},
+  {"topic": "transformPreferences", "file": "document-model/application/transform-preferences.md", "summary": "Open when looking up transformPreferences in InDesign.", "keywords": ["transformPreferences"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

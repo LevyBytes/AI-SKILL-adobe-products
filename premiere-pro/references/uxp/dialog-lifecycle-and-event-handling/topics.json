@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Example: Close a Modal Dialog and return a value", "file": "references/uxp/dialog-lifecycle-and-event-handling/example-close-a-modal-dialog-and-return-a-value.md", "summary": "Open when looking up Example: Close a Modal Dialog and return a value in Premiere Pro.", "keywords": ["Example: Close a Modal Dialog and return a value"]},
-  {"topic": "index.html", "file": "references/uxp/dialog-lifecycle-and-event-handling/index-html.md", "summary": "Open when looking up index.html in Premiere Pro.", "keywords": ["index.html"]},
-  {"topic": "main.js", "file": "references/uxp/dialog-lifecycle-and-event-handling/main-js.md", "summary": "Open when looking up main.js in Premiere Pro.", "keywords": ["main.js"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

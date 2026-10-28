@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "File Object - File Object Methods", "file": "scripting/file-object-methods/file-object-file-object-methods.md", "summary": "Open when looking up File Object - File Object Methods in Shared Adobe platform.", "keywords": ["File Object - File Object Methods"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

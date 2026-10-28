@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Bring objects into perspective references", "file": "scripting/bring-objects-into-perspective/reference-index.md", "summary": "Open when looking up Bring objects into perspective in Illustrator.", "keywords": ["Bring objects into perspective references"]},
+  {"topic": "Draw on a perspective grid references", "file": "scripting/draw-on-a-perspective-grid/reference-index.md", "summary": "Open when looking up Draw on a perspective grid in Illustrator.", "keywords": ["Draw on a perspective grid references"]},
+  {"topic": "Perspective grid type references", "file": "scripting/perspective-grid-type/reference-index.md", "summary": "Open when looking up Perspective grid type in Illustrator.", "keywords": ["Perspective grid type references"]},
+  {"topic": "Set the active plane references", "file": "scripting/set-the-active-plane/reference-index.md", "summary": "Open when looking up Set the active plane in Illustrator.", "keywords": ["Set the active plane references"]},
+  {"topic": "Show or hide the grid references", "file": "scripting/show-or-hide-the-grid/reference-index.md", "summary": "Open when looking up Show or hide the grid in Illustrator.", "keywords": ["Show or hide the grid references"]},
+  {"topic": "Use perspective presets references", "file": "scripting/use-perspective-presets/reference-index.md", "summary": "Open when looking up Use perspective presets in Illustrator.", "keywords": ["Use perspective presets references"]},
+  {"topic": "Working with the perspective grid", "file": "scripting/working-with-the-perspective-grid.md", "summary": "Open when looking up Working with the perspective grid in Illustrator.", "keywords": ["Working with the perspective grid"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

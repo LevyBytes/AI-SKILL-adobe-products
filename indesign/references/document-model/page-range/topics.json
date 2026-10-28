@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "ALL_PAGES", "file": "references/document-model/page-range/allpages.md", "summary": "Open when looking up ALL_PAGES in InDesign.", "keywords": ["ALL_PAGES"]},
-  {"topic": "SELECTED_ITEMS", "file": "references/document-model/page-range/selecteditems.md", "summary": "Open when looking up SELECTED_ITEMS in InDesign.", "keywords": ["SELECTED_ITEMS"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

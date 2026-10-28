@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Field-by-field comparison", "file": "references/cloud-services/smart-object-detail/field-by-field-comparison.md", "summary": "Open when looking up Field-by-field comparison in Photoshop.", "keywords": ["Field-by-field comparison"]},
-  {"topic": "New smart object block (heavily restructured)", "file": "references/cloud-services/smart-object-detail/new-smart-object-block-heavily-restructured.md", "summary": "Open when looking up New smart object block (heavily restructured) in Photoshop.", "keywords": ["New smart object block (heavily restructured)"]},
-  {"topic": "Old smartObject block", "file": "references/cloud-services/smart-object-detail/old-smart-object-block.md", "summary": "Open when looking up Old smartObject block in Photoshop.", "keywords": ["Old smartObject block"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

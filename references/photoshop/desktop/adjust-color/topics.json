@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Choose colors", "file": "desktop/adjust-color/choose-colors.md", "summary": "Open when looking up Choose colors in Photoshop.", "keywords": ["Choose colors"]},
+  {"topic": "Choose colors references", "file": "desktop/adjust-color/choose-colors/reference-index.md", "summary": "Open when looking up Choose colors in Photoshop.", "keywords": ["Choose colors references"]},
+  {"topic": "Color corrections", "file": "desktop/adjust-color/color-corrections.md", "summary": "Open when looking up Color corrections in Photoshop.", "keywords": ["Color corrections"]},
+  {"topic": "Color corrections references", "file": "desktop/adjust-color/color-corrections/reference-index.md", "summary": "Open when looking up Color corrections in Photoshop.", "keywords": ["Color corrections references"]},
+  {"topic": "Color effects and techniques", "file": "desktop/adjust-color/color-effects-and-techniques.md", "summary": "Open when looking up Color effects and techniques in Photoshop.", "keywords": ["Color effects and techniques"]},
+  {"topic": "Color effects and techniques references", "file": "desktop/adjust-color/color-effects-and-techniques/reference-index.md", "summary": "Open when looking up Color effects and techniques in Photoshop.", "keywords": ["Color effects and techniques references"]},
+  {"topic": "Color modes", "file": "desktop/adjust-color/color-modes.md", "summary": "Open when looking up Color modes in Photoshop.", "keywords": ["Color modes"]},
+  {"topic": "Color modes references", "file": "desktop/adjust-color/color-modes/reference-index.md", "summary": "Open when looking up Color modes in Photoshop.", "keywords": ["Color modes references"]},
+  {"topic": "Color profiles", "file": "desktop/adjust-color/color-profiles.md", "summary": "Open when looking up Color profiles in Photoshop.", "keywords": ["Color profiles"]},
+  {"topic": "Color profiles references", "file": "desktop/adjust-color/color-profiles/reference-index.md", "summary": "Open when looking up Color profiles in Photoshop.", "keywords": ["Color profiles references"]},
+  {"topic": "Selective color adjustments", "file": "desktop/adjust-color/selective-color-adjustments.md", "summary": "Open when looking up Selective color adjustments in Photoshop.", "keywords": ["Selective color adjustments"]},
+  {"topic": "Selective color adjustments references", "file": "desktop/adjust-color/selective-color-adjustments/reference-index.md", "summary": "Open when looking up Selective color adjustments in Photoshop.", "keywords": ["Selective color adjustments references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

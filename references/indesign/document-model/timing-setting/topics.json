@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "addEventListener", "file": "document-model/timing-setting/add-event-listener.md", "summary": "Open when looking up addEventListener in InDesign.", "keywords": ["addEventListener"]},
+  {"topic": "eventListeners", "file": "document-model/timing-setting/event-listeners.md", "summary": "Open when looking up eventListeners in InDesign.", "keywords": ["eventListeners"]},
+  {"topic": "events", "file": "document-model/timing-setting/events.md", "summary": "Open when looking up events in InDesign.", "keywords": ["events"]},
+  {"topic": "getElements", "file": "document-model/timing-setting/get-elements.md", "summary": "Open when looking up getElements in InDesign.", "keywords": ["getElements"]},
+  {"topic": "isValid", "file": "document-model/timing-setting/is-valid.md", "summary": "Open when looking up isValid in InDesign.", "keywords": ["isValid"]},
+  {"topic": "parent", "file": "document-model/timing-setting/parent.md", "summary": "Open when looking up parent in InDesign.", "keywords": ["parent"]},
+  {"topic": "properties", "file": "document-model/timing-setting/properties.md", "summary": "Open when looking up properties in InDesign.", "keywords": ["properties"]},
+  {"topic": "removeEventListener", "file": "document-model/timing-setting/remove-event-listener.md", "summary": "Open when looking up removeEventListener in InDesign.", "keywords": ["removeEventListener"]},
+  {"topic": "timingLists", "file": "document-model/timing-setting/timing-lists.md", "summary": "Open when looking up timingLists in InDesign.", "keywords": ["timingLists"]},
+  {"topic": "toSource", "file": "document-model/timing-setting/to-source.md", "summary": "Open when looking up toSource in InDesign.", "keywords": ["toSource"]},
+  {"topic": "toSpecifier", "file": "document-model/timing-setting/to-specifier.md", "summary": "Open when looking up toSpecifier in InDesign.", "keywords": ["toSpecifier"]},
+  {"topic": "unassignedDynamicTargets", "file": "document-model/timing-setting/unassigned-dynamic-targets.md", "summary": "Open when looking up unassignedDynamicTargets in InDesign.", "keywords": ["unassignedDynamicTargets"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Gradient.gradientStops", "file": "scripting/gradient/gradient-stops.md", "summary": "Open when looking up Gradient.gradientStops in Illustrator.", "keywords": ["Gradient.gradientStops"]},
+  {"topic": "Gradient.name", "file": "scripting/gradient/name.md", "summary": "Open when looking up Gradient.name in Illustrator.", "keywords": ["Gradient.name"]},
+  {"topic": "Gradient.parent", "file": "scripting/gradient/parent.md", "summary": "Open when looking up Gradient.parent in Illustrator.", "keywords": ["Gradient.parent"]},
+  {"topic": "Gradient.remove()", "file": "scripting/gradient/remove.md", "summary": "Open when looking up Gradient.remove() in Illustrator.", "keywords": ["Gradient.remove()"]},
+  {"topic": "Gradient.type", "file": "scripting/gradient/type.md", "summary": "Open when looking up Gradient.type in Illustrator.", "keywords": ["Gradient.type"]},
+  {"topic": "Gradient.typename", "file": "scripting/gradient/typename.md", "summary": "Open when looking up Gradient.typename in Illustrator.", "keywords": ["Gradient.typename"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

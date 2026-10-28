@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "TrackCollection object", "file": "references/scripting/track-collection/track-collection-object.md", "summary": "Open when looking up TrackCollection object in Premiere Pro.", "keywords": ["TrackCollection object"]},
-  {"topic": "TrackCollection.numTracks", "file": "references/scripting/track-collection/num-tracks.md", "summary": "Open when looking up TrackCollection.numTracks in Premiere Pro.", "keywords": ["TrackCollection.numTracks"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

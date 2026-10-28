@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Add start and end shapes", "file": "desktop/create-lines-and-shapes/edit-and-style-paths/add-start-and-end-shapes-to-lines/add-start-and-end-shapes.md", "summary": "Open when looking up Add start and end shapes in InDesign.", "keywords": ["Add start and end shapes"]},
+  {"topic": "Guidelines for start and end shapes", "file": "desktop/create-lines-and-shapes/edit-and-style-paths/add-start-and-end-shapes-to-lines/guidelines-for-start-and-end-shapes.md", "summary": "Open when looking up Guidelines for start and end shapes in InDesign.", "keywords": ["Guidelines for start and end shapes"]},
+  {"topic": "Switch a path’s start and end shapes", "file": "desktop/create-lines-and-shapes/edit-and-style-paths/add-start-and-end-shapes-to-lines/switch-a-path-s-start-and-end-shapes.md", "summary": "Open when looking up Switch a path’s start and end shapes in InDesign.", "keywords": ["Switch a path’s start and end shapes"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

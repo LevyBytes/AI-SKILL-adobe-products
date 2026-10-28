@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Cell.allGraphics", "file": "community-types/indesign/cell/all-graphics.md", "summary": "Open when looking up Cell.allGraphics in Shared Adobe platform.", "keywords": ["Cell.allGraphics"]},
+  {"topic": "Cell.allPageItems", "file": "community-types/indesign/cell/all-page-items.md", "summary": "Open when looking up Cell.allPageItems in Shared Adobe platform.", "keywords": ["Cell.allPageItems"]},
+  {"topic": "Cell.epstexts", "file": "community-types/indesign/cell/epstexts.md", "summary": "Open when looking up Cell.epstexts in Shared Adobe platform.", "keywords": ["Cell.epstexts"]},
+  {"topic": "Cell.graphicLines", "file": "community-types/indesign/cell/graphic-lines.md", "summary": "Open when looking up Cell.graphicLines in Shared Adobe platform.", "keywords": ["Cell.graphicLines"]},
+  {"topic": "Cell.groups", "file": "community-types/indesign/cell/groups.md", "summary": "Open when looking up Cell.groups in Shared Adobe platform.", "keywords": ["Cell.groups"]},
+  {"topic": "Cell.ovals", "file": "community-types/indesign/cell/ovals.md", "summary": "Open when looking up Cell.ovals in Shared Adobe platform.", "keywords": ["Cell.ovals"]},
+  {"topic": "Cell.pageItems", "file": "community-types/indesign/cell/page-items.md", "summary": "Open when looking up Cell.pageItems in Shared Adobe platform.", "keywords": ["Cell.pageItems"]},
+  {"topic": "Cell.polygons", "file": "community-types/indesign/cell/polygons.md", "summary": "Open when looking up Cell.polygons in Shared Adobe platform.", "keywords": ["Cell.polygons"]},
+  {"topic": "Cell.rectangles", "file": "community-types/indesign/cell/rectangles.md", "summary": "Open when looking up Cell.rectangles in Shared Adobe platform.", "keywords": ["Cell.rectangles"]},
+  {"topic": "Cell.splineItems", "file": "community-types/indesign/cell/spline-items.md", "summary": "Open when looking up Cell.splineItems in Shared Adobe platform.", "keywords": ["Cell.splineItems"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "PageItem.allGraphics", "file": "community-types/indesign/page-item/all-graphics.md", "summary": "Open when looking up PageItem.allGraphics in Shared Adobe platform.", "keywords": ["PageItem.allGraphics"]},
+  {"topic": "PageItem.allPageItems", "file": "community-types/indesign/page-item/all-page-items.md", "summary": "Open when looking up PageItem.allPageItems in Shared Adobe platform.", "keywords": ["PageItem.allPageItems"]},
+  {"topic": "PageItem.graphics", "file": "community-types/indesign/page-item/graphics.md", "summary": "Open when looking up PageItem.graphics in Shared Adobe platform.", "keywords": ["PageItem.graphics"]},
+  {"topic": "PageItem.pageItems", "file": "community-types/indesign/page-item/page-items.md", "summary": "Open when looking up PageItem.pageItems in Shared Adobe platform.", "keywords": ["PageItem.pageItems"]},
+  {"topic": "PageItem.svgs", "file": "community-types/indesign/page-item/svgs.md", "summary": "Open when looking up PageItem.svgs in Shared Adobe platform.", "keywords": ["PageItem.svgs"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Code implementation", "file": "uxp/uxp-entrypoints/code-implementation.md", "summary": "Open when looking up Code implementation in Premiere Pro.", "keywords": ["Code implementation"]},
+  {"topic": "Command Handlers", "file": "uxp/uxp-entrypoints/command-handlers.md", "summary": "Open when looking up Command Handlers in Premiere Pro.", "keywords": ["Command Handlers"]},
+  {"topic": "Entrypoints", "file": "uxp/uxp-entrypoints/entrypoints.md", "summary": "Open when looking up Entrypoints in Premiere Pro.", "keywords": ["Entrypoints"]},
+  {"topic": "Manifest declaration", "file": "uxp/uxp-entrypoints/manifest-declaration.md", "summary": "Open when looking up Manifest declaration in Premiere Pro.", "keywords": ["Manifest declaration"]},
+  {"topic": "Panel Lifecycle Hooks", "file": "uxp/uxp-entrypoints/panel-lifecycle-hooks.md", "summary": "Open when looking up Panel Lifecycle Hooks in Premiere Pro.", "keywords": ["Panel Lifecycle Hooks"]},
+  {"topic": "Plugin Components", "file": "uxp/uxp-entrypoints/plugin-components.md", "summary": "Open when looking up Plugin Components in Premiere Pro.", "keywords": ["Plugin Components"]},
+  {"topic": "Plugin Lifecycle Hooks", "file": "uxp/uxp-entrypoints/plugin-lifecycle-hooks.md", "summary": "Open when looking up Plugin Lifecycle Hooks in Premiere Pro.", "keywords": ["Plugin Lifecycle Hooks"]},
+  {"topic": "The entrypoints.setup() method", "file": "uxp/uxp-entrypoints/the-entrypoints-setup-method.md", "summary": "Open when looking up The entrypoints.setup() method in Premiere Pro.", "keywords": ["The entrypoints.setup() method"]},
+  {"topic": "Using Promises", "file": "uxp/uxp-entrypoints/using-promises.md", "summary": "Open when looking up Using Promises in Premiere Pro.", "keywords": ["Using Promises"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

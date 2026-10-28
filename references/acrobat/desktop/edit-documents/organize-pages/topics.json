@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Delete pages in PDFs", "file": "desktop/edit-documents/organize-pages/delete-pages-in-pdfs.md", "summary": "Open when looking up Delete pages in PDFs in Acrobat.", "keywords": ["Delete pages in PDFs"]},
+  {"topic": "Extract pages from PDFs", "file": "desktop/edit-documents/organize-pages/extract-pages-from-pdfs.md", "summary": "Open when looking up Extract pages from PDFs in Acrobat.", "keywords": ["Extract pages from PDFs"]},
+  {"topic": "Move or copy pages between two PDFs", "file": "desktop/edit-documents/organize-pages/move-or-copy-pages-between-two-pdfs.md", "summary": "Open when looking up Move or copy pages between two PDFs in Acrobat.", "keywords": ["Move or copy pages between two PDFs"]},
+  {"topic": "Move or copy pages between two PDFs references", "file": "desktop/edit-documents/organize-pages/move-or-copy-pages-between-two-pdfs/reference-index.md", "summary": "Open when looking up Move or copy pages between two PDFs in Acrobat.", "keywords": ["Move or copy pages between two PDFs references"]},
+  {"topic": "Move or copy pages within PDFs", "file": "desktop/edit-documents/organize-pages/move-or-copy-pages-within-pdfs.md", "summary": "Open when looking up Move or copy pages within PDFs in Acrobat.", "keywords": ["Move or copy pages within PDFs"]},
+  {"topic": "Renumber pages in PDFs", "file": "desktop/edit-documents/organize-pages/renumber-pages-in-pdfs.md", "summary": "Open when looking up Renumber pages in PDFs in Acrobat.", "keywords": ["Renumber pages in PDFs"]},
+  {"topic": "Rotate pages in PDFs", "file": "desktop/edit-documents/organize-pages/rotate-pages-in-pdfs.md", "summary": "Open when looking up Rotate pages in PDFs in Acrobat.", "keywords": ["Rotate pages in PDFs"]},
+  {"topic": "Split PDFs", "file": "desktop/edit-documents/organize-pages/split-pdfs.md", "summary": "Open when looking up Split PDFs in Acrobat.", "keywords": ["Split PDFs"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

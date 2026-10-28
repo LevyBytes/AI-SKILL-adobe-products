@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Link status indicators", "file": "desktop/graphics-and-media/manage-links/links-panel-overview/link-status-indicators.md", "summary": "Open when looking up Link status indicators in InDesign.", "keywords": ["Link status indicators"]},
+  {"topic": "Panel structure and organization", "file": "desktop/graphics-and-media/manage-links/links-panel-overview/panel-structure-and-organization.md", "summary": "Open when looking up Panel structure and organization in InDesign.", "keywords": ["Panel structure and organization"]},
+  {"topic": "Platform-specific paths", "file": "desktop/graphics-and-media/manage-links/links-panel-overview/platform-specific-paths.md", "summary": "Open when looking up Platform-specific paths in InDesign.", "keywords": ["Platform-specific paths"]},
+  {"topic": "Special considerations for InCopy workflows", "file": "desktop/graphics-and-media/manage-links/links-panel-overview/special-considerations-for-in-copy-workflows.md", "summary": "Open when looking up Special considerations for InCopy workflows in InDesign.", "keywords": ["Special considerations for InCopy workflows"]},
+  {"topic": "Understanding link relationships", "file": "desktop/graphics-and-media/manage-links/links-panel-overview/understanding-link-relationships.md", "summary": "Open when looking up Understanding link relationships in InDesign.", "keywords": ["Understanding link relationships"]},
+  {"topic": "Workflow integration", "file": "desktop/graphics-and-media/manage-links/links-panel-overview/workflow-integration.md", "summary": "Open when looking up Workflow integration in InDesign.", "keywords": ["Workflow integration"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

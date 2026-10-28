@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Premiere API - Synchronous vs Asynchronous", "file": "uxp/host-api/premiere-api-overview/premiere-api-synchronous-vs-asynchronous.md", "summary": "Open when looking up Premiere API - Synchronous vs Asynchronous in Premiere Pro.", "keywords": ["Premiere API - Synchronous vs Asynchronous"]},
+  {"topic": "Premiere API - Useful links", "file": "uxp/host-api/premiere-api-overview/premiere-api-useful-links.md", "summary": "Open when looking up Premiere API - Useful links in Premiere Pro.", "keywords": ["Premiere API - Useful links"]},
+  {"topic": "Premiere Application", "file": "uxp/host-api/premiere-api-overview/premiere-application.md", "summary": "Open when looking up Premiere Application in Premiere Pro.", "keywords": ["Premiere Application"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

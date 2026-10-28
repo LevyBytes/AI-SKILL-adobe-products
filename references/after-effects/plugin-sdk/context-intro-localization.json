@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Localization", "file": "plugin-sdk/localization.md", "summary": "Open when looking up Localization in After Effects.", "keywords": ["Localization"]},
+  {"topic": "Localization references", "file": "plugin-sdk/localization/reference-index.md", "summary": "Open when looking up Localization in After Effects.", "keywords": ["Localization references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

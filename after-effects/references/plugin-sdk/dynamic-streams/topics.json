@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "AEGP Suites - Dynamic Streams", "file": "references/plugin-sdk/dynamic-streams/aegp-suites-dynamic-streams.md", "summary": "Open when looking up AEGP Suites - Dynamic Streams in After Effects.", "keywords": ["AEGP Suites - Dynamic Streams"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

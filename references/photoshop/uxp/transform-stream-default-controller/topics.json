@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "desiredSize : number", "file": "uxp/transform-stream-default-controller/desired-size-number.md", "summary": "Open when looking up desiredSize : number in Photoshop.", "keywords": ["desiredSize : number"]},
+  {"topic": "enqueue(chunk)", "file": "uxp/transform-stream-default-controller/enqueue.md", "summary": "Open when looking up enqueue(chunk) in Photoshop.", "keywords": ["enqueue(chunk)"]},
+  {"topic": "error(reason)", "file": "uxp/transform-stream-default-controller/error.md", "summary": "Open when looking up error(reason) in Photoshop.", "keywords": ["error(reason)"]},
+  {"topic": "terminate()", "file": "uxp/transform-stream-default-controller/terminate.md", "summary": "Open when looking up terminate() in Photoshop.", "keywords": ["terminate()"]},
+  {"topic": "window.TransformStreamDefaultController", "file": "uxp/transform-stream-default-controller/overview.md", "summary": "Open when looking up window.TransformStreamDefaultController in Photoshop.", "keywords": ["window.TransformStreamDefaultController"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

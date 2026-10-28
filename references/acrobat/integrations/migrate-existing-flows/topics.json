@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Learn how to migrate your existing flows.", "file": "integrations/migrate-existing-flows/learn-how-to-migrate-your-existing-flows.md", "summary": "Open when looking up Learn how to migrate your existing flows. in Acrobat.", "keywords": ["Learn how to migrate your existing flows."]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

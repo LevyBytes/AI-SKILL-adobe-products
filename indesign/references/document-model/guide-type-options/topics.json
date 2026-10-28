@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "LIQUID", "file": "references/document-model/guide-type-options/liquid.md", "summary": "Open when looking up LIQUID in InDesign.", "keywords": ["LIQUID"]},
-  {"topic": "RULER", "file": "references/document-model/guide-type-options/ruler.md", "summary": "Open when looking up RULER in InDesign.", "keywords": ["RULER"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Text.appliedConditions", "file": "community-types/indesign/text/applied-conditions.md", "summary": "Open when looking up Text.appliedConditions in Shared Adobe platform.", "keywords": ["Text.appliedConditions"]},
+  {"topic": "Text.applyConditions", "file": "community-types/indesign/text/apply-conditions.md", "summary": "Open when looking up Text.applyConditions in Shared Adobe platform.", "keywords": ["Text.applyConditions"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

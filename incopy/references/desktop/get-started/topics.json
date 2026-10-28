@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "incopy", "topics": [
-  {"topic": "Settings and preferences references", "file": "references/desktop/get-started/settings-and-preferences/reference-index.md", "summary": "Open when looking up Settings and preferences in InCopy.", "keywords": ["Settings and preferences references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

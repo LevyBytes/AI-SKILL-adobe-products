@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Delete a metadata set", "file": "references/desktop/organize-media/edit-metadata/save-or-delete-metadata-sets/delete-a-metadata-set.md", "summary": "Open when looking up Delete a metadata set in Premiere Pro.", "keywords": ["Delete a metadata set"]},
-  {"topic": "Save a custom metadata set", "file": "references/desktop/organize-media/edit-metadata/save-or-delete-metadata-sets/save-a-custom-metadata-set.md", "summary": "Open when looking up Save a custom metadata set in Premiere Pro.", "keywords": ["Save a custom metadata set"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

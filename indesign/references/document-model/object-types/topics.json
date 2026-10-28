@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "ALL_FRAMES_TYPE", "file": "references/document-model/object-types/allframestype.md", "summary": "Open when looking up ALL_FRAMES_TYPE in InDesign.", "keywords": ["ALL_FRAMES_TYPE"]},
-  {"topic": "GRAPHIC_FRAMES_TYPE", "file": "references/document-model/object-types/graphicframestype.md", "summary": "Open when looking up GRAPHIC_FRAMES_TYPE in InDesign.", "keywords": ["GRAPHIC_FRAMES_TYPE"]},
-  {"topic": "TEXT_FRAMES_TYPE", "file": "references/document-model/object-types/textframestype.md", "summary": "Open when looking up TEXT_FRAMES_TYPE in InDesign.", "keywords": ["TEXT_FRAMES_TYPE"]},
-  {"topic": "UNASSIGNED_FRAMES_TYPE", "file": "references/document-model/object-types/unassignedframestype.md", "summary": "Open when looking up UNASSIGNED_FRAMES_TYPE in InDesign.", "keywords": ["UNASSIGNED_FRAMES_TYPE"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

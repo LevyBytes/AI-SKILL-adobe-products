@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Graph item rotation example", "file": "scripting/graph-items-example/graph-item-rotation-example.md", "summary": "Open when looking up Graph item rotation example in Illustrator.", "keywords": ["Graph item rotation example"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

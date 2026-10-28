@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Managing control titles - Title alignment and orientation", "file": "scripting/title-alignment-and-orientation/managing-control-titles-title-alignment-and-orientation.md", "summary": "Open when looking up Managing control titles - Title alignment and orientation in Shared Adobe platform.", "keywords": ["Managing control titles - Title alignment and orientation"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "appliedCellStyle", "file": "document-model/cell/applied-cell-style.md", "summary": "Open when looking up appliedCellStyle in InDesign.", "keywords": ["appliedCellStyle"]},
+  {"topic": "clearCellStyleOverrides", "file": "document-model/cell/clear-cell-style-overrides.md", "summary": "Open when looking up clearCellStyleOverrides in InDesign.", "keywords": ["clearCellStyleOverrides"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

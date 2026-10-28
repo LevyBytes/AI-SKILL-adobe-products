@@ -1,0 +1,19 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "CreateFields", "file": "uxp/enumerations/create-fields.md", "summary": "Open when looking up CreateFields in Photoshop.", "keywords": ["CreateFields"]},
+  {"topic": "DepthMapSource", "file": "uxp/enumerations/depth-map-source.md", "summary": "Open when looking up DepthMapSource in Photoshop.", "keywords": ["DepthMapSource"]},
+  {"topic": "DisplacementMapType", "file": "uxp/enumerations/displacement-map-type.md", "summary": "Open when looking up DisplacementMapType in Photoshop.", "keywords": ["DisplacementMapType"]},
+  {"topic": "EliminateFields", "file": "uxp/enumerations/eliminate-fields.md", "summary": "Open when looking up EliminateFields in Photoshop.", "keywords": ["EliminateFields"]},
+  {"topic": "LensType", "file": "uxp/enumerations/lens-type.md", "summary": "Open when looking up LensType in Photoshop.", "keywords": ["LensType"]},
+  {"topic": "NoiseDistribution", "file": "uxp/enumerations/noise-distribution.md", "summary": "Open when looking up NoiseDistribution in Photoshop.", "keywords": ["NoiseDistribution"]},
+  {"topic": "OffsetUndefinedAreas", "file": "uxp/enumerations/offset-undefined-areas.md", "summary": "Open when looking up OffsetUndefinedAreas in Photoshop.", "keywords": ["OffsetUndefinedAreas"]},
+  {"topic": "PolarConversionType", "file": "uxp/enumerations/polar-conversion-type.md", "summary": "Open when looking up PolarConversionType in Photoshop.", "keywords": ["PolarConversionType"]},
+  {"topic": "RippleSize", "file": "uxp/enumerations/ripple-size.md", "summary": "Open when looking up RippleSize in Photoshop.", "keywords": ["RippleSize"]},
+  {"topic": "SmartBlurMode", "file": "uxp/enumerations/smart-blur-mode.md", "summary": "Open when looking up SmartBlurMode in Photoshop.", "keywords": ["SmartBlurMode"]},
+  {"topic": "SmartBlurQuality", "file": "uxp/enumerations/smart-blur-quality.md", "summary": "Open when looking up SmartBlurQuality in Photoshop.", "keywords": ["SmartBlurQuality"]},
+  {"topic": "SpherizeMode", "file": "uxp/enumerations/spherize-mode.md", "summary": "Open when looking up SpherizeMode in Photoshop.", "keywords": ["SpherizeMode"]},
+  {"topic": "TextureType", "file": "uxp/enumerations/texture-type.md", "summary": "Open when looking up TextureType in Photoshop.", "keywords": ["TextureType"]},
+  {"topic": "UndefinedAreas", "file": "uxp/enumerations/undefined-areas.md", "summary": "Open when looking up UndefinedAreas in Photoshop.", "keywords": ["UndefinedAreas"]},
+  {"topic": "WaveType", "file": "uxp/enumerations/wave-type.md", "summary": "Open when looking up WaveType in Photoshop.", "keywords": ["WaveType"]},
+  {"topic": "ZigZagType", "file": "uxp/enumerations/zig-zag-type.md", "summary": "Open when looking up ZigZagType in Photoshop.", "keywords": ["ZigZagType"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

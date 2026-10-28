@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "createAppendComponentAction", "file": "uxp/host-api/video-component-chain/instance-methods/create-append-component-action.md", "summary": "Open when looking up createAppendComponentAction in Premiere Pro.", "keywords": ["createAppendComponentAction"]},
+  {"topic": "createInsertComponentAction", "file": "uxp/host-api/video-component-chain/instance-methods/create-insert-component-action.md", "summary": "Open when looking up createInsertComponentAction in Premiere Pro.", "keywords": ["createInsertComponentAction"]},
+  {"topic": "createRemoveComponentAction", "file": "uxp/host-api/video-component-chain/instance-methods/create-remove-component-action.md", "summary": "Open when looking up createRemoveComponentAction in Premiere Pro.", "keywords": ["createRemoveComponentAction"]},
+  {"topic": "getComponentAtIndex", "file": "uxp/host-api/video-component-chain/instance-methods/get-component-at-index.md", "summary": "Open when looking up getComponentAtIndex in Premiere Pro.", "keywords": ["getComponentAtIndex"]},
+  {"topic": "getComponentCount", "file": "uxp/host-api/video-component-chain/instance-methods/get-component-count.md", "summary": "Open when looking up getComponentCount in Premiere Pro.", "keywords": ["getComponentCount"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

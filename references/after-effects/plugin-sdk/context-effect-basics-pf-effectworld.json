@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Accessor macros for opaque data type pixels references", "file": "plugin-sdk/accessor-macros-for-opaque-data-type-pixels/reference-index.md", "summary": "Open when looking up Accessor macros for opaque data type pixels in After Effects.", "keywords": ["Accessor macros for opaque data type pixels references"]},
+  {"topic": "Byte alignment references", "file": "plugin-sdk/byte-alignment/reference-index.md", "summary": "Open when looking up Byte alignment in After Effects.", "keywords": ["Byte alignment references"]},
+  {"topic": "New in 16 0 references", "file": "plugin-sdk/new-in-16-0/reference-index.md", "summary": "Open when looking up New in 16 0 in After Effects.", "keywords": ["New in 16 0 references"]},
+  {"topic": "Pf effect world structure references", "file": "plugin-sdk/pf-effect-world-structure/reference-index.md", "summary": "Open when looking up Pf effect world structure in After Effects.", "keywords": ["Pf effect world structure references"]},
+  {"topic": "Pf pixel ptr accessor macros references", "file": "plugin-sdk/pf-pixel-ptr-accessor-macros/reference-index.md", "summary": "Open when looking up Pf pixel ptr accessor macros in After Effects.", "keywords": ["Pf pixel ptr accessor macros references"]},
+  {"topic": "PF_EffectWorld / PF_LayerDef", "file": "plugin-sdk/pf-effect-world-pf-layer-def.md", "summary": "Open when looking up PF_EffectWorld / PF_LayerDef in After Effects.", "keywords": ["PF_EffectWorld / PF_LayerDef"]},
+  {"topic": "Rowbytes in pf effect worlds references", "file": "plugin-sdk/rowbytes-in-pf-effect-worlds/reference-index.md", "summary": "Open when looking up Rowbytes in pf effect worlds in After Effects.", "keywords": ["Rowbytes in pf effect worlds references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

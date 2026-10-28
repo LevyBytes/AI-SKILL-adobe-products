@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "CSS", "file": "uxp/known-issues/css.md", "summary": "Open when looking up CSS in Premiere Pro.", "keywords": ["CSS"]},
+  {"topic": "Debugging", "file": "uxp/known-issues/debugging.md", "summary": "Open when looking up Debugging in Premiere Pro.", "keywords": ["Debugging"]},
+  {"topic": "DOM", "file": "uxp/known-issues/dom.md", "summary": "Open when looking up DOM in Premiere Pro.", "keywords": ["DOM"]},
+  {"topic": "Events", "file": "uxp/known-issues/events.md", "summary": "Open when looking up Events in Premiere Pro.", "keywords": ["Events"]},
+  {"topic": "File I/O", "file": "uxp/known-issues/file-i-o.md", "summary": "Open when looking up File I/O in Premiere Pro.", "keywords": ["File I/O"]},
+  {"topic": "General Issues", "file": "uxp/known-issues/general-issues.md", "summary": "Open when looking up General Issues in Premiere Pro.", "keywords": ["General Issues"]},
+  {"topic": "HTML Elements", "file": "uxp/known-issues/html-elements.md", "summary": "Open when looking up HTML Elements in Premiere Pro.", "keywords": ["HTML Elements"]},
+  {"topic": "Layout", "file": "uxp/known-issues/layout.md", "summary": "Open when looking up Layout in Premiere Pro.", "keywords": ["Layout"]},
+  {"topic": "Network I/O", "file": "uxp/known-issues/network-i-o.md", "summary": "Open when looking up Network I/O in Premiere Pro.", "keywords": ["Network I/O"]},
+  {"topic": "Spectrum UXP Components", "file": "uxp/known-issues/spectrum-uxp-components.md", "summary": "Open when looking up Spectrum UXP Components in Premiere Pro.", "keywords": ["Spectrum UXP Components"]},
+  {"topic": "User Interface", "file": "uxp/known-issues/user-interface.md", "summary": "Open when looking up User Interface in Premiere Pro.", "keywords": ["User Interface"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

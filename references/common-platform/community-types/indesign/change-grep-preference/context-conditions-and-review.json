@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "ChangeGrepPreference.appliedConditions", "file": "community-types/indesign/change-grep-preference/applied-conditions.md", "summary": "Open when looking up ChangeGrepPreference.appliedConditions in Shared Adobe platform.", "keywords": ["ChangeGrepPreference.appliedConditions"]},
+  {"topic": "ChangeGrepPreference.changeConditionsMode", "file": "community-types/indesign/change-grep-preference/change-conditions-mode.md", "summary": "Open when looking up ChangeGrepPreference.changeConditionsMode in Shared Adobe platform.", "keywords": ["ChangeGrepPreference.changeConditionsMode"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

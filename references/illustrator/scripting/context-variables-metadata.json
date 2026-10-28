@@ -1,0 +1,19 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Dataset", "file": "scripting/dataset.md", "summary": "Open when looking up Dataset in Illustrator.", "keywords": ["Dataset"]},
+  {"topic": "Dataset example references", "file": "scripting/dataset-example/reference-index.md", "summary": "Open when looking up Dataset example in Illustrator.", "keywords": ["Dataset example references"]},
+  {"topic": "Dataset references", "file": "scripting/dataset/reference-index.md", "summary": "Open when looking up Dataset in Illustrator.", "keywords": ["Dataset references"]},
+  {"topic": "Datasets", "file": "scripting/datasets.md", "summary": "Open when looking up Datasets in Illustrator.", "keywords": ["Datasets"]},
+  {"topic": "Datasets references", "file": "scripting/datasets/reference-index.md", "summary": "Open when looking up Datasets in Illustrator.", "keywords": ["Datasets references"]},
+  {"topic": "Tag", "file": "scripting/tag.md", "summary": "Open when looking up Tag in Illustrator.", "keywords": ["Tag"]},
+  {"topic": "Tag example references", "file": "scripting/tag-example/reference-index.md", "summary": "Open when looking up Tag example in Illustrator.", "keywords": ["Tag example references"]},
+  {"topic": "Tag references", "file": "scripting/tag/reference-index.md", "summary": "Open when looking up Tag in Illustrator.", "keywords": ["Tag references"]},
+  {"topic": "Tags", "file": "scripting/tags.md", "summary": "Open when looking up Tags in Illustrator.", "keywords": ["Tags"]},
+  {"topic": "Tags example references", "file": "scripting/tags-example/reference-index.md", "summary": "Open when looking up Tags example in Illustrator.", "keywords": ["Tags example references"]},
+  {"topic": "Tags references", "file": "scripting/tags/reference-index.md", "summary": "Open when looking up Tags in Illustrator.", "keywords": ["Tags references"]},
+  {"topic": "Variable", "file": "scripting/variable.md", "summary": "Open when looking up Variable in Illustrator.", "keywords": ["Variable"]},
+  {"topic": "Variable references", "file": "scripting/variable/reference-index.md", "summary": "Open when looking up Variable in Illustrator.", "keywords": ["Variable references"]},
+  {"topic": "Variable kind references", "file": "scripting/variable-kind/reference-index.md", "summary": "Open when looking up Variable kind in Illustrator.", "keywords": ["Variable kind references"]},
+  {"topic": "Variables", "file": "scripting/variables.md", "summary": "Open when looking up Variables in Illustrator.", "keywords": ["Variables"]},
+  {"topic": "Variables references", "file": "scripting/variables/reference-index.md", "summary": "Open when looking up Variables in Illustrator.", "keywords": ["Variables references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

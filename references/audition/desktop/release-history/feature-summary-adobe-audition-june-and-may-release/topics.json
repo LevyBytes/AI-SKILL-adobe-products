@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/audition", "topics": [
+  {"topic": "Default audio device switching for macOS", "file": "desktop/release-history/feature-summary-adobe-audition-june-and-may-release/default-audio-device-switching-for-mac-os.md", "summary": "Open when looking up Default audio device switching for macOS in Audition.", "keywords": ["Default audio device switching for macOS"]},
+  {"topic": "Export video clip range", "file": "desktop/release-history/feature-summary-adobe-audition-june-and-may-release/export-video-clip-range.md", "summary": "Open when looking up Export video clip range in Audition.", "keywords": ["Export video clip range"]},
+  {"topic": "Faster scanning of third-party audio plugins", "file": "desktop/release-history/feature-summary-adobe-audition-june-and-may-release/faster-scanning-of-third-party-audio-plugins.md", "summary": "Open when looking up Faster scanning of third-party audio plugins in Audition.", "keywords": ["Faster scanning of third-party audio plugins"]},
+  {"topic": "Link Media", "file": "desktop/release-history/feature-summary-adobe-audition-june-and-may-release/link-media.md", "summary": "Open when looking up Link Media in Audition.", "keywords": ["Link Media"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

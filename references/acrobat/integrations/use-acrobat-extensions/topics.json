@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Acrobat for ChatGPT", "file": "integrations/use-acrobat-extensions/acrobat-for-chat-gpt.md", "summary": "Open when looking up Acrobat for ChatGPT in Acrobat.", "keywords": ["Acrobat for ChatGPT"]},
+  {"topic": "Acrobat for Copilot", "file": "integrations/use-acrobat-extensions/acrobat-for-copilot.md", "summary": "Open when looking up Acrobat for Copilot in Acrobat.", "keywords": ["Acrobat for Copilot"]},
+  {"topic": "Acrobat for Google Workspace", "file": "integrations/use-acrobat-extensions/acrobat-for-google-workspace.md", "summary": "Open when looking up Acrobat for Google Workspace in Acrobat.", "keywords": ["Acrobat for Google Workspace"]},
+  {"topic": "Acrobat for Microsoft 365", "file": "integrations/use-acrobat-extensions/acrobat-for-microsoft-365.md", "summary": "Open when looking up Acrobat for Microsoft 365 in Acrobat.", "keywords": ["Acrobat for Microsoft 365"]},
+  {"topic": "Acrobat for Microsoft Outlook", "file": "integrations/use-acrobat-extensions/acrobat-for-microsoft-outlook.md", "summary": "Open when looking up Acrobat for Microsoft Outlook in Acrobat.", "keywords": ["Acrobat for Microsoft Outlook"]},
+  {"topic": "Acrobat for Microsoft Teams", "file": "integrations/use-acrobat-extensions/acrobat-for-microsoft-teams.md", "summary": "Open when looking up Acrobat for Microsoft Teams in Acrobat.", "keywords": ["Acrobat for Microsoft Teams"]},
+  {"topic": "Acrobat for SharePoint and OneDrive", "file": "integrations/use-acrobat-extensions/acrobat-for-share-point-and-one-drive.md", "summary": "Open when looking up Acrobat for SharePoint and OneDrive in Acrobat.", "keywords": ["Acrobat for SharePoint and OneDrive"]},
+  {"topic": "Acrobat for WhatsApp", "file": "integrations/use-acrobat-extensions/acrobat-for-whats-app.md", "summary": "Open when looking up Acrobat for WhatsApp in Acrobat.", "keywords": ["Acrobat for WhatsApp"]},
+  {"topic": "Adobe PDF services connector", "file": "integrations/use-acrobat-extensions/adobe-pdf-services-connector.md", "summary": "Open when looking up Adobe PDF services connector in Acrobat.", "keywords": ["Adobe PDF services connector"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

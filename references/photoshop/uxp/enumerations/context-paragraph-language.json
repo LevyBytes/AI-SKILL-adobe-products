@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Justification", "file": "uxp/enumerations/justification.md", "summary": "Open when looking up Justification in Photoshop.", "keywords": ["Justification"]},
+  {"topic": "KashidaWidthType", "file": "uxp/enumerations/kashida-width-type.md", "summary": "Open when looking up KashidaWidthType in Photoshop.", "keywords": ["KashidaWidthType"]},
+  {"topic": "Kinsoku", "file": "uxp/enumerations/kinsoku.md", "summary": "Open when looking up Kinsoku in Photoshop.", "keywords": ["Kinsoku"]},
+  {"topic": "Language", "file": "uxp/enumerations/language.md", "summary": "Open when looking up Language in Photoshop.", "keywords": ["Language"]},
+  {"topic": "MiddleEasternDigitsType", "file": "uxp/enumerations/middle-eastern-digits-type.md", "summary": "Open when looking up MiddleEasternDigitsType in Photoshop.", "keywords": ["MiddleEasternDigitsType"]},
+  {"topic": "MiddleEasternTextDirection", "file": "uxp/enumerations/middle-eastern-text-direction.md", "summary": "Open when looking up MiddleEasternTextDirection in Photoshop.", "keywords": ["MiddleEasternTextDirection"]},
+  {"topic": "Mojikumi", "file": "uxp/enumerations/mojikumi.md", "summary": "Open when looking up Mojikumi in Photoshop.", "keywords": ["Mojikumi"]},
+  {"topic": "ParagraphFeatures", "file": "uxp/enumerations/paragraph-features.md", "summary": "Open when looking up ParagraphFeatures in Photoshop.", "keywords": ["ParagraphFeatures"]},
+  {"topic": "ParagraphLayout", "file": "uxp/enumerations/paragraph-layout.md", "summary": "Open when looking up ParagraphLayout in Photoshop.", "keywords": ["ParagraphLayout"]},
+  {"topic": "TypeInterfaceFeatures", "file": "uxp/enumerations/type-interface-features.md", "summary": "Open when looking up TypeInterfaceFeatures in Photoshop.", "keywords": ["TypeInterfaceFeatures"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

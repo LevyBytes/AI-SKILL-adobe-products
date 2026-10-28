@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "contentPlace", "file": "document-model/pdf/content-place.md", "summary": "Open when looking up contentPlace in InDesign.", "keywords": ["contentPlace"]},
+  {"topic": "itemLink", "file": "document-model/pdf/item-link.md", "summary": "Open when looking up itemLink in InDesign.", "keywords": ["itemLink"]},
+  {"topic": "linkedPageItemOptions", "file": "document-model/pdf/linked-page-item-options.md", "summary": "Open when looking up linkedPageItemOptions in InDesign.", "keywords": ["linkedPageItemOptions"]},
+  {"topic": "place", "file": "document-model/pdf/place.md", "summary": "Open when looking up place in InDesign.", "keywords": ["place"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Adding a plugin to the workspace", "file": "uxp/working-with-react/adding-a-plugin-to-the-workspace.md", "summary": "Open when looking up Adding a plugin to the workspace in InDesign.", "keywords": ["Adding a plugin to the workspace"]},
+  {"topic": "Watching your plugin", "file": "uxp/working-with-react/watching-your-plugin.md", "summary": "Open when looking up Watching your plugin in InDesign.", "keywords": ["Watching your plugin"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

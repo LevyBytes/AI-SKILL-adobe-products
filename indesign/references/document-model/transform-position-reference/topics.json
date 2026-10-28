@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "PAGE_EDGE_REFERENCE", "file": "references/document-model/transform-position-reference/pageedgereference.md", "summary": "Open when looking up PAGE_EDGE_REFERENCE in InDesign.", "keywords": ["PAGE_EDGE_REFERENCE"]},
-  {"topic": "PAGE_MARGIN_REFERENCE", "file": "references/document-model/transform-position-reference/pagemarginreference.md", "summary": "Open when looking up PAGE_MARGIN_REFERENCE in InDesign.", "keywords": ["PAGE_MARGIN_REFERENCE"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

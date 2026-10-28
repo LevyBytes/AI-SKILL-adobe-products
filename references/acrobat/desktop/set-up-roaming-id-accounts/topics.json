@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "macOS", "file": "desktop/set-up-roaming-id-accounts/mac-os.md", "summary": "Open when looking up macOS in Acrobat.", "keywords": ["macOS"]},
+  {"topic": "See how to get a roaming ID account going in Adobe Acrobat.", "file": "desktop/set-up-roaming-id-accounts/see-how-to-get-a-roaming-id-account-going-in-adobe-acrobat.md", "summary": "Open when looking up See how to get a roaming ID account going in Adobe Acrobat. in Acrobat.", "keywords": ["See how to get a roaming ID account going in Adobe Acrobat."]},
+  {"topic": "Windows", "file": "desktop/set-up-roaming-id-accounts/windows.md", "summary": "Open when looking up Windows in Acrobat.", "keywords": ["Windows"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

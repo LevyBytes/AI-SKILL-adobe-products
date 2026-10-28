@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Document.align", "file": "community-types/indesign/document/align.md", "summary": "Open when looking up Document.align in Shared Adobe platform.", "keywords": ["Document.align"]},
+  {"topic": "Document.distribute", "file": "community-types/indesign/document/distribute.md", "summary": "Open when looking up Document.distribute in Shared Adobe platform.", "keywords": ["Document.distribute"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

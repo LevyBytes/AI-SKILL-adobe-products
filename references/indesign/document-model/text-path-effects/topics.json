@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "GRAVITY_PATH_EFFECT", "file": "document-model/text-path-effects/gravitypatheffect.md", "summary": "Open when looking up GRAVITY_PATH_EFFECT in InDesign.", "keywords": ["GRAVITY_PATH_EFFECT"]},
+  {"topic": "RAINBOW_PATH_EFFECT", "file": "document-model/text-path-effects/rainbowpatheffect.md", "summary": "Open when looking up RAINBOW_PATH_EFFECT in InDesign.", "keywords": ["RAINBOW_PATH_EFFECT"]},
+  {"topic": "RIBBON_PATH_EFFECT", "file": "document-model/text-path-effects/ribbonpatheffect.md", "summary": "Open when looking up RIBBON_PATH_EFFECT in InDesign.", "keywords": ["RIBBON_PATH_EFFECT"]},
+  {"topic": "SKEW_PATH_EFFECT", "file": "document-model/text-path-effects/skewpatheffect.md", "summary": "Open when looking up SKEW_PATH_EFFECT in InDesign.", "keywords": ["SKEW_PATH_EFFECT"]},
+  {"topic": "STAIR_STEP_PATH_EFFECT", "file": "document-model/text-path-effects/stairsteppatheffect.md", "summary": "Open when looking up STAIR_STEP_PATH_EFFECT in InDesign.", "keywords": ["STAIR_STEP_PATH_EFFECT"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

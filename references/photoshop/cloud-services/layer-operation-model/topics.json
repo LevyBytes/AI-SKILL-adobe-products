@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Operation specification", "file": "cloud-services/layer-operation-model/operation-specification.md", "summary": "Open when looking up Operation specification in Photoshop.", "keywords": ["Operation specification"]},
+  {"topic": "Placement type mapping", "file": "cloud-services/layer-operation-model/placement-type-mapping.md", "summary": "Open when looking up Placement type mapping in Photoshop.", "keywords": ["Placement type mapping"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

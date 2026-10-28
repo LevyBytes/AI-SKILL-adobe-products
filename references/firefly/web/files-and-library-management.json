@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Access your files references", "file": "web/access-your-files/reference-index.md", "summary": "Open when looking up Access your files in Firefly.", "keywords": ["Access your files references"]},
+  {"topic": "Manage files references", "file": "web/manage-files/reference-index.md", "summary": "Open when looking up Manage files in Firefly.", "keywords": ["Manage files references"]},
+  {"topic": "Perform bulk actions references", "file": "web/perform-bulk-actions/reference-index.md", "summary": "Open when looking up Perform bulk actions in Firefly.", "keywords": ["Perform bulk actions references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

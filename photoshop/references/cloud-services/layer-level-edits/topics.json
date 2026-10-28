@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Adding a new adjustment layer", "file": "references/cloud-services/layer-level-edits/adding-a-new-adjustment-layer.md", "summary": "Open when looking up Adding a new adjustment layer in Photoshop.", "keywords": ["Adding a new adjustment layer"]},
-  {"topic": "Adding, editing and deleting layers", "file": "references/cloud-services/layer-level-edits/adding-editing-and-deleting-layers.md", "summary": "Open when looking up Adding, editing and deleting layers in Photoshop.", "keywords": ["Adding, editing and deleting layers"]},
-  {"topic": "Editing a pixel layer", "file": "references/cloud-services/layer-level-edits/editing-a-pixel-layer.md", "summary": "Open when looking up Editing a pixel layer in Photoshop.", "keywords": ["Editing a pixel layer"]},
-  {"topic": "Making an edit to a layer", "file": "references/cloud-services/layer-level-edits/making-an-edit-to-a-layer.md", "summary": "Open when looking up Making an edit to a layer in Photoshop.", "keywords": ["Making an edit to a layer"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

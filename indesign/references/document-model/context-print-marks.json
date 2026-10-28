@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "MarkLineWeight", "file": "references/document-model/mark-line-weight.md", "summary": "Open when looking up MarkLineWeight in InDesign.", "keywords": ["MarkLineWeight"]},
-  {"topic": "MarkLineWeight references", "file": "references/document-model/mark-line-weight/reference-index.md", "summary": "Open when looking up MarkLineWeight in InDesign.", "keywords": ["MarkLineWeight references"]},
-  {"topic": "MarkTypes", "file": "references/document-model/mark-types.md", "summary": "Open when looking up MarkTypes in InDesign.", "keywords": ["MarkTypes"]},
-  {"topic": "MarkTypes references", "file": "references/document-model/mark-types/reference-index.md", "summary": "Open when looking up MarkTypes in InDesign.", "keywords": ["MarkTypes references"]},
-  {"topic": "Screeening", "file": "references/document-model/screeening.md", "summary": "Open when looking up Screeening in InDesign.", "keywords": ["Screeening"]},
-  {"topic": "Screeening references", "file": "references/document-model/screeening/reference-index.md", "summary": "Open when looking up Screeening in InDesign.", "keywords": ["Screeening references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

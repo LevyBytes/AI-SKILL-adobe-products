@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "marker.key(index)", "file": "desktop/marker/key.md", "summary": "Open when looking up marker.key(index) in After Effects.", "keywords": ["marker.key(index)"]},
+  {"topic": "marker.nearestKey(t)", "file": "desktop/marker/nearest-key.md", "summary": "Open when looking up marker.nearestKey(t) in After Effects.", "keywords": ["marker.nearestKey(t)"]},
+  {"topic": "marker.numKeys", "file": "desktop/marker/num-keys.md", "summary": "Open when looking up marker.numKeys in After Effects.", "keywords": ["marker.numKeys"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

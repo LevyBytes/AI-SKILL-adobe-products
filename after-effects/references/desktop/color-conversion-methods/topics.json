@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "hexToRgb(hexString)", "file": "references/desktop/color-conversion-methods/hex-to-rgb.md", "summary": "Open when looking up hexToRgb(hexString) in After Effects.", "keywords": ["hexToRgb(hexString)"]},
-  {"topic": "hslToRgb(hslaArray)", "file": "references/desktop/color-conversion-methods/hsl-to-rgb.md", "summary": "Open when looking up hslToRgb(hslaArray) in After Effects.", "keywords": ["hslToRgb(hslaArray)"]},
-  {"topic": "rgbToHsl(rgbaArray)", "file": "references/desktop/color-conversion-methods/rgb-to-hsl.md", "summary": "Open when looking up rgbToHsl(rgbaArray) in After Effects.", "keywords": ["rgbToHsl(rgbaArray)"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

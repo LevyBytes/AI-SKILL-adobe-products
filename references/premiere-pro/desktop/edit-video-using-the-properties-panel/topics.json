@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Apply transform, crop, and speed adjustments", "file": "desktop/edit-video-using-the-properties-panel/apply-transform-crop-and-speed-adjustments.md", "summary": "Open when looking up Apply transform, crop, and speed adjustments in Premiere Pro.", "keywords": ["Apply transform, crop, and speed adjustments"]},
+  {"topic": "Editing video with the Properties panel", "file": "desktop/edit-video-using-the-properties-panel/editing-video-with-the-properties-panel.md", "summary": "Open when looking up Editing video with the Properties panel in Premiere Pro.", "keywords": ["Editing video with the Properties panel"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "ACTUAL_SIZE", "file": "document-model/zoom-options/actualsize.md", "summary": "Open when looking up ACTUAL_SIZE in InDesign.", "keywords": ["ACTUAL_SIZE"]},
+  {"topic": "FIT_PAGE", "file": "document-model/zoom-options/fitpage.md", "summary": "Open when looking up FIT_PAGE in InDesign.", "keywords": ["FIT_PAGE"]},
+  {"topic": "FIT_SPREAD", "file": "document-model/zoom-options/fitspread.md", "summary": "Open when looking up FIT_SPREAD in InDesign.", "keywords": ["FIT_SPREAD"]},
+  {"topic": "SHOW_PASTEBOARD", "file": "document-model/zoom-options/showpasteboard.md", "summary": "Open when looking up SHOW_PASTEBOARD in InDesign.", "keywords": ["SHOW_PASTEBOARD"]},
+  {"topic": "ZOOM_IN", "file": "document-model/zoom-options/zoomin.md", "summary": "Open when looking up ZOOM_IN in InDesign.", "keywords": ["ZOOM_IN"]},
+  {"topic": "ZOOM_OUT", "file": "document-model/zoom-options/zoomout.md", "summary": "Open when looking up ZOOM_OUT in InDesign.", "keywords": ["ZOOM_OUT"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

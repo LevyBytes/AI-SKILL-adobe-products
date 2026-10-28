@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "SourceMonitor object", "file": "scripting/source-monitor/source-monitor-object.md", "summary": "Open when looking up SourceMonitor object in Premiere Pro.", "keywords": ["SourceMonitor object"]},
+  {"topic": "SourceMonitor.closeAllClips()", "file": "scripting/source-monitor/close-all-clips.md", "summary": "Open when looking up SourceMonitor.closeAllClips() in Premiere Pro.", "keywords": ["SourceMonitor.closeAllClips()"]},
+  {"topic": "SourceMonitor.closeClip()", "file": "scripting/source-monitor/close-clip.md", "summary": "Open when looking up SourceMonitor.closeClip() in Premiere Pro.", "keywords": ["SourceMonitor.closeClip()"]},
+  {"topic": "SourceMonitor.getPosition()", "file": "scripting/source-monitor/get-position.md", "summary": "Open when looking up SourceMonitor.getPosition() in Premiere Pro.", "keywords": ["SourceMonitor.getPosition()"]},
+  {"topic": "SourceMonitor.getProjectItem()", "file": "scripting/source-monitor/get-project-item.md", "summary": "Open when looking up SourceMonitor.getProjectItem() in Premiere Pro.", "keywords": ["SourceMonitor.getProjectItem()"]},
+  {"topic": "SourceMonitor.openFilePath()", "file": "scripting/source-monitor/open-file-path.md", "summary": "Open when looking up SourceMonitor.openFilePath() in Premiere Pro.", "keywords": ["SourceMonitor.openFilePath()"]},
+  {"topic": "SourceMonitor.openProjectItem()", "file": "scripting/source-monitor/open-project-item.md", "summary": "Open when looking up SourceMonitor.openProjectItem() in Premiere Pro.", "keywords": ["SourceMonitor.openProjectItem()"]},
+  {"topic": "SourceMonitor.play()", "file": "scripting/source-monitor/play.md", "summary": "Open when looking up SourceMonitor.play() in Premiere Pro.", "keywords": ["SourceMonitor.play()"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

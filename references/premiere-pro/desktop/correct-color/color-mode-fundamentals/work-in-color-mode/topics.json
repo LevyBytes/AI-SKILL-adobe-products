@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Basic workflow", "file": "desktop/correct-color/color-mode-fundamentals/work-in-color-mode/basic-workflow.md", "summary": "Open when looking up Basic workflow in Premiere Pro.", "keywords": ["Basic workflow"]},
+  {"topic": "Choosing and managing mode workspaces", "file": "desktop/correct-color/color-mode-fundamentals/work-in-color-mode/choosing-and-managing-mode-workspaces.md", "summary": "Open when looking up Choosing and managing mode workspaces in Premiere Pro.", "keywords": ["Choosing and managing mode workspaces"]},
+  {"topic": "Color mode workspace", "file": "desktop/correct-color/color-mode-fundamentals/work-in-color-mode/color-mode-workspace.md", "summary": "Open when looking up Color mode workspace in Premiere Pro.", "keywords": ["Color mode workspace"]},
+  {"topic": "Configure Color Management", "file": "desktop/correct-color/color-mode-fundamentals/work-in-color-mode/configure-color-management.md", "summary": "Open when looking up Configure Color Management in Premiere Pro.", "keywords": ["Configure Color Management"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

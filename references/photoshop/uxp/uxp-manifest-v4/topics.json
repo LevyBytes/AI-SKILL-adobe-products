@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Entry Points", "file": "uxp/uxp-manifest-v4/entry-points.md", "summary": "Open when looking up Entry Points in Photoshop.", "keywords": ["Entry Points"]},
+  {"topic": "EntryPointDefinition", "file": "uxp/uxp-manifest-v4/entry-point-definition.md", "summary": "Open when looking up EntryPointDefinition in Photoshop.", "keywords": ["EntryPointDefinition"]},
+  {"topic": "Example manifest (v4)", "file": "uxp/uxp-manifest-v4/example-manifest-v4.md", "summary": "Open when looking up Example manifest (v4) in Photoshop.", "keywords": ["Example manifest (v4)"]},
+  {"topic": "Host", "file": "uxp/uxp-manifest-v4/host.md", "summary": "Open when looking up Host in Photoshop.", "keywords": ["Host"]},
+  {"topic": "HostDefinition", "file": "uxp/uxp-manifest-v4/host-definition.md", "summary": "Open when looking up HostDefinition in Photoshop.", "keywords": ["HostDefinition"]},
+  {"topic": "IconDefinition", "file": "uxp/uxp-manifest-v4/icon-definition.md", "summary": "Open when looking up IconDefinition in Photoshop.", "keywords": ["IconDefinition"]},
+  {"topic": "Icons", "file": "uxp/uxp-manifest-v4/icons.md", "summary": "Open when looking up Icons in Photoshop.", "keywords": ["Icons"]},
+  {"topic": "Inheritance and Overrides", "file": "uxp/uxp-manifest-v4/inheritance-and-overrides.md", "summary": "Open when looking up Inheritance and Overrides in Photoshop.", "keywords": ["Inheritance and Overrides"]},
+  {"topic": "Keyboard shortcuts", "file": "uxp/uxp-manifest-v4/keyboard-shortcuts.md", "summary": "Open when looking up Keyboard shortcuts in Photoshop.", "keywords": ["Keyboard shortcuts"]},
+  {"topic": "Menu Localization", "file": "uxp/uxp-manifest-v4/menu-localization.md", "summary": "Open when looking up Menu Localization in Photoshop.", "keywords": ["Menu Localization"]},
+  {"topic": "Top-level metadata", "file": "uxp/uxp-manifest-v4/top-level-metadata.md", "summary": "Open when looking up Top-level metadata in Photoshop.", "keywords": ["Top-level metadata"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

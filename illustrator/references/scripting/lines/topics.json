@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Lines.index()", "file": "references/scripting/lines/index.md", "summary": "Open when looking up Lines.index() in Illustrator.", "keywords": ["Lines.index()"]},
-  {"topic": "Lines.length", "file": "references/scripting/lines/length.md", "summary": "Open when looking up Lines.length in Illustrator.", "keywords": ["Lines.length"]},
-  {"topic": "Lines.parent", "file": "references/scripting/lines/parent.md", "summary": "Open when looking up Lines.parent in Illustrator.", "keywords": ["Lines.parent"]},
-  {"topic": "Lines.removeAll()", "file": "references/scripting/lines/remove-all.md", "summary": "Open when looking up Lines.removeAll() in Illustrator.", "keywords": ["Lines.removeAll()"]},
-  {"topic": "Lines.typename", "file": "references/scripting/lines/typename.md", "summary": "Open when looking up Lines.typename in Illustrator.", "keywords": ["Lines.typename"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

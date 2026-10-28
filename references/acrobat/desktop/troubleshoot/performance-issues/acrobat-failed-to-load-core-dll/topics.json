@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Corrupted application files", "file": "desktop/troubleshoot/performance-issues/acrobat-failed-to-load-core-dll/corrupted-application-files.md", "summary": "Open when looking up Corrupted application files in Acrobat.", "keywords": ["Corrupted application files"]},
+  {"topic": "Corrupted or missing DLL files", "file": "desktop/troubleshoot/performance-issues/acrobat-failed-to-load-core-dll/corrupted-or-missing-dll-files.md", "summary": "Open when looking up Corrupted or missing DLL files in Acrobat.", "keywords": ["Corrupted or missing DLL files"]},
+  {"topic": "Protected mode is turned on", "file": "desktop/troubleshoot/performance-issues/acrobat-failed-to-load-core-dll/protected-mode-is-turned-on.md", "summary": "Open when looking up Protected mode is turned on in Acrobat.", "keywords": ["Protected mode is turned on"]},
+  {"topic": "Unsupported installation location", "file": "desktop/troubleshoot/performance-issues/acrobat-failed-to-load-core-dll/unsupported-installation-location.md", "summary": "Open when looking up Unsupported installation location in Acrobat.", "keywords": ["Unsupported installation location"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

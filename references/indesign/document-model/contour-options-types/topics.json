@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "ALPHA_CHANNEL", "file": "document-model/contour-options-types/alphachannel.md", "summary": "Open when looking up ALPHA_CHANNEL in InDesign.", "keywords": ["ALPHA_CHANNEL"]},
+  {"topic": "BOUNDING_BOX", "file": "document-model/contour-options-types/boundingbox.md", "summary": "Open when looking up BOUNDING_BOX in InDesign.", "keywords": ["BOUNDING_BOX"]},
+  {"topic": "DETECT_EDGES", "file": "document-model/contour-options-types/detectedges.md", "summary": "Open when looking up DETECT_EDGES in InDesign.", "keywords": ["DETECT_EDGES"]},
+  {"topic": "GRAPHIC_FRAME", "file": "document-model/contour-options-types/graphicframe.md", "summary": "Open when looking up GRAPHIC_FRAME in InDesign.", "keywords": ["GRAPHIC_FRAME"]},
+  {"topic": "PHOTOSHOP_PATH", "file": "document-model/contour-options-types/photoshoppath.md", "summary": "Open when looking up PHOTOSHOP_PATH in InDesign.", "keywords": ["PHOTOSHOP_PATH"]},
+  {"topic": "SAME_AS_CLIPPING", "file": "document-model/contour-options-types/sameasclipping.md", "summary": "Open when looking up SAME_AS_CLIPPING in InDesign.", "keywords": ["SAME_AS_CLIPPING"]},
+  {"topic": "SELECT_SUBJECT", "file": "document-model/contour-options-types/selectsubject.md", "summary": "Open when looking up SELECT_SUBJECT in InDesign.", "keywords": ["SELECT_SUBJECT"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

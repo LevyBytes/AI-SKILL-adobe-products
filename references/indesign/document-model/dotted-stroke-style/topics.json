@@ -1,0 +1,21 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "addEventListener", "file": "document-model/dotted-stroke-style/add-event-listener.md", "summary": "Open when looking up addEventListener in InDesign.", "keywords": ["addEventListener"]},
+  {"topic": "dotArray", "file": "document-model/dotted-stroke-style/dot-array.md", "summary": "Open when looking up dotArray in InDesign.", "keywords": ["dotArray"]},
+  {"topic": "duplicate", "file": "document-model/dotted-stroke-style/duplicate.md", "summary": "Open when looking up duplicate in InDesign.", "keywords": ["duplicate"]},
+  {"topic": "eventListeners", "file": "document-model/dotted-stroke-style/event-listeners.md", "summary": "Open when looking up eventListeners in InDesign.", "keywords": ["eventListeners"]},
+  {"topic": "events", "file": "document-model/dotted-stroke-style/events.md", "summary": "Open when looking up events in InDesign.", "keywords": ["events"]},
+  {"topic": "getElements", "file": "document-model/dotted-stroke-style/get-elements.md", "summary": "Open when looking up getElements in InDesign.", "keywords": ["getElements"]},
+  {"topic": "id", "file": "document-model/dotted-stroke-style/id.md", "summary": "Open when looking up id in InDesign.", "keywords": ["id"]},
+  {"topic": "index", "file": "document-model/dotted-stroke-style/index.md", "summary": "Open when looking up index in InDesign.", "keywords": ["index"]},
+  {"topic": "isValid", "file": "document-model/dotted-stroke-style/is-valid.md", "summary": "Open when looking up isValid in InDesign.", "keywords": ["isValid"]},
+  {"topic": "name", "file": "document-model/dotted-stroke-style/name.md", "summary": "Open when looking up name in InDesign.", "keywords": ["name"]},
+  {"topic": "parent", "file": "document-model/dotted-stroke-style/parent.md", "summary": "Open when looking up parent in InDesign.", "keywords": ["parent"]},
+  {"topic": "properties", "file": "document-model/dotted-stroke-style/properties.md", "summary": "Open when looking up properties in InDesign.", "keywords": ["properties"]},
+  {"topic": "remove", "file": "document-model/dotted-stroke-style/remove.md", "summary": "Open when looking up remove in InDesign.", "keywords": ["remove"]},
+  {"topic": "removeEventListener", "file": "document-model/dotted-stroke-style/remove-event-listener.md", "summary": "Open when looking up removeEventListener in InDesign.", "keywords": ["removeEventListener"]},
+  {"topic": "strokeCornerAdjustment", "file": "document-model/dotted-stroke-style/stroke-corner-adjustment.md", "summary": "Open when looking up strokeCornerAdjustment in InDesign.", "keywords": ["strokeCornerAdjustment"]},
+  {"topic": "strokeStyleType", "file": "document-model/dotted-stroke-style/stroke-style-type.md", "summary": "Open when looking up strokeStyleType in InDesign.", "keywords": ["strokeStyleType"]},
+  {"topic": "toSource", "file": "document-model/dotted-stroke-style/to-source.md", "summary": "Open when looking up toSource in InDesign.", "keywords": ["toSource"]},
+  {"topic": "toSpecifier", "file": "document-model/dotted-stroke-style/to-specifier.md", "summary": "Open when looking up toSpecifier in InDesign.", "keywords": ["toSpecifier"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

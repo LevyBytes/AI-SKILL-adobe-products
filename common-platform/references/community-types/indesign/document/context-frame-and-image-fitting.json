@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Document.clearFrameFittingOptions", "file": "references/community-types/indesign/document/clear-frame-fitting-options.md", "summary": "Open when looking up Document.clearFrameFittingOptions in Shared Adobe platform.", "keywords": ["Document.clearFrameFittingOptions"]},
-  {"topic": "Document.frameFittingOptions", "file": "references/community-types/indesign/document/frame-fitting-options.md", "summary": "Open when looking up Document.frameFittingOptions in Shared Adobe platform.", "keywords": ["Document.frameFittingOptions"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

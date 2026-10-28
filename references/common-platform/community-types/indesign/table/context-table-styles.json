@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Table.appliedTableStyle", "file": "community-types/indesign/table/applied-table-style.md", "summary": "Open when looking up Table.appliedTableStyle in Shared Adobe platform.", "keywords": ["Table.appliedTableStyle"]},
+  {"topic": "Table.clearTableStyleOverrides", "file": "community-types/indesign/table/clear-table-style-overrides.md", "summary": "Open when looking up Table.clearTableStyleOverrides in Shared Adobe platform.", "keywords": ["Table.clearTableStyleOverrides"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

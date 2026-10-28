@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Auto Select capabilities", "file": "desktop/use-generative-ai/use-auto-select/auto-select-capabilities.md", "summary": "Open when looking up Auto Select capabilities in Illustrator.", "keywords": ["Auto Select capabilities"]},
+  {"topic": "Credit usage", "file": "desktop/use-generative-ai/use-auto-select/credit-usage.md", "summary": "Open when looking up Credit usage in Illustrator.", "keywords": ["Credit usage"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

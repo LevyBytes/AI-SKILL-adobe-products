@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "fullName", "file": "document-model/pdf-export-preset/full-name.md", "summary": "Open when looking up fullName in InDesign.", "keywords": ["fullName"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

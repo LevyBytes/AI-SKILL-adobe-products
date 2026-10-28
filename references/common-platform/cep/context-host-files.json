@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Exporting files from the host app", "file": "cep/exporting-files-from-the-host-app.md", "summary": "Open when looking up Exporting files from the host app in Shared Adobe platform.", "keywords": ["Exporting files from the host app"]},
+  {"topic": "Exporting files from the host app references", "file": "cep/exporting-files-from-the-host-app/reference-index.md", "summary": "Open when looking up Exporting files from the host app in Shared Adobe platform.", "keywords": ["Exporting files from the host app references"]},
+  {"topic": "Network requests and responses with Fetch", "file": "cep/network-requests-and-responses-with-fetch.md", "summary": "Open when looking up Network requests and responses with Fetch in Shared Adobe platform.", "keywords": ["Network requests and responses with Fetch"]},
+  {"topic": "Network requests and responses with Fetch references", "file": "cep/network-requests-and-responses-with-fetch/reference-index.md", "summary": "Open when looking up Network requests and responses with Fetch in Shared Adobe platform.", "keywords": ["Network requests and responses with Fetch references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

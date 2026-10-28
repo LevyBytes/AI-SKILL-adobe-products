@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "FULL_SNAPSHOT_BLENDING", "file": "document-model/snapshot-blending-modes/fullsnapshotblending.md", "summary": "Open when looking up FULL_SNAPSHOT_BLENDING in InDesign.", "keywords": ["FULL_SNAPSHOT_BLENDING"]},
+  {"topic": "IGNORE_LAYOUT_SNAPSHOTS", "file": "document-model/snapshot-blending-modes/ignorelayoutsnapshots.md", "summary": "Open when looking up IGNORE_LAYOUT_SNAPSHOTS in InDesign.", "keywords": ["IGNORE_LAYOUT_SNAPSHOTS"]},
+  {"topic": "LIMITED_SNAPSHOT_BLENDING", "file": "document-model/snapshot-blending-modes/limitedsnapshotblending.md", "summary": "Open when looking up LIMITED_SNAPSHOT_BLENDING in InDesign.", "keywords": ["LIMITED_SNAPSHOT_BLENDING"]},
+  {"topic": "USE_NEAREST_SNAPSHOT", "file": "document-model/snapshot-blending-modes/usenearestsnapshot.md", "summary": "Open when looking up USE_NEAREST_SNAPSHOT in InDesign.", "keywords": ["USE_NEAREST_SNAPSHOT"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

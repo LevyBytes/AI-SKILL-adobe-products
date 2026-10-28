@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "appliedObjectStyle", "file": "document-model/sound/applied-object-style.md", "summary": "Open when looking up appliedObjectStyle in InDesign.", "keywords": ["appliedObjectStyle"]},
+  {"topic": "applyObjectStyle", "file": "document-model/sound/apply-object-style.md", "summary": "Open when looking up applyObjectStyle in InDesign.", "keywords": ["applyObjectStyle"]},
+  {"topic": "clearObjectStyleOverrides", "file": "document-model/sound/clear-object-style-overrides.md", "summary": "Open when looking up clearObjectStyleOverrides in InDesign.", "keywords": ["clearObjectStyleOverrides"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

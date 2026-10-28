@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "allCharacterStyles", "file": "document-model/application/all-character-styles.md", "summary": "Open when looking up allCharacterStyles in InDesign.", "keywords": ["allCharacterStyles"]},
+  {"topic": "allParagraphStyles", "file": "document-model/application/all-paragraph-styles.md", "summary": "Open when looking up allParagraphStyles in InDesign.", "keywords": ["allParagraphStyles"]},
+  {"topic": "characterStyleGroups", "file": "document-model/application/character-style-groups.md", "summary": "Open when looking up characterStyleGroups in InDesign.", "keywords": ["characterStyleGroups"]},
+  {"topic": "characterStyles", "file": "document-model/application/character-styles.md", "summary": "Open when looking up characterStyles in InDesign.", "keywords": ["characterStyles"]},
+  {"topic": "charStyleMappings", "file": "document-model/application/char-style-mappings.md", "summary": "Open when looking up charStyleMappings in InDesign.", "keywords": ["charStyleMappings"]},
+  {"topic": "clearOverridesWhenApplyingStyle", "file": "document-model/application/clear-overrides-when-applying-style.md", "summary": "Open when looking up clearOverridesWhenApplyingStyle in InDesign.", "keywords": ["clearOverridesWhenApplyingStyle"]},
+  {"topic": "getStyleConflictResolutionStrategy", "file": "document-model/application/get-style-conflict-resolution-strategy.md", "summary": "Open when looking up getStyleConflictResolutionStrategy in InDesign.", "keywords": ["getStyleConflictResolutionStrategy"]},
+  {"topic": "importStyles", "file": "document-model/application/import-styles.md", "summary": "Open when looking up importStyles in InDesign.", "keywords": ["importStyles"]},
+  {"topic": "paragraphStyleGroups", "file": "document-model/application/paragraph-style-groups.md", "summary": "Open when looking up paragraphStyleGroups in InDesign.", "keywords": ["paragraphStyleGroups"]},
+  {"topic": "paragraphStyles", "file": "document-model/application/paragraph-styles.md", "summary": "Open when looking up paragraphStyles in InDesign.", "keywords": ["paragraphStyles"]},
+  {"topic": "paraStyleMappings", "file": "document-model/application/para-style-mappings.md", "summary": "Open when looking up paraStyleMappings in InDesign.", "keywords": ["paraStyleMappings"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

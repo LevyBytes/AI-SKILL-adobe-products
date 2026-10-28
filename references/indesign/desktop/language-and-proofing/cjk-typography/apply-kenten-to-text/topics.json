@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Change Kenten color", "file": "desktop/language-and-proofing/cjk-typography/apply-kenten-to-text/change-kenten-color.md", "summary": "Open when looking up Change Kenten color in InDesign.", "keywords": ["Change Kenten color"]},
+  {"topic": "Customize Kenten appearance", "file": "desktop/language-and-proofing/cjk-typography/apply-kenten-to-text/customize-kenten-appearance.md", "summary": "Open when looking up Customize Kenten appearance in InDesign.", "keywords": ["Customize Kenten appearance"]},
+  {"topic": "Select a Kenten style", "file": "desktop/language-and-proofing/cjk-typography/apply-kenten-to-text/select-a-kenten-style.md", "summary": "Open when looking up Select a Kenten style in InDesign.", "keywords": ["Select a Kenten style"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

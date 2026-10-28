@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/audition", "topics": [
+  {"topic": "Insert effects before or after sends and EQ", "file": "desktop/applying-effects/applying-effects-in-the-multitrack-editor/insert-effects-before-or-after-sends-and-eq.md", "summary": "Open when looking up Insert effects before or after sends and EQ in Audition.", "keywords": ["Insert effects before or after sends and EQ"]},
+  {"topic": "Pre-render track effects to improve performance", "file": "desktop/applying-effects/applying-effects-in-the-multitrack-editor/pre-render-track-effects-to-improve-performance.md", "summary": "Open when looking up Pre-render track effects to improve performance in Audition.", "keywords": ["Pre-render track effects to improve performance"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

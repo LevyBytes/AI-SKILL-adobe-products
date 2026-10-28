@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Add a creative cloud library references", "file": "desktop/add-a-creative-cloud-library/reference-index.md", "summary": "Open when looking up Add a creative cloud library in Premiere Pro.", "keywords": ["Add a creative cloud library references"]},
+  {"topic": "Add assets from adobe stock to a creative cloud library references", "file": "desktop/add-assets-from-adobe-stock-to-a-creative-cloud-library/reference-index.md", "summary": "Open when looking up Add assets from adobe stock to a creative cloud library in Premiere Pro.", "keywords": ["Add assets from adobe stock to a creative cloud library references"]},
+  {"topic": "Add looks to a creative cloud library references", "file": "desktop/add-looks-to-a-creative-cloud-library/reference-index.md", "summary": "Open when looking up Add looks to a creative cloud library in Premiere Pro.", "keywords": ["Add looks to a creative cloud library references"]},
+  {"topic": "Use assets stored in creative cloud libraries references", "file": "desktop/use-assets-stored-in-creative-cloud-libraries/reference-index.md", "summary": "Open when looking up Use assets stored in creative cloud libraries in Premiere Pro.", "keywords": ["Use assets stored in creative cloud libraries references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

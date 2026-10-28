@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "clear", "file": "references/scripting/console/clear.md", "summary": "Open when looking up clear in Acrobat.", "keywords": ["clear"]},
-  {"topic": "hide", "file": "references/scripting/console/hide.md", "summary": "Open when looking up hide in Acrobat.", "keywords": ["hide"]},
-  {"topic": "JavaScript APIs - console", "file": "references/scripting/console/java-script-apis-console.md", "summary": "Open when looking up JavaScript APIs - console in Acrobat.", "keywords": ["JavaScript APIs - console"]},
-  {"topic": "println", "file": "references/scripting/console/println.md", "summary": "Open when looking up println in Acrobat.", "keywords": ["println"]},
-  {"topic": "show", "file": "references/scripting/console/show.md", "summary": "Open when looking up show in Acrobat.", "keywords": ["show"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

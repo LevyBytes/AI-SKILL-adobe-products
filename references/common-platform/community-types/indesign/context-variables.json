@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "CaptionMetadataVariablePreference", "file": "community-types/indesign/caption-metadata-variable-preference.md", "summary": "Open when looking up CaptionMetadataVariablePreference in Shared Adobe platform.", "keywords": ["CaptionMetadataVariablePreference"]},
+  {"topic": "CustomTextVariablePreference", "file": "community-types/indesign/custom-text-variable-preference.md", "summary": "Open when looking up CustomTextVariablePreference in Shared Adobe platform.", "keywords": ["CustomTextVariablePreference"]},
+  {"topic": "DateVariablePreference", "file": "community-types/indesign/date-variable-preference.md", "summary": "Open when looking up DateVariablePreference in Shared Adobe platform.", "keywords": ["DateVariablePreference"]},
+  {"topic": "FileNameVariablePreference", "file": "community-types/indesign/file-name-variable-preference.md", "summary": "Open when looking up FileNameVariablePreference in Shared Adobe platform.", "keywords": ["FileNameVariablePreference"]},
+  {"topic": "PageNumberVariablePreference", "file": "community-types/indesign/page-number-variable-preference.md", "summary": "Open when looking up PageNumberVariablePreference in Shared Adobe platform.", "keywords": ["PageNumberVariablePreference"]},
+  {"topic": "TextVariable references", "file": "community-types/indesign/text-variable/reference-index.md", "summary": "Open when looking up TextVariable in Shared Adobe platform.", "keywords": ["TextVariable references"]},
+  {"topic": "TextVariableInstance references", "file": "community-types/indesign/text-variable-instance/reference-index.md", "summary": "Open when looking up TextVariableInstance in Shared Adobe platform.", "keywords": ["TextVariableInstance references"]},
+  {"topic": "TextVariableInstances references", "file": "community-types/indesign/text-variable-instances/reference-index.md", "summary": "Open when looking up TextVariableInstances in Shared Adobe platform.", "keywords": ["TextVariableInstances references"]},
+  {"topic": "TextVariables references", "file": "community-types/indesign/text-variables/reference-index.md", "summary": "Open when looking up TextVariables in Shared Adobe platform.", "keywords": ["TextVariables references"]},
+  {"topic": "VariableNumberingStyles", "file": "community-types/indesign/variable-numbering-styles.md", "summary": "Open when looking up VariableNumberingStyles in Shared Adobe platform.", "keywords": ["VariableNumberingStyles"]},
+  {"topic": "VariableScopes", "file": "community-types/indesign/variable-scopes.md", "summary": "Open when looking up VariableScopes in Shared Adobe platform.", "keywords": ["VariableScopes"]},
+  {"topic": "VariableTypes", "file": "community-types/indesign/variable-types.md", "summary": "Open when looking up VariableTypes in Shared Adobe platform.", "keywords": ["VariableTypes"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

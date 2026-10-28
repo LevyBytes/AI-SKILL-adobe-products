@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "XMPPacketInfo object properties", "file": "scripting/xmp-packet-info/xmp-packet-info-object-properties.md", "summary": "Open when looking up XMPPacketInfo object properties in Shared Adobe platform.", "keywords": ["XMPPacketInfo object properties"]},
+  {"topic": "XMPScript object reference - XMPPacketInfo object", "file": "scripting/xmp-packet-info/xmp-script-object-reference-xmp-packet-info-object.md", "summary": "Open when looking up XMPScript object reference - XMPPacketInfo object in Shared Adobe platform.", "keywords": ["XMPScript object reference - XMPPacketInfo object"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

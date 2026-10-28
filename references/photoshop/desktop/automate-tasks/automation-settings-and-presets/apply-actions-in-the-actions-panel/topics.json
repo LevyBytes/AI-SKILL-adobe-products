@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Apply actions", "file": "desktop/automate-tasks/automation-settings-and-presets/apply-actions-in-the-actions-panel/apply-actions.md", "summary": "Open when looking up Apply actions in Photoshop.", "keywords": ["Apply actions"]},
+  {"topic": "Modify actions", "file": "desktop/automate-tasks/automation-settings-and-presets/apply-actions-in-the-actions-panel/modify-actions.md", "summary": "Open when looking up Modify actions in Photoshop.", "keywords": ["Modify actions"]},
+  {"topic": "Use action options", "file": "desktop/automate-tasks/automation-settings-and-presets/apply-actions-in-the-actions-panel/use-action-options.md", "summary": "Open when looking up Use action options in Photoshop.", "keywords": ["Use action options"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

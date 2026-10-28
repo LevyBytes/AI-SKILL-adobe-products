@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Application.colorSettings", "file": "community-types/indesign/application/color-settings.md", "summary": "Open when looking up Application.colorSettings in Shared Adobe platform.", "keywords": ["Application.colorSettings"]},
+  {"topic": "Application.colorTransform", "file": "community-types/indesign/application/color-transform.md", "summary": "Open when looking up Application.colorTransform in Shared Adobe platform.", "keywords": ["Application.colorTransform"]},
+  {"topic": "Application.transparencyPreferences", "file": "community-types/indesign/application/transparency-preferences.md", "summary": "Open when looking up Application.transparencyPreferences in Shared Adobe platform.", "keywords": ["Application.transparencyPreferences"]},
+  {"topic": "Application.trapPresets", "file": "community-types/indesign/application/trap-presets.md", "summary": "Open when looking up Application.trapPresets in Shared Adobe platform.", "keywords": ["Application.trapPresets"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

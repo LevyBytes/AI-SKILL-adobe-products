@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "MaskPropertyGroup object", "file": "scripting/mask-property-group/mask-property-group-object.md", "summary": "Open when looking up MaskPropertyGroup object in After Effects.", "keywords": ["MaskPropertyGroup object"]},
+  {"topic": "MaskPropertyGroup.color", "file": "scripting/mask-property-group/color.md", "summary": "Open when looking up MaskPropertyGroup.color in After Effects.", "keywords": ["MaskPropertyGroup.color"]},
+  {"topic": "MaskPropertyGroup.inverted", "file": "scripting/mask-property-group/inverted.md", "summary": "Open when looking up MaskPropertyGroup.inverted in After Effects.", "keywords": ["MaskPropertyGroup.inverted"]},
+  {"topic": "MaskPropertyGroup.locked", "file": "scripting/mask-property-group/locked.md", "summary": "Open when looking up MaskPropertyGroup.locked in After Effects.", "keywords": ["MaskPropertyGroup.locked"]},
+  {"topic": "MaskPropertyGroup.maskFeatherFalloff", "file": "scripting/mask-property-group/mask-feather-falloff.md", "summary": "Open when looking up MaskPropertyGroup.maskFeatherFalloff in After Effects.", "keywords": ["MaskPropertyGroup.maskFeatherFalloff"]},
+  {"topic": "MaskPropertyGroup.maskMode", "file": "scripting/mask-property-group/mask-mode.md", "summary": "Open when looking up MaskPropertyGroup.maskMode in After Effects.", "keywords": ["MaskPropertyGroup.maskMode"]},
+  {"topic": "MaskPropertyGroup.maskMotionBlur", "file": "scripting/mask-property-group/mask-motion-blur.md", "summary": "Open when looking up MaskPropertyGroup.maskMotionBlur in After Effects.", "keywords": ["MaskPropertyGroup.maskMotionBlur"]},
+  {"topic": "MaskPropertyGroup.rotoBezier", "file": "scripting/mask-property-group/roto-bezier.md", "summary": "Open when looking up MaskPropertyGroup.rotoBezier in After Effects.", "keywords": ["MaskPropertyGroup.rotoBezier"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

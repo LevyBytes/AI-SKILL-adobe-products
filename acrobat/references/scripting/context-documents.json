@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Collection field references", "file": "references/scripting/collection-field/reference-index.md", "summary": "Open when looking up Collection field in Acrobat.", "keywords": ["Collection field references"]},
-  {"topic": "Collection references", "file": "references/scripting/collection/reference-index.md", "summary": "Open when looking up Collection in Acrobat.", "keywords": ["Collection references"]},
-  {"topic": "Doc references", "file": "references/scripting/doc/reference-index.md", "summary": "Open when looking up Doc in Acrobat.", "keywords": ["Doc references"]},
-  {"topic": "Embedded pdf references", "file": "references/scripting/embedded-pdf/reference-index.md", "summary": "Open when looking up Embedded pdf in Acrobat.", "keywords": ["Embedded pdf references"]},
-  {"topic": "Template references", "file": "references/scripting/template/reference-index.md", "summary": "Open when looking up Template in Acrobat.", "keywords": ["Template references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

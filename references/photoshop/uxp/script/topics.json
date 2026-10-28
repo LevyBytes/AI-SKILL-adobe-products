@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "args : Array", "file": "uxp/script/args-array.md", "summary": "Open when looking up args : Array in Photoshop.", "keywords": ["args : Array"]},
+  {"topic": "executionContext : ExecutionContext", "file": "uxp/script/execution-context-execution-context.md", "summary": "Open when looking up executionContext : ExecutionContext in Photoshop.", "keywords": ["executionContext : ExecutionContext"]},
+  {"topic": "require('uxp').script;", "file": "uxp/script/require-uxp-script.md", "summary": "Open when looking up require('uxp').script; in Photoshop.", "keywords": ["require('uxp').script;"]},
+  {"topic": "setResult(result)", "file": "uxp/script/set-result.md", "summary": "Open when looking up setResult(result) in Photoshop.", "keywords": ["setResult(result)"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

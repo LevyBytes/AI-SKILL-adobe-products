@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "LEFT_HAND", "file": "document-model/page-side-options/lefthand.md", "summary": "Open when looking up LEFT_HAND in InDesign.", "keywords": ["LEFT_HAND"]},
+  {"topic": "RIGHT_HAND", "file": "document-model/page-side-options/righthand.md", "summary": "Open when looking up RIGHT_HAND in InDesign.", "keywords": ["RIGHT_HAND"]},
+  {"topic": "SINGLE_SIDED", "file": "document-model/page-side-options/singlesided.md", "summary": "Open when looking up SINGLE_SIDED in InDesign.", "keywords": ["SINGLE_SIDED"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

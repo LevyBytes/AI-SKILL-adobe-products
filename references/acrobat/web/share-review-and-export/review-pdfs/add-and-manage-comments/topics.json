@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Add comments and reactions", "file": "web/share-review-and-export/review-pdfs/add-and-manage-comments/add-comments-and-reactions.md", "summary": "Open when looking up Add comments and reactions in Acrobat.", "keywords": ["Add comments and reactions"]},
+  {"topic": "Manage comments", "file": "web/share-review-and-export/review-pdfs/add-and-manage-comments/manage-comments.md", "summary": "Open when looking up Manage comments in Acrobat.", "keywords": ["Manage comments"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

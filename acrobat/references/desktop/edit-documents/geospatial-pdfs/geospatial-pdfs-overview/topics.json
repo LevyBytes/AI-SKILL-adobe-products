@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Benefits", "file": "references/desktop/edit-documents/geospatial-pdfs/geospatial-pdfs-overview/benefits.md", "summary": "Open when looking up Benefits in Acrobat.", "keywords": ["Benefits"]},
-  {"topic": "Capabilities", "file": "references/desktop/edit-documents/geospatial-pdfs/geospatial-pdfs-overview/capabilities.md", "summary": "Open when looking up Capabilities in Acrobat.", "keywords": ["Capabilities"]},
-  {"topic": "Components", "file": "references/desktop/edit-documents/geospatial-pdfs/geospatial-pdfs-overview/components.md", "summary": "Open when looking up Components in Acrobat.", "keywords": ["Components"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

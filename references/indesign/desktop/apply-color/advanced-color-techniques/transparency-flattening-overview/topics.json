@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Flattener presets", "file": "desktop/apply-color/advanced-color-techniques/transparency-flattening-overview/flattener-presets.md", "summary": "Open when looking up Flattener presets in InDesign.", "keywords": ["Flattener presets"]},
+  {"topic": "High-resolution requirements", "file": "desktop/apply-color/advanced-color-techniques/transparency-flattening-overview/high-resolution-requirements.md", "summary": "Open when looking up High-resolution requirements in InDesign.", "keywords": ["High-resolution requirements"]},
+  {"topic": "How flattening works", "file": "desktop/apply-color/advanced-color-techniques/transparency-flattening-overview/how-flattening-works.md", "summary": "Open when looking up How flattening works in InDesign.", "keywords": ["How flattening works"]},
+  {"topic": "Overprinting", "file": "desktop/apply-color/advanced-color-techniques/transparency-flattening-overview/overprinting.md", "summary": "Open when looking up Overprinting in InDesign.", "keywords": ["Overprinting"]},
+  {"topic": "Spot colors", "file": "desktop/apply-color/advanced-color-techniques/transparency-flattening-overview/spot-colors.md", "summary": "Open when looking up Spot colors in InDesign.", "keywords": ["Spot colors"]},
+  {"topic": "Vector and raster divisions", "file": "desktop/apply-color/advanced-color-techniques/transparency-flattening-overview/vector-and-raster-divisions.md", "summary": "Open when looking up Vector and raster divisions in InDesign.", "keywords": ["Vector and raster divisions"]},
+  {"topic": "When flattening occurs", "file": "desktop/apply-color/advanced-color-techniques/transparency-flattening-overview/when-flattening-occurs.md", "summary": "Open when looking up When flattening occurs in InDesign.", "keywords": ["When flattening occurs"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

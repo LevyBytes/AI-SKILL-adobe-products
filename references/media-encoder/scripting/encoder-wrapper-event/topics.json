@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/media-encoder", "topics": [
+  {"topic": "Adobe Media Encoder (AME) Scripting API Reference (A-Z) - EncoderWrapperEvent", "file": "scripting/encoder-wrapper-event/encoder-wrapper-event.md", "summary": "Open when looking up Adobe Media Encoder (AME) Scripting API Reference (A-Z) - EncoderWrapperEvent in Media Encoder.", "keywords": ["Adobe Media Encoder (AME) Scripting API Reference (A-Z) - EncoderWrapperEvent"]},
+  {"topic": "Code Samples", "file": "scripting/encoder-wrapper-event/code-samples.md", "summary": "Open when looking up Code Samples in Media Encoder.", "keywords": ["Code Samples"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

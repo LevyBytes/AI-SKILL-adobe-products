@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Reply declaration", "file": "community-types/indesign/reply/declaration.md", "summary": "Open when looking up Reply declaration in Shared Adobe platform.", "keywords": ["Reply declaration"]},
+  {"topic": "Reply event listeners", "file": "community-types/indesign/reply/event-listeners.md", "summary": "Open when looking up Reply event listeners in Shared Adobe platform.", "keywords": ["Reply event listeners"]},
+  {"topic": "Reply identity and parent", "file": "community-types/indesign/reply/identity-and-parent.md", "summary": "Open when looking up Reply identity and parent in Shared Adobe platform.", "keywords": ["Reply identity and parent"]},
+  {"topic": "Reply labels and metadata", "file": "community-types/indesign/reply/labels-and-metadata.md", "summary": "Open when looking up Reply labels and metadata in Shared Adobe platform.", "keywords": ["Reply labels and metadata"]},
+  {"topic": "Reply object resolution", "file": "community-types/indesign/reply/object-resolution.md", "summary": "Open when looking up Reply object resolution in Shared Adobe platform.", "keywords": ["Reply object resolution"]},
+  {"topic": "Reply.properties", "file": "community-types/indesign/reply/properties.md", "summary": "Open when looking up Reply.properties in Shared Adobe platform.", "keywords": ["Reply.properties"]},
+  {"topic": "Reply.replyContent", "file": "community-types/indesign/reply/reply-content.md", "summary": "Open when looking up Reply.replyContent in Shared Adobe platform.", "keywords": ["Reply.replyContent"]},
+  {"topic": "Reply.replyDate", "file": "community-types/indesign/reply/reply-date.md", "summary": "Open when looking up Reply.replyDate in Shared Adobe platform.", "keywords": ["Reply.replyDate"]},
+  {"topic": "Reply.replyReviewer", "file": "community-types/indesign/reply/reply-reviewer.md", "summary": "Open when looking up Reply.replyReviewer in Shared Adobe platform.", "keywords": ["Reply.replyReviewer"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,19 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "adoptNode(externalNode, deep)", "file": "uxp/dom/document/adopt-node.md", "summary": "Open when looking up adoptNode(externalNode, deep) in Photoshop.", "keywords": ["adoptNode(externalNode, deep)"]},
+  {"topic": "cloneNode(deep)", "file": "uxp/dom/document/clone-node.md", "summary": "Open when looking up cloneNode(deep) in Photoshop.", "keywords": ["cloneNode(deep)"]},
+  {"topic": "createAttribute(nodeName)", "file": "uxp/dom/document/create-attribute.md", "summary": "Open when looking up createAttribute(nodeName) in Photoshop.", "keywords": ["createAttribute(nodeName)"]},
+  {"topic": "createComment([comment])", "file": "uxp/dom/document/create-comment.md", "summary": "Open when looking up createComment([comment]) in Photoshop.", "keywords": ["createComment([comment])"]},
+  {"topic": "createElement(name)", "file": "uxp/dom/document/create-element.md", "summary": "Open when looking up createElement(name) in Photoshop.", "keywords": ["createElement(name)"]},
+  {"topic": "createElementNS(ns, name)", "file": "uxp/dom/document/create-element-ns.md", "summary": "Open when looking up createElementNS(ns, name) in Photoshop.", "keywords": ["createElementNS(ns, name)"]},
+  {"topic": "createEvent(eventType)", "file": "uxp/dom/document/create-event.md", "summary": "Open when looking up createEvent(eventType) in Photoshop.", "keywords": ["createEvent(eventType)"]},
+  {"topic": "createTextNode([text=])", "file": "uxp/dom/document/create-text-node.md", "summary": "Open when looking up createTextNode([text=]) in Photoshop.", "keywords": ["createTextNode([text=])"]},
+  {"topic": "createTreeWalker(root, whatToShow, filter)", "file": "uxp/dom/document/create-tree-walker.md", "summary": "Open when looking up createTreeWalker(root, whatToShow, filter) in Photoshop.", "keywords": ["createTreeWalker(root, whatToShow, filter)"]},
+  {"topic": "Document()", "file": "uxp/dom/document/document.md", "summary": "Open when looking up Document() in Photoshop.", "keywords": ["Document()"]},
+  {"topic": "getElementById(id)", "file": "uxp/dom/document/get-element-by-id.md", "summary": "Open when looking up getElementById(id) in Photoshop.", "keywords": ["getElementById(id)"]},
+  {"topic": "getElementsByClassName(name)", "file": "uxp/dom/document/get-elements-by-class-name.md", "summary": "Open when looking up getElementsByClassName(name) in Photoshop.", "keywords": ["getElementsByClassName(name)"]},
+  {"topic": "onLine : boolean", "file": "uxp/dom/document/on-line-boolean.md", "summary": "Open when looking up onLine : boolean in Photoshop.", "keywords": ["onLine : boolean"]},
+  {"topic": "querySelector(selector)", "file": "uxp/dom/document/query-selector.md", "summary": "Open when looking up querySelector(selector) in Photoshop.", "keywords": ["querySelector(selector)"]},
+  {"topic": "querySelectorAll(selector)", "file": "uxp/dom/document/query-selector-all.md", "summary": "Open when looking up querySelectorAll(selector) in Photoshop.", "keywords": ["querySelectorAll(selector)"]},
+  {"topic": "window.Document", "file": "uxp/dom/document/overview.md", "summary": "Open when looking up window.Document in Photoshop.", "keywords": ["window.Document"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Action resource bindings and placeholders", "file": "references/cloud-services/v1-v2-migration-reference/actions-migration/action-resource-bindings.md", "summary": "Open when looking up Action resource bindings and placeholders in Photoshop.", "keywords": ["Action resource bindings and placeholders"]},
-  {"topic": "Action-file migration", "file": "references/cloud-services/v1-v2-migration-reference/actions-migration/migrating-actions.md", "summary": "Open when looking up Action-file migration in Photoshop.", "keywords": ["Action-file migration"]},
-  {"topic": "Inline ActionJSON migration", "file": "references/cloud-services/v1-v2-migration-reference/actions-migration/inline-action-json-migration.md", "summary": "Open when looking up Inline ActionJSON migration in Photoshop.", "keywords": ["Inline ActionJSON migration"]},
-  {"topic": "Multiple actions and action selection", "file": "references/cloud-services/v1-v2-migration-reference/actions-migration/multiple-actions-and-selection.md", "summary": "Open when looking up Multiple actions and action selection in Photoshop.", "keywords": ["Multiple actions and action selection"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

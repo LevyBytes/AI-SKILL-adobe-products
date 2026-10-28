@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Access the app", "file": "web/get-started/access-the-app.md", "summary": "Open when looking up Access the app in Firefly.", "keywords": ["Access the app"]},
+  {"topic": "Access the app references", "file": "web/get-started/access-the-app/reference-index.md", "summary": "Open when looking up Access the app in Firefly.", "keywords": ["Access the app references"]},
+  {"topic": "Current special offer", "file": "web/get-started/current-special-offer.md", "summary": "Open when looking up Current special offer in Firefly.", "keywords": ["Current special offer"]},
+  {"topic": "Current special offer references", "file": "web/get-started/current-special-offer/reference-index.md", "summary": "Open when looking up Current special offer in Firefly.", "keywords": ["Current special offer references"]},
+  {"topic": "Learn the basics", "file": "web/get-started/learn-the-basics.md", "summary": "Open when looking up Learn the basics in Firefly.", "keywords": ["Learn the basics"]},
+  {"topic": "Learn the basics references", "file": "web/get-started/learn-the-basics/reference-index.md", "summary": "Open when looking up Learn the basics in Firefly.", "keywords": ["Learn the basics references"]},
+  {"topic": "Partner models in Adobe products", "file": "web/get-started/partner-models-in-adobe-products.md", "summary": "Open when looking up Partner models in Adobe products in Firefly.", "keywords": ["Partner models in Adobe products"]},
+  {"topic": "Partner models in Adobe products references", "file": "web/get-started/partner-models-in-adobe-products/reference-index.md", "summary": "Open when looking up Partner models in Adobe products in Firefly.", "keywords": ["Partner models in Adobe products references"]},
+  {"topic": "Technical requirements", "file": "web/get-started/technical-requirements.md", "summary": "Open when looking up Technical requirements in Firefly.", "keywords": ["Technical requirements"]},
+  {"topic": "Technical requirements references", "file": "web/get-started/technical-requirements/reference-index.md", "summary": "Open when looking up Technical requirements in Firefly.", "keywords": ["Technical requirements references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Add tab leaders", "file": "references/desktop/measure-and-align/use-grids-and-guides/manage-tab-stops/add-tab-leaders.md", "summary": "Open when looking up Add tab leaders in Illustrator.", "keywords": ["Add tab leaders"]},
-  {"topic": "Move tabs", "file": "references/desktop/measure-and-align/use-grids-and-guides/manage-tab-stops/move-tabs.md", "summary": "Open when looking up Move tabs in Illustrator.", "keywords": ["Move tabs"]},
-  {"topic": "Remove tabs", "file": "references/desktop/measure-and-align/use-grids-and-guides/manage-tab-stops/remove-tabs.md", "summary": "Open when looking up Remove tabs in Illustrator.", "keywords": ["Remove tabs"]},
-  {"topic": "Repeat tabs", "file": "references/desktop/measure-and-align/use-grids-and-guides/manage-tab-stops/repeat-tabs.md", "summary": "Open when looking up Repeat tabs in Illustrator.", "keywords": ["Repeat tabs"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

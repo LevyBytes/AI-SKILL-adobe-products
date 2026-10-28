@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "buttons", "file": "document-model/spline-item/buttons.md", "summary": "Open when looking up buttons in InDesign.", "keywords": ["buttons"]},
+  {"topic": "checkBoxes", "file": "document-model/spline-item/check-boxes.md", "summary": "Open when looking up checkBoxes in InDesign.", "keywords": ["checkBoxes"]},
+  {"topic": "comboBoxes", "file": "document-model/spline-item/combo-boxes.md", "summary": "Open when looking up comboBoxes in InDesign.", "keywords": ["comboBoxes"]},
+  {"topic": "formFields", "file": "document-model/spline-item/form-fields.md", "summary": "Open when looking up formFields in InDesign.", "keywords": ["formFields"]},
+  {"topic": "listBoxes", "file": "document-model/spline-item/list-boxes.md", "summary": "Open when looking up listBoxes in InDesign.", "keywords": ["listBoxes"]},
+  {"topic": "multiStateObjects", "file": "document-model/spline-item/multi-state-objects.md", "summary": "Open when looking up multiStateObjects in InDesign.", "keywords": ["multiStateObjects"]},
+  {"topic": "radioButtons", "file": "document-model/spline-item/radio-buttons.md", "summary": "Open when looking up radioButtons in InDesign.", "keywords": ["radioButtons"]},
+  {"topic": "signatureFields", "file": "document-model/spline-item/signature-fields.md", "summary": "Open when looking up signatureFields in InDesign.", "keywords": ["signatureFields"]},
+  {"topic": "textBoxes", "file": "document-model/spline-item/text-boxes.md", "summary": "Open when looking up textBoxes in InDesign.", "keywords": ["textBoxes"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

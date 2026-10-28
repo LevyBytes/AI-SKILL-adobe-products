@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Delete operation changes", "file": "cloud-services/layer-operations/advanced/deleting-layers/delete-operation-changes.md", "summary": "Open when looking up Delete operation changes in Photoshop.", "keywords": ["Delete operation changes"]},
+  {"topic": "Deleting multiple layers", "file": "cloud-services/layer-operations/advanced/deleting-layers/deleting-multiple-layers.md", "summary": "Open when looking up Deleting multiple layers in Photoshop.", "keywords": ["Deleting multiple layers"]},
+  {"topic": "V1 approach", "file": "cloud-services/layer-operations/advanced/deleting-layers/v1-approach.md", "summary": "Open when looking up V1 approach in Photoshop.", "keywords": ["V1 approach"]},
+  {"topic": "V2 approach", "file": "cloud-services/layer-operations/advanced/deleting-layers/v2-approach.md", "summary": "Open when looking up V2 approach in Photoshop.", "keywords": ["V2 approach"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

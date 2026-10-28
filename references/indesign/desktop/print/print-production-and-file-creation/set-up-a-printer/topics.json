@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Configure the PPD file for PostScript printers", "file": "desktop/print/print-production-and-file-creation/set-up-a-printer/configure-the-ppd-file-for-post-script-printers.md", "summary": "Open when looking up Configure the PPD file for PostScript printers in InDesign.", "keywords": ["Configure the PPD file for PostScript printers"]},
+  {"topic": "Install the printer driver", "file": "desktop/print/print-production-and-file-creation/set-up-a-printer/install-the-printer-driver.md", "summary": "Open when looking up Install the printer driver in InDesign.", "keywords": ["Install the printer driver"]},
+  {"topic": "Test the printer connection in InDesign", "file": "desktop/print/print-production-and-file-creation/set-up-a-printer/test-the-printer-connection-in-in-design.md", "summary": "Open when looking up Test the printer connection in InDesign in InDesign.", "keywords": ["Test the printer connection in InDesign"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

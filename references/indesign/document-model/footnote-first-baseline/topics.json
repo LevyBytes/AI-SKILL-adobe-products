@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "ASCENT_OFFSET", "file": "document-model/footnote-first-baseline/ascentoffset.md", "summary": "Open when looking up ASCENT_OFFSET in InDesign.", "keywords": ["ASCENT_OFFSET"]},
+  {"topic": "CAP_HEIGHT", "file": "document-model/footnote-first-baseline/capheight.md", "summary": "Open when looking up CAP_HEIGHT in InDesign.", "keywords": ["CAP_HEIGHT"]},
+  {"topic": "EMBOX_HEIGHT", "file": "document-model/footnote-first-baseline/emboxheight.md", "summary": "Open when looking up EMBOX_HEIGHT in InDesign.", "keywords": ["EMBOX_HEIGHT"]},
+  {"topic": "FIXED_HEIGHT", "file": "document-model/footnote-first-baseline/fixedheight.md", "summary": "Open when looking up FIXED_HEIGHT in InDesign.", "keywords": ["FIXED_HEIGHT"]},
+  {"topic": "LEADING_OFFSET", "file": "document-model/footnote-first-baseline/leadingoffset.md", "summary": "Open when looking up LEADING_OFFSET in InDesign.", "keywords": ["LEADING_OFFSET"]},
+  {"topic": "X_HEIGHT", "file": "document-model/footnote-first-baseline/xheight.md", "summary": "Open when looking up X_HEIGHT in InDesign.", "keywords": ["X_HEIGHT"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

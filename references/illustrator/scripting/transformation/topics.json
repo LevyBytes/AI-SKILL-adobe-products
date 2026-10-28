@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Scripting Constants - Transformation", "file": "scripting/transformation/scripting-constants-transformation.md", "summary": "Open when looking up Scripting Constants - Transformation in Illustrator.", "keywords": ["Scripting Constants - Transformation"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "ADDING_CURRENT_DIMENSIONS_TO", "file": "references/document-model/resize-methods/addingcurrentdimensionsto.md", "summary": "Open when looking up ADDING_CURRENT_DIMENSIONS_TO in InDesign.", "keywords": ["ADDING_CURRENT_DIMENSIONS_TO"]},
-  {"topic": "MULTIPLYING_CURRENT_DIMENSIONS_BY", "file": "references/document-model/resize-methods/multiplyingcurrentdimensionsby.md", "summary": "Open when looking up MULTIPLYING_CURRENT_DIMENSIONS_BY in InDesign.", "keywords": ["MULTIPLYING_CURRENT_DIMENSIONS_BY"]},
-  {"topic": "REPLACING_CURRENT_DIMENSIONS_WITH", "file": "references/document-model/resize-methods/replacingcurrentdimensionswith.md", "summary": "Open when looking up REPLACING_CURRENT_DIMENSIONS_WITH in InDesign.", "keywords": ["REPLACING_CURRENT_DIMENSIONS_WITH"]},
-  {"topic": "RESHAPING_AREA_TO_RATIO", "file": "references/document-model/resize-methods/reshapingareatoratio.md", "summary": "Open when looking up RESHAPING_AREA_TO_RATIO in InDesign.", "keywords": ["RESHAPING_AREA_TO_RATIO"]},
-  {"topic": "RESHAPING_BORDER_TO_RATIO", "file": "references/document-model/resize-methods/reshapingbordertoratio.md", "summary": "Open when looking up RESHAPING_BORDER_TO_RATIO in InDesign.", "keywords": ["RESHAPING_BORDER_TO_RATIO"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

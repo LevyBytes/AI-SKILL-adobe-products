@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Code Editor", "file": "references/uxp/developer-tools/code-editor.md", "summary": "Open when looking up Code Editor in InDesign.", "keywords": ["Code Editor"]},
-  {"topic": "Installation", "file": "references/uxp/developer-tools/installation.md", "summary": "Open when looking up Installation in InDesign.", "keywords": ["Installation"]},
-  {"topic": "Launching for the first time", "file": "references/uxp/developer-tools/launching-for-the-first-time.md", "summary": "Open when looking up Launching for the first time in InDesign.", "keywords": ["Launching for the first time"]},
-  {"topic": "UXP Developer Tool (UDT)", "file": "references/uxp/developer-tools/uxp-developer-tool-udt.md", "summary": "Open when looking up UXP Developer Tool (UDT) in InDesign.", "keywords": ["UXP Developer Tool (UDT)"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

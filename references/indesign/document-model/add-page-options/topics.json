@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "END_OF_DOCUMENT", "file": "document-model/add-page-options/endofdocument.md", "summary": "Open when looking up END_OF_DOCUMENT in InDesign.", "keywords": ["END_OF_DOCUMENT"]},
+  {"topic": "END_OF_SECTION", "file": "document-model/add-page-options/endofsection.md", "summary": "Open when looking up END_OF_SECTION in InDesign.", "keywords": ["END_OF_SECTION"]},
+  {"topic": "END_OF_STORY", "file": "document-model/add-page-options/endofstory.md", "summary": "Open when looking up END_OF_STORY in InDesign.", "keywords": ["END_OF_STORY"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Generative Options", "file": "uxp/generative-options.md", "summary": "Open when looking up Generative Options in Photoshop.", "keywords": ["Generative Options"]},
+  {"topic": "GenerativeUpscaleOptions", "file": "uxp/generative-upscale-options.md", "summary": "Open when looking up GenerativeUpscaleOptions in Photoshop.", "keywords": ["GenerativeUpscaleOptions"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

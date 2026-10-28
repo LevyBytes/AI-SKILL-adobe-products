@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Layer Filter methods", "file": "uxp/release-history/photoshop-api-changelog-photoshop-23-5-august-2022/layer-filter-methods.md", "summary": "Open when looking up Layer Filter methods in Photoshop.", "keywords": ["Layer Filter methods"]},
+  {"topic": "UXP Scripting", "file": "uxp/release-history/photoshop-api-changelog-photoshop-23-5-august-2022/uxp-scripting.md", "summary": "Open when looking up UXP Scripting in Photoshop.", "keywords": ["UXP Scripting"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

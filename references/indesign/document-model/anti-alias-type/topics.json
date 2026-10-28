@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "COLOR_ANTIALIASING", "file": "document-model/anti-alias-type/colorantialiasing.md", "summary": "Open when looking up COLOR_ANTIALIASING in InDesign.", "keywords": ["COLOR_ANTIALIASING"]},
+  {"topic": "GRAY_ANTIALIASING", "file": "document-model/anti-alias-type/grayantialiasing.md", "summary": "Open when looking up GRAY_ANTIALIASING in InDesign.", "keywords": ["GRAY_ANTIALIASING"]},
+  {"topic": "THICKER_ANTIALIASING", "file": "document-model/anti-alias-type/thickerantialiasing.md", "summary": "Open when looking up THICKER_ANTIALIASING in InDesign.", "keywords": ["THICKER_ANTIALIASING"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

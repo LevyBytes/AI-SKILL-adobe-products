@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Document.convertSelectionToBitmap", "file": "references/community-types/animate/document/convert-selection-to-bitmap.md", "summary": "Open when looking up Document.convertSelectionToBitmap in Shared Adobe platform.", "keywords": ["Document.convertSelectionToBitmap"]},
-  {"topic": "Document.importFile", "file": "references/community-types/animate/document/import-file.md", "summary": "Open when looking up Document.importFile in Shared Adobe platform.", "keywords": ["Document.importFile"]},
-  {"topic": "Document.traceBitmap", "file": "references/community-types/animate/document/trace-bitmap.md", "summary": "Open when looking up Document.traceBitmap in Shared Adobe platform.", "keywords": ["Document.traceBitmap"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

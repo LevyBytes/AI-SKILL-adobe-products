@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Create guides", "file": "desktop/measure-and-align/use-grids-and-guides/align-graphic-objects-with-guides/create-guides.md", "summary": "Open when looking up Create guides in Illustrator.", "keywords": ["Create guides"]},
+  {"topic": "Move, delete, or release guides", "file": "desktop/measure-and-align/use-grids-and-guides/align-graphic-objects-with-guides/move-delete-or-release-guides.md", "summary": "Open when looking up Move, delete, or release guides in Illustrator.", "keywords": ["Move, delete, or release guides"]},
+  {"topic": "Snap objects to anchor points or guides", "file": "desktop/measure-and-align/use-grids-and-guides/align-graphic-objects-with-guides/snap-objects-to-anchor-points-or-guides.md", "summary": "Open when looking up Snap objects to anchor points or guides in Illustrator.", "keywords": ["Snap objects to anchor points or guides"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

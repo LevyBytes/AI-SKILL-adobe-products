@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "_CommandID.FindMissingEffects", "file": "community-types/aftereffects/command-id/find-missing-effects.md", "summary": "Open when looking up _CommandID.FindMissingEffects in Shared Adobe platform.", "keywords": ["_CommandID.FindMissingEffects"]},
+  {"topic": "_CommandID.FindMissingFonts", "file": "community-types/aftereffects/command-id/find-missing-fonts.md", "summary": "Open when looking up _CommandID.FindMissingFonts in Shared Adobe platform.", "keywords": ["_CommandID.FindMissingFonts"]},
+  {"topic": "_CommandID.FindMissingFootage", "file": "community-types/aftereffects/command-id/find-missing-footage.md", "summary": "Open when looking up _CommandID.FindMissingFootage in Shared Adobe platform.", "keywords": ["_CommandID.FindMissingFootage"]},
+  {"topic": "_CommandID.EditInAdobeAudition", "file": "community-types/aftereffects/command-id/edit-in-adobe-audition.md", "summary": "Open when looking up _CommandID.EditInAdobeAudition in Shared Adobe platform.", "keywords": ["_CommandID.EditInAdobeAudition"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Premiere and After Effects Color Management compatibility", "file": "desktop/correct-color/color-management/premiere-and-after-effects-color-management-compatibility.md", "summary": "Open when looking up Premiere and After Effects Color Management compatibility in Premiere Pro.", "keywords": ["Premiere and After Effects Color Management compatibility"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

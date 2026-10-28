@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Document.compoundPathItems", "file": "scripting/document/compound-path-items.md", "summary": "Open when looking up Document.compoundPathItems in Illustrator.", "keywords": ["Document.compoundPathItems"]},
+  {"topic": "Document.graphItems", "file": "scripting/document/graph-items.md", "summary": "Open when looking up Document.graphItems in Illustrator.", "keywords": ["Document.graphItems"]},
+  {"topic": "Document.groupItems", "file": "scripting/document/group-items.md", "summary": "Open when looking up Document.groupItems in Illustrator.", "keywords": ["Document.groupItems"]},
+  {"topic": "Document.layers", "file": "scripting/document/layers.md", "summary": "Open when looking up Document.layers in Illustrator.", "keywords": ["Document.layers"]},
+  {"topic": "Document.meshItems", "file": "scripting/document/mesh-items.md", "summary": "Open when looking up Document.meshItems in Illustrator.", "keywords": ["Document.meshItems"]},
+  {"topic": "Document.nonNativeItems", "file": "scripting/document/non-native-items.md", "summary": "Open when looking up Document.nonNativeItems in Illustrator.", "keywords": ["Document.nonNativeItems"]},
+  {"topic": "Document.pageItems", "file": "scripting/document/page-items.md", "summary": "Open when looking up Document.pageItems in Illustrator.", "keywords": ["Document.pageItems"]},
+  {"topic": "Document.pathItems", "file": "scripting/document/path-items.md", "summary": "Open when looking up Document.pathItems in Illustrator.", "keywords": ["Document.pathItems"]},
+  {"topic": "Document.pluginItems", "file": "scripting/document/plugin-items.md", "summary": "Open when looking up Document.pluginItems in Illustrator.", "keywords": ["Document.pluginItems"]},
+  {"topic": "Document.getPageItemFromUuid()", "file": "scripting/document/get-page-item-from-uuid.md", "summary": "Open when looking up Document.getPageItemFromUuid() in Illustrator.", "keywords": ["Document.getPageItemFromUuid()"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

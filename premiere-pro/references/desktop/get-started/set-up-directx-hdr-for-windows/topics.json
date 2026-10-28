@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Supported operating systems, GPUs, and displays for Directx HDR support", "file": "references/desktop/get-started/set-up-directx-hdr-for-windows/directx-hdr-system-requirements.md", "summary": "Open when looking up Supported operating systems, GPUs, and displays for Directx HDR support in Premiere Pro.", "keywords": ["Supported operating systems, GPUs, and displays for Directx HDR support"]},
-  {"topic": "Supported operating systems, GPUs, and displays for Directx HDR support references", "file": "references/desktop/get-started/set-up-directx-hdr-for-windows/system-requirements/reference-index.md", "summary": "Open when looking up Supported operating systems, GPUs, and displays for Directx HDR support in Premiere Pro.", "keywords": ["Supported operating systems, GPUs, and displays for Directx HDR support references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

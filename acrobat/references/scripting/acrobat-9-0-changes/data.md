@@ -1,8 +1,0 @@
-# Data
-
-
-methods:
-
-getFieldValue
-
-setFieldValue

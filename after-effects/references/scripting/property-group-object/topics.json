@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "Properties accessible by name", "file": "references/scripting/property-group-object/properties-accessible-by-name.md", "summary": "Open when looking up Properties accessible by name in After Effects.", "keywords": ["Properties accessible by name"]},
-  {"topic": "Variable Font Spacing", "file": "references/scripting/property-group-object/variable-font-spacing.md", "summary": "Open when looking up Variable Font Spacing in After Effects.", "keywords": ["Variable Font Spacing"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

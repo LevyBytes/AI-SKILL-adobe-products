@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Distorted images", "file": "desktop/pixel-aspect-ratio/distorted-images.md", "summary": "Open when looking up Distorted images in Premiere Pro.", "keywords": ["Distorted images"]},
+  {"topic": "Pixel aspect ratio and avoiding distorted images", "file": "desktop/pixel-aspect-ratio/pixel-aspect-ratio-and-avoiding-distorted-images.md", "summary": "Open when looking up Pixel aspect ratio and avoiding distorted images in Premiere Pro.", "keywords": ["Pixel aspect ratio and avoiding distorted images"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

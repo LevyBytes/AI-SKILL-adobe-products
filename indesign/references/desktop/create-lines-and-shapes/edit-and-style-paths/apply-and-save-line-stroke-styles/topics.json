@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Apply strokes to paths and frames", "file": "references/desktop/create-lines-and-shapes/edit-and-style-paths/apply-and-save-line-stroke-styles/apply-strokes-to-paths-and-frames.md", "summary": "Open when looking up Apply strokes to paths and frames in InDesign.", "keywords": ["Apply strokes to paths and frames"]},
-  {"topic": "Create custom stroke styles", "file": "references/desktop/create-lines-and-shapes/edit-and-style-paths/apply-and-save-line-stroke-styles/create-custom-stroke-styles.md", "summary": "Open when looking up Create custom stroke styles in InDesign.", "keywords": ["Create custom stroke styles"]},
-  {"topic": "Save and load custom stroke styles", "file": "references/desktop/create-lines-and-shapes/edit-and-style-paths/apply-and-save-line-stroke-styles/save-and-load-custom-stroke-styles.md", "summary": "Open when looking up Save and load custom stroke styles in InDesign.", "keywords": ["Save and load custom stroke styles"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

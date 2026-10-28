@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Useful Utility Functions - Accessing Auxiliary Channel Data", "file": "plugin-sdk/accessing-auxiliary-channel-data/useful-utility-functions-accessing-auxiliary-channel-data.md", "summary": "Open when looking up Useful Utility Functions - Accessing Auxiliary Channel Data in After Effects.", "keywords": ["Useful Utility Functions - Accessing Auxiliary Channel Data"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

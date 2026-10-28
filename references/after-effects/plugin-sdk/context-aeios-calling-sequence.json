@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Export references", "file": "plugin-sdk/export/reference-index.md", "summary": "Open when looking up Export in After Effects.", "keywords": ["Export references"]},
+  {"topic": "Import references", "file": "plugin-sdk/import/reference-index.md", "summary": "Open when looking up Import in After Effects.", "keywords": ["Import references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Using Character Viewer on macOS", "file": "references/desktop/text-and-typography/characters-and-glyphs/add-emoji-glyphs/using-character-viewer-on-mac-os.md", "summary": "Open when looking up Using Character Viewer on macOS in Photoshop.", "keywords": ["Using Character Viewer on macOS"]},
-  {"topic": "Using keyboard shortcuts on Windows", "file": "references/desktop/text-and-typography/characters-and-glyphs/add-emoji-glyphs/using-keyboard-shortcuts-on-windows.md", "summary": "Open when looking up Using keyboard shortcuts on Windows in Photoshop.", "keywords": ["Using keyboard shortcuts on Windows"]},
-  {"topic": "Using the Glyphs panel", "file": "references/desktop/text-and-typography/characters-and-glyphs/add-emoji-glyphs/using-the-glyphs-panel.md", "summary": "Open when looking up Using the Glyphs panel in Photoshop.", "keywords": ["Using the Glyphs panel"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

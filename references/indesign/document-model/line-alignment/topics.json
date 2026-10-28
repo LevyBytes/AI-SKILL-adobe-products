@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "CENTER_LINE_ALIGN", "file": "document-model/line-alignment/centerlinealign.md", "summary": "Open when looking up CENTER_LINE_ALIGN in InDesign.", "keywords": ["CENTER_LINE_ALIGN"]},
+  {"topic": "CENTER_LINE_JUSTIFY", "file": "document-model/line-alignment/centerlinejustify.md", "summary": "Open when looking up CENTER_LINE_JUSTIFY in InDesign.", "keywords": ["CENTER_LINE_JUSTIFY"]},
+  {"topic": "FULL_LINE_JUSTIFY", "file": "document-model/line-alignment/fulllinejustify.md", "summary": "Open when looking up FULL_LINE_JUSTIFY in InDesign.", "keywords": ["FULL_LINE_JUSTIFY"]},
+  {"topic": "LEFT_OR_TOP_LINE_ALIGN", "file": "document-model/line-alignment/leftortoplinealign.md", "summary": "Open when looking up LEFT_OR_TOP_LINE_ALIGN in InDesign.", "keywords": ["LEFT_OR_TOP_LINE_ALIGN"]},
+  {"topic": "LEFT_OR_TOP_LINE_JUSTIFY", "file": "document-model/line-alignment/leftortoplinejustify.md", "summary": "Open when looking up LEFT_OR_TOP_LINE_JUSTIFY in InDesign.", "keywords": ["LEFT_OR_TOP_LINE_JUSTIFY"]},
+  {"topic": "RIGHT_OR_BOTTOM_LINE_ALIGN", "file": "document-model/line-alignment/rightorbottomlinealign.md", "summary": "Open when looking up RIGHT_OR_BOTTOM_LINE_ALIGN in InDesign.", "keywords": ["RIGHT_OR_BOTTOM_LINE_ALIGN"]},
+  {"topic": "RIGHT_OR_BOTTOM_LINE_JUSTIFY", "file": "document-model/line-alignment/rightorbottomlinejustify.md", "summary": "Open when looking up RIGHT_OR_BOTTOM_LINE_JUSTIFY in InDesign.", "keywords": ["RIGHT_OR_BOTTOM_LINE_JUSTIFY"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

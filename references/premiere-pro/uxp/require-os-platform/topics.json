@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "require('os') - platform()", "file": "uxp/require-os-platform/require.md", "summary": "Open when looking up require('os') - platform() in Premiere Pro.", "keywords": ["require('os') - platform()"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Environment object - Keyboard state object", "file": "scripting/keyboard-state/environment-object-keyboard-state-object.md", "summary": "Open when looking up Environment object - Keyboard state object in Shared Adobe platform.", "keywords": ["Environment object - Keyboard state object"]},
+  {"topic": "keyName", "file": "scripting/keyboard-state/key-name.md", "summary": "Open when looking up keyName in Shared Adobe platform.", "keywords": ["keyName"]},
+  {"topic": "shiftKey, ctrlKey, altKey, metaKey", "file": "scripting/keyboard-state/shift-key-ctrl-key-alt-key-meta-key.md", "summary": "Open when looking up shiftKey, ctrlKey, altKey, metaKey in Shared Adobe platform.", "keywords": ["shiftKey, ctrlKey, altKey, metaKey"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Graphic customization objects - ScriptUIBrush Object", "file": "scripting/script-ui-brush/graphic-customization-objects-script-ui-brush-object.md", "summary": "Open when looking up Graphic customization objects - ScriptUIBrush Object in Shared Adobe platform.", "keywords": ["Graphic customization objects - ScriptUIBrush Object"]},
+  {"topic": "ScriptUIBrush Object Attributes", "file": "scripting/script-ui-brush/script-ui-brush-object-attributes.md", "summary": "Open when looking up ScriptUIBrush Object Attributes in Shared Adobe platform.", "keywords": ["ScriptUIBrush Object Attributes"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

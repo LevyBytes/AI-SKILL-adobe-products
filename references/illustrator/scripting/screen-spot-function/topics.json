@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "ScreenSpotFunction.name", "file": "scripting/screen-spot-function/name.md", "summary": "Open when looking up ScreenSpotFunction.name in Illustrator.", "keywords": ["ScreenSpotFunction.name"]},
+  {"topic": "ScreenSpotFunction.spotFunction", "file": "scripting/screen-spot-function/spot-function.md", "summary": "Open when looking up ScreenSpotFunction.spotFunction in Illustrator.", "keywords": ["ScreenSpotFunction.spotFunction"]},
+  {"topic": "ScreenSpotFunction.typename", "file": "scripting/screen-spot-function/typename.md", "summary": "Open when looking up ScreenSpotFunction.typename in Illustrator.", "keywords": ["ScreenSpotFunction.typename"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Brushes and presets", "file": "references/desktop/apply-painting-techniques/brushes-and-presets.md", "summary": "Open when looking up Brushes and presets in Photoshop.", "keywords": ["Brushes and presets"]},
-  {"topic": "Brushes and presets references", "file": "references/desktop/apply-painting-techniques/brushes-and-presets/reference-index.md", "summary": "Open when looking up Brushes and presets in Photoshop.", "keywords": ["Brushes and presets references"]},
-  {"topic": "Create and fill with patterns", "file": "references/desktop/apply-painting-techniques/create-and-fill-with-patterns.md", "summary": "Open when looking up Create and fill with patterns in Photoshop.", "keywords": ["Create and fill with patterns"]},
-  {"topic": "Create and fill with patterns references", "file": "references/desktop/apply-painting-techniques/create-and-fill-with-patterns/reference-index.md", "summary": "Open when looking up Create and fill with patterns in Photoshop.", "keywords": ["Create and fill with patterns references"]},
-  {"topic": "Fill objects, selections, and layers", "file": "references/desktop/apply-painting-techniques/fill-objects-selections-and-layers.md", "summary": "Open when looking up Fill objects, selections, and layers in Photoshop.", "keywords": ["Fill objects, selections, and layers"]},
-  {"topic": "Fill objects, selections, and layers references", "file": "references/desktop/apply-painting-techniques/fill-objects-selections-and-layers/reference-index.md", "summary": "Open when looking up Fill objects, selections, and layers in Photoshop.", "keywords": ["Fill objects, selections, and layers references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

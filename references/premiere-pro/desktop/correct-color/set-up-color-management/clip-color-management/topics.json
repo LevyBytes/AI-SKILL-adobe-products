@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Convert a clip to a known color space", "file": "desktop/correct-color/set-up-color-management/clip-color-management/convert-a-clip-to-a-known-color-space.md", "summary": "Open when looking up Convert a clip to a known color space in Premiere Pro.", "keywords": ["Convert a clip to a known color space"]},
+  {"topic": "Correctly indentify clips on import", "file": "desktop/correct-color/set-up-color-management/clip-color-management/correctly-indentify-clips-on-import.md", "summary": "Open when looking up Correctly indentify clips on import in Premiere Pro.", "keywords": ["Correctly indentify clips on import"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

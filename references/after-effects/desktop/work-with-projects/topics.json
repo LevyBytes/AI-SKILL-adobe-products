@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "After effects projects references", "file": "desktop/work-with-projects/after-effects-projects/reference-index.md", "summary": "Open when looking up After effects projects in After Effects.", "keywords": ["After effects projects references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

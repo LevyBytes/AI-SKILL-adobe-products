@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "CCIT3", "file": "references/document-model/mono-bitmap-compression/ccit3.md", "summary": "Open when looking up CCIT3 in InDesign.", "keywords": ["CCIT3"]},
-  {"topic": "CCIT4", "file": "references/document-model/mono-bitmap-compression/ccit4.md", "summary": "Open when looking up CCIT4 in InDesign.", "keywords": ["CCIT4"]},
-  {"topic": "NONE", "file": "references/document-model/mono-bitmap-compression/none.md", "summary": "Open when looking up NONE in InDesign.", "keywords": ["NONE"]},
-  {"topic": "RUN_LENGTH", "file": "references/document-model/mono-bitmap-compression/runlength.md", "summary": "Open when looking up RUN_LENGTH in InDesign.", "keywords": ["RUN_LENGTH"]},
-  {"topic": "ZIP", "file": "references/document-model/mono-bitmap-compression/zip.md", "summary": "Open when looking up ZIP in InDesign.", "keywords": ["ZIP"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/media-encoder", "topics": [
+  {"topic": "Encoding log file", "file": "desktop/encoding-quick-start-and-basics/working-with-log-files/encoding-log-file.md", "summary": "Open when looking up Encoding log file in Media Encoder.", "keywords": ["Encoding log file"]},
+  {"topic": "Error log file", "file": "desktop/encoding-quick-start-and-basics/working-with-log-files/error-log-file.md", "summary": "Open when looking up Error log file in Media Encoder.", "keywords": ["Error log file"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

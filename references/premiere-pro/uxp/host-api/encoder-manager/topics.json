@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "encodeFile", "file": "uxp/host-api/encoder-manager/encode-file.md", "summary": "Open when looking up encodeFile in Premiere Pro.", "keywords": ["encodeFile"]},
+  {"topic": "encodeProjectItem", "file": "uxp/host-api/encoder-manager/encode-project-item.md", "summary": "Open when looking up encodeProjectItem in Premiere Pro.", "keywords": ["encodeProjectItem"]},
+  {"topic": "EncoderManager - Events", "file": "uxp/host-api/encoder-manager/encoder-manager-events.md", "summary": "Open when looking up EncoderManager - Events in Premiere Pro.", "keywords": ["EncoderManager - Events"]},
+  {"topic": "EncoderManager - Properties", "file": "uxp/host-api/encoder-manager/encoder-manager-properties.md", "summary": "Open when looking up EncoderManager - Properties in Premiere Pro.", "keywords": ["EncoderManager - Properties"]},
+  {"topic": "exportSequence", "file": "uxp/host-api/encoder-manager/export-sequence.md", "summary": "Open when looking up exportSequence in Premiere Pro.", "keywords": ["exportSequence"]},
+  {"topic": "getExportFileExtension", "file": "uxp/host-api/encoder-manager/get-export-file-extension.md", "summary": "Open when looking up getExportFileExtension in Premiere Pro.", "keywords": ["getExportFileExtension"]},
+  {"topic": "getManager", "file": "uxp/host-api/encoder-manager/get-manager.md", "summary": "Open when looking up getManager in Premiere Pro.", "keywords": ["getManager"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

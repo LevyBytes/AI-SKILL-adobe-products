@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "name ⇒ string", "file": "uxp/host/name-string.md", "summary": "Open when looking up name ⇒ string in Photoshop.", "keywords": ["name ⇒ string"]},
+  {"topic": "require('uxp').host", "file": "uxp/host/require-uxp-host.md", "summary": "Open when looking up require('uxp').host in Photoshop.", "keywords": ["require('uxp').host"]},
+  {"topic": "uiLocale ⇒ string", "file": "uxp/host/ui-locale-string.md", "summary": "Open when looking up uiLocale ⇒ string in Photoshop.", "keywords": ["uiLocale ⇒ string"]},
+  {"topic": "version ⇒ string", "file": "uxp/host/version-string.md", "summary": "Open when looking up version ⇒ string in Photoshop.", "keywords": ["version ⇒ string"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

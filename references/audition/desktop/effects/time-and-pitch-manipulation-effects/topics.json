@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/audition", "topics": [
+  {"topic": "Automatic Pitch Correction effect", "file": "desktop/effects/time-and-pitch-manipulation-effects/automatic-pitch-correction-effect.md", "summary": "Open when looking up Automatic Pitch Correction effect in Audition.", "keywords": ["Automatic Pitch Correction effect"]},
+  {"topic": "Manual Pitch Correction effect", "file": "desktop/effects/time-and-pitch-manipulation-effects/manual-pitch-correction-effect.md", "summary": "Open when looking up Manual Pitch Correction effect in Audition.", "keywords": ["Manual Pitch Correction effect"]},
+  {"topic": "Pitch Bender effect", "file": "desktop/effects/time-and-pitch-manipulation-effects/pitch-bender-effect.md", "summary": "Open when looking up Pitch Bender effect in Audition.", "keywords": ["Pitch Bender effect"]},
+  {"topic": "Pitch Shifter effect", "file": "desktop/effects/time-and-pitch-manipulation-effects/pitch-shifter-effect.md", "summary": "Open when looking up Pitch Shifter effect in Audition.", "keywords": ["Pitch Shifter effect"]},
+  {"topic": "Stretch and Pitch effect (Waveform Editor only)", "file": "desktop/effects/time-and-pitch-manipulation-effects/stretch-and-pitch-effect-waveform-editor-only.md", "summary": "Open when looking up Stretch and Pitch effect (Waveform Editor only) in Audition.", "keywords": ["Stretch and Pitch effect (Waveform Editor only)"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,16 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "changeColor", "file": "document-model/document/change-color.md", "summary": "Open when looking up changeColor in InDesign.", "keywords": ["changeColor"]},
+  {"topic": "changeComposer", "file": "document-model/document/change-composer.md", "summary": "Open when looking up changeComposer in InDesign.", "keywords": ["changeComposer"]},
+  {"topic": "changeGlyph", "file": "document-model/document/change-glyph.md", "summary": "Open when looking up changeGlyph in InDesign.", "keywords": ["changeGlyph"]},
+  {"topic": "changeGrep", "file": "document-model/document/change-grep.md", "summary": "Open when looking up changeGrep in InDesign.", "keywords": ["changeGrep"]},
+  {"topic": "changeObject", "file": "document-model/document/change-object.md", "summary": "Open when looking up changeObject in InDesign.", "keywords": ["changeObject"]},
+  {"topic": "changeText", "file": "document-model/document/change-text.md", "summary": "Open when looking up changeText in InDesign.", "keywords": ["changeText"]},
+  {"topic": "changeTransliterate", "file": "document-model/document/change-transliterate.md", "summary": "Open when looking up changeTransliterate in InDesign.", "keywords": ["changeTransliterate"]},
+  {"topic": "findColor", "file": "document-model/document/find-color.md", "summary": "Open when looking up findColor in InDesign.", "keywords": ["findColor"]},
+  {"topic": "findGlyph", "file": "document-model/document/find-glyph.md", "summary": "Open when looking up findGlyph in InDesign.", "keywords": ["findGlyph"]},
+  {"topic": "findGrep", "file": "document-model/document/find-grep.md", "summary": "Open when looking up findGrep in InDesign.", "keywords": ["findGrep"]},
+  {"topic": "findObject", "file": "document-model/document/find-object.md", "summary": "Open when looking up findObject in InDesign.", "keywords": ["findObject"]},
+  {"topic": "findText", "file": "document-model/document/find-text.md", "summary": "Open when looking up findText in InDesign.", "keywords": ["findText"]},
+  {"topic": "findTransliterate", "file": "document-model/document/find-transliterate.md", "summary": "Open when looking up findTransliterate in InDesign.", "keywords": ["findTransliterate"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

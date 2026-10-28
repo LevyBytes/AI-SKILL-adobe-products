@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Reduce file size", "file": "references/desktop/image-transforms/resize-and-adjust-resolution/manage-image-file-size/reduce-file-size.md", "summary": "Open when looking up Reduce file size in Photoshop.", "keywords": ["Reduce file size"]},
-  {"topic": "View file size", "file": "references/desktop/image-transforms/resize-and-adjust-resolution/manage-image-file-size/view-file-size.md", "summary": "Open when looking up View file size in Photoshop.", "keywords": ["View file size"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

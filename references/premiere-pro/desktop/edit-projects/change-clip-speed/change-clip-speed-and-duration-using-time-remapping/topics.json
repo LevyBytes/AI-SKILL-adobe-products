@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Vary speed within different sections of the clip using Time Remapping", "file": "desktop/edit-projects/change-clip-speed/change-clip-speed-and-duration-using-time-remapping/time-remapping-speed-sections.md", "summary": "Open when looking up Vary speed within different sections of the clip using Time Remapping in Premiere Pro.", "keywords": ["Vary speed within different sections of the clip using Time Remapping"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

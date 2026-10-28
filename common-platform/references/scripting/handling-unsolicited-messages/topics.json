@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Communicating through messages - Handling unsolicited messages", "file": "references/scripting/handling-unsolicited-messages/communicating-through-messages-handling-unsolicited-messages.md", "summary": "Open when looking up Communicating through messages - Handling unsolicited messages in Shared Adobe platform.", "keywords": ["Communicating through messages - Handling unsolicited messages"]},
-  {"topic": "Message-handling examples", "file": "references/scripting/handling-unsolicited-messages/message-handling-examples.md", "summary": "Open when looking up Message-handling examples in Shared Adobe platform.", "keywords": ["Message-handling examples"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

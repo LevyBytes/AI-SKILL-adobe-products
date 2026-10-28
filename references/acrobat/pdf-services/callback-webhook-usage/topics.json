@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Callback Payload on HTTPS URL", "file": "pdf-services/callback-webhook-usage/callback-payload-on-https-url.md", "summary": "Open when looking up Callback Payload on HTTPS URL in Acrobat.", "keywords": ["Callback Payload on HTTPS URL"]},
+  {"topic": "In case Job completes with Failure", "file": "pdf-services/callback-webhook-usage/in-case-job-completes-with-failure.md", "summary": "Open when looking up In case Job completes with Failure in Acrobat.", "keywords": ["In case Job completes with Failure"]},
+  {"topic": "In case Job completes with Success", "file": "pdf-services/callback-webhook-usage/in-case-job-completes-with-success.md", "summary": "Open when looking up In case Job completes with Success in Acrobat.", "keywords": ["In case Job completes with Success"]},
+  {"topic": "Parameters for the Notifier Object", "file": "pdf-services/callback-webhook-usage/parameters-for-the-notifier-object.md", "summary": "Open when looking up Parameters for the Notifier Object in Acrobat.", "keywords": ["Parameters for the Notifier Object"]},
+  {"topic": "Sample Notifier Object", "file": "pdf-services/callback-webhook-usage/sample-notifier-object.md", "summary": "Open when looking up Sample Notifier Object in Acrobat.", "keywords": ["Sample Notifier Object"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

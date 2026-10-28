@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Access the Preset Manager", "file": "desktop/render-and-export/export-files/preset-manager-overview/access-the-preset-manager.md", "summary": "Open when looking up Access the Preset Manager in Premiere Pro.", "keywords": ["Access the Preset Manager"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

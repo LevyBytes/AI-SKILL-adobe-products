@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "PF_EventExtra - PF_EffectWindowInfo", "file": "plugin-sdk/pf-effect-window-info/pf-event-extra-pf-effect-window-info.md", "summary": "Open when looking up PF_EventExtra - PF_EffectWindowInfo in After Effects.", "keywords": ["PF_EventExtra - PF_EffectWindowInfo"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

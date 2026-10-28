@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "How It Works", "file": "document-generation/hyperlink/how-it-works.md", "summary": "Open when looking up How It Works in Acrobat.", "keywords": ["How It Works"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Media preferences in Adobe Premiere", "file": "desktop/media-preferences/media-preferences-in-adobe-premiere.md", "summary": "Open when looking up Media preferences in Adobe Premiere in Premiere Pro.", "keywords": ["Media preferences in Adobe Premiere"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

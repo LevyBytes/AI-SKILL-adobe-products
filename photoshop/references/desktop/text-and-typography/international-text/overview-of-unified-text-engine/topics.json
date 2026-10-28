@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Better bidirectional text support", "file": "references/desktop/text-and-typography/international-text/overview-of-unified-text-engine/better-bidirectional-text-support.md", "summary": "Open when looking up Better bidirectional text support in Photoshop.", "keywords": ["Better bidirectional text support"]},
-  {"topic": "Improved text shaping", "file": "references/desktop/text-and-typography/international-text/overview-of-unified-text-engine/improved-text-shaping.md", "summary": "Open when looking up Improved text shaping in Photoshop.", "keywords": ["Improved text shaping"]},
-  {"topic": "What is the Unified Text Engine?", "file": "references/desktop/text-and-typography/international-text/overview-of-unified-text-engine/what-is-the-unified-text-engine.md", "summary": "Open when looking up What is the Unified Text Engine? in Photoshop.", "keywords": ["What is the Unified Text Engine?"]},
-  {"topic": "Working with the text layer Properties panel", "file": "references/desktop/text-and-typography/international-text/overview-of-unified-text-engine/working-with-the-text-layer-properties-panel.md", "summary": "Open when looking up Working with the text layer Properties panel in Photoshop.", "keywords": ["Working with the text layer Properties panel"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

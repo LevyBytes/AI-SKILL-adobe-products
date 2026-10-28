@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Export workflows for broadcast-ready viewing-platform delivery", "file": "desktop/export-for-viewing-platforms/viewing-platform-export-workflows.md", "summary": "Open when looking up Export workflows for broadcast-ready viewing-platform delivery in Premiere Pro.", "keywords": ["Export workflows for broadcast-ready viewing-platform delivery"]},
+  {"topic": "Getting broadcast ready", "file": "desktop/export-for-viewing-platforms/getting-broadcast-ready.md", "summary": "Open when looking up Getting broadcast ready in Premiere Pro.", "keywords": ["Getting broadcast ready"]},
+  {"topic": "Quality control", "file": "desktop/export-for-viewing-platforms/quality-control.md", "summary": "Open when looking up Quality control in Premiere Pro.", "keywords": ["Quality control"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

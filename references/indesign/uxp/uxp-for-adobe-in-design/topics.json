@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Getting started", "file": "uxp/uxp-for-adobe-in-design/getting-started.md", "summary": "Open when looking up Getting started in InDesign.", "keywords": ["Getting started"]},
+  {"topic": "Join the community", "file": "uxp/uxp-for-adobe-in-design/join-the-community.md", "summary": "Open when looking up Join the community in InDesign.", "keywords": ["Join the community"]},
+  {"topic": "Migration", "file": "uxp/uxp-for-adobe-in-design/migration.md", "summary": "Open when looking up Migration in InDesign.", "keywords": ["Migration"]},
+  {"topic": "Resources", "file": "uxp/uxp-for-adobe-in-design/resources.md", "summary": "Open when looking up Resources in InDesign.", "keywords": ["Resources"]},
+  {"topic": "Resources and API references", "file": "uxp/uxp-for-adobe-in-design/resources-and-api-references.md", "summary": "Open when looking up Resources and API references in InDesign.", "keywords": ["Resources and API references"]},
+  {"topic": "Scripts and plugins", "file": "uxp/uxp-for-adobe-in-design/scripts-and-plugins.md", "summary": "Open when looking up Scripts and plugins in InDesign.", "keywords": ["Scripts and plugins"]},
+  {"topic": "Share & Distribute", "file": "uxp/uxp-for-adobe-in-design/share-distribute.md", "summary": "Open when looking up Share & Distribute in InDesign.", "keywords": ["Share & Distribute"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

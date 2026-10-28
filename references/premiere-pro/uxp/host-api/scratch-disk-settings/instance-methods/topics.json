@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "getScratchDiskPath", "file": "uxp/host-api/scratch-disk-settings/instance-methods/get-scratch-disk-path.md", "summary": "Open when looking up getScratchDiskPath in Premiere Pro.", "keywords": ["getScratchDiskPath"]},
+  {"topic": "setScratchDiskPath", "file": "uxp/host-api/scratch-disk-settings/instance-methods/set-scratch-disk-path.md", "summary": "Open when looking up setScratchDiskPath in Premiere Pro.", "keywords": ["setScratchDiskPath"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

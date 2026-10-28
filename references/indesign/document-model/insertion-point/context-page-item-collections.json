@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "allGraphics", "file": "document-model/insertion-point/all-graphics.md", "summary": "Open when looking up allGraphics in InDesign.", "keywords": ["allGraphics"]},
+  {"topic": "allPageItems", "file": "document-model/insertion-point/all-page-items.md", "summary": "Open when looking up allPageItems in InDesign.", "keywords": ["allPageItems"]},
+  {"topic": "epstexts", "file": "document-model/insertion-point/epstexts.md", "summary": "Open when looking up epstexts in InDesign.", "keywords": ["epstexts"]},
+  {"topic": "graphicLines", "file": "document-model/insertion-point/graphic-lines.md", "summary": "Open when looking up graphicLines in InDesign.", "keywords": ["graphicLines"]},
+  {"topic": "groups", "file": "document-model/insertion-point/groups.md", "summary": "Open when looking up groups in InDesign.", "keywords": ["groups"]},
+  {"topic": "ovals", "file": "document-model/insertion-point/ovals.md", "summary": "Open when looking up ovals in InDesign.", "keywords": ["ovals"]},
+  {"topic": "pageItems", "file": "document-model/insertion-point/page-items.md", "summary": "Open when looking up pageItems in InDesign.", "keywords": ["pageItems"]},
+  {"topic": "polygons", "file": "document-model/insertion-point/polygons.md", "summary": "Open when looking up polygons in InDesign.", "keywords": ["polygons"]},
+  {"topic": "rectangles", "file": "document-model/insertion-point/rectangles.md", "summary": "Open when looking up rectangles in InDesign.", "keywords": ["rectangles"]},
+  {"topic": "splineItems", "file": "document-model/insertion-point/spline-items.md", "summary": "Open when looking up splineItems in InDesign.", "keywords": ["splineItems"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

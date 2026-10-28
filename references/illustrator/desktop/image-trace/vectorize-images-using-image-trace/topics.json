@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Release the trace", "file": "desktop/image-trace/vectorize-images-using-image-trace/release-the-trace.md", "summary": "Open when looking up Release the trace in Illustrator.", "keywords": ["Release the trace"]},
+  {"topic": "Trace an image quickly with limited tracing options", "file": "desktop/image-trace/vectorize-images-using-image-trace/trace-an-image-quickly-with-limited-tracing-options.md", "summary": "Open when looking up Trace an image quickly with limited tracing options in Illustrator.", "keywords": ["Trace an image quickly with limited tracing options"]},
+  {"topic": "Trace an image with full tracing options", "file": "desktop/image-trace/vectorize-images-using-image-trace/trace-an-image-with-full-tracing-options.md", "summary": "Open when looking up Trace an image with full tracing options in Illustrator.", "keywords": ["Trace an image with full tracing options"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

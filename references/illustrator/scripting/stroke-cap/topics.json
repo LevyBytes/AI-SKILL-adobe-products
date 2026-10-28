@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Scripting Constants - StrokeCap", "file": "scripting/stroke-cap/scripting-constants-stroke-cap.md", "summary": "Open when looking up Scripting Constants - StrokeCap in Illustrator.", "keywords": ["Scripting Constants - StrokeCap"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

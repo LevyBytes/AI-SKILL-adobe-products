@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Collect and place linked content", "file": "desktop/automation-and-scripting/document-automation/link-and-update-content-across-documents/collect-and-place-linked-content.md", "summary": "Open when looking up Collect and place linked content in InDesign.", "keywords": ["Collect and place linked content"]},
+  {"topic": "Key considerations", "file": "desktop/automation-and-scripting/document-automation/link-and-update-content-across-documents/key-considerations.md", "summary": "Open when looking up Key considerations in InDesign.", "keywords": ["Key considerations"]},
+  {"topic": "Place and link content directly", "file": "desktop/automation-and-scripting/document-automation/link-and-update-content-across-documents/place-and-link-content-directly.md", "summary": "Open when looking up Place and link content directly in InDesign.", "keywords": ["Place and link content directly"]},
+  {"topic": "Update linked content", "file": "desktop/automation-and-scripting/document-automation/link-and-update-content-across-documents/update-linked-content.md", "summary": "Open when looking up Update linked content in InDesign.", "keywords": ["Update linked content"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

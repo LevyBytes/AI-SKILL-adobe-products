@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "CUSTOM", "file": "document-model/paper-sizes/custom.md", "summary": "Open when looking up CUSTOM in InDesign.", "keywords": ["CUSTOM"]},
+  {"topic": "DEFINED_BY_DRIVER", "file": "document-model/paper-sizes/definedbydriver.md", "summary": "Open when looking up DEFINED_BY_DRIVER in InDesign.", "keywords": ["DEFINED_BY_DRIVER"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

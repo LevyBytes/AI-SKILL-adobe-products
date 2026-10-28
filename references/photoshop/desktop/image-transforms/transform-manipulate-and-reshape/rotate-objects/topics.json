@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Apply rotation", "file": "desktop/image-transforms/transform-manipulate-and-reshape/rotate-objects/apply-rotation.md", "summary": "Open when looking up Apply rotation in Photoshop.", "keywords": ["Apply rotation"]},
+  {"topic": "Edit rotation", "file": "desktop/image-transforms/transform-manipulate-and-reshape/rotate-objects/edit-rotation.md", "summary": "Open when looking up Edit rotation in Photoshop.", "keywords": ["Edit rotation"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

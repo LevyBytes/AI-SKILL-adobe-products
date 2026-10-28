@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "AI Assistant capabilities", "file": "references/desktop/generative-ai/assistant/ai-assistant-capabilities.md", "summary": "Open when looking up AI Assistant capabilities in InDesign.", "keywords": ["AI Assistant capabilities"]},
-  {"topic": "AI Assistant capabilities references", "file": "references/desktop/generative-ai/assistant/ai-assistant-capabilities/reference-index.md", "summary": "Open when looking up AI Assistant capabilities in InDesign.", "keywords": ["AI Assistant capabilities references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

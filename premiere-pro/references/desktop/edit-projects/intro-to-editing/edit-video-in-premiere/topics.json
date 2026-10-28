@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Add or remove clips", "file": "references/desktop/edit-projects/intro-to-editing/edit-video-in-premiere/add-or-remove-clips.md", "summary": "Open when looking up Add or remove clips in Premiere Pro.", "keywords": ["Add or remove clips"]},
-  {"topic": "Other editing tips", "file": "references/desktop/edit-projects/intro-to-editing/edit-video-in-premiere/other-editing-tips.md", "summary": "Open when looking up Other editing tips in Premiere Pro.", "keywords": ["Other editing tips"]},
-  {"topic": "Remove gaps", "file": "references/desktop/edit-projects/intro-to-editing/edit-video-in-premiere/remove-gaps.md", "summary": "Open when looking up Remove gaps in Premiere Pro.", "keywords": ["Remove gaps"]},
-  {"topic": "Work faster with keyboard shortcuts", "file": "references/desktop/edit-projects/intro-to-editing/edit-video-in-premiere/work-faster-with-keyboard-shortcuts.md", "summary": "Open when looking up Work faster with keyboard shortcuts in Premiere Pro.", "keywords": ["Work faster with keyboard shortcuts"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

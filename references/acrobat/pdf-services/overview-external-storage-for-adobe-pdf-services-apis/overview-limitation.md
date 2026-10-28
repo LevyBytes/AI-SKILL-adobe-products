@@ -1,0 +1,3 @@
+Adobe's external-storage interface accepts signed HTTPS URLs and does not follow redirects. Supply the direct transfer URL rather than a web preview, sign-in page or redirecting API endpoint.
+
+A supported hostname alone does not establish permission to access the resource. The URL must authorize the intended input download or output upload and remain valid when the job performs that transfer. Retain its signature and authorization parameters. Check the [provider's signing and transfer contract](overview-supported-external-storage-solutions.md) as well as the [supported host patterns](supported-url-prefixes.md).

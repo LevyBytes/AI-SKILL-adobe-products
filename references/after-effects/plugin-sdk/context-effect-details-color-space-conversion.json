@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Color Space Conversion", "file": "plugin-sdk/color-space-conversion.md", "summary": "Open when looking up Color Space Conversion in After Effects.", "keywords": ["Color Space Conversion"]},
+  {"topic": "Color space conversion callbacks references", "file": "plugin-sdk/color-space-conversion-callbacks/reference-index.md", "summary": "Open when looking up Color space conversion callbacks in After Effects.", "keywords": ["Color space conversion callbacks references"]},
+  {"topic": "Pixel types for different color spaces references", "file": "plugin-sdk/pixel-types-for-different-color-spaces/reference-index.md", "summary": "Open when looking up Pixel types for different color spaces in After Effects.", "keywords": ["Pixel types for different color spaces references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

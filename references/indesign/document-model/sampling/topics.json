@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "BICUBIC_DOWNSAMPLE", "file": "document-model/sampling/bicubicdownsample.md", "summary": "Open when looking up BICUBIC_DOWNSAMPLE in InDesign.", "keywords": ["BICUBIC_DOWNSAMPLE"]},
+  {"topic": "DOWNSAMPLE", "file": "document-model/sampling/downsample.md", "summary": "Open when looking up DOWNSAMPLE in InDesign.", "keywords": ["DOWNSAMPLE"]},
+  {"topic": "NONE", "file": "document-model/sampling/none.md", "summary": "Open when looking up NONE in InDesign.", "keywords": ["NONE"]},
+  {"topic": "SUBSAMPLE", "file": "document-model/sampling/subsample.md", "summary": "Open when looking up SUBSAMPLE in InDesign.", "keywords": ["SUBSAMPLE"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

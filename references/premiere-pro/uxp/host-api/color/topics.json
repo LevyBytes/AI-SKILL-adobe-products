@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Color - Properties", "file": "uxp/host-api/color/color-properties.md", "summary": "Open when looking up Color - Properties in Premiere Pro.", "keywords": ["Color - Properties"]},
+  {"topic": "equals", "file": "uxp/host-api/color/equals.md", "summary": "Open when looking up equals in Premiere Pro.", "keywords": ["equals"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

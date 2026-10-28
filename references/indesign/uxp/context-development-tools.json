@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Adobe UXP Developer Tool", "file": "uxp/adobe-uxp-developer-tool.md", "summary": "Open when looking up Adobe UXP Developer Tool in InDesign.", "keywords": ["Adobe UXP Developer Tool"]},
+  {"topic": "Adobe UXP Developer Tool references", "file": "uxp/adobe-uxp-developer-tool/reference-index.md", "summary": "Open when looking up Adobe UXP Developer Tool in InDesign.", "keywords": ["Adobe UXP Developer Tool references"]},
+  {"topic": "Debugging", "file": "uxp/debugging.md", "summary": "Open when looking up Debugging in InDesign.", "keywords": ["Debugging"]},
+  {"topic": "Debugging a Script", "file": "uxp/debugging-a-script.md", "summary": "Open when looking up Debugging a Script in InDesign.", "keywords": ["Debugging a Script"]},
+  {"topic": "Debugging a Script references", "file": "uxp/debugging-a-script/reference-index.md", "summary": "Open when looking up Debugging a Script in InDesign.", "keywords": ["Debugging a Script references"]},
+  {"topic": "Debugging references", "file": "uxp/debugging/reference-index.md", "summary": "Open when looking up Debugging in InDesign.", "keywords": ["Debugging references"]},
+  {"topic": "Developer Tools", "file": "uxp/developer-tools.md", "summary": "Open when looking up Developer Tools in InDesign.", "keywords": ["Developer Tools"]},
+  {"topic": "Developer Tools references", "file": "uxp/developer-tools/reference-index.md", "summary": "Open when looking up Developer Tools in InDesign.", "keywords": ["Developer Tools references"]},
+  {"topic": "Plugin workflows", "file": "uxp/plugin-workflows.md", "summary": "Open when looking up Plugin workflows in InDesign.", "keywords": ["Plugin workflows"]},
+  {"topic": "Plugin workflows references", "file": "uxp/plugin-workflows/reference-index.md", "summary": "Open when looking up Plugin workflows in InDesign.", "keywords": ["Plugin workflows references"]},
+  {"topic": "Programming languages", "file": "uxp/programming-languages.md", "summary": "Open when looking up Programming languages in InDesign.", "keywords": ["Programming languages"]},
+  {"topic": "Programming languages references", "file": "uxp/programming-languages/reference-index.md", "summary": "Open when looking up Programming languages in InDesign.", "keywords": ["Programming languages references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Keyframes in the Effect Controls panel", "file": "desktop/about-keyframes/keyframes-in-the-effect-controls-panel.md", "summary": "Open when looking up Keyframes in the Effect Controls panel in Premiere Pro.", "keywords": ["Keyframes in the Effect Controls panel"]},
+  {"topic": "Keyframes in the Timeline panel", "file": "desktop/about-keyframes/keyframes-in-the-timeline-panel.md", "summary": "Open when looking up Keyframes in the Timeline panel in Premiere Pro.", "keywords": ["Keyframes in the Timeline panel"]},
+  {"topic": "Overview keyframe work in Premiere.", "file": "desktop/about-keyframes/overview-keyframe-work-in-premiere.md", "summary": "Open when looking up Overview keyframe work in Premiere. in Premiere Pro.", "keywords": ["Overview keyframe work in Premiere."]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

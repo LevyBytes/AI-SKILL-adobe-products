@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Navigation tools", "file": "references/desktop/repair-and-retouch/remove-objects-and-fill-space/tools-to-fine-tune-sampling-and-fill-areas/navigation-tools.md", "summary": "Open when looking up Navigation tools in Photoshop.", "keywords": ["Navigation tools"]},
-  {"topic": "Sampling Brush Tool", "file": "references/desktop/repair-and-retouch/remove-objects-and-fill-space/tools-to-fine-tune-sampling-and-fill-areas/sampling-brush-tool.md", "summary": "Open when looking up Sampling Brush Tool in Photoshop.", "keywords": ["Sampling Brush Tool"]},
-  {"topic": "Selection refinement tools", "file": "references/desktop/repair-and-retouch/remove-objects-and-fill-space/tools-to-fine-tune-sampling-and-fill-areas/selection-refinement-tools.md", "summary": "Open when looking up Selection refinement tools in Photoshop.", "keywords": ["Selection refinement tools"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "include the output of the custom build steps into the Microsoft-generated .rc file.", "file": "plugin-sdk/pipl-custom-build-resources.md", "summary": "Open when looking up include the output of the custom build steps into the Microsoft-generated .rc file. in After Effects.", "keywords": ["include the output of the custom build steps into the Microsoft-generated .rc file."]},
+  {"topic": "Multiple pi p ls references", "file": "plugin-sdk/multiple-pi-p-ls/reference-index.md", "summary": "Open when looking up Multiple pi p ls in After Effects.", "keywords": ["Multiple pi p ls references"]},
+  {"topic": "Pi pl resources and microsoft visual studio references", "file": "plugin-sdk/pi-pl-resources-and-microsoft-visual-studio/reference-index.md", "summary": "Open when looking up Pi pl resources and microsoft visual studio in After Effects.", "keywords": ["Pi pl resources and microsoft visual studio references"]},
+  {"topic": "PiPL Resources", "file": "plugin-sdk/pi-pl-resources.md", "summary": "Open when looking up PiPL Resources in After Effects.", "keywords": ["PiPL Resources"]},
+  {"topic": "Why do i need to know all this references", "file": "plugin-sdk/why-do-i-need-to-know-all-this/reference-index.md", "summary": "Open when looking up Why do i need to know all this in After Effects.", "keywords": ["Why do i need to know all this references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

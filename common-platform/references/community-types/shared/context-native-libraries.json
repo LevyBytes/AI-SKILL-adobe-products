@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "declare const ExternalObject: ExternalObjectConstructor", "file": "references/community-types/shared/declare-const-external-object-external-object-constructor.md", "summary": "Open when looking up declare const ExternalObject: ExternalObjectConstructor in Shared Adobe platform.", "keywords": ["declare const ExternalObject: ExternalObjectConstructor"]},
-  {"topic": "ExternalObject", "file": "references/community-types/shared/external-object.md", "summary": "Open when looking up ExternalObject in Shared Adobe platform.", "keywords": ["ExternalObject"]},
-  {"topic": "ExternalObjectConstructor", "file": "references/community-types/shared/external-object-constructor.md", "summary": "Open when looking up ExternalObjectConstructor in Shared Adobe platform.", "keywords": ["ExternalObjectConstructor"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

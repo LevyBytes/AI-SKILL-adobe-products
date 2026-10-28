@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Inline-supported resources: Actions and UXP scripts", "file": "references/cloud-services/actions-migration/inline-content-usage/inline-supported-resources-actions-and-uxp-scripts.md", "summary": "Open when looking up Inline-supported resources: Actions and UXP scripts in Photoshop.", "keywords": ["Inline-supported resources: Actions and UXP scripts"]},
-  {"topic": "Not supported: Binary resources", "file": "references/cloud-services/actions-migration/inline-content-usage/not-supported-binary-resources.md", "summary": "Open when looking up Not supported: Binary resources in Photoshop.", "keywords": ["Not supported: Binary resources"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

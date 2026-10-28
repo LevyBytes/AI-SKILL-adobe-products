@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Copy and paste Illustrator and SVG content", "file": "desktop/import-files/import-svg-files/copy-and-paste-illustrator-and-svg-content.md", "summary": "Open when looking up Copy and paste Illustrator and SVG content in After Effects.", "keywords": ["Copy and paste Illustrator and SVG content"]},
+  {"topic": "Copy content from Illustrator", "file": "desktop/import-files/import-svg-files/copy-content-from-illustrator.md", "summary": "Open when looking up Copy content from Illustrator in After Effects.", "keywords": ["Copy content from Illustrator"]},
+  {"topic": "Import SVG file as footage or as a composition", "file": "desktop/import-files/import-svg-files/import-svg-file-as-footage-or-as-a-composition.md", "summary": "Open when looking up Import SVG file as footage or as a composition in After Effects.", "keywords": ["Import SVG file as footage or as a composition"]},
+  {"topic": "Import SVG files", "file": "desktop/import-files/import-svg-files/import-svg-files.md", "summary": "Open when looking up Import SVG files in After Effects.", "keywords": ["Import SVG files"]},
+  {"topic": "Paste SVG from other apps", "file": "desktop/import-files/import-svg-files/paste-svg-from-other-apps.md", "summary": "Open when looking up Paste SVG from other apps in After Effects.", "keywords": ["Paste SVG from other apps"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

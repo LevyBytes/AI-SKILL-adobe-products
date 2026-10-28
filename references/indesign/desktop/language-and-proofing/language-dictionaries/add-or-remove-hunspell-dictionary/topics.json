@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Download and prepare dictionary files", "file": "desktop/language-and-proofing/language-dictionaries/add-or-remove-hunspell-dictionary/download-and-prepare-dictionary-files.md", "summary": "Open when looking up Download and prepare dictionary files in InDesign.", "keywords": ["Download and prepare dictionary files"]},
+  {"topic": "Install dictionary files in InDesign", "file": "desktop/language-and-proofing/language-dictionaries/add-or-remove-hunspell-dictionary/install-dictionary-files-in-in-design.md", "summary": "Open when looking up Install dictionary files in InDesign in InDesign.", "keywords": ["Install dictionary files in InDesign"]},
+  {"topic": "Remove a Hunspell dictionary", "file": "desktop/language-and-proofing/language-dictionaries/add-or-remove-hunspell-dictionary/remove-a-hunspell-dictionary.md", "summary": "Open when looking up Remove a Hunspell dictionary in InDesign.", "keywords": ["Remove a Hunspell dictionary"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

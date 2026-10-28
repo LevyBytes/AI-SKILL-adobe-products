@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "active", "file": "desktop/effect/active.md", "summary": "Open when looking up active in After Effects.", "keywords": ["active"]},
+  {"topic": "param(name)", "file": "desktop/effect/param.md", "summary": "Open when looking up param(name) in After Effects.", "keywords": ["param(name)"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

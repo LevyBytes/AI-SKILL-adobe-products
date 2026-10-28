@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Add or modify stamps", "file": "desktop/share-and-review-documents/use-stamps/add-or-modify-stamps.md", "summary": "Open when looking up Add or modify stamps in Acrobat.", "keywords": ["Add or modify stamps"]},
+  {"topic": "Create custom dynamic stamps", "file": "desktop/share-and-review-documents/use-stamps/create-custom-dynamic-stamps.md", "summary": "Open when looking up Create custom dynamic stamps in Acrobat.", "keywords": ["Create custom dynamic stamps"]},
+  {"topic": "Create custom dynamic stamps references", "file": "desktop/share-and-review-documents/use-stamps/create-custom-dynamic-stamps/reference-index.md", "summary": "Open when looking up Create custom dynamic stamps in Acrobat.", "keywords": ["Create custom dynamic stamps references"]},
+  {"topic": "Update digital stamp identities", "file": "desktop/share-and-review-documents/use-stamps/update-digital-stamp-identities.md", "summary": "Open when looking up Update digital stamp identities in Acrobat.", "keywords": ["Update digital stamp identities"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Delete Media Cache files manually (if you are unable to launch Premiere)", "file": "references/desktop/troubleshooting/playback-issues/choppy-playback-and-poor-performance-issue/media-cache-cleanup-without-launching.md", "summary": "Open when looking up Delete Media Cache files manually (if you are unable to launch Premiere) in Premiere Pro.", "keywords": ["Delete Media Cache files manually (if you are unable to launch Premiere)"]},
-  {"topic": "Delete the media cache files from within Premiere", "file": "references/desktop/troubleshooting/playback-issues/choppy-playback-and-poor-performance-issue/delete-the-media-cache-files-from-within-premiere.md", "summary": "Open when looking up Delete the media cache files from within Premiere in Premiere Pro.", "keywords": ["Delete the media cache files from within Premiere"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

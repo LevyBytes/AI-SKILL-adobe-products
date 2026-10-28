@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "ComponentCollection object", "file": "references/scripting/component-collection/component-collection-object.md", "summary": "Open when looking up ComponentCollection object in Premiere Pro.", "keywords": ["ComponentCollection object"]},
-  {"topic": "ComponentCollection.numItems", "file": "references/scripting/component-collection/num-items.md", "summary": "Open when looking up ComponentCollection.numItems in Premiere Pro.", "keywords": ["ComponentCollection.numItems"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "itemLink", "file": "references/document-model/xml-story/item-link.md", "summary": "Open when looking up itemLink in InDesign.", "keywords": ["itemLink"]},
-  {"topic": "linkedStoryOptions", "file": "references/document-model/xml-story/linked-story-options.md", "summary": "Open when looking up linkedStoryOptions in InDesign.", "keywords": ["linkedStoryOptions"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "PF_PreRenderCallbacks", "file": "references/plugin-sdk/pf-pre-render-extra/pf-pre-render-callbacks.md", "summary": "Open when looking up PF_PreRenderCallbacks in After Effects.", "keywords": ["PF_PreRenderCallbacks"]},
-  {"topic": "PF_PreRenderInput", "file": "references/plugin-sdk/pf-pre-render-extra/pf-pre-render-input.md", "summary": "Open when looking up PF_PreRenderInput in After Effects.", "keywords": ["PF_PreRenderInput"]},
-  {"topic": "PF_PreRenderOutput", "file": "references/plugin-sdk/pf-pre-render-extra/pf-pre-render-output.md", "summary": "Open when looking up PF_PreRenderOutput in After Effects.", "keywords": ["PF_PreRenderOutput"]},
-  {"topic": "SmartFX - PF_PreRenderExtra", "file": "references/plugin-sdk/pf-pre-render-extra/smart-fx-pf-pre-render-extra.md", "summary": "Open when looking up SmartFX - PF_PreRenderExtra in After Effects.", "keywords": ["SmartFX - PF_PreRenderExtra"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

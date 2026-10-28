@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Create an adjustment layer", "file": "desktop/layers/adjustment-and-fill/work-with-adjustment-layers/create-an-adjustment-layer.md", "summary": "Open when looking up Create an adjustment layer in Photoshop.", "keywords": ["Create an adjustment layer"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

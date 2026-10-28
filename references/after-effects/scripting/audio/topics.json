@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "AVLayer Match Names - Audio", "file": "scripting/audio/av-layer-match-names-audio.md", "summary": "Open when looking up AVLayer Match Names - Audio in After Effects.", "keywords": ["AVLayer Match Names - Audio"]},
+  {"topic": "First-Party Effect Match Names - Audio", "file": "scripting/audio/first-party-effect-match-names-audio.md", "summary": "Open when looking up First-Party Effect Match Names - Audio in After Effects.", "keywords": ["First-Party Effect Match Names - Audio"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

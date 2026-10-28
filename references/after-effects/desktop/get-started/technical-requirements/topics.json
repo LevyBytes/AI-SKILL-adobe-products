@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "GPU and GPU driver requirements for After Effects", "file": "desktop/get-started/technical-requirements/gpu-and-gpu-driver-requirements-for-after-effects.md", "summary": "Open when looking up GPU and GPU driver requirements for After Effects in After Effects.", "keywords": ["GPU and GPU driver requirements for After Effects"]},
+  {"topic": "GPU and GPU driver requirements for After Effects references", "file": "desktop/get-started/technical-requirements/gpu-requirements/reference-index.md", "summary": "Open when looking up GPU and GPU driver requirements for After Effects in After Effects.", "keywords": ["GPU and GPU driver requirements for After Effects references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

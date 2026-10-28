@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "add", "file": "uxp/host-api/layer-comps/add.md", "summary": "Open when looking up add in Photoshop.", "keywords": ["add"]},
+  {"topic": "getAllByName", "file": "uxp/host-api/layer-comps/get-all-by-name.md", "summary": "Open when looking up getAllByName in Photoshop.", "keywords": ["getAllByName"]},
+  {"topic": "Indexable", "file": "uxp/host-api/layer-comps/indexable.md", "summary": "Open when looking up Indexable in Photoshop.", "keywords": ["Indexable"]},
+  {"topic": "removeAll", "file": "uxp/host-api/layer-comps/remove-all.md", "summary": "Open when looking up removeAll in Photoshop.", "keywords": ["removeAll"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

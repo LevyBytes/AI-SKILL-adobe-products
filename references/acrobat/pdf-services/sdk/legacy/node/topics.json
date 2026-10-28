@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Authentication", "file": "pdf-services/sdk/legacy/node/authentication.md", "summary": "Open when looking up Authentication in Acrobat.", "keywords": ["Authentication"]},
+  {"topic": "Custom projects", "file": "pdf-services/sdk/legacy/node/custom-projects.md", "summary": "Open when looking up Custom projects in Acrobat.", "keywords": ["Custom projects"]},
+  {"topic": "Logging", "file": "pdf-services/sdk/legacy/node/logging.md", "summary": "Open when looking up Logging in Acrobat.", "keywords": ["Logging"]},
+  {"topic": "Node.js", "file": "pdf-services/sdk/legacy/node/node-js.md", "summary": "Open when looking up Node.js in Acrobat.", "keywords": ["Node.js"]},
+  {"topic": "Running the samples", "file": "pdf-services/sdk/legacy/node/running-the-samples.md", "summary": "Open when looking up Running the samples in Acrobat.", "keywords": ["Running the samples"]},
+  {"topic": "Set up a Node.js environment", "file": "pdf-services/sdk/legacy/node/set-up-a-node-js-environment.md", "summary": "Open when looking up Set up a Node.js environment in Acrobat.", "keywords": ["Set up a Node.js environment"]},
+  {"topic": "Verifying download authenticity", "file": "pdf-services/sdk/legacy/node/verifying-download-authenticity.md", "summary": "Open when looking up Verifying download authenticity in Acrobat.", "keywords": ["Verifying download authenticity"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

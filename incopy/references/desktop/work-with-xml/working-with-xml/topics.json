@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "incopy", "topics": [
-  {"topic": "About DTD files", "file": "references/desktop/work-with-xml/working-with-xml/about-dtd-files.md", "summary": "Open when looking up About DTD files in InCopy.", "keywords": ["About DTD files"]},
-  {"topic": "About XML", "file": "references/desktop/work-with-xml/working-with-xml/about-xml.md", "summary": "Open when looking up About XML in InCopy.", "keywords": ["About XML"]},
-  {"topic": "Preparing XML files for K4 or InCopy workflows", "file": "references/desktop/work-with-xml/working-with-xml/preparing-xml-files-for-k4-or-in-copy-workflows.md", "summary": "Open when looking up Preparing XML files for K4 or InCopy workflows in InCopy.", "keywords": ["Preparing XML files for K4 or InCopy workflows"]},
-  {"topic": "XML rule sets", "file": "references/desktop/work-with-xml/working-with-xml/xml-rule-sets.md", "summary": "Open when looking up XML rule sets in InCopy.", "keywords": ["XML rule sets"]},
-  {"topic": "XML tools", "file": "references/desktop/work-with-xml/working-with-xml/xml-tools.md", "summary": "Open when looking up XML tools in InCopy.", "keywords": ["XML tools"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

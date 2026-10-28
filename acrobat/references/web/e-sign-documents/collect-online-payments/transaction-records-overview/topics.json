@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Acrobat records", "file": "references/web/e-sign-documents/collect-online-payments/transaction-records-overview/acrobat-records.md", "summary": "Open when looking up Acrobat records in Acrobat.", "keywords": ["Acrobat records"]},
-  {"topic": "Braintree records", "file": "references/web/e-sign-documents/collect-online-payments/transaction-records-overview/braintree-records.md", "summary": "Open when looking up Braintree records in Acrobat.", "keywords": ["Braintree records"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "print", "file": "document-model/document/print.md", "summary": "Open when looking up print in InDesign.", "keywords": ["print"]},
+  {"topic": "printBooklet", "file": "document-model/document/print-booklet.md", "summary": "Open when looking up printBooklet in InDesign.", "keywords": ["printBooklet"]},
+  {"topic": "printBookletOptions", "file": "document-model/document/print-booklet-options.md", "summary": "Open when looking up printBookletOptions in InDesign.", "keywords": ["printBookletOptions"]},
+  {"topic": "printBookletPrintPreferences", "file": "document-model/document/print-booklet-print-preferences.md", "summary": "Open when looking up printBookletPrintPreferences in InDesign.", "keywords": ["printBookletPrintPreferences"]},
+  {"topic": "printPreferences", "file": "document-model/document/print-preferences.md", "summary": "Open when looking up printPreferences in InDesign.", "keywords": ["printPreferences"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

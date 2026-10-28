@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "You're using an older version of InDesign", "file": "desktop/troubleshoot/files-and-output/can-t-open-documents-in-previous-versions/you-re-using-an-older-version-of-in-design.md", "summary": "Open when looking up You're using an older version of InDesign in InDesign.", "keywords": ["You're using an older version of InDesign"]},
+  {"topic": "Your collaborator is using an older version of InDesign", "file": "desktop/troubleshoot/files-and-output/can-t-open-documents-in-previous-versions/your-collaborator-is-using-an-older-version-of-in-design.md", "summary": "Open when looking up Your collaborator is using an older version of InDesign in InDesign.", "keywords": ["Your collaborator is using an older version of InDesign"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

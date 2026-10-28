@@ -1,7 +1,0 @@
-# Attributions
-
-As the AI Assistant works through a document, it pinpoints the sentences most apt to back up the answer to your question. That attribution might surface as clickable citations or as other helpful signals that point to where the generated information originated. Yet because generative AI models drive the AI Assistant, and the technology keeps evolving and falls short of perfect, not every answer turns out helpful or accurate. The upshot is that the AI Assistant may fail to surface and show answers to your questions, even with the information sitting in your document. On rare occasions, the AI Assistant may hand back wrong attributions. You might, for instance, get a clickable citation or cue that drops you in an unrelated section rather than pointing usefully to where in the document the answer originated. Give every AI-generated response a second look.
-
-Be aware that, in our present version, AI Assistant supplies no attribution at all when the question and response are in a language other than your document's. When that happens, posing your questions in the document's language is worth trying so the response comes back with clickable citations.
-
-Turn to the AI Assistant for questions about using or troubleshooting Acrobat and the answers may draw on Acrobat Help content while leaving out citations. To be sure they're right, verify such responses straight from Acrobat Help.

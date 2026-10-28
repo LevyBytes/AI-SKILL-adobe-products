@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Cross-DOM functions - Startup folder locations", "file": "scripting/startup-folder-locations/cross-dom-functions-startup-folder-locations.md", "summary": "Open when looking up Cross-DOM functions - Startup folder locations in Shared Adobe platform.", "keywords": ["Cross-DOM functions - Startup folder locations"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

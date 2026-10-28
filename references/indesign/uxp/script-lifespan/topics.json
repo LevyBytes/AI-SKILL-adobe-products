@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Output", "file": "uxp/script-lifespan/output.md", "summary": "Open when looking up Output in InDesign.", "keywords": ["Output"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

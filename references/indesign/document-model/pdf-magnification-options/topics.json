@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "ACTUAL_SIZE", "file": "document-model/pdf-magnification-options/actualsize.md", "summary": "Open when looking up ACTUAL_SIZE in InDesign.", "keywords": ["ACTUAL_SIZE"]},
+  {"topic": "DEFAULT_VALUE", "file": "document-model/pdf-magnification-options/defaultvalue.md", "summary": "Open when looking up DEFAULT_VALUE in InDesign.", "keywords": ["DEFAULT_VALUE"]},
+  {"topic": "FIFTY_PERCENT", "file": "document-model/pdf-magnification-options/fiftypercent.md", "summary": "Open when looking up FIFTY_PERCENT in InDesign.", "keywords": ["FIFTY_PERCENT"]},
+  {"topic": "FIT_HEIGHT", "file": "document-model/pdf-magnification-options/fitheight.md", "summary": "Open when looking up FIT_HEIGHT in InDesign.", "keywords": ["FIT_HEIGHT"]},
+  {"topic": "FIT_PAGE", "file": "document-model/pdf-magnification-options/fitpage.md", "summary": "Open when looking up FIT_PAGE in InDesign.", "keywords": ["FIT_PAGE"]},
+  {"topic": "FIT_VISIBLE", "file": "document-model/pdf-magnification-options/fitvisible.md", "summary": "Open when looking up FIT_VISIBLE in InDesign.", "keywords": ["FIT_VISIBLE"]},
+  {"topic": "FIT_WIDTH", "file": "document-model/pdf-magnification-options/fitwidth.md", "summary": "Open when looking up FIT_WIDTH in InDesign.", "keywords": ["FIT_WIDTH"]},
+  {"topic": "ONE_HUNDRED_PERCENT", "file": "document-model/pdf-magnification-options/onehundredpercent.md", "summary": "Open when looking up ONE_HUNDRED_PERCENT in InDesign.", "keywords": ["ONE_HUNDRED_PERCENT"]},
+  {"topic": "SEVENTY_FIVE_PERCENT", "file": "document-model/pdf-magnification-options/seventyfivepercent.md", "summary": "Open when looking up SEVENTY_FIVE_PERCENT in InDesign.", "keywords": ["SEVENTY_FIVE_PERCENT"]},
+  {"topic": "TWENTY_FIVE_PERCENT", "file": "document-model/pdf-magnification-options/twentyfivepercent.md", "summary": "Open when looking up TWENTY_FIVE_PERCENT in InDesign.", "keywords": ["TWENTY_FIVE_PERCENT"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "firefly", "topics": [
-  {"topic": "Access Adobe Firefly", "file": "references/web/get-started/access-the-app/access-adobe-firefly.md", "summary": "Open when looking up Access Adobe Firefly in Firefly.", "keywords": ["Access Adobe Firefly"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

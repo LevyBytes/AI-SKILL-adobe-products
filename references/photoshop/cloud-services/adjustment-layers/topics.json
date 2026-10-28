@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "adjustments block - CHANGED (restructured with type discriminant)", "file": "cloud-services/adjustment-layers/adjustments-block-changed-restructured-with-type-discriminant.md", "summary": "Open when looking up adjustments block - CHANGED (restructured with type discriminant) in Photoshop.", "keywords": ["adjustments block - CHANGED (restructured with type discriminant)"]},
+  {"topic": "Per-type change summary", "file": "cloud-services/adjustment-layers/per-type-change-summary.md", "summary": "Open when looking up Per-type change summary in Photoshop.", "keywords": ["Per-type change summary"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

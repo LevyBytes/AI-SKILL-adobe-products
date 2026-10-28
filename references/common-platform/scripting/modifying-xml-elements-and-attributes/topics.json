@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Modification examples", "file": "scripting/modifying-xml-elements-and-attributes/modification-examples.md", "summary": "Open when looking up Modification examples in Shared Adobe platform.", "keywords": ["Modification examples"]},
+  {"topic": "The XML Object - Modifying XML elements and attributes", "file": "scripting/modifying-xml-elements-and-attributes/the-xml-object-modifying-xml-elements-and-attributes.md", "summary": "Open when looking up The XML Object - Modifying XML elements and attributes in Shared Adobe platform.", "keywords": ["The XML Object - Modifying XML elements and attributes"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "ADJUST_SCALING_PERCENTAGE", "file": "document-model/when-scaling-options/adjustscalingpercentage.md", "summary": "Open when looking up ADJUST_SCALING_PERCENTAGE in InDesign.", "keywords": ["ADJUST_SCALING_PERCENTAGE"]},
+  {"topic": "APPLY_TO_CONTENT", "file": "document-model/when-scaling-options/applytocontent.md", "summary": "Open when looking up APPLY_TO_CONTENT in InDesign.", "keywords": ["APPLY_TO_CONTENT"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

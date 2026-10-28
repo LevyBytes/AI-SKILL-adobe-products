@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "MenuSeparators collection iteration", "file": "community-types/indesign/menu-separators/collection-iteration.md", "summary": "Open when looking up MenuSeparators collection iteration in Shared Adobe platform.", "keywords": ["MenuSeparators collection iteration"]},
+  {"topic": "MenuSeparators declaration", "file": "community-types/indesign/menu-separators/declaration.md", "summary": "Open when looking up MenuSeparators declaration in Shared Adobe platform.", "keywords": ["MenuSeparators declaration"]},
+  {"topic": "MenuSeparators named and indexed items", "file": "community-types/indesign/menu-separators/named-and-indexed-items.md", "summary": "Open when looking up MenuSeparators named and indexed items in Shared Adobe platform.", "keywords": ["MenuSeparators named and indexed items"]},
+  {"topic": "MenuSeparators.add", "file": "community-types/indesign/menu-separators/add.md", "summary": "Open when looking up MenuSeparators.add in Shared Adobe platform.", "keywords": ["MenuSeparators.add"]},
+  {"topic": "MenuSeparators.count", "file": "community-types/indesign/menu-separators/count.md", "summary": "Open when looking up MenuSeparators.count in Shared Adobe platform.", "keywords": ["MenuSeparators.count"]},
+  {"topic": "MenuSeparators.IndexSignature", "file": "community-types/indesign/menu-separators/index-signature.md", "summary": "Open when looking up MenuSeparators.IndexSignature in Shared Adobe platform.", "keywords": ["MenuSeparators.IndexSignature"]},
+  {"topic": "MenuSeparators.itemByRange", "file": "community-types/indesign/menu-separators/item-by-range.md", "summary": "Open when looking up MenuSeparators.itemByRange in Shared Adobe platform.", "keywords": ["MenuSeparators.itemByRange"]},
+  {"topic": "MenuSeparators.length", "file": "community-types/indesign/menu-separators/length.md", "summary": "Open when looking up MenuSeparators.length in Shared Adobe platform.", "keywords": ["MenuSeparators.length"]},
+  {"topic": "MenuSeparators.toSource", "file": "community-types/indesign/menu-separators/to-source.md", "summary": "Open when looking up MenuSeparators.toSource in Shared Adobe platform.", "keywords": ["MenuSeparators.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

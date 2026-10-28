@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Importing Interpreting Footage Items", "file": "desktop/import-files/footage/importing-interpreting-footage-items.md", "summary": "Open when looking up Importing Interpreting Footage Items in After Effects.", "keywords": ["Importing Interpreting Footage Items"]},
+  {"topic": "Importing Interpreting Footage Items references", "file": "desktop/import-files/footage/importing-interpreting-footage-items/reference-index.md", "summary": "Open when looking up Importing Interpreting Footage Items in After Effects.", "keywords": ["Importing Interpreting Footage Items references"]},
+  {"topic": "Preparing Importing Still Images", "file": "desktop/import-files/footage/preparing-importing-still-images.md", "summary": "Open when looking up Preparing Importing Still Images in After Effects.", "keywords": ["Preparing Importing Still Images"]},
+  {"topic": "Preparing Importing Still Images references", "file": "desktop/import-files/footage/preparing-importing-still-images/reference-index.md", "summary": "Open when looking up Preparing Importing Still Images in After Effects.", "keywords": ["Preparing Importing Still Images references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "select", "file": "document-model/row/select.md", "summary": "Open when looking up select in InDesign.", "keywords": ["select"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

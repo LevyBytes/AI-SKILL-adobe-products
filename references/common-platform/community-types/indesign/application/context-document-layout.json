@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Application.alignDistributePreferences", "file": "community-types/indesign/application/align-distribute-preferences.md", "summary": "Open when looking up Application.alignDistributePreferences in Shared Adobe platform.", "keywords": ["Application.alignDistributePreferences"]},
+  {"topic": "Application.documentPreferences", "file": "community-types/indesign/application/document-preferences.md", "summary": "Open when looking up Application.documentPreferences in Shared Adobe platform.", "keywords": ["Application.documentPreferences"]},
+  {"topic": "Application.documentPresets", "file": "community-types/indesign/application/document-presets.md", "summary": "Open when looking up Application.documentPresets in Shared Adobe platform.", "keywords": ["Application.documentPresets"]},
+  {"topic": "Application.pageItemDefaults", "file": "community-types/indesign/application/page-item-defaults.md", "summary": "Open when looking up Application.pageItemDefaults in Shared Adobe platform.", "keywords": ["Application.pageItemDefaults"]},
+  {"topic": "Application.watermarkPreferences", "file": "community-types/indesign/application/watermark-preferences.md", "summary": "Open when looking up Application.watermarkPreferences in Shared Adobe platform.", "keywords": ["Application.watermarkPreferences"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

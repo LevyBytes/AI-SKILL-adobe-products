@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "ChangeTextPreference.appliedCharacterStyle", "file": "references/community-types/indesign/change-text-preference/applied-character-style.md", "summary": "Open when looking up ChangeTextPreference.appliedCharacterStyle in Shared Adobe platform.", "keywords": ["ChangeTextPreference.appliedCharacterStyle"]},
-  {"topic": "ChangeTextPreference.appliedParagraphStyle", "file": "references/community-types/indesign/change-text-preference/applied-paragraph-style.md", "summary": "Open when looking up ChangeTextPreference.appliedParagraphStyle in Shared Adobe platform.", "keywords": ["ChangeTextPreference.appliedParagraphStyle"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Import Adobe PDF files", "file": "references/desktop/add-and-import-files/import-other-file-types/import-adobe-pdf-files.md", "summary": "Open when looking up Import Adobe PDF files in Illustrator.", "keywords": ["Import Adobe PDF files"]},
-  {"topic": "Import AutoCAD files", "file": "references/desktop/add-and-import-files/import-other-file-types/import-auto-cad-files.md", "summary": "Open when looking up Import AutoCAD files in Illustrator.", "keywords": ["Import AutoCAD files"]},
-  {"topic": "Import DCS files", "file": "references/desktop/add-and-import-files/import-other-file-types/import-dcs-files.md", "summary": "Open when looking up Import DCS files in Illustrator.", "keywords": ["Import DCS files"]},
-  {"topic": "Import monotone, duotone, and tritone images from Adobe PDF files", "file": "references/desktop/add-and-import-files/import-other-file-types/pdf-monotone-duotone-and-tritone-import.md", "summary": "Open when looking up Import monotone, duotone, and tritone images from Adobe PDF files in Illustrator.", "keywords": ["Import monotone, duotone, and tritone images from Adobe PDF files"]},
-  {"topic": "Place Adobe PDF files", "file": "references/desktop/add-and-import-files/import-other-file-types/place-adobe-pdf-files.md", "summary": "Open when looking up Place Adobe PDF files in Illustrator.", "keywords": ["Place Adobe PDF files"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

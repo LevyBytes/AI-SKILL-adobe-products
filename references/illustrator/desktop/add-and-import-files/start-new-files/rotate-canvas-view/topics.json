@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Reset the rotated canvas", "file": "desktop/add-and-import-files/start-new-files/rotate-canvas-view/reset-the-rotated-canvas.md", "summary": "Open when looking up Reset the rotated canvas in Illustrator.", "keywords": ["Reset the rotated canvas"]},
+  {"topic": "Rotate the canvas using a trackpad", "file": "desktop/add-and-import-files/start-new-files/rotate-canvas-view/rotate-the-canvas-using-a-trackpad.md", "summary": "Open when looking up Rotate the canvas using a trackpad in Illustrator.", "keywords": ["Rotate the canvas using a trackpad"]},
+  {"topic": "Rotate the canvas using the Rotate View tool", "file": "desktop/add-and-import-files/start-new-files/rotate-canvas-view/rotate-the-canvas-using-the-rotate-view-tool.md", "summary": "Open when looking up Rotate the canvas using the Rotate View tool in Illustrator.", "keywords": ["Rotate the canvas using the Rotate View tool"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

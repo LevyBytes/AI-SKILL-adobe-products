@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Apply a Linear Gradient or a Radial Gradient for multiple objects", "file": "desktop/paint-and-fill/create-and-edit-gradients/multi-object-gradients/multi-object-linear-and-radial-gradients.md", "summary": "Open when looking up Apply a Linear Gradient or a Radial Gradient for multiple objects in Illustrator.", "keywords": ["Apply a Linear Gradient or a Radial Gradient for multiple objects"]},
+  {"topic": "Apply gradients for multiple objects using the Gradient tool", "file": "desktop/paint-and-fill/create-and-edit-gradients/multi-object-gradients/apply-gradients-for-multiple-objects-using-the-gradient-tool.md", "summary": "Open when looking up Apply gradients for multiple objects using the Gradient tool in Illustrator.", "keywords": ["Apply gradients for multiple objects using the Gradient tool"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "3D Camera Tracker", "file": "desktop/effects/list-of-effects/perspective-effects/3-d-camera-tracker.md", "summary": "Open when looking up 3D Camera Tracker in After Effects.", "keywords": ["3D Camera Tracker"]},
+  {"topic": "3D Glasses effect", "file": "desktop/effects/list-of-effects/perspective-effects/3-d-glasses-effect.md", "summary": "Open when looking up 3D Glasses effect in After Effects.", "keywords": ["3D Glasses effect"]},
+  {"topic": "Bevel Alpha effect", "file": "desktop/effects/list-of-effects/perspective-effects/bevel-alpha-effect.md", "summary": "Open when looking up Bevel Alpha effect in After Effects.", "keywords": ["Bevel Alpha effect"]},
+  {"topic": "Bevel Edges effect", "file": "desktop/effects/list-of-effects/perspective-effects/bevel-edges-effect.md", "summary": "Open when looking up Bevel Edges effect in After Effects.", "keywords": ["Bevel Edges effect"]},
+  {"topic": "Drop Shadow effect", "file": "desktop/effects/list-of-effects/perspective-effects/drop-shadow-effect.md", "summary": "Open when looking up Drop Shadow effect in After Effects.", "keywords": ["Drop Shadow effect"]},
+  {"topic": "Radial Shadow effect", "file": "desktop/effects/list-of-effects/perspective-effects/radial-shadow-effect.md", "summary": "Open when looking up Radial Shadow effect in After Effects.", "keywords": ["Radial Shadow effect"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Additional considerations", "file": "desktop/image-transforms/resize-and-adjust-resolution/printer-resolution/additional-considerations.md", "summary": "Open when looking up Additional considerations in Photoshop.", "keywords": ["Additional considerations"]},
+  {"topic": "Relationship between image resolution and screen frequency", "file": "desktop/image-transforms/resize-and-adjust-resolution/printer-resolution/relationship-between-image-resolution-and-screen-frequency.md", "summary": "Open when looking up Relationship between image resolution and screen frequency in Photoshop.", "keywords": ["Relationship between image resolution and screen frequency"]},
+  {"topic": "Screen frequency", "file": "desktop/image-transforms/resize-and-adjust-resolution/printer-resolution/screen-frequency.md", "summary": "Open when looking up Screen frequency in Photoshop.", "keywords": ["Screen frequency"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

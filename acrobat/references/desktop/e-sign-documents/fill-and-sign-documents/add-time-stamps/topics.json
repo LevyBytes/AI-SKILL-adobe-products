@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Apply timestamps to documents", "file": "references/desktop/e-sign-documents/fill-and-sign-documents/add-time-stamps/apply-timestamps-to-documents.md", "summary": "Open when looking up Apply timestamps to documents in Acrobat.", "keywords": ["Apply timestamps to documents"]},
-  {"topic": "Configure a timestamp server and set it as default", "file": "references/desktop/e-sign-documents/fill-and-sign-documents/add-time-stamps/configure-a-timestamp-server-and-set-it-as-default.md", "summary": "Open when looking up Configure a timestamp server and set it as default in Acrobat.", "keywords": ["Configure a timestamp server and set it as default"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,17 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "addEventListener", "file": "document-model/xml-import-map/add-event-listener.md", "summary": "Open when looking up addEventListener in InDesign.", "keywords": ["addEventListener"]},
+  {"topic": "eventListeners", "file": "document-model/xml-import-map/event-listeners.md", "summary": "Open when looking up eventListeners in InDesign.", "keywords": ["eventListeners"]},
+  {"topic": "events", "file": "document-model/xml-import-map/events.md", "summary": "Open when looking up events in InDesign.", "keywords": ["events"]},
+  {"topic": "getElements", "file": "document-model/xml-import-map/get-elements.md", "summary": "Open when looking up getElements in InDesign.", "keywords": ["getElements"]},
+  {"topic": "index", "file": "document-model/xml-import-map/index.md", "summary": "Open when looking up index in InDesign.", "keywords": ["index"]},
+  {"topic": "isValid", "file": "document-model/xml-import-map/is-valid.md", "summary": "Open when looking up isValid in InDesign.", "keywords": ["isValid"]},
+  {"topic": "mappedStyle", "file": "document-model/xml-import-map/mapped-style.md", "summary": "Open when looking up mappedStyle in InDesign.", "keywords": ["mappedStyle"]},
+  {"topic": "markupTag", "file": "document-model/xml-import-map/markup-tag.md", "summary": "Open when looking up markupTag in InDesign.", "keywords": ["markupTag"]},
+  {"topic": "parent", "file": "document-model/xml-import-map/parent.md", "summary": "Open when looking up parent in InDesign.", "keywords": ["parent"]},
+  {"topic": "properties", "file": "document-model/xml-import-map/properties.md", "summary": "Open when looking up properties in InDesign.", "keywords": ["properties"]},
+  {"topic": "remove", "file": "document-model/xml-import-map/remove.md", "summary": "Open when looking up remove in InDesign.", "keywords": ["remove"]},
+  {"topic": "removeEventListener", "file": "document-model/xml-import-map/remove-event-listener.md", "summary": "Open when looking up removeEventListener in InDesign.", "keywords": ["removeEventListener"]},
+  {"topic": "toSource", "file": "document-model/xml-import-map/to-source.md", "summary": "Open when looking up toSource in InDesign.", "keywords": ["toSource"]},
+  {"topic": "toSpecifier", "file": "document-model/xml-import-map/to-specifier.md", "summary": "Open when looking up toSpecifier in InDesign.", "keywords": ["toSpecifier"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

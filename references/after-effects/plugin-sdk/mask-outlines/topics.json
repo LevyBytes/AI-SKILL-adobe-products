@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "AEGP Suites - Mask Outlines", "file": "plugin-sdk/mask-outlines/aegp-suites-mask-outlines.md", "summary": "Open when looking up AEGP Suites - Mask Outlines in After Effects.", "keywords": ["AEGP Suites - Mask Outlines"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

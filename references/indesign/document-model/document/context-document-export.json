@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "asynchronousExportFile", "file": "document-model/document/asynchronous-export-file.md", "summary": "Open when looking up asynchronousExportFile in InDesign.", "keywords": ["asynchronousExportFile"]},
+  {"topic": "epubExportPreferences", "file": "document-model/document/epub-export-preferences.md", "summary": "Open when looking up epubExportPreferences in InDesign.", "keywords": ["epubExportPreferences"]},
+  {"topic": "epubFixedLayoutExportPreferences", "file": "document-model/document/epub-fixed-layout-export-preferences.md", "summary": "Open when looking up epubFixedLayoutExportPreferences in InDesign.", "keywords": ["epubFixedLayoutExportPreferences"]},
+  {"topic": "exportFile", "file": "document-model/document/export-file.md", "summary": "Open when looking up exportFile in InDesign.", "keywords": ["exportFile"]},
+  {"topic": "exportPageItemsSelectionToSnippet", "file": "document-model/document/export-page-items-selection-to-snippet.md", "summary": "Open when looking up exportPageItemsSelectionToSnippet in InDesign.", "keywords": ["exportPageItemsSelectionToSnippet"]},
+  {"topic": "exportPageItemsToSnippet", "file": "document-model/document/export-page-items-to-snippet.md", "summary": "Open when looking up exportPageItemsToSnippet in InDesign.", "keywords": ["exportPageItemsToSnippet"]},
+  {"topic": "htmlExportPreferences", "file": "document-model/document/html-export-preferences.md", "summary": "Open when looking up htmlExportPreferences in InDesign.", "keywords": ["htmlExportPreferences"]},
+  {"topic": "htmlFXLExportPreferences", "file": "document-model/document/html-fxl-export-preferences.md", "summary": "Open when looking up htmlFXLExportPreferences in InDesign.", "keywords": ["htmlFXLExportPreferences"]},
+  {"topic": "publishExportPreferences", "file": "document-model/document/publish-export-preferences.md", "summary": "Open when looking up publishExportPreferences in InDesign.", "keywords": ["publishExportPreferences"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,23 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "TreeView declaration", "file": "community-types/shared/tree-view/declaration.md", "summary": "Open when looking up TreeView declaration in Shared Adobe platform.", "keywords": ["TreeView declaration"]},
+  {"topic": "TreeView.active", "file": "community-types/shared/tree-view/active.md", "summary": "Open when looking up TreeView.active in Shared Adobe platform.", "keywords": ["TreeView.active"]},
+  {"topic": "TreeView.add", "file": "community-types/shared/tree-view/add.md", "summary": "Open when looking up TreeView.add in Shared Adobe platform.", "keywords": ["TreeView.add"]},
+  {"topic": "TreeView.children", "file": "community-types/shared/tree-view/children.md", "summary": "Open when looking up TreeView.children in Shared Adobe platform.", "keywords": ["TreeView.children"]},
+  {"topic": "TreeView.find", "file": "community-types/shared/tree-view/find.md", "summary": "Open when looking up TreeView.find in Shared Adobe platform.", "keywords": ["TreeView.find"]},
+  {"topic": "TreeView.graphics", "file": "community-types/shared/tree-view/graphics.md", "summary": "Open when looking up TreeView.graphics in Shared Adobe platform.", "keywords": ["TreeView.graphics"]},
+  {"topic": "TreeView.items", "file": "community-types/shared/tree-view/items.md", "summary": "Open when looking up TreeView.items in Shared Adobe platform.", "keywords": ["TreeView.items"]},
+  {"topic": "TreeView.itemSize", "file": "community-types/shared/tree-view/item-size.md", "summary": "Open when looking up TreeView.itemSize in Shared Adobe platform.", "keywords": ["TreeView.itemSize"]},
+  {"topic": "TreeView.notify", "file": "community-types/shared/tree-view/notify.md", "summary": "Open when looking up TreeView.notify in Shared Adobe platform.", "keywords": ["TreeView.notify"]},
+  {"topic": "TreeView.onActivate", "file": "community-types/shared/tree-view/on-activate.md", "summary": "Open when looking up TreeView.onActivate in Shared Adobe platform.", "keywords": ["TreeView.onActivate"]},
+  {"topic": "TreeView.onChange", "file": "community-types/shared/tree-view/on-change.md", "summary": "Open when looking up TreeView.onChange in Shared Adobe platform.", "keywords": ["TreeView.onChange"]},
+  {"topic": "TreeView.onCollapse", "file": "community-types/shared/tree-view/on-collapse.md", "summary": "Open when looking up TreeView.onCollapse in Shared Adobe platform.", "keywords": ["TreeView.onCollapse"]},
+  {"topic": "TreeView.onDeactivate", "file": "community-types/shared/tree-view/on-deactivate.md", "summary": "Open when looking up TreeView.onDeactivate in Shared Adobe platform.", "keywords": ["TreeView.onDeactivate"]},
+  {"topic": "TreeView.onDraw", "file": "community-types/shared/tree-view/on-draw.md", "summary": "Open when looking up TreeView.onDraw in Shared Adobe platform.", "keywords": ["TreeView.onDraw"]},
+  {"topic": "TreeView.onExpand", "file": "community-types/shared/tree-view/on-expand.md", "summary": "Open when looking up TreeView.onExpand in Shared Adobe platform.", "keywords": ["TreeView.onExpand"]},
+  {"topic": "TreeView.onShortcutKey", "file": "community-types/shared/tree-view/on-shortcut-key.md", "summary": "Open when looking up TreeView.onShortcutKey in Shared Adobe platform.", "keywords": ["TreeView.onShortcutKey"]},
+  {"topic": "TreeView.remove", "file": "community-types/shared/tree-view/remove.md", "summary": "Open when looking up TreeView.remove in Shared Adobe platform.", "keywords": ["TreeView.remove"]},
+  {"topic": "TreeView.removeAll", "file": "community-types/shared/tree-view/remove-all.md", "summary": "Open when looking up TreeView.removeAll in Shared Adobe platform.", "keywords": ["TreeView.removeAll"]},
+  {"topic": "TreeView.selection", "file": "community-types/shared/tree-view/selection.md", "summary": "Open when looking up TreeView.selection in Shared Adobe platform.", "keywords": ["TreeView.selection"]},
+  {"topic": "TreeView.shortcutKey", "file": "community-types/shared/tree-view/shortcut-key.md", "summary": "Open when looking up TreeView.shortcutKey in Shared Adobe platform.", "keywords": ["TreeView.shortcutKey"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

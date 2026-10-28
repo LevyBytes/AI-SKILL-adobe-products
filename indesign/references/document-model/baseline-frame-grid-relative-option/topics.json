@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "TOP_OF_FRAME", "file": "references/document-model/baseline-frame-grid-relative-option/topofframe.md", "summary": "Open when looking up TOP_OF_FRAME in InDesign.", "keywords": ["TOP_OF_FRAME"]},
-  {"topic": "TOP_OF_INSET", "file": "references/document-model/baseline-frame-grid-relative-option/topofinset.md", "summary": "Open when looking up TOP_OF_INSET in InDesign.", "keywords": ["TOP_OF_INSET"]},
-  {"topic": "TOP_OF_MARGIN", "file": "references/document-model/baseline-frame-grid-relative-option/topofmargin.md", "summary": "Open when looking up TOP_OF_MARGIN in InDesign.", "keywords": ["TOP_OF_MARGIN"]},
-  {"topic": "TOP_OF_PAGE", "file": "references/document-model/baseline-frame-grid-relative-option/topofpage.md", "summary": "Open when looking up TOP_OF_PAGE in InDesign.", "keywords": ["TOP_OF_PAGE"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

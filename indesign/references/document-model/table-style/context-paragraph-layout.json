@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "spaceAfter", "file": "references/document-model/table-style/space-after.md", "summary": "Open when looking up spaceAfter in InDesign.", "keywords": ["spaceAfter"]},
-  {"topic": "spaceBefore", "file": "references/document-model/table-style/space-before.md", "summary": "Open when looking up spaceBefore in InDesign.", "keywords": ["spaceBefore"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

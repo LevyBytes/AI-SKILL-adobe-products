@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Designed for collaboration", "file": "desktop/collaborate-with-others/productions/about-productions/designed-for-collaboration.md", "summary": "Open when looking up Designed for collaboration in Premiere Pro.", "keywords": ["Designed for collaboration"]},
+  {"topic": "Keep everything organized and synchronized", "file": "desktop/collaborate-with-others/productions/about-productions/keep-everything-organized-and-synchronized.md", "summary": "Open when looking up Keep everything organized and synchronized in Premiere Pro.", "keywords": ["Keep everything organized and synchronized"]},
+  {"topic": "Manage multi-project workflows", "file": "desktop/collaborate-with-others/productions/about-productions/manage-multi-project-workflows.md", "summary": "Open when looking up Manage multi-project workflows in Premiere Pro.", "keywords": ["Manage multi-project workflows"]},
+  {"topic": "Security because you control your media", "file": "desktop/collaborate-with-others/productions/about-productions/security-because-you-control-your-media.md", "summary": "Open when looking up Security because you control your media in Premiere Pro.", "keywords": ["Security because you control your media"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

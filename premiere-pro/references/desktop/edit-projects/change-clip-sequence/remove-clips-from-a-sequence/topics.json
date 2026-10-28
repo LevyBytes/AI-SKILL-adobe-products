@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Delete clips from the timeline", "file": "references/desktop/edit-projects/change-clip-sequence/remove-clips-from-a-sequence/delete-clips-from-the-timeline.md", "summary": "Open when looking up Delete clips from the timeline in Premiere Pro.", "keywords": ["Delete clips from the timeline"]},
-  {"topic": "Remove clips and close gaps with ripple delete", "file": "references/desktop/edit-projects/change-clip-sequence/remove-clips-from-a-sequence/remove-clips-and-close-gaps-with-ripple-delete.md", "summary": "Open when looking up Remove clips and close gaps with ripple delete in Premiere Pro.", "keywords": ["Remove clips and close gaps with ripple delete"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

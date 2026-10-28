@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Create documents using Asian languages", "file": "desktop/text-and-typography/composers-for-asian-scripts/create-documents-using-asian-languages.md", "summary": "Open when looking up Create documents using Asian languages in Illustrator.", "keywords": ["Create documents using Asian languages"]},
+  {"topic": "Install relevant language and font packs (Windows)", "file": "desktop/text-and-typography/composers-for-asian-scripts/install-relevant-language-and-font-packs-windows.md", "summary": "Open when looking up Install relevant language and font packs (Windows) in Illustrator.", "keywords": ["Install relevant language and font packs (Windows)"]},
+  {"topic": "Select a composer", "file": "desktop/text-and-typography/composers-for-asian-scripts/select-a-composer.md", "summary": "Open when looking up Select a composer in Illustrator.", "keywords": ["Select a composer"]},
+  {"topic": "Select a language", "file": "desktop/text-and-typography/composers-for-asian-scripts/select-a-language.md", "summary": "Open when looking up Select a language in Illustrator.", "keywords": ["Select a language"]},
+  {"topic": "Supported Asian languages", "file": "desktop/text-and-typography/composers-for-asian-scripts/supported-asian-languages.md", "summary": "Open when looking up Supported Asian languages in Illustrator.", "keywords": ["Supported Asian languages"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

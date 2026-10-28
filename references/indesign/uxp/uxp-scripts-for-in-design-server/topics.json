@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Active document", "file": "uxp/uxp-scripts-for-in-design-server/active-document.md", "summary": "Open when looking up Active document in InDesign.", "keywords": ["Active document"]},
+  {"topic": "Active script", "file": "uxp/uxp-scripts-for-in-design-server/active-script.md", "summary": "Open when looking up Active script in InDesign.", "keywords": ["Active script"]},
+  {"topic": "Active windows and spreads", "file": "uxp/uxp-scripts-for-in-design-server/active-windows-and-spreads.md", "summary": "Open when looking up Active windows and spreads in InDesign.", "keywords": ["Active windows and spreads"]},
+  {"topic": "Copy and paste", "file": "uxp/uxp-scripts-for-in-design-server/copy-and-paste.md", "summary": "Open when looking up Copy and paste in InDesign.", "keywords": ["Copy and paste"]},
+  {"topic": "Dialogs", "file": "uxp/uxp-scripts-for-in-design-server/dialogs.md", "summary": "Open when looking up Dialogs in InDesign.", "keywords": ["Dialogs"]},
+  {"topic": "Object Model", "file": "uxp/uxp-scripts-for-in-design-server/object-model.md", "summary": "Open when looking up Object Model in InDesign.", "keywords": ["Object Model"]},
+  {"topic": "Selection", "file": "uxp/uxp-scripts-for-in-design-server/selection.md", "summary": "Open when looking up Selection in InDesign.", "keywords": ["Selection"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

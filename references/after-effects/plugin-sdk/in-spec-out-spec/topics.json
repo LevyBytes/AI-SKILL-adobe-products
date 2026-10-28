@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "AEIOs - InSpec, OutSpec", "file": "plugin-sdk/in-spec-out-spec/aeios-in-spec-out-spec.md", "summary": "Open when looking up AEIOs - InSpec, OutSpec in After Effects.", "keywords": ["AEIOs - InSpec, OutSpec"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

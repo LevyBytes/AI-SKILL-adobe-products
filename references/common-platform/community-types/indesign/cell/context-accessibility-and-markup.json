@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Cell.associatedXMLElement", "file": "community-types/indesign/cell/associated-xml-element.md", "summary": "Open when looking up Cell.associatedXMLElement in Shared Adobe platform.", "keywords": ["Cell.associatedXMLElement"]},
+  {"topic": "Cell.autoTag", "file": "community-types/indesign/cell/auto-tag.md", "summary": "Open when looking up Cell.autoTag in Shared Adobe platform.", "keywords": ["Cell.autoTag"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

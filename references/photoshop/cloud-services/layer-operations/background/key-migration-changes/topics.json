@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Layer Lock Property", "file": "cloud-services/layer-operations/background/key-migration-changes/layer-lock-property.md", "summary": "Open when looking up Layer Lock Property in Photoshop.", "keywords": ["Layer Lock Property"]},
+  {"topic": "Operation Structure", "file": "cloud-services/layer-operations/background/key-migration-changes/operation-structure.md", "summary": "Open when looking up Operation Structure in Photoshop.", "keywords": ["Operation Structure"]},
+  {"topic": "Type Name Change", "file": "cloud-services/layer-operations/background/key-migration-changes/type-name-change.md", "summary": "Open when looking up Type Name Change in Photoshop.", "keywords": ["Type Name Change"]},
+  {"topic": "Visibility Property", "file": "cloud-services/layer-operations/background/key-migration-changes/visibility-property.md", "summary": "Open when looking up Visibility Property in Photoshop.", "keywords": ["Visibility Property"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Link an offline clip back to a source file in Premiere.", "file": "desktop/locate-and-link-offline-files/link-an-offline-clip-back-to-a-source-file-in-premiere.md", "summary": "Open when looking up Link an offline clip back to a source file in Premiere. in Premiere Pro.", "keywords": ["Link an offline clip back to a source file in Premiere."]},
+  {"topic": "Match File Properties", "file": "desktop/locate-and-link-offline-files/match-file-properties.md", "summary": "Open when looking up Match File Properties in Premiere Pro.", "keywords": ["Match File Properties"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

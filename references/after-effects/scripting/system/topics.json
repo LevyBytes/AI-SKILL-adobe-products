@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "System object", "file": "scripting/system/system-object.md", "summary": "Open when looking up System object in After Effects.", "keywords": ["System object"]},
+  {"topic": "System.callSystem()", "file": "scripting/system/call-system.md", "summary": "Open when looking up System.callSystem() in After Effects.", "keywords": ["System.callSystem()"]},
+  {"topic": "System.machineName", "file": "scripting/system/machine-name.md", "summary": "Open when looking up System.machineName in After Effects.", "keywords": ["System.machineName"]},
+  {"topic": "System.osName", "file": "scripting/system/os-name.md", "summary": "Open when looking up System.osName in After Effects.", "keywords": ["System.osName"]},
+  {"topic": "System.osVersion", "file": "scripting/system/os-version.md", "summary": "Open when looking up System.osVersion in After Effects.", "keywords": ["System.osVersion"]},
+  {"topic": "System.userName", "file": "scripting/system/user-name.md", "summary": "Open when looking up System.userName in After Effects.", "keywords": ["System.userName"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

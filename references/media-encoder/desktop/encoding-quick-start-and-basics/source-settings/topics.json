@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/media-encoder", "topics": [
+  {"topic": "MXF/ARRIRAW Source Settings", "file": "desktop/encoding-quick-start-and-basics/source-settings/mxf-arriraw-source-settings.md", "summary": "Open when looking up MXF/ARRIRAW Source Settings in Media Encoder.", "keywords": ["MXF/ARRIRAW Source Settings"]},
+  {"topic": "RED R3D Source Settings", "file": "desktop/encoding-quick-start-and-basics/source-settings/red-r3-d-source-settings.md", "summary": "Open when looking up RED R3D Source Settings in Media Encoder.", "keywords": ["RED R3D Source Settings"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

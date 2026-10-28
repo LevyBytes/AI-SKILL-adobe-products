@@ -1,0 +1,20 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Scrollbar declaration", "file": "community-types/shared/scrollbar/declaration.md", "summary": "Open when looking up Scrollbar declaration in Shared Adobe platform.", "keywords": ["Scrollbar declaration"]},
+  {"topic": "Scrollbar.active", "file": "community-types/shared/scrollbar/active.md", "summary": "Open when looking up Scrollbar.active in Shared Adobe platform.", "keywords": ["Scrollbar.active"]},
+  {"topic": "Scrollbar.children", "file": "community-types/shared/scrollbar/children.md", "summary": "Open when looking up Scrollbar.children in Shared Adobe platform.", "keywords": ["Scrollbar.children"]},
+  {"topic": "Scrollbar.graphics", "file": "community-types/shared/scrollbar/graphics.md", "summary": "Open when looking up Scrollbar.graphics in Shared Adobe platform.", "keywords": ["Scrollbar.graphics"]},
+  {"topic": "Scrollbar.jumpdelta", "file": "community-types/shared/scrollbar/jumpdelta.md", "summary": "Open when looking up Scrollbar.jumpdelta in Shared Adobe platform.", "keywords": ["Scrollbar.jumpdelta"]},
+  {"topic": "Scrollbar.maxvalue", "file": "community-types/shared/scrollbar/maxvalue.md", "summary": "Open when looking up Scrollbar.maxvalue in Shared Adobe platform.", "keywords": ["Scrollbar.maxvalue"]},
+  {"topic": "Scrollbar.minvalue", "file": "community-types/shared/scrollbar/minvalue.md", "summary": "Open when looking up Scrollbar.minvalue in Shared Adobe platform.", "keywords": ["Scrollbar.minvalue"]},
+  {"topic": "Scrollbar.notify", "file": "community-types/shared/scrollbar/notify.md", "summary": "Open when looking up Scrollbar.notify in Shared Adobe platform.", "keywords": ["Scrollbar.notify"]},
+  {"topic": "Scrollbar.onActivate", "file": "community-types/shared/scrollbar/on-activate.md", "summary": "Open when looking up Scrollbar.onActivate in Shared Adobe platform.", "keywords": ["Scrollbar.onActivate"]},
+  {"topic": "Scrollbar.onChange", "file": "community-types/shared/scrollbar/on-change.md", "summary": "Open when looking up Scrollbar.onChange in Shared Adobe platform.", "keywords": ["Scrollbar.onChange"]},
+  {"topic": "Scrollbar.onChanging", "file": "community-types/shared/scrollbar/on-changing.md", "summary": "Open when looking up Scrollbar.onChanging in Shared Adobe platform.", "keywords": ["Scrollbar.onChanging"]},
+  {"topic": "Scrollbar.onDeactivate", "file": "community-types/shared/scrollbar/on-deactivate.md", "summary": "Open when looking up Scrollbar.onDeactivate in Shared Adobe platform.", "keywords": ["Scrollbar.onDeactivate"]},
+  {"topic": "Scrollbar.onDraw", "file": "community-types/shared/scrollbar/on-draw.md", "summary": "Open when looking up Scrollbar.onDraw in Shared Adobe platform.", "keywords": ["Scrollbar.onDraw"]},
+  {"topic": "Scrollbar.onShortcutKey", "file": "community-types/shared/scrollbar/on-shortcut-key.md", "summary": "Open when looking up Scrollbar.onShortcutKey in Shared Adobe platform.", "keywords": ["Scrollbar.onShortcutKey"]},
+  {"topic": "Scrollbar.shortcutKey", "file": "community-types/shared/scrollbar/shortcut-key.md", "summary": "Open when looking up Scrollbar.shortcutKey in Shared Adobe platform.", "keywords": ["Scrollbar.shortcutKey"]},
+  {"topic": "Scrollbar.stepdelta", "file": "community-types/shared/scrollbar/stepdelta.md", "summary": "Open when looking up Scrollbar.stepdelta in Shared Adobe platform.", "keywords": ["Scrollbar.stepdelta"]},
+  {"topic": "Scrollbar.value", "file": "community-types/shared/scrollbar/value.md", "summary": "Open when looking up Scrollbar.value in Shared Adobe platform.", "keywords": ["Scrollbar.value"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

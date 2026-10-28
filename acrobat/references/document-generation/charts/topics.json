@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Column Chart", "file": "references/document-generation/charts/column-chart.md", "summary": "Open when looking up Column Chart in Acrobat.", "keywords": ["Column Chart"]},
-  {"topic": "How It Works", "file": "references/document-generation/charts/how-it-works.md", "summary": "Open when looking up How It Works in Acrobat.", "keywords": ["How It Works"]},
-  {"topic": "Line Chart", "file": "references/document-generation/charts/line-chart.md", "summary": "Open when looking up Line Chart in Acrobat.", "keywords": ["Line Chart"]},
-  {"topic": "Pie Chart", "file": "references/document-generation/charts/pie-chart.md", "summary": "Open when looking up Pie Chart in Acrobat.", "keywords": ["Pie Chart"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

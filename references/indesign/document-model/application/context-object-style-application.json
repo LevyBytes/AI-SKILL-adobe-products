@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "allObjectStyles", "file": "document-model/application/all-object-styles.md", "summary": "Open when looking up allObjectStyles in InDesign.", "keywords": ["allObjectStyles"]},
+  {"topic": "objectStyleGroups", "file": "document-model/application/object-style-groups.md", "summary": "Open when looking up objectStyleGroups in InDesign.", "keywords": ["objectStyleGroups"]},
+  {"topic": "objectStyles", "file": "document-model/application/object-styles.md", "summary": "Open when looking up objectStyles in InDesign.", "keywords": ["objectStyles"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

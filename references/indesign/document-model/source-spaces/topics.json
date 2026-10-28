@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "PROOF_SPACE", "file": "document-model/source-spaces/proofspace.md", "summary": "Open when looking up PROOF_SPACE in InDesign.", "keywords": ["PROOF_SPACE"]},
+  {"topic": "USE_DOCUMENT", "file": "document-model/source-spaces/usedocument.md", "summary": "Open when looking up USE_DOCUMENT in InDesign.", "keywords": ["USE_DOCUMENT"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

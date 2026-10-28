@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Find and use templates from Adobe Stock website", "file": "desktop/add-and-import-files/start-new-files/stock-document-templates/find-and-use-templates-from-adobe-stock-website.md", "summary": "Open when looking up Find and use templates from Adobe Stock website in Illustrator.", "keywords": ["Find and use templates from Adobe Stock website"]},
+  {"topic": "Use Adobe Stock templates in Illustrator", "file": "desktop/add-and-import-files/start-new-files/stock-document-templates/use-adobe-stock-templates-in-illustrator.md", "summary": "Open when looking up Use Adobe Stock templates in Illustrator in Illustrator.", "keywords": ["Use Adobe Stock templates in Illustrator"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

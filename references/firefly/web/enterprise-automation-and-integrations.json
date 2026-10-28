@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Work with enterprise features references", "file": "web/enterprise/reference-index.md", "summary": "Open when looking up Work with enterprise features in Firefly.", "keywords": ["Work with enterprise features references"]},
+  {"topic": "Adobe brand intelligence references", "file": "web/adobe-brand-intelligence/reference-index.md", "summary": "Open when looking up Adobe brand intelligence in Firefly.", "keywords": ["Adobe brand intelligence references"]},
+  {"topic": "Firefly design intelligence references", "file": "web/firefly-design-intelligence/reference-index.md", "summary": "Open when looking up Firefly design intelligence in Firefly.", "keywords": ["Firefly design intelligence references"]},
+  {"topic": "Creative production references", "file": "web/creative-production/reference-index.md", "summary": "Open when looking up Creative production in Firefly.", "keywords": ["Creative production references"]},
+  {"topic": "Firefly creative production faq references", "file": "web/firefly-creative-production-faq/reference-index.md", "summary": "Open when looking up Firefly creative production faq in Firefly.", "keywords": ["Firefly creative production faq references"]},
+  {"topic": "Firefly graph references", "file": "web/firefly-graph/reference-index.md", "summary": "Open when looking up Firefly graph in Firefly.", "keywords": ["Firefly graph references"]},
+  {"topic": "App integrations references", "file": "web/app-integrations/reference-index.md", "summary": "Open when looking up App integrations in Firefly.", "keywords": ["App integrations references"]},
+  {"topic": "Application integrations references", "file": "web/integrations/reference-index.md", "summary": "Open when looking up Application integrations in Firefly.", "keywords": ["Application integrations references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Document.rotate3DSelection", "file": "community-types/animate/document/rotate3-d-selection.md", "summary": "Open when looking up Document.rotate3DSelection in Shared Adobe platform.", "keywords": ["Document.rotate3DSelection"]},
+  {"topic": "Document.setStageVanishingPoint", "file": "community-types/animate/document/set-stage-vanishing-point.md", "summary": "Open when looking up Document.setStageVanishingPoint in Shared Adobe platform.", "keywords": ["Document.setStageVanishingPoint"]},
+  {"topic": "Document.setStageViewAngle", "file": "community-types/animate/document/set-stage-view-angle.md", "summary": "Open when looking up Document.setStageViewAngle in Shared Adobe platform.", "keywords": ["Document.setStageViewAngle"]},
+  {"topic": "Document.translate3DCenter", "file": "community-types/animate/document/translate3-d-center.md", "summary": "Open when looking up Document.translate3DCenter in Shared Adobe platform.", "keywords": ["Document.translate3DCenter"]},
+  {"topic": "Document.translate3DSelection", "file": "community-types/animate/document/translate3-d-selection.md", "summary": "Open when looking up Document.translate3DSelection in Shared Adobe platform.", "keywords": ["Document.translate3DSelection"]},
+  {"topic": "Document.viewMatrix", "file": "community-types/animate/document/view-matrix.md", "summary": "Open when looking up Document.viewMatrix in Shared Adobe platform.", "keywords": ["Document.viewMatrix"]},
+  {"topic": "Document.zoomFactor", "file": "community-types/animate/document/zoom-factor.md", "summary": "Open when looking up Document.zoomFactor in Shared Adobe platform.", "keywords": ["Document.zoomFactor"]},
+  {"topic": "Document.livePreview", "file": "community-types/animate/document/live-preview.md", "summary": "Open when looking up Document.livePreview in Shared Adobe platform.", "keywords": ["Document.livePreview"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

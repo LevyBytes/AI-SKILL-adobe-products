@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "window.Event - Event(eventType, eventInit)", "file": "references/uxp/event/constructor.md", "summary": "Open when looking up window.Event - Event(eventType, eventInit) in Photoshop.", "keywords": ["window.Event - Event(eventType, eventInit)"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

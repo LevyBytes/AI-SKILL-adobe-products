@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Learn the basics references", "file": "desktop/get-started/learn-the-basics/reference-index.md", "summary": "Open when looking up Learn the basics in Photoshop.", "keywords": ["Learn the basics references"]},
+  {"topic": "Set up toolbars and panels references", "file": "desktop/get-started/set-up-toolbars-and-panels/reference-index.md", "summary": "Open when looking up Set up toolbars and panels in Photoshop.", "keywords": ["Set up toolbars and panels references"]},
+  {"topic": "Settings and preferences references", "file": "desktop/get-started/settings-and-preferences/reference-index.md", "summary": "Open when looking up Settings and preferences in Photoshop.", "keywords": ["Settings and preferences references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

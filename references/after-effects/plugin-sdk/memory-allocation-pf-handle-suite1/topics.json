@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "host_dispose_handle", "file": "plugin-sdk/memory-allocation-pf-handle-suite1/hostdisposehandle.md", "summary": "Open when looking up host_dispose_handle in After Effects.", "keywords": ["host_dispose_handle"]},
+  {"topic": "host_get_handle_size", "file": "plugin-sdk/memory-allocation-pf-handle-suite1/hostgethandlesize.md", "summary": "Open when looking up host_get_handle_size in After Effects.", "keywords": ["host_get_handle_size"]},
+  {"topic": "host_lock_handle", "file": "plugin-sdk/memory-allocation-pf-handle-suite1/hostlockhandle.md", "summary": "Open when looking up host_lock_handle in After Effects.", "keywords": ["host_lock_handle"]},
+  {"topic": "host_new_handle", "file": "plugin-sdk/memory-allocation-pf-handle-suite1/hostnewhandle.md", "summary": "Open when looking up host_new_handle in After Effects.", "keywords": ["host_new_handle"]},
+  {"topic": "host_resize_handle", "file": "plugin-sdk/memory-allocation-pf-handle-suite1/hostresizehandle.md", "summary": "Open when looking up host_resize_handle in After Effects.", "keywords": ["host_resize_handle"]},
+  {"topic": "host_unlock_handle", "file": "plugin-sdk/memory-allocation-pf-handle-suite1/hostunlockhandle.md", "summary": "Open when looking up host_unlock_handle in After Effects.", "keywords": ["host_unlock_handle"]},
+  {"topic": "PF_DISPOSE_HANDLE", "file": "plugin-sdk/memory-allocation-pf-handle-suite1/pfdisposehandle.md", "summary": "Open when looking up PF_DISPOSE_HANDLE in After Effects.", "keywords": ["PF_DISPOSE_HANDLE"]},
+  {"topic": "PF_GET_HANDLE_SIZE", "file": "plugin-sdk/memory-allocation-pf-handle-suite1/pfgethandlesize.md", "summary": "Open when looking up PF_GET_HANDLE_SIZE in After Effects.", "keywords": ["PF_GET_HANDLE_SIZE"]},
+  {"topic": "PF_LOCK_HANDLE", "file": "plugin-sdk/memory-allocation-pf-handle-suite1/pflockhandle.md", "summary": "Open when looking up PF_LOCK_HANDLE in After Effects.", "keywords": ["PF_LOCK_HANDLE"]},
+  {"topic": "PF_NEW_HANDLE", "file": "plugin-sdk/memory-allocation-pf-handle-suite1/pfnewhandle.md", "summary": "Open when looking up PF_NEW_HANDLE in After Effects.", "keywords": ["PF_NEW_HANDLE"]},
+  {"topic": "PF_UNLOCK_HANDLE", "file": "plugin-sdk/memory-allocation-pf-handle-suite1/pfunlockhandle.md", "summary": "Open when looking up PF_UNLOCK_HANDLE in After Effects.", "keywords": ["PF_UNLOCK_HANDLE"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

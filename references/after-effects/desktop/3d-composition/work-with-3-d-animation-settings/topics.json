@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "3D animation settings", "file": "desktop/3d-composition/work-with-3-d-animation-settings/3-d-animation-settings.md", "summary": "Open when looking up 3D animation settings in After Effects.", "keywords": ["3D animation settings"]},
+  {"topic": "3D animation settings references", "file": "desktop/3d-composition/work-with-3-d-animation-settings/3-d-animation-settings/reference-index.md", "summary": "Open when looking up 3D animation settings in After Effects.", "keywords": ["3D animation settings references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

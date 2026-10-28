@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Alignment options", "file": "cloud-services/layer-operations/advanced/layer-transformations/alignment-options.md", "summary": "Open when looking up Alignment options in Photoshop.", "keywords": ["Alignment options"]},
+  {"topic": "Positioning and sizing", "file": "cloud-services/layer-operations/advanced/layer-transformations/positioning-and-sizing.md", "summary": "Open when looking up Positioning and sizing in Photoshop.", "keywords": ["Positioning and sizing"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Add actions to a button", "file": "desktop/interactive-elements-and-forms/buttons/create-interactive-buttons/add-actions-to-a-button.md", "summary": "Open when looking up Add actions to a button in InDesign.", "keywords": ["Add actions to a button"]},
+  {"topic": "Convert an object to a button", "file": "desktop/interactive-elements-and-forms/buttons/create-interactive-buttons/convert-an-object-to-a-button.md", "summary": "Open when looking up Convert an object to a button in InDesign.", "keywords": ["Convert an object to a button"]},
+  {"topic": "Test button interactivity", "file": "desktop/interactive-elements-and-forms/buttons/create-interactive-buttons/test-button-interactivity.md", "summary": "Open when looking up Test button interactivity in InDesign.", "keywords": ["Test button interactivity"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "SmartFX - Content Bounds", "file": "plugin-sdk/content-bounds/smart-fx-content-bounds.md", "summary": "Open when looking up SmartFX - Content Bounds in After Effects.", "keywords": ["SmartFX - Content Bounds"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

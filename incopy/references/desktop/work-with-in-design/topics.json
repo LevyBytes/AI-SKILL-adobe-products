@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "incopy", "topics": [
-  {"topic": "In copy workflow overview references", "file": "references/desktop/work-with-in-design/in-copy-workflow-overview/reference-index.md", "summary": "Open when looking up In copy workflow overview in InCopy.", "keywords": ["In copy workflow overview references"]},
-  {"topic": "Managed files references", "file": "references/desktop/work-with-in-design/managed-files/reference-index.md", "summary": "Open when looking up Managed files in InCopy.", "keywords": ["Managed files references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

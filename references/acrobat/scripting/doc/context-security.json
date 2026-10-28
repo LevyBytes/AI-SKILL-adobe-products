@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "addRecipientListCryptFilter", "file": "scripting/doc/add-recipient-list-crypt-filter.md", "summary": "Open when looking up addRecipientListCryptFilter in Acrobat.", "keywords": ["addRecipientListCryptFilter"]},
+  {"topic": "certifyInvisibleSign", "file": "scripting/doc/certify-invisible-sign.md", "summary": "Open when looking up certifyInvisibleSign in Acrobat.", "keywords": ["certifyInvisibleSign"]},
+  {"topic": "encryptForRecipients", "file": "scripting/doc/encrypt-for-recipients.md", "summary": "Open when looking up encryptForRecipients in Acrobat.", "keywords": ["encryptForRecipients"]},
+  {"topic": "encryptUsingPolicy", "file": "scripting/doc/encrypt-using-policy.md", "summary": "Open when looking up encryptUsingPolicy in Acrobat.", "keywords": ["encryptUsingPolicy"]},
+  {"topic": "getLegalWarnings", "file": "scripting/doc/get-legal-warnings.md", "summary": "Open when looking up getLegalWarnings in Acrobat.", "keywords": ["getLegalWarnings"]},
+  {"topic": "permStatusReady", "file": "scripting/doc/perm-status-ready.md", "summary": "Open when looking up permStatusReady in Acrobat.", "keywords": ["permStatusReady"]},
+  {"topic": "securityHandler", "file": "scripting/doc/security-handler.md", "summary": "Open when looking up securityHandler in Acrobat.", "keywords": ["securityHandler"]},
+  {"topic": "timestampSign", "file": "scripting/doc/timestamp-sign.md", "summary": "Open when looking up timestampSign in Acrobat.", "keywords": ["timestampSign"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

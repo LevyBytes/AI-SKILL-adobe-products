@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Configure gradient separations by color type", "file": "desktop/print/color-output-and-separations/print-gradients-as-separations/configure-gradient-separations-by-color-type.md", "summary": "Open when looking up Configure gradient separations by color type in InDesign.", "keywords": ["Configure gradient separations by color type"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

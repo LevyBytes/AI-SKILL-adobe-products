@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Library declaration", "file": "community-types/indesign/library/declaration.md", "summary": "Open when looking up Library declaration in Shared Adobe platform.", "keywords": ["Library declaration"]},
+  {"topic": "Library event listeners", "file": "community-types/indesign/library/event-listeners.md", "summary": "Open when looking up Library event listeners in Shared Adobe platform.", "keywords": ["Library event listeners"]},
+  {"topic": "Library identity and parent", "file": "community-types/indesign/library/identity-and-parent.md", "summary": "Open when looking up Library identity and parent in Shared Adobe platform.", "keywords": ["Library identity and parent"]},
+  {"topic": "Library object resolution", "file": "community-types/indesign/library/object-resolution.md", "summary": "Open when looking up Library object resolution in Shared Adobe platform.", "keywords": ["Library object resolution"]},
+  {"topic": "Library.assets", "file": "community-types/indesign/library/assets.md", "summary": "Open when looking up Library.assets in Shared Adobe platform.", "keywords": ["Library.assets"]},
+  {"topic": "Library.associatedPanel", "file": "community-types/indesign/library/associated-panel.md", "summary": "Open when looking up Library.associatedPanel in Shared Adobe platform.", "keywords": ["Library.associatedPanel"]},
+  {"topic": "Library.close", "file": "community-types/indesign/library/close.md", "summary": "Open when looking up Library.close in Shared Adobe platform.", "keywords": ["Library.close"]},
+  {"topic": "Library.filePath", "file": "community-types/indesign/library/file-path.md", "summary": "Open when looking up Library.filePath in Shared Adobe platform.", "keywords": ["Library.filePath"]},
+  {"topic": "Library.fullName", "file": "community-types/indesign/library/full-name.md", "summary": "Open when looking up Library.fullName in Shared Adobe platform.", "keywords": ["Library.fullName"]},
+  {"topic": "Library.properties", "file": "community-types/indesign/library/properties.md", "summary": "Open when looking up Library.properties in Shared Adobe platform.", "keywords": ["Library.properties"]},
+  {"topic": "Library.store", "file": "community-types/indesign/library/store.md", "summary": "Open when looking up Library.store in Shared Adobe platform.", "keywords": ["Library.store"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

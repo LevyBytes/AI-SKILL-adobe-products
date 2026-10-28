@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "TOCStyles collection iteration", "file": "community-types/indesign/toc-styles/collection-iteration.md", "summary": "Open when looking up TOCStyles collection iteration in Shared Adobe platform.", "keywords": ["TOCStyles collection iteration"]},
+  {"topic": "TOCStyles declaration", "file": "community-types/indesign/toc-styles/declaration.md", "summary": "Open when looking up TOCStyles declaration in Shared Adobe platform.", "keywords": ["TOCStyles declaration"]},
+  {"topic": "TOCStyles named and indexed items", "file": "community-types/indesign/toc-styles/named-and-indexed-items.md", "summary": "Open when looking up TOCStyles named and indexed items in Shared Adobe platform.", "keywords": ["TOCStyles named and indexed items"]},
+  {"topic": "TOCStyles.add", "file": "community-types/indesign/toc-styles/add.md", "summary": "Open when looking up TOCStyles.add in Shared Adobe platform.", "keywords": ["TOCStyles.add"]},
+  {"topic": "TOCStyles.count", "file": "community-types/indesign/toc-styles/count.md", "summary": "Open when looking up TOCStyles.count in Shared Adobe platform.", "keywords": ["TOCStyles.count"]},
+  {"topic": "TOCStyles.IndexSignature", "file": "community-types/indesign/toc-styles/index-signature.md", "summary": "Open when looking up TOCStyles.IndexSignature in Shared Adobe platform.", "keywords": ["TOCStyles.IndexSignature"]},
+  {"topic": "TOCStyles.itemByRange", "file": "community-types/indesign/toc-styles/item-by-range.md", "summary": "Open when looking up TOCStyles.itemByRange in Shared Adobe platform.", "keywords": ["TOCStyles.itemByRange"]},
+  {"topic": "TOCStyles.length", "file": "community-types/indesign/toc-styles/length.md", "summary": "Open when looking up TOCStyles.length in Shared Adobe platform.", "keywords": ["TOCStyles.length"]},
+  {"topic": "TOCStyles.toSource", "file": "community-types/indesign/toc-styles/to-source.md", "summary": "Open when looking up TOCStyles.toSource in Shared Adobe platform.", "keywords": ["TOCStyles.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": ".NET", "file": "pdf-services/extract-text-and-tables-and-table-structure-as-csv-w-renditions/net.md", "summary": "Open when looking up .NET in Acrobat.", "keywords": [".NET"]},
+  {"topic": "Java", "file": "pdf-services/extract-text-and-tables-and-table-structure-as-csv-w-renditions/java.md", "summary": "Open when looking up Java in Acrobat.", "keywords": ["Java"]},
+  {"topic": "Node JS", "file": "pdf-services/extract-text-and-tables-and-table-structure-as-csv-w-renditions/node-js.md", "summary": "Open when looking up Node JS in Acrobat.", "keywords": ["Node JS"]},
+  {"topic": "REST API", "file": "pdf-services/extract-text-and-tables-and-table-structure-as-csv-w-renditions/rest-api.md", "summary": "Open when looking up REST API in Acrobat.", "keywords": ["REST API"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Create and import tables", "file": "desktop/add-tables-and-data/create-tables/create-and-import-tables.md", "summary": "Open when looking up Create and import tables in InDesign.", "keywords": ["Create and import tables"]},
+  {"topic": "Create and import tables references", "file": "desktop/add-tables-and-data/create-tables/create-and-import-tables/reference-index.md", "summary": "Open when looking up Create and import tables in InDesign.", "keywords": ["Create and import tables references"]},
+  {"topic": "Embed a table within a table", "file": "desktop/add-tables-and-data/create-tables/embed-a-table-within-a-table.md", "summary": "Open when looking up Embed a table within a table in InDesign.", "keywords": ["Embed a table within a table"]},
+  {"topic": "Embed a table within a table references", "file": "desktop/add-tables-and-data/create-tables/embed-a-table-within-a-table/reference-index.md", "summary": "Open when looking up Embed a table within a table in InDesign.", "keywords": ["Embed a table within a table references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

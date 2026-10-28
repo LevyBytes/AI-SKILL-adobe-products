@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "Enter Unicode characters in UI text fields", "file": "references/desktop/get-started/language-support/improved-ui-language-support/enter-unicode-characters-in-ui-text-fields.md", "summary": "Open when looking up Enter Unicode characters in UI text fields in After Effects.", "keywords": ["Enter Unicode characters in UI text fields"]},
-  {"topic": "Run After Effects in a language different from your OS display language", "file": "references/desktop/get-started/language-support/improved-ui-language-support/ui-language-independent-of-os.md", "summary": "Open when looking up Run After Effects in a language different from your OS display language in After Effects.", "keywords": ["Run After Effects in a language different from your OS display language"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

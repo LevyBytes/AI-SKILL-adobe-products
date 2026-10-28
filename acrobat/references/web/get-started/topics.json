@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Access the app", "file": "references/web/get-started/access-the-app.md", "summary": "Open when looking up Access the app in Acrobat.", "keywords": ["Access the app"]},
-  {"topic": "Access the app references", "file": "references/web/get-started/access-the-app/reference-index.md", "summary": "Open when looking up Access the app in Acrobat.", "keywords": ["Access the app references"]},
-  {"topic": "Learn the basics", "file": "references/web/get-started/learn-the-basics.md", "summary": "Open when looking up Learn the basics in Acrobat.", "keywords": ["Learn the basics"]},
-  {"topic": "Learn the basics references", "file": "references/web/get-started/learn-the-basics/reference-index.md", "summary": "Open when looking up Learn the basics in Acrobat.", "keywords": ["Learn the basics references"]},
-  {"topic": "Preferences & settings", "file": "references/web/get-started/preferences-settings.md", "summary": "Open when looking up Preferences & settings in Acrobat.", "keywords": ["Preferences & settings"]},
-  {"topic": "Preferences & settings references", "file": "references/web/get-started/preferences-settings/reference-index.md", "summary": "Open when looking up Preferences & settings in Acrobat.", "keywords": ["Preferences & settings references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

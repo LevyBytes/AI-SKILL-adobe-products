@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Additional notes", "file": "references/uxp/css-styling/additional-notes.md", "summary": "Open when looking up Additional notes in InDesign.", "keywords": ["Additional notes"]},
-  {"topic": "CSS", "file": "references/uxp/css-styling/css.md", "summary": "Open when looking up CSS in InDesign.", "keywords": ["CSS"]},
-  {"topic": "HTML", "file": "references/uxp/css-styling/html.md", "summary": "Open when looking up HTML in InDesign.", "keywords": ["HTML"]},
-  {"topic": "JavaScript", "file": "references/uxp/css-styling/java-script.md", "summary": "Open when looking up JavaScript in InDesign.", "keywords": ["JavaScript"]},
-  {"topic": "Reference material", "file": "references/uxp/css-styling/reference-material.md", "summary": "Open when looking up Reference material in InDesign.", "keywords": ["Reference material"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

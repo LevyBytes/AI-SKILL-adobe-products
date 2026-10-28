@@ -1,0 +1,17 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "addEventListener", "file": "document-model/application/add-event-listener.md", "summary": "Open when looking up addEventListener in InDesign.", "keywords": ["addEventListener"]},
+  {"topic": "AFTER_ACTIVATE", "file": "document-model/application/afteractivate.md", "summary": "Open when looking up AFTER_ACTIVATE in InDesign.", "keywords": ["AFTER_ACTIVATE"]},
+  {"topic": "AFTER_CLOSE", "file": "document-model/application/afterclose.md", "summary": "Open when looking up AFTER_CLOSE in InDesign.", "keywords": ["AFTER_CLOSE"]},
+  {"topic": "AFTER_CONTEXT_CHANGED", "file": "document-model/application/aftercontextchanged.md", "summary": "Open when looking up AFTER_CONTEXT_CHANGED in InDesign.", "keywords": ["AFTER_CONTEXT_CHANGED"]},
+  {"topic": "AFTER_QUIT", "file": "document-model/application/afterquit.md", "summary": "Open when looking up AFTER_QUIT in InDesign.", "keywords": ["AFTER_QUIT"]},
+  {"topic": "AFTER_SELECTION_ATTRIBUTE_CHANGED", "file": "document-model/application/afterselectionattributechanged.md", "summary": "Open when looking up AFTER_SELECTION_ATTRIBUTE_CHANGED in InDesign.", "keywords": ["AFTER_SELECTION_ATTRIBUTE_CHANGED"]},
+  {"topic": "AFTER_SELECTION_CHANGED", "file": "document-model/application/afterselectionchanged.md", "summary": "Open when looking up AFTER_SELECTION_CHANGED in InDesign.", "keywords": ["AFTER_SELECTION_CHANGED"]},
+  {"topic": "BEFORE_DEACTIVATE", "file": "document-model/application/beforedeactivate.md", "summary": "Open when looking up BEFORE_DEACTIVATE in InDesign.", "keywords": ["BEFORE_DEACTIVATE"]},
+  {"topic": "BEFORE_NEW", "file": "document-model/application/beforenew.md", "summary": "Open when looking up BEFORE_NEW in InDesign.", "keywords": ["BEFORE_NEW"]},
+  {"topic": "BEFORE_OPEN", "file": "document-model/application/beforeopen.md", "summary": "Open when looking up BEFORE_OPEN in InDesign.", "keywords": ["BEFORE_OPEN"]},
+  {"topic": "BEFORE_QUIT", "file": "document-model/application/beforequit.md", "summary": "Open when looking up BEFORE_QUIT in InDesign.", "keywords": ["BEFORE_QUIT"]},
+  {"topic": "eventListeners", "file": "document-model/application/event-listeners.md", "summary": "Open when looking up eventListeners in InDesign.", "keywords": ["eventListeners"]},
+  {"topic": "events", "file": "document-model/application/events.md", "summary": "Open when looking up events in InDesign.", "keywords": ["events"]},
+  {"topic": "removeEventListener", "file": "document-model/application/remove-event-listener.md", "summary": "Open when looking up removeEventListener in InDesign.", "keywords": ["removeEventListener"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

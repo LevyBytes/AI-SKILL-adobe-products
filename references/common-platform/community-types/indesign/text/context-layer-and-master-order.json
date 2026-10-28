@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Text.select", "file": "community-types/indesign/text/select.md", "summary": "Open when looking up Text.select in Shared Adobe platform.", "keywords": ["Text.select"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

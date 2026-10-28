@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Set up Acrobat Distiller so it embeds fonts into your PDFs.", "file": "desktop/embed-fonts-using-acrobat-distiller/set-up-acrobat-distiller-so-it-embeds-fonts-into-your-pdfs.md", "summary": "Open when looking up Set up Acrobat Distiller so it embeds fonts into your PDFs. in Acrobat.", "keywords": ["Set up Acrobat Distiller so it embeds fonts into your PDFs."]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

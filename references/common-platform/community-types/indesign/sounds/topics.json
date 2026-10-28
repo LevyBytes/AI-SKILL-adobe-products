@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Sounds collection iteration", "file": "community-types/indesign/sounds/collection-iteration.md", "summary": "Open when looking up Sounds collection iteration in Shared Adobe platform.", "keywords": ["Sounds collection iteration"]},
+  {"topic": "Sounds declaration", "file": "community-types/indesign/sounds/declaration.md", "summary": "Open when looking up Sounds declaration in Shared Adobe platform.", "keywords": ["Sounds declaration"]},
+  {"topic": "Sounds named and indexed items", "file": "community-types/indesign/sounds/named-and-indexed-items.md", "summary": "Open when looking up Sounds named and indexed items in Shared Adobe platform.", "keywords": ["Sounds named and indexed items"]},
+  {"topic": "Sounds.add", "file": "community-types/indesign/sounds/add.md", "summary": "Open when looking up Sounds.add in Shared Adobe platform.", "keywords": ["Sounds.add"]},
+  {"topic": "Sounds.count", "file": "community-types/indesign/sounds/count.md", "summary": "Open when looking up Sounds.count in Shared Adobe platform.", "keywords": ["Sounds.count"]},
+  {"topic": "Sounds.IndexSignature", "file": "community-types/indesign/sounds/index-signature.md", "summary": "Open when looking up Sounds.IndexSignature in Shared Adobe platform.", "keywords": ["Sounds.IndexSignature"]},
+  {"topic": "Sounds.itemByRange", "file": "community-types/indesign/sounds/item-by-range.md", "summary": "Open when looking up Sounds.itemByRange in Shared Adobe platform.", "keywords": ["Sounds.itemByRange"]},
+  {"topic": "Sounds.length", "file": "community-types/indesign/sounds/length.md", "summary": "Open when looking up Sounds.length in Shared Adobe platform.", "keywords": ["Sounds.length"]},
+  {"topic": "Sounds.toSource", "file": "community-types/indesign/sounds/to-source.md", "summary": "Open when looking up Sounds.toSource in Shared Adobe platform.", "keywords": ["Sounds.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

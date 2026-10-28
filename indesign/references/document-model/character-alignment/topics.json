@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "ALIGN_BASELINE", "file": "references/document-model/character-alignment/alignbaseline.md", "summary": "Open when looking up ALIGN_BASELINE in InDesign.", "keywords": ["ALIGN_BASELINE"]},
-  {"topic": "ALIGN_EM_BOTTOM", "file": "references/document-model/character-alignment/alignembottom.md", "summary": "Open when looking up ALIGN_EM_BOTTOM in InDesign.", "keywords": ["ALIGN_EM_BOTTOM"]},
-  {"topic": "ALIGN_EM_CENTER", "file": "references/document-model/character-alignment/alignemcenter.md", "summary": "Open when looking up ALIGN_EM_CENTER in InDesign.", "keywords": ["ALIGN_EM_CENTER"]},
-  {"topic": "ALIGN_EM_TOP", "file": "references/document-model/character-alignment/alignemtop.md", "summary": "Open when looking up ALIGN_EM_TOP in InDesign.", "keywords": ["ALIGN_EM_TOP"]},
-  {"topic": "ALIGN_ICF_BOTTOM", "file": "references/document-model/character-alignment/alignicfbottom.md", "summary": "Open when looking up ALIGN_ICF_BOTTOM in InDesign.", "keywords": ["ALIGN_ICF_BOTTOM"]},
-  {"topic": "ALIGN_ICF_TOP", "file": "references/document-model/character-alignment/alignicftop.md", "summary": "Open when looking up ALIGN_ICF_TOP in InDesign.", "keywords": ["ALIGN_ICF_TOP"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

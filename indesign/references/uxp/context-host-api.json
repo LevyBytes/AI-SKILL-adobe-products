@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Host api references", "file": "references/uxp/host-api/reference-index.md", "summary": "Open when looking up Host api in InDesign.", "keywords": ["Host api references"]},
-  {"topic": "Object model", "file": "references/uxp/object-model.md", "summary": "Open when looking up Object model in InDesign.", "keywords": ["Object model"]},
-  {"topic": "Object model references", "file": "references/uxp/object-model/reference-index.md", "summary": "Open when looking up Object model in InDesign.", "keywords": ["Object model references"]},
-  {"topic": "What is the OMV file?", "file": "references/uxp/what-is-the-omv-file.md", "summary": "Open when looking up What is the OMV file? in InDesign.", "keywords": ["What is the OMV file?"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

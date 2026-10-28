@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "AEGP_CreateHashFromPtr", "file": "plugin-sdk/compute-cache-api-aegp-hash-suite1/aegp-create-hash-from-ptr.md", "summary": "Open when looking up AEGP_CreateHashFromPtr in After Effects.", "keywords": ["AEGP_CreateHashFromPtr"]},
+  {"topic": "AEGP_HashMixInPtr", "file": "plugin-sdk/compute-cache-api-aegp-hash-suite1/aegp-hash-mix-in-ptr.md", "summary": "Open when looking up AEGP_HashMixInPtr in After Effects.", "keywords": ["AEGP_HashMixInPtr"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

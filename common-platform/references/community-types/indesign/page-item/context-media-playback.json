@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "PageItem.animationSettings", "file": "references/community-types/indesign/page-item/animation-settings.md", "summary": "Open when looking up PageItem.animationSettings in Shared Adobe platform.", "keywords": ["PageItem.animationSettings"]},
-  {"topic": "PageItem.timingSettings", "file": "references/community-types/indesign/page-item/timing-settings.md", "summary": "Open when looking up PageItem.timingSettings in Shared Adobe platform.", "keywords": ["PageItem.timingSettings"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

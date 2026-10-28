@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "require('uxp').userInfo", "file": "uxp/user-info/require-uxp-user-info.md", "summary": "Open when looking up require('uxp').userInfo in Photoshop.", "keywords": ["require('uxp').userInfo"]},
+  {"topic": "userId()", "file": "uxp/user-info/user-id.md", "summary": "Open when looking up userId() in Photoshop.", "keywords": ["userId()"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

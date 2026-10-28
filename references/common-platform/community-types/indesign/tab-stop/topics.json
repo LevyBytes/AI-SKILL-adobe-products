@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "TabStop declaration", "file": "community-types/indesign/tab-stop/declaration.md", "summary": "Open when looking up TabStop declaration in Shared Adobe platform.", "keywords": ["TabStop declaration"]},
+  {"topic": "TabStop event listeners", "file": "community-types/indesign/tab-stop/event-listeners.md", "summary": "Open when looking up TabStop event listeners in Shared Adobe platform.", "keywords": ["TabStop event listeners"]},
+  {"topic": "TabStop identity and parent", "file": "community-types/indesign/tab-stop/identity-and-parent.md", "summary": "Open when looking up TabStop identity and parent in Shared Adobe platform.", "keywords": ["TabStop identity and parent"]},
+  {"topic": "TabStop object resolution", "file": "community-types/indesign/tab-stop/object-resolution.md", "summary": "Open when looking up TabStop object resolution in Shared Adobe platform.", "keywords": ["TabStop object resolution"]},
+  {"topic": "TabStop.alignment", "file": "community-types/indesign/tab-stop/alignment.md", "summary": "Open when looking up TabStop.alignment in Shared Adobe platform.", "keywords": ["TabStop.alignment"]},
+  {"topic": "TabStop.alignmentCharacter", "file": "community-types/indesign/tab-stop/alignment-character.md", "summary": "Open when looking up TabStop.alignmentCharacter in Shared Adobe platform.", "keywords": ["TabStop.alignmentCharacter"]},
+  {"topic": "TabStop.leader", "file": "community-types/indesign/tab-stop/leader.md", "summary": "Open when looking up TabStop.leader in Shared Adobe platform.", "keywords": ["TabStop.leader"]},
+  {"topic": "TabStop.position", "file": "community-types/indesign/tab-stop/position.md", "summary": "Open when looking up TabStop.position in Shared Adobe platform.", "keywords": ["TabStop.position"]},
+  {"topic": "TabStop.properties", "file": "community-types/indesign/tab-stop/properties.md", "summary": "Open when looking up TabStop.properties in Shared Adobe platform.", "keywords": ["TabStop.properties"]},
+  {"topic": "TabStop.remove", "file": "community-types/indesign/tab-stop/remove.md", "summary": "Open when looking up TabStop.remove in Shared Adobe platform.", "keywords": ["TabStop.remove"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

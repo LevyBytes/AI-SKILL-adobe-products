@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "PPDFile.name", "file": "scripting/ppd-file/name.md", "summary": "Open when looking up PPDFile.name in Illustrator.", "keywords": ["PPDFile.name"]},
+  {"topic": "PPDFile.PPDInfo", "file": "scripting/ppd-file/ppd-info.md", "summary": "Open when looking up PPDFile.PPDInfo in Illustrator.", "keywords": ["PPDFile.PPDInfo"]},
+  {"topic": "PPDFile.typename", "file": "scripting/ppd-file/typename.md", "summary": "Open when looking up PPDFile.typename in Illustrator.", "keywords": ["PPDFile.typename"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

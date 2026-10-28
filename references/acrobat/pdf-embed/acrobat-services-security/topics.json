@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Acrobat Services APIs Hosting and Security", "file": "pdf-embed/acrobat-services-security/acrobat-services-apis-hosting-and-security.md", "summary": "Open when looking up Acrobat Services APIs Hosting and Security in Acrobat.", "keywords": ["Acrobat Services APIs Hosting and Security"]},
+  {"topic": "Authentication", "file": "pdf-embed/acrobat-services-security/authentication.md", "summary": "Open when looking up Authentication in Acrobat.", "keywords": ["Authentication"]},
+  {"topic": "Content Storage", "file": "pdf-embed/acrobat-services-security/content-storage.md", "summary": "Open when looking up Content Storage in Acrobat.", "keywords": ["Content Storage"]},
+  {"topic": "Iframe Security", "file": "pdf-embed/acrobat-services-security/iframe-security.md", "summary": "Open when looking up Iframe Security in Acrobat.", "keywords": ["Iframe Security"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

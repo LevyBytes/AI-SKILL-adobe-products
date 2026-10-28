@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "ImageBlob(arrayBuffer, options)", "file": "uxp/image-blob/image-blob.md", "summary": "Open when looking up ImageBlob(arrayBuffer, options) in Photoshop.", "keywords": ["ImageBlob(arrayBuffer, options)"]},
+  {"topic": "window.ImageBlob", "file": "uxp/image-blob/overview.md", "summary": "Open when looking up window.ImageBlob in Photoshop.", "keywords": ["window.ImageBlob"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

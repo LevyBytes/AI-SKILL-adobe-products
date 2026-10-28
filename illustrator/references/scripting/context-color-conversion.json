@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Color conversion references", "file": "references/scripting/color-conversion/reference-index.md", "summary": "Open when looking up Color conversion in Illustrator.", "keywords": ["Color conversion references"]},
-  {"topic": "Color convert purpose references", "file": "references/scripting/color-convert-purpose/reference-index.md", "summary": "Open when looking up Color convert purpose in Illustrator.", "keywords": ["Color convert purpose references"]},
-  {"topic": "Color destination references", "file": "references/scripting/color-destination/reference-index.md", "summary": "Open when looking up Color destination in Illustrator.", "keywords": ["Color destination references"]},
-  {"topic": "Color profile references", "file": "references/scripting/color-profile/reference-index.md", "summary": "Open when looking up Color profile in Illustrator.", "keywords": ["Color profile references"]},
-  {"topic": "Color dither method references", "file": "references/scripting/color-dither-method/reference-index.md", "summary": "Open when looking up Color dither method in Illustrator.", "keywords": ["Color dither method references"]},
-  {"topic": "Color reduction method references", "file": "references/scripting/color-reduction-method/reference-index.md", "summary": "Open when looking up Color reduction method in Illustrator.", "keywords": ["Color reduction method references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

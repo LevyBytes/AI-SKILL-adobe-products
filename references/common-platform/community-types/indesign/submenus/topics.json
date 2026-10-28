@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Submenus collection iteration", "file": "community-types/indesign/submenus/collection-iteration.md", "summary": "Open when looking up Submenus collection iteration in Shared Adobe platform.", "keywords": ["Submenus collection iteration"]},
+  {"topic": "Submenus declaration", "file": "community-types/indesign/submenus/declaration.md", "summary": "Open when looking up Submenus declaration in Shared Adobe platform.", "keywords": ["Submenus declaration"]},
+  {"topic": "Submenus named and indexed items", "file": "community-types/indesign/submenus/named-and-indexed-items.md", "summary": "Open when looking up Submenus named and indexed items in Shared Adobe platform.", "keywords": ["Submenus named and indexed items"]},
+  {"topic": "Submenus.add", "file": "community-types/indesign/submenus/add.md", "summary": "Open when looking up Submenus.add in Shared Adobe platform.", "keywords": ["Submenus.add"]},
+  {"topic": "Submenus.count", "file": "community-types/indesign/submenus/count.md", "summary": "Open when looking up Submenus.count in Shared Adobe platform.", "keywords": ["Submenus.count"]},
+  {"topic": "Submenus.IndexSignature", "file": "community-types/indesign/submenus/index-signature.md", "summary": "Open when looking up Submenus.IndexSignature in Shared Adobe platform.", "keywords": ["Submenus.IndexSignature"]},
+  {"topic": "Submenus.itemByRange", "file": "community-types/indesign/submenus/item-by-range.md", "summary": "Open when looking up Submenus.itemByRange in Shared Adobe platform.", "keywords": ["Submenus.itemByRange"]},
+  {"topic": "Submenus.length", "file": "community-types/indesign/submenus/length.md", "summary": "Open when looking up Submenus.length in Shared Adobe platform.", "keywords": ["Submenus.length"]},
+  {"topic": "Submenus.toSource", "file": "community-types/indesign/submenus/to-source.md", "summary": "Open when looking up Submenus.toSource in Shared Adobe platform.", "keywords": ["Submenus.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

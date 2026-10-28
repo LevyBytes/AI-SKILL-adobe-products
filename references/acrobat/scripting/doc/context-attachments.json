@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "collection", "file": "scripting/doc/collection.md", "summary": "Open when looking up collection in Acrobat.", "keywords": ["collection"]},
+  {"topic": "createDataObject", "file": "scripting/doc/create-data-object.md", "summary": "Open when looking up createDataObject in Acrobat.", "keywords": ["createDataObject"]},
+  {"topic": "dataObjects", "file": "scripting/doc/data-objects.md", "summary": "Open when looking up dataObjects in Acrobat.", "keywords": ["dataObjects"]},
+  {"topic": "embedDocAsDataObject", "file": "scripting/doc/embed-doc-as-data-object.md", "summary": "Open when looking up embedDocAsDataObject in Acrobat.", "keywords": ["embedDocAsDataObject"]},
+  {"topic": "exportDataObject", "file": "scripting/doc/export-data-object.md", "summary": "Open when looking up exportDataObject in Acrobat.", "keywords": ["exportDataObject"]},
+  {"topic": "getDataObject", "file": "scripting/doc/get-data-object.md", "summary": "Open when looking up getDataObject in Acrobat.", "keywords": ["getDataObject"]},
+  {"topic": "getDataObjectContents", "file": "scripting/doc/get-data-object-contents.md", "summary": "Open when looking up getDataObjectContents in Acrobat.", "keywords": ["getDataObjectContents"]},
+  {"topic": "importDataObject", "file": "scripting/doc/import-data-object.md", "summary": "Open when looking up importDataObject in Acrobat.", "keywords": ["importDataObject"]},
+  {"topic": "openDataObject", "file": "scripting/doc/open-data-object.md", "summary": "Open when looking up openDataObject in Acrobat.", "keywords": ["openDataObject"]},
+  {"topic": "removeDataObject", "file": "scripting/doc/remove-data-object.md", "summary": "Open when looking up removeDataObject in Acrobat.", "keywords": ["removeDataObject"]},
+  {"topic": "setDataObjectContents", "file": "scripting/doc/set-data-object-contents.md", "summary": "Open when looking up setDataObjectContents in Acrobat.", "keywords": ["setDataObjectContents"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

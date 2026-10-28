@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Interaction Callback Functions", "file": "plugin-sdk/interaction-callback-functions.md", "summary": "Open when looking up Interaction Callback Functions in After Effects.", "keywords": ["Interaction Callback Functions"]},
+  {"topic": "Interaction callbacks references", "file": "plugin-sdk/interaction-callbacks/reference-index.md", "summary": "Open when looking up Interaction callbacks in After Effects.", "keywords": ["Interaction callbacks references"]},
+  {"topic": "Parameter checkout and re entrancy references", "file": "plugin-sdk/parameter-checkout-and-re-entrancy/reference-index.md", "summary": "Open when looking up Parameter checkout and re entrancy in After Effects.", "keywords": ["Parameter checkout and re entrancy references"]},
+  {"topic": "Parameter checkout behavior references", "file": "plugin-sdk/parameter-checkout-behavior/reference-index.md", "summary": "Open when looking up Parameter checkout behavior in After Effects.", "keywords": ["Parameter checkout behavior references"]},
+  {"topic": "Parameter checkout vs param zero references", "file": "plugin-sdk/parameter-checkout-vs-param-zero/reference-index.md", "summary": "Open when looking up Parameter checkout vs param zero in After Effects.", "keywords": ["Parameter checkout vs param zero references"]},
+  {"topic": "Progress during iteration references", "file": "plugin-sdk/progress-during-iteration/reference-index.md", "summary": "Open when looking up Progress during iteration in After Effects.", "keywords": ["Progress during iteration references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

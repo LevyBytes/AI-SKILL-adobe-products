@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Object identity and lifecycle", "file": "document-model/row/context-object-contract.md", "summary": "Open when checking object identity and lifecycle in InDesign - Row.", "keywords": ["Object identity and lifecycle"]},
+  {"topic": "Read and edit text", "file": "document-model/row/context-text-content.md", "summary": "Open when checking read and edit text in InDesign - Row.", "keywords": ["Read and edit text"]},
+  {"topic": "Writing direction and diacritics", "file": "document-model/row/context-text-direction.md", "summary": "Open when checking writing direction and diacritics in InDesign - Row.", "keywords": ["Writing direction and diacritics"]},
+  {"topic": "Find, replace and transliterate", "file": "document-model/row/context-find-and-replace.md", "summary": "Open when checking find, replace and transliterate in InDesign - Row.", "keywords": ["Find, replace and transliterate"]},
+  {"topic": "Fill, stroke and transparency", "file": "document-model/row/context-fill-and-stroke.md", "summary": "Open when checking fill, stroke and transparency in InDesign - Row.", "keywords": ["Fill, stroke and transparency"]},
+  {"topic": "Cell and table border strokes", "file": "document-model/row/context-cell-borders.md", "summary": "Open when checking cell and table border strokes in InDesign - Row.", "keywords": ["Cell and table border strokes"]},
+  {"topic": "Table cells, rows and columns", "file": "document-model/row/context-table-structure.md", "summary": "Open when checking table cells, rows and columns in InDesign - Row.", "keywords": ["Table cells, rows and columns"]},
+  {"topic": "Content fit, dimensions and overflow", "file": "document-model/row/context-cell-fitting.md", "summary": "Open when checking content fit, dimensions and overflow in InDesign - Row.", "keywords": ["Content fit, dimensions and overflow"]},
+  {"topic": "Placement, bounds and transformations", "file": "document-model/row/context-object-layout.md", "summary": "Open when checking placement, bounds and transformations in InDesign - Row.", "keywords": ["Placement, bounds and transformations"]},
+  {"topic": "Layers, stacking and master overrides", "file": "document-model/row/context-layer-and-master-order.md", "summary": "Open when checking layers, stacking and master overrides in InDesign - Row.", "keywords": ["Layers, stacking and master overrides"]},
+  {"topic": "Paths and shape operations", "file": "document-model/row/context-paths-and-shapes.md", "summary": "Open when checking paths and shape operations in InDesign - Row.", "keywords": ["Paths and shape operations"]},
+  {"topic": "Events and listeners", "file": "document-model/row/context-event-delivery.md", "summary": "Open when checking events and listeners in InDesign - Row.", "keywords": ["Events and listeners"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

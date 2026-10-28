@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "HistoryState", "file": "community-types/photoshop/history-state.md", "summary": "Open when looking up HistoryState in Shared Adobe platform.", "keywords": ["HistoryState"]},
+  {"topic": "HistoryStates", "file": "community-types/photoshop/history-states.md", "summary": "Open when looking up HistoryStates in Shared Adobe platform.", "keywords": ["HistoryStates"]},
+  {"topic": "EditLogItemsType", "file": "community-types/photoshop/edit-log-items-type.md", "summary": "Open when looking up EditLogItemsType in Shared Adobe platform.", "keywords": ["EditLogItemsType"]},
+  {"topic": "SaveLogItemsType", "file": "community-types/photoshop/save-log-items-type.md", "summary": "Open when looking up SaveLogItemsType in Shared Adobe platform.", "keywords": ["SaveLogItemsType"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

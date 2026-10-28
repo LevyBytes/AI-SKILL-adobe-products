@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Add and manage items", "file": "web/pdf-spaces/customize-pdf-space-experiences/add-and-manage-items.md", "summary": "Open when looking up Add and manage items in Acrobat.", "keywords": ["Add and manage items"]},
+  {"topic": "Arrange the items", "file": "web/pdf-spaces/customize-pdf-space-experiences/arrange-the-items.md", "summary": "Open when looking up Arrange the items in Acrobat.", "keywords": ["Arrange the items"]},
+  {"topic": "Customize the AI-generated audio summary", "file": "web/pdf-spaces/customize-pdf-space-experiences/customize-the-ai-generated-audio-summary.md", "summary": "Open when looking up Customize the AI-generated audio summary in Acrobat.", "keywords": ["Customize the AI-generated audio summary"]},
+  {"topic": "Customize the theme and link preview", "file": "web/pdf-spaces/customize-pdf-space-experiences/customize-the-theme-and-link-preview.md", "summary": "Open when looking up Customize the theme and link preview in Acrobat.", "keywords": ["Customize the theme and link preview"]},
+  {"topic": "Edit the AI-generated text summary", "file": "web/pdf-spaces/customize-pdf-space-experiences/edit-the-ai-generated-text-summary.md", "summary": "Open when looking up Edit the AI-generated text summary in Acrobat.", "keywords": ["Edit the AI-generated text summary"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

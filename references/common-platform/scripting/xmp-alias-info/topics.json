@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "XMPAliasInfo object properties", "file": "scripting/xmp-alias-info/xmp-alias-info-object-properties.md", "summary": "Open when looking up XMPAliasInfo object properties in Shared Adobe platform.", "keywords": ["XMPAliasInfo object properties"]},
+  {"topic": "XMPScript object reference - XMPAliasInfo object", "file": "scripting/xmp-alias-info/xmp-script-object-reference-xmp-alias-info-object.md", "summary": "Open when looking up XMPScript object reference - XMPAliasInfo object in Shared Adobe platform.", "keywords": ["XMPScript object reference - XMPAliasInfo object"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

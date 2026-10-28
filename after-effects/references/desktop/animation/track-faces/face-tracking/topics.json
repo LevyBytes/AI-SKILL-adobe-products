@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "Face Measurements", "file": "references/desktop/animation/track-faces/face-tracking/face-measurements.md", "summary": "Open when looking up Face Measurements in After Effects.", "keywords": ["Face Measurements"]},
-  {"topic": "Face Track Points", "file": "references/desktop/animation/track-faces/face-tracking/face-track-points.md", "summary": "Open when looking up Face Track Points in After Effects.", "keywords": ["Face Track Points"]},
-  {"topic": "Face Tracking Overview", "file": "references/desktop/animation/track-faces/face-tracking/face-tracking-overview.md", "summary": "Open when looking up Face Tracking Overview in After Effects.", "keywords": ["Face Tracking Overview"]},
-  {"topic": "Tracking detailed features and extracting facial measurements", "file": "references/desktop/animation/track-faces/face-tracking/tracking-detailed-features-and-extracting-facial-measurements.md", "summary": "Open when looking up Tracking detailed features and extracting facial measurements in After Effects.", "keywords": ["Tracking detailed features and extracting facial measurements"]},
-  {"topic": "Tracking outline of a face", "file": "references/desktop/animation/track-faces/face-tracking/tracking-outline-of-a-face.md", "summary": "Open when looking up Tracking outline of a face in After Effects.", "keywords": ["Tracking outline of a face"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

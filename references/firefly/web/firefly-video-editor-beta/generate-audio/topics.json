@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Generate Sound effects", "file": "web/firefly-video-editor-beta/generate-audio/generate-sound-effects.md", "summary": "Open when looking up Generate Sound effects in Firefly.", "keywords": ["Generate Sound effects"]},
+  {"topic": "Generate Sound effects references", "file": "web/firefly-video-editor-beta/generate-audio/generate-sound-effects/reference-index.md", "summary": "Open when looking up Generate Sound effects in Firefly.", "keywords": ["Generate Sound effects references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

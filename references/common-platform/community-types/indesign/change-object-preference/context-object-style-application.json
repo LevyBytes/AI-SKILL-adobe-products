@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "ChangeObjectPreference.appliedObjectStyles", "file": "community-types/indesign/change-object-preference/applied-object-styles.md", "summary": "Open when looking up ChangeObjectPreference.appliedObjectStyles in Shared Adobe platform.", "keywords": ["ChangeObjectPreference.appliedObjectStyles"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

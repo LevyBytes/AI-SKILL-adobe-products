@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Manage shared documents", "file": "web/share-review-and-export/share-documents/manage-shared-documents.md", "summary": "Open when looking up Manage shared documents in Acrobat.", "keywords": ["Manage shared documents"]},
+  {"topic": "Share a document via link", "file": "web/share-review-and-export/share-documents/share-a-document-via-link.md", "summary": "Open when looking up Share a document via link in Acrobat.", "keywords": ["Share a document via link"]},
+  {"topic": "Share PDFs for review", "file": "web/share-review-and-export/share-documents/share-pdfs-for-review.md", "summary": "Open when looking up Share PDFs for review in Acrobat.", "keywords": ["Share PDFs for review"]},
+  {"topic": "Unshare PDFs", "file": "web/share-review-and-export/share-documents/unshare-pdfs.md", "summary": "Open when looking up Unshare PDFs in Acrobat.", "keywords": ["Unshare PDFs"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Defining behavior with event callbacks and listeners - Simulating user events", "file": "scripting/simulating-user-events/simulating-user-events.md", "summary": "Open when looking up Defining behavior with event callbacks and listeners - Simulating user events in Shared Adobe platform.", "keywords": ["Defining behavior with event callbacks and listeners - Simulating user events"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

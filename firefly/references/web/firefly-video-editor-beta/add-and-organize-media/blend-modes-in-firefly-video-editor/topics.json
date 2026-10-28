@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "firefly", "topics": [
-  {"topic": "Apply Blend", "file": "references/web/firefly-video-editor-beta/add-and-organize-media/blend-modes-in-firefly-video-editor/apply-blend.md", "summary": "Open when looking up Apply Blend in Firefly.", "keywords": ["Apply Blend"]},
-  {"topic": "Blend modes", "file": "references/web/firefly-video-editor-beta/add-and-organize-media/blend-modes-in-firefly-video-editor/blend-modes.md", "summary": "Open when looking up Blend modes in Firefly.", "keywords": ["Blend modes"]},
-  {"topic": "Supported elements", "file": "references/web/firefly-video-editor-beta/add-and-organize-media/blend-modes-in-firefly-video-editor/supported-elements.md", "summary": "Open when looking up Supported elements in Firefly.", "keywords": ["Supported elements"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

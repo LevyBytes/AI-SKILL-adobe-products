@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "ON_CLICK", "file": "document-model/dynamic-trigger-events/onclick.md", "summary": "Open when looking up ON_CLICK in InDesign.", "keywords": ["ON_CLICK"]},
+  {"topic": "ON_PAGE_CLICK", "file": "document-model/dynamic-trigger-events/onpageclick.md", "summary": "Open when looking up ON_PAGE_CLICK in InDesign.", "keywords": ["ON_PAGE_CLICK"]},
+  {"topic": "ON_PAGE_LOAD", "file": "document-model/dynamic-trigger-events/onpageload.md", "summary": "Open when looking up ON_PAGE_LOAD in InDesign.", "keywords": ["ON_PAGE_LOAD"]},
+  {"topic": "ON_RELEASE", "file": "document-model/dynamic-trigger-events/onrelease.md", "summary": "Open when looking up ON_RELEASE in InDesign.", "keywords": ["ON_RELEASE"]},
+  {"topic": "ON_ROLLOFF", "file": "document-model/dynamic-trigger-events/onrolloff.md", "summary": "Open when looking up ON_ROLLOFF in InDesign.", "keywords": ["ON_ROLLOFF"]},
+  {"topic": "ON_ROLLOVER", "file": "document-model/dynamic-trigger-events/onrollover.md", "summary": "Open when looking up ON_ROLLOVER in InDesign.", "keywords": ["ON_ROLLOVER"]},
+  {"topic": "ON_SELF_CLICK", "file": "document-model/dynamic-trigger-events/onselfclick.md", "summary": "Open when looking up ON_SELF_CLICK in InDesign.", "keywords": ["ON_SELF_CLICK"]},
+  {"topic": "ON_SELF_ROLLOVER", "file": "document-model/dynamic-trigger-events/onselfrollover.md", "summary": "Open when looking up ON_SELF_ROLLOVER in InDesign.", "keywords": ["ON_SELF_ROLLOVER"]},
+  {"topic": "ON_STATE_LOAD", "file": "document-model/dynamic-trigger-events/onstateload.md", "summary": "Open when looking up ON_STATE_LOAD in InDesign.", "keywords": ["ON_STATE_LOAD"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

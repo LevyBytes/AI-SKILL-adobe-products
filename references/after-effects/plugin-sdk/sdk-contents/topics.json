@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "What Can I Do With This SDK? - SDK Contents", "file": "plugin-sdk/sdk-contents/what-can-i-do-with-this-sdk-sdk-contents.md", "summary": "Open when looking up What Can I Do With This SDK? - SDK Contents in After Effects.", "keywords": ["What Can I Do With This SDK? - SDK Contents"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

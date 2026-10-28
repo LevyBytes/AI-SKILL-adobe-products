@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Collection object - Attributes", "file": "scripting/collection-object/collection-object-attributes.md", "summary": "Open when looking up Collection object - Attributes in After Effects.", "keywords": ["Collection object - Attributes"]},
+  {"topic": "Collection object - Methods", "file": "scripting/collection-object/collection-object-methods.md", "summary": "Open when looking up Collection object - Methods in After Effects.", "keywords": ["Collection object - Methods"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

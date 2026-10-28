@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Add responsive design references", "file": "desktop/motion-graphics/add-responsive-design/reference-index.md", "summary": "Open when looking up Add responsive design in After Effects.", "keywords": ["Add responsive design references"]},
+  {"topic": "Essential properties references", "file": "desktop/motion-graphics/essential-properties/reference-index.md", "summary": "Open when looking up Essential properties in After Effects.", "keywords": ["Essential properties references"]},
+  {"topic": "Work with motion graphics templates references", "file": "desktop/motion-graphics/motion-graphics-templates/reference-index.md", "summary": "Open when looking up Work with motion graphics templates in After Effects.", "keywords": ["Work with motion graphics templates references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

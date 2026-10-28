@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Corrupt fonts", "file": "references/desktop/troubleshoot/launch-and-crash-issues/damaged-fonts-crash-errors/corrupt-fonts.md", "summary": "Open when looking up Corrupt fonts in InDesign.", "keywords": ["Corrupt fonts"]},
-  {"topic": "Fonts with special characters or corrupted metadata", "file": "references/desktop/troubleshoot/launch-and-crash-issues/damaged-fonts-crash-errors/fonts-with-special-characters-or-corrupted-metadata.md", "summary": "Open when looking up Fonts with special characters or corrupted metadata in InDesign.", "keywords": ["Fonts with special characters or corrupted metadata"]},
-  {"topic": "macOS", "file": "references/desktop/troubleshoot/launch-and-crash-issues/damaged-fonts-crash-errors/mac-os.md", "summary": "Open when looking up macOS in InDesign.", "keywords": ["macOS"]},
-  {"topic": "Third-party font management plugins conflict with InDesign", "file": "references/desktop/troubleshoot/launch-and-crash-issues/damaged-fonts-crash-errors/third-party-font-management-plugins-conflict-with-in-design.md", "summary": "Open when looking up Third-party font management plugins conflict with InDesign in InDesign.", "keywords": ["Third-party font management plugins conflict with InDesign"]},
-  {"topic": "Windows", "file": "references/desktop/troubleshoot/launch-and-crash-issues/damaged-fonts-crash-errors/windows.md", "summary": "Open when looking up Windows in InDesign.", "keywords": ["Windows"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

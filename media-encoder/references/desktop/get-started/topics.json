@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "media-encoder", "topics": [
-  {"topic": "Overview of Adobe Media Encoder", "file": "references/desktop/get-started/overview-of-adobe-media-encoder.md", "summary": "Open when looking up Overview of Adobe Media Encoder in Media Encoder.", "keywords": ["Overview of Adobe Media Encoder"]},
-  {"topic": "Overview of Adobe Media Encoder references", "file": "references/desktop/get-started/overview-of-adobe-media-encoder/reference-index.md", "summary": "Open when looking up Overview of Adobe Media Encoder in Media Encoder.", "keywords": ["Overview of Adobe Media Encoder references"]},
-  {"topic": "Sync settings in Media Encoder", "file": "references/desktop/get-started/sync-settings-in-media-encoder.md", "summary": "Open when looking up Sync settings in Media Encoder in Media Encoder.", "keywords": ["Sync settings in Media Encoder"]},
-  {"topic": "Sync settings in Media Encoder references", "file": "references/desktop/get-started/sync-settings-in-media-encoder/reference-index.md", "summary": "Open when looking up Sync settings in Media Encoder in Media Encoder.", "keywords": ["Sync settings in Media Encoder references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

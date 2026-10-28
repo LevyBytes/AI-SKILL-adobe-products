@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Default printer resolution", "file": "references/desktop/image-transforms/resize-and-adjust-resolution/resolution-specs-for-printing-images/default-printer-resolution.md", "summary": "Open when looking up Default printer resolution in Photoshop.", "keywords": ["Default printer resolution"]},
-  {"topic": "Standard print resolution", "file": "references/desktop/image-transforms/resize-and-adjust-resolution/resolution-specs-for-printing-images/standard-print-resolution.md", "summary": "Open when looking up Standard print resolution in Photoshop.", "keywords": ["Standard print resolution"]},
-  {"topic": "Viewing print size on screen", "file": "references/desktop/image-transforms/resize-and-adjust-resolution/resolution-specs-for-printing-images/viewing-print-size-on-screen.md", "summary": "Open when looking up Viewing print size on screen in Photoshop.", "keywords": ["Viewing print size on screen"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

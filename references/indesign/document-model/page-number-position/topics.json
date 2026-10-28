@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "AFTER_ENTRY", "file": "document-model/page-number-position/afterentry.md", "summary": "Open when looking up AFTER_ENTRY in InDesign.", "keywords": ["AFTER_ENTRY"]},
+  {"topic": "BEFORE_ENTRY", "file": "document-model/page-number-position/beforeentry.md", "summary": "Open when looking up BEFORE_ENTRY in InDesign.", "keywords": ["BEFORE_ENTRY"]},
+  {"topic": "NONE", "file": "document-model/page-number-position/none.md", "summary": "Open when looking up NONE in InDesign.", "keywords": ["NONE"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

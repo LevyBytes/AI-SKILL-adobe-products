@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Delete a folder and reassign the Adobe PDF printer to the default port", "file": "desktop/print-documents/set-up-and-print-pdfs/windows-pdf-printer/reset-pdf-printer-output-port.md", "summary": "Open when looking up Delete a folder and reassign the Adobe PDF printer to the default port in Acrobat.", "keywords": ["Delete a folder and reassign the Adobe PDF printer to the default port"]},
+  {"topic": "Reassign the port that the Adobe PDF printer uses", "file": "desktop/print-documents/set-up-and-print-pdfs/windows-pdf-printer/reassign-the-port-that-the-adobe-pdf-printer-uses.md", "summary": "Open when looking up Reassign the port that the Adobe PDF printer uses in Acrobat.", "keywords": ["Reassign the port that the Adobe PDF printer uses"]},
+  {"topic": "Set Adobe PDF printer properties", "file": "desktop/print-documents/set-up-and-print-pdfs/windows-pdf-printer/set-adobe-pdf-printer-properties.md", "summary": "Open when looking up Set Adobe PDF printer properties in Acrobat.", "keywords": ["Set Adobe PDF printer properties"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

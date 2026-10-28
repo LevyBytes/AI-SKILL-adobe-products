@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Automatic legacy-text update", "file": "scripting/open-options-example/automatic-legacy-text-update.md", "summary": "Open when looking up Automatic legacy-text update in Illustrator.", "keywords": ["Automatic legacy-text update"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

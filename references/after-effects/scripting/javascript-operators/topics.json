@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Description of Operators", "file": "scripting/javascript-operators/description-of-operators.md", "summary": "Open when looking up Description of Operators in After Effects.", "keywords": ["Description of Operators"]},
+  {"topic": "Elements of basic JavaScript relevant to After Effects scripting - Javascript Operators", "file": "scripting/javascript-operators/javascript-operators.md", "summary": "Open when looking up Elements of basic JavaScript relevant to After Effects scripting - Javascript Operators in After Effects.", "keywords": ["Elements of basic JavaScript relevant to After Effects scripting - Javascript Operators"]},
+  {"topic": "Operator Precedence", "file": "scripting/javascript-operators/operator-precedence.md", "summary": "Open when looking up Operator Precedence in After Effects.", "keywords": ["Operator Precedence"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

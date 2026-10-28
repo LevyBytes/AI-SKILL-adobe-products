@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "CONVERT_TO_BEVELED_RECTANGLE", "file": "document-model/convert-shape-options/converttobeveledrectangle.md", "summary": "Open when looking up CONVERT_TO_BEVELED_RECTANGLE in InDesign.", "keywords": ["CONVERT_TO_BEVELED_RECTANGLE"]},
+  {"topic": "CONVERT_TO_CLOSED_PATH", "file": "document-model/convert-shape-options/converttoclosedpath.md", "summary": "Open when looking up CONVERT_TO_CLOSED_PATH in InDesign.", "keywords": ["CONVERT_TO_CLOSED_PATH"]},
+  {"topic": "CONVERT_TO_INVERSE_ROUNDED_RECTANGLE", "file": "document-model/convert-shape-options/converttoinverseroundedrectangle.md", "summary": "Open when looking up CONVERT_TO_INVERSE_ROUNDED_RECTANGLE in InDesign.", "keywords": ["CONVERT_TO_INVERSE_ROUNDED_RECTANGLE"]},
+  {"topic": "CONVERT_TO_LINE", "file": "document-model/convert-shape-options/converttoline.md", "summary": "Open when looking up CONVERT_TO_LINE in InDesign.", "keywords": ["CONVERT_TO_LINE"]},
+  {"topic": "CONVERT_TO_OPEN_PATH", "file": "document-model/convert-shape-options/converttoopenpath.md", "summary": "Open when looking up CONVERT_TO_OPEN_PATH in InDesign.", "keywords": ["CONVERT_TO_OPEN_PATH"]},
+  {"topic": "CONVERT_TO_OVAL", "file": "document-model/convert-shape-options/converttooval.md", "summary": "Open when looking up CONVERT_TO_OVAL in InDesign.", "keywords": ["CONVERT_TO_OVAL"]},
+  {"topic": "CONVERT_TO_POLYGON", "file": "document-model/convert-shape-options/converttopolygon.md", "summary": "Open when looking up CONVERT_TO_POLYGON in InDesign.", "keywords": ["CONVERT_TO_POLYGON"]},
+  {"topic": "CONVERT_TO_RECTANGLE", "file": "document-model/convert-shape-options/converttorectangle.md", "summary": "Open when looking up CONVERT_TO_RECTANGLE in InDesign.", "keywords": ["CONVERT_TO_RECTANGLE"]},
+  {"topic": "CONVERT_TO_ROUNDED_RECTANGLE", "file": "document-model/convert-shape-options/converttoroundedrectangle.md", "summary": "Open when looking up CONVERT_TO_ROUNDED_RECTANGLE in InDesign.", "keywords": ["CONVERT_TO_ROUNDED_RECTANGLE"]},
+  {"topic": "CONVERT_TO_STRAIGHT_LINE", "file": "document-model/convert-shape-options/converttostraightline.md", "summary": "Open when looking up CONVERT_TO_STRAIGHT_LINE in InDesign.", "keywords": ["CONVERT_TO_STRAIGHT_LINE"]},
+  {"topic": "CONVERT_TO_TRIANGLE", "file": "document-model/convert-shape-options/converttotriangle.md", "summary": "Open when looking up CONVERT_TO_TRIANGLE in InDesign.", "keywords": ["CONVERT_TO_TRIANGLE"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "INSIDE_PATH", "file": "references/document-model/arrow-head-alignment-enum/insidepath.md", "summary": "Open when looking up INSIDE_PATH in InDesign.", "keywords": ["INSIDE_PATH"]},
-  {"topic": "OUTSIDE_PATH", "file": "references/document-model/arrow-head-alignment-enum/outsidepath.md", "summary": "Open when looking up OUTSIDE_PATH in InDesign.", "keywords": ["OUTSIDE_PATH"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

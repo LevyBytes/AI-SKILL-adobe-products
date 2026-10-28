@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "audition", "topics": [
-  {"topic": "Creating Podcasts", "file": "references/desktop/podcasts/creating-podcasts.md", "summary": "Open when looking up Creating Podcasts in Audition.", "keywords": ["Creating Podcasts"]},
-  {"topic": "Creating Podcasts references", "file": "references/desktop/podcasts/creating-podcasts/reference-index.md", "summary": "Open when looking up Creating Podcasts in Audition.", "keywords": ["Creating Podcasts references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

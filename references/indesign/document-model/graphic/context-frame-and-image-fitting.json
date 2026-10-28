@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "imageTypeName", "file": "document-model/graphic/image-type-name.md", "summary": "Open when looking up imageTypeName in InDesign.", "keywords": ["imageTypeName"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

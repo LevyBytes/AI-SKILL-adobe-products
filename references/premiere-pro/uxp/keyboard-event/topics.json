@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "window.KeyboardEvent - KeyboardEvent(type, eventInit)", "file": "uxp/keyboard-event/constructor.md", "summary": "Open when looking up window.KeyboardEvent - KeyboardEvent(type, eventInit) in Premiere Pro.", "keywords": ["window.KeyboardEvent - KeyboardEvent(type, eventInit)"]},
+  {"topic": "window.KeyboardEvent - getModifierState(keyArgs)", "file": "uxp/keyboard-event/get-modifier-state.md", "summary": "Open when looking up window.KeyboardEvent - getModifierState(keyArgs).", "keywords": ["window.KeyboardEvent - getModifierState(keyArgs)"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

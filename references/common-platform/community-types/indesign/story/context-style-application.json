@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Story.appliedCharacterStyle", "file": "community-types/indesign/story/applied-character-style.md", "summary": "Open when looking up Story.appliedCharacterStyle in Shared Adobe platform.", "keywords": ["Story.appliedCharacterStyle"]},
+  {"topic": "Story.appliedNestedStyles", "file": "community-types/indesign/story/applied-nested-styles.md", "summary": "Open when looking up Story.appliedNestedStyles in Shared Adobe platform.", "keywords": ["Story.appliedNestedStyles"]},
+  {"topic": "Story.appliedParagraphStyle", "file": "community-types/indesign/story/applied-paragraph-style.md", "summary": "Open when looking up Story.appliedParagraphStyle in Shared Adobe platform.", "keywords": ["Story.appliedParagraphStyle"]},
+  {"topic": "Story.charStyleMappings", "file": "community-types/indesign/story/char-style-mappings.md", "summary": "Open when looking up Story.charStyleMappings in Shared Adobe platform.", "keywords": ["Story.charStyleMappings"]},
+  {"topic": "Story.nestedGrepStyles", "file": "community-types/indesign/story/nested-grep-styles.md", "summary": "Open when looking up Story.nestedGrepStyles in Shared Adobe platform.", "keywords": ["Story.nestedGrepStyles"]},
+  {"topic": "Story.nestedLineStyles", "file": "community-types/indesign/story/nested-line-styles.md", "summary": "Open when looking up Story.nestedLineStyles in Shared Adobe platform.", "keywords": ["Story.nestedLineStyles"]},
+  {"topic": "Story.nestedStyles", "file": "community-types/indesign/story/nested-styles.md", "summary": "Open when looking up Story.nestedStyles in Shared Adobe platform.", "keywords": ["Story.nestedStyles"]},
+  {"topic": "Story.paraStyleMappings", "file": "community-types/indesign/story/para-style-mappings.md", "summary": "Open when looking up Story.paraStyleMappings in Shared Adobe platform.", "keywords": ["Story.paraStyleMappings"]},
+  {"topic": "Story.styleOverridden", "file": "community-types/indesign/story/style-overridden.md", "summary": "Open when looking up Story.styleOverridden in Shared Adobe platform.", "keywords": ["Story.styleOverridden"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

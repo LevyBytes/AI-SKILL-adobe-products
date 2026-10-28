@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "pointer-capture.html", "file": "references/uxp/examples/pointer-capture/pointer-capture.html", "summary": "Open when looking up pointer-capture.html in InDesign.", "keywords": ["pointer-capture.html"]},
-  {"topic": "pointer-capture.js", "file": "references/uxp/examples/pointer-capture/pointer-capture.js", "summary": "Open when looking up pointer-capture.js in InDesign.", "keywords": ["pointer-capture.js"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

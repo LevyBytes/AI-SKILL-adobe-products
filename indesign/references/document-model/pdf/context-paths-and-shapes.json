@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "convertShape", "file": "references/document-model/pdf/convert-shape.md", "summary": "Open when looking up convertShape in InDesign.", "keywords": ["convertShape"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

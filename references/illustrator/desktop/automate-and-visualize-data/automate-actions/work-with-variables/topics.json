@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Create a variable without binding it to an object", "file": "desktop/automate-and-visualize-data/automate-actions/work-with-variables/create-a-variable-without-binding-it-to-an-object.md", "summary": "Open when looking up Create a variable without binding it to an object in Illustrator.", "keywords": ["Create a variable without binding it to an object"]},
+  {"topic": "Define variables", "file": "desktop/automate-and-visualize-data/automate-actions/work-with-variables/define-variables.md", "summary": "Open when looking up Define variables in Illustrator.", "keywords": ["Define variables"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

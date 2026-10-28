@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "WatermarkHorizontalPositionEnum", "file": "references/community-types/indesign/watermark-horizontal-position-enum.md", "summary": "Open when looking up WatermarkHorizontalPositionEnum in Shared Adobe platform.", "keywords": ["WatermarkHorizontalPositionEnum"]},
-  {"topic": "WatermarkPreference", "file": "references/community-types/indesign/watermark-preference.md", "summary": "Open when looking up WatermarkPreference in Shared Adobe platform.", "keywords": ["WatermarkPreference"]},
-  {"topic": "WatermarkVerticalPositionEnum", "file": "references/community-types/indesign/watermark-vertical-position-enum.md", "summary": "Open when looking up WatermarkVerticalPositionEnum in Shared Adobe platform.", "keywords": ["WatermarkVerticalPositionEnum"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

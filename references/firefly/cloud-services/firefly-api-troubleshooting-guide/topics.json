@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Solution:", "file": "cloud-services/firefly-api-troubleshooting-guide/solution.md", "summary": "Open when looking up Solution: in Firefly.", "keywords": ["Solution:"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

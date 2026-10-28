@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "window.alert()", "file": "references/uxp/dom/window/alert.md", "summary": "Open when looking up window.alert() in Premiere Pro.", "keywords": ["window.alert()"]},
-  {"topic": "window.confirm()", "file": "references/uxp/dom/window/confirm.md", "summary": "Open when looking up window.confirm() in Premiere Pro.", "keywords": ["window.confirm()"]},
-  {"topic": "window.getComputedStyle", "file": "references/uxp/dom/window/get-computed-style.md", "summary": "Open when looking up window.getComputedStyle in Premiere Pro.", "keywords": ["window.getComputedStyle"]},
-  {"topic": "window.prompt()", "file": "references/uxp/dom/window/prompt.md", "summary": "Open when looking up window.prompt() in Premiere Pro.", "keywords": ["window.prompt()"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

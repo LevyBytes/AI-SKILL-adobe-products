@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "error(message)", "file": "uxp/writable-stream-default-controller/error.md", "summary": "Open when looking up error(message) in Photoshop.", "keywords": ["error(message)"]},
+  {"topic": "signal : AbortSignal", "file": "uxp/writable-stream-default-controller/signal-abort-signal.md", "summary": "Open when looking up signal : AbortSignal in Photoshop.", "keywords": ["signal : AbortSignal"]},
+  {"topic": "window.WritableStreamDefaultController", "file": "uxp/writable-stream-default-controller/overview.md", "summary": "Open when looking up window.WritableStreamDefaultController in Photoshop.", "keywords": ["window.WritableStreamDefaultController"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

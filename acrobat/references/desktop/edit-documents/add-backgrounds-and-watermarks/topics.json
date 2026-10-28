@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Add backgrounds to PDFs", "file": "references/desktop/edit-documents/add-backgrounds-and-watermarks/add-backgrounds-to-pdfs.md", "summary": "Open when looking up Add backgrounds to PDFs in Acrobat.", "keywords": ["Add backgrounds to PDFs"]},
-  {"topic": "Add watermarks to PDFs", "file": "references/desktop/edit-documents/add-backgrounds-and-watermarks/add-watermarks-to-pdfs.md", "summary": "Open when looking up Add watermarks to PDFs in Acrobat.", "keywords": ["Add watermarks to PDFs"]},
-  {"topic": "Remove watermarks", "file": "references/desktop/edit-documents/add-backgrounds-and-watermarks/remove-watermarks.md", "summary": "Open when looking up Remove watermarks in Acrobat.", "keywords": ["Remove watermarks"]},
-  {"topic": "Update backgrounds in PDFs", "file": "references/desktop/edit-documents/add-backgrounds-and-watermarks/update-backgrounds-in-pdfs.md", "summary": "Open when looking up Update backgrounds in PDFs in Acrobat.", "keywords": ["Update backgrounds in PDFs"]},
-  {"topic": "Update watermarks", "file": "references/desktop/edit-documents/add-backgrounds-and-watermarks/update-watermarks.md", "summary": "Open when looking up Update watermarks in Acrobat.", "keywords": ["Update watermarks"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

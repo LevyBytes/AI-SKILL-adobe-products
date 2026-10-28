@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Available metadata fields", "file": "desktop/get-started/source-and-program-monitors/display-metadata-as-overlays/available-metadata-fields.md", "summary": "Open when looking up Available metadata fields in Premiere Pro.", "keywords": ["Available metadata fields"]},
+  {"topic": "Edit point and media indicators", "file": "desktop/get-started/source-and-program-monitors/display-metadata-as-overlays/edit-point-and-media-indicators.md", "summary": "Open when looking up Edit point and media indicators in Premiere Pro.", "keywords": ["Edit point and media indicators"]},
+  {"topic": "Multi-Camera view display", "file": "desktop/get-started/source-and-program-monitors/display-metadata-as-overlays/multi-camera-view-display.md", "summary": "Open when looking up Multi-Camera view display in Premiere Pro.", "keywords": ["Multi-Camera view display"]},
+  {"topic": "Overlay placement zones", "file": "desktop/get-started/source-and-program-monitors/display-metadata-as-overlays/overlay-placement-zones.md", "summary": "Open when looking up Overlay placement zones in Premiere Pro.", "keywords": ["Overlay placement zones"]},
+  {"topic": "Overlay presets", "file": "desktop/get-started/source-and-program-monitors/display-metadata-as-overlays/overlay-presets.md", "summary": "Open when looking up Overlay presets in Premiere Pro.", "keywords": ["Overlay presets"]},
+  {"topic": "Settings for safe margins", "file": "desktop/get-started/source-and-program-monitors/display-metadata-as-overlays/settings-for-safe-margins.md", "summary": "Open when looking up Settings for safe margins in Premiere Pro.", "keywords": ["Settings for safe margins"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

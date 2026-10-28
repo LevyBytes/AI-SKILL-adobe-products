@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "INTERACT_WITH_ALERTS", "file": "references/document-model/user-interaction-levels/interactwithalerts.md", "summary": "Open when looking up INTERACT_WITH_ALERTS in InDesign.", "keywords": ["INTERACT_WITH_ALERTS"]},
-  {"topic": "INTERACT_WITH_ALL", "file": "references/document-model/user-interaction-levels/interactwithall.md", "summary": "Open when looking up INTERACT_WITH_ALL in InDesign.", "keywords": ["INTERACT_WITH_ALL"]},
-  {"topic": "NEVER_INTERACT", "file": "references/document-model/user-interaction-levels/neverinteract.md", "summary": "Open when looking up NEVER_INTERACT in InDesign.", "keywords": ["NEVER_INTERACT"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

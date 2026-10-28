@@ -1,0 +1,19 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "allPrinterMarks", "file": "document-model/print-preference/all-printer-marks.md", "summary": "Open when looking up allPrinterMarks in InDesign.", "keywords": ["allPrinterMarks"]},
+  {"topic": "bleedBottom", "file": "document-model/print-preference/bleed-bottom.md", "summary": "Open when looking up bleedBottom in InDesign.", "keywords": ["bleedBottom"]},
+  {"topic": "bleedChain", "file": "document-model/print-preference/bleed-chain.md", "summary": "Open when looking up bleedChain in InDesign.", "keywords": ["bleedChain"]},
+  {"topic": "bleedInside", "file": "document-model/print-preference/bleed-inside.md", "summary": "Open when looking up bleedInside in InDesign.", "keywords": ["bleedInside"]},
+  {"topic": "bleedMarks", "file": "document-model/print-preference/bleed-marks.md", "summary": "Open when looking up bleedMarks in InDesign.", "keywords": ["bleedMarks"]},
+  {"topic": "bleedOutside", "file": "document-model/print-preference/bleed-outside.md", "summary": "Open when looking up bleedOutside in InDesign.", "keywords": ["bleedOutside"]},
+  {"topic": "bleedTop", "file": "document-model/print-preference/bleed-top.md", "summary": "Open when looking up bleedTop in InDesign.", "keywords": ["bleedTop"]},
+  {"topic": "colorBars", "file": "document-model/print-preference/color-bars.md", "summary": "Open when looking up colorBars in InDesign.", "keywords": ["colorBars"]},
+  {"topic": "cropMarks", "file": "document-model/print-preference/crop-marks.md", "summary": "Open when looking up cropMarks in InDesign.", "keywords": ["cropMarks"]},
+  {"topic": "includeSlugToPrint", "file": "document-model/print-preference/include-slug-to-print.md", "summary": "Open when looking up includeSlugToPrint in InDesign.", "keywords": ["includeSlugToPrint"]},
+  {"topic": "markLineWeight", "file": "document-model/print-preference/mark-line-weight.md", "summary": "Open when looking up markLineWeight in InDesign.", "keywords": ["markLineWeight"]},
+  {"topic": "markOffset", "file": "document-model/print-preference/mark-offset.md", "summary": "Open when looking up markOffset in InDesign.", "keywords": ["markOffset"]},
+  {"topic": "markType", "file": "document-model/print-preference/mark-type.md", "summary": "Open when looking up markType in InDesign.", "keywords": ["markType"]},
+  {"topic": "pageInformationMarks", "file": "document-model/print-preference/page-information-marks.md", "summary": "Open when looking up pageInformationMarks in InDesign.", "keywords": ["pageInformationMarks"]},
+  {"topic": "registrationMarks", "file": "document-model/print-preference/registration-marks.md", "summary": "Open when looking up registrationMarks in InDesign.", "keywords": ["registrationMarks"]},
+  {"topic": "useDocumentBleedToPrint", "file": "document-model/print-preference/use-document-bleed-to-print.md", "summary": "Open when looking up useDocumentBleedToPrint in InDesign.", "keywords": ["useDocumentBleedToPrint"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

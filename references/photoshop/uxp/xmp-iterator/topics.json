@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "next()", "file": "uxp/xmp-iterator/next.md", "summary": "Open when looking up next() in Photoshop.", "keywords": ["next()"]},
+  {"topic": "skipSiblings()", "file": "uxp/xmp-iterator/skip-siblings.md", "summary": "Open when looking up skipSiblings() in Photoshop.", "keywords": ["skipSiblings()"]},
+  {"topic": "skipSubtree()", "file": "uxp/xmp-iterator/skip-subtree.md", "summary": "Open when looking up skipSubtree() in Photoshop.", "keywords": ["skipSubtree()"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

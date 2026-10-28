@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Backup preferences", "file": "desktop/get-started/settings-and-preferences/backup-and-restore-preferences/backup-preferences.md", "summary": "Open when looking up Backup preferences in Photoshop.", "keywords": ["Backup preferences"]},
+  {"topic": "Restore preferences from backup", "file": "desktop/get-started/settings-and-preferences/backup-and-restore-preferences/restore-preferences-from-backup.md", "summary": "Open when looking up Restore preferences from backup in Photoshop.", "keywords": ["Restore preferences from backup"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

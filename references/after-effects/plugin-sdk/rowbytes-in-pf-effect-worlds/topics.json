@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "PF_EffectWorld / PF_LayerDef - Rowbytes In PF_EffectWorlds", "file": "plugin-sdk/rowbytes-in-pf-effect-worlds/pf-effect-world-pf-layer-def-rowbytes-in-pf-effect-worlds.md", "summary": "Open when looking up PF_EffectWorld / PF_LayerDef - Rowbytes In PF_EffectWorlds in After Effects.", "keywords": ["PF_EffectWorld / PF_LayerDef - Rowbytes In PF_EffectWorlds"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

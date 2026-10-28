@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "ArticleMember declaration", "file": "community-types/indesign/article-member/declaration.md", "summary": "Open when looking up ArticleMember declaration in Shared Adobe platform.", "keywords": ["ArticleMember declaration"]},
+  {"topic": "ArticleMember event listeners", "file": "community-types/indesign/article-member/event-listeners.md", "summary": "Open when looking up ArticleMember event listeners in Shared Adobe platform.", "keywords": ["ArticleMember event listeners"]},
+  {"topic": "ArticleMember identity and parent", "file": "community-types/indesign/article-member/identity-and-parent.md", "summary": "Open when looking up ArticleMember identity and parent in Shared Adobe platform.", "keywords": ["ArticleMember identity and parent"]},
+  {"topic": "ArticleMember object lifecycle", "file": "community-types/indesign/article-member/object-lifecycle.md", "summary": "Open when looking up ArticleMember object lifecycle in Shared Adobe platform.", "keywords": ["ArticleMember object lifecycle"]},
+  {"topic": "ArticleMember object resolution", "file": "community-types/indesign/article-member/object-resolution.md", "summary": "Open when looking up ArticleMember object resolution in Shared Adobe platform.", "keywords": ["ArticleMember object resolution"]},
+  {"topic": "ArticleMember.itemRef", "file": "community-types/indesign/article-member/item-ref.md", "summary": "Open when looking up ArticleMember.itemRef in Shared Adobe platform.", "keywords": ["ArticleMember.itemRef"]},
+  {"topic": "ArticleMember.properties", "file": "community-types/indesign/article-member/properties.md", "summary": "Open when looking up ArticleMember.properties in Shared Adobe platform.", "keywords": ["ArticleMember.properties"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

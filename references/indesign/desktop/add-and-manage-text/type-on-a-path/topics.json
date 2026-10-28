@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Add or delete type on path", "file": "desktop/add-and-manage-text/type-on-a-path/add-or-delete-type-on-path.md", "summary": "Open when looking up Add or delete type on path in InDesign.", "keywords": ["Add or delete type on path"]},
+  {"topic": "Add or delete type on path references", "file": "desktop/add-and-manage-text/type-on-a-path/add-or-delete-type-on-path/reference-index.md", "summary": "Open when looking up Add or delete type on path in InDesign.", "keywords": ["Add or delete type on path references"]},
+  {"topic": "Apply effects to type on path", "file": "desktop/add-and-manage-text/type-on-a-path/apply-effects-to-type-on-path.md", "summary": "Open when looking up Apply effects to type on path in InDesign.", "keywords": ["Apply effects to type on path"]},
+  {"topic": "Apply effects to type on path references", "file": "desktop/add-and-manage-text/type-on-a-path/apply-effects-to-type-on-path/reference-index.md", "summary": "Open when looking up Apply effects to type on path in InDesign.", "keywords": ["Apply effects to type on path references"]},
+  {"topic": "Edit type on path", "file": "desktop/add-and-manage-text/type-on-a-path/edit-type-on-path.md", "summary": "Open when looking up Edit type on path in InDesign.", "keywords": ["Edit type on path"]},
+  {"topic": "Edit type on path references", "file": "desktop/add-and-manage-text/type-on-a-path/edit-type-on-path/reference-index.md", "summary": "Open when looking up Edit type on path in InDesign.", "keywords": ["Edit type on path references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Advantages of Smart Objects", "file": "desktop/layers/smart-objects/smart-objects-overview-and-benefits/advantages-of-smart-objects.md", "summary": "Open when looking up Advantages of Smart Objects in Photoshop.", "keywords": ["Advantages of Smart Objects"]},
+  {"topic": "Limitations of Smart Objects", "file": "desktop/layers/smart-objects/smart-objects-overview-and-benefits/limitations-of-smart-objects.md", "summary": "Open when looking up Limitations of Smart Objects in Photoshop.", "keywords": ["Limitations of Smart Objects"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

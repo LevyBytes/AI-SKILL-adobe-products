@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "1. Install wasm-pack", "file": "plugin-samples/configuration-rust-environment/install-wasm-pack.md", "summary": "Open when looking up 1. Install wasm-pack in Photoshop.", "keywords": ["1. Install wasm-pack"]},
+  {"topic": "2. Test local Rust configuration and wasm-pack installation", "file": "plugin-samples/configuration-rust-environment/test-local-rust-configuration-and-wasm-pack-installation.md", "summary": "Open when looking up 2. Test local Rust configuration and wasm-pack installation in Photoshop.", "keywords": ["2. Test local Rust configuration and wasm-pack installation"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

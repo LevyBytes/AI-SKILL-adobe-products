@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Document.imageCapture()", "file": "references/scripting/document/image-capture.md", "summary": "Open when looking up Document.imageCapture() in Illustrator.", "keywords": ["Document.imageCapture()"]},
-  {"topic": "Document.placedItems", "file": "references/scripting/document/placed-items.md", "summary": "Open when looking up Document.placedItems in Illustrator.", "keywords": ["Document.placedItems"]},
-  {"topic": "Document.rasterItems", "file": "references/scripting/document/raster-items.md", "summary": "Open when looking up Document.rasterItems in Illustrator.", "keywords": ["Document.rasterItems"]},
-  {"topic": "Document.rasterize()", "file": "references/scripting/document/rasterize.md", "summary": "Open when looking up Document.rasterize() in Illustrator.", "keywords": ["Document.rasterize()"]},
-  {"topic": "Document.rasterEffectSettings", "file": "references/scripting/document/raster-effect-settings.md", "summary": "Open when looking up Document.rasterEffectSettings in Illustrator.", "keywords": ["Document.rasterEffectSettings"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

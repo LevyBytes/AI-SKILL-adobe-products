@@ -1,0 +1,18 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "addEventListener", "file": "document-model/article-member/add-event-listener.md", "summary": "Open when looking up addEventListener in InDesign.", "keywords": ["addEventListener"]},
+  {"topic": "eventListeners", "file": "document-model/article-member/event-listeners.md", "summary": "Open when looking up eventListeners in InDesign.", "keywords": ["eventListeners"]},
+  {"topic": "events", "file": "document-model/article-member/events.md", "summary": "Open when looking up events in InDesign.", "keywords": ["events"]},
+  {"topic": "getElements", "file": "document-model/article-member/get-elements.md", "summary": "Open when looking up getElements in InDesign.", "keywords": ["getElements"]},
+  {"topic": "id", "file": "document-model/article-member/id.md", "summary": "Open when looking up id in InDesign.", "keywords": ["id"]},
+  {"topic": "index", "file": "document-model/article-member/index.md", "summary": "Open when looking up index in InDesign.", "keywords": ["index"]},
+  {"topic": "isValid", "file": "document-model/article-member/is-valid.md", "summary": "Open when looking up isValid in InDesign.", "keywords": ["isValid"]},
+  {"topic": "itemRef", "file": "document-model/article-member/item-ref.md", "summary": "Open when looking up itemRef in InDesign.", "keywords": ["itemRef"]},
+  {"topic": "move", "file": "document-model/article-member/move.md", "summary": "Open when looking up move in InDesign.", "keywords": ["move"]},
+  {"topic": "parent", "file": "document-model/article-member/parent.md", "summary": "Open when looking up parent in InDesign.", "keywords": ["parent"]},
+  {"topic": "properties", "file": "document-model/article-member/properties.md", "summary": "Open when looking up properties in InDesign.", "keywords": ["properties"]},
+  {"topic": "remove", "file": "document-model/article-member/remove.md", "summary": "Open when looking up remove in InDesign.", "keywords": ["remove"]},
+  {"topic": "removeEventListener", "file": "document-model/article-member/remove-event-listener.md", "summary": "Open when looking up removeEventListener in InDesign.", "keywords": ["removeEventListener"]},
+  {"topic": "toSource", "file": "document-model/article-member/to-source.md", "summary": "Open when looking up toSource in InDesign.", "keywords": ["toSource"]},
+  {"topic": "toSpecifier", "file": "document-model/article-member/to-specifier.md", "summary": "Open when looking up toSpecifier in InDesign.", "keywords": ["toSpecifier"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

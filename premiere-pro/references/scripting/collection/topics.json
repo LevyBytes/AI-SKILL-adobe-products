@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Collection object", "file": "references/scripting/collection/collection-object.md", "summary": "Open when looking up Collection object in Premiere Pro.", "keywords": ["Collection object"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Audio-Specific Float Slider Variables", "file": "plugin-sdk/audio-specific-float-slider-variables.md", "summary": "Open when looking up Audio-Specific Float Slider Variables in After Effects.", "keywords": ["Audio-Specific Float Slider Variables"]},
+  {"topic": "Curve tolerance references", "file": "plugin-sdk/curve-tolerance/reference-index.md", "summary": "Open when looking up Curve tolerance in After Effects.", "keywords": ["Curve tolerance references"]},
+  {"topic": "Flags references", "file": "plugin-sdk/flags/reference-index.md", "summary": "Open when looking up Flags in After Effects.", "keywords": ["Flags references"]},
+  {"topic": "Phase references", "file": "plugin-sdk/phase/reference-index.md", "summary": "Open when looking up Phase in After Effects.", "keywords": ["Phase references"]},
+  {"topic": "What s zero really references", "file": "plugin-sdk/what-s-zero-really/reference-index.md", "summary": "Open when looking up What s zero really in After Effects.", "keywords": ["What s zero really references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Grid Repeat", "file": "desktop/paint-and-fill/create-and-edit-patterns/repeat-patterns-overview/grid-repeat.md", "summary": "Open when looking up Grid Repeat in Illustrator.", "keywords": ["Grid Repeat"]},
+  {"topic": "Mirror Repeat", "file": "desktop/paint-and-fill/create-and-edit-patterns/repeat-patterns-overview/mirror-repeat.md", "summary": "Open when looking up Mirror Repeat in Illustrator.", "keywords": ["Mirror Repeat"]},
+  {"topic": "Radial Repeat", "file": "desktop/paint-and-fill/create-and-edit-patterns/repeat-patterns-overview/radial-repeat.md", "summary": "Open when looking up Radial Repeat in Illustrator.", "keywords": ["Radial Repeat"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

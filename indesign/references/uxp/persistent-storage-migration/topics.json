@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Import Previous Settings and Preferences", "file": "references/uxp/persistent-storage-migration/import-previous-settings-and-preferences.md", "summary": "Open when looking up Import Previous Settings and Preferences in InDesign.", "keywords": ["Import Previous Settings and Preferences"]},
-  {"topic": "Specifying plugin data using Local File Storage", "file": "references/uxp/persistent-storage-migration/specifying-plugin-data-using-local-file-storage.md", "summary": "Open when looking up Specifying plugin data using Local File Storage in InDesign.", "keywords": ["Specifying plugin data using Local File Storage"]},
-  {"topic": "System requirements", "file": "references/uxp/persistent-storage-migration/system-requirements.md", "summary": "Open when looking up System requirements in InDesign.", "keywords": ["System requirements"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

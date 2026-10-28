@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "View custom fonts", "file": "desktop/text-and-typography/fonts/view-custom-fonts.md", "summary": "Open when looking up View custom fonts in InDesign.", "keywords": ["View custom fonts"]},
+  {"topic": "View custom fonts references", "file": "desktop/text-and-typography/fonts/view-custom-fonts/reference-index.md", "summary": "Open when looking up View custom fonts in InDesign.", "keywords": ["View custom fonts references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

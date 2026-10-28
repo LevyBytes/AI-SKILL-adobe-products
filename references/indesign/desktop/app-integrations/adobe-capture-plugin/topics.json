@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Create shapes", "file": "desktop/app-integrations/adobe-capture-plugin/create-shapes.md", "summary": "Open when looking up Create shapes in InDesign.", "keywords": ["Create shapes"]},
+  {"topic": "Extract and match fonts from images", "file": "desktop/app-integrations/adobe-capture-plugin/extract-and-match-fonts-from-images.md", "summary": "Open when looking up Extract and match fonts from images in InDesign.", "keywords": ["Extract and match fonts from images"]},
+  {"topic": "Extract and save color themes", "file": "desktop/app-integrations/adobe-capture-plugin/extract-and-save-color-themes.md", "summary": "Open when looking up Extract and save color themes in InDesign.", "keywords": ["Extract and save color themes"]},
+  {"topic": "Open Capture panel", "file": "desktop/app-integrations/adobe-capture-plugin/open-capture-panel.md", "summary": "Open when looking up Open Capture panel in InDesign.", "keywords": ["Open Capture panel"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

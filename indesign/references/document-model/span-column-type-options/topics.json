@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "SINGLE_COLUMN", "file": "references/document-model/span-column-type-options/singlecolumn.md", "summary": "Open when looking up SINGLE_COLUMN in InDesign.", "keywords": ["SINGLE_COLUMN"]},
-  {"topic": "SPAN_COLUMNS", "file": "references/document-model/span-column-type-options/spancolumns.md", "summary": "Open when looking up SPAN_COLUMNS in InDesign.", "keywords": ["SPAN_COLUMNS"]},
-  {"topic": "SPLIT_COLUMNS", "file": "references/document-model/span-column-type-options/splitcolumns.md", "summary": "Open when looking up SPLIT_COLUMNS in InDesign.", "keywords": ["SPLIT_COLUMNS"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

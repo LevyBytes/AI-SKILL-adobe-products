@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Action file not found", "file": "references/cloud-services/actions-migration/common-migration-issues/action-file-not-found.md", "summary": "Open when looking up Action file not found in Photoshop.", "keywords": ["Action file not found"]},
-  {"topic": "Additional contents not working", "file": "references/cloud-services/actions-migration/common-migration-issues/additional-contents-not-working.md", "summary": "Open when looking up Additional contents not working in Photoshop.", "keywords": ["Additional contents not working"]},
-  {"topic": "Invalid contentType", "file": "references/cloud-services/actions-migration/common-migration-issues/invalid-content-type.md", "summary": "Open when looking up Invalid contentType in Photoshop.", "keywords": ["Invalid contentType"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Mojikumi and text composition", "file": "references/desktop/language-and-proofing/cjk-typography/about-mojikumi-and-yakumono-in-japanese-layout/mojikumi-and-text-composition.md", "summary": "Open when looking up Mojikumi and text composition in InDesign.", "keywords": ["Mojikumi and text composition"]},
-  {"topic": "Mojikumi spacing controls", "file": "references/desktop/language-and-proofing/cjk-typography/about-mojikumi-and-yakumono-in-japanese-layout/mojikumi-spacing-controls.md", "summary": "Open when looking up Mojikumi spacing controls in InDesign.", "keywords": ["Mojikumi spacing controls"]},
-  {"topic": "Spacing values", "file": "references/desktop/language-and-proofing/cjk-typography/about-mojikumi-and-yakumono-in-japanese-layout/spacing-values.md", "summary": "Open when looking up Spacing values in InDesign.", "keywords": ["Spacing values"]},
-  {"topic": "Yakumono classification", "file": "references/desktop/language-and-proofing/cjk-typography/about-mojikumi-and-yakumono-in-japanese-layout/yakumono-classification.md", "summary": "Open when looking up Yakumono classification in InDesign.", "keywords": ["Yakumono classification"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

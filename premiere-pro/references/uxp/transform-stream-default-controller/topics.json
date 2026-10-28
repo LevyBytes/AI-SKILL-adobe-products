@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "desiredSize : number", "file": "references/uxp/transform-stream-default-controller/desired-size-number.md", "summary": "Open when looking up desiredSize : number in Premiere Pro.", "keywords": ["desiredSize : number"]},
-  {"topic": "enqueue(chunk)", "file": "references/uxp/transform-stream-default-controller/enqueue.md", "summary": "Open when looking up enqueue(chunk) in Premiere Pro.", "keywords": ["enqueue(chunk)"]},
-  {"topic": "error(reason)", "file": "references/uxp/transform-stream-default-controller/error.md", "summary": "Open when looking up error(reason) in Premiere Pro.", "keywords": ["error(reason)"]},
-  {"topic": "terminate()", "file": "references/uxp/transform-stream-default-controller/terminate.md", "summary": "Open when looking up terminate() in Premiere Pro.", "keywords": ["terminate()"]},
-  {"topic": "window.TransformStreamDefaultController", "file": "references/uxp/transform-stream-default-controller/overview.md", "summary": "Open when looking up window.TransformStreamDefaultController in Premiere Pro.", "keywords": ["window.TransformStreamDefaultController"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

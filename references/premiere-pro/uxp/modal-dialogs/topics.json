@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Commands with Modal Dialogs", "file": "uxp/modal-dialogs/commands-with-modal-dialogs.md", "summary": "Open when looking up Commands with Modal Dialogs in Premiere Pro.", "keywords": ["Commands with Modal Dialogs"]},
+  {"topic": "Panel Modal Dialog Patterns", "file": "uxp/modal-dialogs/panel-modal-dialog-patterns.md", "summary": "Open when looking up Panel Modal Dialog Patterns in Premiere Pro.", "keywords": ["Panel Modal Dialog Patterns"]},
+  {"topic": "Summary", "file": "uxp/modal-dialogs/summary.md", "summary": "Open when looking up Summary in Premiere Pro.", "keywords": ["Summary"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

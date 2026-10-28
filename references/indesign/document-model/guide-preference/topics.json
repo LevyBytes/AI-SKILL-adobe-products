@@ -1,0 +1,19 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "addEventListener", "file": "document-model/guide-preference/add-event-listener.md", "summary": "Open when looking up addEventListener in InDesign.", "keywords": ["addEventListener"]},
+  {"topic": "eventListeners", "file": "document-model/guide-preference/event-listeners.md", "summary": "Open when looking up eventListeners in InDesign.", "keywords": ["eventListeners"]},
+  {"topic": "events", "file": "document-model/guide-preference/events.md", "summary": "Open when looking up events in InDesign.", "keywords": ["events"]},
+  {"topic": "getElements", "file": "document-model/guide-preference/get-elements.md", "summary": "Open when looking up getElements in InDesign.", "keywords": ["getElements"]},
+  {"topic": "guidesInBack", "file": "document-model/guide-preference/guides-in-back.md", "summary": "Open when looking up guidesInBack in InDesign.", "keywords": ["guidesInBack"]},
+  {"topic": "guidesLocked", "file": "document-model/guide-preference/guides-locked.md", "summary": "Open when looking up guidesLocked in InDesign.", "keywords": ["guidesLocked"]},
+  {"topic": "guidesShown", "file": "document-model/guide-preference/guides-shown.md", "summary": "Open when looking up guidesShown in InDesign.", "keywords": ["guidesShown"]},
+  {"topic": "guidesSnapto", "file": "document-model/guide-preference/guides-snapto.md", "summary": "Open when looking up guidesSnapto in InDesign.", "keywords": ["guidesSnapto"]},
+  {"topic": "isValid", "file": "document-model/guide-preference/is-valid.md", "summary": "Open when looking up isValid in InDesign.", "keywords": ["isValid"]},
+  {"topic": "parent", "file": "document-model/guide-preference/parent.md", "summary": "Open when looking up parent in InDesign.", "keywords": ["parent"]},
+  {"topic": "properties", "file": "document-model/guide-preference/properties.md", "summary": "Open when looking up properties in InDesign.", "keywords": ["properties"]},
+  {"topic": "removeEventListener", "file": "document-model/guide-preference/remove-event-listener.md", "summary": "Open when looking up removeEventListener in InDesign.", "keywords": ["removeEventListener"]},
+  {"topic": "rulerGuidesColor", "file": "document-model/guide-preference/ruler-guides-color.md", "summary": "Open when looking up rulerGuidesColor in InDesign.", "keywords": ["rulerGuidesColor"]},
+  {"topic": "rulerGuidesViewThreshold", "file": "document-model/guide-preference/ruler-guides-view-threshold.md", "summary": "Open when looking up rulerGuidesViewThreshold in InDesign.", "keywords": ["rulerGuidesViewThreshold"]},
+  {"topic": "toSource", "file": "document-model/guide-preference/to-source.md", "summary": "Open when looking up toSource in InDesign.", "keywords": ["toSource"]},
+  {"topic": "toSpecifier", "file": "document-model/guide-preference/to-specifier.md", "summary": "Open when looking up toSpecifier in InDesign.", "keywords": ["toSpecifier"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

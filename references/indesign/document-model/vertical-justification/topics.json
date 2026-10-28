@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "BOTTOM_ALIGN", "file": "document-model/vertical-justification/bottomalign.md", "summary": "Open when looking up BOTTOM_ALIGN in InDesign.", "keywords": ["BOTTOM_ALIGN"]},
+  {"topic": "CENTER_ALIGN", "file": "document-model/vertical-justification/centeralign.md", "summary": "Open when looking up CENTER_ALIGN in InDesign.", "keywords": ["CENTER_ALIGN"]},
+  {"topic": "JUSTIFY_ALIGN", "file": "document-model/vertical-justification/justifyalign.md", "summary": "Open when looking up JUSTIFY_ALIGN in InDesign.", "keywords": ["JUSTIFY_ALIGN"]},
+  {"topic": "TOP_ALIGN", "file": "document-model/vertical-justification/topalign.md", "summary": "Open when looking up TOP_ALIGN in InDesign.", "keywords": ["TOP_ALIGN"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

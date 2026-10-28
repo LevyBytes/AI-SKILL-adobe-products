@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Find out how to sign in and reach the Acrobat on the web application.", "file": "web/access-acrobat-on-the-web/web-application-sign-in.md", "summary": "Open when looking up Find out how to sign in and reach the Acrobat on the web application. in Acrobat.", "keywords": ["Find out how to sign in and reach the Acrobat on the web application."]},
+  {"topic": "Install the browser app", "file": "web/access-acrobat-on-the-web/install-the-browser-app.md", "summary": "Open when looking up Install the browser app in Acrobat.", "keywords": ["Install the browser app"]},
+  {"topic": "Sign in", "file": "web/access-acrobat-on-the-web/sign-in.md", "summary": "Open when looking up Sign in in Acrobat.", "keywords": ["Sign in"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

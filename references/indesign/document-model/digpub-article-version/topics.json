@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "ALL", "file": "document-model/digpub-article-version/all.md", "summary": "Open when looking up ALL in InDesign.", "keywords": ["ALL"]},
+  {"topic": "ARTICLE", "file": "document-model/digpub-article-version/article.md", "summary": "Open when looking up ARTICLE in InDesign.", "keywords": ["ARTICLE"]},
+  {"topic": "PLUGIN", "file": "document-model/digpub-article-version/plugin.md", "summary": "Open when looking up PLUGIN in InDesign.", "keywords": ["PLUGIN"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Time object", "file": "scripting/time/time-object.md", "summary": "Open when looking up Time object in Premiere Pro.", "keywords": ["Time object"]},
+  {"topic": "Time.getFormatted()", "file": "scripting/time/get-formatted.md", "summary": "Open when looking up Time.getFormatted() in Premiere Pro.", "keywords": ["Time.getFormatted()"]},
+  {"topic": "Time.seconds", "file": "scripting/time/seconds.md", "summary": "Open when looking up Time.seconds in Premiere Pro.", "keywords": ["Time.seconds"]},
+  {"topic": "Time.setSecondsAsFraction()", "file": "scripting/time/set-seconds-as-fraction.md", "summary": "Open when looking up Time.setSecondsAsFraction() in Premiere Pro.", "keywords": ["Time.setSecondsAsFraction()"]},
+  {"topic": "Time.ticks", "file": "scripting/time/ticks.md", "summary": "Open when looking up Time.ticks in Premiere Pro.", "keywords": ["Time.ticks"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

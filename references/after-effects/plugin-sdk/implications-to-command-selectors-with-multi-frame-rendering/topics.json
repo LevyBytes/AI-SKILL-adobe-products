@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Multi-Frame Rendering in AE - Implications to Command Selectors with Multi-Frame Rendering", "file": "plugin-sdk/implications-to-command-selectors-with-multi-frame-rendering/implications-to-command-selectors-with-multi-frame-rendering.md", "summary": "Open when looking up Multi-Frame Rendering in AE - Implications to Command Selectors with Multi-Frame Rendering in After Effects.", "keywords": ["Multi-Frame Rendering in AE - Implications to Command Selectors with Multi-Frame Rendering"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

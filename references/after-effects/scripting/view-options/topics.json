@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "ViewOptions object", "file": "scripting/view-options/view-options-object.md", "summary": "Open when looking up ViewOptions object in After Effects.", "keywords": ["ViewOptions object"]},
+  {"topic": "ViewOptions.channels", "file": "scripting/view-options/channels.md", "summary": "Open when looking up ViewOptions.channels in After Effects.", "keywords": ["ViewOptions.channels"]},
+  {"topic": "ViewOptions.checkerboards", "file": "scripting/view-options/checkerboards.md", "summary": "Open when looking up ViewOptions.checkerboards in After Effects.", "keywords": ["ViewOptions.checkerboards"]},
+  {"topic": "ViewOptions.exposure", "file": "scripting/view-options/exposure.md", "summary": "Open when looking up ViewOptions.exposure in After Effects.", "keywords": ["ViewOptions.exposure"]},
+  {"topic": "ViewOptions.fastPreview", "file": "scripting/view-options/fast-preview.md", "summary": "Open when looking up ViewOptions.fastPreview in After Effects.", "keywords": ["ViewOptions.fastPreview"]},
+  {"topic": "ViewOptions.guidesLocked", "file": "scripting/view-options/guides-locked.md", "summary": "Open when looking up ViewOptions.guidesLocked in After Effects.", "keywords": ["ViewOptions.guidesLocked"]},
+  {"topic": "ViewOptions.guidesSnap", "file": "scripting/view-options/guides-snap.md", "summary": "Open when looking up ViewOptions.guidesSnap in After Effects.", "keywords": ["ViewOptions.guidesSnap"]},
+  {"topic": "ViewOptions.guidesVisibility", "file": "scripting/view-options/guides-visibility.md", "summary": "Open when looking up ViewOptions.guidesVisibility in After Effects.", "keywords": ["ViewOptions.guidesVisibility"]},
+  {"topic": "ViewOptions.rulers", "file": "scripting/view-options/rulers.md", "summary": "Open when looking up ViewOptions.rulers in After Effects.", "keywords": ["ViewOptions.rulers"]},
+  {"topic": "ViewOptions.zoom", "file": "scripting/view-options/zoom.md", "summary": "Open when looking up ViewOptions.zoom in After Effects.", "keywords": ["ViewOptions.zoom"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

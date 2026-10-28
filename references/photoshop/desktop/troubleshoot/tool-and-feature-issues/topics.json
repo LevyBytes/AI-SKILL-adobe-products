@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Keyboard shortcuts not working", "file": "desktop/troubleshoot/tool-and-feature-issues/keyboard-shortcuts-not-working.md", "summary": "Open when looking up Keyboard shortcuts not working in Photoshop.", "keywords": ["Keyboard shortcuts not working"]},
+  {"topic": "Keyboard shortcuts not working references", "file": "desktop/troubleshoot/tool-and-feature-issues/keyboard-shortcuts-not-working/reference-index.md", "summary": "Open when looking up Keyboard shortcuts not working in Photoshop.", "keywords": ["Keyboard shortcuts not working references"]},
+  {"topic": "Photoshop crashes while using bullets and numbers", "file": "desktop/troubleshoot/tool-and-feature-issues/photoshop-crashes-while-using-bullets-and-numbers.md", "summary": "Open when looking up Photoshop crashes while using bullets and numbers in Photoshop.", "keywords": ["Photoshop crashes while using bullets and numbers"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

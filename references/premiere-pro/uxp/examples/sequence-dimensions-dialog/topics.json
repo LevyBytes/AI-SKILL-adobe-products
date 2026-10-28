@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "dialog-elements.js", "file": "uxp/examples/sequence-dimensions-dialog/dialog-elements.js", "summary": "Open when looking up dialog-elements.js in Premiere Pro.", "keywords": ["dialog-elements.js"]},
+  {"topic": "dialog-input.js", "file": "uxp/examples/sequence-dimensions-dialog/dialog-input.js", "summary": "Open when looking up dialog-input.js in Premiere Pro.", "keywords": ["dialog-input.js"]},
+  {"topic": "Fragments references", "file": "uxp/examples/sequence-dimensions-dialog/fragments/reference-index.md", "summary": "Open when looking up Fragments in Premiere Pro.", "keywords": ["Fragments references"]},
+  {"topic": "index.html", "file": "uxp/examples/sequence-dimensions-dialog/index.html", "summary": "Open when looking up index.html in Premiere Pro.", "keywords": ["index.html"]},
+  {"topic": "main.js", "file": "uxp/examples/sequence-dimensions-dialog/main.js", "summary": "Open when looking up main.js in Premiere Pro.", "keywords": ["main.js"]},
+  {"topic": "Sequence dimensions dialog", "file": "uxp/examples/sequence-dimensions-dialog/example-guide.md", "summary": "Open when looking up Sequence dimensions dialog in Premiere Pro.", "keywords": ["Sequence dimensions dialog"]},
+  {"topic": "settings.js", "file": "uxp/examples/sequence-dimensions-dialog/settings.js", "summary": "Open when looking up settings.js in Premiere Pro.", "keywords": ["settings.js"]},
+  {"topic": "styles.css", "file": "uxp/examples/sequence-dimensions-dialog/styles.css", "summary": "Open when looking up styles.css in Premiere Pro.", "keywords": ["styles.css"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Finding and deleting layers", "file": "scripting/layers-example/finding-and-deleting-layers.md", "summary": "Open when looking up Finding and deleting layers in Illustrator.", "keywords": ["Finding and deleting layers"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

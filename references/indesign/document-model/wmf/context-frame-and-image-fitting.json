@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "clippingPath", "file": "document-model/wmf/clipping-path.md", "summary": "Open when looking up clippingPath in InDesign.", "keywords": ["clippingPath"]},
+  {"topic": "imageTypeName", "file": "document-model/wmf/image-type-name.md", "summary": "Open when looking up imageTypeName in InDesign.", "keywords": ["imageTypeName"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "V1 documentCreate request", "file": "cloud-services/creating-documents-with-image-layers/v1-document-create-request.md", "summary": "Open when looking up V1 documentCreate request in Photoshop.", "keywords": ["V1 documentCreate request"]},
+  {"topic": "V2 request", "file": "cloud-services/creating-documents-with-image-layers/v2-request.md", "summary": "Open when looking up V2 request in Photoshop.", "keywords": ["V2 request"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

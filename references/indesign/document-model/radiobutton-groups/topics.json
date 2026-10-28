@@ -1,0 +1,17 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "add", "file": "document-model/radiobutton-groups/add.md", "summary": "Open when looking up add in InDesign.", "keywords": ["add"]},
+  {"topic": "anyItem", "file": "document-model/radiobutton-groups/any-item.md", "summary": "Open when looking up anyItem in InDesign.", "keywords": ["anyItem"]},
+  {"topic": "count", "file": "document-model/radiobutton-groups/count.md", "summary": "Open when looking up count in InDesign.", "keywords": ["count"]},
+  {"topic": "everyItem", "file": "document-model/radiobutton-groups/every-item.md", "summary": "Open when looking up everyItem in InDesign.", "keywords": ["everyItem"]},
+  {"topic": "firstItem", "file": "document-model/radiobutton-groups/first-item.md", "summary": "Open when looking up firstItem in InDesign.", "keywords": ["firstItem"]},
+  {"topic": "item", "file": "document-model/radiobutton-groups/item.md", "summary": "Open when looking up item in InDesign.", "keywords": ["item"]},
+  {"topic": "itemByID", "file": "document-model/radiobutton-groups/item-by-id.md", "summary": "Open when looking up itemByID in InDesign.", "keywords": ["itemByID"]},
+  {"topic": "itemByRange", "file": "document-model/radiobutton-groups/item-by-range.md", "summary": "Open when looking up itemByRange in InDesign.", "keywords": ["itemByRange"]},
+  {"topic": "lastItem", "file": "document-model/radiobutton-groups/last-item.md", "summary": "Open when looking up lastItem in InDesign.", "keywords": ["lastItem"]},
+  {"topic": "length", "file": "document-model/radiobutton-groups/length.md", "summary": "Open when looking up length in InDesign.", "keywords": ["length"]},
+  {"topic": "middleItem", "file": "document-model/radiobutton-groups/middle-item.md", "summary": "Open when looking up middleItem in InDesign.", "keywords": ["middleItem"]},
+  {"topic": "nextItem", "file": "document-model/radiobutton-groups/next-item.md", "summary": "Open when looking up nextItem in InDesign.", "keywords": ["nextItem"]},
+  {"topic": "previousItem", "file": "document-model/radiobutton-groups/previous-item.md", "summary": "Open when looking up previousItem in InDesign.", "keywords": ["previousItem"]},
+  {"topic": "toSource", "file": "document-model/radiobutton-groups/to-source.md", "summary": "Open when looking up toSource in InDesign.", "keywords": ["toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

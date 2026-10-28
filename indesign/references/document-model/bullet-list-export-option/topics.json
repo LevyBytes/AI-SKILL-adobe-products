@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "AS_TEXT", "file": "references/document-model/bullet-list-export-option/astext.md", "summary": "Open when looking up AS_TEXT in InDesign.", "keywords": ["AS_TEXT"]},
-  {"topic": "UNORDERED_LIST", "file": "references/document-model/bullet-list-export-option/unorderedlist.md", "summary": "Open when looking up UNORDERED_LIST in InDesign.", "keywords": ["UNORDERED_LIST"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

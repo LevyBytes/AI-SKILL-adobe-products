@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "STYLESHEET_IN_XML", "file": "references/document-model/xml-transform-file/stylesheetinxml.md", "summary": "Open when looking up STYLESHEET_IN_XML in InDesign.", "keywords": ["STYLESHEET_IN_XML"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

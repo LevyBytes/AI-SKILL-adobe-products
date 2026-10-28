@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Blob references", "file": "uxp/network-and-data/blob/reference-index.md", "summary": "Open when looking up Blob in Photoshop.", "keywords": ["Blob references"]},
+  {"topic": "Clipboard references", "file": "uxp/network-and-data/clipboard/reference-index.md", "summary": "Open when looking up Clipboard in Photoshop.", "keywords": ["Clipboard references"]},
+  {"topic": "Data Transfers", "file": "uxp/network-and-data/data-transfers.md", "summary": "Open when looking up Data Transfers in Photoshop.", "keywords": ["Data Transfers"]},
+  {"topic": "Form data references", "file": "uxp/network-and-data/form-data/reference-index.md", "summary": "Open when looking up Form data in Photoshop.", "keywords": ["Form data references"]},
+  {"topic": "Headers references", "file": "uxp/network-and-data/headers/reference-index.md", "summary": "Open when looking up Headers in Photoshop.", "keywords": ["Headers references"]},
+  {"topic": "Request references", "file": "uxp/network-and-data/request/reference-index.md", "summary": "Open when looking up Request in Photoshop.", "keywords": ["Request references"]},
+  {"topic": "Response references", "file": "uxp/network-and-data/response/reference-index.md", "summary": "Open when looking up Response in Photoshop.", "keywords": ["Response references"]},
+  {"topic": "Web socket references", "file": "uxp/network-and-data/web-socket/reference-index.md", "summary": "Open when looking up Web socket in Photoshop.", "keywords": ["Web socket references"]},
+  {"topic": "Window references", "file": "uxp/network-and-data/window/reference-index.md", "summary": "Open when looking up Window in Photoshop.", "keywords": ["Window references"]},
+  {"topic": "Xml http request references", "file": "uxp/network-and-data/xml-http-request/reference-index.md", "summary": "Open when looking up Xml http request in Photoshop.", "keywords": ["Xml http request references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

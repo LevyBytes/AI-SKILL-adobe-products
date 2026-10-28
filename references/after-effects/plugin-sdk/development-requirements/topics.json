@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "SDK Audience - Development Requirements", "file": "plugin-sdk/development-requirements/sdk-audience-development-requirements.md", "summary": "Open when looking up SDK Audience - Development Requirements in After Effects.", "keywords": ["SDK Audience - Development Requirements"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

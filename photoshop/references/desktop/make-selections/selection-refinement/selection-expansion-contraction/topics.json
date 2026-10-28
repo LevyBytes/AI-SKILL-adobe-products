@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Expand a selection to include areas with a similar color", "file": "references/desktop/make-selections/selection-refinement/selection-expansion-contraction/expand-a-selection-to-include-areas-with-a-similar-color.md", "summary": "Open when looking up Expand a selection to include areas with a similar color in Photoshop.", "keywords": ["Expand a selection to include areas with a similar color"]},
-  {"topic": "Expand or contract a selection by a specific number of pixels", "file": "references/desktop/make-selections/selection-refinement/selection-expansion-contraction/selection-size-in-pixels.md", "summary": "Open when looking up Expand or contract a selection by a specific number of pixels in Photoshop.", "keywords": ["Expand or contract a selection by a specific number of pixels"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

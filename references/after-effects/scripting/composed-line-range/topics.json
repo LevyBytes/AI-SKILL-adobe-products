@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "ComposedLineRange object", "file": "scripting/composed-line-range/composed-line-range-object.md", "summary": "Open when looking up ComposedLineRange object in After Effects.", "keywords": ["ComposedLineRange object"]},
+  {"topic": "ComposedLineRange.characterEnd", "file": "scripting/composed-line-range/character-end.md", "summary": "Open when looking up ComposedLineRange.characterEnd in After Effects.", "keywords": ["ComposedLineRange.characterEnd"]},
+  {"topic": "ComposedLineRange.characterRange()", "file": "scripting/composed-line-range/character-range.md", "summary": "Open when looking up ComposedLineRange.characterRange() in After Effects.", "keywords": ["ComposedLineRange.characterRange()"]},
+  {"topic": "ComposedLineRange.characterStart", "file": "scripting/composed-line-range/character-start.md", "summary": "Open when looking up ComposedLineRange.characterStart in After Effects.", "keywords": ["ComposedLineRange.characterStart"]},
+  {"topic": "ComposedLineRange.isRangeValid", "file": "scripting/composed-line-range/is-range-valid.md", "summary": "Open when looking up ComposedLineRange.isRangeValid in After Effects.", "keywords": ["ComposedLineRange.isRangeValid"]},
+  {"topic": "ComposedLineRange.toString()", "file": "scripting/composed-line-range/to-string.md", "summary": "Open when looking up ComposedLineRange.toString() in After Effects.", "keywords": ["ComposedLineRange.toString()"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

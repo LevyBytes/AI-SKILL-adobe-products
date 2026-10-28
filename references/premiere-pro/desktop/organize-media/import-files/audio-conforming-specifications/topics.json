@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Audio conforming overview", "file": "desktop/organize-media/import-files/audio-conforming-specifications/audio-conforming-overview.md", "summary": "Open when looking up Audio conforming overview in Premiere Pro.", "keywords": ["Audio conforming overview"]},
+  {"topic": "Avoiding conforming", "file": "desktop/organize-media/import-files/audio-conforming-specifications/avoiding-conforming.md", "summary": "Open when looking up Avoiding conforming in Premiere Pro.", "keywords": ["Avoiding conforming"]},
+  {"topic": "Compressed audio", "file": "desktop/organize-media/import-files/audio-conforming-specifications/compressed-audio.md", "summary": "Open when looking up Compressed audio in Premiere Pro.", "keywords": ["Compressed audio"]},
+  {"topic": "Conformed file management", "file": "desktop/organize-media/import-files/audio-conforming-specifications/conformed-file-management.md", "summary": "Open when looking up Conformed file management in Premiere Pro.", "keywords": ["Conformed file management"]},
+  {"topic": "Natively supported sample rates", "file": "desktop/organize-media/import-files/audio-conforming-specifications/natively-supported-sample-rates.md", "summary": "Open when looking up Natively supported sample rates in Premiere Pro.", "keywords": ["Natively supported sample rates"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

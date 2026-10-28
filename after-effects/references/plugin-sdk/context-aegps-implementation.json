@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "Entry Point references", "file": "references/plugin-sdk/entry-point/reference-index.md", "summary": "Open when looking up Entry Point in After Effects.", "keywords": ["Entry Point references"]},
-  {"topic": "Example adding a menu item references", "file": "references/plugin-sdk/example-adding-a-menu-item/reference-index.md", "summary": "Open when looking up Example adding a menu item in After Effects.", "keywords": ["Example adding a menu item references"]},
-  {"topic": "Implementation", "file": "references/plugin-sdk/implementation.md", "summary": "Open when looking up Implementation in After Effects.", "keywords": ["Implementation"]},
-  {"topic": "Private data references", "file": "references/plugin-sdk/private-data/reference-index.md", "summary": "Open when looking up Private data in After Effects.", "keywords": ["Private data references"]},
-  {"topic": "Specialization references", "file": "references/plugin-sdk/specialization/reference-index.md", "summary": "Open when looking up Specialization in After Effects.", "keywords": ["Specialization references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

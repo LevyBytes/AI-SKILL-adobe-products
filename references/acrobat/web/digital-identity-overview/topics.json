@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Certificate Authority (CA)", "file": "web/digital-identity-overview/certificate-authority-ca.md", "summary": "Open when looking up Certificate Authority (CA) in Acrobat.", "keywords": ["Certificate Authority (CA)"]},
+  {"topic": "Digital certificates", "file": "web/digital-identity-overview/digital-certificates.md", "summary": "Open when looking up Digital certificates in Acrobat.", "keywords": ["Digital certificates"]},
+  {"topic": "Identity Provider (IDP)", "file": "web/digital-identity-overview/identity-provider-idp.md", "summary": "Open when looking up Identity Provider (IDP) in Acrobat.", "keywords": ["Identity Provider (IDP)"]},
+  {"topic": "Learn about the basics of digital identity.", "file": "web/digital-identity-overview/learn-about-the-basics-of-digital-identity.md", "summary": "Open when looking up Learn about the basics of digital identity. in Acrobat.", "keywords": ["Learn about the basics of digital identity."]},
+  {"topic": "Qualified Trust Service Provider (QTSP)", "file": "web/digital-identity-overview/qualified-trust-service-provider-qtsp.md", "summary": "Open when looking up Qualified Trust Service Provider (QTSP) in Acrobat.", "keywords": ["Qualified Trust Service Provider (QTSP)"]},
+  {"topic": "Trust Service Provider (TSP)", "file": "web/digital-identity-overview/trust-service-provider-tsp.md", "summary": "Open when looking up Trust Service Provider (TSP) in Acrobat.", "keywords": ["Trust Service Provider (TSP)"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

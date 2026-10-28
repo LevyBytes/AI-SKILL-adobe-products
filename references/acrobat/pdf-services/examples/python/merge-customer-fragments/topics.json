@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Merge customer fragments example setup", "file": "pdf-services/examples/python/merge-customer-fragments/merge-customer-fragments-setup.md", "summary": "Open when looking up Merge customer fragments example setup in Acrobat.", "keywords": ["Merge customer fragments example setup"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

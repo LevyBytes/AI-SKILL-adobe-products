@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Bridging your C++ Plugin with UXP", "file": "uxp/bridging-your-c-plugin-with-uxp.md", "summary": "Open when looking up Bridging your C++ Plugin with UXP in Photoshop.", "keywords": ["Bridging your C++ Plugin with UXP"]},
+  {"topic": "Bridging your C++ Plugin with UXP references", "file": "uxp/bridging-your-c-plugin-with-uxp/reference-index.md", "summary": "Open when looking up Bridging your C++ Plugin with UXP in Photoshop.", "keywords": ["Bridging your C++ Plugin with UXP references"]},
+  {"topic": "Faqs references", "file": "uxp/faqs/reference-index.md", "summary": "Open when looking up Faqs in Photoshop.", "keywords": ["Faqs references"]},
+  {"topic": "Getting started - Download the SDK", "file": "uxp/getting-started-download-the-sdk.md", "summary": "Open when looking up Getting started - Download the SDK in Photoshop.", "keywords": ["Getting started - Download the SDK"]},
+  {"topic": "Getting started - Download the SDK references", "file": "uxp/getting-started-download-the-sdk/reference-index.md", "summary": "Open when looking up Getting started - Download the SDK in Photoshop.", "keywords": ["Getting started - Download the SDK references"]},
+  {"topic": "UXP Hybrid plugin", "file": "uxp/uxp-hybrid-plugin.md", "summary": "Open when looking up UXP Hybrid plugin in Photoshop.", "keywords": ["UXP Hybrid plugin"]},
+  {"topic": "UXP Hybrid plugin references", "file": "uxp/uxp-hybrid-plugin/reference-index.md", "summary": "Open when looking up UXP Hybrid plugin in Photoshop.", "keywords": ["UXP Hybrid plugin references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

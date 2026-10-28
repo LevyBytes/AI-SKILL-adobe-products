@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Add objects", "file": "references/desktop/edit-documents/edit-images-or-objects/add-objects.md", "summary": "Open when looking up Add objects in Acrobat.", "keywords": ["Add objects"]},
-  {"topic": "Delete images", "file": "references/desktop/edit-documents/edit-images-or-objects/delete-images.md", "summary": "Open when looking up Delete images in Acrobat.", "keywords": ["Delete images"]},
-  {"topic": "Edit images with external applications", "file": "references/desktop/edit-documents/edit-images-or-objects/edit-images-with-external-applications.md", "summary": "Open when looking up Edit images with external applications in Acrobat.", "keywords": ["Edit images with external applications"]},
-  {"topic": "Modify images", "file": "references/desktop/edit-documents/edit-images-or-objects/modify-images.md", "summary": "Open when looking up Modify images in Acrobat.", "keywords": ["Modify images"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

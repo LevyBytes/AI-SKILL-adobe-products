@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Add to the UDT workspace", "file": "uxp/plugin-workflows/add-to-the-udt-workspace.md", "summary": "Open when looking up Add to the UDT workspace in Premiere Pro.", "keywords": ["Add to the UDT workspace"]},
+  {"topic": "Debug your plugin", "file": "uxp/plugin-workflows/debug-your-plugin.md", "summary": "Open when looking up Debug your plugin in Premiere Pro.", "keywords": ["Debug your plugin"]},
+  {"topic": "Load and Watch a plugin", "file": "uxp/plugin-workflows/load-and-watch-a-plugin.md", "summary": "Open when looking up Load and Watch a plugin in Premiere Pro.", "keywords": ["Load and Watch a plugin"]},
+  {"topic": "Package your plugin for distribution", "file": "uxp/plugin-workflows/package-your-plugin-for-distribution.md", "summary": "Open when looking up Package your plugin for distribution in Premiere Pro.", "keywords": ["Package your plugin for distribution"]},
+  {"topic": "Watch for changes", "file": "uxp/plugin-workflows/watch-for-changes.md", "summary": "Open when looking up Watch for changes in Premiere Pro.", "keywords": ["Watch for changes"]},
+  {"topic": "Working with Bundlers", "file": "uxp/plugin-workflows/working-with-bundlers.md", "summary": "Open when looking up Working with Bundlers in Premiere Pro.", "keywords": ["Working with Bundlers"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

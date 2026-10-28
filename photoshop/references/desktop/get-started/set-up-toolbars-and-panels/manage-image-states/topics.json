@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Create documents from image states", "file": "references/desktop/get-started/set-up-toolbars-and-panels/manage-image-states/create-documents-from-image-states.md", "summary": "Open when looking up Create documents from image states in Photoshop.", "keywords": ["Create documents from image states"]},
-  {"topic": "Delete image states", "file": "references/desktop/get-started/set-up-toolbars-and-panels/manage-image-states/delete-image-states.md", "summary": "Open when looking up Delete image states in Photoshop.", "keywords": ["Delete image states"]},
-  {"topic": "Revert to previous image states", "file": "references/desktop/get-started/set-up-toolbars-and-panels/manage-image-states/revert-to-previous-image-states.md", "summary": "Open when looking up Revert to previous image states in Photoshop.", "keywords": ["Revert to previous image states"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

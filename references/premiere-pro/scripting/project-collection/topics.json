@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "ProjectCollection object", "file": "scripting/project-collection/project-collection-object.md", "summary": "Open when looking up ProjectCollection object in Premiere Pro.", "keywords": ["ProjectCollection object"]},
+  {"topic": "ProjectCollection.numProjects", "file": "scripting/project-collection/num-projects.md", "summary": "Open when looking up ProjectCollection.numProjects in Premiere Pro.", "keywords": ["ProjectCollection.numProjects"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

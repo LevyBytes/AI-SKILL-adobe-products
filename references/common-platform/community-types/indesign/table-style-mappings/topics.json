@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "TableStyleMappings collection iteration", "file": "community-types/indesign/table-style-mappings/collection-iteration.md", "summary": "Open when looking up TableStyleMappings collection iteration in Shared Adobe platform.", "keywords": ["TableStyleMappings collection iteration"]},
+  {"topic": "TableStyleMappings declaration", "file": "community-types/indesign/table-style-mappings/declaration.md", "summary": "Open when looking up TableStyleMappings declaration in Shared Adobe platform.", "keywords": ["TableStyleMappings declaration"]},
+  {"topic": "TableStyleMappings.add", "file": "community-types/indesign/table-style-mappings/add.md", "summary": "Open when looking up TableStyleMappings.add in Shared Adobe platform.", "keywords": ["TableStyleMappings.add"]},
+  {"topic": "TableStyleMappings.count", "file": "community-types/indesign/table-style-mappings/count.md", "summary": "Open when looking up TableStyleMappings.count in Shared Adobe platform.", "keywords": ["TableStyleMappings.count"]},
+  {"topic": "TableStyleMappings.IndexSignature", "file": "community-types/indesign/table-style-mappings/index-signature.md", "summary": "Open when looking up TableStyleMappings.IndexSignature in Shared Adobe platform.", "keywords": ["TableStyleMappings.IndexSignature"]},
+  {"topic": "TableStyleMappings.item", "file": "community-types/indesign/table-style-mappings/item.md", "summary": "Open when looking up TableStyleMappings.item in Shared Adobe platform.", "keywords": ["TableStyleMappings.item"]},
+  {"topic": "TableStyleMappings.itemByRange", "file": "community-types/indesign/table-style-mappings/item-by-range.md", "summary": "Open when looking up TableStyleMappings.itemByRange in Shared Adobe platform.", "keywords": ["TableStyleMappings.itemByRange"]},
+  {"topic": "TableStyleMappings.length", "file": "community-types/indesign/table-style-mappings/length.md", "summary": "Open when looking up TableStyleMappings.length in Shared Adobe platform.", "keywords": ["TableStyleMappings.length"]},
+  {"topic": "TableStyleMappings.toSource", "file": "community-types/indesign/table-style-mappings/to-source.md", "summary": "Open when looking up TableStyleMappings.toSource in Shared Adobe platform.", "keywords": ["TableStyleMappings.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

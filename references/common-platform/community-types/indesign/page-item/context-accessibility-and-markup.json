@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "PageItem.associatedXMLElement", "file": "community-types/indesign/page-item/associated-xml-element.md", "summary": "Open when looking up PageItem.associatedXMLElement in Shared Adobe platform.", "keywords": ["PageItem.associatedXMLElement"]},
+  {"topic": "PageItem.autoTag", "file": "community-types/indesign/page-item/auto-tag.md", "summary": "Open when looking up PageItem.autoTag in Shared Adobe platform.", "keywords": ["PageItem.autoTag"]},
+  {"topic": "PageItem.markup", "file": "community-types/indesign/page-item/markup.md", "summary": "Open when looking up PageItem.markup in Shared Adobe platform.", "keywords": ["PageItem.markup"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

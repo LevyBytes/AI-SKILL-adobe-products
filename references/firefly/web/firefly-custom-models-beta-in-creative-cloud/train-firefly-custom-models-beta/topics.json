@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Edit, duplicate, and delete", "file": "web/firefly-custom-models-beta-in-creative-cloud/train-firefly-custom-models-beta/edit-duplicate-and-delete.md", "summary": "Open when looking up Edit, duplicate, and delete in Firefly.", "keywords": ["Edit, duplicate, and delete"]},
+  {"topic": "Generate", "file": "web/firefly-custom-models-beta-in-creative-cloud/train-firefly-custom-models-beta/generate.md", "summary": "Open when looking up Generate in Firefly.", "keywords": ["Generate"]},
+  {"topic": "Pick a use case", "file": "web/firefly-custom-models-beta-in-creative-cloud/train-firefly-custom-models-beta/pick-a-use-case.md", "summary": "Open when looking up Pick a use case in Firefly.", "keywords": ["Pick a use case"]},
+  {"topic": "Review and edit information", "file": "web/firefly-custom-models-beta-in-creative-cloud/train-firefly-custom-models-beta/review-and-edit-information.md", "summary": "Open when looking up Review and edit information in Firefly.", "keywords": ["Review and edit information"]},
+  {"topic": "Share", "file": "web/firefly-custom-models-beta-in-creative-cloud/train-firefly-custom-models-beta/share.md", "summary": "Open when looking up Share in Firefly.", "keywords": ["Share"]},
+  {"topic": "Store in Projects", "file": "web/firefly-custom-models-beta-in-creative-cloud/train-firefly-custom-models-beta/store-in-projects.md", "summary": "Open when looking up Store in Projects in Firefly.", "keywords": ["Store in Projects"]},
+  {"topic": "Train", "file": "web/firefly-custom-models-beta-in-creative-cloud/train-firefly-custom-models-beta/train.md", "summary": "Open when looking up Train in Firefly.", "keywords": ["Train"]},
+  {"topic": "Upload images", "file": "web/firefly-custom-models-beta-in-creative-cloud/train-firefly-custom-models-beta/upload-images.md", "summary": "Open when looking up Upload images in Firefly.", "keywords": ["Upload images"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

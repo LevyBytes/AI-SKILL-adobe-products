@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "How to submit a patch", "file": "cep/faqs-how-can-i-submit-a-patch/how-to-submit-a-patch.md", "summary": "Open when looking up How to submit a patch in Shared Adobe platform.", "keywords": ["How to submit a patch"]},
+  {"topic": "How to submit a patch for a rejected submission:", "file": "cep/faqs-how-can-i-submit-a-patch/how-to-submit-a-patch-for-a-rejected-submission.md", "summary": "Open when looking up How to submit a patch for a rejected submission: in Shared Adobe platform.", "keywords": ["How to submit a patch for a rejected submission:"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

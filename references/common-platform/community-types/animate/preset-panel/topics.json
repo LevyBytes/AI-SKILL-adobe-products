@@ -1,0 +1,18 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "PresetPanel declaration", "file": "community-types/animate/preset-panel/declaration.md", "summary": "Open when looking up PresetPanel declaration in Shared Adobe platform.", "keywords": ["PresetPanel declaration"]},
+  {"topic": "PresetPanel.addNewItem", "file": "community-types/animate/preset-panel/add-new-item.md", "summary": "Open when looking up PresetPanel.addNewItem in Shared Adobe platform.", "keywords": ["PresetPanel.addNewItem"]},
+  {"topic": "PresetPanel.applyPreset", "file": "community-types/animate/preset-panel/apply-preset.md", "summary": "Open when looking up PresetPanel.applyPreset in Shared Adobe platform.", "keywords": ["PresetPanel.applyPreset"]},
+  {"topic": "PresetPanel.deleteFolder", "file": "community-types/animate/preset-panel/delete-folder.md", "summary": "Open when looking up PresetPanel.deleteFolder in Shared Adobe platform.", "keywords": ["PresetPanel.deleteFolder"]},
+  {"topic": "PresetPanel.deleteItem", "file": "community-types/animate/preset-panel/delete-item.md", "summary": "Open when looking up PresetPanel.deleteItem in Shared Adobe platform.", "keywords": ["PresetPanel.deleteItem"]},
+  {"topic": "PresetPanel.expandFolder", "file": "community-types/animate/preset-panel/expand-folder.md", "summary": "Open when looking up PresetPanel.expandFolder in Shared Adobe platform.", "keywords": ["PresetPanel.expandFolder"]},
+  {"topic": "PresetPanel.exportItem", "file": "community-types/animate/preset-panel/export-item.md", "summary": "Open when looking up PresetPanel.exportItem in Shared Adobe platform.", "keywords": ["PresetPanel.exportItem"]},
+  {"topic": "PresetPanel.findItemIndex", "file": "community-types/animate/preset-panel/find-item-index.md", "summary": "Open when looking up PresetPanel.findItemIndex in Shared Adobe platform.", "keywords": ["PresetPanel.findItemIndex"]},
+  {"topic": "PresetPanel.getSelectedItems", "file": "community-types/animate/preset-panel/get-selected-items.md", "summary": "Open when looking up PresetPanel.getSelectedItems in Shared Adobe platform.", "keywords": ["PresetPanel.getSelectedItems"]},
+  {"topic": "PresetPanel.importItem", "file": "community-types/animate/preset-panel/import-item.md", "summary": "Open when looking up PresetPanel.importItem in Shared Adobe platform.", "keywords": ["PresetPanel.importItem"]},
+  {"topic": "PresetPanel.items", "file": "community-types/animate/preset-panel/items.md", "summary": "Open when looking up PresetPanel.items in Shared Adobe platform.", "keywords": ["PresetPanel.items"]},
+  {"topic": "PresetPanel.moveToFolder", "file": "community-types/animate/preset-panel/move-to-folder.md", "summary": "Open when looking up PresetPanel.moveToFolder in Shared Adobe platform.", "keywords": ["PresetPanel.moveToFolder"]},
+  {"topic": "PresetPanel.newFolder", "file": "community-types/animate/preset-panel/new-folder.md", "summary": "Open when looking up PresetPanel.newFolder in Shared Adobe platform.", "keywords": ["PresetPanel.newFolder"]},
+  {"topic": "PresetPanel.renameItem", "file": "community-types/animate/preset-panel/rename-item.md", "summary": "Open when looking up PresetPanel.renameItem in Shared Adobe platform.", "keywords": ["PresetPanel.renameItem"]},
+  {"topic": "PresetPanel.selectItem", "file": "community-types/animate/preset-panel/select-item.md", "summary": "Open when looking up PresetPanel.selectItem in Shared Adobe platform.", "keywords": ["PresetPanel.selectItem"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

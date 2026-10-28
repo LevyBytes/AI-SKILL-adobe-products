@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "window.crypto", "file": "uxp/window/crypto.md", "summary": "Open when looking up window.crypto in InDesign.", "keywords": ["window.crypto"]},
+  {"topic": "window.getComputedStyle", "file": "uxp/window/get-computed-style.md", "summary": "Open when looking up window.getComputedStyle in InDesign.", "keywords": ["window.getComputedStyle"]},
+  {"topic": "window.path", "file": "uxp/window/path.md", "summary": "Open when looking up window.path in InDesign.", "keywords": ["window.path"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

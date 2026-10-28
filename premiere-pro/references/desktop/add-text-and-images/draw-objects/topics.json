@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Create a shape", "file": "references/desktop/add-text-and-images/draw-objects/create-a-shape.md", "summary": "Open when looking up Create a shape in Premiere Pro.", "keywords": ["Create a shape"]},
-  {"topic": "Draw a curve", "file": "references/desktop/add-text-and-images/draw-objects/draw-a-curve.md", "summary": "Open when looking up Draw a curve in Premiere Pro.", "keywords": ["Draw a curve"]},
-  {"topic": "Overview of Pen tool", "file": "references/desktop/add-text-and-images/draw-objects/overview-of-pen-tool.md", "summary": "Open when looking up Overview of Pen tool in Premiere Pro.", "keywords": ["Overview of Pen tool"]},
-  {"topic": "Overview of Pen tool references", "file": "references/desktop/add-text-and-images/draw-objects/overview-of-pen-tool/reference-index.md", "summary": "Open when looking up Overview of Pen tool in Premiere Pro.", "keywords": ["Overview of Pen tool references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": ".NET", "file": "references/pdf-services/reorder-pages/net.md", "summary": "Open when looking up .NET in Acrobat.", "keywords": [".NET"]},
-  {"topic": "Java", "file": "references/pdf-services/reorder-pages/java.md", "summary": "Open when looking up Java in Acrobat.", "keywords": ["Java"]},
-  {"topic": "Node JS", "file": "references/pdf-services/reorder-pages/node-js.md", "summary": "Open when looking up Node JS in Acrobat.", "keywords": ["Node JS"]},
-  {"topic": "Python", "file": "references/pdf-services/reorder-pages/python.md", "summary": "Open when looking up Python in Acrobat.", "keywords": ["Python"]},
-  {"topic": "Reorder Pages in PDF", "file": "references/pdf-services/reorder-pages/reorder-pages-in-pdf.md", "summary": "Open when looking up Reorder Pages in PDF in Acrobat.", "keywords": ["Reorder Pages in PDF"]},
-  {"topic": "REST API", "file": "references/pdf-services/reorder-pages/rest-api.md", "summary": "Open when looking up REST API in Acrobat.", "keywords": ["REST API"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

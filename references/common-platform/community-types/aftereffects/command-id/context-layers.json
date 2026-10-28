@@ -1,0 +1,16 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "_CommandID.LayerSettings", "file": "community-types/aftereffects/command-id/layer-settings.md", "summary": "Open when looking up _CommandID.LayerSettings in Shared Adobe platform.", "keywords": ["_CommandID.LayerSettings"]},
+  {"topic": "_CommandID.NewAdjustmentLayer", "file": "community-types/aftereffects/command-id/new-adjustment-layer.md", "summary": "Open when looking up _CommandID.NewAdjustmentLayer in Shared Adobe platform.", "keywords": ["_CommandID.NewAdjustmentLayer"]},
+  {"topic": "_CommandID.NewNullObject", "file": "community-types/aftereffects/command-id/new-null-object.md", "summary": "Open when looking up _CommandID.NewNullObject in Shared Adobe platform.", "keywords": ["_CommandID.NewNullObject"]},
+  {"topic": "_CommandID.NewShapeLayer", "file": "community-types/aftereffects/command-id/new-shape-layer.md", "summary": "Open when looking up _CommandID.NewShapeLayer in Shared Adobe platform.", "keywords": ["_CommandID.NewShapeLayer"]},
+  {"topic": "_CommandID.NewSolid", "file": "community-types/aftereffects/command-id/new-solid.md", "summary": "Open when looking up _CommandID.NewSolid in Shared Adobe platform.", "keywords": ["_CommandID.NewSolid"]},
+  {"topic": "_CommandID.NewText", "file": "community-types/aftereffects/command-id/new-text.md", "summary": "Open when looking up _CommandID.NewText in Shared Adobe platform.", "keywords": ["_CommandID.NewText"]},
+  {"topic": "_CommandID.OpenLayer", "file": "community-types/aftereffects/command-id/open-layer.md", "summary": "Open when looking up _CommandID.OpenLayer in Shared Adobe platform.", "keywords": ["_CommandID.OpenLayer"]},
+  {"topic": "_CommandID.OpenLayerSource", "file": "community-types/aftereffects/command-id/open-layer-source.md", "summary": "Open when looking up _CommandID.OpenLayerSource in Shared Adobe platform.", "keywords": ["_CommandID.OpenLayerSource"]},
+  {"topic": "_CommandID.SequenceLayers", "file": "community-types/aftereffects/command-id/sequence-layers.md", "summary": "Open when looking up _CommandID.SequenceLayers in Shared Adobe platform.", "keywords": ["_CommandID.SequenceLayers"]},
+  {"topic": "_CommandID.SplitLayer", "file": "community-types/aftereffects/command-id/split-layer.md", "summary": "Open when looking up _CommandID.SplitLayer in Shared Adobe platform.", "keywords": ["_CommandID.SplitLayer"]},
+  {"topic": "_CommandID.HideOtherVideo", "file": "community-types/aftereffects/command-id/hide-other-video.md", "summary": "Open when looking up _CommandID.HideOtherVideo in Shared Adobe platform.", "keywords": ["_CommandID.HideOtherVideo"]},
+  {"topic": "_CommandID.ShowAllVideo", "file": "community-types/aftereffects/command-id/show-all-video.md", "summary": "Open when looking up _CommandID.ShowAllVideo in Shared Adobe platform.", "keywords": ["_CommandID.ShowAllVideo"]},
+  {"topic": "_CommandID.UnlockAllLayers", "file": "community-types/aftereffects/command-id/unlock-all-layers.md", "summary": "Open when looking up _CommandID.UnlockAllLayers in Shared Adobe platform.", "keywords": ["_CommandID.UnlockAllLayers"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

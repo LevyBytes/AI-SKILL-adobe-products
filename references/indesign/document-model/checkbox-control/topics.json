@@ -1,0 +1,18 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "addEventListener", "file": "document-model/checkbox-control/add-event-listener.md", "summary": "Open when looking up addEventListener in InDesign.", "keywords": ["addEventListener"]},
+  {"topic": "checkedState", "file": "document-model/checkbox-control/checked-state.md", "summary": "Open when looking up checkedState in InDesign.", "keywords": ["checkedState"]},
+  {"topic": "eventListeners", "file": "document-model/checkbox-control/event-listeners.md", "summary": "Open when looking up eventListeners in InDesign.", "keywords": ["eventListeners"]},
+  {"topic": "events", "file": "document-model/checkbox-control/events.md", "summary": "Open when looking up events in InDesign.", "keywords": ["events"]},
+  {"topic": "getElements", "file": "document-model/checkbox-control/get-elements.md", "summary": "Open when looking up getElements in InDesign.", "keywords": ["getElements"]},
+  {"topic": "id", "file": "document-model/checkbox-control/id.md", "summary": "Open when looking up id in InDesign.", "keywords": ["id"]},
+  {"topic": "index", "file": "document-model/checkbox-control/index.md", "summary": "Open when looking up index in InDesign.", "keywords": ["index"]},
+  {"topic": "isValid", "file": "document-model/checkbox-control/is-valid.md", "summary": "Open when looking up isValid in InDesign.", "keywords": ["isValid"]},
+  {"topic": "minWidth", "file": "document-model/checkbox-control/min-width.md", "summary": "Open when looking up minWidth in InDesign.", "keywords": ["minWidth"]},
+  {"topic": "parent", "file": "document-model/checkbox-control/parent.md", "summary": "Open when looking up parent in InDesign.", "keywords": ["parent"]},
+  {"topic": "properties", "file": "document-model/checkbox-control/properties.md", "summary": "Open when looking up properties in InDesign.", "keywords": ["properties"]},
+  {"topic": "removeEventListener", "file": "document-model/checkbox-control/remove-event-listener.md", "summary": "Open when looking up removeEventListener in InDesign.", "keywords": ["removeEventListener"]},
+  {"topic": "staticLabel", "file": "document-model/checkbox-control/static-label.md", "summary": "Open when looking up staticLabel in InDesign.", "keywords": ["staticLabel"]},
+  {"topic": "toSource", "file": "document-model/checkbox-control/to-source.md", "summary": "Open when looking up toSource in InDesign.", "keywords": ["toSource"]},
+  {"topic": "toSpecifier", "file": "document-model/checkbox-control/to-specifier.md", "summary": "Open when looking up toSpecifier in InDesign.", "keywords": ["toSpecifier"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

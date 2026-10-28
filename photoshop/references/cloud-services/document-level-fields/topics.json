@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Field renames", "file": "references/cloud-services/document-level-fields/field-renames.md", "summary": "Open when looking up Field renames in Photoshop.", "keywords": ["Field renames"]},
-  {"topic": "New document fields", "file": "references/cloud-services/document-level-fields/new-document-fields.md", "summary": "Open when looking up New document fields in Photoshop.", "keywords": ["New document fields"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

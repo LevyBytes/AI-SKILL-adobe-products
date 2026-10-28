@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Trusted author dialog setup", "file": "scripting/examples/trusted-author-dialog/setup.md", "summary": "Open when looking up Trusted author dialog setup in Acrobat.", "keywords": ["Trusted author dialog setup"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

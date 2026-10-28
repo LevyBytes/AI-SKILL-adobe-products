@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Check Internet Connection", "file": "references/cep/cep-8-0/check-internet-connection.md", "summary": "Open when looking up Check Internet Connection in Shared Adobe platform.", "keywords": ["Check Internet Connection"]},
-  {"topic": "HTTP Cookie", "file": "references/cep/cep-8-0/http-cookie.md", "summary": "Open when looking up HTTP Cookie in Shared Adobe platform.", "keywords": ["HTTP Cookie"]},
-  {"topic": "Open URL link in default browser", "file": "references/cep/cep-8-0/open-url-link-in-default-browser.md", "summary": "Open when looking up Open URL link in default browser in Shared Adobe platform.", "keywords": ["Open URL link in default browser"]},
-  {"topic": "Ports opened in CEPHtmlEngine", "file": "references/cep/cep-8-0/ports-opened-in-cep-html-engine.md", "summary": "Open when looking up Ports opened in CEPHtmlEngine in Shared Adobe platform.", "keywords": ["Ports opened in CEPHtmlEngine"]},
-  {"topic": "Register invalid certificate error callback", "file": "references/cep/cep-8-0/register-invalid-certificate-error-callback.md", "summary": "Open when looking up Register invalid certificate error callback in Shared Adobe platform.", "keywords": ["Register invalid certificate error callback"]},
-  {"topic": "Use Node.js to download files", "file": "references/cep/cep-8-0/use-node-js-to-download-files.md", "summary": "Open when looking up Use Node.js to download files in Shared Adobe platform.", "keywords": ["Use Node.js to download files"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

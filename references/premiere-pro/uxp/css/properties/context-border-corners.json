@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "border-bottom-left-radius", "file": "uxp/css/properties/border-bottom-left-radius.md", "summary": "Open when looking up border-bottom-left-radius in Premiere Pro.", "keywords": ["border-bottom-left-radius"]},
+  {"topic": "border-bottom-left-radius references", "file": "uxp/css/properties/border-bottom-left-radius/reference-index.md", "summary": "Open when looking up border-bottom-left-radius in Premiere Pro.", "keywords": ["border-bottom-left-radius references"]},
+  {"topic": "border-bottom-right-radius", "file": "uxp/css/properties/border-bottom-right-radius.md", "summary": "Open when looking up border-bottom-right-radius in Premiere Pro.", "keywords": ["border-bottom-right-radius"]},
+  {"topic": "border-radius", "file": "uxp/css/properties/border-radius.md", "summary": "Open when looking up border-radius in Premiere Pro.", "keywords": ["border-radius"]},
+  {"topic": "border-top-left-radius", "file": "uxp/css/properties/border-top-left-radius.md", "summary": "Open when looking up border-top-left-radius in Premiere Pro.", "keywords": ["border-top-left-radius"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

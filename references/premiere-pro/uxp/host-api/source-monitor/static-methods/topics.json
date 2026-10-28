@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "closeAllClips", "file": "uxp/host-api/source-monitor/static-methods/close-all-clips.md", "summary": "Open when looking up closeAllClips in Premiere Pro.", "keywords": ["closeAllClips"]},
+  {"topic": "closeClip", "file": "uxp/host-api/source-monitor/static-methods/close-clip.md", "summary": "Open when looking up closeClip in Premiere Pro.", "keywords": ["closeClip"]},
+  {"topic": "getPosition", "file": "uxp/host-api/source-monitor/static-methods/get-position.md", "summary": "Open when looking up getPosition in Premiere Pro.", "keywords": ["getPosition"]},
+  {"topic": "getProjectItem", "file": "uxp/host-api/source-monitor/static-methods/get-project-item.md", "summary": "Open when looking up getProjectItem in Premiere Pro.", "keywords": ["getProjectItem"]},
+  {"topic": "openFilePath", "file": "uxp/host-api/source-monitor/static-methods/open-file-path.md", "summary": "Open when looking up openFilePath in Premiere Pro.", "keywords": ["openFilePath"]},
+  {"topic": "openProjectItem", "file": "uxp/host-api/source-monitor/static-methods/open-project-item.md", "summary": "Open when looking up openProjectItem in Premiere Pro.", "keywords": ["openProjectItem"]},
+  {"topic": "play", "file": "uxp/host-api/source-monitor/static-methods/play.md", "summary": "Open when looking up play in Premiere Pro.", "keywords": ["play"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

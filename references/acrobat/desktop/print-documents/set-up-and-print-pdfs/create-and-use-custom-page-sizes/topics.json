@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Create custom page sizes", "file": "desktop/print-documents/set-up-and-print-pdfs/create-and-use-custom-page-sizes/create-custom-page-sizes.md", "summary": "Open when looking up Create custom page sizes in Acrobat.", "keywords": ["Create custom page sizes"]},
+  {"topic": "Use custom page sizes", "file": "desktop/print-documents/set-up-and-print-pdfs/create-and-use-custom-page-sizes/use-custom-page-sizes.md", "summary": "Open when looking up Use custom page sizes in Acrobat.", "keywords": ["Use custom page sizes"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "addAnnotationsInPDF API", "file": "references/pdf-embed/handling-existing-annotations/add-annotations-in-pdf-api.md", "summary": "Open when looking up addAnnotationsInPDF API in Acrobat.", "keywords": ["addAnnotationsInPDF API"]},
-  {"topic": "removeAnnotationsFromPDF API", "file": "references/pdf-embed/handling-existing-annotations/remove-annotations-from-pdf-api.md", "summary": "Open when looking up removeAnnotationsFromPDF API in Acrobat.", "keywords": ["removeAnnotationsFromPDF API"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

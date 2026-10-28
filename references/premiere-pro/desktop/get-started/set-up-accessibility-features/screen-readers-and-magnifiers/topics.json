@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Support for operating system accessibility features", "file": "desktop/get-started/set-up-accessibility-features/screen-readers-and-magnifiers/support-for-operating-system-accessibility-features.md", "summary": "Open when looking up Support for operating system accessibility features in Premiere Pro.", "keywords": ["Support for operating system accessibility features"]},
+  {"topic": "Support for screen readers and screen magnifiers", "file": "desktop/get-started/set-up-accessibility-features/screen-readers-and-magnifiers/support-for-screen-readers-and-screen-magnifiers.md", "summary": "Open when looking up Support for screen readers and screen magnifiers in Premiere Pro.", "keywords": ["Support for screen readers and screen magnifiers"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

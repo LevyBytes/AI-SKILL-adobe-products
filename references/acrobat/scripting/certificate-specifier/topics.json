@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "CertificateSpecifier.flags", "file": "scripting/certificate-specifier/flags.md", "summary": "Open when looking up CertificateSpecifier.flags in Acrobat.", "keywords": ["CertificateSpecifier.flags"]},
+  {"topic": "CertificateSpecifier.issuer", "file": "scripting/certificate-specifier/issuer.md", "summary": "Open when looking up CertificateSpecifier.issuer in Acrobat.", "keywords": ["CertificateSpecifier.issuer"]},
+  {"topic": "CertificateSpecifier.keyUsage", "file": "scripting/certificate-specifier/key-usage.md", "summary": "Open when looking up CertificateSpecifier.keyUsage in Acrobat.", "keywords": ["CertificateSpecifier.keyUsage"]},
+  {"topic": "CertificateSpecifier.oid", "file": "scripting/certificate-specifier/oid.md", "summary": "Open when looking up CertificateSpecifier.oid in Acrobat.", "keywords": ["CertificateSpecifier.oid"]},
+  {"topic": "CertificateSpecifier.subject", "file": "scripting/certificate-specifier/subject.md", "summary": "Open when looking up CertificateSpecifier.subject in Acrobat.", "keywords": ["CertificateSpecifier.subject"]},
+  {"topic": "CertificateSpecifier.subjectDN", "file": "scripting/certificate-specifier/subject-dn.md", "summary": "Open when looking up CertificateSpecifier.subjectDN in Acrobat.", "keywords": ["CertificateSpecifier.subjectDN"]},
+  {"topic": "CertificateSpecifier.url", "file": "scripting/certificate-specifier/url.md", "summary": "Open when looking up CertificateSpecifier.url in Acrobat.", "keywords": ["CertificateSpecifier.url"]},
+  {"topic": "CertificateSpecifier.urlType", "file": "scripting/certificate-specifier/url-type.md", "summary": "Open when looking up CertificateSpecifier.urlType in Acrobat.", "keywords": ["CertificateSpecifier.urlType"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

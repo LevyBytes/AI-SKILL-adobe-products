@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "ease(t, value1, value2)", "file": "desktop/interpolation-methods/ease.md", "summary": "Open when looking up ease(t, value1, value2) in After Effects.", "keywords": ["ease(t, value1, value2)"]},
+  {"topic": "easeIn(t, value1, value2)", "file": "desktop/interpolation-methods/ease-in.md", "summary": "Open when looking up easeIn(t, value1, value2) in After Effects.", "keywords": ["easeIn(t, value1, value2)"]},
+  {"topic": "easeOut(t, value1, value2)", "file": "desktop/interpolation-methods/ease-out.md", "summary": "Open when looking up easeOut(t, value1, value2) in After Effects.", "keywords": ["easeOut(t, value1, value2)"]},
+  {"topic": "linear(t, tMin, tMax, value1, value2)", "file": "desktop/interpolation-methods/linear.md", "summary": "Open when looking up linear(t, tMin, tMax, value1, value2) in After Effects.", "keywords": ["linear(t, tMin, tMax, value1, value2)"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

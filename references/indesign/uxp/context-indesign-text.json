@@ -1,0 +1,19 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Change Grep Preference", "file": "uxp/change-grep-preference.md", "summary": "Open when looking up Change Grep Preference in InDesign.", "keywords": ["Change Grep Preference"]},
+  {"topic": "Change Text Preference", "file": "uxp/change-text-preference.md", "summary": "Open when looking up Change Text Preference in InDesign.", "keywords": ["Change Text Preference"]},
+  {"topic": "Change Transliterate Preference", "file": "uxp/change-transliterate-preference.md", "summary": "Open when looking up Change Transliterate Preference in InDesign.", "keywords": ["Change Transliterate Preference"]},
+  {"topic": "Character", "file": "uxp/character.md", "summary": "Open when looking up Character in InDesign.", "keywords": ["Character"]},
+  {"topic": "Find Grep Preference", "file": "uxp/find-grep-preference.md", "summary": "Open when looking up Find Grep Preference in InDesign.", "keywords": ["Find Grep Preference"]},
+  {"topic": "Find Text Preference", "file": "uxp/find-text-preference.md", "summary": "Open when looking up Find Text Preference in InDesign.", "keywords": ["Find Text Preference"]},
+  {"topic": "Find Transliterate Preference", "file": "uxp/find-transliterate-preference.md", "summary": "Open when looking up Find Transliterate Preference in InDesign.", "keywords": ["Find Transliterate Preference"]},
+  {"topic": "Insertion Point", "file": "uxp/insertion-point.md", "summary": "Open when looking up Insertion Point in InDesign.", "keywords": ["Insertion Point"]},
+  {"topic": "Line", "file": "uxp/line.md", "summary": "Open when looking up Line in InDesign.", "keywords": ["Line"]},
+  {"topic": "Middle Eastern Scripting Guide", "file": "uxp/middle-eastern-scripting-guide.md", "summary": "Open when looking up Middle Eastern Scripting Guide in InDesign.", "keywords": ["Middle Eastern Scripting Guide"]},
+  {"topic": "Middle Eastern Scripting Guide references", "file": "uxp/middle-eastern-scripting-guide/reference-index.md", "summary": "Open when looking up Middle Eastern Scripting Guide in InDesign.", "keywords": ["Middle Eastern Scripting Guide references"]},
+  {"topic": "Paragraph Style", "file": "uxp/paragraph-style.md", "summary": "Open when looking up Paragraph Style in InDesign.", "keywords": ["Paragraph Style"]},
+  {"topic": "Text", "file": "uxp/text.md", "summary": "Open when looking up Text in InDesign.", "keywords": ["Text"]},
+  {"topic": "Text Column", "file": "uxp/text-column.md", "summary": "Open when looking up Text Column in InDesign.", "keywords": ["Text Column"]},
+  {"topic": "Text references", "file": "uxp/text/reference-index.md", "summary": "Open when looking up Text in InDesign.", "keywords": ["Text references"]},
+  {"topic": "Text Style Range", "file": "uxp/text-style-range.md", "summary": "Open when looking up Text Style Range in InDesign.", "keywords": ["Text Style Range"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/audition", "topics": [
+  {"topic": "Change displayed metadata in the Files panel", "file": "desktop/importing-recording-and-playing/how-to-import-files-with-files-panel/change-displayed-metadata-in-the-files-panel.md", "summary": "Open when looking up Change displayed metadata in the Files panel in Audition.", "keywords": ["Change displayed metadata in the Files panel"]},
+  {"topic": "Import files into the Files panel", "file": "desktop/importing-recording-and-playing/how-to-import-files-with-files-panel/import-files-into-the-files-panel.md", "summary": "Open when looking up Import files into the Files panel in Audition.", "keywords": ["Import files into the Files panel"]},
+  {"topic": "Insert from the Files panel into a multitrack session", "file": "desktop/importing-recording-and-playing/how-to-import-files-with-files-panel/insert-from-the-files-panel-into-a-multitrack-session.md", "summary": "Open when looking up Insert from the Files panel into a multitrack session in Audition.", "keywords": ["Insert from the Files panel into a multitrack session"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

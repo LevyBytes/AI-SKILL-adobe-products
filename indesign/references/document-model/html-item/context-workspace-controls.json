@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "localDisplaySetting", "file": "references/document-model/html-item/local-display-setting.md", "summary": "Open when looking up localDisplaySetting in InDesign.", "keywords": ["localDisplaySetting"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

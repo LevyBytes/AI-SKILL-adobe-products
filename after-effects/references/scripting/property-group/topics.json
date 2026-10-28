@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "PropertyGroup.addProperty()", "file": "references/scripting/property-group/add-property.md", "summary": "Open when looking up PropertyGroup.addProperty() in After Effects.", "keywords": ["PropertyGroup.addProperty()"]},
-  {"topic": "PropertyGroup.addVariableFontAxis()", "file": "references/scripting/property-group/add-variable-font-axis.md", "summary": "Open when looking up PropertyGroup.addVariableFontAxis() in After Effects.", "keywords": ["PropertyGroup.addVariableFontAxis()"]},
-  {"topic": "PropertyGroup.canAddProperty()", "file": "references/scripting/property-group/can-add-property.md", "summary": "Open when looking up PropertyGroup.canAddProperty() in After Effects.", "keywords": ["PropertyGroup.canAddProperty()"]},
-  {"topic": "PropertyGroup.numProperties", "file": "references/scripting/property-group/num-properties.md", "summary": "Open when looking up PropertyGroup.numProperties in After Effects.", "keywords": ["PropertyGroup.numProperties"]},
-  {"topic": "PropertyGroup.property()", "file": "references/scripting/property-group/property.md", "summary": "Open when looking up PropertyGroup.property() in After Effects.", "keywords": ["PropertyGroup.property()"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

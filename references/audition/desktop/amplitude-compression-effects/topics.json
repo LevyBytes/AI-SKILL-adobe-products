@@ -1,0 +1,21 @@
+{"schema_version": 1, "owner": "references/audition", "topics": [
+  {"topic": "Amplify effect", "file": "desktop/amplitude-compression-effects/amplify-effect.md", "summary": "Open when looking up Amplify effect in Audition.", "keywords": ["Amplify effect"]},
+  {"topic": "Band Limiting", "file": "desktop/amplitude-compression-effects/band-limiting.md", "summary": "Open when looking up Band Limiting in Audition.", "keywords": ["Band Limiting"]},
+  {"topic": "Channel Mixer effect", "file": "desktop/amplitude-compression-effects/channel-mixer-effect.md", "summary": "Open when looking up Channel Mixer effect in Audition.", "keywords": ["Channel Mixer effect"]},
+  {"topic": "DeEsser effect", "file": "desktop/amplitude-compression-effects/de-esser-effect.md", "summary": "Open when looking up DeEsser effect in Audition.", "keywords": ["DeEsser effect"]},
+  {"topic": "Dynamic Effect", "file": "desktop/amplitude-compression-effects/dynamic-effect.md", "summary": "Open when looking up Dynamic Effect in Audition.", "keywords": ["Dynamic Effect"]},
+  {"topic": "Dynamics Processing effect", "file": "desktop/amplitude-compression-effects/dynamics-processing-effect.md", "summary": "Open when looking up Dynamics Processing effect in Audition.", "keywords": ["Dynamics Processing effect"]},
+  {"topic": "Dynamics tab", "file": "desktop/amplitude-compression-effects/dynamics-tab.md", "summary": "Open when looking up Dynamics tab in Audition.", "keywords": ["Dynamics tab"]},
+  {"topic": "Fade Envelope effect", "file": "desktop/amplitude-compression-effects/fade-envelope-effect.md", "summary": "Open when looking up Fade Envelope effect in Audition.", "keywords": ["Fade Envelope effect"]},
+  {"topic": "Gain Envelope effect", "file": "desktop/amplitude-compression-effects/gain-envelope-effect.md", "summary": "Open when looking up Gain Envelope effect in Audition.", "keywords": ["Gain Envelope effect"]},
+  {"topic": "Gain Processor", "file": "desktop/amplitude-compression-effects/gain-processor.md", "summary": "Open when looking up Gain Processor in Audition.", "keywords": ["Gain Processor"]},
+  {"topic": "General", "file": "desktop/amplitude-compression-effects/general.md", "summary": "Open when looking up General in Audition.", "keywords": ["General"]},
+  {"topic": "Hard Limiter effect", "file": "desktop/amplitude-compression-effects/hard-limiter-effect.md", "summary": "Open when looking up Hard Limiter effect in Audition.", "keywords": ["Hard Limiter effect"]},
+  {"topic": "Level Detector", "file": "desktop/amplitude-compression-effects/level-detector.md", "summary": "Open when looking up Level Detector in Audition.", "keywords": ["Level Detector"]},
+  {"topic": "Multiband Compressor effect", "file": "desktop/amplitude-compression-effects/multiband-compressor-effect.md", "summary": "Open when looking up Multiband Compressor effect in Audition.", "keywords": ["Multiband Compressor effect"]},
+  {"topic": "Normalize effect (Waveform Editor only)", "file": "desktop/amplitude-compression-effects/normalize-effect-waveform-editor-only.md", "summary": "Open when looking up Normalize effect (Waveform Editor only) in Audition.", "keywords": ["Normalize effect (Waveform Editor only)"]},
+  {"topic": "Single-band Compressor effect", "file": "desktop/amplitude-compression-effects/single-band-compressor-effect.md", "summary": "Open when looking up Single-band Compressor effect in Audition.", "keywords": ["Single-band Compressor effect"]},
+  {"topic": "Speech Volume Leveler effect", "file": "desktop/amplitude-compression-effects/speech-volume-leveler-effect.md", "summary": "Open when looking up Speech Volume Leveler effect in Audition.", "keywords": ["Speech Volume Leveler effect"]},
+  {"topic": "Tube-modeled Compressor effect", "file": "desktop/amplitude-compression-effects/tube-modeled-compressor-effect.md", "summary": "Open when looking up Tube-modeled Compressor effect in Audition.", "keywords": ["Tube-modeled Compressor effect"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

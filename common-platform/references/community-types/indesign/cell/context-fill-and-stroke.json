@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Cell.fillColor", "file": "references/community-types/indesign/cell/fill-color.md", "summary": "Open when looking up Cell.fillColor in Shared Adobe platform.", "keywords": ["Cell.fillColor"]},
-  {"topic": "Cell.fillTint", "file": "references/community-types/indesign/cell/fill-tint.md", "summary": "Open when looking up Cell.fillTint in Shared Adobe platform.", "keywords": ["Cell.fillTint"]},
-  {"topic": "Cell.gradientFillAngle", "file": "references/community-types/indesign/cell/gradient-fill-angle.md", "summary": "Open when looking up Cell.gradientFillAngle in Shared Adobe platform.", "keywords": ["Cell.gradientFillAngle"]},
-  {"topic": "Cell.gradientFillLength", "file": "references/community-types/indesign/cell/gradient-fill-length.md", "summary": "Open when looking up Cell.gradientFillLength in Shared Adobe platform.", "keywords": ["Cell.gradientFillLength"]},
-  {"topic": "Cell.gradientFillStart", "file": "references/community-types/indesign/cell/gradient-fill-start.md", "summary": "Open when looking up Cell.gradientFillStart in Shared Adobe platform.", "keywords": ["Cell.gradientFillStart"]},
-  {"topic": "Cell.overprintFill", "file": "references/community-types/indesign/cell/overprint-fill.md", "summary": "Open when looking up Cell.overprintFill in Shared Adobe platform.", "keywords": ["Cell.overprintFill"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

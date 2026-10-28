@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Document Requirements", "file": "pdf-services/pdf-to-markdown/document-requirements.md", "summary": "Open when checking input exclusions, processing limits and transaction accounting.", "keywords": ["Document Requirements"]},
+  {"topic": "REST API", "file": "pdf-services/pdf-to-markdown/rest-api.md", "summary": "Open when implementing authenticated upload, job submission, status polling and Markdown retrieval.", "keywords": ["REST API"]},
+  {"topic": "Output Structure", "file": "pdf-services/pdf-to-markdown/output-structure.md", "summary": "Open when interpreting converted text, tables, figures, structural elements and reading order.", "keywords": ["Output Structure"]},
+  {"topic": "Use Cases", "file": "pdf-services/pdf-to-markdown/use-cases.md", "summary": "Open when choosing document ingestion, publishing or analysis workflows.", "keywords": ["Use Cases"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

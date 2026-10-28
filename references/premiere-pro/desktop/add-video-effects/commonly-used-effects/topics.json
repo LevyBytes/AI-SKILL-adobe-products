@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Auto Reframe overview", "file": "desktop/add-video-effects/commonly-used-effects/auto-reframe-overview.md", "summary": "Open when looking up Auto Reframe overview in Premiere Pro.", "keywords": ["Auto Reframe overview"]},
+  {"topic": "Auto Reframe overview references", "file": "desktop/add-video-effects/commonly-used-effects/auto-reframe-overview/reference-index.md", "summary": "Open when looking up Auto Reframe overview in Premiere Pro.", "keywords": ["Auto Reframe overview references"]},
+  {"topic": "Create a black video", "file": "desktop/add-video-effects/commonly-used-effects/create-a-black-video.md", "summary": "Open when looking up Create a black video in Premiere Pro.", "keywords": ["Create a black video"]},
+  {"topic": "Create a color matte", "file": "desktop/add-video-effects/commonly-used-effects/create-a-color-matte.md", "summary": "Open when looking up Create a color matte in Premiere Pro.", "keywords": ["Create a color matte"]},
+  {"topic": "Create a counting leader", "file": "desktop/add-video-effects/commonly-used-effects/create-a-counting-leader.md", "summary": "Open when looking up Create a counting leader in Premiere Pro.", "keywords": ["Create a counting leader"]},
+  {"topic": "Create a transparent video clip", "file": "desktop/add-video-effects/commonly-used-effects/create-a-transparent-video-clip.md", "summary": "Open when looking up Create a transparent video clip in Premiere Pro.", "keywords": ["Create a transparent video clip"]},
+  {"topic": "Create color bars and a 1-kHz tone", "file": "desktop/add-video-effects/commonly-used-effects/create-color-bars-and-a-1-k-hz-tone.md", "summary": "Open when looking up Create color bars and a 1-kHz tone in Premiere Pro.", "keywords": ["Create color bars and a 1-kHz tone"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "declare const $: $", "file": "community-types/shared/declare-const.md", "summary": "Open when looking up declare const $: $ in Shared Adobe platform.", "keywords": ["declare const $: $"]},
+  {"topic": "declare const Reflection: Reflection", "file": "community-types/shared/declare-const-reflection-reflection.md", "summary": "Open when looking up declare const Reflection: Reflection in Shared Adobe platform.", "keywords": ["declare const Reflection: Reflection"]},
+  {"topic": "declare const ReflectionInfo: ReflectionInfo", "file": "community-types/shared/declare-const-reflection-info-reflection-info.md", "summary": "Open when looking up declare const ReflectionInfo: ReflectionInfo in Shared Adobe platform.", "keywords": ["declare const ReflectionInfo: ReflectionInfo"]},
+  {"topic": "$ references", "file": "community-types/shared/extendscript-dollar/reference-index.md", "summary": "Open when looking up $ in Shared Adobe platform.", "keywords": ["$ references"]},
+  {"topic": "Environment", "file": "community-types/shared/environment.md", "summary": "Open when looking up Environment in Shared Adobe platform.", "keywords": ["Environment"]},
+  {"topic": "Reflection", "file": "community-types/shared/reflection.md", "summary": "Open when looking up Reflection in Shared Adobe platform.", "keywords": ["Reflection"]},
+  {"topic": "ReflectionInfo", "file": "community-types/shared/reflection-info.md", "summary": "Open when looking up ReflectionInfo in Shared Adobe platform.", "keywords": ["ReflectionInfo"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

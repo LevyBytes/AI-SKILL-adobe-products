@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "XMPProperty - locale : string", "file": "references/uxp/xmp-property-xmp-property/xmp-property-locale-string.md", "summary": "Open when looking up XMPProperty - locale : string in Photoshop.", "keywords": ["XMPProperty - locale : string"]},
-  {"topic": "XMPProperty - namespace : string", "file": "references/uxp/xmp-property-xmp-property/xmp-property-namespace-string.md", "summary": "Open when looking up XMPProperty - namespace : string in Photoshop.", "keywords": ["XMPProperty - namespace : string"]},
-  {"topic": "XMPProperty - options : number", "file": "references/uxp/xmp-property-xmp-property/xmp-property-options-number.md", "summary": "Open when looking up XMPProperty - options : number in Photoshop.", "keywords": ["XMPProperty - options : number"]},
-  {"topic": "XMPProperty - path : number", "file": "references/uxp/xmp-property-xmp-property/xmp-property-path-number.md", "summary": "Open when looking up XMPProperty - path : number in Photoshop.", "keywords": ["XMPProperty - path : number"]},
-  {"topic": "XMPProperty - toString()", "file": "references/uxp/xmp-property-xmp-property/xmp-property-to-string.md", "summary": "Open when looking up XMPProperty - toString() in Photoshop.", "keywords": ["XMPProperty - toString()"]},
-  {"topic": "XMPProperty - value : string \\| number \\| boolean \\| XMPDateTime", "file": "references/uxp/xmp-property-xmp-property/xmp-property-value-string-number-boolean-xmp-date-time.md", "summary": "Open when looking up XMPProperty - value : string \\| number \\| boolean \\| XMPDateTime in Photoshop.", "keywords": ["XMPProperty - value : string \\| number \\| boolean \\| XMPDateTime"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

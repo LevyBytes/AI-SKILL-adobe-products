@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Add hyperlinks in the TOC", "file": "references/desktop/indexes-and-references/add-a-table-of-contents/interactive-toc/add-hyperlinks-in-the-toc.md", "summary": "Open when looking up Add hyperlinks in the TOC in InDesign.", "keywords": ["Add hyperlinks in the TOC"]},
-  {"topic": "Export the document with an interactive TOC", "file": "references/desktop/indexes-and-references/add-a-table-of-contents/interactive-toc/export-the-document-with-an-interactive-toc.md", "summary": "Open when looking up Export the document with an interactive TOC in InDesign.", "keywords": ["Export the document with an interactive TOC"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

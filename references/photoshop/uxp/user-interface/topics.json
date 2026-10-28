@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "UXP Spectrum Components", "file": "uxp/user-interface/uxp-spectrum-components.md", "summary": "Open when looking up UXP Spectrum Components in Photoshop.", "keywords": ["UXP Spectrum Components"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "ClippingPathSettings", "file": "community-types/indesign/clipping-path-settings.md", "summary": "Open when looking up ClippingPathSettings in Shared Adobe platform.", "keywords": ["ClippingPathSettings"]},
+  {"topic": "ClippingPathType", "file": "community-types/indesign/clipping-path-type.md", "summary": "Open when looking up ClippingPathType in Shared Adobe platform.", "keywords": ["ClippingPathType"]},
+  {"topic": "ContourOption", "file": "community-types/indesign/contour-option.md", "summary": "Open when looking up ContourOption in Shared Adobe platform.", "keywords": ["ContourOption"]},
+  {"topic": "ContourOptionsTypes", "file": "community-types/indesign/contour-options-types.md", "summary": "Open when looking up ContourOptionsTypes in Shared Adobe platform.", "keywords": ["ContourOptionsTypes"]},
+  {"topic": "EmptyFrameFittingOptions", "file": "community-types/indesign/empty-frame-fitting-options.md", "summary": "Open when looking up EmptyFrameFittingOptions in Shared Adobe platform.", "keywords": ["EmptyFrameFittingOptions"]},
+  {"topic": "FitMethodSettings", "file": "community-types/indesign/fit-method-settings.md", "summary": "Open when looking up FitMethodSettings in Shared Adobe platform.", "keywords": ["FitMethodSettings"]},
+  {"topic": "FitOptions", "file": "community-types/indesign/fit-options.md", "summary": "Open when looking up FitOptions in Shared Adobe platform.", "keywords": ["FitOptions"]},
+  {"topic": "Fitting", "file": "community-types/indesign/fitting.md", "summary": "Open when looking up Fitting in Shared Adobe platform.", "keywords": ["Fitting"]},
+  {"topic": "FollowShapeModeOptions", "file": "community-types/indesign/follow-shape-mode-options.md", "summary": "Open when looking up FollowShapeModeOptions in Shared Adobe platform.", "keywords": ["FollowShapeModeOptions"]},
+  {"topic": "FrameFittingOption", "file": "community-types/indesign/frame-fitting-option.md", "summary": "Open when looking up FrameFittingOption in Shared Adobe platform.", "keywords": ["FrameFittingOption"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

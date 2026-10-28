@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Acrobat Services Security", "file": "pdf-services/acrobat-services-security.md", "summary": "Open when looking up Acrobat Services Security in Acrobat.", "keywords": ["Acrobat Services Security"]},
+  {"topic": "Acrobat Services Security references", "file": "pdf-services/acrobat-services-security/reference-index.md", "summary": "Open when looking up Acrobat Services Security in Acrobat.", "keywords": ["Acrobat Services Security references"]},
+  {"topic": "Acrobat Services status", "file": "pdf-services/acrobat-services-status.md", "summary": "Open when looking up Acrobat Services status in Acrobat.", "keywords": ["Acrobat Services status"]},
+  {"topic": "Policies", "file": "pdf-services/policies.md", "summary": "Open when looking up Policies in Acrobat.", "keywords": ["Policies"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

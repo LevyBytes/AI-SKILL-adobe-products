@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "index.html", "file": "uxp/key-concepts/index-html.md", "summary": "Open when looking up index.html in Premiere Pro.", "keywords": ["index.html"]},
+  {"topic": "main.js", "file": "uxp/key-concepts/main-js.md", "summary": "Open when looking up main.js in Premiere Pro.", "keywords": ["main.js"]},
+  {"topic": "Modal Dialog creation properties", "file": "uxp/key-concepts/modal-dialog-creation-properties.md", "summary": "Open when looking up Modal Dialog creation properties in Premiere Pro.", "keywords": ["Modal Dialog creation properties"]},
+  {"topic": "Multiple Modal Dialogs", "file": "uxp/key-concepts/multiple-modal-dialogs.md", "summary": "Open when looking up Multiple Modal Dialogs in Premiere Pro.", "keywords": ["Multiple Modal Dialogs"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

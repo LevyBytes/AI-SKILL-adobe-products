@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "changeObject", "file": "document-model/eps-text/change-object.md", "summary": "Open when looking up changeObject in InDesign.", "keywords": ["changeObject"]},
+  {"topic": "findObject", "file": "document-model/eps-text/find-object.md", "summary": "Open when looking up findObject in InDesign.", "keywords": ["findObject"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

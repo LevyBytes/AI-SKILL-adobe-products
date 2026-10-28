@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "About animation, keyframes, and expressions", "file": "desktop/animation/animation-basics/about-animation-keyframes-and-expressions.md", "summary": "Open when looking up About animation, keyframes, and expressions in After Effects.", "keywords": ["About animation, keyframes, and expressions"]},
+  {"topic": "Animation Basics", "file": "desktop/animation/animation-basics/animation-basics.md", "summary": "Open when looking up Animation Basics in After Effects.", "keywords": ["Animation Basics"]},
+  {"topic": "Auto Zoom Height and Fit", "file": "desktop/animation/animation-basics/auto-zoom-height-and-fit.md", "summary": "Open when looking up Auto Zoom Height and Fit in After Effects.", "keywords": ["Auto Zoom Height and Fit"]},
+  {"topic": "Expressions", "file": "desktop/animation/animation-basics/expressions.md", "summary": "Open when looking up Expressions in After Effects.", "keywords": ["Expressions"]},
+  {"topic": "Graph options in the Graph Editor", "file": "desktop/animation/animation-basics/graph-options-in-the-graph-editor.md", "summary": "Open when looking up Graph options in the Graph Editor in After Effects.", "keywords": ["Graph options in the Graph Editor"]},
+  {"topic": "Keyframes", "file": "desktop/animation/animation-basics/keyframes.md", "summary": "Open when looking up Keyframes in After Effects.", "keywords": ["Keyframes"]},
+  {"topic": "Pan and zoom in the Graph Editor", "file": "desktop/animation/animation-basics/pan-and-zoom-in-the-graph-editor.md", "summary": "Open when looking up Pan and zoom in the Graph Editor in After Effects.", "keywords": ["Pan and zoom in the Graph Editor"]},
+  {"topic": "Specify which properties are shown in the Graph Editor", "file": "desktop/animation/animation-basics/specify-which-properties-are-shown-in-the-graph-editor.md", "summary": "Open when looking up Specify which properties are shown in the Graph Editor in After Effects.", "keywords": ["Specify which properties are shown in the Graph Editor"]},
+  {"topic": "The Graph Editor", "file": "desktop/animation/animation-basics/the-graph-editor.md", "summary": "Open when looking up The Graph Editor in After Effects.", "keywords": ["The Graph Editor"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

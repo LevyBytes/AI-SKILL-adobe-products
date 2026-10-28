@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Example: conditional text edits across layers", "file": "cloud-services/text-layer-operations/using-uxp-scripts/example-conditional-text-edits-across-layers.md", "summary": "Open when looking up Example: conditional text edits across layers in Photoshop.", "keywords": ["Example: conditional text edits across layers"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

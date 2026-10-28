@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Arbitrary Data Parameters - When Not To Access Arbitrary Parameters", "file": "plugin-sdk/when-not-to-access-arbitrary-parameters/when-not-to-access-arbitrary-parameters.md", "summary": "Open when looking up Arbitrary Data Parameters - When Not To Access Arbitrary Parameters in After Effects.", "keywords": ["Arbitrary Data Parameters - When Not To Access Arbitrary Parameters"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

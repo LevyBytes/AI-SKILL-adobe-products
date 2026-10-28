@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "LEADING_MODEL_AKI_ABOVE", "file": "document-model/leading-model/leadingmodelakiabove.md", "summary": "Open when looking up LEADING_MODEL_AKI_ABOVE in InDesign.", "keywords": ["LEADING_MODEL_AKI_ABOVE"]},
+  {"topic": "LEADING_MODEL_AKI_BELOW", "file": "document-model/leading-model/leadingmodelakibelow.md", "summary": "Open when looking up LEADING_MODEL_AKI_BELOW in InDesign.", "keywords": ["LEADING_MODEL_AKI_BELOW"]},
+  {"topic": "LEADING_MODEL_CENTER", "file": "document-model/leading-model/leadingmodelcenter.md", "summary": "Open when looking up LEADING_MODEL_CENTER in InDesign.", "keywords": ["LEADING_MODEL_CENTER"]},
+  {"topic": "LEADING_MODEL_CENTER_DOWN", "file": "document-model/leading-model/leadingmodelcenterdown.md", "summary": "Open when looking up LEADING_MODEL_CENTER_DOWN in InDesign.", "keywords": ["LEADING_MODEL_CENTER_DOWN"]},
+  {"topic": "LEADING_MODEL_ROMAN", "file": "document-model/leading-model/leadingmodelroman.md", "summary": "Open when looking up LEADING_MODEL_ROMAN in InDesign.", "keywords": ["LEADING_MODEL_ROMAN"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

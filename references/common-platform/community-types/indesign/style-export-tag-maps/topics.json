@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "StyleExportTagMaps collection iteration", "file": "community-types/indesign/style-export-tag-maps/collection-iteration.md", "summary": "Open when looking up StyleExportTagMaps collection iteration in Shared Adobe platform.", "keywords": ["StyleExportTagMaps collection iteration"]},
+  {"topic": "StyleExportTagMaps declaration", "file": "community-types/indesign/style-export-tag-maps/declaration.md", "summary": "Open when looking up StyleExportTagMaps declaration in Shared Adobe platform.", "keywords": ["StyleExportTagMaps declaration"]},
+  {"topic": "StyleExportTagMaps.add", "file": "community-types/indesign/style-export-tag-maps/add.md", "summary": "Open when looking up StyleExportTagMaps.add in Shared Adobe platform.", "keywords": ["StyleExportTagMaps.add"]},
+  {"topic": "StyleExportTagMaps.count", "file": "community-types/indesign/style-export-tag-maps/count.md", "summary": "Open when looking up StyleExportTagMaps.count in Shared Adobe platform.", "keywords": ["StyleExportTagMaps.count"]},
+  {"topic": "StyleExportTagMaps.IndexSignature", "file": "community-types/indesign/style-export-tag-maps/index-signature.md", "summary": "Open when looking up StyleExportTagMaps.IndexSignature in Shared Adobe platform.", "keywords": ["StyleExportTagMaps.IndexSignature"]},
+  {"topic": "StyleExportTagMaps.item", "file": "community-types/indesign/style-export-tag-maps/item.md", "summary": "Open when looking up StyleExportTagMaps.item in Shared Adobe platform.", "keywords": ["StyleExportTagMaps.item"]},
+  {"topic": "StyleExportTagMaps.itemByRange", "file": "community-types/indesign/style-export-tag-maps/item-by-range.md", "summary": "Open when looking up StyleExportTagMaps.itemByRange in Shared Adobe platform.", "keywords": ["StyleExportTagMaps.itemByRange"]},
+  {"topic": "StyleExportTagMaps.length", "file": "community-types/indesign/style-export-tag-maps/length.md", "summary": "Open when looking up StyleExportTagMaps.length in Shared Adobe platform.", "keywords": ["StyleExportTagMaps.length"]},
+  {"topic": "StyleExportTagMaps.toSource", "file": "community-types/indesign/style-export-tag-maps/to-source.md", "summary": "Open when looking up StyleExportTagMaps.toSource in Shared Adobe platform.", "keywords": ["StyleExportTagMaps.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

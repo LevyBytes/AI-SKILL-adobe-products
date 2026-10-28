@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "numErrors", "file": "scripting/preflight-result/num-errors.md", "summary": "Open when looking up numErrors in Acrobat.", "keywords": ["numErrors"]},
+  {"topic": "numFixed", "file": "scripting/preflight-result/num-fixed.md", "summary": "Open when looking up numFixed in Acrobat.", "keywords": ["numFixed"]},
+  {"topic": "numInfos", "file": "scripting/preflight-result/num-infos.md", "summary": "Open when looking up numInfos in Acrobat.", "keywords": ["numInfos"]},
+  {"topic": "numNotFixed", "file": "scripting/preflight-result/num-not-fixed.md", "summary": "Open when looking up numNotFixed in Acrobat.", "keywords": ["numNotFixed"]},
+  {"topic": "numWarnings", "file": "scripting/preflight-result/num-warnings.md", "summary": "Open when looking up numWarnings in Acrobat.", "keywords": ["numWarnings"]},
+  {"topic": "Preflight APIs - PreflightResult", "file": "scripting/preflight-result/preflight-apis-preflight-result.md", "summary": "Open when looking up Preflight APIs - PreflightResult in Acrobat.", "keywords": ["Preflight APIs - PreflightResult"]},
+  {"topic": "report", "file": "scripting/preflight-result/report.md", "summary": "Open when looking up report in Acrobat.", "keywords": ["report"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

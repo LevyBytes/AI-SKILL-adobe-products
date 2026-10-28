@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Add-In Demo", "file": "references/document-generation/word-add-in/add-in-demo.md", "summary": "Open when looking up Add-In Demo in Acrobat.", "keywords": ["Add-In Demo"]},
-  {"topic": "How to install", "file": "references/document-generation/word-add-in/how-to-install.md", "summary": "Open when looking up How to install in Acrobat.", "keywords": ["How to install"]},
-  {"topic": "Installing at the Tenant level", "file": "references/document-generation/word-add-in/installing-at-the-tenant-level.md", "summary": "Open when looking up Installing at the Tenant level in Acrobat.", "keywords": ["Installing at the Tenant level"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

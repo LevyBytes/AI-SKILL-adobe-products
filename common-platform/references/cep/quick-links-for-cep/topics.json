@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "32-bit application", "file": "references/cep/quick-links-for-cep/32-bit-application.md", "summary": "Open when looking up 32-bit application in Shared Adobe platform.", "keywords": ["32-bit application"]},
-  {"topic": "Another option", "file": "references/cep/quick-links-for-cep/another-option.md", "summary": "Open when looking up Another option in Shared Adobe platform.", "keywords": ["Another option"]},
-  {"topic": "Known issues", "file": "references/cep/quick-links-for-cep/known-issues.md", "summary": "Open when looking up Known issues in Shared Adobe platform.", "keywords": ["Known issues"]},
-  {"topic": "Workaround for ExtendScript Toolkit Debugger Error #1116", "file": "references/cep/quick-links-for-cep/workaround-for-extend-script-toolkit-debugger-error-1116.md", "summary": "Open when looking up Workaround for ExtendScript Toolkit Debugger Error #1116 in Shared Adobe platform.", "keywords": ["Workaround for ExtendScript Toolkit Debugger Error #1116"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

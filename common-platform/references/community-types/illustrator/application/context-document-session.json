@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Application.activeDocument", "file": "references/community-types/illustrator/application/active-document.md", "summary": "Open when looking up Application.activeDocument in Shared Adobe platform.", "keywords": ["Application.activeDocument"]},
-  {"topic": "Application.documents", "file": "references/community-types/illustrator/application/documents.md", "summary": "Open when looking up Application.documents in Shared Adobe platform.", "keywords": ["Application.documents"]},
-  {"topic": "Application.open", "file": "references/community-types/illustrator/application/open.md", "summary": "Open when looking up Application.open in Shared Adobe platform.", "keywords": ["Application.open"]},
-  {"topic": "Application.quit", "file": "references/community-types/illustrator/application/quit.md", "summary": "Open when looking up Application.quit in Shared Adobe platform.", "keywords": ["Application.quit"]},
-  {"topic": "Application.startupPresetsList", "file": "references/community-types/illustrator/application/startup-presets-list.md", "summary": "Open when looking up Application.startupPresetsList in Shared Adobe platform.", "keywords": ["Application.startupPresetsList"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

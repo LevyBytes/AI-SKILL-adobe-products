@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "addon", "file": "references/uxp/optional-properties/addon.md", "summary": "Open when looking up addon in Premiere Pro.", "keywords": ["addon"]},
-  {"topic": "featureFlags", "file": "references/uxp/optional-properties/feature-flags.md", "summary": "Open when looking up featureFlags in Premiere Pro.", "keywords": ["featureFlags"]},
-  {"topic": "icons", "file": "references/uxp/optional-properties/icons.md", "summary": "Open when looking up icons in Premiere Pro.", "keywords": ["icons"]},
-  {"topic": "main", "file": "references/uxp/optional-properties/main.md", "summary": "Open when looking up main in Premiere Pro.", "keywords": ["main"]},
-  {"topic": "requiredPermissions", "file": "references/uxp/optional-properties/required-permissions.md", "summary": "Open when looking up requiredPermissions in Premiere Pro.", "keywords": ["requiredPermissions"]},
-  {"topic": "strings", "file": "references/uxp/optional-properties/strings.md", "summary": "Open when looking up strings in Premiere Pro.", "keywords": ["strings"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Story.changecase", "file": "community-types/indesign/story/changecase.md", "summary": "Open when looking up Story.changecase in Shared Adobe platform.", "keywords": ["Story.changecase"]},
+  {"topic": "Story.changes", "file": "community-types/indesign/story/changes.md", "summary": "Open when looking up Story.changes in Shared Adobe platform.", "keywords": ["Story.changes"]},
+  {"topic": "Story.clearOverrides", "file": "community-types/indesign/story/clear-overrides.md", "summary": "Open when looking up Story.clearOverrides in Shared Adobe platform.", "keywords": ["Story.clearOverrides"]},
+  {"topic": "Story.contents", "file": "community-types/indesign/story/contents.md", "summary": "Open when looking up Story.contents in Shared Adobe platform.", "keywords": ["Story.contents"]},
+  {"topic": "Story.hiddenTexts", "file": "community-types/indesign/story/hidden-texts.md", "summary": "Open when looking up Story.hiddenTexts in Shared Adobe platform.", "keywords": ["Story.hiddenTexts"]},
+  {"topic": "Story.length", "file": "community-types/indesign/story/length.md", "summary": "Open when looking up Story.length in Shared Adobe platform.", "keywords": ["Story.length"]},
+  {"topic": "Story.recompose", "file": "community-types/indesign/story/recompose.md", "summary": "Open when looking up Story.recompose in Shared Adobe platform.", "keywords": ["Story.recompose"]},
+  {"topic": "Story.storyEdit", "file": "community-types/indesign/story/story-edit.md", "summary": "Open when looking up Story.storyEdit in Shared Adobe platform.", "keywords": ["Story.storyEdit"]},
+  {"topic": "Story.textVariableInstances", "file": "community-types/indesign/story/text-variable-instances.md", "summary": "Open when looking up Story.textVariableInstances in Shared Adobe platform.", "keywords": ["Story.textVariableInstances"]},
+  {"topic": "Story.userText", "file": "community-types/indesign/story/user-text.md", "summary": "Open when looking up Story.userText in Shared Adobe platform.", "keywords": ["Story.userText"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

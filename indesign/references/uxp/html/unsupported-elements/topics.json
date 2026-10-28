@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Ordered Lists", "file": "references/uxp/html/unsupported-elements/ordered-lists.md", "summary": "Open when looking up Ordered Lists in InDesign.", "keywords": ["Ordered Lists"]},
-  {"topic": "Title", "file": "references/uxp/html/unsupported-elements/title.md", "summary": "Open when looking up Title in InDesign.", "keywords": ["Title"]},
-  {"topic": "Typography", "file": "references/uxp/html/unsupported-elements/typography.md", "summary": "Open when looking up Typography in InDesign.", "keywords": ["Typography"]},
-  {"topic": "Unordered Lists", "file": "references/uxp/html/unsupported-elements/unordered-lists.md", "summary": "Open when looking up Unordered Lists in InDesign.", "keywords": ["Unordered Lists"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

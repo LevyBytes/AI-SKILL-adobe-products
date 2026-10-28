@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Review Captions", "file": "web/best-practices-for-creating-custom-models-beta/review-captions.md", "summary": "Open when looking up Review Captions in Firefly.", "keywords": ["Review Captions"]},
+  {"topic": "Review Model Tags", "file": "web/best-practices-for-creating-custom-models-beta/review-model-tags.md", "summary": "Open when looking up Review Model Tags in Firefly.", "keywords": ["Review Model Tags"]},
+  {"topic": "Use crisp prompts that align with your training data", "file": "web/best-practices-for-creating-custom-models-beta/use-crisp-prompts-that-align-with-your-training-data.md", "summary": "Open when looking up Use crisp prompts that align with your training data in Firefly.", "keywords": ["Use crisp prompts that align with your training data"]},
+  {"topic": "Use quality images to train your model", "file": "web/best-practices-for-creating-custom-models-beta/use-quality-images-to-train-your-model.md", "summary": "Open when looking up Use quality images to train your model in Firefly.", "keywords": ["Use quality images to train your model"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

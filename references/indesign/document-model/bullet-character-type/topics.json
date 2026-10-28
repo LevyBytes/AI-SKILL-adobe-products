@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "GLYPH_WITH_FONT", "file": "document-model/bullet-character-type/glyphwithfont.md", "summary": "Open when looking up GLYPH_WITH_FONT in InDesign.", "keywords": ["GLYPH_WITH_FONT"]},
+  {"topic": "UNICODE_ONLY", "file": "document-model/bullet-character-type/unicodeonly.md", "summary": "Open when looking up UNICODE_ONLY in InDesign.", "keywords": ["UNICODE_ONLY"]},
+  {"topic": "UNICODE_WITH_FONT", "file": "document-model/bullet-character-type/unicodewithfont.md", "summary": "Open when looking up UNICODE_WITH_FONT in InDesign.", "keywords": ["UNICODE_WITH_FONT"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

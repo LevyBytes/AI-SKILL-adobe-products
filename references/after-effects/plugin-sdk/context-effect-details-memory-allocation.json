@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Memory Allocation", "file": "plugin-sdk/memory-allocation.md", "summary": "Open when looking up Memory Allocation in After Effects.", "keywords": ["Memory Allocation"]},
+  {"topic": "Memory Allocation - PF_HandleSuite1", "file": "plugin-sdk/memory-allocation-pf-handle-suite1.md", "summary": "Open when looking up Memory Allocation - PF_HandleSuite1 in After Effects.", "keywords": ["Memory Allocation - PF_HandleSuite1"]},
+  {"topic": "Memory Allocation - PF_HandleSuite1 references", "file": "plugin-sdk/memory-allocation-pf-handle-suite1/reference-index.md", "summary": "Open when looking up Memory Allocation - PF_HandleSuite1 in After Effects.", "keywords": ["Memory Allocation - PF_HandleSuite1 references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

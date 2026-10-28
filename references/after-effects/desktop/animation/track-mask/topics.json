@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Mask Reference", "file": "desktop/animation/track-mask/mask-reference.md", "summary": "Open when looking up Mask Reference in After Effects.", "keywords": ["Mask Reference"]},
+  {"topic": "Mask Reference references", "file": "desktop/animation/track-mask/mask-reference/reference-index.md", "summary": "Open when looking up Mask Reference in After Effects.", "keywords": ["Mask Reference references"]},
+  {"topic": "Mask Tracking", "file": "desktop/animation/track-mask/mask-tracking.md", "summary": "Open when looking up Mask Tracking in After Effects.", "keywords": ["Mask Tracking"]},
+  {"topic": "Mask Tracking references", "file": "desktop/animation/track-mask/mask-tracking/reference-index.md", "summary": "Open when looking up Mask Tracking in After Effects.", "keywords": ["Mask Tracking references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

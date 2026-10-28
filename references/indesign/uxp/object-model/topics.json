@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Application", "file": "uxp/object-model/application.md", "summary": "Open when looking up Application in InDesign.", "keywords": ["Application"]},
+  {"topic": "Books", "file": "uxp/object-model/books.md", "summary": "Open when looking up Books in InDesign.", "keywords": ["Books"]},
+  {"topic": "Document", "file": "uxp/object-model/document.md", "summary": "Open when looking up Document in InDesign.", "keywords": ["Document"]},
+  {"topic": "Libraries", "file": "uxp/object-model/libraries.md", "summary": "Open when looking up Libraries in InDesign.", "keywords": ["Libraries"]},
+  {"topic": "Pages or spreads", "file": "uxp/object-model/pages-or-spreads.md", "summary": "Open when looking up Pages or spreads in InDesign.", "keywords": ["Pages or spreads"]},
+  {"topic": "Stories", "file": "uxp/object-model/stories.md", "summary": "Open when looking up Stories in InDesign.", "keywords": ["Stories"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

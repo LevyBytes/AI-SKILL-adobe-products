@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "AUTO_COMPRESSION", "file": "document-model/bitmap-compression/autocompression.md", "summary": "Open when looking up AUTO_COMPRESSION in InDesign.", "keywords": ["AUTO_COMPRESSION"]},
+  {"topic": "AUTOMATIC_JPEG_2000", "file": "document-model/bitmap-compression/automaticjpeg2000.md", "summary": "Open when looking up AUTOMATIC_JPEG_2000 in InDesign.", "keywords": ["AUTOMATIC_JPEG_2000"]},
+  {"topic": "JPEG", "file": "document-model/bitmap-compression/jpeg.md", "summary": "Open when looking up JPEG in InDesign.", "keywords": ["JPEG"]},
+  {"topic": "JPEG_2000", "file": "document-model/bitmap-compression/jpeg2000.md", "summary": "Open when looking up JPEG_2000 in InDesign.", "keywords": ["JPEG_2000"]},
+  {"topic": "NONE", "file": "document-model/bitmap-compression/none.md", "summary": "Open when looking up NONE in InDesign.", "keywords": ["NONE"]},
+  {"topic": "ZIP", "file": "document-model/bitmap-compression/zip.md", "summary": "Open when looking up ZIP in InDesign.", "keywords": ["ZIP"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

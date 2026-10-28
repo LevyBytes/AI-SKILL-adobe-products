@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Add existing projects to a production", "file": "desktop/collaborate-with-others/productions/build-a-production/add-existing-projects-to-a-production.md", "summary": "Open when looking up Add existing projects to a production in Premiere Pro.", "keywords": ["Add existing projects to a production"]},
+  {"topic": "Create folders in a production", "file": "desktop/collaborate-with-others/productions/build-a-production/create-folders-in-a-production.md", "summary": "Open when looking up Create folders in a production in Premiere Pro.", "keywords": ["Create folders in a production"]},
+  {"topic": "Create projects in a production", "file": "desktop/collaborate-with-others/productions/build-a-production/create-projects-in-a-production.md", "summary": "Open when looking up Create projects in a production in Premiere Pro.", "keywords": ["Create projects in a production"]},
+  {"topic": "Move and rename projects and folders", "file": "desktop/collaborate-with-others/productions/build-a-production/move-and-rename-projects-and-folders.md", "summary": "Open when looking up Move and rename projects and folders in Premiere Pro.", "keywords": ["Move and rename projects and folders"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

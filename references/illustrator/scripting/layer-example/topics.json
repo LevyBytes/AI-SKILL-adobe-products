@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Bringing a layer to the front", "file": "scripting/layer-example/bringing-a-layer-to-the-front.md", "summary": "Open when looking up Bringing a layer to the front in Illustrator.", "keywords": ["Bringing a layer to the front"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

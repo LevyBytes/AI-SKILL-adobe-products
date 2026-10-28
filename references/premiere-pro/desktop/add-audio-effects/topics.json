@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Adjust volume and levels references", "file": "desktop/add-audio-effects/adjust-volume-and-levels/reference-index.md", "summary": "Open when looking up Adjust volume and levels in Premiere Pro.", "keywords": ["Adjust volume and levels references"]},
+  {"topic": "Advanced audio techniques references", "file": "desktop/add-audio-effects/advanced-audio-techniques/reference-index.md", "summary": "Open when looking up Advanced audio techniques in Premiere Pro.", "keywords": ["Advanced audio techniques references"]},
+  {"topic": "Apply audio effects references", "file": "desktop/add-audio-effects/apply-audio-effects/reference-index.md", "summary": "Open when looking up Apply audio effects in Premiere Pro.", "keywords": ["Apply audio effects references"]},
+  {"topic": "Apply audio transitions references", "file": "desktop/add-audio-effects/apply-audio-transitions/reference-index.md", "summary": "Open when looking up Apply audio transitions in Premiere Pro.", "keywords": ["Apply audio transitions references"]},
+  {"topic": "Basic audio editing references", "file": "desktop/add-audio-effects/basic-audio-editing/reference-index.md", "summary": "Open when looking up Basic audio editing in Premiere Pro.", "keywords": ["Basic audio editing references"]},
+  {"topic": "Use adobe stock audio references", "file": "desktop/add-audio-effects/use-adobe-stock-audio/reference-index.md", "summary": "Open when looking up Use adobe stock audio in Premiere Pro.", "keywords": ["Use adobe stock audio references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

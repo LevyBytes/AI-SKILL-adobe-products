@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "PF_EffectWorld / PF_LayerDef - New In 16.0", "file": "plugin-sdk/new-in-16-0/pf-effect-world-pf-layer-def-new-in-16-0.md", "summary": "Open when looking up PF_EffectWorld / PF_LayerDef - New In 16.0 in After Effects.", "keywords": ["PF_EffectWorld / PF_LayerDef - New In 16.0"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

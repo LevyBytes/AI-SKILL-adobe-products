@@ -1,0 +1,18 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "bestColor", "file": "scripting/monitors/best-color.md", "summary": "Open when looking up bestColor in Acrobat.", "keywords": ["bestColor"]},
+  {"topic": "bestFit", "file": "scripting/monitors/best-fit.md", "summary": "Open when looking up bestFit in Acrobat.", "keywords": ["bestFit"]},
+  {"topic": "desktop", "file": "scripting/monitors/desktop.md", "summary": "Open when looking up desktop in Acrobat.", "keywords": ["desktop"]},
+  {"topic": "document", "file": "scripting/monitors/document.md", "summary": "Open when looking up document in Acrobat.", "keywords": ["document"]},
+  {"topic": "filter", "file": "scripting/monitors/filter.md", "summary": "Open when looking up filter in Acrobat.", "keywords": ["filter"]},
+  {"topic": "JavaScript APIs - Monitors", "file": "scripting/monitors/java-script-apis-monitors.md", "summary": "Open when looking up JavaScript APIs - Monitors in Acrobat.", "keywords": ["JavaScript APIs - Monitors"]},
+  {"topic": "largest", "file": "scripting/monitors/largest.md", "summary": "Open when looking up largest in Acrobat.", "keywords": ["largest"]},
+  {"topic": "leastOverlap", "file": "scripting/monitors/least-overlap.md", "summary": "Open when looking up leastOverlap in Acrobat.", "keywords": ["leastOverlap"]},
+  {"topic": "mostOverlap", "file": "scripting/monitors/most-overlap.md", "summary": "Open when looking up mostOverlap in Acrobat.", "keywords": ["mostOverlap"]},
+  {"topic": "nonDocument", "file": "scripting/monitors/non-document.md", "summary": "Open when looking up nonDocument in Acrobat.", "keywords": ["nonDocument"]},
+  {"topic": "primary", "file": "scripting/monitors/primary.md", "summary": "Open when looking up primary in Acrobat.", "keywords": ["primary"]},
+  {"topic": "secondary", "file": "scripting/monitors/secondary.md", "summary": "Open when looking up secondary in Acrobat.", "keywords": ["secondary"]},
+  {"topic": "select", "file": "scripting/monitors/select.md", "summary": "Open when looking up select in Acrobat.", "keywords": ["select"]},
+  {"topic": "tallest", "file": "scripting/monitors/tallest.md", "summary": "Open when looking up tallest in Acrobat.", "keywords": ["tallest"]},
+  {"topic": "widest", "file": "scripting/monitors/widest.md", "summary": "Open when looking up widest in Acrobat.", "keywords": ["widest"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

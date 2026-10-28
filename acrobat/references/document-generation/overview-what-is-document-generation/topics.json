@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Overview - Components of Document Generation", "file": "references/document-generation/overview-what-is-document-generation/overview-components-of-document-generation.md", "summary": "Open when looking up Overview - Components of Document Generation in Acrobat.", "keywords": ["Overview - Components of Document Generation"]},
-  {"topic": "Overview - Document Generation Process", "file": "references/document-generation/overview-what-is-document-generation/overview-document-generation-process.md", "summary": "Open when looking up Overview - Document Generation Process in Acrobat.", "keywords": ["Overview - Document Generation Process"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

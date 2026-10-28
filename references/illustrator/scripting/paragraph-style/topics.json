@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "ParagraphStyle.applyTo()", "file": "scripting/paragraph-style/apply-to.md", "summary": "Open when looking up ParagraphStyle.applyTo() in Illustrator.", "keywords": ["ParagraphStyle.applyTo()"]},
+  {"topic": "ParagraphStyle.characterAttributes", "file": "scripting/paragraph-style/character-attributes.md", "summary": "Open when looking up ParagraphStyle.characterAttributes in Illustrator.", "keywords": ["ParagraphStyle.characterAttributes"]},
+  {"topic": "ParagraphStyle.name", "file": "scripting/paragraph-style/name.md", "summary": "Open when looking up ParagraphStyle.name in Illustrator.", "keywords": ["ParagraphStyle.name"]},
+  {"topic": "ParagraphStyle.paragraphAttributes", "file": "scripting/paragraph-style/paragraph-attributes.md", "summary": "Open when looking up ParagraphStyle.paragraphAttributes in Illustrator.", "keywords": ["ParagraphStyle.paragraphAttributes"]},
+  {"topic": "ParagraphStyle.parent", "file": "scripting/paragraph-style/parent.md", "summary": "Open when looking up ParagraphStyle.parent in Illustrator.", "keywords": ["ParagraphStyle.parent"]},
+  {"topic": "ParagraphStyle.remove()", "file": "scripting/paragraph-style/remove.md", "summary": "Open when looking up ParagraphStyle.remove() in Illustrator.", "keywords": ["ParagraphStyle.remove()"]},
+  {"topic": "ParagraphStyle.typename", "file": "scripting/paragraph-style/typename.md", "summary": "Open when looking up ParagraphStyle.typename in Illustrator.", "keywords": ["ParagraphStyle.typename"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

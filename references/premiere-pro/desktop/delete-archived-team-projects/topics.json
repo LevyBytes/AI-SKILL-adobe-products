@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Removing archived Team Projects that are no longer required.", "file": "desktop/delete-archived-team-projects/removing-archived-team-projects-that-are-no-longer-required.md", "summary": "Open when looking up Removing archived Team Projects that are no longer required. in Premiere Pro.", "keywords": ["Removing archived Team Projects that are no longer required."]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

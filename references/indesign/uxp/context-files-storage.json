@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Data Storage", "file": "uxp/data-storage.md", "summary": "Open when looking up Data Storage in InDesign.", "keywords": ["Data Storage"]},
+  {"topic": "File operations", "file": "uxp/file-operations.md", "summary": "Open when looking up File operations in InDesign.", "keywords": ["File operations"]},
+  {"topic": "File operations references", "file": "uxp/file-operations/reference-index.md", "summary": "Open when looking up File operations in InDesign.", "keywords": ["File operations references"]},
+  {"topic": "Path", "file": "uxp/path.md", "summary": "Open when looking up Path in InDesign.", "keywords": ["Path"]},
+  {"topic": "Persistent Storage Migration", "file": "uxp/persistent-storage-migration.md", "summary": "Open when looking up Persistent Storage Migration in InDesign.", "keywords": ["Persistent Storage Migration"]},
+  {"topic": "Persistent Storage Migration references", "file": "uxp/persistent-storage-migration/reference-index.md", "summary": "Open when looking up Persistent Storage Migration in InDesign.", "keywords": ["Persistent Storage Migration references"]},
+  {"topic": "Require fs references", "file": "uxp/require-fs/reference-index.md", "summary": "Open when looking up Require fs in InDesign.", "keywords": ["Require fs references"]},
+  {"topic": "Storage domains domains references", "file": "uxp/storage-domains-domains/reference-index.md", "summary": "Open when looking up Storage domains domains in InDesign.", "keywords": ["Storage domains domains references"]},
+  {"topic": "Storage secure storage references", "file": "uxp/storage-secure-storage/reference-index.md", "summary": "Open when looking up Storage secure storage in InDesign.", "keywords": ["Storage secure storage references"]},
+  {"topic": "Storages", "file": "uxp/storages.md", "summary": "Open when looking up Storages in InDesign.", "keywords": ["Storages"]},
+  {"topic": "Storages references", "file": "uxp/storages/reference-index.md", "summary": "Open when looking up Storages in InDesign.", "keywords": ["Storages references"]},
+  {"topic": "Window path references", "file": "uxp/window-path/reference-index.md", "summary": "Open when looking up Window path in InDesign.", "keywords": ["Window path references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

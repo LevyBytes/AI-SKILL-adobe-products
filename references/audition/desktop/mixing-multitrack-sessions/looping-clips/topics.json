@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/audition", "topics": [
+  {"topic": "Enable a looped clip and change its length", "file": "desktop/mixing-multitrack-sessions/looping-clips/enable-a-looped-clip-and-change-its-length.md", "summary": "Open when looking up Enable a looped clip and change its length in Audition.", "keywords": ["Enable a looped clip and change its length"]},
+  {"topic": "Snap to loop beats", "file": "desktop/mixing-multitrack-sessions/looping-clips/snap-to-loop-beats.md", "summary": "Open when looking up Snap to loop beats in Audition.", "keywords": ["Snap to loop beats"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

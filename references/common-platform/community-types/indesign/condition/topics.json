@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Condition declaration", "file": "community-types/indesign/condition/declaration.md", "summary": "Open when looking up Condition declaration in Shared Adobe platform.", "keywords": ["Condition declaration"]},
+  {"topic": "Condition event listeners", "file": "community-types/indesign/condition/event-listeners.md", "summary": "Open when looking up Condition event listeners in Shared Adobe platform.", "keywords": ["Condition event listeners"]},
+  {"topic": "Condition identity and parent", "file": "community-types/indesign/condition/identity-and-parent.md", "summary": "Open when looking up Condition identity and parent in Shared Adobe platform.", "keywords": ["Condition identity and parent"]},
+  {"topic": "Condition labels and metadata", "file": "community-types/indesign/condition/labels-and-metadata.md", "summary": "Open when looking up Condition labels and metadata in Shared Adobe platform.", "keywords": ["Condition labels and metadata"]},
+  {"topic": "Condition object resolution", "file": "community-types/indesign/condition/object-resolution.md", "summary": "Open when looking up Condition object resolution in Shared Adobe platform.", "keywords": ["Condition object resolution"]},
+  {"topic": "Condition.indicatorColor", "file": "community-types/indesign/condition/indicator-color.md", "summary": "Open when looking up Condition.indicatorColor in Shared Adobe platform.", "keywords": ["Condition.indicatorColor"]},
+  {"topic": "Condition.indicatorMethod", "file": "community-types/indesign/condition/indicator-method.md", "summary": "Open when looking up Condition.indicatorMethod in Shared Adobe platform.", "keywords": ["Condition.indicatorMethod"]},
+  {"topic": "Condition.properties", "file": "community-types/indesign/condition/properties.md", "summary": "Open when looking up Condition.properties in Shared Adobe platform.", "keywords": ["Condition.properties"]},
+  {"topic": "Condition.remove", "file": "community-types/indesign/condition/remove.md", "summary": "Open when looking up Condition.remove in Shared Adobe platform.", "keywords": ["Condition.remove"]},
+  {"topic": "Condition.underlineIndicatorAppearance", "file": "community-types/indesign/condition/underline-indicator-appearance.md", "summary": "Open when looking up Condition.underlineIndicatorAppearance in Shared Adobe platform.", "keywords": ["Condition.underlineIndicatorAppearance"]},
+  {"topic": "Condition.visible", "file": "community-types/indesign/condition/visible.md", "summary": "Open when looking up Condition.visible in Shared Adobe platform.", "keywords": ["Condition.visible"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

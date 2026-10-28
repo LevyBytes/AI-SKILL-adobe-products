@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Compression parameter changes", "file": "cloud-services/output-types-migration/output-types-migration-guide-png-output-migration/compression-parameter-changes.md", "summary": "Open when looking up Compression parameter changes in Photoshop.", "keywords": ["Compression parameter changes"]},
+  {"topic": "Full PNG migration example", "file": "cloud-services/output-types-migration/output-types-migration-guide-png-output-migration/full-png-migration-example.md", "summary": "Open when looking up Full PNG migration example in Photoshop.", "keywords": ["Full PNG migration example"]},
+  {"topic": "PNG compression mapping table", "file": "cloud-services/output-types-migration/output-types-migration-guide-png-output-migration/png-compression-mapping-table.md", "summary": "Open when looking up PNG compression mapping table in Photoshop.", "keywords": ["PNG compression mapping table"]},
+  {"topic": "V1 PNG compression", "file": "cloud-services/output-types-migration/output-types-migration-guide-png-output-migration/v1-png-compression.md", "summary": "Open when looking up V1 PNG compression in Photoshop.", "keywords": ["V1 PNG compression"]},
+  {"topic": "V2 PNG compression", "file": "cloud-services/output-types-migration/output-types-migration-guide-png-output-migration/v2-png-compression.md", "summary": "Open when looking up V2 PNG compression in Photoshop.", "keywords": ["V2 PNG compression"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

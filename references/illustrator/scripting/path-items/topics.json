@@ -1,0 +1,16 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "PathItems - Methods", "file": "scripting/path-items/path-items-methods.md", "summary": "Open when looking up PathItems - Methods in Illustrator.", "keywords": ["PathItems - Methods"]},
+  {"topic": "PathItems.add()", "file": "scripting/path-items/add.md", "summary": "Open when looking up PathItems.add() in Illustrator.", "keywords": ["PathItems.add()"]},
+  {"topic": "PathItems.ellipse()", "file": "scripting/path-items/ellipse.md", "summary": "Open when looking up PathItems.ellipse() in Illustrator.", "keywords": ["PathItems.ellipse()"]},
+  {"topic": "PathItems.getByName()", "file": "scripting/path-items/get-by-name.md", "summary": "Open when looking up PathItems.getByName() in Illustrator.", "keywords": ["PathItems.getByName()"]},
+  {"topic": "PathItems.index()", "file": "scripting/path-items/index.md", "summary": "Open when looking up PathItems.index() in Illustrator.", "keywords": ["PathItems.index()"]},
+  {"topic": "PathItems.length", "file": "scripting/path-items/length.md", "summary": "Open when looking up PathItems.length in Illustrator.", "keywords": ["PathItems.length"]},
+  {"topic": "PathItems.parent", "file": "scripting/path-items/parent.md", "summary": "Open when looking up PathItems.parent in Illustrator.", "keywords": ["PathItems.parent"]},
+  {"topic": "PathItems.polygon()", "file": "scripting/path-items/polygon.md", "summary": "Open when looking up PathItems.polygon() in Illustrator.", "keywords": ["PathItems.polygon()"]},
+  {"topic": "PathItems.rectangle()", "file": "scripting/path-items/rectangle.md", "summary": "Open when looking up PathItems.rectangle() in Illustrator.", "keywords": ["PathItems.rectangle()"]},
+  {"topic": "PathItems.removeAll()", "file": "scripting/path-items/remove-all.md", "summary": "Open when looking up PathItems.removeAll() in Illustrator.", "keywords": ["PathItems.removeAll()"]},
+  {"topic": "PathItems.roundedRectangle()", "file": "scripting/path-items/rounded-rectangle.md", "summary": "Open when looking up PathItems.roundedRectangle() in Illustrator.", "keywords": ["PathItems.roundedRectangle()"]},
+  {"topic": "PathItems.star()", "file": "scripting/path-items/star.md", "summary": "Open when looking up PathItems.star() in Illustrator.", "keywords": ["PathItems.star()"]},
+  {"topic": "PathItems.typename", "file": "scripting/path-items/typename.md", "summary": "Open when looking up PathItems.typename in Illustrator.", "keywords": ["PathItems.typename"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

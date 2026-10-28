@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Browse, select, and import Adobe Stock assets", "file": "desktop/create-open-and-import-images/import-files/browse-select-and-import-adobe-stock-assets.md", "summary": "Open when looking up Browse, select, and import Adobe Stock assets in Photoshop.", "keywords": ["Browse, select, and import Adobe Stock assets"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

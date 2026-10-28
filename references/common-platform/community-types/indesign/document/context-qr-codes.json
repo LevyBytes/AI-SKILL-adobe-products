@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Document.createEmailQRCode", "file": "community-types/indesign/document/create-email-qr-code.md", "summary": "Open when looking up Document.createEmailQRCode in Shared Adobe platform.", "keywords": ["Document.createEmailQRCode"]},
+  {"topic": "Document.createHyperlinkQRCode", "file": "community-types/indesign/document/create-hyperlink-qr-code.md", "summary": "Open when looking up Document.createHyperlinkQRCode in Shared Adobe platform.", "keywords": ["Document.createHyperlinkQRCode"]},
+  {"topic": "Document.createPlainTextQRCode", "file": "community-types/indesign/document/create-plain-text-qr-code.md", "summary": "Open when looking up Document.createPlainTextQRCode in Shared Adobe platform.", "keywords": ["Document.createPlainTextQRCode"]},
+  {"topic": "Document.createTextMsgQRCode", "file": "community-types/indesign/document/create-text-msg-qr-code.md", "summary": "Open when looking up Document.createTextMsgQRCode in Shared Adobe platform.", "keywords": ["Document.createTextMsgQRCode"]},
+  {"topic": "Document.createVCardQRCode", "file": "community-types/indesign/document/create-v-card-qr-code.md", "summary": "Open when looking up Document.createVCardQRCode in Shared Adobe platform.", "keywords": ["Document.createVCardQRCode"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

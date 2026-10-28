@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Export user settings", "file": "desktop/get-started/settings-and-preferences/export-and-import-user-settings/export-user-settings.md", "summary": "Open when looking up Export user settings in InDesign.", "keywords": ["Export user settings"]},
+  {"topic": "Import user settings", "file": "desktop/get-started/settings-and-preferences/export-and-import-user-settings/import-user-settings.md", "summary": "Open when looking up Import user settings in InDesign.", "keywords": ["Import user settings"]},
+  {"topic": "Limitations", "file": "desktop/get-started/settings-and-preferences/export-and-import-user-settings/limitations.md", "summary": "Open when looking up Limitations in InDesign.", "keywords": ["Limitations"]},
+  {"topic": "Scenarios when user settings cannot be imported", "file": "desktop/get-started/settings-and-preferences/export-and-import-user-settings/scenarios-when-user-settings-cannot-be-imported.md", "summary": "Open when looking up Scenarios when user settings cannot be imported in InDesign.", "keywords": ["Scenarios when user settings cannot be imported"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

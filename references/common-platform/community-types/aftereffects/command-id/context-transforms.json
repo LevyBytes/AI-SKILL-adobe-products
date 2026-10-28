@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "_CommandID.Align", "file": "community-types/aftereffects/command-id/align.md", "summary": "Open when looking up _CommandID.Align in Shared Adobe platform.", "keywords": ["_CommandID.Align"]},
+  {"topic": "_CommandID.CenterAnchorPointInLayerContent", "file": "community-types/aftereffects/command-id/center-anchor-point-in-layer-content.md", "summary": "Open when looking up _CommandID.CenterAnchorPointInLayerContent in Shared Adobe platform.", "keywords": ["_CommandID.CenterAnchorPointInLayerContent"]},
+  {"topic": "_CommandID.CenterInView", "file": "community-types/aftereffects/command-id/center-in-view.md", "summary": "Open when looking up _CommandID.CenterInView in Shared Adobe platform.", "keywords": ["_CommandID.CenterInView"]},
+  {"topic": "_CommandID.FitToComp", "file": "community-types/aftereffects/command-id/fit-to-comp.md", "summary": "Open when looking up _CommandID.FitToComp in Shared Adobe platform.", "keywords": ["_CommandID.FitToComp"]},
+  {"topic": "_CommandID.FitToCompHeight", "file": "community-types/aftereffects/command-id/fit-to-comp-height.md", "summary": "Open when looking up _CommandID.FitToCompHeight in Shared Adobe platform.", "keywords": ["_CommandID.FitToCompHeight"]},
+  {"topic": "_CommandID.FitToCompWidth", "file": "community-types/aftereffects/command-id/fit-to-comp-width.md", "summary": "Open when looking up _CommandID.FitToCompWidth in Shared Adobe platform.", "keywords": ["_CommandID.FitToCompWidth"]},
+  {"topic": "_CommandID.FlipHorizontal", "file": "community-types/aftereffects/command-id/flip-horizontal.md", "summary": "Open when looking up _CommandID.FlipHorizontal in Shared Adobe platform.", "keywords": ["_CommandID.FlipHorizontal"]},
+  {"topic": "_CommandID.FlipVertical", "file": "community-types/aftereffects/command-id/flip-vertical.md", "summary": "Open when looking up _CommandID.FlipVertical in Shared Adobe platform.", "keywords": ["_CommandID.FlipVertical"]},
+  {"topic": "_CommandID.SeparateDimensions", "file": "community-types/aftereffects/command-id/separate-dimensions.md", "summary": "Open when looking up _CommandID.SeparateDimensions in Shared Adobe platform.", "keywords": ["_CommandID.SeparateDimensions"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

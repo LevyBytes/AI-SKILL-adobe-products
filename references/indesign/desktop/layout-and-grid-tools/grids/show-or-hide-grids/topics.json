@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Toggle baseline grid visibility", "file": "desktop/layout-and-grid-tools/grids/show-or-hide-grids/toggle-baseline-grid-visibility.md", "summary": "Open when looking up Toggle baseline grid visibility in InDesign.", "keywords": ["Toggle baseline grid visibility"]},
+  {"topic": "Toggle document grid visibility", "file": "desktop/layout-and-grid-tools/grids/show-or-hide-grids/toggle-document-grid-visibility.md", "summary": "Open when looking up Toggle document grid visibility in InDesign.", "keywords": ["Toggle document grid visibility"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

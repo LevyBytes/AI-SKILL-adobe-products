@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Accessing auxiliary channel data references", "file": "plugin-sdk/accessing-auxiliary-channel-data/reference-index.md", "summary": "Open when looking up Accessing auxiliary channel data in After Effects.", "keywords": ["Accessing auxiliary channel data references"]},
+  {"topic": "Advanced appsuite you can do that references", "file": "plugin-sdk/advanced-appsuite-you-can-do-that/reference-index.md", "summary": "Open when looking up Advanced appsuite you can do that in After Effects.", "keywords": ["Advanced appsuite you can do that references"]},
+  {"topic": "Affecting the timeline references", "file": "plugin-sdk/affecting-the-timeline/reference-index.md", "summary": "Open when looking up Affecting the timeline in After Effects.", "keywords": ["Affecting the timeline references"]},
+  {"topic": "Formatting time references", "file": "plugin-sdk/formatting-time/reference-index.md", "summary": "Open when looking up Formatting time in After Effects.", "keywords": ["Formatting time references"]},
+  {"topic": "Pf app suite references", "file": "plugin-sdk/pf-app-suite/reference-index.md", "summary": "Open when looking up Pf app suite in After Effects.", "keywords": ["Pf app suite references"]},
+  {"topic": "Pf effect ui suite references", "file": "plugin-sdk/pf-effect-ui-suite/reference-index.md", "summary": "Open when looking up Pf effect ui suite in After Effects.", "keywords": ["Pf effect ui suite references"]},
+  {"topic": "PF_AdvItemSuite1 references", "file": "plugin-sdk/pf-adv-item-suite1/reference-index.md", "summary": "Open when looking up PF_AdvItemSuite1 in After Effects.", "keywords": ["PF_AdvItemSuite1 references"]},
+  {"topic": "PF_AdvTimeSuite4 references", "file": "plugin-sdk/pf-adv-time-suite4/reference-index.md", "summary": "Open when looking up PF_AdvTimeSuite4 in After Effects.", "keywords": ["PF_AdvTimeSuite4 references"]},
+  {"topic": "PF_ChannelSuite1 references", "file": "plugin-sdk/pf-channel-suite1/reference-index.md", "summary": "Open when looking up PF_ChannelSuite1 in After Effects.", "keywords": ["PF_ChannelSuite1 references"]},
+  {"topic": "Useful Utility Functions - PF_AdvAppSuite2 references", "file": "plugin-sdk/useful-utility-functions-pf-adv-app-suite2/reference-index.md", "summary": "Open when looking up Useful Utility Functions - PF_AdvAppSuite2 in After Effects.", "keywords": ["Useful Utility Functions - PF_AdvAppSuite2 references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

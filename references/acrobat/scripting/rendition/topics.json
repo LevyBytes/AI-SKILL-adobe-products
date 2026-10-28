@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "altText", "file": "scripting/rendition/alt-text.md", "summary": "Open when looking up altText in Acrobat.", "keywords": ["altText"]},
+  {"topic": "doc", "file": "scripting/rendition/doc.md", "summary": "Open when looking up doc in Acrobat.", "keywords": ["doc"]},
+  {"topic": "fileName", "file": "scripting/rendition/file-name.md", "summary": "Open when looking up fileName in Acrobat.", "keywords": ["fileName"]},
+  {"topic": "getPlaySettings", "file": "scripting/rendition/get-play-settings.md", "summary": "Open when looking up getPlaySettings in Acrobat.", "keywords": ["getPlaySettings"]},
+  {"topic": "JavaScript APIs - Rendition", "file": "scripting/rendition/java-script-apis-rendition.md", "summary": "Open when looking up JavaScript APIs - Rendition in Acrobat.", "keywords": ["JavaScript APIs - Rendition"]},
+  {"topic": "select", "file": "scripting/rendition/select.md", "summary": "Open when looking up select in Acrobat.", "keywords": ["select"]},
+  {"topic": "testCriteria", "file": "scripting/rendition/test-criteria.md", "summary": "Open when looking up testCriteria in Acrobat.", "keywords": ["testCriteria"]},
+  {"topic": "uiName", "file": "scripting/rendition/ui-name.md", "summary": "Open when looking up uiName in Acrobat.", "keywords": ["uiName"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

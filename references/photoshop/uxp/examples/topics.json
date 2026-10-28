@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Image blob references", "file": "uxp/examples/image-blob/reference-index.md", "summary": "Open when looking up Image blob in Photoshop.", "keywords": ["Image blob references"]},
+  {"topic": "Pointer capture references", "file": "uxp/examples/pointer-capture/reference-index.md", "summary": "Open when looking up Pointer capture in Photoshop.", "keywords": ["Pointer capture references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

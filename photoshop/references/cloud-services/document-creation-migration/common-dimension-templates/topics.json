@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Social media sizes", "file": "references/cloud-services/document-creation-migration/common-dimension-templates/social-media-sizes.md", "summary": "Open when looking up Social media sizes in Photoshop.", "keywords": ["Social media sizes"]},
-  {"topic": "Standard print sizes (at 300 DPI)", "file": "references/cloud-services/document-creation-migration/common-dimension-templates/standard-print-sizes-at-300-dpi.md", "summary": "Open when looking up Standard print sizes (at 300 DPI) in Photoshop.", "keywords": ["Standard print sizes (at 300 DPI)"]},
-  {"topic": "Web sizes", "file": "references/cloud-services/document-creation-migration/common-dimension-templates/web-sizes.md", "summary": "Open when looking up Web sizes in Photoshop.", "keywords": ["Web sizes"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

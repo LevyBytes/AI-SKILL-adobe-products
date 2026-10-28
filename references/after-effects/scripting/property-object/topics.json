@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Property object - Methods", "file": "scripting/property-object/property-object-methods.md", "summary": "Open when looking up Property object - Methods in After Effects.", "keywords": ["Property object - Methods"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

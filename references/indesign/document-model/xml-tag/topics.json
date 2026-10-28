@@ -1,0 +1,21 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "addEventListener", "file": "document-model/xml-tag/add-event-listener.md", "summary": "Open when looking up addEventListener in InDesign.", "keywords": ["addEventListener"]},
+  {"topic": "eventListeners", "file": "document-model/xml-tag/event-listeners.md", "summary": "Open when looking up eventListeners in InDesign.", "keywords": ["eventListeners"]},
+  {"topic": "events", "file": "document-model/xml-tag/events.md", "summary": "Open when looking up events in InDesign.", "keywords": ["events"]},
+  {"topic": "extractLabel", "file": "document-model/xml-tag/extract-label.md", "summary": "Open when looking up extractLabel in InDesign.", "keywords": ["extractLabel"]},
+  {"topic": "getElements", "file": "document-model/xml-tag/get-elements.md", "summary": "Open when looking up getElements in InDesign.", "keywords": ["getElements"]},
+  {"topic": "id", "file": "document-model/xml-tag/id.md", "summary": "Open when looking up id in InDesign.", "keywords": ["id"]},
+  {"topic": "index", "file": "document-model/xml-tag/index.md", "summary": "Open when looking up index in InDesign.", "keywords": ["index"]},
+  {"topic": "insertLabel", "file": "document-model/xml-tag/insert-label.md", "summary": "Open when looking up insertLabel in InDesign.", "keywords": ["insertLabel"]},
+  {"topic": "isValid", "file": "document-model/xml-tag/is-valid.md", "summary": "Open when looking up isValid in InDesign.", "keywords": ["isValid"]},
+  {"topic": "label", "file": "document-model/xml-tag/label.md", "summary": "Open when looking up label in InDesign.", "keywords": ["label"]},
+  {"topic": "name", "file": "document-model/xml-tag/name.md", "summary": "Open when looking up name in InDesign.", "keywords": ["name"]},
+  {"topic": "parent", "file": "document-model/xml-tag/parent.md", "summary": "Open when looking up parent in InDesign.", "keywords": ["parent"]},
+  {"topic": "properties", "file": "document-model/xml-tag/properties.md", "summary": "Open when looking up properties in InDesign.", "keywords": ["properties"]},
+  {"topic": "remove", "file": "document-model/xml-tag/remove.md", "summary": "Open when looking up remove in InDesign.", "keywords": ["remove"]},
+  {"topic": "removeEventListener", "file": "document-model/xml-tag/remove-event-listener.md", "summary": "Open when looking up removeEventListener in InDesign.", "keywords": ["removeEventListener"]},
+  {"topic": "tagColor", "file": "document-model/xml-tag/tag-color.md", "summary": "Open when looking up tagColor in InDesign.", "keywords": ["tagColor"]},
+  {"topic": "toSource", "file": "document-model/xml-tag/to-source.md", "summary": "Open when looking up toSource in InDesign.", "keywords": ["toSource"]},
+  {"topic": "toSpecifier", "file": "document-model/xml-tag/to-specifier.md", "summary": "Open when looking up toSpecifier in InDesign.", "keywords": ["toSpecifier"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

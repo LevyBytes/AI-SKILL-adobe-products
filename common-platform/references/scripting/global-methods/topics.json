@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "alert()", "file": "references/scripting/global-methods/alert.md", "summary": "Open when looking up alert() in Shared Adobe platform.", "keywords": ["alert()"]},
-  {"topic": "confirm()", "file": "references/scripting/global-methods/confirm.md", "summary": "Open when looking up confirm() in Shared Adobe platform.", "keywords": ["confirm()"]},
-  {"topic": "prompt()", "file": "references/scripting/global-methods/prompt.md", "summary": "Open when looking up prompt() in Shared Adobe platform.", "keywords": ["prompt()"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

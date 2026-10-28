@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "List of keyboard shortcuts", "file": "web/view-the-keyboard-shortcuts/list-of-keyboard-shortcuts.md", "summary": "Open when looking up List of keyboard shortcuts in Firefly.", "keywords": ["List of keyboard shortcuts"]},
+  {"topic": "Use keyboard shortcuts to edit faster in Firefly Video Editor", "file": "web/view-the-keyboard-shortcuts/use-keyboard-shortcuts-to-edit-faster-in-firefly-video-editor.md", "summary": "Open when looking up Use keyboard shortcuts to edit faster in Firefly Video Editor in Firefly.", "keywords": ["Use keyboard shortcuts to edit faster in Firefly Video Editor"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

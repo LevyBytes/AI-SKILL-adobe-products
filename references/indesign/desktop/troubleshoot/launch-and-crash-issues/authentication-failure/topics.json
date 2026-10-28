@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Third-party plugins are causing issues", "file": "desktop/troubleshoot/launch-and-crash-issues/authentication-failure/third-party-plugins-are-causing-issues.md", "summary": "Open when looking up Third-party plugins are causing issues in InDesign.", "keywords": ["Third-party plugins are causing issues"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

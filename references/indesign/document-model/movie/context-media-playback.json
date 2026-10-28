@@ -1,0 +1,19 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "animationSettings", "file": "document-model/movie/animation-settings.md", "summary": "Open when looking up animationSettings in InDesign.", "keywords": ["animationSettings"]},
+  {"topic": "controllerSkin", "file": "document-model/movie/controller-skin.md", "summary": "Open when looking up controllerSkin in InDesign.", "keywords": ["controllerSkin"]},
+  {"topic": "embedInPDF", "file": "document-model/movie/embed-in-pdf.md", "summary": "Open when looking up embedInPDF in InDesign.", "keywords": ["embedInPDF"]},
+  {"topic": "floatingWindow", "file": "document-model/movie/floating-window.md", "summary": "Open when looking up floatingWindow in InDesign.", "keywords": ["floatingWindow"]},
+  {"topic": "floatingWindowPosition", "file": "document-model/movie/floating-window-position.md", "summary": "Open when looking up floatingWindowPosition in InDesign.", "keywords": ["floatingWindowPosition"]},
+  {"topic": "floatingWindowSize", "file": "document-model/movie/floating-window-size.md", "summary": "Open when looking up floatingWindowSize in InDesign.", "keywords": ["floatingWindowSize"]},
+  {"topic": "movieLoop", "file": "document-model/movie/movie-loop.md", "summary": "Open when looking up movieLoop in InDesign.", "keywords": ["movieLoop"]},
+  {"topic": "moviePosterType", "file": "document-model/movie/movie-poster-type.md", "summary": "Open when looking up moviePosterType in InDesign.", "keywords": ["moviePosterType"]},
+  {"topic": "navigationPoints", "file": "document-model/movie/navigation-points.md", "summary": "Open when looking up navigationPoints in InDesign.", "keywords": ["navigationPoints"]},
+  {"topic": "playOnPageTurn", "file": "document-model/movie/play-on-page-turn.md", "summary": "Open when looking up playOnPageTurn in InDesign.", "keywords": ["playOnPageTurn"]},
+  {"topic": "posterFile", "file": "document-model/movie/poster-file.md", "summary": "Open when looking up posterFile in InDesign.", "keywords": ["posterFile"]},
+  {"topic": "showController", "file": "document-model/movie/show-controller.md", "summary": "Open when looking up showController in InDesign.", "keywords": ["showController"]},
+  {"topic": "showControls", "file": "document-model/movie/show-controls.md", "summary": "Open when looking up showControls in InDesign.", "keywords": ["showControls"]},
+  {"topic": "timingSettings", "file": "document-model/movie/timing-settings.md", "summary": "Open when looking up timingSettings in InDesign.", "keywords": ["timingSettings"]},
+  {"topic": "url", "file": "document-model/movie/url.md", "summary": "Open when looking up url in InDesign.", "keywords": ["url"]},
+  {"topic": "verifyURL", "file": "document-model/movie/verify-url.md", "summary": "Open when looking up verifyURL in InDesign.", "keywords": ["verifyURL"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

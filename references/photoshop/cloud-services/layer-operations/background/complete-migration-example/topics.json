@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "V1 documentOperations sample", "file": "cloud-services/layer-operations/background/complete-migration-example/v1-document-operations-sample.md", "summary": "Open when looking up V1 documentOperations sample in Photoshop.", "keywords": ["V1 documentOperations sample"]},
+  {"topic": "V2 create-composite sample", "file": "cloud-services/layer-operations/background/complete-migration-example/v2-create-composite-sample.md", "summary": "Open when looking up V2 create-composite sample in Photoshop.", "keywords": ["V2 create-composite sample"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

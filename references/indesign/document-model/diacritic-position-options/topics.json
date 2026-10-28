@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "DEFAULT_POSITION", "file": "document-model/diacritic-position-options/defaultposition.md", "summary": "Open when looking up DEFAULT_POSITION in InDesign.", "keywords": ["DEFAULT_POSITION"]},
+  {"topic": "LOOSE_POSITION", "file": "document-model/diacritic-position-options/looseposition.md", "summary": "Open when looking up LOOSE_POSITION in InDesign.", "keywords": ["LOOSE_POSITION"]},
+  {"topic": "MEDIUM_POSITION", "file": "document-model/diacritic-position-options/mediumposition.md", "summary": "Open when looking up MEDIUM_POSITION in InDesign.", "keywords": ["MEDIUM_POSITION"]},
+  {"topic": "OPENTYPE_POSITION", "file": "document-model/diacritic-position-options/opentypeposition.md", "summary": "Open when looking up OPENTYPE_POSITION in InDesign.", "keywords": ["OPENTYPE_POSITION"]},
+  {"topic": "OPENTYPE_POSITION_FROM_BASELINE", "file": "document-model/diacritic-position-options/opentypepositionfrombaseline.md", "summary": "Open when looking up OPENTYPE_POSITION_FROM_BASELINE in InDesign.", "keywords": ["OPENTYPE_POSITION_FROM_BASELINE"]},
+  {"topic": "TIGHT_POSITION", "file": "document-model/diacritic-position-options/tightposition.md", "summary": "Open when looking up TIGHT_POSITION in InDesign.", "keywords": ["TIGHT_POSITION"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

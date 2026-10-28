@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "ASCENDING_SORT", "file": "references/document-model/range-sort-order/ascendingsort.md", "summary": "Open when looking up ASCENDING_SORT in InDesign.", "keywords": ["ASCENDING_SORT"]},
-  {"topic": "DESCENDING_SORT", "file": "references/document-model/range-sort-order/descendingsort.md", "summary": "Open when looking up DESCENDING_SORT in InDesign.", "keywords": ["DESCENDING_SORT"]},
-  {"topic": "NO_SORT", "file": "references/document-model/range-sort-order/nosort.md", "summary": "Open when looking up NO_SORT in InDesign.", "keywords": ["NO_SORT"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

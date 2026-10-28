@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Git repo", "file": "references/uxp/starters-and-samples/git-repo.md", "summary": "Open when looking up Git repo in InDesign.", "keywords": ["Git repo"]},
-  {"topic": "In-app helpers", "file": "references/uxp/starters-and-samples/in-app-helpers.md", "summary": "Open when looking up In-app helpers in InDesign.", "keywords": ["In-app helpers"]},
-  {"topic": "Recipes", "file": "references/uxp/starters-and-samples/recipes.md", "summary": "Open when looking up Recipes in InDesign.", "keywords": ["Recipes"]},
-  {"topic": "UDT", "file": "references/uxp/starters-and-samples/udt.md", "summary": "Open when looking up UDT in InDesign.", "keywords": ["UDT"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

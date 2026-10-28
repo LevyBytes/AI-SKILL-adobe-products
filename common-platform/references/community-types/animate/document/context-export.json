@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Document.exportInstanceToPNGSequence", "file": "references/community-types/animate/document/export-instance-to-png-sequence.md", "summary": "Open when looking up Document.exportInstanceToPNGSequence in Shared Adobe platform.", "keywords": ["Document.exportInstanceToPNGSequence"]},
-  {"topic": "Document.exportPNG", "file": "references/community-types/animate/document/export-png.md", "summary": "Open when looking up Document.exportPNG in Shared Adobe platform.", "keywords": ["Document.exportPNG"]},
-  {"topic": "Document.exportSVG", "file": "references/community-types/animate/document/export-svg.md", "summary": "Open when looking up Document.exportSVG in Shared Adobe platform.", "keywords": ["Document.exportSVG"]},
-  {"topic": "Document.exportSWF", "file": "references/community-types/animate/document/export-swf.md", "summary": "Open when looking up Document.exportSWF in Shared Adobe platform.", "keywords": ["Document.exportSWF"]},
-  {"topic": "Document.exportVideo", "file": "references/community-types/animate/document/export-video.md", "summary": "Open when looking up Document.exportVideo in Shared Adobe platform.", "keywords": ["Document.exportVideo"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Options parameter", "file": "uxp/arguments/options-parameter.md", "summary": "Open when looking up Options parameter in Photoshop.", "keywords": ["Options parameter"]},
+  {"topic": "Target Function parameter", "file": "uxp/arguments/target-function-parameter.md", "summary": "Open when looking up Target Function parameter in Photoshop.", "keywords": ["Target Function parameter"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

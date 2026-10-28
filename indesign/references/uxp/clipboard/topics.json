@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Additional notes", "file": "references/uxp/clipboard/additional-notes.md", "summary": "Open when looking up Additional notes in InDesign.", "keywords": ["Additional notes"]},
-  {"topic": "JavaScript", "file": "references/uxp/clipboard/java-script.md", "summary": "Open when looking up JavaScript in InDesign.", "keywords": ["JavaScript"]},
-  {"topic": "manifest", "file": "references/uxp/clipboard/manifest.md", "summary": "Open when looking up manifest in InDesign.", "keywords": ["manifest"]},
-  {"topic": "Reference material", "file": "references/uxp/clipboard/reference-material.md", "summary": "Open when looking up Reference material in InDesign.", "keywords": ["Reference material"]},
-  {"topic": "System requirements", "file": "references/uxp/clipboard/system-requirements.md", "summary": "Open when looking up System requirements in InDesign.", "keywords": ["System requirements"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

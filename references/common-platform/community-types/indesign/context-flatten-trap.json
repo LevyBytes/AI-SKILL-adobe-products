@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "FlattenerLevel", "file": "community-types/indesign/flattener-level.md", "summary": "Open when looking up FlattenerLevel in Shared Adobe platform.", "keywords": ["FlattenerLevel"]},
+  {"topic": "FlattenerPreference", "file": "community-types/indesign/flattener-preference.md", "summary": "Open when looking up FlattenerPreference in Shared Adobe platform.", "keywords": ["FlattenerPreference"]},
+  {"topic": "FlattenerPreset references", "file": "community-types/indesign/flattener-preset/reference-index.md", "summary": "Open when looking up FlattenerPreset in Shared Adobe platform.", "keywords": ["FlattenerPreset references"]},
+  {"topic": "FlattenerPresets references", "file": "community-types/indesign/flattener-presets/reference-index.md", "summary": "Open when looking up FlattenerPresets in Shared Adobe platform.", "keywords": ["FlattenerPresets references"]},
+  {"topic": "SpreadFlattenerLevel", "file": "community-types/indesign/spread-flattener-level.md", "summary": "Open when looking up SpreadFlattenerLevel in Shared Adobe platform.", "keywords": ["SpreadFlattenerLevel"]},
+  {"topic": "TrapEndTypes", "file": "community-types/indesign/trap-end-types.md", "summary": "Open when looking up TrapEndTypes in Shared Adobe platform.", "keywords": ["TrapEndTypes"]},
+  {"topic": "TrapImagePlacementTypes", "file": "community-types/indesign/trap-image-placement-types.md", "summary": "Open when looking up TrapImagePlacementTypes in Shared Adobe platform.", "keywords": ["TrapImagePlacementTypes"]},
+  {"topic": "Trapping", "file": "community-types/indesign/trapping.md", "summary": "Open when looking up Trapping in Shared Adobe platform.", "keywords": ["Trapping"]},
+  {"topic": "TrapPreset references", "file": "community-types/indesign/trap-preset/reference-index.md", "summary": "Open when looking up TrapPreset in Shared Adobe platform.", "keywords": ["TrapPreset references"]},
+  {"topic": "TrapPresets references", "file": "community-types/indesign/trap-presets/reference-index.md", "summary": "Open when looking up TrapPresets in Shared Adobe platform.", "keywords": ["TrapPresets references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

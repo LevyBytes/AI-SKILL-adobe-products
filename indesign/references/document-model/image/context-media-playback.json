@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "animationSettings", "file": "references/document-model/image/animation-settings.md", "summary": "Open when looking up animationSettings in InDesign.", "keywords": ["animationSettings"]},
-  {"topic": "timingSettings", "file": "references/document-model/image/timing-settings.md", "summary": "Open when looking up timingSettings in InDesign.", "keywords": ["timingSettings"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

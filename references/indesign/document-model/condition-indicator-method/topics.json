@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "USE_HIGHLIGHT", "file": "document-model/condition-indicator-method/usehighlight.md", "summary": "Open when looking up USE_HIGHLIGHT in InDesign.", "keywords": ["USE_HIGHLIGHT"]},
+  {"topic": "USE_UNDERLINE", "file": "document-model/condition-indicator-method/useunderline.md", "summary": "Open when looking up USE_UNDERLINE in InDesign.", "keywords": ["USE_UNDERLINE"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

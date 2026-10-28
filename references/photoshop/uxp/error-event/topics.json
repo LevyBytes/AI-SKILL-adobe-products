@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "ErrorEvent(typeArg, [eventInit])", "file": "uxp/error-event/error-event.md", "summary": "Open when looking up ErrorEvent(typeArg, [eventInit]) in Photoshop.", "keywords": ["ErrorEvent(typeArg, [eventInit])"]},
+  {"topic": "window.ErrorEvent", "file": "uxp/error-event/overview.md", "summary": "Open when looking up window.ErrorEvent in Photoshop.", "keywords": ["window.ErrorEvent"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Implementation example", "file": "cloud-services/retrieve-a-psd-s-json-manifest/implementation-example.md", "summary": "Open when looking up Implementation example in Photoshop.", "keywords": ["Implementation example"]},
+  {"topic": "Poll for job status", "file": "cloud-services/retrieve-a-psd-s-json-manifest/poll-for-job-status.md", "summary": "Open when looking up Poll for job status in Photoshop.", "keywords": ["Poll for job status"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

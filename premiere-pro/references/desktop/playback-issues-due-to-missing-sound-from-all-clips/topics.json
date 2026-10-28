@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Choose a system default audio device and check its volume", "file": "references/desktop/playback-issues-due-to-missing-sound-from-all-clips/choose-a-system-default-audio-device-and-check-its-volume.md", "summary": "Open when looking up Choose a system default audio device and check its volume in Premiere Pro.", "keywords": ["Choose a system default audio device and check its volume"]},
-  {"topic": "macOS", "file": "references/desktop/playback-issues-due-to-missing-sound-from-all-clips/mac-os.md", "summary": "Open when looking up macOS in Premiere Pro.", "keywords": ["macOS"]},
-  {"topic": "Windows", "file": "references/desktop/playback-issues-due-to-missing-sound-from-all-clips/windows.md", "summary": "Open when looking up Windows in Premiere Pro.", "keywords": ["Windows"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

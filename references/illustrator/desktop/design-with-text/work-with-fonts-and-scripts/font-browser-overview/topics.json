@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Controls related to using and browsing fonts", "file": "desktop/design-with-text/work-with-fonts-and-scripts/font-browser-overview/controls-related-to-using-and-browsing-fonts.md", "summary": "Open when looking up Controls related to using and browsing fonts in Illustrator.", "keywords": ["Controls related to using and browsing fonts"]},
+  {"topic": "Discover More", "file": "desktop/design-with-text/work-with-fonts-and-scripts/font-browser-overview/discover-more.md", "summary": "Open when looking up Discover More in Illustrator.", "keywords": ["Discover More"]},
+  {"topic": "Filters", "file": "desktop/design-with-text/work-with-fonts-and-scripts/font-browser-overview/filters.md", "summary": "Open when looking up Filters in Illustrator.", "keywords": ["Filters"]},
+  {"topic": "Libraries tab", "file": "desktop/design-with-text/work-with-fonts-and-scripts/font-browser-overview/libraries-tab.md", "summary": "Open when looking up Libraries tab in Illustrator.", "keywords": ["Libraries tab"]},
+  {"topic": "Options upon hover", "file": "desktop/design-with-text/work-with-fonts-and-scripts/font-browser-overview/options-upon-hover.md", "summary": "Open when looking up Options upon hover in Illustrator.", "keywords": ["Options upon hover"]},
+  {"topic": "Your Fonts", "file": "desktop/design-with-text/work-with-fonts-and-scripts/font-browser-overview/your-fonts.md", "summary": "Open when looking up Your Fonts in Illustrator.", "keywords": ["Your Fonts"]},
+  {"topic": "Your Fonts and Discover More tabs", "file": "desktop/design-with-text/work-with-fonts-and-scripts/font-browser-overview/your-fonts-and-discover-more-tabs.md", "summary": "Open when looking up Your Fonts and Discover More tabs in Illustrator.", "keywords": ["Your Fonts and Discover More tabs"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

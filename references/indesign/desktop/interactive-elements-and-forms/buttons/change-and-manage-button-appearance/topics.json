@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Activate and customize button states", "file": "desktop/interactive-elements-and-forms/buttons/change-and-manage-button-appearance/activate-and-customize-button-states.md", "summary": "Open when looking up Activate and customize button states in InDesign.", "keywords": ["Activate and customize button states"]},
+  {"topic": "Manage and remove button states", "file": "desktop/interactive-elements-and-forms/buttons/change-and-manage-button-appearance/manage-and-remove-button-states.md", "summary": "Open when looking up Manage and remove button states in InDesign.", "keywords": ["Manage and remove button states"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

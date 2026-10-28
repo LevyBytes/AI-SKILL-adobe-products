@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Story.isEndnoteStory", "file": "references/community-types/indesign/story/is-endnote-story.md", "summary": "Open when looking up Story.isEndnoteStory in Shared Adobe platform.", "keywords": ["Story.isEndnoteStory"]},
-  {"topic": "Story.storyPreferences", "file": "references/community-types/indesign/story/story-preferences.md", "summary": "Open when looking up Story.storyPreferences in Shared Adobe platform.", "keywords": ["Story.storyPreferences"]},
-  {"topic": "Story.storyTitle", "file": "references/community-types/indesign/story/story-title.md", "summary": "Open when looking up Story.storyTitle in Shared Adobe platform.", "keywords": ["Story.storyTitle"]},
-  {"topic": "Story.storyType", "file": "references/community-types/indesign/story/story-type.md", "summary": "Open when looking up Story.storyType in Shared Adobe platform.", "keywords": ["Story.storyType"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

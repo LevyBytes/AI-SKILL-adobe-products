@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Add text comments", "file": "pdf-embed/commenting-feature-overview/add-text-comments.md", "summary": "Open when looking up Add text comments in Acrobat.", "keywords": ["Add text comments"]},
+  {"topic": "Drawing tool", "file": "pdf-embed/commenting-feature-overview/drawing-tool.md", "summary": "Open when looking up Drawing tool in Acrobat.", "keywords": ["Drawing tool"]},
+  {"topic": "Eraser tool", "file": "pdf-embed/commenting-feature-overview/eraser-tool.md", "summary": "Open when looking up Eraser tool in Acrobat.", "keywords": ["Eraser tool"]},
+  {"topic": "Select text", "file": "pdf-embed/commenting-feature-overview/select-text.md", "summary": "Open when looking up Select text in Acrobat.", "keywords": ["Select text"]},
+  {"topic": "Sticky notes", "file": "pdf-embed/commenting-feature-overview/sticky-notes.md", "summary": "Open when looking up Sticky notes in Acrobat.", "keywords": ["Sticky notes"]},
+  {"topic": "Text markup annotations", "file": "pdf-embed/commenting-feature-overview/text-markup-annotations.md", "summary": "Open when looking up Text markup annotations in Acrobat.", "keywords": ["Text markup annotations"]},
+  {"topic": "Undo or Redo changes", "file": "pdf-embed/commenting-feature-overview/undo-or-redo-changes.md", "summary": "Open when looking up Undo or Redo changes in Acrobat.", "keywords": ["Undo or Redo changes"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

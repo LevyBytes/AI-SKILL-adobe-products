@@ -1,0 +1,22 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Changelog in design v18 4 references", "file": "uxp/release-history/changelog-in-design-v18-4/reference-index.md", "summary": "Open when looking up Changelog in design v18 4 in InDesign.", "keywords": ["Changelog in design v18 4 references"]},
+  {"topic": "Changelog in design v19 2 references", "file": "uxp/release-history/changelog-in-design-v19-2/reference-index.md", "summary": "Open when looking up Changelog in design v19 2 in InDesign.", "keywords": ["Changelog in design v19 2 references"]},
+  {"topic": "Changelog - InDesign v18.5", "file": "uxp/release-history/changelog-in-design-v18-5.md", "summary": "Open when looking up Changelog - InDesign v18.5 in InDesign.", "keywords": ["Changelog - InDesign v18.5"]},
+  {"topic": "Changelog - InDesign v19.0", "file": "uxp/release-history/changelog-in-design-v19-0.md", "summary": "Open when looking up Changelog - InDesign v19.0 in InDesign.", "keywords": ["Changelog - InDesign v19.0"]},
+  {"topic": "Changelog - InDesign v19.0 references", "file": "uxp/release-history/changelog-in-design-v19-0/reference-index.md", "summary": "Open when looking up Changelog - InDesign v19.0 in InDesign.", "keywords": ["Changelog - InDesign v19.0 references"]},
+  {"topic": "In design v20 0 references", "file": "uxp/release-history/in-design-v20-0/reference-index.md", "summary": "Open when looking up In design v20 0 in InDesign.", "keywords": ["In design v20 0 references"]},
+  {"topic": "Udt v2 0 references", "file": "uxp/release-history/udt-v2-0/reference-index.md", "summary": "Open when looking up Udt v2 0 in InDesign.", "keywords": ["Udt v2 0 references"]},
+  {"topic": "Uxp v6 3 references", "file": "uxp/release-history/uxp-v6-3/reference-index.md", "summary": "Open when looking up Uxp v6 3 in InDesign.", "keywords": ["Uxp v6 3 references"]},
+  {"topic": "Uxp v6 4 references", "file": "uxp/release-history/uxp-v6-4/reference-index.md", "summary": "Open when looking up Uxp v6 4 in InDesign.", "keywords": ["Uxp v6 4 references"]},
+  {"topic": "Uxp v6 5 0 references", "file": "uxp/release-history/uxp-v6-5-0/reference-index.md", "summary": "Open when looking up Uxp v6 5 0 in InDesign.", "keywords": ["Uxp v6 5 0 references"]},
+  {"topic": "Uxp v7 0 0 references", "file": "uxp/release-history/uxp-v7-0-0/reference-index.md", "summary": "Open when looking up Uxp v7 0 0 in InDesign.", "keywords": ["Uxp v7 0 0 references"]},
+  {"topic": "Uxp v7 0 references", "file": "uxp/release-history/uxp-v7-0/reference-index.md", "summary": "Open when looking up Uxp v7 0 in InDesign.", "keywords": ["Uxp v7 0 references"]},
+  {"topic": "Uxp v7 1 0 references", "file": "uxp/release-history/uxp-v7-1-0/reference-index.md", "summary": "Open when looking up Uxp v7 1 0 in InDesign.", "keywords": ["Uxp v7 1 0 references"]},
+  {"topic": "Uxp v7 1 references", "file": "uxp/release-history/uxp-v7-1/reference-index.md", "summary": "Open when looking up Uxp v7 1 in InDesign.", "keywords": ["Uxp v7 1 references"]},
+  {"topic": "Uxp v7 2 0 references", "file": "uxp/release-history/uxp-v7-2-0/reference-index.md", "summary": "Open when looking up Uxp v7 2 0 in InDesign.", "keywords": ["Uxp v7 2 0 references"]},
+  {"topic": "Uxp v7 3 0 references", "file": "uxp/release-history/uxp-v7-3-0/reference-index.md", "summary": "Open when looking up Uxp v7 3 0 in InDesign.", "keywords": ["Uxp v7 3 0 references"]},
+  {"topic": "Uxp v7 3 0 uxp v7 2 references", "file": "uxp/release-history/uxp-v7-3-0-uxp-v7-2/reference-index.md", "summary": "Open when looking up Uxp v7 3 0 uxp v7 2 in InDesign.", "keywords": ["Uxp v7 3 0 uxp v7 2 references"]},
+  {"topic": "Uxp v7 4 0 references", "file": "uxp/release-history/uxp-v7-4-0/reference-index.md", "summary": "Open when looking up Uxp v7 4 0 in InDesign.", "keywords": ["Uxp v7 4 0 references"]},
+  {"topic": "Uxp v8 0 1 references", "file": "uxp/release-history/uxp-v8-0-1/reference-index.md", "summary": "Open when looking up Uxp v8 0 1 in InDesign.", "keywords": ["Uxp v8 0 1 references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

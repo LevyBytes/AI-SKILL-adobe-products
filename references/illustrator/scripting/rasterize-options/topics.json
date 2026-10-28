@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "RasterizeOptions.antiAliasingMethod", "file": "scripting/rasterize-options/anti-aliasing-method.md", "summary": "Open when looking up RasterizeOptions.antiAliasingMethod in Illustrator.", "keywords": ["RasterizeOptions.antiAliasingMethod"]},
+  {"topic": "RasterizeOptions.backgroundBlack", "file": "scripting/rasterize-options/background-black.md", "summary": "Open when looking up RasterizeOptions.backgroundBlack in Illustrator.", "keywords": ["RasterizeOptions.backgroundBlack"]},
+  {"topic": "RasterizeOptions.clippingMask", "file": "scripting/rasterize-options/clipping-mask.md", "summary": "Open when looking up RasterizeOptions.clippingMask in Illustrator.", "keywords": ["RasterizeOptions.clippingMask"]},
+  {"topic": "RasterizeOptions.colorModel", "file": "scripting/rasterize-options/color-model.md", "summary": "Open when looking up RasterizeOptions.colorModel in Illustrator.", "keywords": ["RasterizeOptions.colorModel"]},
+  {"topic": "RasterizeOptions.convertSpotColors", "file": "scripting/rasterize-options/convert-spot-colors.md", "summary": "Open when looking up RasterizeOptions.convertSpotColors in Illustrator.", "keywords": ["RasterizeOptions.convertSpotColors"]},
+  {"topic": "RasterizeOptions.convertTextToOutlines", "file": "scripting/rasterize-options/convert-text-to-outlines.md", "summary": "Open when looking up RasterizeOptions.convertTextToOutlines in Illustrator.", "keywords": ["RasterizeOptions.convertTextToOutlines"]},
+  {"topic": "RasterizeOptions.includeLayers", "file": "scripting/rasterize-options/include-layers.md", "summary": "Open when looking up RasterizeOptions.includeLayers in Illustrator.", "keywords": ["RasterizeOptions.includeLayers"]},
+  {"topic": "RasterizeOptions.padding", "file": "scripting/rasterize-options/padding.md", "summary": "Open when looking up RasterizeOptions.padding in Illustrator.", "keywords": ["RasterizeOptions.padding"]},
+  {"topic": "RasterizeOptions.resolution", "file": "scripting/rasterize-options/resolution.md", "summary": "Open when looking up RasterizeOptions.resolution in Illustrator.", "keywords": ["RasterizeOptions.resolution"]},
+  {"topic": "RasterizeOptions.transparency", "file": "scripting/rasterize-options/transparency.md", "summary": "Open when looking up RasterizeOptions.transparency in Illustrator.", "keywords": ["RasterizeOptions.transparency"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

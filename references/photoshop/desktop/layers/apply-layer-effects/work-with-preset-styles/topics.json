@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Apply a style from another layer", "file": "desktop/layers/apply-layer-effects/work-with-preset-styles/apply-a-style-from-another-layer.md", "summary": "Open when looking up Apply a style from another layer in Photoshop.", "keywords": ["Apply a style from another layer"]},
+  {"topic": "Apply preset styles", "file": "desktop/layers/apply-layer-effects/work-with-preset-styles/apply-preset-styles.md", "summary": "Open when looking up Apply preset styles in Photoshop.", "keywords": ["Apply preset styles"]},
+  {"topic": "Change how layer styles are displayed in the Styles panel", "file": "desktop/layers/apply-layer-effects/work-with-preset-styles/change-how-layer-styles-are-displayed-in-the-styles-panel.md", "summary": "Open when looking up Change how layer styles are displayed in the Styles panel in Photoshop.", "keywords": ["Change how layer styles are displayed in the Styles panel"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

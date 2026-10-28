@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Relink missing cross-references", "file": "desktop/indexes-and-references/references-and-bookmarks/manage-cross-references/relink-missing-cross-references.md", "summary": "Open when looking up Relink missing cross-references in InDesign.", "keywords": ["Relink missing cross-references"]},
+  {"topic": "Update cross-references", "file": "desktop/indexes-and-references/references-and-bookmarks/manage-cross-references/update-cross-references.md", "summary": "Open when looking up Update cross-references in InDesign.", "keywords": ["Update cross-references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

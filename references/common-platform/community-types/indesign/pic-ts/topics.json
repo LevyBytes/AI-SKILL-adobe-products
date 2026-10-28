@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "PICTs collection iteration", "file": "community-types/indesign/pic-ts/collection-iteration.md", "summary": "Open when looking up PICTs collection iteration in Shared Adobe platform.", "keywords": ["PICTs collection iteration"]},
+  {"topic": "PICTs declaration", "file": "community-types/indesign/pic-ts/declaration.md", "summary": "Open when looking up PICTs declaration in Shared Adobe platform.", "keywords": ["PICTs declaration"]},
+  {"topic": "PICTs named and indexed items", "file": "community-types/indesign/pic-ts/named-and-indexed-items.md", "summary": "Open when looking up PICTs named and indexed items in Shared Adobe platform.", "keywords": ["PICTs named and indexed items"]},
+  {"topic": "PICTs.count", "file": "community-types/indesign/pic-ts/count.md", "summary": "Open when looking up PICTs.count in Shared Adobe platform.", "keywords": ["PICTs.count"]},
+  {"topic": "PICTs.IndexSignature", "file": "community-types/indesign/pic-ts/index-signature.md", "summary": "Open when looking up PICTs.IndexSignature in Shared Adobe platform.", "keywords": ["PICTs.IndexSignature"]},
+  {"topic": "PICTs.itemByRange", "file": "community-types/indesign/pic-ts/item-by-range.md", "summary": "Open when looking up PICTs.itemByRange in Shared Adobe platform.", "keywords": ["PICTs.itemByRange"]},
+  {"topic": "PICTs.length", "file": "community-types/indesign/pic-ts/length.md", "summary": "Open when looking up PICTs.length in Shared Adobe platform.", "keywords": ["PICTs.length"]},
+  {"topic": "PICTs.toSource", "file": "community-types/indesign/pic-ts/to-source.md", "summary": "Open when looking up PICTs.toSource in Shared Adobe platform.", "keywords": ["PICTs.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

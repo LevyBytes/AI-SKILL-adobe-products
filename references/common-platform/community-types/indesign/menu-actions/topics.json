@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "MenuActions collection iteration", "file": "community-types/indesign/menu-actions/collection-iteration.md", "summary": "Open when looking up MenuActions collection iteration in Shared Adobe platform.", "keywords": ["MenuActions collection iteration"]},
+  {"topic": "MenuActions declaration", "file": "community-types/indesign/menu-actions/declaration.md", "summary": "Open when looking up MenuActions declaration in Shared Adobe platform.", "keywords": ["MenuActions declaration"]},
+  {"topic": "MenuActions named and indexed items", "file": "community-types/indesign/menu-actions/named-and-indexed-items.md", "summary": "Open when looking up MenuActions named and indexed items in Shared Adobe platform.", "keywords": ["MenuActions named and indexed items"]},
+  {"topic": "MenuActions.count", "file": "community-types/indesign/menu-actions/count.md", "summary": "Open when looking up MenuActions.count in Shared Adobe platform.", "keywords": ["MenuActions.count"]},
+  {"topic": "MenuActions.IndexSignature", "file": "community-types/indesign/menu-actions/index-signature.md", "summary": "Open when looking up MenuActions.IndexSignature in Shared Adobe platform.", "keywords": ["MenuActions.IndexSignature"]},
+  {"topic": "MenuActions.itemByRange", "file": "community-types/indesign/menu-actions/item-by-range.md", "summary": "Open when looking up MenuActions.itemByRange in Shared Adobe platform.", "keywords": ["MenuActions.itemByRange"]},
+  {"topic": "MenuActions.length", "file": "community-types/indesign/menu-actions/length.md", "summary": "Open when looking up MenuActions.length in Shared Adobe platform.", "keywords": ["MenuActions.length"]},
+  {"topic": "MenuActions.toSource", "file": "community-types/indesign/menu-actions/to-source.md", "summary": "Open when looking up MenuActions.toSource in Shared Adobe platform.", "keywords": ["MenuActions.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

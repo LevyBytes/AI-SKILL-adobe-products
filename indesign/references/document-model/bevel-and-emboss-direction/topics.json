@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "DOWN", "file": "references/document-model/bevel-and-emboss-direction/down.md", "summary": "Open when looking up DOWN in InDesign.", "keywords": ["DOWN"]},
-  {"topic": "UP", "file": "references/document-model/bevel-and-emboss-direction/up.md", "summary": "Open when looking up UP in InDesign.", "keywords": ["UP"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

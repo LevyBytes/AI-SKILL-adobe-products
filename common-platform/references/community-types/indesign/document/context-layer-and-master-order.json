@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Document.select", "file": "references/community-types/indesign/document/select.md", "summary": "Open when looking up Document.select in Shared Adobe platform.", "keywords": ["Document.select"]},
-  {"topic": "Document.selectedPageItems", "file": "references/community-types/indesign/document/selected-page-items.md", "summary": "Open when looking up Document.selectedPageItems in Shared Adobe platform.", "keywords": ["Document.selectedPageItems"]},
-  {"topic": "Document.selection", "file": "references/community-types/indesign/document/selection.md", "summary": "Open when looking up Document.selection in Shared Adobe platform.", "keywords": ["Document.selection"]},
-  {"topic": "Document.selectionKeyObject", "file": "references/community-types/indesign/document/selection-key-object.md", "summary": "Open when looking up Document.selectionKeyObject in Shared Adobe platform.", "keywords": ["Document.selectionKeyObject"]},
-  {"topic": "Document.visible", "file": "references/community-types/indesign/document/visible.md", "summary": "Open when looking up Document.visible in Shared Adobe platform.", "keywords": ["Document.visible"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

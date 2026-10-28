@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "CharacterStyle.warichu", "file": "community-types/indesign/character-style/warichu.md", "summary": "Open when looking up CharacterStyle.warichu in Shared Adobe platform.", "keywords": ["CharacterStyle.warichu"]},
+  {"topic": "CharacterStyle.warichuAlignment", "file": "community-types/indesign/character-style/warichu-alignment.md", "summary": "Open when looking up CharacterStyle.warichuAlignment in Shared Adobe platform.", "keywords": ["CharacterStyle.warichuAlignment"]},
+  {"topic": "CharacterStyle.warichuCharsAfterBreak", "file": "community-types/indesign/character-style/warichu-chars-after-break.md", "summary": "Open when looking up CharacterStyle.warichuCharsAfterBreak in Shared Adobe platform.", "keywords": ["CharacterStyle.warichuCharsAfterBreak"]},
+  {"topic": "CharacterStyle.warichuCharsBeforeBreak", "file": "community-types/indesign/character-style/warichu-chars-before-break.md", "summary": "Open when looking up CharacterStyle.warichuCharsBeforeBreak in Shared Adobe platform.", "keywords": ["CharacterStyle.warichuCharsBeforeBreak"]},
+  {"topic": "CharacterStyle.warichuLines", "file": "community-types/indesign/character-style/warichu-lines.md", "summary": "Open when looking up CharacterStyle.warichuLines in Shared Adobe platform.", "keywords": ["CharacterStyle.warichuLines"]},
+  {"topic": "CharacterStyle.warichuLineSpacing", "file": "community-types/indesign/character-style/warichu-line-spacing.md", "summary": "Open when looking up CharacterStyle.warichuLineSpacing in Shared Adobe platform.", "keywords": ["CharacterStyle.warichuLineSpacing"]},
+  {"topic": "CharacterStyle.warichuSize", "file": "community-types/indesign/character-style/warichu-size.md", "summary": "Open when looking up CharacterStyle.warichuSize in Shared Adobe platform.", "keywords": ["CharacterStyle.warichuSize"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

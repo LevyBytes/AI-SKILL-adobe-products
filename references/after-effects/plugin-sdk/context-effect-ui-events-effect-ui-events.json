@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Effect UI & Events", "file": "plugin-sdk/effect-ui-events.md", "summary": "Open when looking up Effect UI & Events in After Effects.", "keywords": ["Effect UI & Events"]},
+  {"topic": "Events references", "file": "plugin-sdk/events/reference-index.md", "summary": "Open when looking up Events in After Effects.", "keywords": ["Events references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

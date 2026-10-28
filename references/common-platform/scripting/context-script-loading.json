@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Exporting as binary references", "file": "scripting/exporting-as-binary/reference-index.md", "summary": "Open when looking up Exporting as binary in Shared Adobe platform.", "keywords": ["Exporting as binary references"]},
+  {"topic": "Include file references", "file": "scripting/include-file/reference-index.md", "summary": "Open when looking up Include file in Shared Adobe platform.", "keywords": ["Include file references"]},
+  {"topic": "Includepath path references", "file": "scripting/includepath-path/reference-index.md", "summary": "Open when looking up Includepath path in Shared Adobe platform.", "keywords": ["Includepath path references"]},
+  {"topic": "Preprocessor directives", "file": "scripting/preprocessor-directives.md", "summary": "Open when looking up Preprocessor directives in Shared Adobe platform.", "keywords": ["Preprocessor directives"]},
+  {"topic": "Script name references", "file": "scripting/script-name/reference-index.md", "summary": "Open when looking up Script name in Shared Adobe platform.", "keywords": ["Script name references"]},
+  {"topic": "Startup folder locations references", "file": "scripting/startup-folder-locations/reference-index.md", "summary": "Open when looking up Startup folder locations in Shared Adobe platform.", "keywords": ["Startup folder locations references"]},
+  {"topic": "Startup scripts references", "file": "scripting/startup-scripts/reference-index.md", "summary": "Open when looking up Startup scripts in Shared Adobe platform.", "keywords": ["Startup scripts references"]},
+  {"topic": "Strict on references", "file": "scripting/strict-on/reference-index.md", "summary": "Open when looking up Strict on in Shared Adobe platform.", "keywords": ["Strict on references"]},
+  {"topic": "Target name references", "file": "scripting/target-name/reference-index.md", "summary": "Open when looking up Target name in Shared Adobe platform.", "keywords": ["Target name references"]},
+  {"topic": "Targetengine enginename references", "file": "scripting/targetengine-enginename/reference-index.md", "summary": "Open when looking up Targetengine enginename in Shared Adobe platform.", "keywords": ["Targetengine enginename references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

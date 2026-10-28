@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "conditionalTextPreferences", "file": "references/document-model/application/conditional-text-preferences.md", "summary": "Open when looking up conditionalTextPreferences in InDesign.", "keywords": ["conditionalTextPreferences"]},
-  {"topic": "conditions", "file": "references/document-model/application/conditions.md", "summary": "Open when looking up conditions in InDesign.", "keywords": ["conditions"]},
-  {"topic": "conditionSets", "file": "references/document-model/application/condition-sets.md", "summary": "Open when looking up conditionSets in InDesign.", "keywords": ["conditionSets"]},
-  {"topic": "loadConditions", "file": "references/document-model/application/load-conditions.md", "summary": "Open when looking up loadConditions in InDesign.", "keywords": ["loadConditions"]},
-  {"topic": "notePreferences", "file": "references/document-model/application/note-preferences.md", "summary": "Open when looking up notePreferences in InDesign.", "keywords": ["notePreferences"]},
-  {"topic": "trackChangesPreferences", "file": "references/document-model/application/track-changes-preferences.md", "summary": "Open when looking up trackChangesPreferences in InDesign.", "keywords": ["trackChangesPreferences"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

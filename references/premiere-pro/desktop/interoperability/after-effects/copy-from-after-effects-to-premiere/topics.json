@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "How Premiere converts pasted layers", "file": "desktop/interoperability/after-effects/copy-from-after-effects-to-premiere/how-premiere-converts-pasted-layers.md", "summary": "Open when looking up How Premiere converts pasted layers in Premiere Pro.", "keywords": ["How Premiere converts pasted layers"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

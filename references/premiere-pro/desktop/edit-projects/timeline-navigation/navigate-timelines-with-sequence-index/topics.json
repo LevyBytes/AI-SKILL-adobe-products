@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Configure and export the Sequence Index", "file": "desktop/edit-projects/timeline-navigation/navigate-timelines-with-sequence-index/configure-and-export-the-sequence-index.md", "summary": "Open when looking up Configure and export the Sequence Index in Premiere Pro.", "keywords": ["Configure and export the Sequence Index"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

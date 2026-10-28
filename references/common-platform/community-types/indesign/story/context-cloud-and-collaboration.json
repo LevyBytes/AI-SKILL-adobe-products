@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Story.checkIn", "file": "community-types/indesign/story/check-in.md", "summary": "Open when looking up Story.checkIn in Shared Adobe platform.", "keywords": ["Story.checkIn"]},
+  {"topic": "Story.checkOut", "file": "community-types/indesign/story/check-out.md", "summary": "Open when looking up Story.checkOut in Shared Adobe platform.", "keywords": ["Story.checkOut"]},
+  {"topic": "Story.idmlComponentName", "file": "community-types/indesign/story/idml-component-name.md", "summary": "Open when looking up Story.idmlComponentName in Shared Adobe platform.", "keywords": ["Story.idmlComponentName"]},
+  {"topic": "Story.lockState", "file": "community-types/indesign/story/lock-state.md", "summary": "Open when looking up Story.lockState in Shared Adobe platform.", "keywords": ["Story.lockState"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

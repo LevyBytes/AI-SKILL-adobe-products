@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Global Members", "file": "uxp/global-members.md", "summary": "Open when looking up Global Members in InDesign.", "keywords": ["Global Members"]},
+  {"topic": "Host references", "file": "uxp/host/reference-index.md", "summary": "Open when looking up Host in InDesign.", "keywords": ["Host references"]},
+  {"topic": "Modules", "file": "uxp/modules.md", "summary": "Open when looking up Modules in InDesign.", "keywords": ["Modules"]},
+  {"topic": "Object constructor references", "file": "uxp/object-constructor/reference-index.md", "summary": "Open when looking up Object constructor in InDesign.", "keywords": ["Object constructor references"]},
+  {"topic": "Reference Js", "file": "uxp/reference-js.md", "summary": "Open when looking up Reference Js in InDesign.", "keywords": ["Reference Js"]},
+  {"topic": "Require os platform references", "file": "uxp/require-os-platform/reference-index.md", "summary": "Open when looking up Require os platform in InDesign.", "keywords": ["Require os platform references"]},
+  {"topic": "Runtime references", "file": "uxp/runtime/reference-index.md", "summary": "Open when looking up Runtime in InDesign.", "keywords": ["Runtime references"]},
+  {"topic": "UXP API Reference", "file": "uxp/uxp-api-reference.md", "summary": "Open when looking up UXP API Reference in InDesign.", "keywords": ["UXP API Reference"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

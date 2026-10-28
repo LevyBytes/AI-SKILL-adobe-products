@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Object identity and lifecycle", "file": "document-model/cell-style/context-object-contract.md", "summary": "Open when checking object identity and lifecycle in InDesign - CellStyle.", "keywords": ["Object identity and lifecycle"]},
+  {"topic": "Apply and manage styles", "file": "document-model/cell-style/context-style-application.md", "summary": "Open when checking apply and manage styles in InDesign - CellStyle.", "keywords": ["Apply and manage styles"]},
+  {"topic": "Fill, stroke and transparency", "file": "document-model/cell-style/context-fill-and-stroke.md", "summary": "Open when checking fill, stroke and transparency in InDesign - CellStyle.", "keywords": ["Fill, stroke and transparency"]},
+  {"topic": "Cell and table border strokes", "file": "document-model/cell-style/context-cell-borders.md", "summary": "Open when checking cell and table border strokes in InDesign - CellStyle.", "keywords": ["Cell and table border strokes"]},
+  {"topic": "Content fit, dimensions and overflow", "file": "document-model/cell-style/context-cell-fitting.md", "summary": "Open when checking content fit, dimensions and overflow in InDesign - CellStyle.", "keywords": ["Content fit, dimensions and overflow"]},
+  {"topic": "Placement, bounds and transformations", "file": "document-model/cell-style/context-object-layout.md", "summary": "Open when checking placement, bounds and transformations in InDesign - CellStyle.", "keywords": ["Placement, bounds and transformations"]},
+  {"topic": "Events and listeners", "file": "document-model/cell-style/context-event-delivery.md", "summary": "Open when checking events and listeners in InDesign - CellStyle.", "keywords": ["Events and listeners"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

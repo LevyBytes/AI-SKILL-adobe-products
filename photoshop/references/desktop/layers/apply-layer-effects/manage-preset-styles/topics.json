@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Create a preset style", "file": "references/desktop/layers/apply-layer-effects/manage-preset-styles/create-a-preset-style.md", "summary": "Open when looking up Create a preset style in Photoshop.", "keywords": ["Create a preset style"]},
-  {"topic": "Delete a preset style", "file": "references/desktop/layers/apply-layer-effects/manage-preset-styles/delete-a-preset-style.md", "summary": "Open when looking up Delete a preset style in Photoshop.", "keywords": ["Delete a preset style"]},
-  {"topic": "Rename a preset style", "file": "references/desktop/layers/apply-layer-effects/manage-preset-styles/rename-a-preset-style.md", "summary": "Open when looking up Rename a preset style in Photoshop.", "keywords": ["Rename a preset style"]},
-  {"topic": "Save a set of preset styles", "file": "references/desktop/layers/apply-layer-effects/manage-preset-styles/save-a-set-of-preset-styles.md", "summary": "Open when looking up Save a set of preset styles in Photoshop.", "keywords": ["Save a set of preset styles"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

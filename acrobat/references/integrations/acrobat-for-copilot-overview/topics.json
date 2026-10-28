@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Access and availability", "file": "references/integrations/acrobat-for-copilot-overview/access-and-availability.md", "summary": "Open when looking up Access and availability in Acrobat.", "keywords": ["Access and availability"]},
-  {"topic": "Security and privacy", "file": "references/integrations/acrobat-for-copilot-overview/security-and-privacy.md", "summary": "Open when looking up Security and privacy in Acrobat.", "keywords": ["Security and privacy"]},
-  {"topic": "Supported tasks", "file": "references/integrations/acrobat-for-copilot-overview/supported-tasks.md", "summary": "Open when looking up Supported tasks in Acrobat.", "keywords": ["Supported tasks"]},
-  {"topic": "Use cases", "file": "references/integrations/acrobat-for-copilot-overview/use-cases.md", "summary": "Open when looking up Use cases in Acrobat.", "keywords": ["Use cases"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

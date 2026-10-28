@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "CheckboxControls collection iteration", "file": "community-types/indesign/checkbox-controls/collection-iteration.md", "summary": "Open when looking up CheckboxControls collection iteration in Shared Adobe platform.", "keywords": ["CheckboxControls collection iteration"]},
+  {"topic": "CheckboxControls declaration", "file": "community-types/indesign/checkbox-controls/declaration.md", "summary": "Open when looking up CheckboxControls declaration in Shared Adobe platform.", "keywords": ["CheckboxControls declaration"]},
+  {"topic": "CheckboxControls named and indexed items", "file": "community-types/indesign/checkbox-controls/named-and-indexed-items.md", "summary": "Open when looking up CheckboxControls named and indexed items in Shared Adobe platform.", "keywords": ["CheckboxControls named and indexed items"]},
+  {"topic": "CheckboxControls.add", "file": "community-types/indesign/checkbox-controls/add.md", "summary": "Open when looking up CheckboxControls.add in Shared Adobe platform.", "keywords": ["CheckboxControls.add"]},
+  {"topic": "CheckboxControls.count", "file": "community-types/indesign/checkbox-controls/count.md", "summary": "Open when looking up CheckboxControls.count in Shared Adobe platform.", "keywords": ["CheckboxControls.count"]},
+  {"topic": "CheckboxControls.IndexSignature", "file": "community-types/indesign/checkbox-controls/index-signature.md", "summary": "Open when looking up CheckboxControls.IndexSignature in Shared Adobe platform.", "keywords": ["CheckboxControls.IndexSignature"]},
+  {"topic": "CheckboxControls.itemByRange", "file": "community-types/indesign/checkbox-controls/item-by-range.md", "summary": "Open when looking up CheckboxControls.itemByRange in Shared Adobe platform.", "keywords": ["CheckboxControls.itemByRange"]},
+  {"topic": "CheckboxControls.length", "file": "community-types/indesign/checkbox-controls/length.md", "summary": "Open when looking up CheckboxControls.length in Shared Adobe platform.", "keywords": ["CheckboxControls.length"]},
+  {"topic": "CheckboxControls.toSource", "file": "community-types/indesign/checkbox-controls/to-source.md", "summary": "Open when looking up CheckboxControls.toSource in Shared Adobe platform.", "keywords": ["CheckboxControls.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

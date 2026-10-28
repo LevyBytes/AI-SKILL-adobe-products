@@ -1,0 +1,16 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "bitmapPrinting", "file": "document-model/printer-preset/bitmap-printing.md", "summary": "Open when looking up bitmapPrinting in InDesign.", "keywords": ["bitmapPrinting"]},
+  {"topic": "bitmapResolution", "file": "document-model/printer-preset/bitmap-resolution.md", "summary": "Open when looking up bitmapResolution in InDesign.", "keywords": ["bitmapResolution"]},
+  {"topic": "dataFormat", "file": "document-model/printer-preset/data-format.md", "summary": "Open when looking up dataFormat in InDesign.", "keywords": ["dataFormat"]},
+  {"topic": "downloadPPDFonts", "file": "document-model/printer-preset/download-ppd-fonts.md", "summary": "Open when looking up downloadPPDFonts in InDesign.", "keywords": ["downloadPPDFonts"]},
+  {"topic": "flattenerPresetName", "file": "document-model/printer-preset/flattener-preset-name.md", "summary": "Open when looking up flattenerPresetName in InDesign.", "keywords": ["flattenerPresetName"]},
+  {"topic": "fontDownloading", "file": "document-model/printer-preset/font-downloading.md", "summary": "Open when looking up fontDownloading in InDesign.", "keywords": ["fontDownloading"]},
+  {"topic": "ignoreSpreadOverrides", "file": "document-model/printer-preset/ignore-spread-overrides.md", "summary": "Open when looking up ignoreSpreadOverrides in InDesign.", "keywords": ["ignoreSpreadOverrides"]},
+  {"topic": "omitBitmaps", "file": "document-model/printer-preset/omit-bitmaps.md", "summary": "Open when looking up omitBitmaps in InDesign.", "keywords": ["omitBitmaps"]},
+  {"topic": "omitEPS", "file": "document-model/printer-preset/omit-eps.md", "summary": "Open when looking up omitEPS in InDesign.", "keywords": ["omitEPS"]},
+  {"topic": "omitPDF", "file": "document-model/printer-preset/omit-pdf.md", "summary": "Open when looking up omitPDF in InDesign.", "keywords": ["omitPDF"]},
+  {"topic": "opiImageReplacement", "file": "document-model/printer-preset/opi-image-replacement.md", "summary": "Open when looking up opiImageReplacement in InDesign.", "keywords": ["opiImageReplacement"]},
+  {"topic": "postscriptLevel", "file": "document-model/printer-preset/postscript-level.md", "summary": "Open when looking up postscriptLevel in InDesign.", "keywords": ["postscriptLevel"]},
+  {"topic": "sendImageData", "file": "document-model/printer-preset/send-image-data.md", "summary": "Open when looking up sendImageData in InDesign.", "keywords": ["sendImageData"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

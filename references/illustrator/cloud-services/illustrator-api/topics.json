@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Custom Scripts (beta)", "file": "cloud-services/illustrator-api/custom-scripts-beta.md", "summary": "Open when looking up Custom Scripts (beta) in Illustrator.", "keywords": ["Custom Scripts (beta)"]},
+  {"topic": "Custom Scripts and Image Trace API (public beta)", "file": "cloud-services/illustrator-api/custom-scripts-and-image-trace-api-public-beta.md", "summary": "Open when looking up Custom Scripts and Image Trace API (public beta) in Illustrator.", "keywords": ["Custom Scripts and Image Trace API (public beta)"]},
+  {"topic": "Get started", "file": "cloud-services/illustrator-api/get-started.md", "summary": "Open when looking up Get started in Illustrator.", "keywords": ["Get started"]},
+  {"topic": "Illustrator Data Merge service", "file": "cloud-services/illustrator-api/illustrator-data-merge-service.md", "summary": "Open when looking up Illustrator Data Merge service in Illustrator.", "keywords": ["Illustrator Data Merge service"]},
+  {"topic": "Illustrator Rendition service", "file": "cloud-services/illustrator-api/illustrator-rendition-service.md", "summary": "Open when looking up Illustrator Rendition service in Illustrator.", "keywords": ["Illustrator Rendition service"]},
+  {"topic": "Image Trace (beta)", "file": "cloud-services/illustrator-api/image-trace-beta.md", "summary": "Open when looking up Image Trace (beta) in Illustrator.", "keywords": ["Image Trace (beta)"]},
+  {"topic": "Resources", "file": "cloud-services/illustrator-api/resources.md", "summary": "Open when looking up Resources in Illustrator.", "keywords": ["Resources"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Navigate the dialog boxes", "file": "web/get-started/access-the-app/use-keyboard-navigation-for-accessibility/navigate-the-dialog-boxes.md", "summary": "Open when looking up Navigate the dialog boxes in Acrobat.", "keywords": ["Navigate the dialog boxes"]},
+  {"topic": "Navigate the top menu bar", "file": "web/get-started/access-the-app/use-keyboard-navigation-for-accessibility/navigate-the-top-menu-bar.md", "summary": "Open when looking up Navigate the top menu bar in Acrobat.", "keywords": ["Navigate the top menu bar"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

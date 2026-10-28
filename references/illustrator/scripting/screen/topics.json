@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Screen.name", "file": "scripting/screen/name.md", "summary": "Open when looking up Screen.name in Illustrator.", "keywords": ["Screen.name"]},
+  {"topic": "Screen.screenInfo", "file": "scripting/screen/screen-info.md", "summary": "Open when looking up Screen.screenInfo in Illustrator.", "keywords": ["Screen.screenInfo"]},
+  {"topic": "Screen.typename", "file": "scripting/screen/typename.md", "summary": "Open when looking up Screen.typename in Illustrator.", "keywords": ["Screen.typename"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

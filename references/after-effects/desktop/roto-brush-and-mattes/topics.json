@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Roto brush references", "file": "desktop/roto-brush-and-mattes/roto-brush/reference-index.md", "summary": "Open when looking up Roto brush in After Effects.", "keywords": ["Roto brush references"]},
+  {"topic": "Roto Brush Refine Matte", "file": "desktop/roto-brush-and-mattes/roto-brush-refine-matte.md", "summary": "Open when looking up Roto Brush Refine Matte in After Effects.", "keywords": ["Roto Brush Refine Matte"]},
+  {"topic": "Roto Brush Refine Matte references", "file": "desktop/roto-brush-and-mattes/roto-brush-refine-matte/reference-index.md", "summary": "Open when looking up Roto Brush Refine Matte in After Effects.", "keywords": ["Roto Brush Refine Matte references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

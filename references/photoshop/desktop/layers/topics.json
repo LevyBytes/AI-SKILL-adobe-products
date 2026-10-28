@@ -1,0 +1,17 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Apply layer effects", "file": "desktop/layers/apply-layer-effects.md", "summary": "Open when looking up Apply layer effects in Photoshop.", "keywords": ["Apply layer effects"]},
+  {"topic": "Apply layer effects references", "file": "desktop/layers/apply-layer-effects/reference-index.md", "summary": "Open when looking up Apply layer effects in Photoshop.", "keywords": ["Apply layer effects references"]},
+  {"topic": "Color adjustment and fill layers", "file": "desktop/layers/color-adjustment-and-fill-layers.md", "summary": "Open when looking up Color adjustment and fill layers in Photoshop.", "keywords": ["Color adjustment and fill layers"]},
+  {"topic": "Color adjustment and fill layers references", "file": "desktop/layers/adjustment-and-fill/reference-index.md", "summary": "Open when looking up Color adjustment and fill layers in Photoshop.", "keywords": ["Color adjustment and fill layers references"]},
+  {"topic": "Create layer compositions", "file": "desktop/layers/create-layer-compositions.md", "summary": "Open when looking up Create layer compositions in Photoshop.", "keywords": ["Create layer compositions"]},
+  {"topic": "Create layer compositions references", "file": "desktop/layers/create-layer-compositions/reference-index.md", "summary": "Open when looking up Create layer compositions in Photoshop.", "keywords": ["Create layer compositions references"]},
+  {"topic": "Get started with layers", "file": "desktop/layers/get-started-with-layers.md", "summary": "Open when looking up Get started with layers in Photoshop.", "keywords": ["Get started with layers"]},
+  {"topic": "Get started with layers references", "file": "desktop/layers/get-started-with-layers/reference-index.md", "summary": "Open when looking up Get started with layers in Photoshop.", "keywords": ["Get started with layers references"]},
+  {"topic": "Layout and design tools", "file": "desktop/layers/layout-and-design-tools.md", "summary": "Open when looking up Layout and design tools in Photoshop.", "keywords": ["Layout and design tools"]},
+  {"topic": "Layout and design tools references", "file": "desktop/layers/layout-and-design-tools/reference-index.md", "summary": "Open when looking up Layout and design tools in Photoshop.", "keywords": ["Layout and design tools references"]},
+  {"topic": "Smart objects", "file": "desktop/layers/smart-objects.md", "summary": "Open when looking up Smart objects in Photoshop.", "keywords": ["Smart objects"]},
+  {"topic": "Smart objects references", "file": "desktop/layers/smart-objects/reference-index.md", "summary": "Open when looking up Smart objects in Photoshop.", "keywords": ["Smart objects references"]},
+  {"topic": "Transform and manipulate layers", "file": "desktop/layers/transform-and-manipulate-layers.md", "summary": "Open when looking up Transform and manipulate layers in Photoshop.", "keywords": ["Transform and manipulate layers"]},
+  {"topic": "Transform and manipulate layers references", "file": "desktop/layers/transform-and-manipulate-layers/reference-index.md", "summary": "Open when looking up Transform and manipulate layers in Photoshop.", "keywords": ["Transform and manipulate layers references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

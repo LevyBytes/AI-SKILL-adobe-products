@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "arrayBuffer()", "file": "uxp/blob/array-buffer.md", "summary": "Open when looking up arrayBuffer() in InDesign.", "keywords": ["arrayBuffer()"]},
+  {"topic": "Blob(array, [options])", "file": "uxp/blob/blob.md", "summary": "Open when looking up Blob(array, [options]) in InDesign.", "keywords": ["Blob(array, [options])"]},
+  {"topic": "size : number", "file": "uxp/blob/size-number.md", "summary": "Open when looking up size : number in InDesign.", "keywords": ["size : number"]},
+  {"topic": "slice([start], [end], [contentType])", "file": "uxp/blob/slice.md", "summary": "Open when looking up slice([start], [end], [contentType]) in InDesign.", "keywords": ["slice([start], [end], [contentType])"]},
+  {"topic": "stream()", "file": "uxp/blob/stream.md", "summary": "Open when looking up stream() in InDesign.", "keywords": ["stream()"]},
+  {"topic": "text()", "file": "uxp/blob/text.md", "summary": "Open when looking up text() in InDesign.", "keywords": ["text()"]},
+  {"topic": "type : string", "file": "uxp/blob/type-string.md", "summary": "Open when looking up type : string in InDesign.", "keywords": ["type : string"]},
+  {"topic": "window.Blob", "file": "uxp/blob/overview.md", "summary": "Open when looking up window.Blob in InDesign.", "keywords": ["window.Blob"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "ScriptUI.Alignment", "file": "scripting/script-ui/alignment.md", "summary": "Open when looking up ScriptUI.Alignment in Shared Adobe platform.", "keywords": ["ScriptUI.Alignment"]},
+  {"topic": "ScriptUI.applicationFonts", "file": "scripting/script-ui/application-fonts.md", "summary": "Open when looking up ScriptUI.applicationFonts in Shared Adobe platform.", "keywords": ["ScriptUI.applicationFonts"]},
+  {"topic": "ScriptUI.compatability", "file": "scripting/script-ui/compatability.md", "summary": "Open when looking up ScriptUI.compatability in Shared Adobe platform.", "keywords": ["ScriptUI.compatability"]},
+  {"topic": "ScriptUI.coreVersion", "file": "scripting/script-ui/core-version.md", "summary": "Open when looking up ScriptUI.coreVersion in Shared Adobe platform.", "keywords": ["ScriptUI.coreVersion"]},
+  {"topic": "ScriptUI.environment", "file": "scripting/script-ui/environment.md", "summary": "Open when looking up ScriptUI.environment in Shared Adobe platform.", "keywords": ["ScriptUI.environment"]},
+  {"topic": "ScriptUI.events", "file": "scripting/script-ui/events.md", "summary": "Open when looking up ScriptUI.events in Shared Adobe platform.", "keywords": ["ScriptUI.events"]},
+  {"topic": "ScriptUI.FontStyle", "file": "scripting/script-ui/font-style.md", "summary": "Open when looking up ScriptUI.FontStyle in Shared Adobe platform.", "keywords": ["ScriptUI.FontStyle"]},
+  {"topic": "ScriptUI.frameworkName", "file": "scripting/script-ui/framework-name.md", "summary": "Open when looking up ScriptUI.frameworkName in Shared Adobe platform.", "keywords": ["ScriptUI.frameworkName"]},
+  {"topic": "ScriptUI.getResourceText()", "file": "scripting/script-ui/get-resource-text.md", "summary": "Open when looking up ScriptUI.getResourceText() in Shared Adobe platform.", "keywords": ["ScriptUI.getResourceText()"]},
+  {"topic": "ScriptUI.newFont()", "file": "scripting/script-ui/new-font.md", "summary": "Open when looking up ScriptUI.newFont() in Shared Adobe platform.", "keywords": ["ScriptUI.newFont()"]},
+  {"topic": "ScriptUI.newImage()", "file": "scripting/script-ui/new-image.md", "summary": "Open when looking up ScriptUI.newImage() in Shared Adobe platform.", "keywords": ["ScriptUI.newImage()"]},
+  {"topic": "ScriptUI.version", "file": "scripting/script-ui/version.md", "summary": "Open when looking up ScriptUI.version in Shared Adobe platform.", "keywords": ["ScriptUI.version"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

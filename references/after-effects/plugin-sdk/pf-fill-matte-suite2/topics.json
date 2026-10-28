@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "fill", "file": "plugin-sdk/pf-fill-matte-suite2/fill.md", "summary": "Open when looking up fill in After Effects.", "keywords": ["fill"]},
+  {"topic": "fill16", "file": "plugin-sdk/pf-fill-matte-suite2/fill16.md", "summary": "Open when looking up fill16 in After Effects.", "keywords": ["fill16"]},
+  {"topic": "fill_float", "file": "plugin-sdk/pf-fill-matte-suite2/fillfloat.md", "summary": "Open when looking up fill_float in After Effects.", "keywords": ["fill_float"]},
+  {"topic": "premultiply", "file": "plugin-sdk/pf-fill-matte-suite2/premultiply.md", "summary": "Open when looking up premultiply in After Effects.", "keywords": ["premultiply"]},
+  {"topic": "premultiply_color", "file": "plugin-sdk/pf-fill-matte-suite2/premultiplycolor.md", "summary": "Open when looking up premultiply_color in After Effects.", "keywords": ["premultiply_color"]},
+  {"topic": "premultiply_color16", "file": "plugin-sdk/pf-fill-matte-suite2/premultiplycolor16.md", "summary": "Open when looking up premultiply_color16 in After Effects.", "keywords": ["premultiply_color16"]},
+  {"topic": "premultiply_color_float", "file": "plugin-sdk/pf-fill-matte-suite2/premultiplycolorfloat.md", "summary": "Open when looking up premultiply_color_float in After Effects.", "keywords": ["premultiply_color_float"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "simulateOverprint", "file": "references/document-model/pdf-export-preference/simulate-overprint.md", "summary": "Open when looking up simulateOverprint in InDesign.", "keywords": ["simulateOverprint"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Application.conditionalTextPreferences", "file": "community-types/indesign/application/conditional-text-preferences.md", "summary": "Open when looking up Application.conditionalTextPreferences in Shared Adobe platform.", "keywords": ["Application.conditionalTextPreferences"]},
+  {"topic": "Application.conditions", "file": "community-types/indesign/application/conditions.md", "summary": "Open when looking up Application.conditions in Shared Adobe platform.", "keywords": ["Application.conditions"]},
+  {"topic": "Application.conditionSets", "file": "community-types/indesign/application/condition-sets.md", "summary": "Open when looking up Application.conditionSets in Shared Adobe platform.", "keywords": ["Application.conditionSets"]},
+  {"topic": "Application.loadConditions", "file": "community-types/indesign/application/load-conditions.md", "summary": "Open when looking up Application.loadConditions in Shared Adobe platform.", "keywords": ["Application.loadConditions"]},
+  {"topic": "Application.notePreferences", "file": "community-types/indesign/application/note-preferences.md", "summary": "Open when looking up Application.notePreferences in Shared Adobe platform.", "keywords": ["Application.notePreferences"]},
+  {"topic": "Application.trackChangesPreferences", "file": "community-types/indesign/application/track-changes-preferences.md", "summary": "Open when looking up Application.trackChangesPreferences in Shared Adobe platform.", "keywords": ["Application.trackChangesPreferences"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

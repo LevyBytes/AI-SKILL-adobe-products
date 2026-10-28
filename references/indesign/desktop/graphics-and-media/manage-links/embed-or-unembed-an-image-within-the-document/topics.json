@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Embed a linked image", "file": "desktop/graphics-and-media/manage-links/embed-or-unembed-an-image-within-the-document/embed-a-linked-image.md", "summary": "Open when looking up Embed a linked image in InDesign.", "keywords": ["Embed a linked image"]},
+  {"topic": "Unembed an image to restore linking", "file": "desktop/graphics-and-media/manage-links/embed-or-unembed-an-image-within-the-document/unembed-an-image-to-restore-linking.md", "summary": "Open when looking up Unembed an image to restore linking in InDesign.", "keywords": ["Unembed an image to restore linking"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

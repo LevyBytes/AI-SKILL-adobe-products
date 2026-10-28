@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Document specifications", "file": "references/desktop/explore-pdf-spaces/supported-file-formats-and-limitations/document-specifications.md", "summary": "Open when looking up Document specifications in Acrobat.", "keywords": ["Document specifications"]},
-  {"topic": "Supported content types", "file": "references/desktop/explore-pdf-spaces/supported-file-formats-and-limitations/supported-content-types.md", "summary": "Open when looking up Supported content types in Acrobat.", "keywords": ["Supported content types"]},
-  {"topic": "Supported languages", "file": "references/desktop/explore-pdf-spaces/supported-file-formats-and-limitations/supported-languages.md", "summary": "Open when looking up Supported languages in Acrobat.", "keywords": ["Supported languages"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

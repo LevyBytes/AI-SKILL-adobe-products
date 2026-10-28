@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Artboard customization", "file": "desktop/layers/layout-and-design-tools/get-started-with-artboards/artboard-customization.md", "summary": "Open when looking up Artboard customization in Photoshop.", "keywords": ["Artboard customization"]},
+  {"topic": "Benefits of artboards", "file": "desktop/layers/layout-and-design-tools/get-started-with-artboards/benefits-of-artboards.md", "summary": "Open when looking up Benefits of artboards in Photoshop.", "keywords": ["Benefits of artboards"]},
+  {"topic": "Structure and organization", "file": "desktop/layers/layout-and-design-tools/get-started-with-artboards/structure-and-organization.md", "summary": "Open when looking up Structure and organization in Photoshop.", "keywords": ["Structure and organization"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

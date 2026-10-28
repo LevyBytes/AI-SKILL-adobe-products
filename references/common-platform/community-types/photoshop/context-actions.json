@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "ActionDescriptor references", "file": "community-types/photoshop/action-descriptor/reference-index.md", "summary": "Open when looking up ActionDescriptor in Shared Adobe platform.", "keywords": ["ActionDescriptor references"]},
+  {"topic": "ActionList references", "file": "community-types/photoshop/action-list/reference-index.md", "summary": "Open when looking up ActionList in Shared Adobe platform.", "keywords": ["ActionList references"]},
+  {"topic": "ActionReference references", "file": "community-types/photoshop/action-reference/reference-index.md", "summary": "Open when looking up ActionReference in Shared Adobe platform.", "keywords": ["ActionReference references"]},
+  {"topic": "AdjustmentReference", "file": "community-types/photoshop/adjustment-reference.md", "summary": "Open when looking up AdjustmentReference in Shared Adobe platform.", "keywords": ["AdjustmentReference"]},
+  {"topic": "DescValueType", "file": "community-types/photoshop/desc-value-type.md", "summary": "Open when looking up DescValueType in Shared Adobe platform.", "keywords": ["DescValueType"]},
+  {"topic": "ReferenceFormType", "file": "community-types/photoshop/reference-form-type.md", "summary": "Open when looking up ReferenceFormType in Shared Adobe platform.", "keywords": ["ReferenceFormType"]},
+  {"topic": "Notifier", "file": "community-types/photoshop/notifier.md", "summary": "Open when looking up Notifier in Shared Adobe platform.", "keywords": ["Notifier"]},
+  {"topic": "Notifiers", "file": "community-types/photoshop/notifiers.md", "summary": "Open when looking up Notifiers in Shared Adobe platform.", "keywords": ["Notifiers"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

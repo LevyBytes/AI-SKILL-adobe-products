@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "NORMAL", "file": "document-model/ink-types/normal.md", "summary": "Open when looking up NORMAL in InDesign.", "keywords": ["NORMAL"]},
+  {"topic": "OPAQUE", "file": "document-model/ink-types/opaque.md", "summary": "Open when looking up OPAQUE in InDesign.", "keywords": ["OPAQUE"]},
+  {"topic": "OPAQUE_IGNORE", "file": "document-model/ink-types/opaqueignore.md", "summary": "Open when looking up OPAQUE_IGNORE in InDesign.", "keywords": ["OPAQUE_IGNORE"]},
+  {"topic": "TRANSPARENT", "file": "document-model/ink-types/transparent.md", "summary": "Open when looking up TRANSPARENT in InDesign.", "keywords": ["TRANSPARENT"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

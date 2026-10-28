@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Converted documents", "file": "references/integrations/acrobat-for-microsoft-outlook-overview/converted-documents.md", "summary": "Open when looking up Converted documents in Acrobat.", "keywords": ["Converted documents"]},
-  {"topic": "Document links in emails", "file": "references/integrations/acrobat-for-microsoft-outlook-overview/document-links-in-emails.md", "summary": "Open when looking up Document links in emails in Acrobat.", "keywords": ["Document links in emails"]},
-  {"topic": "Emails to PDFs", "file": "references/integrations/acrobat-for-microsoft-outlook-overview/emails-to-pdfs.md", "summary": "Open when looking up Emails to PDFs in Acrobat.", "keywords": ["Emails to PDFs"]},
-  {"topic": "Supported features", "file": "references/integrations/acrobat-for-microsoft-outlook-overview/supported-features.md", "summary": "Open when looking up Supported features in Acrobat.", "keywords": ["Supported features"]},
-  {"topic": "Supported platforms", "file": "references/integrations/acrobat-for-microsoft-outlook-overview/supported-platforms.md", "summary": "Open when looking up Supported platforms in Acrobat.", "keywords": ["Supported platforms"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

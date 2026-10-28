@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Adobe UXP Developer Tool", "file": "uxp/adobe-uxp-developer-tool.md", "summary": "Open when looking up Adobe UXP Developer Tool in Photoshop.", "keywords": ["Adobe UXP Developer Tool"]},
+  {"topic": "Adobe UXP Developer Tool references", "file": "uxp/adobe-uxp-developer-tool/reference-index.md", "summary": "Open when looking up Adobe UXP Developer Tool in Photoshop.", "keywords": ["Adobe UXP Developer Tool references"]},
+  {"topic": "Debugging Script files", "file": "uxp/debugging-script-files.md", "summary": "Open when looking up Debugging Script files in Photoshop.", "keywords": ["Debugging Script files"]},
+  {"topic": "Debugging UXP Plugins", "file": "uxp/debugging-uxp-plugins.md", "summary": "Open when looking up Debugging UXP Plugins in Photoshop.", "keywords": ["Debugging UXP Plugins"]},
+  {"topic": "Debugging UXP Plugins references", "file": "uxp/debugging-uxp-plugins/reference-index.md", "summary": "Open when looking up Debugging UXP Plugins in Photoshop.", "keywords": ["Debugging UXP Plugins references"]},
+  {"topic": "JavaScript Frameworks and Libraries", "file": "uxp/java-script-frameworks-and-libraries.md", "summary": "Open when looking up JavaScript Frameworks and Libraries in Photoshop.", "keywords": ["JavaScript Frameworks and Libraries"]},
+  {"topic": "Plugin workflows", "file": "uxp/plugin-workflows.md", "summary": "Open when looking up Plugin workflows in Photoshop.", "keywords": ["Plugin workflows"]},
+  {"topic": "Plugin workflows references", "file": "uxp/plugin-workflows/reference-index.md", "summary": "Open when looking up Plugin workflows in Photoshop.", "keywords": ["Plugin workflows references"]},
+  {"topic": "UXP Toolchain", "file": "uxp/uxp-toolchain.md", "summary": "Open when looking up UXP Toolchain in Photoshop.", "keywords": ["UXP Toolchain"]},
+  {"topic": "UXP Toolchain references", "file": "uxp/uxp-toolchain/reference-index.md", "summary": "Open when looking up UXP Toolchain in Photoshop.", "keywords": ["UXP Toolchain references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

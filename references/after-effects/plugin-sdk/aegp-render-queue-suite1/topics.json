@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "AEGP_AddCompToRenderQueue", "file": "plugin-sdk/aegp-render-queue-suite1/aegp-add-comp-to-render-queue.md", "summary": "Open when looking up AEGP_AddCompToRenderQueue in After Effects.", "keywords": ["AEGP_AddCompToRenderQueue"]},
+  {"topic": "AEGP_GetRenderQueueState", "file": "plugin-sdk/aegp-render-queue-suite1/aegp-get-render-queue-state.md", "summary": "Open when looking up AEGP_GetRenderQueueState in After Effects.", "keywords": ["AEGP_GetRenderQueueState"]},
+  {"topic": "AEGP_SetRenderQueueState", "file": "plugin-sdk/aegp-render-queue-suite1/aegp-set-render-queue-state.md", "summary": "Open when looking up AEGP_SetRenderQueueState in After Effects.", "keywords": ["AEGP_SetRenderQueueState"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

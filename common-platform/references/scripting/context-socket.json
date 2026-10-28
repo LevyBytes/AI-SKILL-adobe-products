@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Chat server sample references", "file": "references/scripting/chat-server-sample/reference-index.md", "summary": "Open when looking up Chat server sample in Shared Adobe platform.", "keywords": ["Chat server sample references"]},
-  {"topic": "External communication references", "file": "references/scripting/external-communication/reference-index.md", "summary": "Open when looking up External communication in Shared Adobe platform.", "keywords": ["External communication references"]},
-  {"topic": "External Communication Tools", "file": "references/scripting/external-communication-tools.md", "summary": "Open when looking up External Communication Tools in Shared Adobe platform.", "keywords": ["External Communication Tools"]},
-  {"topic": "Socket Object Reference", "file": "references/scripting/socket-object-reference.md", "summary": "Open when looking up Socket Object Reference in Shared Adobe platform.", "keywords": ["Socket Object Reference"]},
-  {"topic": "Socket references", "file": "references/scripting/socket/reference-index.md", "summary": "Open when looking up Socket in Shared Adobe platform.", "keywords": ["Socket references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Custom element class references", "file": "scripting/custom-element-class/reference-index.md", "summary": "Open when looking up Custom element class in Shared Adobe platform.", "keywords": ["Custom element class references"]},
+  {"topic": "Displaying images references", "file": "scripting/displaying-images/reference-index.md", "summary": "Open when looking up Displaying images in Shared Adobe platform.", "keywords": ["Displaying images references"]},
+  {"topic": "Draw state references", "file": "scripting/draw-state/reference-index.md", "summary": "Open when looking up Draw state in Shared Adobe platform.", "keywords": ["Draw state references"]},
+  {"topic": "Drawing objects", "file": "scripting/drawing-objects.md", "summary": "Open when looking up Drawing objects in Shared Adobe platform.", "keywords": ["Drawing objects"]},
+  {"topic": "Graphic customization objects", "file": "scripting/graphic-customization-objects.md", "summary": "Open when looking up Graphic customization objects in Shared Adobe platform.", "keywords": ["Graphic customization objects"]},
+  {"topic": "Script ui brush references", "file": "scripting/script-ui-brush/reference-index.md", "summary": "Open when looking up Script ui brush in Shared Adobe platform.", "keywords": ["Script ui brush references"]},
+  {"topic": "Script ui font references", "file": "scripting/script-ui-font/reference-index.md", "summary": "Open when looking up Script ui font in Shared Adobe platform.", "keywords": ["Script ui font references"]},
+  {"topic": "Script ui graphics references", "file": "scripting/script-ui-graphics/reference-index.md", "summary": "Open when looking up Script ui graphics in Shared Adobe platform.", "keywords": ["Script ui graphics references"]},
+  {"topic": "Script ui image references", "file": "scripting/script-ui-image/reference-index.md", "summary": "Open when looking up Script ui image in Shared Adobe platform.", "keywords": ["Script ui image references"]},
+  {"topic": "Script ui path references", "file": "scripting/script-ui-path/reference-index.md", "summary": "Open when looking up Script ui path in Shared Adobe platform.", "keywords": ["Script ui path references"]},
+  {"topic": "Script ui pen references", "file": "scripting/script-ui-pen/reference-index.md", "summary": "Open when looking up Script ui pen in Shared Adobe platform.", "keywords": ["Script ui pen references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

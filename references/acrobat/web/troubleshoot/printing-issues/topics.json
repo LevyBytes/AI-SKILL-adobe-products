@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Browser extension won’t print PDFs", "file": "web/troubleshoot/printing-issues/browser-extension-won-t-print-pdfs.md", "summary": "Open when looking up Browser extension won’t print PDFs in Acrobat.", "keywords": ["Browser extension won’t print PDFs"]},
+  {"topic": "Browser extension won’t print PDFs references", "file": "web/troubleshoot/printing-issues/browser-extension-won-t-print-pdfs/reference-index.md", "summary": "Open when looking up Browser extension won’t print PDFs in Acrobat.", "keywords": ["Browser extension won’t print PDFs references"]},
+  {"topic": "PDF prints incorrectly", "file": "web/troubleshoot/printing-issues/pdf-prints-incorrectly.md", "summary": "Open when looking up PDF prints incorrectly in Acrobat.", "keywords": ["PDF prints incorrectly"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

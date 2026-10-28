@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Scripting for specific applications - JavaScript variables", "file": "scripting/java-script-variables/scripting-for-specific-applications-java-script-variables.md", "summary": "Open when looking up Scripting for specific applications - JavaScript variables in Shared Adobe platform.", "keywords": ["Scripting for specific applications - JavaScript variables"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

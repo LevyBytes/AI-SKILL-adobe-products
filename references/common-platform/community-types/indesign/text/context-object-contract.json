@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Text declaration", "file": "community-types/indesign/text/declaration.md", "summary": "Open when looking up Text declaration in Shared Adobe platform.", "keywords": ["Text declaration"]},
+  {"topic": "Text identity and parent", "file": "community-types/indesign/text/identity-and-parent.md", "summary": "Open when looking up Text identity and parent in Shared Adobe platform.", "keywords": ["Text identity and parent"]},
+  {"topic": "Text object lifecycle", "file": "community-types/indesign/text/object-lifecycle.md", "summary": "Open when looking up Text object lifecycle in Shared Adobe platform.", "keywords": ["Text object lifecycle"]},
+  {"topic": "Text object resolution", "file": "community-types/indesign/text/object-resolution.md", "summary": "Open when looking up Text object resolution in Shared Adobe platform.", "keywords": ["Text object resolution"]},
+  {"topic": "Text.properties", "file": "community-types/indesign/text/properties.md", "summary": "Open when looking up Text.properties in Shared Adobe platform.", "keywords": ["Text.properties"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

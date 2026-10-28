@@ -1,0 +1,18 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Service region", "file": "pdf-services/how-tos/service-region-configuration.md", "summary": "Open when selecting a supported processing region for the account.", "keywords": ["Service region"]},
+  {"topic": "Java examples", "file": "pdf-services/how-tos/java.md", "summary": "Open when building Java region or proxy settings and supplying the client configuration.", "keywords": ["Java examples"]},
+  {"topic": ".NET example", "file": "pdf-services/how-tos/net.md", "summary": "Open when selecting a region through the .NET configuration builder.", "keywords": [".NET example"]},
+  {"topic": "Node.js examples", "file": "pdf-services/how-tos/node-js.md", "summary": "Open when supplying Node.js region and proxy constructor options.", "keywords": ["Node.js examples"]},
+  {"topic": "Python examples", "file": "pdf-services/how-tos/python.md", "summary": "Open when supplying Python region and proxy constructor arguments.", "keywords": ["Python examples"]},
+  {"topic": "Timeout configuration", "file": "pdf-services/how-tos/custom-timeout-configuration.md", "summary": "Open when choosing the timeout controls available in each SDK.", "keywords": ["Timeout configuration"]},
+  {"topic": "Java timeouts", "file": "pdf-services/how-tos/java-timeout-configuration.md", "summary": "Open when setting Java connection and socket intervals.", "keywords": ["Java timeouts"]},
+  {"topic": ".NET timeouts", "file": "pdf-services/how-tos/net-timeout-configuration.md", "summary": "Open when selecting a .NET request interval in milliseconds.", "keywords": [".NET timeouts"]},
+  {"topic": "Node.js timeouts", "file": "pdf-services/how-tos/node-js-timeout-configuration.md", "summary": "Open when controlling the Node.js request-abort interval.", "keywords": ["Node.js timeouts"]},
+  {"topic": "Python timeouts", "file": "pdf-services/how-tos/python-timeout-configuration.md", "summary": "Open when setting Python connection and response waits.", "keywords": ["Python timeouts"]},
+  {"topic": "Proxy configuration", "file": "pdf-services/how-tos/proxy-server-configuration.md", "summary": "Open when the network requires requests to pass through a proxy.", "keywords": ["Proxy configuration"]},
+  {"topic": "Java proxy fields", "file": "pdf-services/how-tos/java-proxy-server-configuration.md", "summary": "Open when choosing Java proxy builder methods and authentication.", "keywords": ["Java proxy fields"]},
+  {"topic": "Node.js proxy fields", "file": "pdf-services/how-tos/node-proxy-server-configuration.md", "summary": "Open when nesting Node.js proxy credentials correctly.", "keywords": ["Node.js proxy fields"]},
+  {"topic": "Python proxy fields", "file": "pdf-services/how-tos/python-proxy-server-configuration.md", "summary": "Open when distinguishing Python proxy arguments from JSON keys.", "keywords": ["Python proxy fields"]},
+  {"topic": "PDF Extract output", "file": "pdf-services/how-tos/how-it-works.md", "summary": "Open when interpreting extraction JSON, table data and image renditions.", "keywords": ["PDF Extract output"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when selecting a reference language.", "keywords": ["Reference Language Selection"]}
+]}

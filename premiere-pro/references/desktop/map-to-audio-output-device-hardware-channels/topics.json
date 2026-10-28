@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Assign sequence audio channels to hardware outputs in Adobe Premiere.", "file": "references/desktop/map-to-audio-output-device-hardware-channels/sequence-to-hardware-audio-channel-mapping.md", "summary": "Open when looking up Assign sequence audio channels to hardware outputs in Adobe Premiere. in Premiere Pro.", "keywords": ["Assign sequence audio channels to hardware outputs in Adobe Premiere."]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

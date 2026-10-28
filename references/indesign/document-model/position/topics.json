@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "NORMAL", "file": "document-model/position/normal.md", "summary": "Open when looking up NORMAL in InDesign.", "keywords": ["NORMAL"]},
+  {"topic": "OT_DENOMINATOR", "file": "document-model/position/otdenominator.md", "summary": "Open when looking up OT_DENOMINATOR in InDesign.", "keywords": ["OT_DENOMINATOR"]},
+  {"topic": "OT_NUMERATOR", "file": "document-model/position/otnumerator.md", "summary": "Open when looking up OT_NUMERATOR in InDesign.", "keywords": ["OT_NUMERATOR"]},
+  {"topic": "OT_SUBSCRIPT", "file": "document-model/position/otsubscript.md", "summary": "Open when looking up OT_SUBSCRIPT in InDesign.", "keywords": ["OT_SUBSCRIPT"]},
+  {"topic": "OT_SUPERSCRIPT", "file": "document-model/position/otsuperscript.md", "summary": "Open when looking up OT_SUPERSCRIPT in InDesign.", "keywords": ["OT_SUPERSCRIPT"]},
+  {"topic": "SUBSCRIPT", "file": "document-model/position/subscript.md", "summary": "Open when looking up SUBSCRIPT in InDesign.", "keywords": ["SUBSCRIPT"]},
+  {"topic": "SUPERSCRIPT", "file": "document-model/position/superscript.md", "summary": "Open when looking up SUPERSCRIPT in InDesign.", "keywords": ["SUPERSCRIPT"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

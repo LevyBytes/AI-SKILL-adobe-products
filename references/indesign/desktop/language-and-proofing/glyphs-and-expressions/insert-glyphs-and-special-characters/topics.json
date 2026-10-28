@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Clear recently used glyphs", "file": "desktop/language-and-proofing/glyphs-and-expressions/insert-glyphs-and-special-characters/clear-recently-used-glyphs.md", "summary": "Open when looking up Clear recently used glyphs in InDesign.", "keywords": ["Clear recently used glyphs"]},
+  {"topic": "Insert glyphs from the Glyphs panel", "file": "desktop/language-and-proofing/glyphs-and-expressions/insert-glyphs-and-special-characters/insert-glyphs-from-the-glyphs-panel.md", "summary": "Open when looking up Insert glyphs from the Glyphs panel in InDesign.", "keywords": ["Insert glyphs from the Glyphs panel"]},
+  {"topic": "Insert recently used glyphs", "file": "desktop/language-and-proofing/glyphs-and-expressions/insert-glyphs-and-special-characters/insert-recently-used-glyphs.md", "summary": "Open when looking up Insert recently used glyphs in InDesign.", "keywords": ["Insert recently used glyphs"]},
+  {"topic": "Insert special characters from menus", "file": "desktop/language-and-proofing/glyphs-and-expressions/insert-glyphs-and-special-characters/insert-special-characters-from-menus.md", "summary": "Open when looking up Insert special characters from menus in InDesign.", "keywords": ["Insert special characters from menus"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

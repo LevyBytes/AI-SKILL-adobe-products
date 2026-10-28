@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "body", "file": "references/scripting/bridge-talk-message-object-properties/body.md", "summary": "Open when looking up body in Shared Adobe platform.", "keywords": ["body"]},
-  {"topic": "headers", "file": "references/scripting/bridge-talk-message-object-properties/headers.md", "summary": "Open when looking up headers in Shared Adobe platform.", "keywords": ["headers"]},
-  {"topic": "sender", "file": "references/scripting/bridge-talk-message-object-properties/sender.md", "summary": "Open when looking up sender in Shared Adobe platform.", "keywords": ["sender"]},
-  {"topic": "target", "file": "references/scripting/bridge-talk-message-object-properties/target.md", "summary": "Open when looking up target in Shared Adobe platform.", "keywords": ["target"]},
-  {"topic": "timeout", "file": "references/scripting/bridge-talk-message-object-properties/timeout.md", "summary": "Open when looking up timeout in Shared Adobe platform.", "keywords": ["timeout"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

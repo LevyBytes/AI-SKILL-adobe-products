@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "PlaceholderSource object", "file": "scripting/placeholder-source/placeholder-source-object.md", "summary": "Open when looking up PlaceholderSource object in After Effects.", "keywords": ["PlaceholderSource object"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

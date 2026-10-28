@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "rect(x, y, width, height)", "file": "references/uxp/rect-x-y-width-height/rect.md", "summary": "Open when looking up rect(x, y, width, height) in InDesign.", "keywords": ["rect(x, y, width, height)"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

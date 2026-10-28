@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Best practices for font handling", "file": "desktop/create-documents/advanced-conversion/acrobat-distiller-fonts-overview/best-practices-for-font-handling.md", "summary": "Open when looking up Best practices for font handling in Acrobat.", "keywords": ["Best practices for font handling"]},
+  {"topic": "Character sets for Type 1 fonts", "file": "desktop/create-documents/advanced-conversion/acrobat-distiller-fonts-overview/character-sets-for-type-1-fonts.md", "summary": "Open when looking up Character sets for Type 1 fonts in Acrobat.", "keywords": ["Character sets for Type 1 fonts"]},
+  {"topic": "Font descriptors", "file": "desktop/create-documents/advanced-conversion/acrobat-distiller-fonts-overview/font-descriptors.md", "summary": "Open when looking up Font descriptors in Acrobat.", "keywords": ["Font descriptors"]},
+  {"topic": "Font processing", "file": "desktop/create-documents/advanced-conversion/acrobat-distiller-fonts-overview/font-processing.md", "summary": "Open when looking up Font processing in Acrobat.", "keywords": ["Font processing"]},
+  {"topic": "Font types", "file": "desktop/create-documents/advanced-conversion/acrobat-distiller-fonts-overview/font-types.md", "summary": "Open when looking up Font types in Acrobat.", "keywords": ["Font types"]},
+  {"topic": "PostScript printer driver settings for TrueType fonts", "file": "desktop/create-documents/advanced-conversion/acrobat-distiller-fonts-overview/post-script-printer-driver-settings-for-true-type-fonts.md", "summary": "Open when looking up PostScript printer driver settings for TrueType fonts in Acrobat.", "keywords": ["PostScript printer driver settings for TrueType fonts"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

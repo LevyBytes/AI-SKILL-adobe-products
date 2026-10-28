@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Adobe Exchange", "file": "cep/cep-12/adobe-exchange.md", "summary": "Open when looking up Adobe Exchange in Shared Adobe platform.", "keywords": ["Adobe Exchange"]},
+  {"topic": "Signing extensions", "file": "cep/cep-12/signing-extensions.md", "summary": "Open when looking up Signing extensions in Shared Adobe platform.", "keywords": ["Signing extensions"]},
+  {"topic": "Special notes for macOS 10.9 and higher", "file": "cep/cep-12/special-notes-for-mac-os-10-9-and-higher.md", "summary": "Open when looking up Special notes for macOS 10.9 and higher in Shared Adobe platform.", "keywords": ["Special notes for macOS 10.9 and higher"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

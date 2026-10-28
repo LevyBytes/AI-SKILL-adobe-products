@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Dig into PDF form field settings in Adobe Acrobat to make forms work better and feel smoother", "file": "desktop/form-fields-general-settings/form-field-settings.md", "summary": "Open when looking up Dig into PDF form field settings in Adobe Acrobat to make forms work better and feel smoother in Acrobat.", "keywords": ["Dig into PDF form field settings in Adobe Acrobat to make forms work better and feel smoother"]},
+  {"topic": "Form field actions", "file": "desktop/form-fields-general-settings/form-field-actions.md", "summary": "Open when looking up Form field actions in Acrobat.", "keywords": ["Form field actions"]},
+  {"topic": "Form field appearance settings", "file": "desktop/form-fields-general-settings/form-field-appearance-settings.md", "summary": "Open when looking up Form field appearance settings in Acrobat.", "keywords": ["Form field appearance settings"]},
+  {"topic": "Form field position settings", "file": "desktop/form-fields-general-settings/form-field-position-settings.md", "summary": "Open when looking up Form field position settings in Acrobat.", "keywords": ["Form field position settings"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

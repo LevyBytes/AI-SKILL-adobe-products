@@ -1,0 +1,16 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Document.clipCopy", "file": "community-types/animate/document/clip-copy.md", "summary": "Open when looking up Document.clipCopy in Shared Adobe platform.", "keywords": ["Document.clipCopy"]},
+  {"topic": "Document.clipCut", "file": "community-types/animate/document/clip-cut.md", "summary": "Open when looking up Document.clipCut in Shared Adobe platform.", "keywords": ["Document.clipCut"]},
+  {"topic": "Document.clipPaste", "file": "community-types/animate/document/clip-paste.md", "summary": "Open when looking up Document.clipPaste in Shared Adobe platform.", "keywords": ["Document.clipPaste"]},
+  {"topic": "Document.deleteSelection", "file": "community-types/animate/document/delete-selection.md", "summary": "Open when looking up Document.deleteSelection in Shared Adobe platform.", "keywords": ["Document.deleteSelection"]},
+  {"topic": "Document.duplicateSelection", "file": "community-types/animate/document/duplicate-selection.md", "summary": "Open when looking up Document.duplicateSelection in Shared Adobe platform.", "keywords": ["Document.duplicateSelection"]},
+  {"topic": "Document.getElementProperty", "file": "community-types/animate/document/get-element-property.md", "summary": "Open when looking up Document.getElementProperty in Shared Adobe platform.", "keywords": ["Document.getElementProperty"]},
+  {"topic": "Document.setElementProperty", "file": "community-types/animate/document/set-element-property.md", "summary": "Open when looking up Document.setElementProperty in Shared Adobe platform.", "keywords": ["Document.setElementProperty"]},
+  {"topic": "Document.selectAll", "file": "community-types/animate/document/select-all.md", "summary": "Open when looking up Document.selectAll in Shared Adobe platform.", "keywords": ["Document.selectAll"]},
+  {"topic": "Document.selection", "file": "community-types/animate/document/selection.md", "summary": "Open when looking up Document.selection in Shared Adobe platform.", "keywords": ["Document.selection"]},
+  {"topic": "Document.selectNone", "file": "community-types/animate/document/select-none.md", "summary": "Open when looking up Document.selectNone in Shared Adobe platform.", "keywords": ["Document.selectNone"]},
+  {"topic": "Document.unlockAllElements", "file": "community-types/animate/document/unlock-all-elements.md", "summary": "Open when looking up Document.unlockAllElements in Shared Adobe platform.", "keywords": ["Document.unlockAllElements"]},
+  {"topic": "Document.mouseClick", "file": "community-types/animate/document/mouse-click.md", "summary": "Open when looking up Document.mouseClick in Shared Adobe platform.", "keywords": ["Document.mouseClick"]},
+  {"topic": "Document.mouseDblClk", "file": "community-types/animate/document/mouse-dbl-clk.md", "summary": "Open when looking up Document.mouseDblClk in Shared Adobe platform.", "keywords": ["Document.mouseDblClk"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

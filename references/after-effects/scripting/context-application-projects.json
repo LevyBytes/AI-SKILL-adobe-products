@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "App references", "file": "scripting/app/reference-index.md", "summary": "Open when looking up App in After Effects.", "keywords": ["App references"]},
+  {"topic": "Application object", "file": "scripting/application-object.md", "summary": "Open when looking up Application object in After Effects.", "keywords": ["Application object"]},
+  {"topic": "Global functions", "file": "scripting/global-functions.md", "summary": "Open when looking up Global functions in After Effects.", "keywords": ["Global functions"]},
+  {"topic": "Global functions references", "file": "scripting/global-functions/reference-index.md", "summary": "Open when looking up Global functions in After Effects.", "keywords": ["Global functions references"]},
+  {"topic": "Preferences references", "file": "scripting/preferences/reference-index.md", "summary": "Open when looking up Preferences in After Effects.", "keywords": ["Preferences references"]},
+  {"topic": "Project items references", "file": "scripting/project-items/reference-index.md", "summary": "Open when looking up Project items in After Effects.", "keywords": ["Project items references"]},
+  {"topic": "Project object references", "file": "scripting/project-object/reference-index.md", "summary": "Open when looking up Project object in After Effects.", "keywords": ["Project object references"]},
+  {"topic": "Project references", "file": "scripting/project/reference-index.md", "summary": "Open when looking up Project in After Effects.", "keywords": ["Project references"]},
+  {"topic": "Settings references", "file": "scripting/settings/reference-index.md", "summary": "Open when looking up Settings in After Effects.", "keywords": ["Settings references"]},
+  {"topic": "System references", "file": "scripting/system/reference-index.md", "summary": "Open when looking up System in After Effects.", "keywords": ["System references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

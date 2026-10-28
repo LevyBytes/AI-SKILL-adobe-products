@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "creationDate", "file": "scripting/data/creation-date.md", "summary": "Open when looking up creationDate in Acrobat.", "keywords": ["creationDate"]},
+  {"topic": "getFieldValue", "file": "scripting/data/get-field-value.md", "summary": "Open when looking up getFieldValue in Acrobat.", "keywords": ["getFieldValue"]},
+  {"topic": "JavaScript APIs - Data", "file": "scripting/data/java-script-apis-data.md", "summary": "Open when looking up JavaScript APIs - Data in Acrobat.", "keywords": ["JavaScript APIs - Data"]},
+  {"topic": "MIMEType", "file": "scripting/data/mime-type.md", "summary": "Open when looking up MIMEType in Acrobat.", "keywords": ["MIMEType"]},
+  {"topic": "modDate", "file": "scripting/data/mod-date.md", "summary": "Open when looking up modDate in Acrobat.", "keywords": ["modDate"]},
+  {"topic": "name", "file": "scripting/data/name.md", "summary": "Open when looking up name in Acrobat.", "keywords": ["name"]},
+  {"topic": "path", "file": "scripting/data/path.md", "summary": "Open when looking up path in Acrobat.", "keywords": ["path"]},
+  {"topic": "setFieldValue", "file": "scripting/data/set-field-value.md", "summary": "Open when looking up setFieldValue in Acrobat.", "keywords": ["setFieldValue"]},
+  {"topic": "size", "file": "scripting/data/size.md", "summary": "Open when looking up size in Acrobat.", "keywords": ["size"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

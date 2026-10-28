@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Apply alternating fills to table rows or columns", "file": "desktop/add-tables-and-data/strokes-and-fills/add-alternating-strokes-and-fills/apply-alternating-fills-to-table-rows-or-columns.md", "summary": "Open when looking up Apply alternating fills to table rows or columns in InDesign.", "keywords": ["Apply alternating fills to table rows or columns"]},
+  {"topic": "Apply alternating strokes to table rows or columns", "file": "desktop/add-tables-and-data/strokes-and-fills/add-alternating-strokes-and-fills/apply-alternating-strokes-to-table-rows-or-columns.md", "summary": "Open when looking up Apply alternating strokes to table rows or columns in InDesign.", "keywords": ["Apply alternating strokes to table rows or columns"]},
+  {"topic": "Turn off alternating strokes or fills", "file": "desktop/add-tables-and-data/strokes-and-fills/add-alternating-strokes-and-fills/turn-off-alternating-strokes-or-fills.md", "summary": "Open when looking up Turn off alternating strokes or fills in InDesign.", "keywords": ["Turn off alternating strokes or fills"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

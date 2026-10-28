@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Change author name on comments", "file": "desktop/share-and-review-documents/manage-comment-preferences/change-author-name-on-comments.md", "summary": "Open when looking up Change author name on comments in Acrobat.", "keywords": ["Change author name on comments"]},
+  {"topic": "Change author name on comments references", "file": "desktop/share-and-review-documents/manage-comment-preferences/change-author-name-on-comments/reference-index.md", "summary": "Open when looking up Change author name on comments in Acrobat.", "keywords": ["Change author name on comments references"]},
+  {"topic": "Set comment properties", "file": "desktop/share-and-review-documents/manage-comment-preferences/set-comment-properties.md", "summary": "Open when looking up Set comment properties in Acrobat.", "keywords": ["Set comment properties"]},
+  {"topic": "Set comment properties references", "file": "desktop/share-and-review-documents/manage-comment-preferences/set-comment-properties/reference-index.md", "summary": "Open when looking up Set comment properties in Acrobat.", "keywords": ["Set comment properties references"]},
+  {"topic": "Set or change text box properties", "file": "desktop/share-and-review-documents/manage-comment-preferences/set-or-change-text-box-properties.md", "summary": "Open when looking up Set or change text box properties in Acrobat.", "keywords": ["Set or change text box properties"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

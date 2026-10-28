@@ -1,0 +1,16 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "AutoEnum", "file": "document-model/auto-enum.md", "summary": "Open when looking up AutoEnum in InDesign.", "keywords": ["AutoEnum"]},
+  {"topic": "AutoEnum references", "file": "document-model/auto-enum/reference-index.md", "summary": "Open when looking up AutoEnum in InDesign.", "keywords": ["AutoEnum references"]},
+  {"topic": "DesignOptions", "file": "document-model/design-options.md", "summary": "Open when looking up DesignOptions in InDesign.", "keywords": ["DesignOptions"]},
+  {"topic": "DesignOptions references", "file": "document-model/design-options/reference-index.md", "summary": "Open when looking up DesignOptions in InDesign.", "keywords": ["DesignOptions references"]},
+  {"topic": "MapType", "file": "document-model/map-type.md", "summary": "Open when looking up MapType in InDesign.", "keywords": ["MapType"]},
+  {"topic": "MapType references", "file": "document-model/map-type/reference-index.md", "summary": "Open when looking up MapType in InDesign.", "keywords": ["MapType references"]},
+  {"topic": "Nothing enum references", "file": "document-model/nothing-enum/reference-index.md", "summary": "Open when looking up Nothing enum in InDesign.", "keywords": ["Nothing enum references"]},
+  {"topic": "ObjectTypes", "file": "document-model/object-types.md", "summary": "Open when looking up ObjectTypes in InDesign.", "keywords": ["ObjectTypes"]},
+  {"topic": "ObjectTypes references", "file": "document-model/object-types/reference-index.md", "summary": "Open when looking up ObjectTypes in InDesign.", "keywords": ["ObjectTypes references"]},
+  {"topic": "RangeSortOrder", "file": "document-model/range-sort-order.md", "summary": "Open when looking up RangeSortOrder in InDesign.", "keywords": ["RangeSortOrder"]},
+  {"topic": "RangeSortOrder references", "file": "document-model/range-sort-order/reference-index.md", "summary": "Open when looking up RangeSortOrder in InDesign.", "keywords": ["RangeSortOrder references"]},
+  {"topic": "SmartMatchOptions", "file": "document-model/smart-match-options.md", "summary": "Open when looking up SmartMatchOptions in InDesign.", "keywords": ["SmartMatchOptions"]},
+  {"topic": "SmartMatchOptions references", "file": "document-model/smart-match-options/reference-index.md", "summary": "Open when looking up SmartMatchOptions in InDesign.", "keywords": ["SmartMatchOptions references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

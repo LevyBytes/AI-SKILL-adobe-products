@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Enhance your workflow with Remix", "file": "desktop/add-audio-effects/apply-audio-effects/remix-in-premiere/enhance-your-workflow-with-remix.md", "summary": "Open when looking up Enhance your workflow with Remix in Premiere Pro.", "keywords": ["Enhance your workflow with Remix"]},
+  {"topic": "How Remix works", "file": "desktop/add-audio-effects/apply-audio-effects/remix-in-premiere/how-remix-works.md", "summary": "Open when looking up How Remix works in Premiere Pro.", "keywords": ["How Remix works"]},
+  {"topic": "Key parameters and controls", "file": "desktop/add-audio-effects/apply-audio-effects/remix-in-premiere/key-parameters-and-controls.md", "summary": "Open when looking up Key parameters and controls in Premiere Pro.", "keywords": ["Key parameters and controls"]},
+  {"topic": "Remix capabilities and limitations", "file": "desktop/add-audio-effects/apply-audio-effects/remix-in-premiere/remix-capabilities-and-limitations.md", "summary": "Open when looking up Remix capabilities and limitations in Premiere Pro.", "keywords": ["Remix capabilities and limitations"]},
+  {"topic": "Understanding Remix results", "file": "desktop/add-audio-effects/apply-audio-effects/remix-in-premiere/understanding-remix-results.md", "summary": "Open when looking up Understanding Remix results in Premiere Pro.", "keywords": ["Understanding Remix results"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

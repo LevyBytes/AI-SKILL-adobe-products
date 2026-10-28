@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Layer processing order", "file": "references/cloud-services/v1-endpoint-coverage/layer-processing-order.md", "summary": "Open when looking up Layer processing order in Photoshop.", "keywords": ["Layer processing order"]},
-  {"topic": "Output", "file": "references/cloud-services/v1-endpoint-coverage/output.md", "summary": "Open when looking up Output in Photoshop.", "keywords": ["Output"]},
-  {"topic": "V1 vs V2 envelope example", "file": "references/cloud-services/v1-endpoint-coverage/v1-vs-v2-envelope-example.md", "summary": "Open when looking up V1 vs V2 envelope example in Photoshop.", "keywords": ["V1 vs V2 envelope example"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

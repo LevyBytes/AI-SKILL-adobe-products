@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "For trusted sources", "file": "desktop/protect-documents/mitigate-security-risks/respond-to-security-warnings/for-trusted-sources.md", "summary": "Open when looking up For trusted sources in Acrobat.", "keywords": ["For trusted sources"]},
+  {"topic": "For untrusted sources", "file": "desktop/protect-documents/mitigate-security-risks/respond-to-security-warnings/for-untrusted-sources.md", "summary": "Open when looking up For untrusted sources in Acrobat.", "keywords": ["For untrusted sources"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

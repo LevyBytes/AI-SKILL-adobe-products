@@ -1,0 +1,19 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Building your first UXP plugin", "file": "uxp/building-your-first-uxp-plugin.md", "summary": "Open when looking up Building your first UXP plugin in Premiere Pro.", "keywords": ["Building your first UXP plugin"]},
+  {"topic": "Building your first UXP plugin references", "file": "uxp/building-your-first-uxp-plugin/reference-index.md", "summary": "Open when looking up Building your first UXP plugin in Premiere Pro.", "keywords": ["Building your first UXP plugin references"]},
+  {"topic": "Choosing the Right API", "file": "uxp/choosing-the-right-api.md", "summary": "Open when looking up Choosing the Right API in Premiere Pro.", "keywords": ["Choosing the Right API"]},
+  {"topic": "Choosing the Right API references", "file": "uxp/choosing-the-right-api/reference-index.md", "summary": "Open when looking up Choosing the Right API in Premiere Pro.", "keywords": ["Choosing the Right API references"]},
+  {"topic": "Concepts", "file": "uxp/concepts.md", "summary": "Open when looking up Concepts in Premiere Pro.", "keywords": ["Concepts"]},
+  {"topic": "Extensibility Nomenclature", "file": "uxp/extensibility-nomenclature.md", "summary": "Open when looking up Extensibility Nomenclature in Premiere Pro.", "keywords": ["Extensibility Nomenclature"]},
+  {"topic": "Key Concepts", "file": "uxp/key-concepts.md", "summary": "Open when looking up Key Concepts in Premiere Pro.", "keywords": ["Key Concepts"]},
+  {"topic": "Key Concepts references", "file": "uxp/key-concepts/reference-index.md", "summary": "Open when looking up Key Concepts in Premiere Pro.", "keywords": ["Key Concepts references"]},
+  {"topic": "Premiere & the Unified Extensibility Platform", "file": "uxp/premiere-the-unified-extensibility-platform.md", "summary": "Open when looking up Premiere & the Unified Extensibility Platform in Premiere Pro.", "keywords": ["Premiere & the Unified Extensibility Platform"]},
+  {"topic": "Premiere & the Unified Extensibility Platform references", "file": "uxp/premiere-the-unified-extensibility-platform/reference-index.md", "summary": "Open when looking up Premiere & the Unified Extensibility Platform in Premiere Pro.", "keywords": ["Premiere & the Unified Extensibility Platform references"]},
+  {"topic": "Tech Stack Foundations", "file": "uxp/tech-stack-foundations.md", "summary": "Open when looking up Tech Stack Foundations in Premiere Pro.", "keywords": ["Tech Stack Foundations"]},
+  {"topic": "Tech Stack Foundations references", "file": "uxp/tech-stack-foundations/reference-index.md", "summary": "Open when looking up Tech Stack Foundations in Premiere Pro.", "keywords": ["Tech Stack Foundations references"]},
+  {"topic": "Understanding UXP APIs", "file": "uxp/understanding-uxp-apis.md", "summary": "Open when looking up Understanding UXP APIs in Premiere Pro.", "keywords": ["Understanding UXP APIs"]},
+  {"topic": "Understanding UXP APIs references", "file": "uxp/understanding-uxp-apis/reference-index.md", "summary": "Open when looking up Understanding UXP APIs in Premiere Pro.", "keywords": ["Understanding UXP APIs references"]},
+  {"topic": "UXP General Information", "file": "uxp/uxp-general-information.md", "summary": "Open when looking up UXP General Information in Premiere Pro.", "keywords": ["UXP General Information"]},
+  {"topic": "UXP General Information references", "file": "uxp/uxp-general-information/reference-index.md", "summary": "Open when looking up UXP General Information in Premiere Pro.", "keywords": ["UXP General Information references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

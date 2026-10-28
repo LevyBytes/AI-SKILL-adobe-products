@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "NONE", "file": "document-model/sound-poster-types/none.md", "summary": "Open when looking up NONE in InDesign.", "keywords": ["NONE"]},
+  {"topic": "PROXY_IMAGE", "file": "document-model/sound-poster-types/proxyimage.md", "summary": "Open when looking up PROXY_IMAGE in InDesign.", "keywords": ["PROXY_IMAGE"]},
+  {"topic": "STANDARD", "file": "document-model/sound-poster-types/standard.md", "summary": "Open when looking up STANDARD in InDesign.", "keywords": ["STANDARD"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

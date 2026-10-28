@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "ASC CDL", "file": "desktop/available-color-correction-effects/asc-cdl.md", "summary": "Open when looking up ASC CDL in Premiere Pro.", "keywords": ["ASC CDL"]},
+  {"topic": "Brightness & Contrast effect", "file": "desktop/available-color-correction-effects/brightness-contrast-effect.md", "summary": "Open when looking up Brightness & Contrast effect in Premiere Pro.", "keywords": ["Brightness & Contrast effect"]},
+  {"topic": "Color Correction Effects", "file": "desktop/available-color-correction-effects/color-correction-effects.md", "summary": "Open when looking up Color Correction Effects in Premiere Pro.", "keywords": ["Color Correction Effects"]},
+  {"topic": "Lumetri Color", "file": "desktop/available-color-correction-effects/lumetri-color.md", "summary": "Open when looking up Lumetri Color in Premiere Pro.", "keywords": ["Lumetri Color"]},
+  {"topic": "Tint effect", "file": "desktop/available-color-correction-effects/tint-effect.md", "summary": "Open when looking up Tint effect in Premiere Pro.", "keywords": ["Tint effect"]},
+  {"topic": "Video Limiter effect", "file": "desktop/available-color-correction-effects/video-limiter-effect.md", "summary": "Open when looking up Video Limiter effect in Premiere Pro.", "keywords": ["Video Limiter effect"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

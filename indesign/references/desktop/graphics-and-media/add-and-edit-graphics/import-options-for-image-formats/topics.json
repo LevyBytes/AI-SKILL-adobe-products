@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Format considerations", "file": "references/desktop/graphics-and-media/add-and-edit-graphics/import-options-for-image-formats/format-considerations.md", "summary": "Open when looking up Format considerations in InDesign.", "keywords": ["Format considerations"]},
-  {"topic": "PNG import options", "file": "references/desktop/graphics-and-media/add-and-edit-graphics/import-options-for-image-formats/png-import-options.md", "summary": "Open when looking up PNG import options in InDesign.", "keywords": ["PNG import options"]},
-  {"topic": "PSD, TIFF, GIF, JPEG, and BMP import options", "file": "references/desktop/graphics-and-media/add-and-edit-graphics/import-options-for-image-formats/psd-tiff-gif-jpeg-and-bmp-import-options.md", "summary": "Open when looking up PSD, TIFF, GIF, JPEG, and BMP import options in InDesign.", "keywords": ["PSD, TIFF, GIF, JPEG, and BMP import options"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

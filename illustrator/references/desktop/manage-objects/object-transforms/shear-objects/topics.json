@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Shear objects with the Free Transform tool", "file": "references/desktop/manage-objects/object-transforms/shear-objects/shear-objects-with-the-free-transform-tool.md", "summary": "Open when looking up Shear objects with the Free Transform tool in Illustrator.", "keywords": ["Shear objects with the Free Transform tool"]},
-  {"topic": "Shear objects with the Shear command", "file": "references/desktop/manage-objects/object-transforms/shear-objects/shear-objects-with-the-shear-command.md", "summary": "Open when looking up Shear objects with the Shear command in Illustrator.", "keywords": ["Shear objects with the Shear command"]},
-  {"topic": "Shear objects with the Shear tool", "file": "references/desktop/manage-objects/object-transforms/shear-objects/shear-objects-with-the-shear-tool.md", "summary": "Open when looking up Shear objects with the Shear tool in Illustrator.", "keywords": ["Shear objects with the Shear tool"]},
-  {"topic": "Shear objects with the Transform panel", "file": "references/desktop/manage-objects/object-transforms/shear-objects/shear-objects-with-the-transform-panel.md", "summary": "Open when looking up Shear objects with the Transform panel in Illustrator.", "keywords": ["Shear objects with the Transform panel"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

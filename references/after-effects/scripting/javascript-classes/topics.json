@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Checking Classes", "file": "scripting/javascript-classes/checking-classes.md", "summary": "Open when looking up Checking Classes in After Effects.", "keywords": ["Checking Classes"]},
+  {"topic": "Class Inheritance", "file": "scripting/javascript-classes/class-inheritance.md", "summary": "Open when looking up Class Inheritance in After Effects.", "keywords": ["Class Inheritance"]},
+  {"topic": "Class Inheritance in After Effects", "file": "scripting/javascript-classes/class-inheritance-in-after-effects.md", "summary": "Open when looking up Class Inheritance in After Effects in After Effects.", "keywords": ["Class Inheritance in After Effects"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

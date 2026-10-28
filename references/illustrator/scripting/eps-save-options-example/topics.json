@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "EPS export example", "file": "scripting/eps-save-options-example/eps-export-example.md", "summary": "Open when looking up EPS export example in Illustrator.", "keywords": ["EPS export example"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

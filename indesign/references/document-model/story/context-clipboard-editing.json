@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "isEndnoteStory", "file": "references/document-model/story/is-endnote-story.md", "summary": "Open when looking up isEndnoteStory in InDesign.", "keywords": ["isEndnoteStory"]},
-  {"topic": "storyPreferences", "file": "references/document-model/story/story-preferences.md", "summary": "Open when looking up storyPreferences in InDesign.", "keywords": ["storyPreferences"]},
-  {"topic": "storyTitle", "file": "references/document-model/story/story-title.md", "summary": "Open when looking up storyTitle in InDesign.", "keywords": ["storyTitle"]},
-  {"topic": "storyType", "file": "references/document-model/story/story-type.md", "summary": "Open when looking up storyType in InDesign.", "keywords": ["storyType"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

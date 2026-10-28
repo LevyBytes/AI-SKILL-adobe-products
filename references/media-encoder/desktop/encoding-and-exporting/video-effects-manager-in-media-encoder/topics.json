@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/media-encoder", "topics": [
+  {"topic": "Disable effects after a Media Encoder crash", "file": "desktop/encoding-and-exporting/video-effects-manager-in-media-encoder/disable-effects-after-a-media-encoder-crash.md", "summary": "Open when looking up Disable effects after a Media Encoder crash in Media Encoder.", "keywords": ["Disable effects after a Media Encoder crash"]},
+  {"topic": "View list of installed effects", "file": "desktop/encoding-and-exporting/video-effects-manager-in-media-encoder/view-list-of-installed-effects.md", "summary": "Open when looking up View list of installed effects in Media Encoder.", "keywords": ["View list of installed effects"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

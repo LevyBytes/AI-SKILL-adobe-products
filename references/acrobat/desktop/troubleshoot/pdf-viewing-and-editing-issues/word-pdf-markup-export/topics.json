@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "PDFMaker exports PDFs without markup by default", "file": "desktop/troubleshoot/pdf-viewing-and-editing-issues/word-pdf-markup-export/pdf-maker-exports-pdfs-without-markup-by-default.md", "summary": "Open when looking up PDFMaker exports PDFs without markup by default in Acrobat.", "keywords": ["PDFMaker exports PDFs without markup by default"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

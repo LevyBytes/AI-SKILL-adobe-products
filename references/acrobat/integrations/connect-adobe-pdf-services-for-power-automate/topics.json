@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Learn how to connect Adobe PDF Services for Power Automate.", "file": "integrations/connect-adobe-pdf-services-for-power-automate/learn-how-to-connect-adobe-pdf-services-for-power-automate.md", "summary": "Open when looking up Learn how to connect Adobe PDF Services for Power Automate. in Acrobat.", "keywords": ["Learn how to connect Adobe PDF Services for Power Automate."]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Premiere Pro Scripting Guide - Contribution", "file": "scripting/contribution/premiere-pro-scripting-guide-contribution.md", "summary": "Open when looking up Premiere Pro Scripting Guide - Contribution in Premiere Pro.", "keywords": ["Premiere Pro Scripting Guide - Contribution"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

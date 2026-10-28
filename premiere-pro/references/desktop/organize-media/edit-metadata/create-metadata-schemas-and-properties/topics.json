@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Add properties to your schema", "file": "references/desktop/organize-media/edit-metadata/create-metadata-schemas-and-properties/add-properties-to-your-schema.md", "summary": "Open when looking up Add properties to your schema in Premiere Pro.", "keywords": ["Add properties to your schema"]},
-  {"topic": "Create a custom schema", "file": "references/desktop/organize-media/edit-metadata/create-metadata-schemas-and-properties/create-a-custom-schema.md", "summary": "Open when looking up Create a custom schema in Premiere Pro.", "keywords": ["Create a custom schema"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

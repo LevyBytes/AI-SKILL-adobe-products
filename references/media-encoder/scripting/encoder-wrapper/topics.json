@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/media-encoder", "topics": [
+  {"topic": "Adobe Media Encoder (AME) Scripting API Reference (A-Z) - EncoderWrapper", "file": "scripting/encoder-wrapper/encoder-wrapper.md", "summary": "Open when looking up Adobe Media Encoder (AME) Scripting API Reference (A-Z) - EncoderWrapper in Media Encoder.", "keywords": ["Adobe Media Encoder (AME) Scripting API Reference (A-Z) - EncoderWrapper"]},
+  {"topic": "Code Samples", "file": "scripting/encoder-wrapper/code-samples.md", "summary": "Open when looking up Code Samples in Media Encoder.", "keywords": ["Code Samples"]},
+  {"topic": "getLogOutput example", "file": "scripting/encoder-wrapper/get-log-output-example.md", "summary": "Open when looking up getLogOutput example in Media Encoder.", "keywords": ["getLogOutput example"]},
+  {"topic": "getPresetList example", "file": "scripting/encoder-wrapper/get-preset-list-example.md", "summary": "Open when looking up getPresetList example in Media Encoder.", "keywords": ["getPresetList example"]},
+  {"topic": "loadFormat example", "file": "scripting/encoder-wrapper/load-format-example.md", "summary": "Open when looking up loadFormat example in Media Encoder.", "keywords": ["loadFormat example"]},
+  {"topic": "loadPreset example", "file": "scripting/encoder-wrapper/load-preset-example.md", "summary": "Open when looking up loadPreset example in Media Encoder.", "keywords": ["loadPreset example"]},
+  {"topic": "setWorkAreaInTicks example", "file": "scripting/encoder-wrapper/set-work-area-in-ticks-example.md", "summary": "Open when looking up setWorkAreaInTicks example in Media Encoder.", "keywords": ["setWorkAreaInTicks example"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

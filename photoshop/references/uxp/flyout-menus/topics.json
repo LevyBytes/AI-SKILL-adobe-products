@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Defining Flyout Menus", "file": "references/uxp/flyout-menus/defining-flyout-menus.md", "summary": "Open when looking up Defining Flyout Menus in Photoshop.", "keywords": ["Defining Flyout Menus"]},
-  {"topic": "Handling Flyouts", "file": "references/uxp/flyout-menus/handling-flyouts.md", "summary": "Open when looking up Handling Flyouts in Photoshop.", "keywords": ["Handling Flyouts"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

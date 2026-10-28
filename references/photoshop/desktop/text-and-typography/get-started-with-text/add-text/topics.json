@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Add paragraph text", "file": "desktop/text-and-typography/get-started-with-text/add-text/add-paragraph-text.md", "summary": "Open when looking up Add paragraph text in Photoshop.", "keywords": ["Add paragraph text"]},
+  {"topic": "Add point text", "file": "desktop/text-and-typography/get-started-with-text/add-text/add-point-text.md", "summary": "Open when looking up Add point text in Photoshop.", "keywords": ["Add point text"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

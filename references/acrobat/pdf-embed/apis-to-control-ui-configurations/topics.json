@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "endAnnotationMode API", "file": "pdf-embed/apis-to-control-ui-configurations/end-annotation-mode-api.md", "summary": "Open when looking up endAnnotationMode API in Acrobat.", "keywords": ["endAnnotationMode API"]},
+  {"topic": "selectAnnotation API", "file": "pdf-embed/apis-to-control-ui-configurations/select-annotation-api.md", "summary": "Open when looking up selectAnnotation API in Acrobat.", "keywords": ["selectAnnotation API"]},
+  {"topic": "setConfig API", "file": "pdf-embed/apis-to-control-ui-configurations/set-config-api.md", "summary": "Open when looking up setConfig API in Acrobat.", "keywords": ["setConfig API"]},
+  {"topic": "startAnnotationMode API", "file": "pdf-embed/apis-to-control-ui-configurations/start-annotation-mode-api.md", "summary": "Open when looking up startAnnotationMode API in Acrobat.", "keywords": ["startAnnotationMode API"]},
+  {"topic": "unselectAnnotation API", "file": "pdf-embed/apis-to-control-ui-configurations/unselect-annotation-api.md", "summary": "Open when looking up unselectAnnotation API in Acrobat.", "keywords": ["unselectAnnotation API"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

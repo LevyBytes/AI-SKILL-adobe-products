@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Compression formats in Photoshop", "file": "references/desktop/save-and-export/file-formats/file-compression-in-photoshop/compression-formats-in-photoshop.md", "summary": "Open when looking up Compression formats in Photoshop in Photoshop.", "keywords": ["Compression formats in Photoshop"]},
-  {"topic": "WebP format support in Photoshop", "file": "references/desktop/save-and-export/file-formats/file-compression-in-photoshop/web-p-format-support-in-photoshop.md", "summary": "Open when looking up WebP format support in Photoshop in Photoshop.", "keywords": ["WebP format support in Photoshop"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

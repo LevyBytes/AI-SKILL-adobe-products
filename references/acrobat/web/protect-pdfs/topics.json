@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "See how a password lock gets added to a PDF.", "file": "web/protect-pdfs/see-how-a-password-lock-gets-added-to-a-pdf.md", "summary": "Open when looking up See how a password lock gets added to a PDF. in Acrobat.", "keywords": ["See how a password lock gets added to a PDF."]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

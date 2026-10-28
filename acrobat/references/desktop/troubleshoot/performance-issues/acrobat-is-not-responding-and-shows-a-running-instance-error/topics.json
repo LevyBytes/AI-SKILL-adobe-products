@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Corrupt installation file", "file": "references/desktop/troubleshoot/performance-issues/acrobat-is-not-responding-and-shows-a-running-instance-error/corrupt-installation-file.md", "summary": "Open when looking up Corrupt installation file in Acrobat.", "keywords": ["Corrupt installation file"]},
-  {"topic": "Incorrect registry entry", "file": "references/desktop/troubleshoot/performance-issues/acrobat-is-not-responding-and-shows-a-running-instance-error/incorrect-registry-entry.md", "summary": "Open when looking up Incorrect registry entry in Acrobat.", "keywords": ["Incorrect registry entry"]},
-  {"topic": "Outdated Acrobat version", "file": "references/desktop/troubleshoot/performance-issues/acrobat-is-not-responding-and-shows-a-running-instance-error/outdated-acrobat-version.md", "summary": "Open when looking up Outdated Acrobat version in Acrobat.", "keywords": ["Outdated Acrobat version"]},
-  {"topic": "Unresponsive background processes", "file": "references/desktop/troubleshoot/performance-issues/acrobat-is-not-responding-and-shows-a-running-instance-error/unresponsive-background-processes.md", "summary": "Open when looking up Unresponsive background processes in Acrobat.", "keywords": ["Unresponsive background processes"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Form is non-interactive", "file": "references/desktop/unable-to-fill-forms-in-acrobat/form-is-non-interactive.md", "summary": "Open when looking up Form is non-interactive in Acrobat.", "keywords": ["Form is non-interactive"]},
-  {"topic": "macOS", "file": "references/desktop/unable-to-fill-forms-in-acrobat/mac-os.md", "summary": "Open when looking up macOS in Acrobat.", "keywords": ["macOS"]},
-  {"topic": "Windows", "file": "references/desktop/unable-to-fill-forms-in-acrobat/windows.md", "summary": "Open when looking up Windows in Acrobat.", "keywords": ["Windows"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

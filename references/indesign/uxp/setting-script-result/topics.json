@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Reading the script result", "file": "uxp/setting-script-result/reading-the-script-result.md", "summary": "Open when looking up Reading the script result in InDesign.", "keywords": ["Reading the script result"]},
+  {"topic": "Setting the result", "file": "uxp/setting-script-result/setting-the-result.md", "summary": "Open when looking up Setting the result in InDesign.", "keywords": ["Setting the result"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

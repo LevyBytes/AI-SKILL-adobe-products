@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Export artwork", "file": "desktop/save-and-export/export-artwork.md", "summary": "Open when looking up Export artwork in Illustrator.", "keywords": ["Export artwork"]},
+  {"topic": "Export artwork references", "file": "desktop/save-and-export/export-artwork/reference-index.md", "summary": "Open when looking up Export artwork in Illustrator.", "keywords": ["Export artwork references"]},
+  {"topic": "Export files to different formats", "file": "desktop/save-and-export/export-files-to-different-formats.md", "summary": "Open when looking up Export files to different formats in Illustrator.", "keywords": ["Export files to different formats"]},
+  {"topic": "Export files to different formats references", "file": "desktop/save-and-export/export-files-to-different-formats/reference-index.md", "summary": "Open when looking up Export files to different formats in Illustrator.", "keywords": ["Export files to different formats references"]},
+  {"topic": "Export to other apps", "file": "desktop/save-and-export/export-to-other-apps.md", "summary": "Open when looking up Export to other apps in Illustrator.", "keywords": ["Export to other apps"]},
+  {"topic": "Export to other apps references", "file": "desktop/save-and-export/export-to-other-apps/reference-index.md", "summary": "Open when looking up Export to other apps in Illustrator.", "keywords": ["Export to other apps references"]},
+  {"topic": "Saving Artwork", "file": "desktop/save-and-export/saving-artwork.md", "summary": "Open when looking up Saving Artwork in Illustrator.", "keywords": ["Saving Artwork"]},
+  {"topic": "Saving Artwork references", "file": "desktop/save-and-export/saving-artwork/reference-index.md", "summary": "Open when looking up Saving Artwork in Illustrator.", "keywords": ["Saving Artwork references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

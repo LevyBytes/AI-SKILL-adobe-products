@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "ADD_TO", "file": "document-model/change-conditions-modes/addto.md", "summary": "Open when looking up ADD_TO in InDesign.", "keywords": ["ADD_TO"]},
+  {"topic": "REPLACE_WITH", "file": "document-model/change-conditions-modes/replacewith.md", "summary": "Open when looking up REPLACE_WITH in InDesign.", "keywords": ["REPLACE_WITH"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

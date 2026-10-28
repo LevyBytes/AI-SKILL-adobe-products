@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Associate a Text-Editor for .idjs Files", "file": "uxp/tips-and-tricks-for-uxp-scripts/associate-a-text-editor-for-idjs-files.md", "summary": "Open when looking up Associate a Text-Editor for .idjs Files in InDesign.", "keywords": ["Associate a Text-Editor for .idjs Files"]},
+  {"topic": "Editing scripts", "file": "uxp/tips-and-tricks-for-uxp-scripts/editing-scripts.md", "summary": "Open when looking up Editing scripts in InDesign.", "keywords": ["Editing scripts"]},
+  {"topic": "Keyboard shortcuts", "file": "uxp/tips-and-tricks-for-uxp-scripts/keyboard-shortcuts.md", "summary": "Open when looking up Keyboard shortcuts in InDesign.", "keywords": ["Keyboard shortcuts"]},
+  {"topic": "On Mac", "file": "uxp/tips-and-tricks-for-uxp-scripts/on-mac.md", "summary": "Open when looking up On Mac in InDesign.", "keywords": ["On Mac"]},
+  {"topic": "On Windows:", "file": "uxp/tips-and-tricks-for-uxp-scripts/on-windows.md", "summary": "Open when looking up On Windows: in InDesign.", "keywords": ["On Windows:"]},
+  {"topic": "Open folder", "file": "uxp/tips-and-tricks-for-uxp-scripts/open-folder.md", "summary": "Open when looking up Open folder in InDesign.", "keywords": ["Open folder"]},
+  {"topic": "Run script during application startup", "file": "uxp/tips-and-tricks-for-uxp-scripts/run-script-during-application-startup.md", "summary": "Open when looking up Run script during application startup in InDesign.", "keywords": ["Run script during application startup"]},
+  {"topic": "Scripts panel", "file": "uxp/tips-and-tricks-for-uxp-scripts/scripts-panel.md", "summary": "Open when looking up Scripts panel in InDesign.", "keywords": ["Scripts panel"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

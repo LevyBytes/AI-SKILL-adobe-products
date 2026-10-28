@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "SmartFX - The Way Things Are Now", "file": "plugin-sdk/the-way-things-are-now/smart-fx-the-way-things-are-now.md", "summary": "Open when looking up SmartFX - The Way Things Are Now in After Effects.", "keywords": ["SmartFX - The Way Things Are Now"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

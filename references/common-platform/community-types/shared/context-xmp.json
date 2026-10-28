@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "declare const XMPConst: XMPConstConstructor | undefined", "file": "community-types/shared/declare-const-xmp-const-xmp-const-constructor-undefined.md", "summary": "Open when looking up declare const XMPConst: XMPConstConstructor | undefined in Shared Adobe platform.", "keywords": ["declare const XMPConst: XMPConstConstructor | undefined"]},
+  {"topic": "declare const XMPMeta: XMPMetaConstructor | undefined", "file": "community-types/shared/declare-const-xmp-meta-xmp-meta-constructor-undefined.md", "summary": "Open when looking up declare const XMPMeta: XMPMetaConstructor | undefined in Shared Adobe platform.", "keywords": ["declare const XMPMeta: XMPMetaConstructor | undefined"]},
+  {"topic": "XMPConstConstructor", "file": "community-types/shared/xmp-const-constructor.md", "summary": "Open when looking up XMPConstConstructor in Shared Adobe platform.", "keywords": ["XMPConstConstructor"]},
+  {"topic": "XMPConstInstance", "file": "community-types/shared/xmp-const-instance.md", "summary": "Open when looking up XMPConstInstance in Shared Adobe platform.", "keywords": ["XMPConstInstance"]},
+  {"topic": "XMPMetaConstructor", "file": "community-types/shared/xmp-meta-constructor.md", "summary": "Open when looking up XMPMetaConstructor in Shared Adobe platform.", "keywords": ["XMPMetaConstructor"]},
+  {"topic": "XMPMetaInstance", "file": "community-types/shared/xmp-meta-instance.md", "summary": "Open when looking up XMPMetaInstance in Shared Adobe platform.", "keywords": ["XMPMetaInstance"]},
+  {"topic": "XMPProperty", "file": "community-types/shared/xmp-property.md", "summary": "Open when looking up XMPProperty in Shared Adobe platform.", "keywords": ["XMPProperty"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

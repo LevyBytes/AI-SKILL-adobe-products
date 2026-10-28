@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "image-blob.html", "file": "uxp/examples/image-blob/image-blob.html", "summary": "Open when looking up image-blob.html in Premiere Pro.", "keywords": ["image-blob.html"]},
+  {"topic": "image-blob.js", "file": "uxp/examples/image-blob/image-blob.js", "summary": "Open when looking up image-blob.js in Premiere Pro.", "keywords": ["image-blob.js"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,17 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "AnimationBehavior", "file": "community-types/indesign/animation-behavior.md", "summary": "Open when looking up AnimationBehavior in Shared Adobe platform.", "keywords": ["AnimationBehavior"]},
+  {"topic": "AnimationBehaviors references", "file": "community-types/indesign/animation-behaviors/reference-index.md", "summary": "Open when looking up AnimationBehaviors in Shared Adobe platform.", "keywords": ["AnimationBehaviors references"]},
+  {"topic": "AnimationEaseOptions", "file": "community-types/indesign/animation-ease-options.md", "summary": "Open when looking up AnimationEaseOptions in Shared Adobe platform.", "keywords": ["AnimationEaseOptions"]},
+  {"topic": "AnimationPlayOperations", "file": "community-types/indesign/animation-play-operations.md", "summary": "Open when looking up AnimationPlayOperations in Shared Adobe platform.", "keywords": ["AnimationPlayOperations"]},
+  {"topic": "AnimationSetting references", "file": "community-types/indesign/animation-setting/reference-index.md", "summary": "Open when looking up AnimationSetting in Shared Adobe platform.", "keywords": ["AnimationSetting references"]},
+  {"topic": "MotionPreset references", "file": "community-types/indesign/motion-preset/reference-index.md", "summary": "Open when looking up MotionPreset in Shared Adobe platform.", "keywords": ["MotionPreset references"]},
+  {"topic": "MotionPresets references", "file": "community-types/indesign/motion-presets/reference-index.md", "summary": "Open when looking up MotionPresets in Shared Adobe platform.", "keywords": ["MotionPresets references"]},
+  {"topic": "TimingGroup references", "file": "community-types/indesign/timing-group/reference-index.md", "summary": "Open when looking up TimingGroup in Shared Adobe platform.", "keywords": ["TimingGroup references"]},
+  {"topic": "TimingGroups", "file": "community-types/indesign/timing-groups.md", "summary": "Open when looking up TimingGroups in Shared Adobe platform.", "keywords": ["TimingGroups"]},
+  {"topic": "TimingList", "file": "community-types/indesign/timing-list.md", "summary": "Open when looking up TimingList in Shared Adobe platform.", "keywords": ["TimingList"]},
+  {"topic": "TimingLists", "file": "community-types/indesign/timing-lists.md", "summary": "Open when looking up TimingLists in Shared Adobe platform.", "keywords": ["TimingLists"]},
+  {"topic": "TimingSetting", "file": "community-types/indesign/timing-setting.md", "summary": "Open when looking up TimingSetting in Shared Adobe platform.", "keywords": ["TimingSetting"]},
+  {"topic": "TimingTarget references", "file": "community-types/indesign/timing-target/reference-index.md", "summary": "Open when looking up TimingTarget in Shared Adobe platform.", "keywords": ["TimingTarget references"]},
+  {"topic": "TimingTargets", "file": "community-types/indesign/timing-targets.md", "summary": "Open when looking up TimingTargets in Shared Adobe platform.", "keywords": ["TimingTargets"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

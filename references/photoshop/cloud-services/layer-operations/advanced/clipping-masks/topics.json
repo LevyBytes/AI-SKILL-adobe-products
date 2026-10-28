@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "V1 approach", "file": "cloud-services/layer-operations/advanced/clipping-masks/v1-approach.md", "summary": "Open when looking up V1 approach in Photoshop.", "keywords": ["V1 approach"]},
+  {"topic": "V2 approach", "file": "cloud-services/layer-operations/advanced/clipping-masks/v2-approach.md", "summary": "Open when looking up V2 approach in Photoshop.", "keywords": ["V2 approach"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

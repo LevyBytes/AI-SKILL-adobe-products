@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "close()", "file": "references/uxp/readable-stream-default-controller/close.md", "summary": "Open when looking up close() in Photoshop.", "keywords": ["close()"]},
-  {"topic": "desiredSize : number", "file": "references/uxp/readable-stream-default-controller/desired-size-number.md", "summary": "Open when looking up desiredSize : number in Photoshop.", "keywords": ["desiredSize : number"]},
-  {"topic": "enqueue(chunk)", "file": "references/uxp/readable-stream-default-controller/enqueue.md", "summary": "Open when looking up enqueue(chunk) in Photoshop.", "keywords": ["enqueue(chunk)"]},
-  {"topic": "error(error)", "file": "references/uxp/readable-stream-default-controller/error.md", "summary": "Open when looking up error(error) in Photoshop.", "keywords": ["error(error)"]},
-  {"topic": "window.ReadableStreamDefaultController", "file": "references/uxp/readable-stream-default-controller/overview.md", "summary": "Open when looking up window.ReadableStreamDefaultController in Photoshop.", "keywords": ["window.ReadableStreamDefaultController"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

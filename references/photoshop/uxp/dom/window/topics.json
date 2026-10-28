@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "window.alert()", "file": "uxp/dom/window/alert.md", "summary": "Open when looking up window.alert() in Photoshop.", "keywords": ["window.alert()"]},
+  {"topic": "window.confirm()", "file": "uxp/dom/window/confirm.md", "summary": "Open when looking up window.confirm() in Photoshop.", "keywords": ["window.confirm()"]},
+  {"topic": "window.getComputedStyle", "file": "uxp/dom/window/get-computed-style.md", "summary": "Open when looking up window.getComputedStyle in Photoshop.", "keywords": ["window.getComputedStyle"]},
+  {"topic": "window.prompt()", "file": "uxp/dom/window/prompt.md", "summary": "Open when looking up window.prompt() in Photoshop.", "keywords": ["window.prompt()"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

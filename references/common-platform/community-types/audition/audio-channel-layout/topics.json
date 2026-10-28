@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Create and inspect a channel layout", "file": "community-types/audition/audio-channel-layout/context-layout-contract.md", "summary": "Open when working with create and inspect a channel layout in Shared Adobe platform - AudioChannelLayout.", "keywords": ["Create and inspect a channel layout"]},
+  {"topic": "Speaker positions and channel labels", "file": "community-types/audition/audio-channel-layout/context-channel-labels.md", "summary": "Open when working with speaker positions and channel labels in Shared Adobe platform - AudioChannelLayout.", "keywords": ["Speaker positions and channel labels"]},
+  {"topic": "Named standard channel layouts", "file": "community-types/audition/audio-channel-layout/context-standard-layouts.md", "summary": "Open when working with named standard channel layouts in Shared Adobe platform - AudioChannelLayout.", "keywords": ["Named standard channel layouts"]},
+  {"topic": "Explicit channel order layouts", "file": "community-types/audition/audio-channel-layout/context-channel-order.md", "summary": "Open when working with explicit channel order layouts in Shared Adobe platform - AudioChannelLayout.", "keywords": ["Explicit channel order layouts"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

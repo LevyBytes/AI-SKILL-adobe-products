@@ -1,6 +1,0 @@
-# App
-
-
-methods:
-
-newCollection

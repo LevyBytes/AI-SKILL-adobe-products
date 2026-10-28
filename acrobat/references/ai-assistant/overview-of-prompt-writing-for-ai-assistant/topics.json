@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Common mistakes to avoid", "file": "references/ai-assistant/overview-of-prompt-writing-for-ai-assistant/common-mistakes-to-avoid.md", "summary": "Open when looking up Common mistakes to avoid in Acrobat.", "keywords": ["Common mistakes to avoid"]},
-  {"topic": "Components of a strong prompt", "file": "references/ai-assistant/overview-of-prompt-writing-for-ai-assistant/components-of-a-strong-prompt.md", "summary": "Open when looking up Components of a strong prompt in Acrobat.", "keywords": ["Components of a strong prompt"]},
-  {"topic": "Examples of effective prompts", "file": "references/ai-assistant/overview-of-prompt-writing-for-ai-assistant/examples-of-effective-prompts.md", "summary": "Open when looking up Examples of effective prompts in Acrobat.", "keywords": ["Examples of effective prompts"]},
-  {"topic": "Expand responses step by step", "file": "references/ai-assistant/overview-of-prompt-writing-for-ai-assistant/expand-responses-step-by-step.md", "summary": "Open when looking up Expand responses step by step in Acrobat.", "keywords": ["Expand responses step by step"]},
-  {"topic": "Guidelines for improving prompt quality", "file": "references/ai-assistant/overview-of-prompt-writing-for-ai-assistant/guidelines-for-improving-prompt-quality.md", "summary": "Open when looking up Guidelines for improving prompt quality in Acrobat.", "keywords": ["Guidelines for improving prompt quality"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

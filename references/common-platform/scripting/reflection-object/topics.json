@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "ExtendScript Reflection Interface - ReflectionObject", "file": "scripting/reflection-object/extend-script-reflection-interface-reflection-object.md", "summary": "Open when looking up ExtendScript Reflection Interface - ReflectionObject in Shared Adobe platform.", "keywords": ["ExtendScript Reflection Interface - ReflectionObject"]},
+  {"topic": "find()", "file": "scripting/reflection-object/find.md", "summary": "Open when looking up find() in Shared Adobe platform.", "keywords": ["find()"]},
+  {"topic": "help", "file": "scripting/reflection-object/help.md", "summary": "Open when looking up help in Shared Adobe platform.", "keywords": ["help"]},
+  {"topic": "name", "file": "scripting/reflection-object/name.md", "summary": "Open when looking up name in Shared Adobe platform.", "keywords": ["name"]},
+  {"topic": "ReflectionObject Attributes", "file": "scripting/reflection-object/reflection-object-attributes.md", "summary": "Open when looking up ReflectionObject Attributes in Shared Adobe platform.", "keywords": ["ReflectionObject Attributes"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "AFTER_SPECIFIC_LEVEL", "file": "references/document-model/restart-policy/afterspecificlevel.md", "summary": "Open when looking up AFTER_SPECIFIC_LEVEL in InDesign.", "keywords": ["AFTER_SPECIFIC_LEVEL"]},
-  {"topic": "ANY_PREVIOUS_LEVEL", "file": "references/document-model/restart-policy/anypreviouslevel.md", "summary": "Open when looking up ANY_PREVIOUS_LEVEL in InDesign.", "keywords": ["ANY_PREVIOUS_LEVEL"]},
-  {"topic": "RANGE_OF_LEVELS", "file": "references/document-model/restart-policy/rangeoflevels.md", "summary": "Open when looking up RANGE_OF_LEVELS in InDesign.", "keywords": ["RANGE_OF_LEVELS"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

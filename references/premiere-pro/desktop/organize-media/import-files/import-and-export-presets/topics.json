@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Source device", "file": "desktop/organize-media/import-files/import-and-export-presets/source-device.md", "summary": "Open when looking up Source device in Premiere Pro.", "keywords": ["Source device"]},
+  {"topic": "Target device", "file": "desktop/organize-media/import-files/import-and-export-presets/target-device.md", "summary": "Open when looking up Target device in Premiere Pro.", "keywords": ["Target device"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

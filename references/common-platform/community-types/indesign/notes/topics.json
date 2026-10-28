@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Notes collection iteration", "file": "community-types/indesign/notes/collection-iteration.md", "summary": "Open when looking up Notes collection iteration in Shared Adobe platform.", "keywords": ["Notes collection iteration"]},
+  {"topic": "Notes declaration", "file": "community-types/indesign/notes/declaration.md", "summary": "Open when looking up Notes declaration in Shared Adobe platform.", "keywords": ["Notes declaration"]},
+  {"topic": "Notes named and indexed items", "file": "community-types/indesign/notes/named-and-indexed-items.md", "summary": "Open when looking up Notes named and indexed items in Shared Adobe platform.", "keywords": ["Notes named and indexed items"]},
+  {"topic": "Notes.add", "file": "community-types/indesign/notes/add.md", "summary": "Open when looking up Notes.add in Shared Adobe platform.", "keywords": ["Notes.add"]},
+  {"topic": "Notes.count", "file": "community-types/indesign/notes/count.md", "summary": "Open when looking up Notes.count in Shared Adobe platform.", "keywords": ["Notes.count"]},
+  {"topic": "Notes.IndexSignature", "file": "community-types/indesign/notes/index-signature.md", "summary": "Open when looking up Notes.IndexSignature in Shared Adobe platform.", "keywords": ["Notes.IndexSignature"]},
+  {"topic": "Notes.itemByRange", "file": "community-types/indesign/notes/item-by-range.md", "summary": "Open when looking up Notes.itemByRange in Shared Adobe platform.", "keywords": ["Notes.itemByRange"]},
+  {"topic": "Notes.length", "file": "community-types/indesign/notes/length.md", "summary": "Open when looking up Notes.length in Shared Adobe platform.", "keywords": ["Notes.length"]},
+  {"topic": "Notes.toSource", "file": "community-types/indesign/notes/to-source.md", "summary": "Open when looking up Notes.toSource in Shared Adobe platform.", "keywords": ["Notes.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Combining matrices to apply multiple transformations", "file": "scripting/matrix-example/combining-matrices-to-apply-multiple-transformations.md", "summary": "Open when looking up Combining matrices to apply multiple transformations in Illustrator.", "keywords": ["Combining matrices to apply multiple transformations"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": ".NET", "file": "pdf-services/apply-watermark-on-input-pdf/net.md", "summary": "Open when looking up .NET in Acrobat.", "keywords": [".NET"]},
+  {"topic": "Java", "file": "pdf-services/apply-watermark-on-input-pdf/java.md", "summary": "Open when looking up Java in Acrobat.", "keywords": ["Java"]},
+  {"topic": "Node JS", "file": "pdf-services/apply-watermark-on-input-pdf/node-js.md", "summary": "Open when looking up Node JS in Acrobat.", "keywords": ["Node JS"]},
+  {"topic": "Python", "file": "pdf-services/apply-watermark-on-input-pdf/python.md", "summary": "Open when looking up Python in Acrobat.", "keywords": ["Python"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

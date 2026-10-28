@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Search for metadata properties", "file": "desktop/organize-media/edit-metadata/search-metadata-in-the-metadata-panel/search-for-metadata-properties.md", "summary": "Open when looking up Search for metadata properties in Premiere Pro.", "keywords": ["Search for metadata properties"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

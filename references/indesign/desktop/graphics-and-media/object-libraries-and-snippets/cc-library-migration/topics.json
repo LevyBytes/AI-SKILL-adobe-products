@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Migrate all assets from an object library", "file": "desktop/graphics-and-media/object-libraries-and-snippets/cc-library-migration/migrate-all-assets-from-an-object-library.md", "summary": "Open when looking up Migrate all assets from an object library in InDesign.", "keywords": ["Migrate all assets from an object library"]},
+  {"topic": "Migrate selected assets from an object library", "file": "desktop/graphics-and-media/object-libraries-and-snippets/cc-library-migration/migrate-selected-assets-from-an-object-library.md", "summary": "Open when looking up Migrate selected assets from an object library in InDesign.", "keywords": ["Migrate selected assets from an object library"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

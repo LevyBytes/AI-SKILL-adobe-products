@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "activeStateIndex", "file": "document-model/form-field/active-state-index.md", "summary": "Open when looking up activeStateIndex in InDesign.", "keywords": ["activeStateIndex"]},
+  {"topic": "description", "file": "document-model/form-field/description.md", "summary": "Open when looking up description in InDesign.", "keywords": ["description"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

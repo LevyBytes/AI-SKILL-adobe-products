@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "checkIn", "file": "references/document-model/story/check-in.md", "summary": "Open when looking up checkIn in InDesign.", "keywords": ["checkIn"]},
-  {"topic": "checkOut", "file": "references/document-model/story/check-out.md", "summary": "Open when looking up checkOut in InDesign.", "keywords": ["checkOut"]},
-  {"topic": "idmlComponentName", "file": "references/document-model/story/idml-component-name.md", "summary": "Open when looking up idmlComponentName in InDesign.", "keywords": ["idmlComponentName"]},
-  {"topic": "lockState", "file": "references/document-model/story/lock-state.md", "summary": "Open when looking up lockState in InDesign.", "keywords": ["lockState"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

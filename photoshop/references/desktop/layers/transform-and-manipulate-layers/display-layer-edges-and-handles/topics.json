@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Show layer edges", "file": "references/desktop/layers/transform-and-manipulate-layers/display-layer-edges-and-handles/show-layer-edges.md", "summary": "Open when looking up Show layer edges in Photoshop.", "keywords": ["Show layer edges"]},
-  {"topic": "Show transform handles", "file": "references/desktop/layers/transform-and-manipulate-layers/display-layer-edges-and-handles/show-transform-handles.md", "summary": "Open when looking up Show transform handles in Photoshop.", "keywords": ["Show transform handles"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

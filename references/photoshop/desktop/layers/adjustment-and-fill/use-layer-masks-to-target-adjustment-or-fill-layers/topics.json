@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Create a mask from a selection", "file": "desktop/layers/adjustment-and-fill/use-layer-masks-to-target-adjustment-or-fill-layers/create-a-mask-from-a-selection.md", "summary": "Open when looking up Create a mask from a selection in Photoshop.", "keywords": ["Create a mask from a selection"]},
+  {"topic": "Use Color Range to create a precise mask", "file": "desktop/layers/adjustment-and-fill/use-layer-masks-to-target-adjustment-or-fill-layers/use-color-range-to-create-a-precise-mask.md", "summary": "Open when looking up Use Color Range to create a precise mask in Photoshop.", "keywords": ["Use Color Range to create a precise mask"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

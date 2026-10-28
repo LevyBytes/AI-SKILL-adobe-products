@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Basic migration", "file": "references/cloud-services/text-layer-operations/migration-examples/basic-migration.md", "summary": "Open when looking up Basic migration in Photoshop.", "keywords": ["Basic migration"]},
-  {"topic": "Multiple layers", "file": "references/cloud-services/text-layer-operations/migration-examples/multiple-layers.md", "summary": "Open when looking up Multiple layers in Photoshop.", "keywords": ["Multiple layers"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

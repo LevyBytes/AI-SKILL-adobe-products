@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "HONOR_ALL_PROFILES", "file": "references/document-model/placed-vector-profile-policy/honorallprofiles.md", "summary": "Open when looking up HONOR_ALL_PROFILES in InDesign.", "keywords": ["HONOR_ALL_PROFILES"]},
-  {"topic": "IGNORE_ALL", "file": "references/document-model/placed-vector-profile-policy/ignoreall.md", "summary": "Open when looking up IGNORE_ALL in InDesign.", "keywords": ["IGNORE_ALL"]},
-  {"topic": "IGNORE_OUTPUT_INTENT", "file": "references/document-model/placed-vector-profile-policy/ignoreoutputintent.md", "summary": "Open when looking up IGNORE_OUTPUT_INTENT in InDesign.", "keywords": ["IGNORE_OUTPUT_INTENT"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

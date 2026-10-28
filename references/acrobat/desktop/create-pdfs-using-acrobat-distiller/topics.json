@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Learn how to convert PostScript files to PDF using Acrobat Distiller.", "file": "desktop/create-pdfs-using-acrobat-distiller/postscript-to-pdf-conversion.md", "summary": "Open when looking up Learn how to convert PostScript files to PDF using Acrobat Distiller. in Acrobat.", "keywords": ["Learn how to convert PostScript files to PDF using Acrobat Distiller."]},
+  {"topic": "macOS", "file": "desktop/create-pdfs-using-acrobat-distiller/mac-os.md", "summary": "Open when looking up macOS in Acrobat.", "keywords": ["macOS"]},
+  {"topic": "Windows", "file": "desktop/create-pdfs-using-acrobat-distiller/windows.md", "summary": "Open when looking up Windows in Acrobat.", "keywords": ["Windows"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

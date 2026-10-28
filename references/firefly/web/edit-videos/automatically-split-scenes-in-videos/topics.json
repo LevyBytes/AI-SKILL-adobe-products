@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Split your video into scenes", "file": "web/edit-videos/automatically-split-scenes-in-videos/split-your-video-into-scenes.md", "summary": "Open when looking up Split your video into scenes in Firefly.", "keywords": ["Split your video into scenes"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,16 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Aspect", "file": "desktop/basic-video-settings/aspect.md", "summary": "Open when looking up Aspect in Premiere Pro.", "keywords": ["Aspect"]},
+  {"topic": "Basic video export settings reference for Adobe Premiere.", "file": "desktop/basic-video-settings/basic-video-export-settings-reference-for-adobe-premiere.md", "summary": "Open when looking up Basic video export settings reference for Adobe Premiere. in Premiere Pro.", "keywords": ["Basic video export settings reference for Adobe Premiere."]},
+  {"topic": "Field Order", "file": "desktop/basic-video-settings/field-order.md", "summary": "Open when looking up Field Order in Premiere Pro.", "keywords": ["Field Order"]},
+  {"topic": "Frame Rate", "file": "desktop/basic-video-settings/frame-rate.md", "summary": "Open when looking up Frame Rate in Premiere Pro.", "keywords": ["Frame Rate"]},
+  {"topic": "Frame Size", "file": "desktop/basic-video-settings/frame-size.md", "summary": "Open when looking up Frame Size in Premiere Pro.", "keywords": ["Frame Size"]},
+  {"topic": "Match Source", "file": "desktop/basic-video-settings/match-source.md", "summary": "Open when looking up Match Source in Premiere Pro.", "keywords": ["Match Source"]},
+  {"topic": "Match Source presets", "file": "desktop/basic-video-settings/match-source-presets.md", "summary": "Open when looking up Match Source presets in Premiere Pro.", "keywords": ["Match Source presets"]},
+  {"topic": "Match Source Rewrap presets", "file": "desktop/basic-video-settings/match-source-rewrap-presets.md", "summary": "Open when looking up Match Source Rewrap presets in Premiere Pro.", "keywords": ["Match Source Rewrap presets"]},
+  {"topic": "Render Alpha Channel Only", "file": "desktop/basic-video-settings/render-alpha-channel-only.md", "summary": "Open when looking up Render Alpha Channel Only in Premiere Pro.", "keywords": ["Render Alpha Channel Only"]},
+  {"topic": "Render at Maximum Depth", "file": "desktop/basic-video-settings/render-at-maximum-depth.md", "summary": "Open when looking up Render at Maximum Depth in Premiere Pro.", "keywords": ["Render at Maximum Depth"]},
+  {"topic": "Time Interpolation", "file": "desktop/basic-video-settings/time-interpolation.md", "summary": "Open when looking up Time Interpolation in Premiere Pro.", "keywords": ["Time Interpolation"]},
+  {"topic": "Transparency", "file": "desktop/basic-video-settings/transparency.md", "summary": "Open when looking up Transparency in Premiere Pro.", "keywords": ["Transparency"]},
+  {"topic": "Use Maximum Render Quality", "file": "desktop/basic-video-settings/use-maximum-render-quality.md", "summary": "Open when looking up Use Maximum Render Quality in Premiere Pro.", "keywords": ["Use Maximum Render Quality"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

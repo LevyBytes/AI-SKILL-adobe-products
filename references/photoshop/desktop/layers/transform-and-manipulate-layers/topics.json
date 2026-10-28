@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Clean up image layers", "file": "desktop/layers/transform-and-manipulate-layers/clean-up-image-layers.md", "summary": "Open when looking up Clean up image layers in Photoshop.", "keywords": ["Clean up image layers"]},
+  {"topic": "Clean up image layers references", "file": "desktop/layers/transform-and-manipulate-layers/clean-up-image-layers/reference-index.md", "summary": "Open when looking up Clean up image layers in Photoshop.", "keywords": ["Clean up image layers references"]},
+  {"topic": "Display layer edges and handles", "file": "desktop/layers/transform-and-manipulate-layers/display-layer-edges-and-handles.md", "summary": "Open when looking up Display layer edges and handles in Photoshop.", "keywords": ["Display layer edges and handles"]},
+  {"topic": "Display layer edges and handles references", "file": "desktop/layers/transform-and-manipulate-layers/display-layer-edges-and-handles/reference-index.md", "summary": "Open when looking up Display layer edges and handles in Photoshop.", "keywords": ["Display layer edges and handles references"]},
+  {"topic": "Group and ungroup layers", "file": "desktop/layers/transform-and-manipulate-layers/group-and-ungroup-layers.md", "summary": "Open when looking up Group and ungroup layers in Photoshop.", "keywords": ["Group and ungroup layers"]},
+  {"topic": "Group and ungroup layers references", "file": "desktop/layers/transform-and-manipulate-layers/group-and-ungroup-layers/reference-index.md", "summary": "Open when looking up Group and ungroup layers in Photoshop.", "keywords": ["Group and ungroup layers references"]},
+  {"topic": "Link and unlink layers", "file": "desktop/layers/transform-and-manipulate-layers/link-and-unlink-layers.md", "summary": "Open when looking up Link and unlink layers in Photoshop.", "keywords": ["Link and unlink layers"]},
+  {"topic": "Select layers", "file": "desktop/layers/transform-and-manipulate-layers/select-layers.md", "summary": "Open when looking up Select layers in Photoshop.", "keywords": ["Select layers"]},
+  {"topic": "Select layers references", "file": "desktop/layers/transform-and-manipulate-layers/select-layers/reference-index.md", "summary": "Open when looking up Select layers in Photoshop.", "keywords": ["Select layers references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

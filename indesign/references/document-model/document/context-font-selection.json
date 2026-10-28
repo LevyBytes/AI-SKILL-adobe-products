@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "compositeFonts", "file": "references/document-model/document/composite-fonts.md", "summary": "Open when looking up compositeFonts in InDesign.", "keywords": ["compositeFonts"]},
-  {"topic": "createMissingFontObject", "file": "references/document-model/document/create-missing-font-object.md", "summary": "Open when looking up createMissingFontObject in InDesign.", "keywords": ["createMissingFontObject"]},
-  {"topic": "fonts", "file": "references/document-model/document/fonts.md", "summary": "Open when looking up fonts in InDesign.", "keywords": ["fonts"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Customizing Hover Layer Bounds", "file": "desktop/make-selections/selection-refinement/hover-layer-bounds-in-the-move-tool/customizing-hover-layer-bounds.md", "summary": "Open when looking up Customizing Hover Layer Bounds in Photoshop.", "keywords": ["Customizing Hover Layer Bounds"]},
+  {"topic": "Hover Layer Bounds in Photoshop", "file": "desktop/make-selections/selection-refinement/hover-layer-bounds-in-the-move-tool/hover-layer-bounds-in-photoshop.md", "summary": "Open when looking up Hover Layer Bounds in Photoshop in Photoshop.", "keywords": ["Hover Layer Bounds in Photoshop"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

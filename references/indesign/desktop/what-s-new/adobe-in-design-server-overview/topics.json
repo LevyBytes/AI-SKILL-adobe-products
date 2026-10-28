@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Additional install/uninstall scenarios", "file": "desktop/what-s-new/adobe-in-design-server-overview/additional-install-uninstall-scenarios.md", "summary": "Open when looking up Additional install/uninstall scenarios in InDesign.", "keywords": ["Additional install/uninstall scenarios"]},
+  {"topic": "Customer Service", "file": "desktop/what-s-new/adobe-in-design-server-overview/customer-service.md", "summary": "Open when looking up Customer Service in InDesign.", "keywords": ["Customer Service"]},
+  {"topic": "Installation and Activation Support", "file": "desktop/what-s-new/adobe-in-design-server-overview/installation-and-activation-support.md", "summary": "Open when looking up Installation and Activation Support in InDesign.", "keywords": ["Installation and Activation Support"]},
+  {"topic": "Minimum system requirements", "file": "desktop/what-s-new/adobe-in-design-server-overview/minimum-system-requirements.md", "summary": "Open when looking up Minimum system requirements in InDesign.", "keywords": ["Minimum system requirements"]},
+  {"topic": "Prerequisite", "file": "desktop/what-s-new/adobe-in-design-server-overview/prerequisite.md", "summary": "Open when looking up Prerequisite in InDesign.", "keywords": ["Prerequisite"]},
+  {"topic": "Recommendation", "file": "desktop/what-s-new/adobe-in-design-server-overview/recommendation.md", "summary": "Open when looking up Recommendation in InDesign.", "keywords": ["Recommendation"]},
+  {"topic": "Support Plan Options and Technical Resources", "file": "desktop/what-s-new/adobe-in-design-server-overview/support-plan-options-and-technical-resources.md", "summary": "Open when looking up Support Plan Options and Technical Resources in InDesign.", "keywords": ["Support Plan Options and Technical Resources"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

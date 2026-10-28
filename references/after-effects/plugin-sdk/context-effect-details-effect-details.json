@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Effect Details", "file": "plugin-sdk/effect-details.md", "summary": "Open when looking up Effect Details in After Effects.", "keywords": ["Effect Details"]},
+  {"topic": "Free code good references", "file": "plugin-sdk/free-code-good/reference-index.md", "summary": "Open when looking up Free code good in After Effects.", "keywords": ["Free code good references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

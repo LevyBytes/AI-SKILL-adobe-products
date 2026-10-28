@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Implementation Details - Export Bit-Depth", "file": "plugin-sdk/export-bit-depth/implementation-details-export-bit-depth.md", "summary": "Open when looking up Implementation Details - Export Bit-Depth in After Effects.", "keywords": ["Implementation Details - Export Bit-Depth"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

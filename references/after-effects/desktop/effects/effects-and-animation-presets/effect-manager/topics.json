@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Crash Repair Options", "file": "desktop/effects/effects-and-animation-presets/effect-manager/crash-repair-options.md", "summary": "Open when looking up Crash Repair Options in After Effects.", "keywords": ["Crash Repair Options"]},
+  {"topic": "Enable the disabled effect", "file": "desktop/effects/effects-and-animation-presets/effect-manager/enable-the-disabled-effect.md", "summary": "Open when looking up Enable the disabled effect in After Effects.", "keywords": ["Enable the disabled effect"]},
+  {"topic": "Talk to us", "file": "desktop/effects/effects-and-animation-presets/effect-manager/talk-to-us.md", "summary": "Open when looking up Talk to us in After Effects.", "keywords": ["Talk to us"]},
+  {"topic": "View list of installed effects", "file": "desktop/effects/effects-and-animation-presets/effect-manager/view-list-of-installed-effects.md", "summary": "Open when looking up View list of installed effects in After Effects.", "keywords": ["View list of installed effects"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

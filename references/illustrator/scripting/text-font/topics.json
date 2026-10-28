@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "TextFont.family", "file": "scripting/text-font/family.md", "summary": "Open when looking up TextFont.family in Illustrator.", "keywords": ["TextFont.family"]},
+  {"topic": "TextFont.name", "file": "scripting/text-font/name.md", "summary": "Open when looking up TextFont.name in Illustrator.", "keywords": ["TextFont.name"]},
+  {"topic": "TextFont.parent", "file": "scripting/text-font/parent.md", "summary": "Open when looking up TextFont.parent in Illustrator.", "keywords": ["TextFont.parent"]},
+  {"topic": "TextFont.style", "file": "scripting/text-font/style.md", "summary": "Open when looking up TextFont.style in Illustrator.", "keywords": ["TextFont.style"]},
+  {"topic": "TextFont.typename", "file": "scripting/text-font/typename.md", "summary": "Open when looking up TextFont.typename in Illustrator.", "keywords": ["TextFont.typename"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

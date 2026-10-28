@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Text to vector", "file": "web/generate-vectors/text-to-vector.md", "summary": "Open when looking up Text to vector in Firefly.", "keywords": ["Text to vector"]},
+  {"topic": "Text to vector references", "file": "web/generate-vectors/text-to-vector/reference-index.md", "summary": "Open when looking up Text to vector in Firefly.", "keywords": ["Text to vector references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

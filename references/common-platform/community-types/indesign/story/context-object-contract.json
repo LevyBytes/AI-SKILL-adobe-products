@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Story declaration", "file": "community-types/indesign/story/declaration.md", "summary": "Open when looking up Story declaration in Shared Adobe platform.", "keywords": ["Story declaration"]},
+  {"topic": "Story identity and parent", "file": "community-types/indesign/story/identity-and-parent.md", "summary": "Open when looking up Story identity and parent in Shared Adobe platform.", "keywords": ["Story identity and parent"]},
+  {"topic": "Story labels and metadata", "file": "community-types/indesign/story/labels-and-metadata.md", "summary": "Open when looking up Story labels and metadata in Shared Adobe platform.", "keywords": ["Story labels and metadata"]},
+  {"topic": "Story object lifecycle", "file": "community-types/indesign/story/object-lifecycle.md", "summary": "Open when looking up Story object lifecycle in Shared Adobe platform.", "keywords": ["Story object lifecycle"]},
+  {"topic": "Story object resolution", "file": "community-types/indesign/story/object-resolution.md", "summary": "Open when looking up Story object resolution in Shared Adobe platform.", "keywords": ["Story object resolution"]},
+  {"topic": "Story.properties", "file": "community-types/indesign/story/properties.md", "summary": "Open when looking up Story.properties in Shared Adobe platform.", "keywords": ["Story.properties"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

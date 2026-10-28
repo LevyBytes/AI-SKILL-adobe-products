@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Binary operators (+, -, \\*, /, %)", "file": "references/scripting/computing-with-unit-values/binary-operators.md", "summary": "Open when looking up Binary operators (+, -, \\*, /, %) in Shared Adobe platform.", "keywords": ["Binary operators (+, -, \\*, /, %)"]},
-  {"topic": "Comparisons (=, ==, <, >, <=, >=)", "file": "references/scripting/computing-with-unit-values/comparisons.md", "summary": "Open when looking up Comparisons (=, ==, <, >, <=, >=) in Shared Adobe platform.", "keywords": ["Comparisons (=, ==, <, >, <=, >=)"]},
-  {"topic": "Specifying measurement values - Computing with unit values", "file": "references/scripting/computing-with-unit-values/specifying-measurement-values-computing-with-unit-values.md", "summary": "Open when looking up Specifying measurement values - Computing with unit values in Shared Adobe platform.", "keywords": ["Specifying measurement values - Computing with unit values"]},
-  {"topic": "Unary operators (~, !, +, -)", "file": "references/scripting/computing-with-unit-values/unary-operators.md", "summary": "Open when looking up Unary operators (~, !, +, -) in Shared Adobe platform.", "keywords": ["Unary operators (~, !, +, -)"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

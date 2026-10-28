@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Flip settings", "file": "references/desktop/print/ink-and-color-management/emulsion-and-image-exposure-settings/flip-settings.md", "summary": "Open when looking up Flip settings in InDesign.", "keywords": ["Flip settings"]},
-  {"topic": "Identifying emulsion side", "file": "references/desktop/print/ink-and-color-management/emulsion-and-image-exposure-settings/identifying-emulsion-side.md", "summary": "Open when looking up Identifying emulsion side in InDesign.", "keywords": ["Identifying emulsion side"]},
-  {"topic": "Image exposure settings", "file": "references/desktop/print/ink-and-color-management/emulsion-and-image-exposure-settings/image-exposure-settings.md", "summary": "Open when looking up Image exposure settings in InDesign.", "keywords": ["Image exposure settings"]},
-  {"topic": "What is emulsion", "file": "references/desktop/print/ink-and-color-management/emulsion-and-image-exposure-settings/what-is-emulsion.md", "summary": "Open when looking up What is emulsion in InDesign.", "keywords": ["What is emulsion"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

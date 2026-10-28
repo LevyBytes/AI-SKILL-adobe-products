@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "ORDER_BY_COLUMNS", "file": "document-model/display-order-options/orderbycolumns.md", "summary": "Open when looking up ORDER_BY_COLUMNS in InDesign.", "keywords": ["ORDER_BY_COLUMNS"]},
+  {"topic": "ORDER_BY_ROWS", "file": "document-model/display-order-options/orderbyrows.md", "summary": "Open when looking up ORDER_BY_ROWS in InDesign.", "keywords": ["ORDER_BY_ROWS"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

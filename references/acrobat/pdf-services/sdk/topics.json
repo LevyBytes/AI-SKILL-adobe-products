@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Dotnet references", "file": "pdf-services/sdk/dotnet/reference-index.md", "summary": "Open when looking up Dotnet in Acrobat.", "keywords": ["Dotnet references"]},
+  {"topic": "Electronic seal references", "file": "pdf-services/sdk/electronic-seal/reference-index.md", "summary": "Open when looking up Electronic seal in Acrobat.", "keywords": ["Electronic seal references"]},
+  {"topic": "Java references", "file": "pdf-services/sdk/java/reference-index.md", "summary": "Open when looking up Java in Acrobat.", "keywords": ["Java references"]},
+  {"topic": "Legacy references", "file": "pdf-services/sdk/legacy/reference-index.md", "summary": "Open when looking up Legacy in Acrobat.", "keywords": ["Legacy references"]},
+  {"topic": "Node references", "file": "pdf-services/sdk/node/reference-index.md", "summary": "Open when looking up Node in Acrobat.", "keywords": ["Node references"]},
+  {"topic": "Pdf extract references", "file": "pdf-services/sdk/pdf-extract/reference-index.md", "summary": "Open when looking up Pdf extract in Acrobat.", "keywords": ["Pdf extract references"]},
+  {"topic": "Python references", "file": "pdf-services/sdk/python/reference-index.md", "summary": "Open when looking up Python in Acrobat.", "keywords": ["Python references"]},
+  {"topic": "SDK", "file": "pdf-services/sdk/setup-requirements.md", "summary": "Open when looking up SDK in Acrobat.", "keywords": ["SDK"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

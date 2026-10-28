@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "About Adobe Firefly on mobile", "file": "mobile/about-adobe-firefly-on-mobile.md", "summary": "Open when looking up About Adobe Firefly on mobile in Firefly.", "keywords": ["About Adobe Firefly on mobile"]},
+  {"topic": "Technical requirements for Adobe Firefly on mobile", "file": "mobile/technical-requirements-for-adobe-firefly-on-mobile.md", "summary": "Open when looking up Technical requirements for Adobe Firefly on mobile in Firefly.", "keywords": ["Technical requirements for Adobe Firefly on mobile"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

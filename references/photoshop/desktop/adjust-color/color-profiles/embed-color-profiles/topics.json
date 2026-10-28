@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Embed a color profile when saving", "file": "desktop/adjust-color/color-profiles/embed-color-profiles/embed-a-color-profile-when-saving.md", "summary": "Open when looking up Embed a color profile when saving in Photoshop.", "keywords": ["Embed a color profile when saving"]},
+  {"topic": "Verify if a color profile is embedded", "file": "desktop/adjust-color/color-profiles/embed-color-profiles/verify-if-a-color-profile-is-embedded.md", "summary": "Open when looking up Verify if a color profile is embedded in Photoshop.", "keywords": ["Verify if a color profile is embedded"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

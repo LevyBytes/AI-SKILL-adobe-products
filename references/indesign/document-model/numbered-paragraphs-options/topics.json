@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "EXCLUDE_NUMBERS", "file": "document-model/numbered-paragraphs-options/excludenumbers.md", "summary": "Open when looking up EXCLUDE_NUMBERS in InDesign.", "keywords": ["EXCLUDE_NUMBERS"]},
+  {"topic": "INCLUDE_FULL_PARAGRAPH", "file": "document-model/numbered-paragraphs-options/includefullparagraph.md", "summary": "Open when looking up INCLUDE_FULL_PARAGRAPH in InDesign.", "keywords": ["INCLUDE_FULL_PARAGRAPH"]},
+  {"topic": "INCLUDE_NUMBERS_ONLY", "file": "document-model/numbered-paragraphs-options/includenumbersonly.md", "summary": "Open when looking up INCLUDE_NUMBERS_ONLY in InDesign.", "keywords": ["INCLUDE_NUMBERS_ONLY"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

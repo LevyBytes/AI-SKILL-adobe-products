@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "What are the Composite Operations APIs?", "file": "cloud-services/composite-operations-apis/what-are-the-composite-operations-apis.md", "summary": "Open when looking up What are the Composite Operations APIs? in Firefly.", "keywords": ["What are the Composite Operations APIs?"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

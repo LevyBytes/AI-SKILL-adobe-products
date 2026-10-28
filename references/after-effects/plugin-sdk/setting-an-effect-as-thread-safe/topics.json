@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Multi-Frame Rendering in AE - Setting an Effect as Thread-safe", "file": "plugin-sdk/setting-an-effect-as-thread-safe/multi-frame-rendering-in-ae-setting-an-effect-as-thread-safe.md", "summary": "Open when looking up Multi-Frame Rendering in AE - Setting an Effect as Thread-safe in After Effects.", "keywords": ["Multi-Frame Rendering in AE - Setting an Effect as Thread-safe"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

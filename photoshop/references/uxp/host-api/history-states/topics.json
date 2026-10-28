@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "getByName", "file": "references/uxp/host-api/history-states/get-by-name.md", "summary": "Open when looking up getByName in Photoshop.", "keywords": ["getByName"]},
-  {"topic": "Indexable", "file": "references/uxp/host-api/history-states/indexable.md", "summary": "Open when looking up Indexable in Photoshop.", "keywords": ["Indexable"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

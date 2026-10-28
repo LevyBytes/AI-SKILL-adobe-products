@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Check GPU compatibility", "file": "desktop/troubleshoot/tools-and-resources/check-gpu-compatibility.md", "summary": "Open when looking up Check GPU compatibility in Photoshop.", "keywords": ["Check GPU compatibility"]},
+  {"topic": "Check GPU compatibility references", "file": "desktop/troubleshoot/tools-and-resources/check-gpu-compatibility/reference-index.md", "summary": "Open when looking up Check GPU compatibility in Photoshop.", "keywords": ["Check GPU compatibility references"]},
+  {"topic": "Set up and manage scratch disks", "file": "desktop/troubleshoot/tools-and-resources/set-up-and-manage-scratch-disks.md", "summary": "Open when looking up Set up and manage scratch disks in Photoshop.", "keywords": ["Set up and manage scratch disks"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

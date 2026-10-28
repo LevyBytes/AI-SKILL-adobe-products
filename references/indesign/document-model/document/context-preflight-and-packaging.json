@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "activeProcess", "file": "document-model/document/active-process.md", "summary": "Open when looking up activeProcess in InDesign.", "keywords": ["activeProcess"]},
+  {"topic": "packageForPrint", "file": "document-model/document/package-for-print.md", "summary": "Open when looking up packageForPrint in InDesign.", "keywords": ["packageForPrint"]},
+  {"topic": "preflightOptions", "file": "document-model/document/preflight-options.md", "summary": "Open when looking up preflightOptions in InDesign.", "keywords": ["preflightOptions"]},
+  {"topic": "preflightProfiles", "file": "document-model/document/preflight-profiles.md", "summary": "Open when looking up preflightProfiles in InDesign.", "keywords": ["preflightProfiles"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "CHARACTER_STYLE_TYPE", "file": "document-model/style-type/characterstyletype.md", "summary": "Open when looking up CHARACTER_STYLE_TYPE in InDesign.", "keywords": ["CHARACTER_STYLE_TYPE"]},
+  {"topic": "PARAGRAPH_STYLE_TYPE", "file": "document-model/style-type/paragraphstyletype.md", "summary": "Open when looking up PARAGRAPH_STYLE_TYPE in InDesign.", "keywords": ["PARAGRAPH_STYLE_TYPE"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

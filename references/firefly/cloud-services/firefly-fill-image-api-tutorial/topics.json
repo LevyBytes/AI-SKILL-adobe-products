@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Deepen your understanding", "file": "cloud-services/firefly-fill-image-api-tutorial/deepen-your-understanding.md", "summary": "Open when looking up Deepen your understanding in Firefly.", "keywords": ["Deepen your understanding"]},
+  {"topic": "Download the sample images", "file": "cloud-services/firefly-fill-image-api-tutorial/download-the-sample-images.md", "summary": "Open when looking up Download the sample images in Firefly.", "keywords": ["Download the sample images"]},
+  {"topic": "Full example", "file": "cloud-services/firefly-fill-image-api-tutorial/full-example.md", "summary": "Open when looking up Full example in Firefly.", "keywords": ["Full example"]},
+  {"topic": "Prerequisites", "file": "cloud-services/firefly-fill-image-api-tutorial/prerequisites.md", "summary": "Open when looking up Prerequisites in Firefly.", "keywords": ["Prerequisites"]},
+  {"topic": "Set up your environment", "file": "cloud-services/firefly-fill-image-api-tutorial/set-up-your-environment.md", "summary": "Open when looking up Set up your environment in Firefly.", "keywords": ["Set up your environment"]},
+  {"topic": "Step 1 - Upload the images", "file": "cloud-services/firefly-fill-image-api-tutorial/step-1-upload-the-images.md", "summary": "Open when looking up Step 1 - Upload the images in Firefly.", "keywords": ["Step 1 - Upload the images"]},
+  {"topic": "Step 2 - Write a background prompt", "file": "cloud-services/firefly-fill-image-api-tutorial/step-2-write-a-background-prompt.md", "summary": "Open when looking up Step 2 - Write a background prompt in Firefly.", "keywords": ["Step 2 - Write a background prompt"]},
+  {"topic": "Step 3 - Replace the backgrounds", "file": "cloud-services/firefly-fill-image-api-tutorial/step-3-replace-the-backgrounds.md", "summary": "Open when looking up Step 3 - Replace the backgrounds in Firefly.", "keywords": ["Step 3 - Replace the backgrounds"]},
+  {"topic": "Step 4 - Generate new backgrounds", "file": "cloud-services/firefly-fill-image-api-tutorial/step-4-generate-new-backgrounds.md", "summary": "Open when looking up Step 4 - Generate new backgrounds in Firefly.", "keywords": ["Step 4 - Generate new backgrounds"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

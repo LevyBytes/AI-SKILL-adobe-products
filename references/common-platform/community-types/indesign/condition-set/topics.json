@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "ConditionSet declaration", "file": "community-types/indesign/condition-set/declaration.md", "summary": "Open when looking up ConditionSet declaration in Shared Adobe platform.", "keywords": ["ConditionSet declaration"]},
+  {"topic": "ConditionSet event listeners", "file": "community-types/indesign/condition-set/event-listeners.md", "summary": "Open when looking up ConditionSet event listeners in Shared Adobe platform.", "keywords": ["ConditionSet event listeners"]},
+  {"topic": "ConditionSet identity and parent", "file": "community-types/indesign/condition-set/identity-and-parent.md", "summary": "Open when looking up ConditionSet identity and parent in Shared Adobe platform.", "keywords": ["ConditionSet identity and parent"]},
+  {"topic": "ConditionSet labels and metadata", "file": "community-types/indesign/condition-set/labels-and-metadata.md", "summary": "Open when looking up ConditionSet labels and metadata in Shared Adobe platform.", "keywords": ["ConditionSet labels and metadata"]},
+  {"topic": "ConditionSet object resolution", "file": "community-types/indesign/condition-set/object-resolution.md", "summary": "Open when looking up ConditionSet object resolution in Shared Adobe platform.", "keywords": ["ConditionSet object resolution"]},
+  {"topic": "ConditionSet.properties", "file": "community-types/indesign/condition-set/properties.md", "summary": "Open when looking up ConditionSet.properties in Shared Adobe platform.", "keywords": ["ConditionSet.properties"]},
+  {"topic": "ConditionSet.redefine", "file": "community-types/indesign/condition-set/redefine.md", "summary": "Open when looking up ConditionSet.redefine in Shared Adobe platform.", "keywords": ["ConditionSet.redefine"]},
+  {"topic": "ConditionSet.remove", "file": "community-types/indesign/condition-set/remove.md", "summary": "Open when looking up ConditionSet.remove in Shared Adobe platform.", "keywords": ["ConditionSet.remove"]},
+  {"topic": "ConditionSet.setConditions", "file": "community-types/indesign/condition-set/set-conditions.md", "summary": "Open when looking up ConditionSet.setConditions in Shared Adobe platform.", "keywords": ["ConditionSet.setConditions"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

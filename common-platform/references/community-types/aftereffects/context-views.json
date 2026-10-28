@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "FastPreviewType", "file": "references/community-types/aftereffects/fast-preview-type.md", "summary": "Open when looking up FastPreviewType in Shared Adobe platform.", "keywords": ["FastPreviewType"]},
-  {"topic": "ResolveType", "file": "references/community-types/aftereffects/resolve-type.md", "summary": "Open when looking up ResolveType in Shared Adobe platform.", "keywords": ["ResolveType"]},
-  {"topic": "View", "file": "references/community-types/aftereffects/view.md", "summary": "Open when looking up View in Shared Adobe platform.", "keywords": ["View"]},
-  {"topic": "Viewer", "file": "references/community-types/aftereffects/viewer.md", "summary": "Open when looking up Viewer in Shared Adobe platform.", "keywords": ["Viewer"]},
-  {"topic": "ViewerType", "file": "references/community-types/aftereffects/viewer-type.md", "summary": "Open when looking up ViewerType in Shared Adobe platform.", "keywords": ["ViewerType"]},
-  {"topic": "ViewOptions", "file": "references/community-types/aftereffects/view-options.md", "summary": "Open when looking up ViewOptions in Shared Adobe platform.", "keywords": ["ViewOptions"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

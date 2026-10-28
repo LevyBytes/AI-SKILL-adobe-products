@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Debugging Plug-ins", "file": "plugin-sdk/debugging-plug-ins.md", "summary": "Open when looking up Debugging Plug-ins in After Effects.", "keywords": ["Debugging Plug-ins"]},
+  {"topic": "Debugging Plug-ins references", "file": "plugin-sdk/debugging-plug-ins/reference-index.md", "summary": "Open when looking up Debugging Plug-ins in After Effects.", "keywords": ["Debugging Plug-ins references"]},
+  {"topic": "Deleting preferences references", "file": "plugin-sdk/deleting-preferences/reference-index.md", "summary": "Open when looking up Deleting preferences in After Effects.", "keywords": ["Deleting preferences references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "TextDefault.autoLeading", "file": "community-types/indesign/text-default/auto-leading.md", "summary": "Open when looking up TextDefault.autoLeading in Shared Adobe platform.", "keywords": ["TextDefault.autoLeading"]},
+  {"topic": "TextDefault.baselineShift", "file": "community-types/indesign/text-default/baseline-shift.md", "summary": "Open when looking up TextDefault.baselineShift in Shared Adobe platform.", "keywords": ["TextDefault.baselineShift"]},
+  {"topic": "TextDefault.characterRotation", "file": "community-types/indesign/text-default/character-rotation.md", "summary": "Open when looking up TextDefault.characterRotation in Shared Adobe platform.", "keywords": ["TextDefault.characterRotation"]},
+  {"topic": "TextDefault.horizontalScale", "file": "community-types/indesign/text-default/horizontal-scale.md", "summary": "Open when looking up TextDefault.horizontalScale in Shared Adobe platform.", "keywords": ["TextDefault.horizontalScale"]},
+  {"topic": "TextDefault.kerningMethod", "file": "community-types/indesign/text-default/kerning-method.md", "summary": "Open when looking up TextDefault.kerningMethod in Shared Adobe platform.", "keywords": ["TextDefault.kerningMethod"]},
+  {"topic": "TextDefault.leading", "file": "community-types/indesign/text-default/leading.md", "summary": "Open when looking up TextDefault.leading in Shared Adobe platform.", "keywords": ["TextDefault.leading"]},
+  {"topic": "TextDefault.leadingModel", "file": "community-types/indesign/text-default/leading-model.md", "summary": "Open when looking up TextDefault.leadingModel in Shared Adobe platform.", "keywords": ["TextDefault.leadingModel"]},
+  {"topic": "TextDefault.position", "file": "community-types/indesign/text-default/position.md", "summary": "Open when looking up TextDefault.position in Shared Adobe platform.", "keywords": ["TextDefault.position"]},
+  {"topic": "TextDefault.scaleAffectsLineHeight", "file": "community-types/indesign/text-default/scale-affects-line-height.md", "summary": "Open when looking up TextDefault.scaleAffectsLineHeight in Shared Adobe platform.", "keywords": ["TextDefault.scaleAffectsLineHeight"]},
+  {"topic": "TextDefault.skew", "file": "community-types/indesign/text-default/skew.md", "summary": "Open when looking up TextDefault.skew in Shared Adobe platform.", "keywords": ["TextDefault.skew"]},
+  {"topic": "TextDefault.tracking", "file": "community-types/indesign/text-default/tracking.md", "summary": "Open when looking up TextDefault.tracking in Shared Adobe platform.", "keywords": ["TextDefault.tracking"]},
+  {"topic": "TextDefault.verticalScale", "file": "community-types/indesign/text-default/vertical-scale.md", "summary": "Open when looking up TextDefault.verticalScale in Shared Adobe platform.", "keywords": ["TextDefault.verticalScale"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

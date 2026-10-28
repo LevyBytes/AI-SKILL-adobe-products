@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "imageTypeName", "file": "references/document-model/svg/image-type-name.md", "summary": "Open when looking up imageTypeName in InDesign.", "keywords": ["imageTypeName"]},
-  {"topic": "useSVGAs", "file": "references/document-model/svg/use-svg-as.md", "summary": "Open when looking up useSVGAs in InDesign.", "keywords": ["useSVGAs"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

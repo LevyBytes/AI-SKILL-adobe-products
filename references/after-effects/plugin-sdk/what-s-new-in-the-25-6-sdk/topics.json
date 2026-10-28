@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Windows on Arm Support", "file": "plugin-sdk/what-s-new-in-the-25-6-sdk/windows-on-arm-support.md", "summary": "Open when looking up Windows on Arm Support in After Effects.", "keywords": ["Windows on Arm Support"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

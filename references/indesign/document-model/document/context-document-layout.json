@@ -1,0 +1,18 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "activeLayer", "file": "document-model/document/active-layer.md", "summary": "Open when looking up activeLayer in InDesign.", "keywords": ["activeLayer"]},
+  {"topic": "adjustLayout", "file": "document-model/document/adjust-layout.md", "summary": "Open when looking up adjustLayout in InDesign.", "keywords": ["adjustLayout"]},
+  {"topic": "adjustLayoutPreferences", "file": "document-model/document/adjust-layout-preferences.md", "summary": "Open when looking up adjustLayoutPreferences in InDesign.", "keywords": ["adjustLayoutPreferences"]},
+  {"topic": "createAlternateLayout", "file": "document-model/document/create-alternate-layout.md", "summary": "Open when looking up createAlternateLayout in InDesign.", "keywords": ["createAlternateLayout"]},
+  {"topic": "deleteAlternateLayout", "file": "document-model/document/delete-alternate-layout.md", "summary": "Open when looking up deleteAlternateLayout in InDesign.", "keywords": ["deleteAlternateLayout"]},
+  {"topic": "documentPreferences", "file": "document-model/document/document-preferences.md", "summary": "Open when looking up documentPreferences in InDesign.", "keywords": ["documentPreferences"]},
+  {"topic": "layers", "file": "document-model/document/layers.md", "summary": "Open when looking up layers in InDesign.", "keywords": ["layers"]},
+  {"topic": "loadMasters", "file": "document-model/document/load-masters.md", "summary": "Open when looking up loadMasters in InDesign.", "keywords": ["loadMasters"]},
+  {"topic": "masterSpreads", "file": "document-model/document/master-spreads.md", "summary": "Open when looking up masterSpreads in InDesign.", "keywords": ["masterSpreads"]},
+  {"topic": "pageItemDefaults", "file": "document-model/document/page-item-defaults.md", "summary": "Open when looking up pageItemDefaults in InDesign.", "keywords": ["pageItemDefaults"]},
+  {"topic": "pages", "file": "document-model/document/pages.md", "summary": "Open when looking up pages in InDesign.", "keywords": ["pages"]},
+  {"topic": "sections", "file": "document-model/document/sections.md", "summary": "Open when looking up sections in InDesign.", "keywords": ["sections"]},
+  {"topic": "spreads", "file": "document-model/document/spreads.md", "summary": "Open when looking up spreads in InDesign.", "keywords": ["spreads"]},
+  {"topic": "watermarkPreferences", "file": "document-model/document/watermark-preferences.md", "summary": "Open when looking up watermarkPreferences in InDesign.", "keywords": ["watermarkPreferences"]},
+  {"topic": "zeroPoint", "file": "document-model/document/zero-point.md", "summary": "Open when looking up zeroPoint in InDesign.", "keywords": ["zeroPoint"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

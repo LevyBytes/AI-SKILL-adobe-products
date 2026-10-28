@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Correct auto-generated transcript text in Firefly video editor", "file": "web/correct-transcript/video-transcript-correction.md", "summary": "Open when looking up Correct auto-generated transcript text in Firefly video editor in Firefly.", "keywords": ["Correct auto-generated transcript text in Firefly video editor"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

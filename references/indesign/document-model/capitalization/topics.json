@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "ALL_CAPS", "file": "document-model/capitalization/allcaps.md", "summary": "Open when looking up ALL_CAPS in InDesign.", "keywords": ["ALL_CAPS"]},
+  {"topic": "CAP_TO_SMALL_CAP", "file": "document-model/capitalization/captosmallcap.md", "summary": "Open when looking up CAP_TO_SMALL_CAP in InDesign.", "keywords": ["CAP_TO_SMALL_CAP"]},
+  {"topic": "LOWER_CASE", "file": "document-model/capitalization/lowercase.md", "summary": "Open when looking up LOWER_CASE in InDesign.", "keywords": ["LOWER_CASE"]},
+  {"topic": "NORMAL", "file": "document-model/capitalization/normal.md", "summary": "Open when looking up NORMAL in InDesign.", "keywords": ["NORMAL"]},
+  {"topic": "SENTENCE_CASE", "file": "document-model/capitalization/sentencecase.md", "summary": "Open when looking up SENTENCE_CASE in InDesign.", "keywords": ["SENTENCE_CASE"]},
+  {"topic": "SMALL_CAPS", "file": "document-model/capitalization/smallcaps.md", "summary": "Open when looking up SMALL_CAPS in InDesign.", "keywords": ["SMALL_CAPS"]},
+  {"topic": "TITLE_CASE", "file": "document-model/capitalization/titlecase.md", "summary": "Open when looking up TITLE_CASE in InDesign.", "keywords": ["TITLE_CASE"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

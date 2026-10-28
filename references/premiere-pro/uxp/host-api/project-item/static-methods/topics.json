@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "cast", "file": "uxp/host-api/project-item/static-methods/cast.md", "summary": "Open when looking up cast in Premiere Pro.", "keywords": ["cast"]},
+  {"topic": "createSetColorLabelAction", "file": "uxp/host-api/project-item/static-methods/create-set-color-label-action.md", "summary": "Open when looking up createSetColorLabelAction in Premiere Pro.", "keywords": ["createSetColorLabelAction"]},
+  {"topic": "createSetNameAction", "file": "uxp/host-api/project-item/static-methods/create-set-name-action.md", "summary": "Open when looking up createSetNameAction in Premiere Pro.", "keywords": ["createSetNameAction"]},
+  {"topic": "getColorLabelIndex", "file": "uxp/host-api/project-item/static-methods/get-color-label-index.md", "summary": "Open when looking up getColorLabelIndex in Premiere Pro.", "keywords": ["getColorLabelIndex"]},
+  {"topic": "getId", "file": "uxp/host-api/project-item/static-methods/get-id.md", "summary": "Open when looking up getId in Premiere Pro.", "keywords": ["getId"]},
+  {"topic": "getParentBin", "file": "uxp/host-api/project-item/static-methods/get-parent-bin.md", "summary": "Open when looking up getParentBin in Premiere Pro.", "keywords": ["getParentBin"]},
+  {"topic": "getProject", "file": "uxp/host-api/project-item/static-methods/get-project.md", "summary": "Open when looking up getProject in Premiere Pro.", "keywords": ["getProject"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

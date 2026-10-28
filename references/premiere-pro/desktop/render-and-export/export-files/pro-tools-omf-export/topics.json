@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Best practices for importing OMF files into Pro Tools", "file": "desktop/render-and-export/export-files/pro-tools-omf-export/best-practices-for-importing-omf-files-into-pro-tools.md", "summary": "Open when looking up Best practices for importing OMF files into Pro Tools in Premiere Pro.", "keywords": ["Best practices for importing OMF files into Pro Tools"]},
+  {"topic": "Supported features in OMF files", "file": "desktop/render-and-export/export-files/pro-tools-omf-export/supported-features-in-omf-files.md", "summary": "Open when looking up Supported features in OMF files in Premiere Pro.", "keywords": ["Supported features in OMF files"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

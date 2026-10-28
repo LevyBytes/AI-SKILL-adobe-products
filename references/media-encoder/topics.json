@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/media-encoder", "topics": [
+  {"topic": "Automation examples references", "file": "automation/reference-index.md", "summary": "Open when looking up Automation examples in Media Encoder.", "keywords": ["Automation examples references"]},
+  {"topic": "Desktop workflows references", "file": "desktop/reference-index.md", "summary": "Open when looking up Desktop workflows in Media Encoder.", "keywords": ["Desktop workflows references"]},
+  {"topic": "Scripting APIs references", "file": "scripting/reference-index.md", "summary": "Open when looking up Scripting APIs in Media Encoder.", "keywords": ["Scripting APIs references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

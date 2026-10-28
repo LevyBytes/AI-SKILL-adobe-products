@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "V1 replacement form", "file": "cloud-services/replacing-layer-content/v1-replacement-form.md", "summary": "Open when looking up V1 replacement form in Photoshop.", "keywords": ["V1 replacement form"]},
+  {"topic": "V2 replacement form", "file": "cloud-services/replacing-layer-content/v2-replacement-form.md", "summary": "Open when looking up V2 replacement form in Photoshop.", "keywords": ["V2 replacement form"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

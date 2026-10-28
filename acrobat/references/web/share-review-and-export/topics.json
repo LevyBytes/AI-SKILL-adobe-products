@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Export and print", "file": "references/web/share-review-and-export/export-and-print.md", "summary": "Open when looking up Export and print in Acrobat.", "keywords": ["Export and print"]},
-  {"topic": "Export and print references", "file": "references/web/share-review-and-export/export-and-print/reference-index.md", "summary": "Open when looking up Export and print in Acrobat.", "keywords": ["Export and print references"]},
-  {"topic": "Review PDFs", "file": "references/web/share-review-and-export/review-pdfs.md", "summary": "Open when looking up Review PDFs in Acrobat.", "keywords": ["Review PDFs"]},
-  {"topic": "Review PDFs references", "file": "references/web/share-review-and-export/review-pdfs/reference-index.md", "summary": "Open when looking up Review PDFs in Acrobat.", "keywords": ["Review PDFs references"]},
-  {"topic": "Share documents", "file": "references/web/share-review-and-export/share-documents.md", "summary": "Open when looking up Share documents in Acrobat.", "keywords": ["Share documents"]},
-  {"topic": "Share documents references", "file": "references/web/share-review-and-export/share-documents/reference-index.md", "summary": "Open when looking up Share documents in Acrobat.", "keywords": ["Share documents references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

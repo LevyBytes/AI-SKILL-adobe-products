@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Create video quick cuts", "file": "web/firefly-video-editor-beta/create-quick-cut/create-video-quick-cuts.md", "summary": "Open when looking up Create video quick cuts in Firefly.", "keywords": ["Create video quick cuts"]},
+  {"topic": "Quick Cut overview", "file": "web/firefly-video-editor-beta/create-quick-cut/quick-cut-overview.md", "summary": "Open when looking up Quick Cut overview in Firefly.", "keywords": ["Quick Cut overview"]},
+  {"topic": "Writing effective text prompts for quick cut", "file": "web/firefly-video-editor-beta/create-quick-cut/writing-effective-text-prompts-for-quick-cut.md", "summary": "Open when looking up Writing effective text prompts for quick cut in Firefly.", "keywords": ["Writing effective text prompts for quick cut"]},
+  {"topic": "Writing effective text prompts for quick cut references", "file": "web/firefly-video-editor-beta/create-quick-cut/writing-effective-text-prompts-for-quick-cut/reference-index.md", "summary": "Open when looking up Writing effective text prompts for quick cut in Firefly.", "keywords": ["Writing effective text prompts for quick cut references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

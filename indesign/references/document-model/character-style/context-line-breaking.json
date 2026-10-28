@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "noBreak", "file": "references/document-model/character-style/no-break.md", "summary": "Open when looking up noBreak in InDesign.", "keywords": ["noBreak"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

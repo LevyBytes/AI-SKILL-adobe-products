@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Access and modify contours", "file": "desktop/layers/apply-layer-effects/manage-contours/access-and-modify-contours.md", "summary": "Open when looking up Access and modify contours in Photoshop.", "keywords": ["Access and modify contours"]},
+  {"topic": "Understand contour applications", "file": "desktop/layers/apply-layer-effects/manage-contours/understand-contour-applications.md", "summary": "Open when looking up Understand contour applications in Photoshop.", "keywords": ["Understand contour applications"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

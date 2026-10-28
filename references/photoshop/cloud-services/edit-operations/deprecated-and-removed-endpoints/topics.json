@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Coming soon", "file": "cloud-services/edit-operations/deprecated-and-removed-endpoints/coming-soon.md", "summary": "Open when looking up Coming soon in Photoshop.", "keywords": ["Coming soon"]},
+  {"topic": "Deprecated endpoints", "file": "cloud-services/edit-operations/deprecated-and-removed-endpoints/deprecated-endpoints.md", "summary": "Open when looking up Deprecated endpoints in Photoshop.", "keywords": ["Deprecated endpoints"]},
+  {"topic": "Removed endpoints", "file": "cloud-services/edit-operations/deprecated-and-removed-endpoints/removed-endpoints.md", "summary": "Open when looking up Removed endpoints in Photoshop.", "keywords": ["Removed endpoints"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

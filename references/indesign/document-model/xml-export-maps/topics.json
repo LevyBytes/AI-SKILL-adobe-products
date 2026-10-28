@@ -1,0 +1,17 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "add", "file": "document-model/xml-export-maps/add.md", "summary": "Open when looking up add in InDesign.", "keywords": ["add"]},
+  {"topic": "length", "file": "document-model/xml-export-maps/length.md", "summary": "Open when looking up length in InDesign.", "keywords": ["length"]},
+  {"topic": "count", "file": "document-model/xml-export-maps/count.md", "summary": "Open when looking up count in InDesign.", "keywords": ["count"]},
+  {"topic": "item", "file": "document-model/xml-export-maps/item.md", "summary": "Open when looking up item in InDesign.", "keywords": ["item"]},
+  {"topic": "Indexed item access", "file": "document-model/xml-export-maps/indexed-item-access.md", "summary": "Open when accessing an item by its numeric collection index.", "keywords": ["collection index"]},
+  {"topic": "itemByRange", "file": "document-model/xml-export-maps/item-by-range.md", "summary": "Open when looking up itemByRange in InDesign.", "keywords": ["itemByRange"]},
+  {"topic": "everyItem", "file": "document-model/xml-export-maps/every-item.md", "summary": "Open when looking up everyItem in InDesign.", "keywords": ["everyItem"]},
+  {"topic": "firstItem", "file": "document-model/xml-export-maps/first-item.md", "summary": "Open when looking up firstItem in InDesign.", "keywords": ["firstItem"]},
+  {"topic": "lastItem", "file": "document-model/xml-export-maps/last-item.md", "summary": "Open when looking up lastItem in InDesign.", "keywords": ["lastItem"]},
+  {"topic": "middleItem", "file": "document-model/xml-export-maps/middle-item.md", "summary": "Open when looking up middleItem in InDesign.", "keywords": ["middleItem"]},
+  {"topic": "nextItem", "file": "document-model/xml-export-maps/next-item.md", "summary": "Open when looking up nextItem in InDesign.", "keywords": ["nextItem"]},
+  {"topic": "previousItem", "file": "document-model/xml-export-maps/previous-item.md", "summary": "Open when looking up previousItem in InDesign.", "keywords": ["previousItem"]},
+  {"topic": "anyItem", "file": "document-model/xml-export-maps/any-item.md", "summary": "Open when looking up anyItem in InDesign.", "keywords": ["anyItem"]},
+  {"topic": "toSource", "file": "document-model/xml-export-maps/to-source.md", "summary": "Open when looking up toSource in InDesign.", "keywords": ["toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "window.NamedNodeMap - getNamedItem(name)", "file": "uxp/named-node-map/get-named-item.md", "summary": "Open when looking up window.NamedNodeMap - getNamedItem(name) in InDesign.", "keywords": ["window.NamedNodeMap - getNamedItem(name)"]},
+  {"topic": "window.NamedNodeMap - item(index)", "file": "uxp/named-node-map/item.md", "summary": "Open when looking up window.NamedNodeMap - item(index) in InDesign.", "keywords": ["window.NamedNodeMap - item(index)"]},
+  {"topic": "window.NamedNodeMap - NamedNodeMap(node)", "file": "uxp/named-node-map/constructor.md", "summary": "Open when looking up window.NamedNodeMap - NamedNodeMap(node) in InDesign.", "keywords": ["window.NamedNodeMap - NamedNodeMap(node)"]},
+  {"topic": "window.NamedNodeMap - removeNamedItem(name)", "file": "uxp/named-node-map/remove-named-item.md", "summary": "Open when looking up window.NamedNodeMap - removeNamedItem(name) in InDesign.", "keywords": ["window.NamedNodeMap - removeNamedItem(name)"]},
+  {"topic": "window.NamedNodeMap - setNamedItem(attr)", "file": "uxp/named-node-map/set-named-item.md", "summary": "Open when looking up window.NamedNodeMap - setNamedItem(attr) in InDesign.", "keywords": ["window.NamedNodeMap - setNamedItem(attr)"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

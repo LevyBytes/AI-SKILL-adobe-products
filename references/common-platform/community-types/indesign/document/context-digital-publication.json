@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Document.getAlternateLayoutsForFolio", "file": "community-types/indesign/document/get-alternate-layouts-for-folio.md", "summary": "Open when looking up Document.getAlternateLayoutsForFolio in Shared Adobe platform.", "keywords": ["Document.getAlternateLayoutsForFolio"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

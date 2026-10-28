@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "ALL_IMAGE_DATA", "file": "references/document-model/image-data-types/allimagedata.md", "summary": "Open when looking up ALL_IMAGE_DATA in InDesign.", "keywords": ["ALL_IMAGE_DATA"]},
-  {"topic": "NONE", "file": "references/document-model/image-data-types/none.md", "summary": "Open when looking up NONE in InDesign.", "keywords": ["NONE"]},
-  {"topic": "OPTIMIZED_SUBSAMPLING", "file": "references/document-model/image-data-types/optimizedsubsampling.md", "summary": "Open when looking up OPTIMIZED_SUBSAMPLING in InDesign.", "keywords": ["OPTIMIZED_SUBSAMPLING"]},
-  {"topic": "PROXY_IMAGE_DATA", "file": "references/document-model/image-data-types/proxyimagedata.md", "summary": "Open when looking up PROXY_IMAGE_DATA in InDesign.", "keywords": ["PROXY_IMAGE_DATA"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

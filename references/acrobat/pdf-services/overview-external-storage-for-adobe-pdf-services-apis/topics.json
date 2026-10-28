@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Provider selection", "file": "pdf-services/overview-external-storage-for-adobe-pdf-services-apis/overview-supported-external-storage-solutions.md", "summary": "Open when selecting a provider and distinguishing input reads from output writes.", "keywords": ["Overview - Supported External Storage Solutions"]},
+  {"topic": "Transport constraints", "file": "pdf-services/overview-external-storage-for-adobe-pdf-services-apis/overview-limitation.md", "summary": "Open when rejecting redirects and choosing a direct HTTPS transfer URL.", "keywords": ["Overview - Limitation"]},
+  {"topic": "Supported host patterns", "file": "pdf-services/overview-external-storage-for-adobe-pdf-services-apis/supported-url-prefixes.md", "summary": "Open when checking whether a signed URL uses a documented storage host.", "keywords": ["Supported URL Prefixes"]},
+  {"topic": "Amazon S3", "file": "pdf-services/overview-external-storage-for-adobe-pdf-services-apis/amazon-s3.md", "summary": "Open when signing a bucket object for the required method and lifetime.", "keywords": ["Amazon S3"]},
+  {"topic": "Azure Blob", "file": "pdf-services/overview-external-storage-for-adobe-pdf-services-apis/azure-blob.md", "summary": "Open when granting scoped read or write access through a SAS.", "keywords": ["Azure Blob"]},
+  {"topic": "Dropbox", "file": "pdf-services/overview-external-storage-for-adobe-pdf-services-apis/dropbox.md", "summary": "Open when choosing temporary input or one-use output links.", "keywords": ["Dropbox"]},
+  {"topic": "SharePoint", "file": "pdf-services/overview-external-storage-for-adobe-pdf-services-apis/share-point.md", "summary": "Open when obtaining preauthenticated file or upload-session URLs.", "keywords": ["SharePoint"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when selecting a reference language.", "keywords": ["reference language", "translated references"]}
+]}

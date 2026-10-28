@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Anti aliasing method references", "file": "scripting/anti-aliasing-method/reference-index.md", "summary": "Open when looking up Anti aliasing method in Illustrator.", "keywords": ["Anti aliasing method references"]},
+  {"topic": "Document raster resolution references", "file": "scripting/document-raster-resolution/reference-index.md", "summary": "Open when looking up Document raster resolution in Illustrator.", "keywords": ["Document raster resolution references"]},
+  {"topic": "ImageCaptureOptions", "file": "scripting/image-capture-options.md", "summary": "Open when looking up ImageCaptureOptions in Illustrator.", "keywords": ["ImageCaptureOptions"]},
+  {"topic": "ImageCaptureOptions references", "file": "scripting/image-capture-options/reference-index.md", "summary": "Open when looking up ImageCaptureOptions in Illustrator.", "keywords": ["ImageCaptureOptions references"]},
+  {"topic": "Image color space references", "file": "scripting/image-color-space/reference-index.md", "summary": "Open when looking up Image color space in Illustrator.", "keywords": ["Image color space references"]},
+  {"topic": "RasterEffectOptions", "file": "scripting/raster-effect-options.md", "summary": "Open when looking up RasterEffectOptions in Illustrator.", "keywords": ["RasterEffectOptions"]},
+  {"topic": "RasterEffectOptions references", "file": "scripting/raster-effect-options/reference-index.md", "summary": "Open when looking up RasterEffectOptions in Illustrator.", "keywords": ["RasterEffectOptions references"]},
+  {"topic": "Rasterization color model references", "file": "scripting/rasterization-color-model/reference-index.md", "summary": "Open when looking up Rasterization color model in Illustrator.", "keywords": ["Rasterization color model references"]},
+  {"topic": "RasterizeOptions", "file": "scripting/rasterize-options.md", "summary": "Open when looking up RasterizeOptions in Illustrator.", "keywords": ["RasterizeOptions"]},
+  {"topic": "RasterizeOptions references", "file": "scripting/rasterize-options/reference-index.md", "summary": "Open when looking up RasterizeOptions in Illustrator.", "keywords": ["RasterizeOptions references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

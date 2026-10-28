@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "Implementation - Entry Point", "file": "references/plugin-sdk/entry-point/implementation-entry-point.md", "summary": "Open when looking up Implementation - Entry Point in After Effects.", "keywords": ["Implementation - Entry Point"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Measure distances and areas", "file": "desktop/edit-documents/geospatial-pdfs/calculate-distances-and-areas-on-geospatial-pdfs/measure-distances-and-areas.md", "summary": "Open when looking up Measure distances and areas in Acrobat.", "keywords": ["Measure distances and areas"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

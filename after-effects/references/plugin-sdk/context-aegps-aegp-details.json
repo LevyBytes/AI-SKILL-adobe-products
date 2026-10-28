@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "Accessing pixels from effect layer parameters references", "file": "references/plugin-sdk/accessing-pixels-from-effect-layer-parameters/reference-index.md", "summary": "Open when looking up Accessing pixels from effect layer parameters in After Effects.", "keywords": ["Accessing pixels from effect layer parameters references"]},
-  {"topic": "AEGP Details", "file": "references/plugin-sdk/aegp-details.md", "summary": "Open when looking up AEGP Details in After Effects.", "keywords": ["AEGP Details"]},
-  {"topic": "Modifying items in the render queue references", "file": "references/plugin-sdk/modifying-items-in-the-render-queue/reference-index.md", "summary": "Open when looking up Modifying items in the render queue in After Effects.", "keywords": ["Modifying items in the render queue references"]},
-  {"topic": "Names and solids references", "file": "references/plugin-sdk/names-and-solids/reference-index.md", "summary": "Open when looking up Names and solids in After Effects.", "keywords": ["Names and solids references"]},
-  {"topic": "Reporting errors and problems references", "file": "references/plugin-sdk/reporting-errors-and-problems/reference-index.md", "summary": "Open when looking up Reporting errors and problems in After Effects.", "keywords": ["Reporting errors and problems references"]},
-  {"topic": "Transforms what happens first references", "file": "references/plugin-sdk/transforms-what-happens-first/reference-index.md", "summary": "Open when looking up Transforms what happens first in After Effects.", "keywords": ["Transforms what happens first references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

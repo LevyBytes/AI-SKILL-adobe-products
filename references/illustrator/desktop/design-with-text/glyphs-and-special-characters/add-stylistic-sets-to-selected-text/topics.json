@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Add stylistic sets to a character", "file": "desktop/design-with-text/glyphs-and-special-characters/add-stylistic-sets-to-selected-text/add-stylistic-sets-to-a-character.md", "summary": "Open when looking up Add stylistic sets to a character in Illustrator.", "keywords": ["Add stylistic sets to a character"]},
+  {"topic": "Add stylistic sets to a paragraph style", "file": "desktop/design-with-text/glyphs-and-special-characters/add-stylistic-sets-to-selected-text/add-stylistic-sets-to-a-paragraph-style.md", "summary": "Open when looking up Add stylistic sets to a paragraph style in Illustrator.", "keywords": ["Add stylistic sets to a paragraph style"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

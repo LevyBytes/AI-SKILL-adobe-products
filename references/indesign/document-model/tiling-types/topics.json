@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "AUTO", "file": "document-model/tiling-types/auto.md", "summary": "Open when looking up AUTO in InDesign.", "keywords": ["AUTO"]},
+  {"topic": "AUTO_JUSTIFIED", "file": "document-model/tiling-types/autojustified.md", "summary": "Open when looking up AUTO_JUSTIFIED in InDesign.", "keywords": ["AUTO_JUSTIFIED"]},
+  {"topic": "MANUAL", "file": "document-model/tiling-types/manual.md", "summary": "Open when looking up MANUAL in InDesign.", "keywords": ["MANUAL"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

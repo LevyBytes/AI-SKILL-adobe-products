@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Kinsoku sets", "file": "references/desktop/design-with-text/work-with-fonts-and-scripts/mojikumi-and-kinsoku-settings-in-illustrator/kinsoku-sets.md", "summary": "Open when looking up Kinsoku sets in Illustrator.", "keywords": ["Kinsoku sets"]},
-  {"topic": "Kinsoku Shori types", "file": "references/desktop/design-with-text/work-with-fonts-and-scripts/mojikumi-and-kinsoku-settings-in-illustrator/kinsoku-shori-types.md", "summary": "Open when looking up Kinsoku Shori types in Illustrator.", "keywords": ["Kinsoku Shori types"]},
-  {"topic": "Mojikumi settings options", "file": "references/desktop/design-with-text/work-with-fonts-and-scripts/mojikumi-and-kinsoku-settings-in-illustrator/mojikumi-settings-options.md", "summary": "Open when looking up Mojikumi settings options in Illustrator.", "keywords": ["Mojikumi settings options"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

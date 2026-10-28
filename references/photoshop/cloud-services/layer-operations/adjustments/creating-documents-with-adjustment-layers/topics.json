@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "V1 approach: documentCreate", "file": "cloud-services/layer-operations/adjustments/creating-documents-with-adjustment-layers/v1-approach-document-create.md", "summary": "Open when looking up V1 approach: documentCreate in Photoshop.", "keywords": ["V1 approach: documentCreate"]},
+  {"topic": "V2 approach", "file": "cloud-services/layer-operations/adjustments/creating-documents-with-adjustment-layers/v2-approach.md", "summary": "Open when looking up V2 approach in Photoshop.", "keywords": ["V2 approach"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

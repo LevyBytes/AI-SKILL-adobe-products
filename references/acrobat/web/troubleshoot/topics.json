@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Feature issues", "file": "web/troubleshoot/feature-issues.md", "summary": "Open when looking up Feature issues in Acrobat.", "keywords": ["Feature issues"]},
+  {"topic": "Feature issues references", "file": "web/troubleshoot/feature-issues/reference-index.md", "summary": "Open when looking up Feature issues in Acrobat.", "keywords": ["Feature issues references"]},
+  {"topic": "Installation issues", "file": "web/troubleshoot/installation-issues.md", "summary": "Open when looking up Installation issues in Acrobat.", "keywords": ["Installation issues"]},
+  {"topic": "Limitations and known issues", "file": "web/troubleshoot/limitations-and-known-issues.md", "summary": "Open when looking up Limitations and known issues in Acrobat.", "keywords": ["Limitations and known issues"]},
+  {"topic": "Limitations and known issues references", "file": "web/troubleshoot/limitations-and-known-issues/reference-index.md", "summary": "Open when looking up Limitations and known issues in Acrobat.", "keywords": ["Limitations and known issues references"]},
+  {"topic": "Printing issues", "file": "web/troubleshoot/printing-issues.md", "summary": "Open when looking up Printing issues in Acrobat.", "keywords": ["Printing issues"]},
+  {"topic": "Printing issues references", "file": "web/troubleshoot/printing-issues/reference-index.md", "summary": "Open when looking up Printing issues in Acrobat.", "keywords": ["Printing issues references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

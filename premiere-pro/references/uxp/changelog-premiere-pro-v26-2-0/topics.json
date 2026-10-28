@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Documentation update", "file": "references/uxp/changelog-premiere-pro-v26-2-0/documentation-update.md", "summary": "Open when looking up Documentation update in Premiere Pro.", "keywords": ["Documentation update"]},
-  {"topic": "Getting Started", "file": "references/uxp/changelog-premiere-pro-v26-2-0/getting-started.md", "summary": "Open when looking up Getting Started in Premiere Pro.", "keywords": ["Getting Started"]},
-  {"topic": "Initial Public Beta Release for UXP in Premiere Pro", "file": "references/uxp/changelog-premiere-pro-v26-2-0/initial-public-beta-release-for-uxp-in-premiere-pro.md", "summary": "Open when looking up Initial Public Beta Release for UXP in Premiere Pro in Premiere Pro.", "keywords": ["Initial Public Beta Release for UXP in Premiere Pro"]},
-  {"topic": "Known Issues", "file": "references/uxp/changelog-premiere-pro-v26-2-0/known-issues.md", "summary": "Open when looking up Known Issues in Premiere Pro.", "keywords": ["Known Issues"]},
-  {"topic": "New Features", "file": "references/uxp/changelog-premiere-pro-v26-2-0/new-features.md", "summary": "Open when looking up New Features in Premiere Pro.", "keywords": ["New Features"]},
-  {"topic": "UXP Hybrid Plugin Support", "file": "references/uxp/changelog-premiere-pro-v26-2-0/uxp-hybrid-plugin-support.md", "summary": "Open when looking up UXP Hybrid Plugin Support in Premiere Pro.", "keywords": ["UXP Hybrid Plugin Support"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

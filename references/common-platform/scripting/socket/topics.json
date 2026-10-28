@@ -1,0 +1,18 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Socket Object", "file": "scripting/socket/socket-object.md", "summary": "Open when looking up Socket Object in Shared Adobe platform.", "keywords": ["Socket Object"]},
+  {"topic": "Socket.close()", "file": "scripting/socket/close.md", "summary": "Open when looking up Socket.close() in Shared Adobe platform.", "keywords": ["Socket.close()"]},
+  {"topic": "Socket.connected", "file": "scripting/socket/connected.md", "summary": "Open when looking up Socket.connected in Shared Adobe platform.", "keywords": ["Socket.connected"]},
+  {"topic": "Socket.encoding", "file": "scripting/socket/encoding.md", "summary": "Open when looking up Socket.encoding in Shared Adobe platform.", "keywords": ["Socket.encoding"]},
+  {"topic": "Socket.eof", "file": "scripting/socket/eof.md", "summary": "Open when looking up Socket.eof in Shared Adobe platform.", "keywords": ["Socket.eof"]},
+  {"topic": "Socket.error", "file": "scripting/socket/error.md", "summary": "Open when looking up Socket.error in Shared Adobe platform.", "keywords": ["Socket.error"]},
+  {"topic": "Socket.host", "file": "scripting/socket/host.md", "summary": "Open when looking up Socket.host in Shared Adobe platform.", "keywords": ["Socket.host"]},
+  {"topic": "Socket.listen()", "file": "scripting/socket/listen.md", "summary": "Open when looking up Socket.listen() in Shared Adobe platform.", "keywords": ["Socket.listen()"]},
+  {"topic": "Socket.open()", "file": "scripting/socket/open.md", "summary": "Open when looking up Socket.open() in Shared Adobe platform.", "keywords": ["Socket.open()"]},
+  {"topic": "Socket.poll()", "file": "scripting/socket/poll.md", "summary": "Open when looking up Socket.poll() in Shared Adobe platform.", "keywords": ["Socket.poll()"]},
+  {"topic": "Socket.read()", "file": "scripting/socket/read.md", "summary": "Open when looking up Socket.read() in Shared Adobe platform.", "keywords": ["Socket.read()"]},
+  {"topic": "Socket.readln()", "file": "scripting/socket/readln.md", "summary": "Open when looking up Socket.readln() in Shared Adobe platform.", "keywords": ["Socket.readln()"]},
+  {"topic": "Socket.timeout", "file": "scripting/socket/timeout.md", "summary": "Open when looking up Socket.timeout in Shared Adobe platform.", "keywords": ["Socket.timeout"]},
+  {"topic": "Socket.write()", "file": "scripting/socket/write.md", "summary": "Open when looking up Socket.write() in Shared Adobe platform.", "keywords": ["Socket.write()"]},
+  {"topic": "Socket.writeln()", "file": "scripting/socket/writeln.md", "summary": "Open when looking up Socket.writeln() in Shared Adobe platform.", "keywords": ["Socket.writeln()"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

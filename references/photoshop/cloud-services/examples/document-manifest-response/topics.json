@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Document manifest response", "file": "cloud-services/examples/document-manifest-response/response-structure.md", "summary": "Open when looking up Document manifest response in Photoshop.", "keywords": ["Document manifest response"]},
+  {"topic": "read-response.cjs", "file": "cloud-services/examples/document-manifest-response/read-response.cjs", "summary": "Open when looking up read-response.cjs in Photoshop.", "keywords": ["read-response.cjs"]},
+  {"topic": "response-metadata.json", "file": "cloud-services/examples/document-manifest-response/response-metadata.json", "summary": "Open when looking up response-metadata.json in Photoshop.", "keywords": ["response-metadata.json"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

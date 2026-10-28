@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "firefly", "topics": [
-  {"topic": "Add images to the canvas", "file": "references/web/ideation/firefly-boards/create-boards/add-images-to-the-canvas.md", "summary": "Open when looking up Add images to the canvas in Firefly.", "keywords": ["Add images to the canvas"]},
-  {"topic": "Add shapes to the canvas", "file": "references/web/ideation/firefly-boards/create-boards/add-shapes-to-the-canvas.md", "summary": "Open when looking up Add shapes to the canvas in Firefly.", "keywords": ["Add shapes to the canvas"]},
-  {"topic": "Add text to the canvas", "file": "references/web/ideation/firefly-boards/create-boards/add-text-to-the-canvas.md", "summary": "Open when looking up Add text to the canvas in Firefly.", "keywords": ["Add text to the canvas"]},
-  {"topic": "Add videos to the canvas", "file": "references/web/ideation/firefly-boards/create-boards/add-videos-to-the-canvas.md", "summary": "Open when looking up Add videos to the canvas in Firefly.", "keywords": ["Add videos to the canvas"]},
-  {"topic": "Arrange and refine the board", "file": "references/web/ideation/firefly-boards/create-boards/arrange-and-refine-the-board.md", "summary": "Open when looking up Arrange and refine the board in Firefly.", "keywords": ["Arrange and refine the board"]},
-  {"topic": "Gather visual elements", "file": "references/web/ideation/firefly-boards/create-boards/gather-visual-elements.md", "summary": "Open when looking up Gather visual elements in Firefly.", "keywords": ["Gather visual elements"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

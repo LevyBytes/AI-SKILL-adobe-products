@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Adjust spacing when pasting text", "file": "desktop/add-and-manage-text/add-and-import-text/add-text-to-documents/adjust-spacing-when-pasting-text.md", "summary": "Open when looking up Adjust spacing when pasting text in InDesign.", "keywords": ["Adjust spacing when pasting text"]},
+  {"topic": "Insert placeholder text", "file": "desktop/add-and-manage-text/add-and-import-text/add-text-to-documents/insert-placeholder-text.md", "summary": "Open when looking up Insert placeholder text in InDesign.", "keywords": ["Insert placeholder text"]},
+  {"topic": "Paste text from other applications", "file": "desktop/add-and-manage-text/add-and-import-text/add-text-to-documents/paste-text-from-other-applications.md", "summary": "Open when looking up Paste text from other applications in InDesign.", "keywords": ["Paste text from other applications"]},
+  {"topic": "Type text directly in a frame", "file": "desktop/add-and-manage-text/add-and-import-text/add-text-to-documents/type-text-directly-in-a-frame.md", "summary": "Open when looking up Type text directly in a frame in InDesign.", "keywords": ["Type text directly in a frame"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

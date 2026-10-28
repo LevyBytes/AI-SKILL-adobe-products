@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "media-encoder", "topics": [
-  {"topic": "IRT compliance - Overview", "file": "references/desktop/encoding/irt-compliance/irt-compliance-overview.md", "summary": "Open when looking up IRT compliance - Overview in Media Encoder.", "keywords": ["IRT compliance - Overview"]},
-  {"topic": "IRT compliance - Overview references", "file": "references/desktop/encoding/irt-compliance/irt-compliance-overview/reference-index.md", "summary": "Open when looking up IRT compliance - Overview in Media Encoder.", "keywords": ["IRT compliance - Overview references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

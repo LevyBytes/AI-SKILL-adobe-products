@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "fromString", "file": "uxp/host-api/guid/static-methods/from-string.md", "summary": "Open when looking up fromString in Premiere Pro.", "keywords": ["fromString"]},
+  {"topic": "toString", "file": "uxp/host-api/guid/static-methods/to-string.md", "summary": "Open when looking up toString in Premiere Pro.", "keywords": ["toString"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

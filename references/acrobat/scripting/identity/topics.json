@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "corporation", "file": "scripting/identity/corporation.md", "summary": "Open when looking up corporation in Acrobat.", "keywords": ["corporation"]},
+  {"topic": "email", "file": "scripting/identity/email.md", "summary": "Open when looking up email in Acrobat.", "keywords": ["email"]},
+  {"topic": "JavaScript APIs - identity", "file": "scripting/identity/java-script-apis-identity.md", "summary": "Open when looking up JavaScript APIs - identity in Acrobat.", "keywords": ["JavaScript APIs - identity"]},
+  {"topic": "loginName", "file": "scripting/identity/login-name.md", "summary": "Open when looking up loginName in Acrobat.", "keywords": ["loginName"]},
+  {"topic": "name", "file": "scripting/identity/name.md", "summary": "Open when looking up name in Acrobat.", "keywords": ["name"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

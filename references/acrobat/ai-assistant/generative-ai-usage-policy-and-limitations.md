@@ -1,0 +1,9 @@
+# Generative AI usage policy and limitations
+
+Here you'll find the usage caps, subscription levels, and policy rules that apply to generative AI throughout the Acrobat apps.
+
+Caps apply to the generative AI capabilities inside Acrobat apps. A plan might bundle a set number of Requests for AI Assistant at no extra cost; once those run out, continuing with the features means buying an Acrobat AI plan. A [Request](generative-ai-usage-policy-and-limitations/request.md) spent on producing text-based summaries or on questioning AI Assistant cannot be pooled with, or applied toward, Creative Cloud generative credits. Introducing generative credit consumption for Acrobat's generative AI features remains an option we may exercise later, and we may revise usage caps whenever we choose, including limiting, throttling, or suspending any usage beyond our limits.
+
+Customers whose plans bundle AI Assistant, for instance AI Assistant for Acrobat or Acrobat Studio, are the ones who can reach the generative AI capabilities in Acrobat. Plans for Acrobat that unlock these generative AI capabilities exist across desktop, web, and mobile apps, in English plus additional languages. Working with Acrobat's generative AI capabilities entails processing documents in the cloud.
+
+Use [Limited use](generative-ai-usage-policy-and-limitations/limited-use.md), [Full feature access](generative-ai-usage-policy-and-limitations/full-feature-access.md) or [Early access programs](generative-ai-usage-policy-and-limitations/beta-prerelease-and-early-access-programs.md) to check the relevant entitlement. For counting and enforcement, read [Response](generative-ai-usage-policy-and-limitations/response.md), [Throttling](generative-ai-usage-policy-and-limitations/throttling.md) and [Generative credit](generative-ai-usage-policy-and-limitations/generative-credit.md).

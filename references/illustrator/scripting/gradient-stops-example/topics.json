@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "New gradient stop example", "file": "scripting/gradient-stops-example/new-gradient-stop-example.md", "summary": "Open when looking up New gradient stop example in Illustrator.", "keywords": ["New gradient stop example"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

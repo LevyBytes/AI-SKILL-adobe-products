@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Artisan Data Types - Hit The Lights!", "file": "plugin-sdk/hit-the-lights/artisan-data-types-hit-the-lights.md", "summary": "Open when looking up Artisan Data Types - Hit The Lights! in After Effects.", "keywords": ["Artisan Data Types - Hit The Lights!"]},
+  {"topic": "Notes On Light Behavior", "file": "plugin-sdk/hit-the-lights/notes-on-light-behavior.md", "summary": "Open when looking up Notes On Light Behavior in After Effects.", "keywords": ["Notes On Light Behavior"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

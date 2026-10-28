@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "JavaScript APIs - DataSourceInfo", "file": "scripting/data-source-info/java-script-apis-data-source-info.md", "summary": "Open when looking up JavaScript APIs - DataSourceInfo in Acrobat.", "keywords": ["JavaScript APIs - DataSourceInfo"]},
+  {"topic": "name", "file": "scripting/data-source-info/name.md", "summary": "Open when looking up name in Acrobat.", "keywords": ["name"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Character styles - CHANGED and NEW", "file": "references/cloud-services/text-layer-detail/character-styles-changed-and-new.md", "summary": "Open when looking up Character styles - CHANGED and NEW in Photoshop.", "keywords": ["Character styles - CHANGED and NEW"]},
-  {"topic": "Paragraph styles - CHANGED and NEW", "file": "references/cloud-services/text-layer-detail/paragraph-styles-changed-and-new.md", "summary": "Open when looking up Paragraph styles - CHANGED and NEW in Photoshop.", "keywords": ["Paragraph styles - CHANGED and NEW"]},
-  {"topic": "Text frame - CHANGED", "file": "references/cloud-services/text-layer-detail/text-frame-changed.md", "summary": "Open when looking up Text frame - CHANGED in Photoshop.", "keywords": ["Text frame - CHANGED"]},
-  {"topic": "Text object top-level - CHANGED and NEW", "file": "references/cloud-services/text-layer-detail/text-object-top-level-changed-and-new.md", "summary": "Open when looking up Text object top-level - CHANGED and NEW in Photoshop.", "keywords": ["Text object top-level - CHANGED and NEW"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

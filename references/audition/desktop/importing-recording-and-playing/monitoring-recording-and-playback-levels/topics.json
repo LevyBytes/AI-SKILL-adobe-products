@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/audition", "topics": [
+  {"topic": "Customize level meters", "file": "desktop/importing-recording-and-playing/monitoring-recording-and-playback-levels/customize-level-meters.md", "summary": "Open when looking up Customize level meters in Audition.", "keywords": ["Customize level meters"]},
+  {"topic": "Effects Rack Input/ Output monitor", "file": "desktop/importing-recording-and-playing/monitoring-recording-and-playback-levels/effects-rack-input-output-monitor.md", "summary": "Open when looking up Effects Rack Input/ Output monitor in Audition.", "keywords": ["Effects Rack Input/ Output monitor"]},
+  {"topic": "Variable playback speed", "file": "desktop/importing-recording-and-playing/monitoring-recording-and-playback-levels/variable-playback-speed.md", "summary": "Open when looking up Variable playback speed in Audition.", "keywords": ["Variable playback speed"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

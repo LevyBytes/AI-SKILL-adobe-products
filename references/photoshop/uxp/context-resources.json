@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Advanced", "file": "uxp/advanced.md", "summary": "Open when looking up Advanced in Photoshop.", "keywords": ["Advanced"]},
+  {"topic": "Code Samples", "file": "uxp/code-samples.md", "summary": "Open when looking up Code Samples in Photoshop.", "keywords": ["Code Samples"]},
+  {"topic": "Code Samples references", "file": "uxp/code-samples/reference-index.md", "summary": "Open when looking up Code Samples in Photoshop.", "keywords": ["Code Samples references"]},
+  {"topic": "How Do I...", "file": "uxp/how-do-i.md", "summary": "Open when looking up How Do I... in Photoshop.", "keywords": ["How Do I..."]},
+  {"topic": "How Do I... references", "file": "uxp/how-do-i/reference-index.md", "summary": "Open when looking up How Do I... in Photoshop.", "keywords": ["How Do I... references"]},
+  {"topic": "Resources", "file": "uxp/resources.md", "summary": "Open when looking up Resources in Photoshop.", "keywords": ["Resources"]},
+  {"topic": "UXP: Other Topics", "file": "uxp/uxp-other-topics.md", "summary": "Open when looking up UXP: Other Topics in Photoshop.", "keywords": ["UXP: Other Topics"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

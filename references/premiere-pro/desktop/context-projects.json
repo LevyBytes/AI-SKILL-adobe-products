@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Overview of projects references", "file": "desktop/overview-of-projects/reference-index.md", "summary": "Open when looking up Overview of projects in Premiere Pro.", "keywords": ["Overview of projects references"]},
+  {"topic": "Open projects references", "file": "desktop/open-projects/reference-index.md", "summary": "Open when looking up Open projects in Premiere Pro.", "keywords": ["Open projects references"]},
+  {"topic": "Edit projects references", "file": "desktop/edit-projects/reference-index.md", "summary": "Open when looking up Edit projects in Premiere Pro.", "keywords": ["Edit projects references"]},
+  {"topic": "Edit multiple open projects references", "file": "desktop/edit-multiple-open-projects/reference-index.md", "summary": "Open when looking up Edit multiple open projects in Premiere Pro.", "keywords": ["Edit multiple open projects references"]},
+  {"topic": "Copy projects references", "file": "desktop/copy-projects/reference-index.md", "summary": "Open when looking up Copy projects in Premiere Pro.", "keywords": ["Copy projects references"]},
+  {"topic": "Delete projects references", "file": "desktop/delete-projects/reference-index.md", "summary": "Open when looking up Delete projects in Premiere Pro.", "keywords": ["Delete projects references"]},
+  {"topic": "Specify auto save cache location references", "file": "desktop/specify-auto-save-cache-location/reference-index.md", "summary": "Open when looking up Specify auto save cache location in Premiere Pro.", "keywords": ["Specify auto save cache location references"]},
+  {"topic": "View auto saves references", "file": "desktop/view-auto-saves/reference-index.md", "summary": "Open when looking up View auto saves in Premiere Pro.", "keywords": ["View auto saves references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Measure and plot", "file": "references/desktop/measure-and-align/measure-and-plot.md", "summary": "Open when looking up Measure and plot in Illustrator.", "keywords": ["Measure and plot"]},
-  {"topic": "Plot and measure references", "file": "references/desktop/measure-and-align/plot-and-measure/reference-index.md", "summary": "Open when looking up Plot and measure in Illustrator.", "keywords": ["Plot and measure references"]},
-  {"topic": "Use grids and guides", "file": "references/desktop/measure-and-align/use-grids-and-guides.md", "summary": "Open when looking up Use grids and guides in Illustrator.", "keywords": ["Use grids and guides"]},
-  {"topic": "Use grids and guides references", "file": "references/desktop/measure-and-align/use-grids-and-guides/reference-index.md", "summary": "Open when looking up Use grids and guides in Illustrator.", "keywords": ["Use grids and guides references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Shape Layer Match Names - Zig Zag", "file": "scripting/zig-zag/shape-layer-match-names-zig-zag.md", "summary": "Open when looking up Shape Layer Match Names - Zig Zag in After Effects.", "keywords": ["Shape Layer Match Names - Zig Zag"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "TextBoxes collection iteration", "file": "community-types/indesign/text-boxes/collection-iteration.md", "summary": "Open when looking up TextBoxes collection iteration in Shared Adobe platform.", "keywords": ["TextBoxes collection iteration"]},
+  {"topic": "TextBoxes declaration", "file": "community-types/indesign/text-boxes/declaration.md", "summary": "Open when looking up TextBoxes declaration in Shared Adobe platform.", "keywords": ["TextBoxes declaration"]},
+  {"topic": "TextBoxes named and indexed items", "file": "community-types/indesign/text-boxes/named-and-indexed-items.md", "summary": "Open when looking up TextBoxes named and indexed items in Shared Adobe platform.", "keywords": ["TextBoxes named and indexed items"]},
+  {"topic": "TextBoxes.add", "file": "community-types/indesign/text-boxes/add.md", "summary": "Open when looking up TextBoxes.add in Shared Adobe platform.", "keywords": ["TextBoxes.add"]},
+  {"topic": "TextBoxes.count", "file": "community-types/indesign/text-boxes/count.md", "summary": "Open when looking up TextBoxes.count in Shared Adobe platform.", "keywords": ["TextBoxes.count"]},
+  {"topic": "TextBoxes.IndexSignature", "file": "community-types/indesign/text-boxes/index-signature.md", "summary": "Open when looking up TextBoxes.IndexSignature in Shared Adobe platform.", "keywords": ["TextBoxes.IndexSignature"]},
+  {"topic": "TextBoxes.itemByRange", "file": "community-types/indesign/text-boxes/item-by-range.md", "summary": "Open when looking up TextBoxes.itemByRange in Shared Adobe platform.", "keywords": ["TextBoxes.itemByRange"]},
+  {"topic": "TextBoxes.length", "file": "community-types/indesign/text-boxes/length.md", "summary": "Open when looking up TextBoxes.length in Shared Adobe platform.", "keywords": ["TextBoxes.length"]},
+  {"topic": "TextBoxes.toSource", "file": "community-types/indesign/text-boxes/to-source.md", "summary": "Open when looking up TextBoxes.toSource in Shared Adobe platform.", "keywords": ["TextBoxes.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

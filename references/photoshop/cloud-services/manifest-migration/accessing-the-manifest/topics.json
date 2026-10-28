@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "With embedded storage", "file": "cloud-services/manifest-migration/accessing-the-manifest/with-embedded-storage.md", "summary": "Open when looking up With embedded storage in Photoshop.", "keywords": ["With embedded storage"]},
+  {"topic": "With external/hosted storage", "file": "cloud-services/manifest-migration/accessing-the-manifest/with-external-hosted-storage.md", "summary": "Open when looking up With external/hosted storage in Photoshop.", "keywords": ["With external/hosted storage"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

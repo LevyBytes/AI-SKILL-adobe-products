@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Example 1: Display error in your code snippet", "file": "desktop/expressions/using-the-expressions-editor/example-1-display-error-in-your-code-snippet.md", "summary": "Open when looking up Example 1: Display error in your code snippet in After Effects.", "keywords": ["Example 1: Display error in your code snippet"]},
+  {"topic": "Example 2: Auto-suggestions based on the commonly used components", "file": "desktop/expressions/using-the-expressions-editor/expression-component-autosuggestions.md", "summary": "Open when looking up Example 2: Auto-suggestions based on the commonly used components in After Effects.", "keywords": ["Example 2: Auto-suggestions based on the commonly used components"]},
+  {"topic": "Expression editor code interface", "file": "desktop/expressions/using-the-expressions-editor/expression-editor-code-interface.md", "summary": "Open when looking up Expression editor code interface in After Effects.", "keywords": ["Expression editor code interface"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

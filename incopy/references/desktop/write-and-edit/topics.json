@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "incopy", "topics": [
-  {"topic": "Add and edit text references", "file": "references/desktop/write-and-edit/add-and-edit-text/reference-index.md", "summary": "Open when looking up Add and edit text in InCopy.", "keywords": ["Add and edit text references"]},
-  {"topic": "Language tools references", "file": "references/desktop/write-and-edit/language-tools/reference-index.md", "summary": "Open when looking up Language tools in InCopy.", "keywords": ["Language tools references"]},
-  {"topic": "Track and review changes references", "file": "references/desktop/write-and-edit/track-and-review-changes/reference-index.md", "summary": "Open when looking up Track and review changes in InCopy.", "keywords": ["Track and review changes references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

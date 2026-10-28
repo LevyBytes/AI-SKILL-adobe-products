@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "createCloneTrackItemAction", "file": "uxp/host-api/sequence-editor/static-methods/create-clone-track-item-action.md", "summary": "Open when looking up createCloneTrackItemAction in Premiere Pro.", "keywords": ["createCloneTrackItemAction"]},
+  {"topic": "createInsertProjectItemAction", "file": "uxp/host-api/sequence-editor/static-methods/create-insert-project-item-action.md", "summary": "Open when looking up createInsertProjectItemAction in Premiere Pro.", "keywords": ["createInsertProjectItemAction"]},
+  {"topic": "createOverwriteItemAction", "file": "uxp/host-api/sequence-editor/static-methods/create-overwrite-item-action.md", "summary": "Open when looking up createOverwriteItemAction in Premiere Pro.", "keywords": ["createOverwriteItemAction"]},
+  {"topic": "createRemoveItemsAction", "file": "uxp/host-api/sequence-editor/static-methods/create-remove-items-action.md", "summary": "Open when looking up createRemoveItemsAction in Premiere Pro.", "keywords": ["createRemoveItemsAction"]},
+  {"topic": "getEditor", "file": "uxp/host-api/sequence-editor/static-methods/get-editor.md", "summary": "Open when looking up getEditor in Premiere Pro.", "keywords": ["getEditor"]},
+  {"topic": "getInstalledMogrtPath", "file": "uxp/host-api/sequence-editor/static-methods/get-installed-mogrt-path.md", "summary": "Open when looking up getInstalledMogrtPath in Premiere Pro.", "keywords": ["getInstalledMogrtPath"]},
+  {"topic": "insertMogrtFromLibrary", "file": "uxp/host-api/sequence-editor/static-methods/insert-mogrt-from-library.md", "summary": "Open when looking up insertMogrtFromLibrary in Premiere Pro.", "keywords": ["insertMogrtFromLibrary"]},
+  {"topic": "insertMogrtFromPath", "file": "uxp/host-api/sequence-editor/static-methods/insert-mogrt-from-path.md", "summary": "Open when looking up insertMogrtFromPath in Premiere Pro.", "keywords": ["insertMogrtFromPath"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

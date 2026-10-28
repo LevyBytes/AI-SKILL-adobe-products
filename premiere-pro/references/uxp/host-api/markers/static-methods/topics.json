@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "createAddMarkerAction", "file": "references/uxp/host-api/markers/static-methods/create-add-marker-action.md", "summary": "Open when looking up createAddMarkerAction in Premiere Pro.", "keywords": ["createAddMarkerAction"]},
-  {"topic": "createMoveMarkerAction", "file": "references/uxp/host-api/markers/static-methods/create-move-marker-action.md", "summary": "Open when looking up createMoveMarkerAction in Premiere Pro.", "keywords": ["createMoveMarkerAction"]},
-  {"topic": "createRemoveMarkerAction", "file": "references/uxp/host-api/markers/static-methods/create-remove-marker-action.md", "summary": "Open when looking up createRemoveMarkerAction in Premiere Pro.", "keywords": ["createRemoveMarkerAction"]},
-  {"topic": "getMarkers", "file": "references/uxp/host-api/markers/static-methods/get-markers.md", "summary": "Open when looking up getMarkers in Premiere Pro.", "keywords": ["getMarkers"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

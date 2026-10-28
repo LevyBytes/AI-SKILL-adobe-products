@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "FileSource object", "file": "references/scripting/file-source/file-source-object.md", "summary": "Open when looking up FileSource object in After Effects.", "keywords": ["FileSource object"]},
-  {"topic": "FileSource.file", "file": "references/scripting/file-source/file.md", "summary": "Open when looking up FileSource.file in After Effects.", "keywords": ["FileSource.file"]},
-  {"topic": "FileSource.missingFootagePath", "file": "references/scripting/file-source/missing-footage-path.md", "summary": "Open when looking up FileSource.missingFootagePath in After Effects.", "keywords": ["FileSource.missingFootagePath"]},
-  {"topic": "FileSource.reload()", "file": "references/scripting/file-source/reload.md", "summary": "Open when looking up FileSource.reload() in After Effects.", "keywords": ["FileSource.reload()"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

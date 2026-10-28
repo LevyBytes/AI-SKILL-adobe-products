@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Browse add-ons from InDesign", "file": "desktop/app-integrations/creative-cloud-add-on-integrations/browse-add-ons-from-in-design.md", "summary": "Open when looking up Browse add-ons from InDesign in InDesign.", "keywords": ["Browse add-ons from InDesign"]},
+  {"topic": "Sync add-ons with CC", "file": "desktop/app-integrations/creative-cloud-add-on-integrations/sync-add-ons-with-cc.md", "summary": "Open when looking up Sync add-ons with CC in InDesign.", "keywords": ["Sync add-ons with CC"]},
+  {"topic": "View installed add-ons", "file": "desktop/app-integrations/creative-cloud-add-on-integrations/view-installed-add-ons.md", "summary": "Open when looking up View installed add-ons in InDesign.", "keywords": ["View installed add-ons"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

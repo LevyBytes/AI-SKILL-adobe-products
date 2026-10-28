@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Document.suspendHistory", "file": "uxp/release-history/beta-23-0-build-64-2021-08-06/document-suspend-history.md", "summary": "Open when looking up Document.suspendHistory in Photoshop.", "keywords": ["Document.suspendHistory"]},
+  {"topic": "Layer Move APIs", "file": "uxp/release-history/beta-23-0-build-64-2021-08-06/layer-move-apis.md", "summary": "Open when looking up Layer Move APIs in Photoshop.", "keywords": ["Layer Move APIs"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "SOURCE_CUSTOM", "file": "document-model/source-type/sourcecustom.md", "summary": "Open when looking up SOURCE_CUSTOM in InDesign.", "keywords": ["SOURCE_CUSTOM"]},
+  {"topic": "SOURCE_XML_STRUCTURE", "file": "document-model/source-type/sourcexmlstructure.md", "summary": "Open when looking up SOURCE_XML_STRUCTURE in InDesign.", "keywords": ["SOURCE_XML_STRUCTURE"]},
+  {"topic": "SOURCE_XMP_ALT_TEXT", "file": "document-model/source-type/sourcexmpalttext.md", "summary": "Open when looking up SOURCE_XMP_ALT_TEXT in InDesign.", "keywords": ["SOURCE_XMP_ALT_TEXT"]},
+  {"topic": "SOURCE_XMP_DESCRIPTION", "file": "document-model/source-type/sourcexmpdescription.md", "summary": "Open when looking up SOURCE_XMP_DESCRIPTION in InDesign.", "keywords": ["SOURCE_XMP_DESCRIPTION"]},
+  {"topic": "SOURCE_XMP_EXTENDED_DESCRIPTION", "file": "document-model/source-type/sourcexmpextendeddescription.md", "summary": "Open when looking up SOURCE_XMP_EXTENDED_DESCRIPTION in InDesign.", "keywords": ["SOURCE_XMP_EXTENDED_DESCRIPTION"]},
+  {"topic": "SOURCE_XMP_HEADLINE", "file": "document-model/source-type/sourcexmpheadline.md", "summary": "Open when looking up SOURCE_XMP_HEADLINE in InDesign.", "keywords": ["SOURCE_XMP_HEADLINE"]},
+  {"topic": "SOURCE_XMP_OTHER", "file": "document-model/source-type/sourcexmpother.md", "summary": "Open when looking up SOURCE_XMP_OTHER in InDesign.", "keywords": ["SOURCE_XMP_OTHER"]},
+  {"topic": "SOURCE_XMP_TITLE", "file": "document-model/source-type/sourcexmptitle.md", "summary": "Open when looking up SOURCE_XMP_TITLE in InDesign.", "keywords": ["SOURCE_XMP_TITLE"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

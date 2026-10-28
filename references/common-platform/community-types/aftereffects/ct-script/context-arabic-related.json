@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "CTScript.CT_ARABIC_SCRIPT", "file": "community-types/aftereffects/ct-script/ctarabicscript.md", "summary": "Open when looking up CTScript.CT_ARABIC_SCRIPT in Shared Adobe platform.", "keywords": ["CTScript.CT_ARABIC_SCRIPT"]},
+  {"topic": "CTScript.CT_BRAVANESE_SCRIPT", "file": "community-types/aftereffects/ct-script/ctbravanesescript.md", "summary": "Open when looking up CTScript.CT_BRAVANESE_SCRIPT in Shared Adobe platform.", "keywords": ["CTScript.CT_BRAVANESE_SCRIPT"]},
+  {"topic": "CTScript.CT_EXTENDEDARABIC_SCRIPT", "file": "community-types/aftereffects/ct-script/ctextendedarabicscript.md", "summary": "Open when looking up CTScript.CT_EXTENDEDARABIC_SCRIPT in Shared Adobe platform.", "keywords": ["CTScript.CT_EXTENDEDARABIC_SCRIPT"]},
+  {"topic": "CTScript.CT_HEBREW_SCRIPT", "file": "community-types/aftereffects/ct-script/cthebrewscript.md", "summary": "Open when looking up CTScript.CT_HEBREW_SCRIPT in Shared Adobe platform.", "keywords": ["CTScript.CT_HEBREW_SCRIPT"]},
+  {"topic": "CTScript.CT_MANDAIC_SCRIPT", "file": "community-types/aftereffects/ct-script/ctmandaicscript.md", "summary": "Open when looking up CTScript.CT_MANDAIC_SCRIPT in Shared Adobe platform.", "keywords": ["CTScript.CT_MANDAIC_SCRIPT"]},
+  {"topic": "CTScript.CT_PERSIAN_SCRIPT", "file": "community-types/aftereffects/ct-script/ctpersianscript.md", "summary": "Open when looking up CTScript.CT_PERSIAN_SCRIPT in Shared Adobe platform.", "keywords": ["CTScript.CT_PERSIAN_SCRIPT"]},
+  {"topic": "CTScript.CT_ROHINGYA_SCRIPT", "file": "community-types/aftereffects/ct-script/ctrohingyascript.md", "summary": "Open when looking up CTScript.CT_ROHINGYA_SCRIPT in Shared Adobe platform.", "keywords": ["CTScript.CT_ROHINGYA_SCRIPT"]},
+  {"topic": "CTScript.CT_SYRIAC_SCRIPT", "file": "community-types/aftereffects/ct-script/ctsyriacscript.md", "summary": "Open when looking up CTScript.CT_SYRIAC_SCRIPT in Shared Adobe platform.", "keywords": ["CTScript.CT_SYRIAC_SCRIPT"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

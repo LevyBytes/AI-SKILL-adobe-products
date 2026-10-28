@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Manage Adobe cloud files", "file": "references/web/manage-cloud-storage/manage-adobe-cloud-files.md", "summary": "Open when looking up Manage Adobe cloud files in Acrobat.", "keywords": ["Manage Adobe cloud files"]},
-  {"topic": "Manage Adobe cloud files references", "file": "references/web/manage-cloud-storage/manage-adobe-cloud-files/reference-index.md", "summary": "Open when looking up Manage Adobe cloud files in Acrobat.", "keywords": ["Manage Adobe cloud files references"]},
-  {"topic": "Manage third party storage", "file": "references/web/manage-cloud-storage/manage-third-party-storage.md", "summary": "Open when looking up Manage third party storage in Acrobat.", "keywords": ["Manage third party storage"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "How to add windows on arm support for your plugins references", "file": "plugin-sdk/how-to-add-windows-on-arm-support-for-your-plugins/reference-index.md", "summary": "Open when looking up How to add windows on arm support for your plugins in After Effects.", "keywords": ["How to add windows on arm support for your plugins references"]},
+  {"topic": "Windows on Arm Support", "file": "plugin-sdk/windows-on-arm-support.md", "summary": "Open when looking up Windows on Arm Support in After Effects.", "keywords": ["Windows on Arm Support"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

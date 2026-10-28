@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Getting started with Smart Objects", "file": "cloud-services/getting-started-with-smart-objects.md", "summary": "Open when looking up Getting started with Smart Objects in Photoshop.", "keywords": ["Getting started with Smart Objects"]},
+  {"topic": "Getting started with Smart Objects references", "file": "cloud-services/getting-started-with-smart-objects/reference-index.md", "summary": "Open when looking up Getting started with Smart Objects in Photoshop.", "keywords": ["Getting started with Smart Objects references"]},
+  {"topic": "Smart object detail references", "file": "cloud-services/smart-object-detail/reference-index.md", "summary": "Open when looking up Smart object detail in Photoshop.", "keywords": ["Smart object detail references"]},
+  {"topic": "Smart object replace migration references", "file": "cloud-services/smart-object-replace-migration/reference-index.md", "summary": "Open when looking up Smart object replace migration in Photoshop.", "keywords": ["Smart object replace migration references"]},
+  {"topic": "Smart Object Workflow", "file": "cloud-services/smart-object-workflow.md", "summary": "Open when looking up Smart Object Workflow in Photoshop.", "keywords": ["Smart Object Workflow"]},
+  {"topic": "Smart Object Workflow references", "file": "cloud-services/smart-object-workflow/reference-index.md", "summary": "Open when looking up Smart Object Workflow in Photoshop.", "keywords": ["Smart Object Workflow references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

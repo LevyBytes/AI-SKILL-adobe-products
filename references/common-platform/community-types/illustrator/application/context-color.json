@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Application.colorSettingsList", "file": "community-types/illustrator/application/color-settings-list.md", "summary": "Open when looking up Application.colorSettingsList in Shared Adobe platform.", "keywords": ["Application.colorSettingsList"]},
+  {"topic": "Application.convertSampleColor", "file": "community-types/illustrator/application/convert-sample-color.md", "summary": "Open when looking up Application.convertSampleColor in Shared Adobe platform.", "keywords": ["Application.convertSampleColor"]},
+  {"topic": "Application.defaultColorSettings", "file": "community-types/illustrator/application/default-color-settings.md", "summary": "Open when looking up Application.defaultColorSettings in Shared Adobe platform.", "keywords": ["Application.defaultColorSettings"]},
+  {"topic": "Application.isFillActive", "file": "community-types/illustrator/application/is-fill-active.md", "summary": "Open when looking up Application.isFillActive in Shared Adobe platform.", "keywords": ["Application.isFillActive"]},
+  {"topic": "Application.isStrokeActive", "file": "community-types/illustrator/application/is-stroke-active.md", "summary": "Open when looking up Application.isStrokeActive in Shared Adobe platform.", "keywords": ["Application.isStrokeActive"]},
+  {"topic": "Application.loadColorSettings", "file": "community-types/illustrator/application/load-color-settings.md", "summary": "Open when looking up Application.loadColorSettings in Shared Adobe platform.", "keywords": ["Application.loadColorSettings"]},
+  {"topic": "Application.showColorPicker", "file": "community-types/illustrator/application/show-color-picker.md", "summary": "Open when looking up Application.showColorPicker in Shared Adobe platform.", "keywords": ["Application.showColorPicker"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

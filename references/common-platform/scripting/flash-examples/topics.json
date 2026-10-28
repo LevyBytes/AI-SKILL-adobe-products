@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Communicating with the Flash application - Flash Examples", "file": "scripting/flash-examples/communicating-with-the-flash-application-flash-examples.md", "summary": "Open when looking up Communicating with the Flash application - Flash Examples in Shared Adobe platform.", "keywords": ["Communicating with the Flash application - Flash Examples"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

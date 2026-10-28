@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Common transparency settings", "file": "references/desktop/apply-color/advanced-color-techniques/transparency-effects-options-and-settings/common-transparency-settings.md", "summary": "Open when looking up Common transparency settings in InDesign.", "keywords": ["Common transparency settings"]},
-  {"topic": "Effect-specific settings", "file": "references/desktop/apply-color/advanced-color-techniques/transparency-effects-options-and-settings/effect-specific-settings.md", "summary": "Open when looking up Effect-specific settings in InDesign.", "keywords": ["Effect-specific settings"]},
-  {"topic": "Effects panel controls", "file": "references/desktop/apply-color/advanced-color-techniques/transparency-effects-options-and-settings/effects-panel-controls.md", "summary": "Open when looking up Effects panel controls in InDesign.", "keywords": ["Effects panel controls"]},
-  {"topic": "Transparency effect types", "file": "references/desktop/apply-color/advanced-color-techniques/transparency-effects-options-and-settings/transparency-effect-types.md", "summary": "Open when looking up Transparency effect types in InDesign.", "keywords": ["Transparency effect types"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

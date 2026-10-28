@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "LEVEL_2", "file": "document-model/post-script-levels/level2.md", "summary": "Open when looking up LEVEL_2 in InDesign.", "keywords": ["LEVEL_2"]},
+  {"topic": "LEVEL_3", "file": "document-model/post-script-levels/level3.md", "summary": "Open when looking up LEVEL_3 in InDesign.", "keywords": ["LEVEL_3"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

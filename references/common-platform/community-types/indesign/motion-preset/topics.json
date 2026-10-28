@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "MotionPreset declaration", "file": "community-types/indesign/motion-preset/declaration.md", "summary": "Open when looking up MotionPreset declaration in Shared Adobe platform.", "keywords": ["MotionPreset declaration"]},
+  {"topic": "MotionPreset event listeners", "file": "community-types/indesign/motion-preset/event-listeners.md", "summary": "Open when looking up MotionPreset event listeners in Shared Adobe platform.", "keywords": ["MotionPreset event listeners"]},
+  {"topic": "MotionPreset identity and parent", "file": "community-types/indesign/motion-preset/identity-and-parent.md", "summary": "Open when looking up MotionPreset identity and parent in Shared Adobe platform.", "keywords": ["MotionPreset identity and parent"]},
+  {"topic": "MotionPreset labels and metadata", "file": "community-types/indesign/motion-preset/labels-and-metadata.md", "summary": "Open when looking up MotionPreset labels and metadata in Shared Adobe platform.", "keywords": ["MotionPreset labels and metadata"]},
+  {"topic": "MotionPreset object lifecycle", "file": "community-types/indesign/motion-preset/object-lifecycle.md", "summary": "Open when looking up MotionPreset object lifecycle in Shared Adobe platform.", "keywords": ["MotionPreset object lifecycle"]},
+  {"topic": "MotionPreset object resolution", "file": "community-types/indesign/motion-preset/object-resolution.md", "summary": "Open when looking up MotionPreset object resolution in Shared Adobe platform.", "keywords": ["MotionPreset object resolution"]},
+  {"topic": "MotionPreset.contents", "file": "community-types/indesign/motion-preset/contents.md", "summary": "Open when looking up MotionPreset.contents in Shared Adobe platform.", "keywords": ["MotionPreset.contents"]},
+  {"topic": "MotionPreset.properties", "file": "community-types/indesign/motion-preset/properties.md", "summary": "Open when looking up MotionPreset.properties in Shared Adobe platform.", "keywords": ["MotionPreset.properties"]},
+  {"topic": "MotionPreset.saveACopy", "file": "community-types/indesign/motion-preset/save-a-copy.md", "summary": "Open when looking up MotionPreset.saveACopy in Shared Adobe platform.", "keywords": ["MotionPreset.saveACopy"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

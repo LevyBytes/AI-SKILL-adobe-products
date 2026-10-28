@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "enableUserInfo manifest permission", "file": "uxp/enable-user-info.md", "summary": "Open when looking up enableUserInfo manifest permission in Premiere Pro.", "keywords": ["enableUserInfo manifest permission"]},
+  {"topic": "Manifest", "file": "uxp/manifest.md", "summary": "Open when looking up Manifest in Premiere Pro.", "keywords": ["Manifest"]},
+  {"topic": "Manifest Keys", "file": "uxp/manifest-keys.md", "summary": "Open when looking up Manifest Keys in Premiere Pro.", "keywords": ["Manifest Keys"]},
+  {"topic": "Optional properties references", "file": "uxp/optional-properties/reference-index.md", "summary": "Open when looking up Optional properties in Premiere Pro.", "keywords": ["Optional properties references"]},
+  {"topic": "Required properties references", "file": "uxp/required-properties/reference-index.md", "summary": "Open when looking up Required properties in Premiere Pro.", "keywords": ["Required properties references"]},
+  {"topic": "Supporting definitions references", "file": "uxp/supporting-definitions/reference-index.md", "summary": "Open when looking up Supporting definitions in Premiere Pro.", "keywords": ["Supporting definitions references"]},
+  {"topic": "User info references", "file": "uxp/user-info/reference-index.md", "summary": "Open when looking up User info in Premiere Pro.", "keywords": ["User info references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

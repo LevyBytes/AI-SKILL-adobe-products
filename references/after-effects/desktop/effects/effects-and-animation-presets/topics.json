@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Effect list", "file": "desktop/effects/effects-and-animation-presets/effect-list.md", "summary": "Open when looking up Effect list in After Effects.", "keywords": ["Effect list"]},
+  {"topic": "Effect Manager", "file": "desktop/effects/effects-and-animation-presets/effect-manager.md", "summary": "Open when looking up Effect Manager in After Effects.", "keywords": ["Effect Manager"]},
+  {"topic": "Effect Manager references", "file": "desktop/effects/effects-and-animation-presets/effect-manager/reference-index.md", "summary": "Open when looking up Effect Manager in After Effects.", "keywords": ["Effect Manager references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

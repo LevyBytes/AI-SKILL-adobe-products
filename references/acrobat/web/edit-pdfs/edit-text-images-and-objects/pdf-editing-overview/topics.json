@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Image edits", "file": "web/edit-pdfs/edit-text-images-and-objects/pdf-editing-overview/image-edits.md", "summary": "Open when looking up Image edits in Acrobat.", "keywords": ["Image edits"]},
+  {"topic": "Text edits", "file": "web/edit-pdfs/edit-text-images-and-objects/pdf-editing-overview/text-edits.md", "summary": "Open when looking up Text edits in Acrobat.", "keywords": ["Text edits"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

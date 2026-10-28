@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Privileged locations", "file": "desktop/protect-documents/use-enhanced-security/ways-to-allow-trusted-content-with-enhanced-security/privileged-locations.md", "summary": "Open when looking up Privileged locations in Acrobat.", "keywords": ["Privileged locations"]},
+  {"topic": "Server‑based cross‑domain policies", "file": "desktop/protect-documents/use-enhanced-security/ways-to-allow-trusted-content-with-enhanced-security/server-based-cross-domain-policies.md", "summary": "Open when looking up Server‑based cross‑domain policies in Acrobat.", "keywords": ["Server‑based cross‑domain policies"]},
+  {"topic": "Trusted certificates", "file": "desktop/protect-documents/use-enhanced-security/ways-to-allow-trusted-content-with-enhanced-security/trusted-certificates.md", "summary": "Open when looking up Trusted certificates in Acrobat.", "keywords": ["Trusted certificates"]},
+  {"topic": "Trusted URLs", "file": "desktop/protect-documents/use-enhanced-security/ways-to-allow-trusted-content-with-enhanced-security/trusted-urls.md", "summary": "Open when looking up Trusted URLs in Acrobat.", "keywords": ["Trusted URLs"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

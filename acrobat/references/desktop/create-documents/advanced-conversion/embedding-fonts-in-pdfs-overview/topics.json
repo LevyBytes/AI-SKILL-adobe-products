@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Font substitution", "file": "references/desktop/create-documents/advanced-conversion/embedding-fonts-in-pdfs-overview/font-substitution.md", "summary": "Open when looking up Font substitution in Acrobat.", "keywords": ["Font substitution"]},
-  {"topic": "Fonts embedding", "file": "references/desktop/create-documents/advanced-conversion/embedding-fonts-in-pdfs-overview/fonts-embedding.md", "summary": "Open when looking up Fonts embedding in Acrobat.", "keywords": ["Fonts embedding"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

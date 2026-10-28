@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/audition", "topics": [
+  {"topic": "Equitable language", "file": "desktop/release-history/feature-summary-adobe-audition-march-and-september-release/equitable-language.md", "summary": "Open when looking up Equitable language in Audition.", "keywords": ["Equitable language"]},
+  {"topic": "Faster scanning of third-party audio plugins", "file": "desktop/release-history/feature-summary-adobe-audition-march-and-september-release/faster-scanning-of-third-party-audio-plugins.md", "summary": "Open when looking up Faster scanning of third-party audio plugins in Audition.", "keywords": ["Faster scanning of third-party audio plugins"]},
+  {"topic": "Insert mode in Waveform editor", "file": "desktop/release-history/feature-summary-adobe-audition-march-and-september-release/insert-mode-in-waveform-editor.md", "summary": "Open when looking up Insert mode in Waveform editor in Audition.", "keywords": ["Insert mode in Waveform editor"]},
+  {"topic": "Keyframe dragging", "file": "desktop/release-history/feature-summary-adobe-audition-march-and-september-release/keyframe-dragging.md", "summary": "Open when looking up Keyframe dragging in Audition.", "keywords": ["Keyframe dragging"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

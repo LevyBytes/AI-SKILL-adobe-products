@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Align and distribute objects", "file": "desktop/add-text-and-images/align-and-distribute-objects.md", "summary": "Open when looking up Align and distribute objects in Premiere Pro.", "keywords": ["Align and distribute objects"]},
+  {"topic": "Align and distribute objects references", "file": "desktop/add-text-and-images/align-and-distribute-objects/reference-index.md", "summary": "Open when looking up Align and distribute objects in Premiere Pro.", "keywords": ["Align and distribute objects references"]},
+  {"topic": "Draw objects", "file": "desktop/add-text-and-images/draw-objects.md", "summary": "Open when looking up Draw objects in Premiere Pro.", "keywords": ["Draw objects"]},
+  {"topic": "Draw objects references", "file": "desktop/add-text-and-images/draw-objects/reference-index.md", "summary": "Open when looking up Draw objects in Premiere Pro.", "keywords": ["Draw objects references"]},
+  {"topic": "Insert captions", "file": "desktop/add-text-and-images/insert-captions.md", "summary": "Open when looking up Insert captions in Premiere Pro.", "keywords": ["Insert captions"]},
+  {"topic": "Insert captions references", "file": "desktop/add-text-and-images/insert-captions/reference-index.md", "summary": "Open when looking up Insert captions in Premiere Pro.", "keywords": ["Insert captions references"]},
+  {"topic": "Insert images and graphics", "file": "desktop/add-text-and-images/insert-images-and-graphics.md", "summary": "Open when looking up Insert images and graphics in Premiere Pro.", "keywords": ["Insert images and graphics"]},
+  {"topic": "Insert images and graphics references", "file": "desktop/add-text-and-images/images-and-graphics/reference-index.md", "summary": "Open when looking up Insert images and graphics in Premiere Pro.", "keywords": ["Insert images and graphics references"]},
+  {"topic": "Stylize text", "file": "desktop/add-text-and-images/stylize-text.md", "summary": "Open when looking up Stylize text in Premiere Pro.", "keywords": ["Stylize text"]},
+  {"topic": "Stylize text references", "file": "desktop/add-text-and-images/stylize-text/reference-index.md", "summary": "Open when looking up Stylize text in Premiere Pro.", "keywords": ["Stylize text references"]},
+  {"topic": "Use Motion Graphics templates", "file": "desktop/add-text-and-images/use-motion-graphics-templates.md", "summary": "Open when looking up Use Motion Graphics templates in Premiere Pro.", "keywords": ["Use Motion Graphics templates"]},
+  {"topic": "Use Motion Graphics templates references", "file": "desktop/add-text-and-images/use-motion-graphics-templates/reference-index.md", "summary": "Open when looking up Use Motion Graphics templates in Premiere Pro.", "keywords": ["Use Motion Graphics templates references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

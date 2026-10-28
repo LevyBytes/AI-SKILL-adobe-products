@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "LIVE", "file": "references/document-model/dynamic-documents-text-export-policy/live.md", "summary": "Open when looking up LIVE in InDesign.", "keywords": ["LIVE"]},
-  {"topic": "RASTERIZE", "file": "references/document-model/dynamic-documents-text-export-policy/rasterize.md", "summary": "Open when looking up RASTERIZE in InDesign.", "keywords": ["RASTERIZE"]},
-  {"topic": "TLF", "file": "references/document-model/dynamic-documents-text-export-policy/tlf.md", "summary": "Open when looking up TLF in InDesign.", "keywords": ["TLF"]},
-  {"topic": "VECTORIZE", "file": "references/document-model/dynamic-documents-text-export-policy/vectorize.md", "summary": "Open when looking up VECTORIZE in InDesign.", "keywords": ["VECTORIZE"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "ALIGN_KENTEN_CENTER", "file": "references/document-model/kenten-alignment/alignkentencenter.md", "summary": "Open when looking up ALIGN_KENTEN_CENTER in InDesign.", "keywords": ["ALIGN_KENTEN_CENTER"]},
-  {"topic": "ALIGN_KENTEN_LEFT", "file": "references/document-model/kenten-alignment/alignkentenleft.md", "summary": "Open when looking up ALIGN_KENTEN_LEFT in InDesign.", "keywords": ["ALIGN_KENTEN_LEFT"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

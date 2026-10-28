@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Find Motion Graphics templates", "file": "desktop/add-text-and-images/use-motion-graphics-templates/where-do-i-get-motion-graphics-templates/find-motion-graphics-templates.md", "summary": "Open when looking up Find Motion Graphics templates in Premiere Pro.", "keywords": ["Find Motion Graphics templates"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

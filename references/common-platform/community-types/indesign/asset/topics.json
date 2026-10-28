@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Asset declaration", "file": "community-types/indesign/asset/declaration.md", "summary": "Open when looking up Asset declaration in Shared Adobe platform.", "keywords": ["Asset declaration"]},
+  {"topic": "Asset event listeners", "file": "community-types/indesign/asset/event-listeners.md", "summary": "Open when looking up Asset event listeners in Shared Adobe platform.", "keywords": ["Asset event listeners"]},
+  {"topic": "Asset identity and parent", "file": "community-types/indesign/asset/identity-and-parent.md", "summary": "Open when looking up Asset identity and parent in Shared Adobe platform.", "keywords": ["Asset identity and parent"]},
+  {"topic": "Asset labels and metadata", "file": "community-types/indesign/asset/labels-and-metadata.md", "summary": "Open when looking up Asset labels and metadata in Shared Adobe platform.", "keywords": ["Asset labels and metadata"]},
+  {"topic": "Asset object resolution", "file": "community-types/indesign/asset/object-resolution.md", "summary": "Open when looking up Asset object resolution in Shared Adobe platform.", "keywords": ["Asset object resolution"]},
+  {"topic": "Asset.assetType", "file": "community-types/indesign/asset/asset-type.md", "summary": "Open when looking up Asset.assetType in Shared Adobe platform.", "keywords": ["Asset.assetType"]},
+  {"topic": "Asset.date", "file": "community-types/indesign/asset/date.md", "summary": "Open when looking up Asset.date in Shared Adobe platform.", "keywords": ["Asset.date"]},
+  {"topic": "Asset.description", "file": "community-types/indesign/asset/description.md", "summary": "Open when looking up Asset.description in Shared Adobe platform.", "keywords": ["Asset.description"]},
+  {"topic": "Asset.placeAsset", "file": "community-types/indesign/asset/place-asset.md", "summary": "Open when looking up Asset.placeAsset in Shared Adobe platform.", "keywords": ["Asset.placeAsset"]},
+  {"topic": "Asset.properties", "file": "community-types/indesign/asset/properties.md", "summary": "Open when looking up Asset.properties in Shared Adobe platform.", "keywords": ["Asset.properties"]},
+  {"topic": "Asset.remove", "file": "community-types/indesign/asset/remove.md", "summary": "Open when looking up Asset.remove in Shared Adobe platform.", "keywords": ["Asset.remove"]},
+  {"topic": "Asset.select", "file": "community-types/indesign/asset/select.md", "summary": "Open when looking up Asset.select in Shared Adobe platform.", "keywords": ["Asset.select"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

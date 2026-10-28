@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Learn about the Adobe PDF Services Actions.", "file": "integrations/adobe-pdf-services-actions/learn-about-the-adobe-pdf-services-actions.md", "summary": "Open when looking up Learn about the Adobe PDF Services Actions. in Acrobat.", "keywords": ["Learn about the Adobe PDF Services Actions."]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

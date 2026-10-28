@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Placed-item selection toggle", "file": "scripting/placed-item-example/placed-item-selection-toggle.md", "summary": "Open when looking up Placed-item selection toggle in Illustrator.", "keywords": ["Placed-item selection toggle"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

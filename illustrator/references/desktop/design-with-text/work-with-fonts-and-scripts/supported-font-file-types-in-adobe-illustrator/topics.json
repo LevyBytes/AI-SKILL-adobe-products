@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "COLR fonts", "file": "references/desktop/design-with-text/work-with-fonts-and-scripts/supported-font-file-types-in-adobe-illustrator/colr-fonts.md", "summary": "Open when looking up COLR fonts in Illustrator.", "keywords": ["COLR fonts"]},
-  {"topic": "SVG fonts", "file": "references/desktop/design-with-text/work-with-fonts-and-scripts/supported-font-file-types-in-adobe-illustrator/svg-fonts.md", "summary": "Open when looking up SVG fonts in Illustrator.", "keywords": ["SVG fonts"]},
-  {"topic": "Variable fonts", "file": "references/desktop/design-with-text/work-with-fonts-and-scripts/supported-font-file-types-in-adobe-illustrator/variable-fonts.md", "summary": "Open when looking up Variable fonts in Illustrator.", "keywords": ["Variable fonts"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

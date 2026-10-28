@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Recolor artwork", "file": "desktop/quick-actions/recolor-artwork.md", "summary": "Open when looking up Recolor artwork in Illustrator.", "keywords": ["Recolor artwork"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

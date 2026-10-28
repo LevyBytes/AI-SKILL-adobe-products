@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "About fonts", "file": "desktop/text-and-typography/select-and-manage-fonts/about-fonts.md", "summary": "Open when looking up About fonts in Photoshop.", "keywords": ["About fonts"]},
+  {"topic": "About fonts references", "file": "desktop/text-and-typography/select-and-manage-fonts/about-fonts/reference-index.md", "summary": "Open when looking up About fonts in Photoshop.", "keywords": ["About fonts references"]},
+  {"topic": "Apply OpenType features", "file": "desktop/text-and-typography/select-and-manage-fonts/apply-open-type-features.md", "summary": "Open when looking up Apply OpenType features in Photoshop.", "keywords": ["Apply OpenType features"]},
+  {"topic": "Change the font across multiple layers", "file": "desktop/text-and-typography/select-and-manage-fonts/change-the-font-across-multiple-layers.md", "summary": "Open when looking up Change the font across multiple layers in Photoshop.", "keywords": ["Change the font across multiple layers"]},
+  {"topic": "Match fonts", "file": "desktop/text-and-typography/select-and-manage-fonts/match-fonts.md", "summary": "Open when looking up Match fonts in Photoshop.", "keywords": ["Match fonts"]},
+  {"topic": "Overview of OpenType fonts", "file": "desktop/text-and-typography/select-and-manage-fonts/overview-of-open-type-fonts.md", "summary": "Open when looking up Overview of OpenType fonts in Photoshop.", "keywords": ["Overview of OpenType fonts"]},
+  {"topic": "Replace missing fonts", "file": "desktop/text-and-typography/select-and-manage-fonts/replace-missing-fonts.md", "summary": "Open when looking up Replace missing fonts in Photoshop.", "keywords": ["Replace missing fonts"]},
+  {"topic": "Replace missing fonts references", "file": "desktop/text-and-typography/select-and-manage-fonts/replace-missing-fonts/reference-index.md", "summary": "Open when looking up Replace missing fonts in Photoshop.", "keywords": ["Replace missing fonts references"]},
+  {"topic": "Search for and apply font styles", "file": "desktop/text-and-typography/select-and-manage-fonts/search-for-and-apply-font-styles.md", "summary": "Open when looking up Search for and apply font styles in Photoshop.", "keywords": ["Search for and apply font styles"]},
+  {"topic": "Use OpenType variable fonts", "file": "desktop/text-and-typography/select-and-manage-fonts/use-open-type-variable-fonts.md", "summary": "Open when looking up Use OpenType variable fonts in Photoshop.", "keywords": ["Use OpenType variable fonts"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

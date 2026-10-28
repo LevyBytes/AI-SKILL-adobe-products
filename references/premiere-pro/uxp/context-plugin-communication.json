@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Clipboard Operations", "file": "uxp/clipboard-operations.md", "summary": "Open when looking up Clipboard Operations in Premiere Pro.", "keywords": ["Clipboard Operations"]},
+  {"topic": "Clipboard Operations references", "file": "uxp/clipboard-operations/reference-index.md", "summary": "Open when looking up Clipboard Operations in Premiere Pro.", "keywords": ["Clipboard Operations references"]},
+  {"topic": "Inter Plugin Communication", "file": "uxp/inter-plugin-communication.md", "summary": "Open when looking up Inter Plugin Communication in Premiere Pro.", "keywords": ["Inter Plugin Communication"]},
+  {"topic": "Inter Plugin Communication references", "file": "uxp/inter-plugin-communication/reference-index.md", "summary": "Open when looking up Inter Plugin Communication in Premiere Pro.", "keywords": ["Inter Plugin Communication references"]},
+  {"topic": "Requester code references", "file": "uxp/requester-code/reference-index.md", "summary": "Open when looking up Requester code in Premiere Pro.", "keywords": ["Requester code references"]},
+  {"topic": "Responder code references", "file": "uxp/responder-code/reference-index.md", "summary": "Open when looking up Responder code in Premiere Pro.", "keywords": ["Responder code references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "getDisplayName", "file": "uxp/host-api/component/instance-methods/get-display-name.md", "summary": "Open when looking up getDisplayName in Premiere Pro.", "keywords": ["getDisplayName"]},
+  {"topic": "getMatchName", "file": "uxp/host-api/component/instance-methods/get-match-name.md", "summary": "Open when looking up getMatchName in Premiere Pro.", "keywords": ["getMatchName"]},
+  {"topic": "getParam", "file": "uxp/host-api/component/instance-methods/get-param.md", "summary": "Open when looking up getParam in Premiere Pro.", "keywords": ["getParam"]},
+  {"topic": "getParamCount", "file": "uxp/host-api/component/instance-methods/get-param-count.md", "summary": "Open when looking up getParamCount in Premiere Pro.", "keywords": ["getParamCount"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

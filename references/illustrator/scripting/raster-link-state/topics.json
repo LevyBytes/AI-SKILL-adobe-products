@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Scripting Constants - RasterLinkState", "file": "scripting/raster-link-state/scripting-constants-raster-link-state.md", "summary": "Open when looking up Scripting Constants - RasterLinkState in Illustrator.", "keywords": ["Scripting Constants - RasterLinkState"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

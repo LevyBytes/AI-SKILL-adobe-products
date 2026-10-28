@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "include the output of the custom build steps into the Microsoft-generated .rc file. - Multiple PiPLs", "file": "plugin-sdk/multiple-pi-p-ls/multiple-pipls.md", "summary": "Open when looking up include the output of the custom build steps into the Microsoft-generated .rc file. - Multiple PiPLs in After Effects.", "keywords": ["include the output of the custom build steps into the Microsoft-generated .rc file. - Multiple PiPLs"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

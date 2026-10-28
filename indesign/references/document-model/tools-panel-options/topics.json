@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "DOUBLE_COLUMN", "file": "references/document-model/tools-panel-options/doublecolumn.md", "summary": "Open when looking up DOUBLE_COLUMN in InDesign.", "keywords": ["DOUBLE_COLUMN"]},
-  {"topic": "SINGLE_COLUMN", "file": "references/document-model/tools-panel-options/singlecolumn.md", "summary": "Open when looking up SINGLE_COLUMN in InDesign.", "keywords": ["SINGLE_COLUMN"]},
-  {"topic": "SINGLE_ROW", "file": "references/document-model/tools-panel-options/singlerow.md", "summary": "Open when looking up SINGLE_ROW in InDesign.", "keywords": ["SINGLE_ROW"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Automatic document closing", "file": "uxp/scripting-reference-script-module/automatic-document-closing.md", "summary": "Open when looking up Automatic document closing in Photoshop.", "keywords": ["Automatic document closing"]},
+  {"topic": "Events", "file": "uxp/scripting-reference-script-module/events.md", "summary": "Open when looking up Events in Photoshop.", "keywords": ["Events"]},
+  {"topic": "History state suspension", "file": "uxp/scripting-reference-script-module/history-state-suspension.md", "summary": "Open when looking up History state suspension in Photoshop.", "keywords": ["History state suspension"]},
+  {"topic": "hostControl", "file": "uxp/scripting-reference-script-module/host-control.md", "summary": "Open when looking up hostControl in Photoshop.", "keywords": ["hostControl"]},
+  {"topic": "Scripting Reference - ExecutionContext", "file": "uxp/scripting-reference-script-module/scripting-reference-execution-context.md", "summary": "Open when looking up Scripting Reference - ExecutionContext in Photoshop.", "keywords": ["Scripting Reference - ExecutionContext"]},
+  {"topic": "Usage", "file": "uxp/scripting-reference-script-module/usage.md", "summary": "Open when looking up Usage in Photoshop.", "keywords": ["Usage"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Cloud collaboration and web issues references", "file": "desktop/troubleshoot/cloud-and-web/reference-index.md", "summary": "Open when looking up Cloud collaboration and web issues in InDesign.", "keywords": ["Cloud collaboration and web issues references"]},
+  {"topic": "File and output issues references", "file": "desktop/troubleshoot/files-and-output/reference-index.md", "summary": "Open when looking up File and output issues in InDesign.", "keywords": ["File and output issues references"]},
+  {"topic": "Font and plugin issues references", "file": "desktop/troubleshoot/font-and-plugin-issues/reference-index.md", "summary": "Open when looking up Font and plugin issues in InDesign.", "keywords": ["Font and plugin issues references"]},
+  {"topic": "Known And Fixed Issues", "file": "desktop/troubleshoot/known-and-fixed-issues.md", "summary": "Open when looking up Known And Fixed Issues in InDesign.", "keywords": ["Known And Fixed Issues"]},
+  {"topic": "Known And Fixed Issues references", "file": "desktop/troubleshoot/known-and-fixed-issues/reference-index.md", "summary": "Open when looking up Known And Fixed Issues in InDesign.", "keywords": ["Known And Fixed Issues references"]},
+  {"topic": "Launch and crash issues references", "file": "desktop/troubleshoot/launch-and-crash-issues/reference-index.md", "summary": "Open when looking up Launch and crash issues in InDesign.", "keywords": ["Launch and crash issues references"]},
+  {"topic": "Settings interface and feature issues references", "file": "desktop/troubleshoot/settings-and-interface/reference-index.md", "summary": "Open when looking up Settings interface and feature issues in InDesign.", "keywords": ["Settings interface and feature issues references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

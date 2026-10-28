@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Configure Acrobat for Windows certificates", "file": "desktop/protect-documents/encrypt-with-certificates/windows-certificate-store/configure-acrobat-for-windows-certificates.md", "summary": "Open when looking up Configure Acrobat for Windows certificates in Acrobat.", "keywords": ["Configure Acrobat for Windows certificates"]},
+  {"topic": "Import a specific certificate", "file": "desktop/protect-documents/encrypt-with-certificates/windows-certificate-store/import-a-specific-certificate.md", "summary": "Open when looking up Import a specific certificate in Acrobat.", "keywords": ["Import a specific certificate"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

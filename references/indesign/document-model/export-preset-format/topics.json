@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "DOCUMENT_PRESETS_FORMAT", "file": "document-model/export-preset-format/documentpresetsformat.md", "summary": "Open when looking up DOCUMENT_PRESETS_FORMAT in InDesign.", "keywords": ["DOCUMENT_PRESETS_FORMAT"]},
+  {"topic": "FLATTENER_PRESETS_FORMAT", "file": "document-model/export-preset-format/flattenerpresetsformat.md", "summary": "Open when looking up FLATTENER_PRESETS_FORMAT in InDesign.", "keywords": ["FLATTENER_PRESETS_FORMAT"]},
+  {"topic": "PDF_EXPORT_PRESETS_FORMAT", "file": "document-model/export-preset-format/pdfexportpresetsformat.md", "summary": "Open when looking up PDF_EXPORT_PRESETS_FORMAT in InDesign.", "keywords": ["PDF_EXPORT_PRESETS_FORMAT"]},
+  {"topic": "PRINTER_PRESETS_FORMAT", "file": "document-model/export-preset-format/printerpresetsformat.md", "summary": "Open when looking up PRINTER_PRESETS_FORMAT in InDesign.", "keywords": ["PRINTER_PRESETS_FORMAT"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

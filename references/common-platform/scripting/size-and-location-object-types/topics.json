@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Bounds", "file": "scripting/size-and-location-object-types/bounds.md", "summary": "Open when looking up Bounds in Shared Adobe platform.", "keywords": ["Bounds"]},
+  {"topic": "Dimension", "file": "scripting/size-and-location-object-types/dimension.md", "summary": "Open when looking up Dimension in Shared Adobe platform.", "keywords": ["Dimension"]},
+  {"topic": "Margins", "file": "scripting/size-and-location-object-types/margins.md", "summary": "Open when looking up Margins in Shared Adobe platform.", "keywords": ["Margins"]},
+  {"topic": "Point", "file": "scripting/size-and-location-object-types/point.md", "summary": "Open when looking up Point in Shared Adobe platform.", "keywords": ["Point"]},
+  {"topic": "Size and location objects - Size and location object types", "file": "scripting/size-and-location-object-types/size-and-location-objects-size-and-location-object-types.md", "summary": "Open when looking up Size and location objects - Size and location object types in Shared Adobe platform.", "keywords": ["Size and location objects - Size and location object types"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

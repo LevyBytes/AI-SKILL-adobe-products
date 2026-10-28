@@ -1,0 +1,19 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Cell.cells", "file": "community-types/indesign/cell/cells.md", "summary": "Open when looking up Cell.cells in Shared Adobe platform.", "keywords": ["Cell.cells"]},
+  {"topic": "Cell.cellType", "file": "community-types/indesign/cell/cell-type.md", "summary": "Open when looking up Cell.cellType in Shared Adobe platform.", "keywords": ["Cell.cellType"]},
+  {"topic": "Cell.columns", "file": "community-types/indesign/cell/columns.md", "summary": "Open when looking up Cell.columns in Shared Adobe platform.", "keywords": ["Cell.columns"]},
+  {"topic": "Cell.columnSpan", "file": "community-types/indesign/cell/column-span.md", "summary": "Open when looking up Cell.columnSpan in Shared Adobe platform.", "keywords": ["Cell.columnSpan"]},
+  {"topic": "Cell.convertCellType", "file": "community-types/indesign/cell/convert-cell-type.md", "summary": "Open when looking up Cell.convertCellType in Shared Adobe platform.", "keywords": ["Cell.convertCellType"]},
+  {"topic": "Cell.keepWithNextRow", "file": "community-types/indesign/cell/keep-with-next-row.md", "summary": "Open when looking up Cell.keepWithNextRow in Shared Adobe platform.", "keywords": ["Cell.keepWithNextRow"]},
+  {"topic": "Cell.merge", "file": "community-types/indesign/cell/merge.md", "summary": "Open when looking up Cell.merge in Shared Adobe platform.", "keywords": ["Cell.merge"]},
+  {"topic": "Cell.parentColumn", "file": "community-types/indesign/cell/parent-column.md", "summary": "Open when looking up Cell.parentColumn in Shared Adobe platform.", "keywords": ["Cell.parentColumn"]},
+  {"topic": "Cell.parentRow", "file": "community-types/indesign/cell/parent-row.md", "summary": "Open when looking up Cell.parentRow in Shared Adobe platform.", "keywords": ["Cell.parentRow"]},
+  {"topic": "Cell.rows", "file": "community-types/indesign/cell/rows.md", "summary": "Open when looking up Cell.rows in Shared Adobe platform.", "keywords": ["Cell.rows"]},
+  {"topic": "Cell.rowSpan", "file": "community-types/indesign/cell/row-span.md", "summary": "Open when looking up Cell.rowSpan in Shared Adobe platform.", "keywords": ["Cell.rowSpan"]},
+  {"topic": "Cell.rowType", "file": "community-types/indesign/cell/row-type.md", "summary": "Open when looking up Cell.rowType in Shared Adobe platform.", "keywords": ["Cell.rowType"]},
+  {"topic": "Cell.split", "file": "community-types/indesign/cell/split.md", "summary": "Open when looking up Cell.split in Shared Adobe platform.", "keywords": ["Cell.split"]},
+  {"topic": "Cell.startRow", "file": "community-types/indesign/cell/start-row.md", "summary": "Open when looking up Cell.startRow in Shared Adobe platform.", "keywords": ["Cell.startRow"]},
+  {"topic": "Cell.tables", "file": "community-types/indesign/cell/tables.md", "summary": "Open when looking up Cell.tables in Shared Adobe platform.", "keywords": ["Cell.tables"]},
+  {"topic": "Cell.unmerge", "file": "community-types/indesign/cell/unmerge.md", "summary": "Open when looking up Cell.unmerge in Shared Adobe platform.", "keywords": ["Cell.unmerge"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

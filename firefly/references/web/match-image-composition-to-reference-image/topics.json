@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "firefly", "topics": [
-  {"topic": "Generate image variations that follow a reference image composition", "file": "references/web/match-image-composition-to-reference-image/reference-composition-matching.md", "summary": "Open when looking up Generate image variations that follow a reference image composition in Firefly.", "keywords": ["Generate image variations that follow a reference image composition"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

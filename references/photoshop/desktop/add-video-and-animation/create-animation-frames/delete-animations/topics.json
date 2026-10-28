@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Delete an entire animation", "file": "desktop/add-video-and-animation/create-animation-frames/delete-animations/delete-an-entire-animation.md", "summary": "Open when looking up Delete an entire animation in Photoshop.", "keywords": ["Delete an entire animation"]},
+  {"topic": "Delete individual animation frames", "file": "desktop/add-video-and-animation/create-animation-frames/delete-animations/delete-individual-animation-frames.md", "summary": "Open when looking up Delete individual animation frames in Photoshop.", "keywords": ["Delete individual animation frames"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

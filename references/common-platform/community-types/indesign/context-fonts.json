@@ -1,0 +1,20 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "AlternateGlyphForms", "file": "community-types/indesign/alternate-glyph-forms.md", "summary": "Open when looking up AlternateGlyphForms in Shared Adobe platform.", "keywords": ["AlternateGlyphForms"]},
+  {"topic": "Capitalization", "file": "community-types/indesign/capitalization.md", "summary": "Open when looking up Capitalization in Shared Adobe platform.", "keywords": ["Capitalization"]},
+  {"topic": "ChangecaseMode", "file": "community-types/indesign/changecase-mode.md", "summary": "Open when looking up ChangecaseMode in Shared Adobe platform.", "keywords": ["ChangecaseMode"]},
+  {"topic": "ChangeCaseOptions", "file": "community-types/indesign/change-case-options.md", "summary": "Open when looking up ChangeCaseOptions in Shared Adobe platform.", "keywords": ["ChangeCaseOptions"]},
+  {"topic": "CompositeFont references", "file": "community-types/indesign/composite-font/reference-index.md", "summary": "Open when looking up CompositeFont in Shared Adobe platform.", "keywords": ["CompositeFont references"]},
+  {"topic": "CompositeFontEntries references", "file": "community-types/indesign/composite-font-entries/reference-index.md", "summary": "Open when looking up CompositeFontEntries in Shared Adobe platform.", "keywords": ["CompositeFontEntries references"]},
+  {"topic": "CompositeFontEntry references", "file": "community-types/indesign/composite-font-entry/reference-index.md", "summary": "Open when looking up CompositeFontEntry in Shared Adobe platform.", "keywords": ["CompositeFontEntry references"]},
+  {"topic": "CompositeFonts references", "file": "community-types/indesign/composite-fonts/reference-index.md", "summary": "Open when looking up CompositeFonts in Shared Adobe platform.", "keywords": ["CompositeFonts references"]},
+  {"topic": "Font references", "file": "community-types/indesign/font/reference-index.md", "summary": "Open when looking up Font in Shared Adobe platform.", "keywords": ["Font references"]},
+  {"topic": "FontLockingPreference", "file": "community-types/indesign/font-locking-preference.md", "summary": "Open when looking up FontLockingPreference in Shared Adobe platform.", "keywords": ["FontLockingPreference"]},
+  {"topic": "Fonts", "file": "community-types/indesign/fonts.md", "summary": "Open when looking up Fonts in Shared Adobe platform.", "keywords": ["Fonts"]},
+  {"topic": "FontStatus", "file": "community-types/indesign/font-status.md", "summary": "Open when looking up FontStatus in Shared Adobe platform.", "keywords": ["FontStatus"]},
+  {"topic": "FontSyncPreference", "file": "community-types/indesign/font-sync-preference.md", "summary": "Open when looking up FontSyncPreference in Shared Adobe platform.", "keywords": ["FontSyncPreference"]},
+  {"topic": "FontTypes", "file": "community-types/indesign/font-types.md", "summary": "Open when looking up FontTypes in Shared Adobe platform.", "keywords": ["FontTypes"]},
+  {"topic": "OpenTypeFeature references", "file": "community-types/indesign/open-type-feature/reference-index.md", "summary": "Open when looking up OpenTypeFeature in Shared Adobe platform.", "keywords": ["OpenTypeFeature references"]},
+  {"topic": "OTFFigureStyle", "file": "community-types/indesign/otf-figure-style.md", "summary": "Open when looking up OTFFigureStyle in Shared Adobe platform.", "keywords": ["OTFFigureStyle"]},
+  {"topic": "PositionalForms", "file": "community-types/indesign/positional-forms.md", "summary": "Open when looking up PositionalForms in Shared Adobe platform.", "keywords": ["PositionalForms"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

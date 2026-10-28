@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Edit text, images, and objects", "file": "references/web/edit-pdfs/edit-text-images-and-objects.md", "summary": "Open when looking up Edit text, images, and objects in Acrobat.", "keywords": ["Edit text, images, and objects"]},
-  {"topic": "Edit text, images, and objects references", "file": "references/web/edit-pdfs/edit-text-images-and-objects/reference-index.md", "summary": "Open when looking up Edit text, images, and objects in Acrobat.", "keywords": ["Edit text, images, and objects references"]},
-  {"topic": "Organize documents", "file": "references/web/edit-pdfs/organize-documents.md", "summary": "Open when looking up Organize documents in Acrobat.", "keywords": ["Organize documents"]},
-  {"topic": "Organize documents references", "file": "references/web/edit-pdfs/organize-documents/reference-index.md", "summary": "Open when looking up Organize documents in Acrobat.", "keywords": ["Organize documents references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

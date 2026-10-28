@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Saving Look-up Tables (LUTs) for reuse in Adobe Premiere or another application", "file": "desktop/save-or-export-look-up-tables/lut-save-and-export.md", "summary": "Open when looking up Saving Look-up Tables (LUTs) for reuse in Adobe Premiere or another application in Premiere Pro.", "keywords": ["Saving Look-up Tables (LUTs) for reuse in Adobe Premiere or another application"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

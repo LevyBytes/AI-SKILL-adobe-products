@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Scripting Constants - ViewVectorType", "file": "scripting/view-vector-type/scripting-constants-view-vector-type.md", "summary": "Open when looking up Scripting Constants - ViewVectorType in Illustrator.", "keywords": ["Scripting Constants - ViewVectorType"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

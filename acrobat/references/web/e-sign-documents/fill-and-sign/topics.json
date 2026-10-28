@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "E-signatures legal compliance overview", "file": "references/web/e-sign-documents/fill-and-sign/e-signatures-legal-compliance-overview.md", "summary": "Open when looking up E-signatures legal compliance overview in Acrobat.", "keywords": ["E-signatures legal compliance overview"]},
-  {"topic": "E-signatures legal compliance overview references", "file": "references/web/e-sign-documents/fill-and-sign/e-signatures-legal-compliance-overview/reference-index.md", "summary": "Open when looking up E-signatures legal compliance overview in Acrobat.", "keywords": ["E-signatures legal compliance overview references"]},
-  {"topic": "Types of signatures", "file": "references/web/e-sign-documents/fill-and-sign/types-of-signatures.md", "summary": "Open when looking up Types of signatures in Acrobat.", "keywords": ["Types of signatures"]},
-  {"topic": "Types of signatures references", "file": "references/web/e-sign-documents/fill-and-sign/types-of-signatures/reference-index.md", "summary": "Open when looking up Types of signatures in Acrobat.", "keywords": ["Types of signatures references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

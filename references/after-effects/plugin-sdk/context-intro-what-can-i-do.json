@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "How does after effects interact with plug ins references", "file": "plugin-sdk/how-does-after-effects-interact-with-plug-ins/reference-index.md", "summary": "Open when looking up How does after effects interact with plug ins in After Effects.", "keywords": ["How does after effects interact with plug ins references"]},
+  {"topic": "Sdk contents references", "file": "plugin-sdk/sdk-contents/reference-index.md", "summary": "Open when looking up Sdk contents in After Effects.", "keywords": ["Sdk contents references"]},
+  {"topic": "What Can I Do With This SDK?", "file": "plugin-sdk/what-can-i-do-with-this-sdk.md", "summary": "Open when looking up What Can I Do With This SDK? in After Effects.", "keywords": ["What Can I Do With This SDK?"]},
+  {"topic": "What plug ins can i build with this sdk references", "file": "plugin-sdk/what-plug-ins-can-i-build-with-this-sdk/reference-index.md", "summary": "Open when looking up What plug ins can i build with this sdk in After Effects.", "keywords": ["What plug ins can i build with this sdk references"]},
+  {"topic": "Where do plug ins appear in after effects references", "file": "plugin-sdk/where-do-plug-ins-appear-in-after-effects/reference-index.md", "summary": "Open when looking up Where do plug ins appear in after effects in After Effects.", "keywords": ["Where do plug ins appear in after effects references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

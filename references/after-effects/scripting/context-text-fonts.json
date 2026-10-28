@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "3d text references", "file": "scripting/3d-text/reference-index.md", "summary": "Open when looking up 3d text in After Effects.", "keywords": ["3d text references"]},
+  {"topic": "Animators references", "file": "scripting/animators/reference-index.md", "summary": "Open when looking up Animators in After Effects.", "keywords": ["Animators references"]},
+  {"topic": "Character range references", "file": "scripting/character-range/reference-index.md", "summary": "Open when looking up Character range in After Effects.", "keywords": ["Character range references"]},
+  {"topic": "Composed line range references", "file": "scripting/composed-line-range/reference-index.md", "summary": "Open when looking up Composed line range in After Effects.", "keywords": ["Composed line range references"]},
+  {"topic": "Font object references", "file": "scripting/font-object/reference-index.md", "summary": "Open when looking up Font object in After Effects.", "keywords": ["Font object references"]},
+  {"topic": "Font references", "file": "scripting/font/reference-index.md", "summary": "Open when looking up Font in After Effects.", "keywords": ["Font references"]},
+  {"topic": "Fonts object references", "file": "scripting/fonts-object/reference-index.md", "summary": "Open when looking up Fonts object in After Effects.", "keywords": ["Fonts object references"]},
+  {"topic": "Fonts references", "file": "scripting/fonts/reference-index.md", "summary": "Open when looking up Fonts in After Effects.", "keywords": ["Fonts references"]},
+  {"topic": "Paragraph range references", "file": "scripting/paragraph-range/reference-index.md", "summary": "Open when looking up Paragraph range in After Effects.", "keywords": ["Paragraph range references"]},
+  {"topic": "Text document object references", "file": "scripting/text-document-object/reference-index.md", "summary": "Open when looking up Text document object in After Effects.", "keywords": ["Text document object references"]},
+  {"topic": "Text document references", "file": "scripting/text-document/reference-index.md", "summary": "Open when looking up Text document in After Effects.", "keywords": ["Text document references"]},
+  {"topic": "Text references", "file": "scripting/text/reference-index.md", "summary": "Open when looking up Text in After Effects.", "keywords": ["Text references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "How It Works", "file": "document-generation/apply-styling-and-formatting/how-it-works.md", "summary": "Open when looking up How It Works in Acrobat.", "keywords": ["How It Works"]},
+  {"topic": "How to create paragraphs in document?", "file": "document-generation/apply-styling-and-formatting/how-to-create-paragraphs-in-document.md", "summary": "Open when looking up How to create paragraphs in document? in Acrobat.", "keywords": ["How to create paragraphs in document?"]},
+  {"topic": "Inline images supported attributes", "file": "document-generation/apply-styling-and-formatting/inline-images-supported-attributes.md", "summary": "Open when looking up Inline images supported attributes in Acrobat.", "keywords": ["Inline images supported attributes"]},
+  {"topic": "Inline styling attributes supported", "file": "document-generation/apply-styling-and-formatting/inline-styling-attributes-supported.md", "summary": "Open when looking up Inline styling attributes supported in Acrobat.", "keywords": ["Inline styling attributes supported"]},
+  {"topic": "Styling and Formatting rules", "file": "document-generation/apply-styling-and-formatting/styling-and-formatting-rules.md", "summary": "Open when looking up Styling and Formatting rules in Acrobat.", "keywords": ["Styling and Formatting rules"]},
+  {"topic": "Tags Supported", "file": "document-generation/apply-styling-and-formatting/tags-supported.md", "summary": "Open when looking up Tags Supported in Acrobat.", "keywords": ["Tags Supported"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

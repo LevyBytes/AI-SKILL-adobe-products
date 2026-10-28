@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "View options references", "file": "references/scripting/view-options/reference-index.md", "summary": "Open when looking up View options in After Effects.", "keywords": ["View options references"]},
-  {"topic": "View references", "file": "references/scripting/view/reference-index.md", "summary": "Open when looking up View in After Effects.", "keywords": ["View references"]},
-  {"topic": "Viewer references", "file": "references/scripting/viewer/reference-index.md", "summary": "Open when looking up Viewer in After Effects.", "keywords": ["Viewer references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/audition", "topics": [
+  {"topic": "Accessing the CEP extensions", "file": "desktop/applying-effects/enabling-cep-extensions/accessing-the-cep-extensions.md", "summary": "Open when looking up Accessing the CEP extensions in Audition.", "keywords": ["Accessing the CEP extensions"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

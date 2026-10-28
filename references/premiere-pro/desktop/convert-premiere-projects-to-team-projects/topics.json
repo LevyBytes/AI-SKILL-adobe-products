@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Converting a Premiere project into a Team Project.", "file": "desktop/convert-premiere-projects-to-team-projects/converting-a-premiere-project-into-a-team-project.md", "summary": "Open when looking up Converting a Premiere project into a Team Project. in Premiere Pro.", "keywords": ["Converting a Premiere project into a Team Project."]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

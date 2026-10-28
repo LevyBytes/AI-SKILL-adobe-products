@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "After Effects 22.0 (October 2021)", "file": "scripting/after-effects-22/after-effects-22-0-october-2021.md", "summary": "Open when looking up After Effects 22.0 (October 2021) in After Effects.", "keywords": ["After Effects 22.0 (October 2021)"]},
+  {"topic": "After Effects 22.3 (April 2022)", "file": "scripting/after-effects-22/after-effects-22-3-april-2022.md", "summary": "Open when looking up After Effects 22.3 (April 2022) in After Effects.", "keywords": ["After Effects 22.3 (April 2022)"]},
+  {"topic": "After Effects 22.6 (August 2022)", "file": "scripting/after-effects-22/after-effects-22-6-august-2022.md", "summary": "Open when looking up After Effects 22.6 (August 2022) in After Effects.", "keywords": ["After Effects 22.6 (August 2022)"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

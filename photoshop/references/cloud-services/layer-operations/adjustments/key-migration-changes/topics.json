@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "1. Layer Type Name", "file": "references/cloud-services/layer-operations/adjustments/key-migration-changes/layer-type-name.md", "summary": "Open when looking up 1. Layer Type Name in Photoshop.", "keywords": ["1. Layer Type Name"]},
-  {"topic": "2. Add Operation Structure", "file": "references/cloud-services/layer-operations/adjustments/key-migration-changes/add-operation-structure.md", "summary": "Open when looking up 2. Add Operation Structure in Photoshop.", "keywords": ["2. Add Operation Structure"]},
-  {"topic": "3. Adjustments Structure - Required type in V2", "file": "references/cloud-services/layer-operations/adjustments/key-migration-changes/adjustments-structure-required-type-in-v2.md", "summary": "Open when looking up 3. Adjustments Structure - Required type in V2 in Photoshop.", "keywords": ["3. Adjustments Structure - Required type in V2"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

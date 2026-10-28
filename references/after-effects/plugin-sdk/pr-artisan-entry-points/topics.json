@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "do_instance_dialog_func0", "file": "plugin-sdk/pr-artisan-entry-points/doinstancedialogfunc0.md", "summary": "Open when looking up do_instance_dialog_func0 in After Effects.", "keywords": ["do_instance_dialog_func0"]},
+  {"topic": "flatten_instance_func0", "file": "plugin-sdk/pr-artisan-entry-points/flatteninstancefunc0.md", "summary": "Open when looking up flatten_instance_func0 in After Effects.", "keywords": ["flatten_instance_func0"]},
+  {"topic": "frame_setdown_func0", "file": "plugin-sdk/pr-artisan-entry-points/framesetdownfunc0.md", "summary": "Open when looking up frame_setdown_func0 in After Effects.", "keywords": ["frame_setdown_func0"]},
+  {"topic": "frame_setup_func0", "file": "plugin-sdk/pr-artisan-entry-points/framesetupfunc0.md", "summary": "Open when looking up frame_setup_func0 in After Effects.", "keywords": ["frame_setup_func0"]},
+  {"topic": "global_do_about_func0", "file": "plugin-sdk/pr-artisan-entry-points/globaldoaboutfunc0.md", "summary": "Open when looking up global_do_about_func0 in After Effects.", "keywords": ["global_do_about_func0"]},
+  {"topic": "global_setdown_func0", "file": "plugin-sdk/pr-artisan-entry-points/globalsetdownfunc0.md", "summary": "Open when looking up global_setdown_func0 in After Effects.", "keywords": ["global_setdown_func0"]},
+  {"topic": "global_setup_func0", "file": "plugin-sdk/pr-artisan-entry-points/globalsetupfunc0.md", "summary": "Open when looking up global_setup_func0 in After Effects.", "keywords": ["global_setup_func0"]},
+  {"topic": "query_func0", "file": "plugin-sdk/pr-artisan-entry-points/queryfunc0.md", "summary": "Open when looking up query_func0 in After Effects.", "keywords": ["query_func0"]},
+  {"topic": "render_func", "file": "plugin-sdk/pr-artisan-entry-points/renderfunc.md", "summary": "Open when looking up render_func in After Effects.", "keywords": ["render_func"]},
+  {"topic": "setdown_instance_func0", "file": "plugin-sdk/pr-artisan-entry-points/setdowninstancefunc0.md", "summary": "Open when looking up setdown_instance_func0 in After Effects.", "keywords": ["setdown_instance_func0"]},
+  {"topic": "setup_instance_func0", "file": "plugin-sdk/pr-artisan-entry-points/setupinstancefunc0.md", "summary": "Open when looking up setup_instance_func0 in After Effects.", "keywords": ["setup_instance_func0"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

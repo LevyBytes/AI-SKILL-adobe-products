@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "ObjectStyles collection iteration", "file": "community-types/indesign/object-styles/collection-iteration.md", "summary": "Open when looking up ObjectStyles collection iteration in Shared Adobe platform.", "keywords": ["ObjectStyles collection iteration"]},
+  {"topic": "ObjectStyles declaration", "file": "community-types/indesign/object-styles/declaration.md", "summary": "Open when looking up ObjectStyles declaration in Shared Adobe platform.", "keywords": ["ObjectStyles declaration"]},
+  {"topic": "ObjectStyles named and indexed items", "file": "community-types/indesign/object-styles/named-and-indexed-items.md", "summary": "Open when looking up ObjectStyles named and indexed items in Shared Adobe platform.", "keywords": ["ObjectStyles named and indexed items"]},
+  {"topic": "ObjectStyles.add", "file": "community-types/indesign/object-styles/add.md", "summary": "Open when looking up ObjectStyles.add in Shared Adobe platform.", "keywords": ["ObjectStyles.add"]},
+  {"topic": "ObjectStyles.count", "file": "community-types/indesign/object-styles/count.md", "summary": "Open when looking up ObjectStyles.count in Shared Adobe platform.", "keywords": ["ObjectStyles.count"]},
+  {"topic": "ObjectStyles.IndexSignature", "file": "community-types/indesign/object-styles/index-signature.md", "summary": "Open when looking up ObjectStyles.IndexSignature in Shared Adobe platform.", "keywords": ["ObjectStyles.IndexSignature"]},
+  {"topic": "ObjectStyles.itemByRange", "file": "community-types/indesign/object-styles/item-by-range.md", "summary": "Open when looking up ObjectStyles.itemByRange in Shared Adobe platform.", "keywords": ["ObjectStyles.itemByRange"]},
+  {"topic": "ObjectStyles.length", "file": "community-types/indesign/object-styles/length.md", "summary": "Open when looking up ObjectStyles.length in Shared Adobe platform.", "keywords": ["ObjectStyles.length"]},
+  {"topic": "ObjectStyles.toSource", "file": "community-types/indesign/object-styles/to-source.md", "summary": "Open when looking up ObjectStyles.toSource in Shared Adobe platform.", "keywords": ["ObjectStyles.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

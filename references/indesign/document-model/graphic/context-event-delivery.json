@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "addEventListener", "file": "document-model/graphic/add-event-listener.md", "summary": "Open when looking up addEventListener in InDesign.", "keywords": ["addEventListener"]},
+  {"topic": "AFTER_PLACE", "file": "document-model/graphic/afterplace.md", "summary": "Open when looking up AFTER_PLACE in InDesign.", "keywords": ["AFTER_PLACE"]},
+  {"topic": "BEFORE_PLACE", "file": "document-model/graphic/beforeplace.md", "summary": "Open when looking up BEFORE_PLACE in InDesign.", "keywords": ["BEFORE_PLACE"]},
+  {"topic": "eventListeners", "file": "document-model/graphic/event-listeners.md", "summary": "Open when looking up eventListeners in InDesign.", "keywords": ["eventListeners"]},
+  {"topic": "events", "file": "document-model/graphic/events.md", "summary": "Open when looking up events in InDesign.", "keywords": ["events"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

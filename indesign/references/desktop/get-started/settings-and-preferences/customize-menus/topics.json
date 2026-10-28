@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Create a custom menu set", "file": "references/desktop/get-started/settings-and-preferences/customize-menus/create-a-custom-menu-set.md", "summary": "Open when looking up Create a custom menu set in InDesign.", "keywords": ["Create a custom menu set"]},
-  {"topic": "Modify or delete an existing menu set", "file": "references/desktop/get-started/settings-and-preferences/customize-menus/modify-or-delete-an-existing-menu-set.md", "summary": "Open when looking up Modify or delete an existing menu set in InDesign.", "keywords": ["Modify or delete an existing menu set"]},
-  {"topic": "Switch between menu sets", "file": "references/desktop/get-started/settings-and-preferences/customize-menus/switch-between-menu-sets.md", "summary": "Open when looking up Switch between menu sets in InDesign.", "keywords": ["Switch between menu sets"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

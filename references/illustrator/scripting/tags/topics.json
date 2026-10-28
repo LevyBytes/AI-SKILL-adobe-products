@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Tags.add()", "file": "scripting/tags/add.md", "summary": "Open when looking up Tags.add() in Illustrator.", "keywords": ["Tags.add()"]},
+  {"topic": "Tags.getByName()", "file": "scripting/tags/get-by-name.md", "summary": "Open when looking up Tags.getByName() in Illustrator.", "keywords": ["Tags.getByName()"]},
+  {"topic": "Tags.index()", "file": "scripting/tags/index.md", "summary": "Open when looking up Tags.index() in Illustrator.", "keywords": ["Tags.index()"]},
+  {"topic": "Tags.length", "file": "scripting/tags/length.md", "summary": "Open when looking up Tags.length in Illustrator.", "keywords": ["Tags.length"]},
+  {"topic": "Tags.parent", "file": "scripting/tags/parent.md", "summary": "Open when looking up Tags.parent in Illustrator.", "keywords": ["Tags.parent"]},
+  {"topic": "Tags.removeAll()", "file": "scripting/tags/remove-all.md", "summary": "Open when looking up Tags.removeAll() in Illustrator.", "keywords": ["Tags.removeAll()"]},
+  {"topic": "Tags.typename", "file": "scripting/tags/typename.md", "summary": "Open when looking up Tags.typename in Illustrator.", "keywords": ["Tags.typename"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

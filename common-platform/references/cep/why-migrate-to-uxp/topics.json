@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Developer Tooling", "file": "references/cep/why-migrate-to-uxp/developer-tooling.md", "summary": "Open when looking up Developer Tooling in Shared Adobe platform.", "keywords": ["Developer Tooling"]},
-  {"topic": "Plugin Types", "file": "references/cep/why-migrate-to-uxp/plugin-types.md", "summary": "Open when looking up Plugin Types in Shared Adobe platform.", "keywords": ["Plugin Types"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

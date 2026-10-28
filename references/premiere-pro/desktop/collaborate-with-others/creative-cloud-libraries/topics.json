@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "About Creative Cloud Libraries", "file": "desktop/collaborate-with-others/creative-cloud-libraries/about-creative-cloud-libraries.md", "summary": "Open when looking up About Creative Cloud Libraries in Premiere Pro.", "keywords": ["About Creative Cloud Libraries"]},
+  {"topic": "About Creative Cloud Libraries references", "file": "desktop/collaborate-with-others/creative-cloud-libraries/about-creative-cloud-libraries/reference-index.md", "summary": "Open when looking up About Creative Cloud Libraries in Premiere Pro.", "keywords": ["About Creative Cloud Libraries references"]},
+  {"topic": "Collaborate with Creative Cloud users", "file": "desktop/collaborate-with-others/creative-cloud-libraries/collaborate-with-creative-cloud-users.md", "summary": "Open when looking up Collaborate with Creative Cloud users in Premiere Pro.", "keywords": ["Collaborate with Creative Cloud users"]},
+  {"topic": "Collaborate with Creative Cloud users references", "file": "desktop/collaborate-with-others/creative-cloud-libraries/collaborate-with-creative-cloud-users/reference-index.md", "summary": "Open when looking up Collaborate with Creative Cloud users in Premiere Pro.", "keywords": ["Collaborate with Creative Cloud users references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

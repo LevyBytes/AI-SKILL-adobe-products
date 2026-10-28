@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "borderColor", "file": "references/scripting/link/border-color.md", "summary": "Open when looking up borderColor in Acrobat.", "keywords": ["borderColor"]},
-  {"topic": "borderWidth", "file": "references/scripting/link/border-width.md", "summary": "Open when looking up borderWidth in Acrobat.", "keywords": ["borderWidth"]},
-  {"topic": "highlightMode", "file": "references/scripting/link/highlight-mode.md", "summary": "Open when looking up highlightMode in Acrobat.", "keywords": ["highlightMode"]},
-  {"topic": "JavaScript APIs - Link", "file": "references/scripting/link/java-script-apis-link.md", "summary": "Open when looking up JavaScript APIs - Link in Acrobat.", "keywords": ["JavaScript APIs - Link"]},
-  {"topic": "rect", "file": "references/scripting/link/rect.md", "summary": "Open when looking up rect in Acrobat.", "keywords": ["rect"]},
-  {"topic": "setAction", "file": "references/scripting/link/set-action.md", "summary": "Open when looking up setAction in Acrobat.", "keywords": ["setAction"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

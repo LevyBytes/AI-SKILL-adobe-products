@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Change cell inset spacing for graphic cells", "file": "desktop/add-tables-and-data/format-tables/format-text-in-tables/change-cell-inset-spacing-for-graphic-cells.md", "summary": "Open when looking up Change cell inset spacing for graphic cells in InDesign.", "keywords": ["Change cell inset spacing for graphic cells"]},
+  {"topic": "Change cell inset spacing for text cells", "file": "desktop/add-tables-and-data/format-tables/format-text-in-tables/change-cell-inset-spacing-for-text-cells.md", "summary": "Open when looking up Change cell inset spacing for text cells in InDesign.", "keywords": ["Change cell inset spacing for text cells"]},
+  {"topic": "Change text alignment within a cell", "file": "desktop/add-tables-and-data/format-tables/format-text-in-tables/change-text-alignment-within-a-cell.md", "summary": "Open when looking up Change text alignment within a cell in InDesign.", "keywords": ["Change text alignment within a cell"]},
+  {"topic": "Insert tabs in a table cell", "file": "desktop/add-tables-and-data/format-tables/format-text-in-tables/insert-tabs-in-a-table-cell.md", "summary": "Open when looking up Insert tabs in a table cell in InDesign.", "keywords": ["Insert tabs in a table cell"]},
+  {"topic": "Rotate text in a cell", "file": "desktop/add-tables-and-data/format-tables/format-text-in-tables/rotate-text-in-a-cell.md", "summary": "Open when looking up Rotate text in a cell in InDesign.", "keywords": ["Rotate text in a cell"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

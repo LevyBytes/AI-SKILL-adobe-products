@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Document.allGraphics", "file": "community-types/indesign/document/all-graphics.md", "summary": "Open when looking up Document.allGraphics in Shared Adobe platform.", "keywords": ["Document.allGraphics"]},
+  {"topic": "Document.allPageItems", "file": "community-types/indesign/document/all-page-items.md", "summary": "Open when looking up Document.allPageItems in Shared Adobe platform.", "keywords": ["Document.allPageItems"]},
+  {"topic": "Document.epstexts", "file": "community-types/indesign/document/epstexts.md", "summary": "Open when looking up Document.epstexts in Shared Adobe platform.", "keywords": ["Document.epstexts"]},
+  {"topic": "Document.graphicLines", "file": "community-types/indesign/document/graphic-lines.md", "summary": "Open when looking up Document.graphicLines in Shared Adobe platform.", "keywords": ["Document.graphicLines"]},
+  {"topic": "Document.groups", "file": "community-types/indesign/document/groups.md", "summary": "Open when looking up Document.groups in Shared Adobe platform.", "keywords": ["Document.groups"]},
+  {"topic": "Document.ovals", "file": "community-types/indesign/document/ovals.md", "summary": "Open when looking up Document.ovals in Shared Adobe platform.", "keywords": ["Document.ovals"]},
+  {"topic": "Document.pageItems", "file": "community-types/indesign/document/page-items.md", "summary": "Open when looking up Document.pageItems in Shared Adobe platform.", "keywords": ["Document.pageItems"]},
+  {"topic": "Document.polygons", "file": "community-types/indesign/document/polygons.md", "summary": "Open when looking up Document.polygons in Shared Adobe platform.", "keywords": ["Document.polygons"]},
+  {"topic": "Document.rectangles", "file": "community-types/indesign/document/rectangles.md", "summary": "Open when looking up Document.rectangles in Shared Adobe platform.", "keywords": ["Document.rectangles"]},
+  {"topic": "Document.splineItems", "file": "community-types/indesign/document/spline-items.md", "summary": "Open when looking up Document.splineItems in Shared Adobe platform.", "keywords": ["Document.splineItems"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

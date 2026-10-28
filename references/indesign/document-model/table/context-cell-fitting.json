@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "clipContentToGraphicCell", "file": "document-model/table/clip-content-to-graphic-cell.md", "summary": "Open when looking up clipContentToGraphicCell in InDesign.", "keywords": ["clipContentToGraphicCell"]},
+  {"topic": "clipContentToTextCell", "file": "document-model/table/clip-content-to-text-cell.md", "summary": "Open when looking up clipContentToTextCell in InDesign.", "keywords": ["clipContentToTextCell"]},
+  {"topic": "graphicBottomInset", "file": "document-model/table/graphic-bottom-inset.md", "summary": "Open when looking up graphicBottomInset in InDesign.", "keywords": ["graphicBottomInset"]},
+  {"topic": "graphicLeftInset", "file": "document-model/table/graphic-left-inset.md", "summary": "Open when looking up graphicLeftInset in InDesign.", "keywords": ["graphicLeftInset"]},
+  {"topic": "graphicRightInset", "file": "document-model/table/graphic-right-inset.md", "summary": "Open when looking up graphicRightInset in InDesign.", "keywords": ["graphicRightInset"]},
+  {"topic": "graphicTopInset", "file": "document-model/table/graphic-top-inset.md", "summary": "Open when looking up graphicTopInset in InDesign.", "keywords": ["graphicTopInset"]},
+  {"topic": "height", "file": "document-model/table/height.md", "summary": "Open when looking up height in InDesign.", "keywords": ["height"]},
+  {"topic": "textBottomInset", "file": "document-model/table/text-bottom-inset.md", "summary": "Open when looking up textBottomInset in InDesign.", "keywords": ["textBottomInset"]},
+  {"topic": "textLeftInset", "file": "document-model/table/text-left-inset.md", "summary": "Open when looking up textLeftInset in InDesign.", "keywords": ["textLeftInset"]},
+  {"topic": "textRightInset", "file": "document-model/table/text-right-inset.md", "summary": "Open when looking up textRightInset in InDesign.", "keywords": ["textRightInset"]},
+  {"topic": "textTopInset", "file": "document-model/table/text-top-inset.md", "summary": "Open when looking up textTopInset in InDesign.", "keywords": ["textTopInset"]},
+  {"topic": "width", "file": "document-model/table/width.md", "summary": "Open when looking up width in InDesign.", "keywords": ["width"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

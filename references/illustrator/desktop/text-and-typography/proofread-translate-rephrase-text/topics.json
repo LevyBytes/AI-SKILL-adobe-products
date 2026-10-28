@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Generate or Rewrite selected text", "file": "desktop/text-and-typography/proofread-translate-rephrase-text/generate-or-rewrite-selected-text.md", "summary": "Open when looking up Generate or Rewrite selected text in Illustrator.", "keywords": ["Generate or Rewrite selected text"]},
+  {"topic": "Give feedback on generated variations", "file": "desktop/text-and-typography/proofread-translate-rephrase-text/give-feedback-on-generated-variations.md", "summary": "Open when looking up Give feedback on generated variations in Illustrator.", "keywords": ["Give feedback on generated variations"]},
+  {"topic": "Proofread text", "file": "desktop/text-and-typography/proofread-translate-rephrase-text/proofread-text.md", "summary": "Open when looking up Proofread text in Illustrator.", "keywords": ["Proofread text"]},
+  {"topic": "Resize text to fit layouts", "file": "desktop/text-and-typography/proofread-translate-rephrase-text/resize-text-to-fit-layouts.md", "summary": "Open when looking up Resize text to fit layouts in Illustrator.", "keywords": ["Resize text to fit layouts"]},
+  {"topic": "Translate text", "file": "desktop/text-and-typography/proofread-translate-rephrase-text/translate-text.md", "summary": "Open when looking up Translate text in Illustrator.", "keywords": ["Translate text"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

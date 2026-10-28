@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/media-encoder", "topics": [
+  {"topic": "Adobe Media Encoder (AME) Scripting API Reference (A-Z) - WatchFolderScriptEvent", "file": "scripting/watch-folder-script-event/watch-folder-script-event.md", "summary": "Open when looking up Adobe Media Encoder (AME) Scripting API Reference (A-Z) - WatchFolderScriptEvent in Media Encoder.", "keywords": ["Adobe Media Encoder (AME) Scripting API Reference (A-Z) - WatchFolderScriptEvent"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

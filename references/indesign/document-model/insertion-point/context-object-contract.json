@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "duplicate", "file": "document-model/insertion-point/duplicate.md", "summary": "Open when looking up duplicate in InDesign.", "keywords": ["duplicate"]},
+  {"topic": "getElements", "file": "document-model/insertion-point/get-elements.md", "summary": "Open when looking up getElements in InDesign.", "keywords": ["getElements"]},
+  {"topic": "index", "file": "document-model/insertion-point/index.md", "summary": "Open when looking up index in InDesign.", "keywords": ["index"]},
+  {"topic": "isValid", "file": "document-model/insertion-point/is-valid.md", "summary": "Open when looking up isValid in InDesign.", "keywords": ["isValid"]},
+  {"topic": "move", "file": "document-model/insertion-point/move.md", "summary": "Open when looking up move in InDesign.", "keywords": ["move"]},
+  {"topic": "parent", "file": "document-model/insertion-point/parent.md", "summary": "Open when looking up parent in InDesign.", "keywords": ["parent"]},
+  {"topic": "properties", "file": "document-model/insertion-point/properties.md", "summary": "Open when looking up properties in InDesign.", "keywords": ["properties"]},
+  {"topic": "remove", "file": "document-model/insertion-point/remove.md", "summary": "Open when looking up remove in InDesign.", "keywords": ["remove"]},
+  {"topic": "toSource", "file": "document-model/insertion-point/to-source.md", "summary": "Open when looking up toSource in InDesign.", "keywords": ["toSource"]},
+  {"topic": "toSpecifier", "file": "document-model/insertion-point/to-specifier.md", "summary": "Open when looking up toSpecifier in InDesign.", "keywords": ["toSpecifier"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

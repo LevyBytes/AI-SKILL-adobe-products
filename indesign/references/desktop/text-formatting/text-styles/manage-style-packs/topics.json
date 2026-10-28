@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Duplicate or delete a style pack", "file": "references/desktop/text-formatting/text-styles/manage-style-packs/duplicate-or-delete-a-style-pack.md", "summary": "Open when looking up Duplicate or delete a style pack in InDesign.", "keywords": ["Duplicate or delete a style pack"]},
-  {"topic": "Edit a style pack", "file": "references/desktop/text-formatting/text-styles/manage-style-packs/edit-a-style-pack.md", "summary": "Open when looking up Edit a style pack in InDesign.", "keywords": ["Edit a style pack"]},
-  {"topic": "Manage Style Packs across InDesign", "file": "references/desktop/text-formatting/text-styles/manage-style-packs/manage-style-packs-across-in-design.md", "summary": "Open when looking up Manage Style Packs across InDesign in InDesign.", "keywords": ["Manage Style Packs across InDesign"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

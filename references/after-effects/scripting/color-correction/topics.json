@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "First-Party Effect Match Names - Color Correction", "file": "scripting/color-correction/first-party-effect-match-names-color-correction.md", "summary": "Open when looking up First-Party Effect Match Names - Color Correction in After Effects.", "keywords": ["First-Party Effect Match Names - Color Correction"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

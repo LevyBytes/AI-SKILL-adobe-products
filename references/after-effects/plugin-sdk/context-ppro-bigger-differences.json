@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "32 bit float support references", "file": "plugin-sdk/32-bit-float-support/reference-index.md", "summary": "Open when looking up 32 bit float support in After Effects.", "keywords": ["32 bit float support references"]},
+  {"topic": "Bigger Differences", "file": "plugin-sdk/bigger-differences.md", "summary": "Open when looking up Bigger Differences in After Effects.", "keywords": ["Bigger Differences"]},
+  {"topic": "Pfcheckoutparam and pixel formats references", "file": "plugin-sdk/pfcheckoutparam-and-pixel-formats/reference-index.md", "summary": "Open when looking up Pfcheckoutparam and pixel formats in After Effects.", "keywords": ["Pfcheckoutparam and pixel formats references"]},
+  {"topic": "Pixel formats references", "file": "plugin-sdk/pixel-formats/reference-index.md", "summary": "Open when looking up Pixel formats in After Effects.", "keywords": ["Pixel formats references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Configure and print the imposed document", "file": "desktop/print/print-booklets/impose-documents-for-booklet-printing/configure-and-print-the-imposed-document.md", "summary": "Open when looking up Configure and print the imposed document in InDesign.", "keywords": ["Configure and print the imposed document"]},
+  {"topic": "Handle blank pages correctly", "file": "desktop/print/print-booklets/impose-documents-for-booklet-printing/handle-blank-pages-correctly.md", "summary": "Open when looking up Handle blank pages correctly in InDesign.", "keywords": ["Handle blank pages correctly"]},
+  {"topic": "Print double-sided pages without duplex capability", "file": "desktop/print/print-booklets/impose-documents-for-booklet-printing/print-double-sided-pages-without-duplex-capability.md", "summary": "Open when looking up Print double-sided pages without duplex capability in InDesign.", "keywords": ["Print double-sided pages without duplex capability"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,22 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Essential Development Tools for UXP", "file": "uxp/essential-development-tools-for-uxp.md", "summary": "Open when looking up Essential Development Tools for UXP in Premiere Pro.", "keywords": ["Essential Development Tools for UXP"]},
+  {"topic": "Essential Development Tools for UXP references", "file": "uxp/essential-development-tools-for-uxp/reference-index.md", "summary": "Open when looking up Essential Development Tools for UXP in Premiere Pro.", "keywords": ["Essential Development Tools for UXP references"]},
+  {"topic": "Adobe UXP Developer Tool plugin development", "file": "uxp/adobe-uxp-developer-tool-plugin-development.md", "summary": "Open when looking up Adobe UXP Developer Tool plugin development in Premiere Pro.", "keywords": ["Adobe UXP Developer Tool plugin development"]},
+  {"topic": "Adobe UXP Developer Tool plugin development references", "file": "uxp/adobe-uxp-developer-tool-plugin-development/reference-index.md", "summary": "Open when looking up Adobe UXP Developer Tool plugin development in Premiere Pro.", "keywords": ["Adobe UXP Developer Tool plugin development references"]},
+  {"topic": "UDT templates", "file": "uxp/udt-templates.md", "summary": "Open when looking up UDT templates in Premiere Pro.", "keywords": ["UDT templates"]},
+  {"topic": "Plugin workflows references", "file": "uxp/plugin-workflows/reference-index.md", "summary": "Open when looking up Plugin workflows in Premiere Pro.", "keywords": ["Plugin workflows references"]},
+  {"topic": "Java script intellisense references", "file": "uxp/java-script-intellisense/reference-index.md", "summary": "Open when looking up Java script intellisense in Premiere Pro.", "keywords": ["Java script intellisense references"]},
+  {"topic": "TypeScript Support", "file": "uxp/type-script-support.md", "summary": "Open when looking up TypeScript Support in Premiere Pro.", "keywords": ["TypeScript Support"]},
+  {"topic": "TypeScript Support references", "file": "uxp/type-script-support/reference-index.md", "summary": "Open when looking up TypeScript Support in Premiere Pro.", "keywords": ["TypeScript Support references"]},
+  {"topic": "Type script projects references", "file": "uxp/type-script-projects/reference-index.md", "summary": "Open when looking up Type script projects in Premiere Pro.", "keywords": ["Type script projects references"]},
+  {"topic": "JavaScript Modules", "file": "uxp/java-script-modules.md", "summary": "Open when looking up JavaScript Modules in Premiere Pro.", "keywords": ["JavaScript Modules"]},
+  {"topic": "JavaScript Modules references", "file": "uxp/java-script-modules/reference-index.md", "summary": "Open when looking up JavaScript Modules in Premiere Pro.", "keywords": ["JavaScript Modules references"]},
+  {"topic": "Working with JavaScript Frameworks", "file": "uxp/working-with-java-script-frameworks.md", "summary": "Open when looking up Working with JavaScript Frameworks in Premiere Pro.", "keywords": ["Working with JavaScript Frameworks"]},
+  {"topic": "The Playground", "file": "uxp/the-playground.md", "summary": "Open when looking up The Playground in Premiere Pro.", "keywords": ["The Playground"]},
+  {"topic": "The Playground references", "file": "uxp/the-playground/reference-index.md", "summary": "Open when looking up The Playground in Premiere Pro.", "keywords": ["The Playground references"]},
+  {"topic": "Debugging Techniques", "file": "uxp/debugging-techniques.md", "summary": "Open when looking up Debugging Techniques in Premiere Pro.", "keywords": ["Debugging Techniques"]},
+  {"topic": "Debugging Techniques references", "file": "uxp/debugging-techniques/reference-index.md", "summary": "Open when looking up Debugging Techniques in Premiere Pro.", "keywords": ["Debugging Techniques references"]},
+  {"topic": "ESLint Support", "file": "uxp/es-lint-support.md", "summary": "Open when looking up ESLint Support in Premiere Pro.", "keywords": ["ESLint Support"]},
+  {"topic": "ESLint Support references", "file": "uxp/es-lint-support/reference-index.md", "summary": "Open when looking up ESLint Support in Premiere Pro.", "keywords": ["ESLint Support references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

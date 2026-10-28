@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "FOUR_UP_CONSECUTIVE", "file": "document-model/booklet-type-options/fourupconsecutive.md", "summary": "Open when looking up FOUR_UP_CONSECUTIVE in InDesign.", "keywords": ["FOUR_UP_CONSECUTIVE"]},
+  {"topic": "THREE_UP_CONSECUTIVE", "file": "document-model/booklet-type-options/threeupconsecutive.md", "summary": "Open when looking up THREE_UP_CONSECUTIVE in InDesign.", "keywords": ["THREE_UP_CONSECUTIVE"]},
+  {"topic": "TWO_UP_CONSECUTIVE", "file": "document-model/booklet-type-options/twoupconsecutive.md", "summary": "Open when looking up TWO_UP_CONSECUTIVE in InDesign.", "keywords": ["TWO_UP_CONSECUTIVE"]},
+  {"topic": "TWO_UP_PERFECT_BOUND", "file": "document-model/booklet-type-options/twoupperfectbound.md", "summary": "Open when looking up TWO_UP_PERFECT_BOUND in InDesign.", "keywords": ["TWO_UP_PERFECT_BOUND"]},
+  {"topic": "TWO_UP_SADDLE_STITCH", "file": "document-model/booklet-type-options/twoupsaddlestitch.md", "summary": "Open when looking up TWO_UP_SADDLE_STITCH in InDesign.", "keywords": ["TWO_UP_SADDLE_STITCH"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

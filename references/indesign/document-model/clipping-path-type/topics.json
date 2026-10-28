@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "ALPHA_CHANNEL", "file": "document-model/clipping-path-type/alphachannel.md", "summary": "Open when looking up ALPHA_CHANNEL in InDesign.", "keywords": ["ALPHA_CHANNEL"]},
+  {"topic": "DETECT_EDGES", "file": "document-model/clipping-path-type/detectedges.md", "summary": "Open when looking up DETECT_EDGES in InDesign.", "keywords": ["DETECT_EDGES"]},
+  {"topic": "NONE", "file": "document-model/clipping-path-type/none.md", "summary": "Open when looking up NONE in InDesign.", "keywords": ["NONE"]},
+  {"topic": "PHOTOSHOP_PATH", "file": "document-model/clipping-path-type/photoshoppath.md", "summary": "Open when looking up PHOTOSHOP_PATH in InDesign.", "keywords": ["PHOTOSHOP_PATH"]},
+  {"topic": "USER_MODIFIED_PATH", "file": "document-model/clipping-path-type/usermodifiedpath.md", "summary": "Open when looking up USER_MODIFIED_PATH in InDesign.", "keywords": ["USER_MODIFIED_PATH"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

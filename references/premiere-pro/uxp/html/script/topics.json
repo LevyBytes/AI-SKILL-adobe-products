@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Quirks", "file": "uxp/html/script/quirks.md", "summary": "Open when looking up Quirks in Premiere Pro.", "keywords": ["Quirks"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

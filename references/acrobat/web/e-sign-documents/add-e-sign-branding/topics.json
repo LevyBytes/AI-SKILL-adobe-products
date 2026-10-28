@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Customize e-signature URLs", "file": "web/e-sign-documents/add-e-sign-branding/customize-e-signature-urls.md", "summary": "Open when looking up Customize e-signature URLs in Acrobat.", "keywords": ["Customize e-signature URLs"]},
+  {"topic": "Upload logos", "file": "web/e-sign-documents/add-e-sign-branding/upload-logos.md", "summary": "Open when looking up Upload logos in Acrobat.", "keywords": ["Upload logos"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

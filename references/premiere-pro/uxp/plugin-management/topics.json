@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Add an existing plugin", "file": "uxp/plugin-management/add-an-existing-plugin.md", "summary": "Open when looking up Add an existing plugin in Premiere Pro.", "keywords": ["Add an existing plugin"]},
+  {"topic": "Create a new plugin", "file": "uxp/plugin-management/create-a-new-plugin.md", "summary": "Open when looking up Create a new plugin in Premiere Pro.", "keywords": ["Create a new plugin"]},
+  {"topic": "Removing a plugin", "file": "uxp/plugin-management/removing-a-plugin.md", "summary": "Open when looking up Removing a plugin in Premiere Pro.", "keywords": ["Removing a plugin"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

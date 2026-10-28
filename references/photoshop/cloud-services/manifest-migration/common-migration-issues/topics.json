@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Issue: Expecting manifest in response", "file": "cloud-services/manifest-migration/common-migration-issues/issue-expecting-manifest-in-response.md", "summary": "Open when looking up Issue: Expecting manifest in response in Photoshop.", "keywords": ["Issue: Expecting manifest in response"]},
+  {"topic": "Issue: Incorrect media type", "file": "cloud-services/manifest-migration/common-migration-issues/issue-incorrect-media-type.md", "summary": "Open when looking up Issue: Incorrect media type in Photoshop.", "keywords": ["Issue: Incorrect media type"]},
+  {"topic": "Issue: Missing outputs array", "file": "cloud-services/manifest-migration/common-migration-issues/issue-missing-outputs-array.md", "summary": "Open when looking up Issue: Missing outputs array in Photoshop.", "keywords": ["Issue: Missing outputs array"]},
+  {"topic": "Issue: Thumbnail syntax change", "file": "cloud-services/manifest-migration/common-migration-issues/issue-thumbnail-syntax-change.md", "summary": "Open when looking up Issue: Thumbnail syntax change in Photoshop.", "keywords": ["Issue: Thumbnail syntax change"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

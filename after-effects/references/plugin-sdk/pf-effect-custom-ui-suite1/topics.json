@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "PF_GetDrawingReference", "file": "references/plugin-sdk/pf-effect-custom-ui-suite1/pf-get-drawing-reference.md", "summary": "Open when looking up PF_GetDrawingReference in After Effects.", "keywords": ["PF_GetDrawingReference"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

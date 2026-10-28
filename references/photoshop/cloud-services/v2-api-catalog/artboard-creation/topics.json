@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Behavioral changes", "file": "cloud-services/v2-api-catalog/artboard-creation/behavioral-changes.md", "summary": "Open when looking up Behavioral changes in Photoshop.", "keywords": ["Behavioral changes"]},
+  {"topic": "Artboard migration", "file": "cloud-services/artboard-migration/reference-index.md", "summary": "Open when migrating artboard creation from Photoshop API V1 to V2.", "keywords": ["Artboard migration"]},
+  {"topic": "V1 behavior", "file": "cloud-services/v2-api-catalog/artboard-creation/v1-behavior.md", "summary": "Open when looking up V1 behavior in Photoshop.", "keywords": ["V1 behavior"]},
+  {"topic": "V2 behavior", "file": "cloud-services/v2-api-catalog/artboard-creation/v2-behavior.md", "summary": "Open when looking up V2 behavior in Photoshop.", "keywords": ["V2 behavior"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

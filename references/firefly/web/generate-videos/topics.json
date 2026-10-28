@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Partner models references", "file": "web/generate-videos/partner-models/reference-index.md", "summary": "Open when looking up Partner models in Firefly.", "keywords": ["Partner models references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

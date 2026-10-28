@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Join our community to connect, learn, and engage", "file": "web/effects-for-text-to-image/join-our-community-to-connect-learn-and-engage.md", "summary": "Open when looking up Join our community to connect, learn, and engage in Firefly.", "keywords": ["Join our community to connect, learn, and engage"]},
+  {"topic": "Understand Text to image effects for richer, more varied visual styles", "file": "web/effects-for-text-to-image/text-to-image-effects.md", "summary": "Open when looking up Understand Text to image effects for richer, more varied visual styles in Firefly.", "keywords": ["Understand Text to image effects for richer, more varied visual styles"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Working With Paths - Manipulating Path Data", "file": "plugin-sdk/manipulating-path-data/working-with-paths-manipulating-path-data.md", "summary": "Open when looking up Working With Paths - Manipulating Path Data in After Effects.", "keywords": ["Working With Paths - Manipulating Path Data"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

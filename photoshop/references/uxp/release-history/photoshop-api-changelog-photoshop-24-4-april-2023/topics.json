@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Imaging API update", "file": "references/uxp/release-history/photoshop-api-changelog-photoshop-24-4-april-2023/imaging-api-update.md", "summary": "Open when looking up Imaging API update in Photoshop.", "keywords": ["Imaging API update"]},
-  {"topic": "Improvements and Fixes", "file": "references/uxp/release-history/photoshop-api-changelog-photoshop-24-4-april-2023/improvements-and-fixes.md", "summary": "Open when looking up Improvements and Fixes in Photoshop.", "keywords": ["Improvements and Fixes"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

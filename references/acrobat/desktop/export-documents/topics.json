@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Convert To Other Formats", "file": "desktop/export-documents/convert-to-other-formats.md", "summary": "Open when looking up Convert To Other Formats in Acrobat.", "keywords": ["Convert To Other Formats"]},
+  {"topic": "Convert To Other Formats references", "file": "desktop/export-documents/convert-to-other-formats/reference-index.md", "summary": "Open when looking up Convert To Other Formats in Acrobat.", "keywords": ["Convert To Other Formats references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

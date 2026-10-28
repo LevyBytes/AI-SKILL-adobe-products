@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "🇪🇺 EU Compliance & DSA Requirements", "file": "references/uxp/questions/eu-compliance-dsa-requirements.md", "summary": "Open when looking up 🇪🇺 EU Compliance & DSA Requirements in Premiere Pro.", "keywords": ["🇪🇺 EU Compliance & DSA Requirements"]},
-  {"topic": "🎨 User Interfaces", "file": "references/uxp/questions/user-interfaces.md", "summary": "Open when looking up 🎨 User Interfaces in Premiere Pro.", "keywords": ["🎨 User Interfaces"]},
-  {"topic": "📦 Installers and Packages", "file": "references/uxp/questions/installers-and-packages.md", "summary": "Open when looking up 📦 Installers and Packages in Premiere Pro.", "keywords": ["📦 Installers and Packages"]},
-  {"topic": "🛠️ Development Environment & Tooling", "file": "references/uxp/questions/development-environment-tooling.md", "summary": "Open when looking up 🛠️ Development Environment & Tooling in Premiere Pro.", "keywords": ["🛠️ Development Environment & Tooling"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

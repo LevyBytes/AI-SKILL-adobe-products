@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Entry Point", "file": "plugin-sdk/entry-point.md", "summary": "Open when looking up Entry Point in After Effects.", "keywords": ["Entry Point"]},
+  {"topic": "Entry point function parameters references", "file": "plugin-sdk/entry-point-function-parameters/reference-index.md", "summary": "Open when looking up Entry point function parameters in After Effects.", "keywords": ["Entry point function parameters references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

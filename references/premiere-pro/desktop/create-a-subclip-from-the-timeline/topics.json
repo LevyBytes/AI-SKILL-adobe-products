@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Creating Timeline-based subclips for longer media", "file": "desktop/create-a-subclip-from-the-timeline/creating-timeline-based-subclips-for-longer-media.md", "summary": "Open when looking up Creating Timeline-based subclips for longer media in Premiere Pro.", "keywords": ["Creating Timeline-based subclips for longer media"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

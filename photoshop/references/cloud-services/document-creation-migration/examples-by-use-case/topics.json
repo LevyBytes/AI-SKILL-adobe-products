@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Banner document", "file": "references/cloud-services/document-creation-migration/examples-by-use-case/banner-document.md", "summary": "Open when looking up Banner document in Photoshop.", "keywords": ["Banner document"]},
-  {"topic": "Document with custom ICC profile", "file": "references/cloud-services/document-creation-migration/examples-by-use-case/document-with-custom-icc-profile.md", "summary": "Open when looking up Document with custom ICC profile in Photoshop.", "keywords": ["Document with custom ICC profile"]},
-  {"topic": "Print document", "file": "references/cloud-services/document-creation-migration/examples-by-use-case/print-document.md", "summary": "Open when looking up Print document in Photoshop.", "keywords": ["Print document"]},
-  {"topic": "Social media template", "file": "references/cloud-services/document-creation-migration/examples-by-use-case/social-media-template.md", "summary": "Open when looking up Social media template in Photoshop.", "keywords": ["Social media template"]},
-  {"topic": "Web graphics document", "file": "references/cloud-services/document-creation-migration/examples-by-use-case/web-graphics-document.md", "summary": "Open when looking up Web graphics document in Photoshop.", "keywords": ["Web graphics document"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

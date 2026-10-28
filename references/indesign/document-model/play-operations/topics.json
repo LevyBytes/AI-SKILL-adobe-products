@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "PAUSE", "file": "document-model/play-operations/pause.md", "summary": "Open when looking up PAUSE in InDesign.", "keywords": ["PAUSE"]},
+  {"topic": "PLAY", "file": "document-model/play-operations/play.md", "summary": "Open when looking up PLAY in InDesign.", "keywords": ["PLAY"]},
+  {"topic": "RESUME", "file": "document-model/play-operations/resume.md", "summary": "Open when looking up RESUME in InDesign.", "keywords": ["RESUME"]},
+  {"topic": "STOP", "file": "document-model/play-operations/stop.md", "summary": "Open when looking up STOP in InDesign.", "keywords": ["STOP"]},
+  {"topic": "STOP_ALL", "file": "document-model/play-operations/stopall.md", "summary": "Open when looking up STOP_ALL in InDesign.", "keywords": ["STOP_ALL"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

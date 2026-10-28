@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "readOnly", "file": "references/document-model/combo-box/read-only.md", "summary": "Open when looking up readOnly in InDesign.", "keywords": ["readOnly"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

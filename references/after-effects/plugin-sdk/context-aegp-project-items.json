@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "AEGP_CollectionSuite2 references", "file": "plugin-sdk/aegp-collection-suite2/reference-index.md", "summary": "Open when looking up AEGP_CollectionSuite2 in After Effects.", "keywords": ["AEGP_CollectionSuite2 references"]},
+  {"topic": "AEGP_CompSuite11 references", "file": "plugin-sdk/aegp-comp-suite11/reference-index.md", "summary": "Open when looking up AEGP_CompSuite11 in After Effects.", "keywords": ["AEGP_CompSuite11 references"]},
+  {"topic": "AEGP_ItemSuite9 references", "file": "plugin-sdk/aegp-item-suite9/reference-index.md", "summary": "Open when looking up AEGP_ItemSuite9 in After Effects.", "keywords": ["AEGP_ItemSuite9 references"]},
+  {"topic": "AEGP_LayerSuite9 references", "file": "plugin-sdk/aegp-layer-suite9/reference-index.md", "summary": "Open when looking up AEGP_LayerSuite9 in After Effects.", "keywords": ["AEGP_LayerSuite9 references"]},
+  {"topic": "AEGP_ProjSuite6 references", "file": "plugin-sdk/aegp-proj-suite6/reference-index.md", "summary": "Open when looking up AEGP_ProjSuite6 in After Effects.", "keywords": ["AEGP_ProjSuite6 references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

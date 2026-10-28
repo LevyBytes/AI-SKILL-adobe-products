@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Import pdf form data example setup", "file": "pdf-services/examples/python/import-pdf-form-data/import-pdf-form-data-setup.md", "summary": "Open when looking up Import pdf form data example setup in Acrobat.", "keywords": ["Import pdf form data example setup"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

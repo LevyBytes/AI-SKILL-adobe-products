@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Create and save the script", "file": "desktop/language-and-proofing/language-settings/change-default-shaping-engine/create-and-save-the-script.md", "summary": "Open when looking up Create and save the script in InDesign.", "keywords": ["Create and save the script"]},
+  {"topic": "Run the script in InDesign", "file": "desktop/language-and-proofing/language-settings/change-default-shaping-engine/run-the-script-in-in-design.md", "summary": "Open when looking up Run the script in InDesign in InDesign.", "keywords": ["Run the script in InDesign"]},
+  {"topic": "Switch shaping engines using a script", "file": "desktop/language-and-proofing/language-settings/change-default-shaping-engine/switch-shaping-engines-using-a-script.md", "summary": "Open when looking up Switch shaping engines using a script in InDesign.", "keywords": ["Switch shaping engines using a script"]},
+  {"topic": "Switch to legacy shaping engine using Preferences", "file": "desktop/language-and-proofing/language-settings/change-default-shaping-engine/switch-to-legacy-shaping-engine-using-preferences.md", "summary": "Open when looking up Switch to legacy shaping engine using Preferences in InDesign.", "keywords": ["Switch to legacy shaping engine using Preferences"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Aeio for import or media core importer references", "file": "plugin-sdk/aeio-for-import-or-media-core-importer/reference-index.md", "summary": "Open when looking up Aeio for import or media core importer in After Effects.", "keywords": ["Aeio for import or media core importer references"]},
+  {"topic": "Aeio or aegp references", "file": "plugin-sdk/aeio-or-aegp/reference-index.md", "summary": "Open when looking up Aeio or aegp in After Effects.", "keywords": ["Aeio or aegp references"]},
+  {"topic": "AEIOs", "file": "plugin-sdk/aeios.md", "summary": "Open when looking up AEIOs in After Effects.", "keywords": ["AEIOs"]},
+  {"topic": "How it works references", "file": "plugin-sdk/how-it-works/reference-index.md", "summary": "Open when looking up How it works in After Effects.", "keywords": ["How it works references"]},
+  {"topic": "In spec out spec references", "file": "plugin-sdk/in-spec-out-spec/reference-index.md", "summary": "Open when looking up In spec out spec in After Effects.", "keywords": ["In spec out spec references"]},
+  {"topic": "Registering your aeio references", "file": "plugin-sdk/registering-your-aeio/reference-index.md", "summary": "Open when looking up Registering your aeio in After Effects.", "keywords": ["Registering your aeio references"]},
+  {"topic": "What would after effects do references", "file": "plugin-sdk/what-would-after-effects-do/reference-index.md", "summary": "Open when looking up What would after effects do in After Effects.", "keywords": ["What would after effects do references"]},
+  {"topic": "AEIO registration and startup", "file": "plugin-sdk/aeio-registration-lifecycle.md", "summary": "Open when registering an AEIO and its startup callbacks.", "keywords": ["AEIO registration"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

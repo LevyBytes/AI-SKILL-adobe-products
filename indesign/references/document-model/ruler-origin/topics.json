@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "PAGE_ORIGIN", "file": "references/document-model/ruler-origin/pageorigin.md", "summary": "Open when looking up PAGE_ORIGIN in InDesign.", "keywords": ["PAGE_ORIGIN"]},
-  {"topic": "SPINE_ORIGIN", "file": "references/document-model/ruler-origin/spineorigin.md", "summary": "Open when looking up SPINE_ORIGIN in InDesign.", "keywords": ["SPINE_ORIGIN"]},
-  {"topic": "SPREAD_ORIGIN", "file": "references/document-model/ruler-origin/spreadorigin.md", "summary": "Open when looking up SPREAD_ORIGIN in InDesign.", "keywords": ["SPREAD_ORIGIN"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

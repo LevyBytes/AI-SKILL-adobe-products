@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Vr editing in premiere references", "file": "desktop/vr-editing-in-premiere/reference-index.md", "summary": "Open when looking up Vr editing in premiere in Premiere Pro.", "keywords": ["Vr editing in premiere references"]},
+  {"topic": "Hide vr video view controls references", "file": "desktop/hide-vr-video-view-controls/reference-index.md", "summary": "Open when looking up Hide vr video view controls in Premiere Pro.", "keywords": ["Hide vr video view controls references"]},
+  {"topic": "Immersive video effects and transitions references", "file": "desktop/immersive-video-effects-and-transitions/reference-index.md", "summary": "Open when looking up Immersive video effects and transitions in Premiere Pro.", "keywords": ["Immersive video effects and transitions references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

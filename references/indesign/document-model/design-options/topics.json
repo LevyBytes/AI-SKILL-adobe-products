@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "FROM_CURRENT_APPEARANCE", "file": "document-model/design-options/fromcurrentappearance.md", "summary": "Open when looking up FROM_CURRENT_APPEARANCE in InDesign.", "keywords": ["FROM_CURRENT_APPEARANCE"]},
+  {"topic": "TO_CURRENT_APPEARANCE", "file": "document-model/design-options/tocurrentappearance.md", "summary": "Open when looking up TO_CURRENT_APPEARANCE in InDesign.", "keywords": ["TO_CURRENT_APPEARANCE"]},
+  {"topic": "TO_CURRENT_LOCATION", "file": "document-model/design-options/tocurrentlocation.md", "summary": "Open when looking up TO_CURRENT_LOCATION in InDesign.", "keywords": ["TO_CURRENT_LOCATION"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

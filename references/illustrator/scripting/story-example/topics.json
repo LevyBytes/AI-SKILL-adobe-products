@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Linked text-frame sample", "file": "scripting/story-example/linked-text-frame-sample.md", "summary": "Open when looking up Linked text-frame sample in Illustrator.", "keywords": ["Linked text-frame sample"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

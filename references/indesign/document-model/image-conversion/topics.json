@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "AUTOMATIC", "file": "document-model/image-conversion/automatic.md", "summary": "Open when looking up AUTOMATIC in InDesign.", "keywords": ["AUTOMATIC"]},
+  {"topic": "GIF", "file": "document-model/image-conversion/gif.md", "summary": "Open when looking up GIF in InDesign.", "keywords": ["GIF"]},
+  {"topic": "JPEG", "file": "document-model/image-conversion/jpeg.md", "summary": "Open when looking up JPEG in InDesign.", "keywords": ["JPEG"]},
+  {"topic": "PNG", "file": "document-model/image-conversion/png.md", "summary": "Open when looking up PNG in InDesign.", "keywords": ["PNG"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

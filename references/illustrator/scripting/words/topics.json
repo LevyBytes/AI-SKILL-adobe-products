@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Words.parent", "file": "scripting/words/parent.md", "summary": "Open when looking up Words.parent in Illustrator.", "keywords": ["Words.parent"]},
+  {"topic": "Words.typename", "file": "scripting/words/typename.md", "summary": "Open when looking up Words.typename in Illustrator.", "keywords": ["Words.typename"]},
+  {"topic": "Words.length", "file": "scripting/words/length.md", "summary": "Open when looking up Words.length in Illustrator.", "keywords": ["Words.length"]},
+  {"topic": "Words.add()", "file": "scripting/words/add.md", "summary": "Open when looking up Words.add() in Illustrator.", "keywords": ["Words.add()"]},
+  {"topic": "Words.addBefore()", "file": "scripting/words/add-before.md", "summary": "Open when looking up Words.addBefore() in Illustrator.", "keywords": ["Words.addBefore()"]},
+  {"topic": "Words.index()", "file": "scripting/words/index.md", "summary": "Open when looking up Words.index() in Illustrator.", "keywords": ["Words.index()"]},
+  {"topic": "Words.removeAll()", "file": "scripting/words/remove-all.md", "summary": "Open when looking up Words.removeAll() in Illustrator.", "keywords": ["Words.removeAll()"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

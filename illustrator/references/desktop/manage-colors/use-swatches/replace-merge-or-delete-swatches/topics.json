@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Delete swatches", "file": "references/desktop/manage-colors/use-swatches/replace-merge-or-delete-swatches/delete-swatches.md", "summary": "Open when looking up Delete swatches in Illustrator.", "keywords": ["Delete swatches"]},
-  {"topic": "Merge multiple swatches", "file": "references/desktop/manage-colors/use-swatches/replace-merge-or-delete-swatches/merge-multiple-swatches.md", "summary": "Open when looking up Merge multiple swatches in Illustrator.", "keywords": ["Merge multiple swatches"]},
-  {"topic": "Replace a swatch", "file": "references/desktop/manage-colors/use-swatches/replace-merge-or-delete-swatches/replace-a-swatch.md", "summary": "Open when looking up Replace a swatch in Illustrator.", "keywords": ["Replace a swatch"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Mute input while recording an audio file in Premiere.", "file": "desktop/mute-input-during-recording/mute-input-while-recording-an-audio-file-in-premiere.md", "summary": "Open when looking up Mute input while recording an audio file in Premiere. in Premiere Pro.", "keywords": ["Mute input while recording an audio file in Premiere."]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

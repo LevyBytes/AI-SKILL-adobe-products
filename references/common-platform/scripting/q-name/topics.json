@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "QName object constructor", "file": "scripting/q-name/q-name-object-constructor.md", "summary": "Open when looking up QName object constructor in Shared Adobe platform.", "keywords": ["QName object constructor"]},
+  {"topic": "QName.name", "file": "scripting/q-name/name.md", "summary": "Open when looking up QName.name in Shared Adobe platform.", "keywords": ["QName.name"]},
+  {"topic": "QName.uri", "file": "scripting/q-name/uri.md", "summary": "Open when looking up QName.uri in Shared Adobe platform.", "keywords": ["QName.uri"]},
+  {"topic": "XML Object Reference - QName Object", "file": "scripting/q-name/xml-object-reference-q-name-object.md", "summary": "Open when looking up XML Object Reference - QName Object in Shared Adobe platform.", "keywords": ["XML Object Reference - QName Object"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

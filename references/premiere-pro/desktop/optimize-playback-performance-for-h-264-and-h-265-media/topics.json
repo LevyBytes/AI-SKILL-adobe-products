@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Tune Premiere playback for H.264 and H.265 media.", "file": "desktop/optimize-playback-performance-for-h-264-and-h-265-media/tune-premiere-playback-for-h-264-and-h-265-media.md", "summary": "Open when looking up Tune Premiere playback for H.264 and H.265 media. in Premiere Pro.", "keywords": ["Tune Premiere playback for H.264 and H.265 media."]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

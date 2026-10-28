@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Adding a baseline grid", "file": "uxp/document-changes/adding-a-baseline-grid.md", "summary": "Open when looking up Adding a baseline grid in InDesign.", "keywords": ["Adding a baseline grid"]},
+  {"topic": "Adding and applying a paragraph style", "file": "uxp/document-changes/adding-and-applying-a-paragraph-style.md", "summary": "Open when looking up Adding and applying a paragraph style in InDesign.", "keywords": ["Adding and applying a paragraph style"]},
+  {"topic": "Adding master page items", "file": "uxp/document-changes/adding-master-page-items.md", "summary": "Open when looking up Adding master page items in InDesign.", "keywords": ["Adding master page items"]},
+  {"topic": "Adding master text frames", "file": "uxp/document-changes/adding-master-text-frames.md", "summary": "Open when looking up Adding master text frames in InDesign.", "keywords": ["Adding master text frames"]},
+  {"topic": "Overriding master page items and adding text", "file": "uxp/document-changes/overriding-master-page-items-and-adding-text.md", "summary": "Open when looking up Overriding master page items and adding text in InDesign.", "keywords": ["Overriding master page items and adding text"]},
+  {"topic": "Place a graphic", "file": "uxp/document-changes/place-a-graphic.md", "summary": "Open when looking up Place a graphic in InDesign.", "keywords": ["Place a graphic"]},
+  {"topic": "Placing a text file", "file": "uxp/document-changes/placing-a-text-file.md", "summary": "Open when looking up Placing a text file in InDesign.", "keywords": ["Placing a text file"]},
+  {"topic": "Setting up measurement units and master spread margins", "file": "uxp/document-changes/setting-up-measurement-units-and-master-spread-margins.md", "summary": "Open when looking up Setting up measurement units and master spread margins in InDesign.", "keywords": ["Setting up measurement units and master spread margins"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

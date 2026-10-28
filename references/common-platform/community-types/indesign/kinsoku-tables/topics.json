@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "KinsokuTables collection iteration", "file": "community-types/indesign/kinsoku-tables/collection-iteration.md", "summary": "Open when looking up KinsokuTables collection iteration in Shared Adobe platform.", "keywords": ["KinsokuTables collection iteration"]},
+  {"topic": "KinsokuTables declaration", "file": "community-types/indesign/kinsoku-tables/declaration.md", "summary": "Open when looking up KinsokuTables declaration in Shared Adobe platform.", "keywords": ["KinsokuTables declaration"]},
+  {"topic": "KinsokuTables named and indexed items", "file": "community-types/indesign/kinsoku-tables/named-and-indexed-items.md", "summary": "Open when looking up KinsokuTables named and indexed items in Shared Adobe platform.", "keywords": ["KinsokuTables named and indexed items"]},
+  {"topic": "KinsokuTables.add", "file": "community-types/indesign/kinsoku-tables/add.md", "summary": "Open when looking up KinsokuTables.add in Shared Adobe platform.", "keywords": ["KinsokuTables.add"]},
+  {"topic": "KinsokuTables.count", "file": "community-types/indesign/kinsoku-tables/count.md", "summary": "Open when looking up KinsokuTables.count in Shared Adobe platform.", "keywords": ["KinsokuTables.count"]},
+  {"topic": "KinsokuTables.IndexSignature", "file": "community-types/indesign/kinsoku-tables/index-signature.md", "summary": "Open when looking up KinsokuTables.IndexSignature in Shared Adobe platform.", "keywords": ["KinsokuTables.IndexSignature"]},
+  {"topic": "KinsokuTables.itemByRange", "file": "community-types/indesign/kinsoku-tables/item-by-range.md", "summary": "Open when looking up KinsokuTables.itemByRange in Shared Adobe platform.", "keywords": ["KinsokuTables.itemByRange"]},
+  {"topic": "KinsokuTables.length", "file": "community-types/indesign/kinsoku-tables/length.md", "summary": "Open when looking up KinsokuTables.length in Shared Adobe platform.", "keywords": ["KinsokuTables.length"]},
+  {"topic": "KinsokuTables.toSource", "file": "community-types/indesign/kinsoku-tables/to-source.md", "summary": "Open when looking up KinsokuTables.toSource in Shared Adobe platform.", "keywords": ["KinsokuTables.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

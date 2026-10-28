@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "TOP_OF_MARGIN_OF_BASELINE_GRID_RELATIVE_OPTION", "file": "references/document-model/baseline-grid-relative-option/topofmarginofbaselinegridrelativeoption.md", "summary": "Open when looking up TOP_OF_MARGIN_OF_BASELINE_GRID_RELATIVE_OPTION in InDesign.", "keywords": ["TOP_OF_MARGIN_OF_BASELINE_GRID_RELATIVE_OPTION"]},
-  {"topic": "TOP_OF_PAGE_OF_BASELINE_GRID_RELATIVE_OPTION", "file": "references/document-model/baseline-grid-relative-option/topofpageofbaselinegridrelativeoption.md", "summary": "Open when looking up TOP_OF_PAGE_OF_BASELINE_GRID_RELATIVE_OPTION in InDesign.", "keywords": ["TOP_OF_PAGE_OF_BASELINE_GRID_RELATIVE_OPTION"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

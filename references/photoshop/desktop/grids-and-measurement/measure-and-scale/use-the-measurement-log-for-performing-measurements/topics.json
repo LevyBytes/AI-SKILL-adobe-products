@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Measure and record data", "file": "desktop/grids-and-measurement/measure-and-scale/use-the-measurement-log-for-performing-measurements/measure-and-record-data.md", "summary": "Open when looking up Measure and record data in Photoshop.", "keywords": ["Measure and record data"]},
+  {"topic": "Measurement Log behaviour", "file": "desktop/grids-and-measurement/measure-and-scale/use-the-measurement-log-for-performing-measurements/measurement-log-behaviour.md", "summary": "Open when looking up Measurement Log behaviour in Photoshop.", "keywords": ["Measurement Log behaviour"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

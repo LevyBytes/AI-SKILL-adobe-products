@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/media-encoder", "topics": [
+  {"topic": "elapsedMilliseconds example", "file": "scripting/exporter-examples/elapsed-milliseconds-example.md", "summary": "Open when looking up elapsedMilliseconds example in Media Encoder.", "keywords": ["elapsedMilliseconds example"]},
+  {"topic": "encodeID example", "file": "scripting/exporter-examples/encode-id-example.md", "summary": "Open when looking up encodeID example in Media Encoder.", "keywords": ["encodeID example"]},
+  {"topic": "exportGroup example", "file": "scripting/exporter-examples/export-group-example.md", "summary": "Open when looking up exportGroup example in Media Encoder.", "keywords": ["exportGroup example"]},
+  {"topic": "exportItem example", "file": "scripting/exporter-examples/export-item-example.md", "summary": "Open when looking up exportItem example in Media Encoder.", "keywords": ["exportItem example"]},
+  {"topic": "exportSequence example", "file": "scripting/exporter-examples/export-sequence-example.md", "summary": "Open when looking up exportSequence example in Media Encoder.", "keywords": ["exportSequence example"]},
+  {"topic": "getSourceMediaInfo example", "file": "scripting/exporter-examples/get-source-media-info-example.md", "summary": "Open when looking up getSourceMediaInfo example in Media Encoder.", "keywords": ["getSourceMediaInfo example"]},
+  {"topic": "removeAllBatchItems example", "file": "scripting/exporter-examples/remove-all-batch-items-example.md", "summary": "Open when looking up removeAllBatchItems example in Media Encoder.", "keywords": ["removeAllBatchItems example"]},
+  {"topic": "trimExportForSR example", "file": "scripting/exporter-examples/trim-export-for-sr-example.md", "summary": "Open when looking up trimExportForSR example in Media Encoder.", "keywords": ["trimExportForSR example"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

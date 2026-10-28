@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "addPath", "file": "document-model/graphic-line/add-path.md", "summary": "Open when looking up addPath in InDesign.", "keywords": ["addPath"]},
+  {"topic": "convertShape", "file": "document-model/graphic-line/convert-shape.md", "summary": "Open when looking up convertShape in InDesign.", "keywords": ["convertShape"]},
+  {"topic": "excludeOverlapPath", "file": "document-model/graphic-line/exclude-overlap-path.md", "summary": "Open when looking up excludeOverlapPath in InDesign.", "keywords": ["excludeOverlapPath"]},
+  {"topic": "intersectPath", "file": "document-model/graphic-line/intersect-path.md", "summary": "Open when looking up intersectPath in InDesign.", "keywords": ["intersectPath"]},
+  {"topic": "makeCompoundPath", "file": "document-model/graphic-line/make-compound-path.md", "summary": "Open when looking up makeCompoundPath in InDesign.", "keywords": ["makeCompoundPath"]},
+  {"topic": "minusBack", "file": "document-model/graphic-line/minus-back.md", "summary": "Open when looking up minusBack in InDesign.", "keywords": ["minusBack"]},
+  {"topic": "paths", "file": "document-model/graphic-line/paths.md", "summary": "Open when looking up paths in InDesign.", "keywords": ["paths"]},
+  {"topic": "releaseCompoundPath", "file": "document-model/graphic-line/release-compound-path.md", "summary": "Open when looking up releaseCompoundPath in InDesign.", "keywords": ["releaseCompoundPath"]},
+  {"topic": "subtractPath", "file": "document-model/graphic-line/subtract-path.md", "summary": "Open when looking up subtractPath in InDesign.", "keywords": ["subtractPath"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

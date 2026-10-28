@@ -1,0 +1,17 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "DrawingLayer declaration", "file": "community-types/animate/drawing-layer/declaration.md", "summary": "Open when looking up DrawingLayer declaration in Shared Adobe platform.", "keywords": ["DrawingLayer declaration"]},
+  {"topic": "DrawingLayer.beginDraw", "file": "community-types/animate/drawing-layer/begin-draw.md", "summary": "Open when looking up DrawingLayer.beginDraw in Shared Adobe platform.", "keywords": ["DrawingLayer.beginDraw"]},
+  {"topic": "DrawingLayer.beginFrame", "file": "community-types/animate/drawing-layer/begin-frame.md", "summary": "Open when looking up DrawingLayer.beginFrame in Shared Adobe platform.", "keywords": ["DrawingLayer.beginFrame"]},
+  {"topic": "DrawingLayer.cubicCurveTo", "file": "community-types/animate/drawing-layer/cubic-curve-to.md", "summary": "Open when looking up DrawingLayer.cubicCurveTo in Shared Adobe platform.", "keywords": ["DrawingLayer.cubicCurveTo"]},
+  {"topic": "DrawingLayer.curveTo", "file": "community-types/animate/drawing-layer/curve-to.md", "summary": "Open when looking up DrawingLayer.curveTo in Shared Adobe platform.", "keywords": ["DrawingLayer.curveTo"]},
+  {"topic": "DrawingLayer.drawPath", "file": "community-types/animate/drawing-layer/draw-path.md", "summary": "Open when looking up DrawingLayer.drawPath in Shared Adobe platform.", "keywords": ["DrawingLayer.drawPath"]},
+  {"topic": "DrawingLayer.endDraw", "file": "community-types/animate/drawing-layer/end-draw.md", "summary": "Open when looking up DrawingLayer.endDraw in Shared Adobe platform.", "keywords": ["DrawingLayer.endDraw"]},
+  {"topic": "DrawingLayer.endFrame", "file": "community-types/animate/drawing-layer/end-frame.md", "summary": "Open when looking up DrawingLayer.endFrame in Shared Adobe platform.", "keywords": ["DrawingLayer.endFrame"]},
+  {"topic": "DrawingLayer.lineTo", "file": "community-types/animate/drawing-layer/line-to.md", "summary": "Open when looking up DrawingLayer.lineTo in Shared Adobe platform.", "keywords": ["DrawingLayer.lineTo"]},
+  {"topic": "DrawingLayer.moveTo", "file": "community-types/animate/drawing-layer/move-to.md", "summary": "Open when looking up DrawingLayer.moveTo in Shared Adobe platform.", "keywords": ["DrawingLayer.moveTo"]},
+  {"topic": "DrawingLayer.newPath", "file": "community-types/animate/drawing-layer/new-path.md", "summary": "Open when looking up DrawingLayer.newPath in Shared Adobe platform.", "keywords": ["DrawingLayer.newPath"]},
+  {"topic": "DrawingLayer.setColor", "file": "community-types/animate/drawing-layer/set-color.md", "summary": "Open when looking up DrawingLayer.setColor in Shared Adobe platform.", "keywords": ["DrawingLayer.setColor"]},
+  {"topic": "DrawingLayer.setFill", "file": "community-types/animate/drawing-layer/set-fill.md", "summary": "Open when looking up DrawingLayer.setFill in Shared Adobe platform.", "keywords": ["DrawingLayer.setFill"]},
+  {"topic": "DrawingLayer.setStroke", "file": "community-types/animate/drawing-layer/set-stroke.md", "summary": "Open when looking up DrawingLayer.setStroke in Shared Adobe platform.", "keywords": ["DrawingLayer.setStroke"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/incopy", "topics": [
+  {"topic": "Earlier Versions", "file": "desktop/release-history/earlier-versions.md", "summary": "Open when looking up Earlier Versions in InCopy.", "keywords": ["Earlier Versions"]},
+  {"topic": "Whats New", "file": "desktop/release-history/whats-new.md", "summary": "Open when looking up Whats New in InCopy.", "keywords": ["Whats New"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

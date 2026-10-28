@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Figma references", "file": "web/integrations/figma/reference-index.md", "summary": "Open when looking up Figma in Firefly.", "keywords": ["Figma references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

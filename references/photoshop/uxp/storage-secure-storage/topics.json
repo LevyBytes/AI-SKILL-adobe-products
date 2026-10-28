@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "clear()", "file": "uxp/storage-secure-storage/clear.md", "summary": "Open when looking up clear() in Photoshop.", "keywords": ["clear()"]},
+  {"topic": "getItem(key)", "file": "uxp/storage-secure-storage/get-item.md", "summary": "Open when looking up getItem(key) in Photoshop.", "keywords": ["getItem(key)"]},
+  {"topic": "key(index)", "file": "uxp/storage-secure-storage/key.md", "summary": "Open when looking up key(index) in Photoshop.", "keywords": ["key(index)"]},
+  {"topic": "length : number", "file": "uxp/storage-secure-storage/length-number.md", "summary": "Open when looking up length : number in Photoshop.", "keywords": ["length : number"]},
+  {"topic": "removeItem(key)", "file": "uxp/storage-secure-storage/remove-item.md", "summary": "Open when looking up removeItem(key) in Photoshop.", "keywords": ["removeItem(key)"]},
+  {"topic": "require('uxp').storage.secureStorage", "file": "uxp/storage-secure-storage/require-uxp-storage-secure-storage.md", "summary": "Open when looking up require('uxp').storage.secureStorage in Photoshop.", "keywords": ["require('uxp').storage.secureStorage"]},
+  {"topic": "setItem(key, value)", "file": "uxp/storage-secure-storage/set-item.md", "summary": "Open when looking up setItem(key, value) in Photoshop.", "keywords": ["setItem(key, value)"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

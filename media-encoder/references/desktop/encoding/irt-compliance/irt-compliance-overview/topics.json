@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "media-encoder", "topics": [
-  {"topic": "IRT compliance - Applying an IRT preset to a media file", "file": "references/desktop/encoding/irt-compliance/irt-compliance-overview/irt-compliance-applying-an-irt-preset-to-a-media-file.md", "summary": "Open when looking up IRT compliance - Applying an IRT preset to a media file in Media Encoder.", "keywords": ["IRT compliance - Applying an IRT preset to a media file"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

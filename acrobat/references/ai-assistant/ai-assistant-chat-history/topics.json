@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Access chat history", "file": "references/ai-assistant/ai-assistant-chat-history/access-chat-history.md", "summary": "Open when looking up Access chat history in Acrobat.", "keywords": ["Access chat history"]},
-  {"topic": "Clear chat history", "file": "references/ai-assistant/ai-assistant-chat-history/clear-chat-history.md", "summary": "Open when looking up Clear chat history in Acrobat.", "keywords": ["Clear chat history"]},
-  {"topic": "Disconnect third-party cloud storage", "file": "references/ai-assistant/ai-assistant-chat-history/disconnect-third-party-cloud-storage.md", "summary": "Open when looking up Disconnect third-party cloud storage in Acrobat.", "keywords": ["Disconnect third-party cloud storage"]},
-  {"topic": "Review chat history controls", "file": "references/ai-assistant/ai-assistant-chat-history/review-chat-history-controls.md", "summary": "Open when looking up Review chat history controls in Acrobat.", "keywords": ["Review chat history controls"]},
-  {"topic": "Review export and sharing limits", "file": "references/ai-assistant/ai-assistant-chat-history/review-export-and-sharing-limits.md", "summary": "Open when looking up Review export and sharing limits in Acrobat.", "keywords": ["Review export and sharing limits"]},
-  {"topic": "Understand chat history storage", "file": "references/ai-assistant/ai-assistant-chat-history/understand-chat-history-storage.md", "summary": "Open when looking up Understand chat history storage in Acrobat.", "keywords": ["Understand chat history storage"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

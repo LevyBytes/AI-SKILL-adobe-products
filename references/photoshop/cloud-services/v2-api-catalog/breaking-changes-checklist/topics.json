@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Action requests", "file": "cloud-services/v2-api-catalog/breaking-changes-checklist/action-requests.md", "summary": "Open when looking up Action requests in Photoshop.", "keywords": ["Action requests"]},
+  {"topic": "Authentication and connectivity", "file": "cloud-services/v2-api-catalog/breaking-changes-checklist/authentication-and-connectivity.md", "summary": "Open when looking up Authentication and connectivity in Photoshop.", "keywords": ["Authentication and connectivity"]},
+  {"topic": "Endpoint changes", "file": "cloud-services/v2-api-catalog/breaking-changes-checklist/endpoint-changes.md", "summary": "Open when looking up Endpoint changes in Photoshop.", "keywords": ["Endpoint changes"]},
+  {"topic": "Layer operation requests", "file": "cloud-services/v2-api-catalog/breaking-changes-checklist/layer-operation-requests.md", "summary": "Open when looking up Layer operation requests in Photoshop.", "keywords": ["Layer operation requests"]},
+  {"topic": "Manifest response parsing", "file": "cloud-services/v2-api-catalog/breaking-changes-checklist/manifest-response-parsing.md", "summary": "Open when looking up Manifest response parsing in Photoshop.", "keywords": ["Manifest response parsing"]},
+  {"topic": "Output format", "file": "cloud-services/v2-api-catalog/breaking-changes-checklist/output-format.md", "summary": "Open when looking up Output format in Photoshop.", "keywords": ["Output format"]},
+  {"topic": "Request structure", "file": "cloud-services/v2-api-catalog/breaking-changes-checklist/request-structure.md", "summary": "Open when looking up Request structure in Photoshop.", "keywords": ["Request structure"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

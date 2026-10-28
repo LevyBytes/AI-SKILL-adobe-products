@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Edit images with AI Markup", "file": "web/edit-images/edit-images-with-ai-markup.md", "summary": "Open when looking up Edit images with AI Markup in Firefly.", "keywords": ["Edit images with AI Markup"]},
+  {"topic": "Edit images with AI Markup references", "file": "web/edit-images/edit-images-with-ai-markup/reference-index.md", "summary": "Open when looking up Edit images with AI Markup in Firefly.", "keywords": ["Edit images with AI Markup references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Advanced recolor options overview", "file": "desktop/manage-colors/learn-color-basics/advanced-recolor-options-overview.md", "summary": "Open when looking up Advanced recolor options overview in Illustrator.", "keywords": ["Advanced recolor options overview"]},
+  {"topic": "Advanced recolor options overview references", "file": "desktop/manage-colors/learn-color-basics/advanced-recolor-options-overview/reference-index.md", "summary": "Open when looking up Advanced recolor options overview in Illustrator.", "keywords": ["Advanced recolor options overview references"]},
+  {"topic": "Color Guide panel overview", "file": "desktop/manage-colors/learn-color-basics/color-guide-panel-overview.md", "summary": "Open when looking up Color Guide panel overview in Illustrator.", "keywords": ["Color Guide panel overview"]},
+  {"topic": "Color Guide panel overview references", "file": "desktop/manage-colors/learn-color-basics/color-guide-panel-overview/reference-index.md", "summary": "Open when looking up Color Guide panel overview in Illustrator.", "keywords": ["Color Guide panel overview references"]},
+  {"topic": "Create swatch groups in the Color Guide panel", "file": "desktop/manage-colors/learn-color-basics/create-swatch-groups-in-the-color-guide-panel.md", "summary": "Open when looking up Create swatch groups in the Color Guide panel in Illustrator.", "keywords": ["Create swatch groups in the Color Guide panel"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

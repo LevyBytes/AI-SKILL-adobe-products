@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Adjust kerning manually", "file": "references/desktop/text-formatting/tabs-indents-and-spacing/adjust-kerning-between-characters/adjust-kerning-manually.md", "summary": "Open when looking up Adjust kerning manually in InDesign.", "keywords": ["Adjust kerning manually"]},
-  {"topic": "Change the default kerning increment", "file": "references/desktop/text-formatting/tabs-indents-and-spacing/adjust-kerning-between-characters/change-the-default-kerning-increment.md", "summary": "Open when looking up Change the default kerning increment in InDesign.", "keywords": ["Change the default kerning increment"]},
-  {"topic": "Use metrics kerning", "file": "references/desktop/text-formatting/tabs-indents-and-spacing/adjust-kerning-between-characters/use-metrics-kerning.md", "summary": "Open when looking up Use metrics kerning in InDesign.", "keywords": ["Use metrics kerning"]},
-  {"topic": "Use optical kerning", "file": "references/desktop/text-formatting/tabs-indents-and-spacing/adjust-kerning-between-characters/use-optical-kerning.md", "summary": "Open when looking up Use optical kerning in InDesign.", "keywords": ["Use optical kerning"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "contents", "file": "document-model/column/contents.md", "summary": "Open when looking up contents in InDesign.", "keywords": ["contents"]},
+  {"topic": "recompose", "file": "document-model/column/recompose.md", "summary": "Open when looking up recompose in InDesign.", "keywords": ["recompose"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

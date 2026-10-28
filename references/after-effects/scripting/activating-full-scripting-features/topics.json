@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Overview - Activating full scripting features", "file": "scripting/activating-full-scripting-features/overview-activating-full-scripting-features.md", "summary": "Open when looking up Overview - Activating full scripting features in After Effects.", "keywords": ["Overview - Activating full scripting features"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

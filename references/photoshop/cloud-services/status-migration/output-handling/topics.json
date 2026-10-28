@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Embedded storage outputs", "file": "cloud-services/status-migration/output-handling/embedded-storage-outputs.md", "summary": "Open when looking up Embedded storage outputs in Photoshop.", "keywords": ["Embedded storage outputs"]},
+  {"topic": "External storage outputs", "file": "cloud-services/status-migration/output-handling/external-storage-outputs.md", "summary": "Open when looking up External storage outputs in Photoshop.", "keywords": ["External storage outputs"]},
+  {"topic": "Hosted storage outputs", "file": "cloud-services/status-migration/output-handling/hosted-storage-outputs.md", "summary": "Open when looking up Hosted storage outputs in Photoshop.", "keywords": ["Hosted storage outputs"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

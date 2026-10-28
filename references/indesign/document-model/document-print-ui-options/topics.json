@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "SUPPRESS_FILE_SAVE_DIALOG", "file": "document-model/document-print-ui-options/suppressfilesavedialog.md", "summary": "Open when looking up SUPPRESS_FILE_SAVE_DIALOG in InDesign.", "keywords": ["SUPPRESS_FILE_SAVE_DIALOG"]},
+  {"topic": "SUPPRESS_PRINT_DIALOG", "file": "document-model/document-print-ui-options/suppressprintdialog.md", "summary": "Open when looking up SUPPRESS_PRINT_DIALOG in InDesign.", "keywords": ["SUPPRESS_PRINT_DIALOG"]},
+  {"topic": "SUPPRESS_PRINT_PROGRESS", "file": "document-model/document-print-ui-options/suppressprintprogress.md", "summary": "Open when looking up SUPPRESS_PRINT_PROGRESS in InDesign.", "keywords": ["SUPPRESS_PRINT_PROGRESS"]},
+  {"topic": "SUPPRESS_PRINT_WARNINGS", "file": "document-model/document-print-ui-options/suppressprintwarnings.md", "summary": "Open when looking up SUPPRESS_PRINT_WARNINGS in InDesign.", "keywords": ["SUPPRESS_PRINT_WARNINGS"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

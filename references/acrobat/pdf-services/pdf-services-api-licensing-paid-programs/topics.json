@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Metrics", "file": "pdf-services/pdf-services-api-licensing-paid-programs/metrics.md", "summary": "Open when looking up Metrics in Acrobat.", "keywords": ["Metrics"]},
+  {"topic": "Usage limits", "file": "pdf-services/pdf-services-api-licensing-paid-programs/usage-limits.md", "summary": "Open when looking up Usage limits in Acrobat.", "keywords": ["Usage limits"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

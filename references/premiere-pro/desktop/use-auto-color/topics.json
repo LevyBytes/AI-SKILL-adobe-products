@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Auto Color workflow acceleration for professional-grade color grading preparation", "file": "desktop/use-auto-color/auto-color-grading-preparation.md", "summary": "Open when looking up Auto Color workflow acceleration for professional-grade color grading preparation in Premiere Pro.", "keywords": ["Auto Color workflow acceleration for professional-grade color grading preparation"]},
+  {"topic": "How to use Auto Color", "file": "desktop/use-auto-color/how-to-use-auto-color.md", "summary": "Open when looking up How to use Auto Color in Premiere Pro.", "keywords": ["How to use Auto Color"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Apply styles to tables and cells", "file": "references/desktop/add-tables-and-data/table-and-cell-styles/define-and-apply-table-and-cell-styles/apply-styles-to-tables-and-cells.md", "summary": "Open when looking up Apply styles to tables and cells in InDesign.", "keywords": ["Apply styles to tables and cells"]},
-  {"topic": "Define a cell style", "file": "references/desktop/add-tables-and-data/table-and-cell-styles/define-and-apply-table-and-cell-styles/define-a-cell-style.md", "summary": "Open when looking up Define a cell style in InDesign.", "keywords": ["Define a cell style"]},
-  {"topic": "Define a table style", "file": "references/desktop/add-tables-and-data/table-and-cell-styles/define-and-apply-table-and-cell-styles/define-a-table-style.md", "summary": "Open when looking up Define a table style in InDesign.", "keywords": ["Define a table style"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

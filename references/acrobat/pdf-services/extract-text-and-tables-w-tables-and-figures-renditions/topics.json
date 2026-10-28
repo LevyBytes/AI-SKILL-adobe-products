@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": ".NET", "file": "pdf-services/extract-text-and-tables-w-tables-and-figures-renditions/net.md", "summary": "Open when looking up .NET in Acrobat.", "keywords": [".NET"]},
+  {"topic": "Java", "file": "pdf-services/extract-text-and-tables-w-tables-and-figures-renditions/java.md", "summary": "Open when looking up Java in Acrobat.", "keywords": ["Java"]},
+  {"topic": "Node JS", "file": "pdf-services/extract-text-and-tables-w-tables-and-figures-renditions/node-js.md", "summary": "Open when looking up Node JS in Acrobat.", "keywords": ["Node JS"]},
+  {"topic": "Python", "file": "pdf-services/extract-text-and-tables-w-tables-and-figures-renditions/python.md", "summary": "Open when looking up Python in Acrobat.", "keywords": ["Python"]},
+  {"topic": "REST API", "file": "pdf-services/extract-text-and-tables-w-tables-and-figures-renditions/rest-api.md", "summary": "Open when looking up REST API in Acrobat.", "keywords": ["REST API"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

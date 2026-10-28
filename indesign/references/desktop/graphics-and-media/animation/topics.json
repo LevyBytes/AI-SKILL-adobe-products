@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Animate objects", "file": "references/desktop/graphics-and-media/animation/animate-objects.md", "summary": "Open when looking up Animate objects in InDesign.", "keywords": ["Animate objects"]},
-  {"topic": "Change animation order", "file": "references/desktop/graphics-and-media/animation/change-animation-order.md", "summary": "Open when looking up Change animation order in InDesign.", "keywords": ["Change animation order"]},
-  {"topic": "Edit motion paths", "file": "references/desktop/graphics-and-media/animation/edit-motion-paths.md", "summary": "Open when looking up Edit motion paths in InDesign.", "keywords": ["Edit motion paths"]},
-  {"topic": "Manage motion presets", "file": "references/desktop/graphics-and-media/animation/manage-motion-presets.md", "summary": "Open when looking up Manage motion presets in InDesign.", "keywords": ["Manage motion presets"]},
-  {"topic": "Manage motion presets references", "file": "references/desktop/graphics-and-media/animation/manage-motion-presets/reference-index.md", "summary": "Open when looking up Manage motion presets in InDesign.", "keywords": ["Manage motion presets references"]},
-  {"topic": "Motion preset options", "file": "references/desktop/graphics-and-media/animation/motion-preset-options.md", "summary": "Open when looking up Motion preset options in InDesign.", "keywords": ["Motion preset options"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

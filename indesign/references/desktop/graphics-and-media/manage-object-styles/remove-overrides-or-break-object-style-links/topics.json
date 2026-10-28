@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Break the link to an object style", "file": "references/desktop/graphics-and-media/manage-object-styles/remove-overrides-or-break-object-style-links/break-the-link-to-an-object-style.md", "summary": "Open when looking up Break the link to an object style in InDesign.", "keywords": ["Break the link to an object style"]},
-  {"topic": "Clear attributes the style ignores", "file": "references/desktop/graphics-and-media/manage-object-styles/remove-overrides-or-break-object-style-links/clear-attributes-the-style-ignores.md", "summary": "Open when looking up Clear attributes the style ignores in InDesign.", "keywords": ["Clear attributes the style ignores"]},
-  {"topic": "Clear formatting defined by the style", "file": "references/desktop/graphics-and-media/manage-object-styles/remove-overrides-or-break-object-style-links/clear-formatting-defined-by-the-style.md", "summary": "Open when looking up Clear formatting defined by the style in InDesign.", "keywords": ["Clear formatting defined by the style"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

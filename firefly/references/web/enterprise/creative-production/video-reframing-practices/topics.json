@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "firefly", "topics": [
-  {"topic": "Other considerations", "file": "references/web/enterprise/creative-production/video-reframing-practices/other-considerations.md", "summary": "Open when looking up Other considerations in Firefly.", "keywords": ["Other considerations"]},
-  {"topic": "Videos with a single subject", "file": "references/web/enterprise/creative-production/video-reframing-practices/videos-with-a-single-subject.md", "summary": "Open when looking up Videos with a single subject in Firefly.", "keywords": ["Videos with a single subject"]},
-  {"topic": "Videos with graphics and text", "file": "references/web/enterprise/creative-production/video-reframing-practices/videos-with-graphics-and-text.md", "summary": "Open when looking up Videos with graphics and text in Firefly.", "keywords": ["Videos with graphics and text"]},
-  {"topic": "Videos with multiple subjects", "file": "references/web/enterprise/creative-production/video-reframing-practices/videos-with-multiple-subjects.md", "summary": "Open when looking up Videos with multiple subjects in Firefly.", "keywords": ["Videos with multiple subjects"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

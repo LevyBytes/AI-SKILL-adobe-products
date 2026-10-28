@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Add layer navigation", "file": "desktop/edit-documents/work-with-pdf-layers/add-layer-navigation.md", "summary": "Open when looking up Add layer navigation in Acrobat.", "keywords": ["Add layer navigation"]},
+  {"topic": "Add layer navigation references", "file": "desktop/edit-documents/work-with-pdf-layers/add-layer-navigation/reference-index.md", "summary": "Open when looking up Add layer navigation in Acrobat.", "keywords": ["Add layer navigation references"]},
+  {"topic": "Edit layer properties", "file": "desktop/edit-documents/work-with-pdf-layers/edit-layer-properties.md", "summary": "Open when looking up Edit layer properties in Acrobat.", "keywords": ["Edit layer properties"]},
+  {"topic": "Import files as layers", "file": "desktop/edit-documents/work-with-pdf-layers/import-files-as-layers.md", "summary": "Open when looking up Import files as layers in Acrobat.", "keywords": ["Import files as layers"]},
+  {"topic": "Import files as layers references", "file": "desktop/edit-documents/work-with-pdf-layers/import-files-as-layers/reference-index.md", "summary": "Open when looking up Import files as layers in Acrobat.", "keywords": ["Import files as layers references"]},
+  {"topic": "Manage PDF layers", "file": "desktop/edit-documents/work-with-pdf-layers/manage-pdf-layers.md", "summary": "Open when looking up Manage PDF layers in Acrobat.", "keywords": ["Manage PDF layers"]},
+  {"topic": "Manage PDF layers references", "file": "desktop/edit-documents/work-with-pdf-layers/manage-pdf-layers/reference-index.md", "summary": "Open when looking up Manage PDF layers in Acrobat.", "keywords": ["Manage PDF layers references"]},
+  {"topic": "Merge and flatten layers", "file": "desktop/edit-documents/work-with-pdf-layers/merge-and-flatten-layers.md", "summary": "Open when looking up Merge and flatten layers in Acrobat.", "keywords": ["Merge and flatten layers"]},
+  {"topic": "Merge and flatten layers references", "file": "desktop/edit-documents/work-with-pdf-layers/merge-and-flatten-layers/reference-index.md", "summary": "Open when looking up Merge and flatten layers in Acrobat.", "keywords": ["Merge and flatten layers references"]},
+  {"topic": "PDF layers overview", "file": "desktop/edit-documents/work-with-pdf-layers/pdf-layers-overview.md", "summary": "Open when looking up PDF layers overview in Acrobat.", "keywords": ["PDF layers overview"]},
+  {"topic": "PDF layers overview references", "file": "desktop/edit-documents/work-with-pdf-layers/pdf-layers-overview/reference-index.md", "summary": "Open when looking up PDF layers overview in Acrobat.", "keywords": ["PDF layers overview references"]},
+  {"topic": "Reorder PDF layers", "file": "desktop/edit-documents/work-with-pdf-layers/reorder-pdf-layers.md", "summary": "Open when looking up Reorder PDF layers in Acrobat.", "keywords": ["Reorder PDF layers"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

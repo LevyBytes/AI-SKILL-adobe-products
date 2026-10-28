@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Create shaped crops with custom frames", "file": "desktop/graphics-and-media/manage-frames-and-objects/crop-objects/create-shaped-crops-with-custom-frames.md", "summary": "Open when looking up Create shaped crops with custom frames in InDesign.", "keywords": ["Create shaped crops with custom frames"]},
+  {"topic": "Crop by resizing the frame", "file": "desktop/graphics-and-media/manage-frames-and-objects/crop-objects/crop-by-resizing-the-frame.md", "summary": "Open when looking up Crop by resizing the frame in InDesign.", "keywords": ["Crop by resizing the frame"]},
+  {"topic": "Reposition content within the frame", "file": "desktop/graphics-and-media/manage-frames-and-objects/crop-objects/reposition-content-within-the-frame.md", "summary": "Open when looking up Reposition content within the frame in InDesign.", "keywords": ["Reposition content within the frame"]},
+  {"topic": "Reset frame-content relationship", "file": "desktop/graphics-and-media/manage-frames-and-objects/crop-objects/reset-frame-content-relationship.md", "summary": "Open when looking up Reset frame-content relationship in InDesign.", "keywords": ["Reset frame-content relationship"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

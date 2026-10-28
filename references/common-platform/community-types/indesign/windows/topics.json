@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Windows collection iteration", "file": "community-types/indesign/windows/collection-iteration.md", "summary": "Open when looking up Windows collection iteration in Shared Adobe platform.", "keywords": ["Windows collection iteration"]},
+  {"topic": "Windows declaration", "file": "community-types/indesign/windows/declaration.md", "summary": "Open when looking up Windows declaration in Shared Adobe platform.", "keywords": ["Windows declaration"]},
+  {"topic": "Windows named and indexed items", "file": "community-types/indesign/windows/named-and-indexed-items.md", "summary": "Open when looking up Windows named and indexed items in Shared Adobe platform.", "keywords": ["Windows named and indexed items"]},
+  {"topic": "Windows.add", "file": "community-types/indesign/windows/add.md", "summary": "Open when looking up Windows.add in Shared Adobe platform.", "keywords": ["Windows.add"]},
+  {"topic": "Windows.count", "file": "community-types/indesign/windows/count.md", "summary": "Open when looking up Windows.count in Shared Adobe platform.", "keywords": ["Windows.count"]},
+  {"topic": "Windows.IndexSignature", "file": "community-types/indesign/windows/index-signature.md", "summary": "Open when looking up Windows.IndexSignature in Shared Adobe platform.", "keywords": ["Windows.IndexSignature"]},
+  {"topic": "Windows.itemByRange", "file": "community-types/indesign/windows/item-by-range.md", "summary": "Open when looking up Windows.itemByRange in Shared Adobe platform.", "keywords": ["Windows.itemByRange"]},
+  {"topic": "Windows.length", "file": "community-types/indesign/windows/length.md", "summary": "Open when looking up Windows.length in Shared Adobe platform.", "keywords": ["Windows.length"]},
+  {"topic": "Windows.toSource", "file": "community-types/indesign/windows/to-source.md", "summary": "Open when looking up Windows.toSource in Shared Adobe platform.", "keywords": ["Windows.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

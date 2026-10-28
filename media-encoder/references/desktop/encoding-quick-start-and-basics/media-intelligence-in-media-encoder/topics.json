@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "media-encoder", "topics": [
-  {"topic": "Create sidecar files for all media automatically", "file": "references/desktop/encoding-quick-start-and-basics/media-intelligence-in-media-encoder/create-sidecar-files-for-all-media-automatically.md", "summary": "Open when looking up Create sidecar files for all media automatically in Media Encoder.", "keywords": ["Create sidecar files for all media automatically"]},
-  {"topic": "Manually add visual analysis jobs to the queue", "file": "references/desktop/encoding-quick-start-and-basics/media-intelligence-in-media-encoder/manually-add-visual-analysis-jobs-to-the-queue.md", "summary": "Open when looking up Manually add visual analysis jobs to the queue in Media Encoder.", "keywords": ["Manually add visual analysis jobs to the queue"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

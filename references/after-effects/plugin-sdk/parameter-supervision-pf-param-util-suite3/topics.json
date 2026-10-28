@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "PF_AreStatesIdentical", "file": "plugin-sdk/parameter-supervision-pf-param-util-suite3/pf-are-states-identical.md", "summary": "Open when looking up PF_AreStatesIdentical in After Effects.", "keywords": ["PF_AreStatesIdentical"]},
+  {"topic": "PF_CheckinKeyframe", "file": "plugin-sdk/parameter-supervision-pf-param-util-suite3/pf-checkin-keyframe.md", "summary": "Open when looking up PF_CheckinKeyframe in After Effects.", "keywords": ["PF_CheckinKeyframe"]},
+  {"topic": "PF_CheckoutKeyframe", "file": "plugin-sdk/parameter-supervision-pf-param-util-suite3/pf-checkout-keyframe.md", "summary": "Open when looking up PF_CheckoutKeyframe in After Effects.", "keywords": ["PF_CheckoutKeyframe"]},
+  {"topic": "PF_FindKeyframeTime", "file": "plugin-sdk/parameter-supervision-pf-param-util-suite3/pf-find-keyframe-time.md", "summary": "Open when looking up PF_FindKeyframeTime in After Effects.", "keywords": ["PF_FindKeyframeTime"]},
+  {"topic": "PF_GetCurrentState", "file": "plugin-sdk/parameter-supervision-pf-param-util-suite3/pf-get-current-state.md", "summary": "Open when looking up PF_GetCurrentState in After Effects.", "keywords": ["PF_GetCurrentState"]},
+  {"topic": "PF_GetKeyframeCount", "file": "plugin-sdk/parameter-supervision-pf-param-util-suite3/pf-get-keyframe-count.md", "summary": "Open when looking up PF_GetKeyframeCount in After Effects.", "keywords": ["PF_GetKeyframeCount"]},
+  {"topic": "PF_HasParamChanged", "file": "plugin-sdk/parameter-supervision-pf-param-util-suite3/pf-has-param-changed.md", "summary": "Open when looking up PF_HasParamChanged in After Effects.", "keywords": ["PF_HasParamChanged"]},
+  {"topic": "PF_HaveInputsChangedOverTimeSpan", "file": "plugin-sdk/parameter-supervision-pf-param-util-suite3/pf-have-inputs-changed-over-time-span.md", "summary": "Open when looking up PF_HaveInputsChangedOverTimeSpan in After Effects.", "keywords": ["PF_HaveInputsChangedOverTimeSpan"]},
+  {"topic": "PF_IsIdenticalCheckout", "file": "plugin-sdk/parameter-supervision-pf-param-util-suite3/pf-is-identical-checkout.md", "summary": "Open when looking up PF_IsIdenticalCheckout in After Effects.", "keywords": ["PF_IsIdenticalCheckout"]},
+  {"topic": "PF_KeyIndexToTime", "file": "plugin-sdk/parameter-supervision-pf-param-util-suite3/pf-key-index-to-time.md", "summary": "Open when looking up PF_KeyIndexToTime in After Effects.", "keywords": ["PF_KeyIndexToTime"]},
+  {"topic": "PF_UpdateParamUI", "file": "plugin-sdk/parameter-supervision-pf-param-util-suite3/pf-update-param-ui.md", "summary": "Open when looking up PF_UpdateParamUI in After Effects.", "keywords": ["PF_UpdateParamUI"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

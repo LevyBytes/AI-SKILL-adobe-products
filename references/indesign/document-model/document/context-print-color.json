@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "accurateLABSpots", "file": "document-model/document/accurate-lab-spots.md", "summary": "Open when looking up accurateLABSpots in InDesign.", "keywords": ["accurateLABSpots"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

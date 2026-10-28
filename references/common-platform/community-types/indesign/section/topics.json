@@ -1,0 +1,20 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Section declaration", "file": "community-types/indesign/section/declaration.md", "summary": "Open when looking up Section declaration in Shared Adobe platform.", "keywords": ["Section declaration"]},
+  {"topic": "Section event listeners", "file": "community-types/indesign/section/event-listeners.md", "summary": "Open when looking up Section event listeners in Shared Adobe platform.", "keywords": ["Section event listeners"]},
+  {"topic": "Section identity and parent", "file": "community-types/indesign/section/identity-and-parent.md", "summary": "Open when looking up Section identity and parent in Shared Adobe platform.", "keywords": ["Section identity and parent"]},
+  {"topic": "Section labels and metadata", "file": "community-types/indesign/section/labels-and-metadata.md", "summary": "Open when looking up Section labels and metadata in Shared Adobe platform.", "keywords": ["Section labels and metadata"]},
+  {"topic": "Section object resolution", "file": "community-types/indesign/section/object-resolution.md", "summary": "Open when looking up Section object resolution in Shared Adobe platform.", "keywords": ["Section object resolution"]},
+  {"topic": "Section.alternateLayout", "file": "community-types/indesign/section/alternate-layout.md", "summary": "Open when looking up Section.alternateLayout in Shared Adobe platform.", "keywords": ["Section.alternateLayout"]},
+  {"topic": "Section.alternateLayoutLength", "file": "community-types/indesign/section/alternate-layout-length.md", "summary": "Open when looking up Section.alternateLayoutLength in Shared Adobe platform.", "keywords": ["Section.alternateLayoutLength"]},
+  {"topic": "Section.continueNumbering", "file": "community-types/indesign/section/continue-numbering.md", "summary": "Open when looking up Section.continueNumbering in Shared Adobe platform.", "keywords": ["Section.continueNumbering"]},
+  {"topic": "Section.includeSectionPrefix", "file": "community-types/indesign/section/include-section-prefix.md", "summary": "Open when looking up Section.includeSectionPrefix in Shared Adobe platform.", "keywords": ["Section.includeSectionPrefix"]},
+  {"topic": "Section.length", "file": "community-types/indesign/section/length.md", "summary": "Open when looking up Section.length in Shared Adobe platform.", "keywords": ["Section.length"]},
+  {"topic": "Section.marker", "file": "community-types/indesign/section/marker.md", "summary": "Open when looking up Section.marker in Shared Adobe platform.", "keywords": ["Section.marker"]},
+  {"topic": "Section.pageNumberStart", "file": "community-types/indesign/section/page-number-start.md", "summary": "Open when looking up Section.pageNumberStart in Shared Adobe platform.", "keywords": ["Section.pageNumberStart"]},
+  {"topic": "Section.pageNumberStyle", "file": "community-types/indesign/section/page-number-style.md", "summary": "Open when looking up Section.pageNumberStyle in Shared Adobe platform.", "keywords": ["Section.pageNumberStyle"]},
+  {"topic": "Section.pageStart", "file": "community-types/indesign/section/page-start.md", "summary": "Open when looking up Section.pageStart in Shared Adobe platform.", "keywords": ["Section.pageStart"]},
+  {"topic": "Section.properties", "file": "community-types/indesign/section/properties.md", "summary": "Open when looking up Section.properties in Shared Adobe platform.", "keywords": ["Section.properties"]},
+  {"topic": "Section.remove", "file": "community-types/indesign/section/remove.md", "summary": "Open when looking up Section.remove in Shared Adobe platform.", "keywords": ["Section.remove"]},
+  {"topic": "Section.sectionPrefix", "file": "community-types/indesign/section/section-prefix.md", "summary": "Open when looking up Section.sectionPrefix in Shared Adobe platform.", "keywords": ["Section.sectionPrefix"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

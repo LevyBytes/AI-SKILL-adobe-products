@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": ".NET", "file": "references/document-generation/generate-pdf-or-word-documents-with-fragments/net.md", "summary": "Open when looking up .NET in Acrobat.", "keywords": [".NET"]},
-  {"topic": "Java", "file": "references/document-generation/generate-pdf-or-word-documents-with-fragments/java.md", "summary": "Open when looking up Java in Acrobat.", "keywords": ["Java"]},
-  {"topic": "Node JS", "file": "references/document-generation/generate-pdf-or-word-documents-with-fragments/node-js.md", "summary": "Open when looking up Node JS in Acrobat.", "keywords": ["Node JS"]},
-  {"topic": "Python", "file": "references/document-generation/generate-pdf-or-word-documents-with-fragments/python.md", "summary": "Open when looking up Python in Acrobat.", "keywords": ["Python"]},
-  {"topic": "REST API", "file": "references/document-generation/generate-pdf-or-word-documents-with-fragments/rest-api.md", "summary": "Open when looking up REST API in Acrobat.", "keywords": ["REST API"]},
-  {"topic": "REST API with External Storage", "file": "references/document-generation/generate-pdf-or-word-documents-with-fragments/rest-api-with-external-storage.md", "summary": "Open when looking up REST API with External Storage in Acrobat.", "keywords": ["REST API with External Storage"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

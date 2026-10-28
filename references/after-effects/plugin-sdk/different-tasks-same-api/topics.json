@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Overview - Different Tasks, Same API", "file": "plugin-sdk/different-tasks-same-api/overview-different-tasks-same-api.md", "summary": "Open when looking up Overview - Different Tasks, Same API in After Effects.", "keywords": ["Overview - Different Tasks, Same API"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

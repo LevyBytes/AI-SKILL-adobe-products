@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Instance methods references", "file": "uxp/host-api/audio-component-chain/instance-methods/reference-index.md", "summary": "Open when looking up Instance methods in Premiere Pro.", "keywords": ["Instance methods references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

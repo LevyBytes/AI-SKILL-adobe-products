@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Object.constructor.name", "file": "uxp/object-constructor/name.md", "summary": "Open when looking up Object.constructor.name in InDesign.", "keywords": ["Object.constructor.name"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

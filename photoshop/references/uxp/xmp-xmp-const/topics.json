@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "File format numeric constants", "file": "references/uxp/xmp-xmp-const/file-format-numeric-constants.md", "summary": "Open when looking up File format numeric constants in Photoshop.", "keywords": ["File format numeric constants"]},
-  {"topic": "require('uxp').xmp.XMPConst", "file": "references/uxp/xmp-xmp-const/require-uxp-xmp-xmp-const.md", "summary": "Open when looking up require('uxp').xmp.XMPConst in Photoshop.", "keywords": ["require('uxp').xmp.XMPConst"]},
-  {"topic": "Schema namespace string constants", "file": "references/uxp/xmp-xmp-const/schema-namespace-string-constants.md", "summary": "Open when looking up Schema namespace string constants in Photoshop.", "keywords": ["Schema namespace string constants"]},
-  {"topic": "Type namespace string constants", "file": "references/uxp/xmp-xmp-const/type-namespace-string-constants.md", "summary": "Open when looking up Type namespace string constants in Photoshop.", "keywords": ["Type namespace string constants"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

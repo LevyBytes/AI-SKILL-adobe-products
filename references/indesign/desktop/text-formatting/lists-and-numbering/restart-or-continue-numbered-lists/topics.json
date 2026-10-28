@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Continue numbered list", "file": "desktop/text-formatting/lists-and-numbering/restart-or-continue-numbered-lists/continue-numbered-list.md", "summary": "Open when looking up Continue numbered list in InDesign.", "keywords": ["Continue numbered list"]},
+  {"topic": "Number a list from a previous or current document", "file": "desktop/text-formatting/lists-and-numbering/restart-or-continue-numbered-lists/number-a-list-from-a-previous-or-current-document.md", "summary": "Open when looking up Number a list from a previous or current document in InDesign.", "keywords": ["Number a list from a previous or current document"]},
+  {"topic": "Number a list from a previous or current story", "file": "desktop/text-formatting/lists-and-numbering/restart-or-continue-numbered-lists/number-a-list-from-a-previous-or-current-story.md", "summary": "Open when looking up Number a list from a previous or current story in InDesign.", "keywords": ["Number a list from a previous or current story"]},
+  {"topic": "Restart a numbered list", "file": "desktop/text-formatting/lists-and-numbering/restart-or-continue-numbered-lists/restart-a-numbered-list.md", "summary": "Open when looking up Restart a numbered list in InDesign.", "keywords": ["Restart a numbered list"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

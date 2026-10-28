@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Delete layouts", "file": "desktop/restore-or-delete-layouts-in-freeform-view-in-project-panel/delete-layouts.md", "summary": "Open when looking up Delete layouts in Premiere Pro.", "keywords": ["Delete layouts"]},
+  {"topic": "Restore layouts", "file": "desktop/restore-or-delete-layouts-in-freeform-view-in-project-panel/restore-layouts.md", "summary": "Open when looking up Restore layouts in Premiere Pro.", "keywords": ["Restore layouts"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

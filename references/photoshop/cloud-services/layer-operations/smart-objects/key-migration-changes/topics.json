@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "1. Type mapping", "file": "cloud-services/layer-operations/smart-objects/key-migration-changes/type-mapping.md", "summary": "Open when looking up 1. Type mapping in Photoshop.", "keywords": ["1. Type mapping"]},
+  {"topic": "2. Source location", "file": "cloud-services/layer-operations/smart-objects/key-migration-changes/source-location.md", "summary": "Open when looking up 2. Source location in Photoshop.", "keywords": ["2. Source location"]},
+  {"topic": "3. Linked vs Embedded", "file": "cloud-services/layer-operations/smart-objects/key-migration-changes/linked-vs-embedded.md", "summary": "Open when looking up 3. Linked vs Embedded in Photoshop.", "keywords": ["3. Linked vs Embedded"]},
+  {"topic": "4. Add Operation Structure", "file": "cloud-services/layer-operations/smart-objects/key-migration-changes/add-operation-structure.md", "summary": "Open when looking up 4. Add Operation Structure in Photoshop.", "keywords": ["4. Add Operation Structure"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

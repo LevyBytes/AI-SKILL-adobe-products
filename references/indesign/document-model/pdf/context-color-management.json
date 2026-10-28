@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "cmykVectorPolicy", "file": "document-model/pdf/cmyk-vector-policy.md", "summary": "Open when looking up cmykVectorPolicy in InDesign.", "keywords": ["cmykVectorPolicy"]},
+  {"topic": "grayVectorPolicy", "file": "document-model/pdf/gray-vector-policy.md", "summary": "Open when looking up grayVectorPolicy in InDesign.", "keywords": ["grayVectorPolicy"]},
+  {"topic": "rgbVectorPolicy", "file": "document-model/pdf/rgb-vector-policy.md", "summary": "Open when looking up rgbVectorPolicy in InDesign.", "keywords": ["rgbVectorPolicy"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

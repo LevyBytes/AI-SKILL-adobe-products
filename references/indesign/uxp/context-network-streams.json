@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Abort controller references", "file": "uxp/abort-controller/reference-index.md", "summary": "Open when looking up Abort controller in InDesign.", "keywords": ["Abort controller references"]},
+  {"topic": "Count queuing strategy references", "file": "uxp/count-queuing-strategy/reference-index.md", "summary": "Open when looking up Count queuing strategy in InDesign.", "keywords": ["Count queuing strategy references"]},
+  {"topic": "Crypto", "file": "uxp/crypto.md", "summary": "Open when looking up Crypto in InDesign.", "keywords": ["Crypto"]},
+  {"topic": "Network I/O", "file": "uxp/network-i-o.md", "summary": "Open when looking up Network I/O in InDesign.", "keywords": ["Network I/O"]},
+  {"topic": "Network I/O references", "file": "uxp/network-i-o/reference-index.md", "summary": "Open when looking up Network I/O in InDesign.", "keywords": ["Network I/O references"]},
+  {"topic": "Readable stream default controller references", "file": "uxp/readable-stream-default-controller/reference-index.md", "summary": "Open when looking up Readable stream default controller in InDesign.", "keywords": ["Readable stream default controller references"]},
+  {"topic": "Streams", "file": "uxp/streams.md", "summary": "Open when looking up Streams in InDesign.", "keywords": ["Streams"]},
+  {"topic": "Transform stream default controller references", "file": "uxp/transform-stream-default-controller/reference-index.md", "summary": "Open when looking up Transform stream default controller in InDesign.", "keywords": ["Transform stream default controller references"]},
+  {"topic": "Window crypto references", "file": "uxp/window-crypto/reference-index.md", "summary": "Open when looking up Window crypto in InDesign.", "keywords": ["Window crypto references"]},
+  {"topic": "Writable stream default controller references", "file": "uxp/writable-stream-default-controller/reference-index.md", "summary": "Open when looking up Writable stream default controller in InDesign.", "keywords": ["Writable stream default controller references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

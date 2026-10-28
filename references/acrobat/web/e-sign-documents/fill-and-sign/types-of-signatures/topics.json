@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Approval signature (Acrobat)", "file": "web/e-sign-documents/fill-and-sign/types-of-signatures/approval-signature-acrobat.md", "summary": "Open when looking up Approval signature (Acrobat) in Acrobat.", "keywords": ["Approval signature (Acrobat)"]},
+  {"topic": "Certification signature (Acrobat)", "file": "web/e-sign-documents/fill-and-sign/types-of-signatures/certification-signature-acrobat.md", "summary": "Open when looking up Certification signature (Acrobat) in Acrobat.", "keywords": ["Certification signature (Acrobat)"]},
+  {"topic": "Cloud signature", "file": "web/e-sign-documents/fill-and-sign/types-of-signatures/cloud-signature.md", "summary": "Open when looking up Cloud signature in Acrobat.", "keywords": ["Cloud signature"]},
+  {"topic": "Digital seals", "file": "web/e-sign-documents/fill-and-sign/types-of-signatures/digital-seals.md", "summary": "Open when looking up Digital seals in Acrobat.", "keywords": ["Digital seals"]},
+  {"topic": "Digital signatures (certificate-based)", "file": "web/e-sign-documents/fill-and-sign/types-of-signatures/digital-signatures-certificate-based.md", "summary": "Open when looking up Digital signatures (certificate-based) in Acrobat.", "keywords": ["Digital signatures (certificate-based)"]},
+  {"topic": "e-signatures", "file": "web/e-sign-documents/fill-and-sign/types-of-signatures/e-signatures.md", "summary": "Open when looking up e-signatures in Acrobat.", "keywords": ["e-signatures"]},
+  {"topic": "e-signatures with identification", "file": "web/e-sign-documents/fill-and-sign/types-of-signatures/e-signatures-with-identification.md", "summary": "Open when looking up e-signatures with identification in Acrobat.", "keywords": ["e-signatures with identification"]},
+  {"topic": "Qualified Electronic Signature (QES)", "file": "web/e-sign-documents/fill-and-sign/types-of-signatures/qualified-electronic-signature-qes.md", "summary": "Open when looking up Qualified Electronic Signature (QES) in Acrobat.", "keywords": ["Qualified Electronic Signature (QES)"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

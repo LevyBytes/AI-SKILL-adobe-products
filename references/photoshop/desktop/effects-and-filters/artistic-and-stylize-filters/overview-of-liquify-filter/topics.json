@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Key features", "file": "desktop/effects-and-filters/artistic-and-stylize-filters/overview-of-liquify-filter/key-features.md", "summary": "Open when looking up Key features in Photoshop.", "keywords": ["Key features"]},
+  {"topic": "What is the Liquify filter?", "file": "desktop/effects-and-filters/artistic-and-stylize-filters/overview-of-liquify-filter/what-is-the-liquify-filter.md", "summary": "Open when looking up What is the Liquify filter? in Photoshop.", "keywords": ["What is the Liquify filter?"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

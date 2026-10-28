@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "incopy", "topics": [
-  {"topic": "About InCopy workflows", "file": "references/desktop/work-with-in-design/in-copy-workflow-overview/create-and-use-in-copy-workflows/about-in-copy-workflows.md", "summary": "Open when looking up About InCopy workflows in InCopy.", "keywords": ["About InCopy workflows"]},
-  {"topic": "About linked (managed) documents", "file": "references/desktop/work-with-in-design/in-copy-workflow-overview/create-and-use-in-copy-workflows/about-linked-managed-documents.md", "summary": "Open when looking up About linked (managed) documents in InCopy.", "keywords": ["About linked (managed) documents"]},
-  {"topic": "Working with multistory files", "file": "references/desktop/work-with-in-design/in-copy-workflow-overview/create-and-use-in-copy-workflows/working-with-multistory-files.md", "summary": "Open when looking up Working with multistory files in InCopy.", "keywords": ["Working with multistory files"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

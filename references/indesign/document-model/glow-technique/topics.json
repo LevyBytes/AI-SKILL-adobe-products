@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "PRECISE", "file": "document-model/glow-technique/precise.md", "summary": "Open when looking up PRECISE in InDesign.", "keywords": ["PRECISE"]},
+  {"topic": "SOFTER", "file": "document-model/glow-technique/softer.md", "summary": "Open when looking up SOFTER in InDesign.", "keywords": ["SOFTER"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

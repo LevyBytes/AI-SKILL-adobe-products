@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Custom script ZIP structure", "file": "cloud-services/custom-script-guide/custom-script-zip-structure.md", "summary": "Open when looking up Custom script ZIP structure in Illustrator.", "keywords": ["Custom script ZIP structure"]},
+  {"topic": "Execute a custom script", "file": "cloud-services/custom-script-guide/execute-a-custom-script.md", "summary": "Open when looking up Execute a custom script in Illustrator.", "keywords": ["Execute a custom script"]},
+  {"topic": "If an execution fails", "file": "cloud-services/custom-script-guide/if-an-execution-fails.md", "summary": "Open when looking up If an execution fails in Illustrator.", "keywords": ["If an execution fails"]},
+  {"topic": "If an execution succeeds", "file": "cloud-services/custom-script-guide/if-an-execution-succeeds.md", "summary": "Open when looking up If an execution succeeds in Illustrator.", "keywords": ["If an execution succeeds"]},
+  {"topic": "Input examples", "file": "cloud-services/custom-script-guide/input-examples.md", "summary": "Open when looking up Input examples in Illustrator.", "keywords": ["Input examples"]},
+  {"topic": "Logging", "file": "cloud-services/custom-script-guide/logging.md", "summary": "Open when looking up Logging in Illustrator.", "keywords": ["Logging"]},
+  {"topic": "Providing output from a custom script", "file": "cloud-services/custom-script-guide/providing-output-from-a-custom-script.md", "summary": "Open when looking up Providing output from a custom script in Illustrator.", "keywords": ["Providing output from a custom script"]},
+  {"topic": "Required input in a custom script", "file": "cloud-services/custom-script-guide/required-input-in-a-custom-script.md", "summary": "Open when looking up Required input in a custom script in Illustrator.", "keywords": ["Required input in a custom script"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

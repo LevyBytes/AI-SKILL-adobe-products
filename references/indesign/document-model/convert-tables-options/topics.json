@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "UNFORMATTED_TABBED_TEXT", "file": "document-model/convert-tables-options/unformattedtabbedtext.md", "summary": "Open when looking up UNFORMATTED_TABBED_TEXT in InDesign.", "keywords": ["UNFORMATTED_TABBED_TEXT"]},
+  {"topic": "UNFORMATTED_TABLE", "file": "document-model/convert-tables-options/unformattedtable.md", "summary": "Open when looking up UNFORMATTED_TABLE in InDesign.", "keywords": ["UNFORMATTED_TABLE"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

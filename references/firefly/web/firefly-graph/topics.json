@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Firefly Graph Overview", "file": "web/firefly-graph/firefly-graph-overview.md", "summary": "Open when looking up Firefly Graph Overview in Firefly.", "keywords": ["Firefly Graph Overview"]},
+  {"topic": "Firefly Graph Overview references", "file": "web/firefly-graph/firefly-graph-overview/reference-index.md", "summary": "Open when looking up Firefly Graph Overview in Firefly.", "keywords": ["Firefly Graph Overview references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

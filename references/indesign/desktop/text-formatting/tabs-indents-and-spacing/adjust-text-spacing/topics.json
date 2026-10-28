@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Adjust letter spacing", "file": "desktop/text-formatting/tabs-indents-and-spacing/adjust-text-spacing/adjust-letter-spacing.md", "summary": "Open when looking up Adjust letter spacing in InDesign.", "keywords": ["Adjust letter spacing"]},
+  {"topic": "Adjust word spacing", "file": "desktop/text-formatting/tabs-indents-and-spacing/adjust-text-spacing/adjust-word-spacing.md", "summary": "Open when looking up Adjust word spacing in InDesign.", "keywords": ["Adjust word spacing"]},
+  {"topic": "Flush space for even line distribution", "file": "desktop/text-formatting/tabs-indents-and-spacing/adjust-text-spacing/flush-space-for-even-line-distribution.md", "summary": "Open when looking up Flush space for even line distribution in InDesign.", "keywords": ["Flush space for even line distribution"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

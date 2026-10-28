@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Development", "file": "plugin-samples/cross-compatible-js-sample/development.md", "summary": "Open when looking up Development in Photoshop.", "keywords": ["Development"]},
+  {"topic": "Install dependencies", "file": "plugin-samples/cross-compatible-js-sample/install-dependencies.md", "summary": "Open when looking up Install dependencies in Photoshop.", "keywords": ["Install dependencies"]},
+  {"topic": "Launching in Photoshop and XD", "file": "plugin-samples/cross-compatible-js-sample/launching-in-photoshop-and-xd.md", "summary": "Open when looking up Launching in Photoshop and XD in Photoshop.", "keywords": ["Launching in Photoshop and XD"]},
+  {"topic": "Photoshop", "file": "plugin-samples/cross-compatible-js-sample/photoshop.md", "summary": "Open when looking up Photoshop in Photoshop.", "keywords": ["Photoshop"]},
+  {"topic": "Production", "file": "plugin-samples/cross-compatible-js-sample/production.md", "summary": "Open when looking up Production in Photoshop.", "keywords": ["Production"]},
+  {"topic": "What this plugin does", "file": "plugin-samples/cross-compatible-js-sample/what-this-plugin-does.md", "summary": "Open when looking up What this plugin does in Photoshop.", "keywords": ["What this plugin does"]},
+  {"topic": "XD", "file": "plugin-samples/cross-compatible-js-sample/xd.md", "summary": "Open when looking up XD in Photoshop.", "keywords": ["XD"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

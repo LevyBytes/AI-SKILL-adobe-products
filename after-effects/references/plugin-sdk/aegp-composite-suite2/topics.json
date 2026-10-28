@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "AEGP_ClearAlphaExceptRect", "file": "references/plugin-sdk/aegp-composite-suite2/aegp-clear-alpha-except-rect.md", "summary": "Open when looking up AEGP_ClearAlphaExceptRect in After Effects.", "keywords": ["AEGP_ClearAlphaExceptRect"]},
-  {"topic": "AEGP_CopyBits_HQ_Premul", "file": "references/plugin-sdk/aegp-composite-suite2/aegp-copy-bits-hq-premul.md", "summary": "Open when looking up AEGP_CopyBits_HQ_Premul in After Effects.", "keywords": ["AEGP_CopyBits_HQ_Premul"]},
-  {"topic": "AEGP_CopyBits_HQ_Straight", "file": "references/plugin-sdk/aegp-composite-suite2/aegp-copy-bits-hq-straight.md", "summary": "Open when looking up AEGP_CopyBits_HQ_Straight in After Effects.", "keywords": ["AEGP_CopyBits_HQ_Straight"]},
-  {"topic": "AEGP_CopyBits_LQ", "file": "references/plugin-sdk/aegp-composite-suite2/aegp-copy-bits-lq.md", "summary": "Open when looking up AEGP_CopyBits_LQ in After Effects.", "keywords": ["AEGP_CopyBits_LQ"]},
-  {"topic": "AEGP_PrepTrackMatte", "file": "references/plugin-sdk/aegp-composite-suite2/aegp-prep-track-matte.md", "summary": "Open when looking up AEGP_PrepTrackMatte in After Effects.", "keywords": ["AEGP_PrepTrackMatte"]},
-  {"topic": "AEGP_TransferRect", "file": "references/plugin-sdk/aegp-composite-suite2/aegp-transfer-rect.md", "summary": "Open when looking up AEGP_TransferRect in After Effects.", "keywords": ["AEGP_TransferRect"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

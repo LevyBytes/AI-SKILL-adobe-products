@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "CHARACTER_INPUT", "file": "references/document-model/kenten-character-set/characterinput.md", "summary": "Open when looking up CHARACTER_INPUT in InDesign.", "keywords": ["CHARACTER_INPUT"]},
-  {"topic": "JIS", "file": "references/document-model/kenten-character-set/jis.md", "summary": "Open when looking up JIS in InDesign.", "keywords": ["JIS"]},
-  {"topic": "KUTEN", "file": "references/document-model/kenten-character-set/kuten.md", "summary": "Open when looking up KUTEN in InDesign.", "keywords": ["KUTEN"]},
-  {"topic": "SHIFT_JIS", "file": "references/document-model/kenten-character-set/shiftjis.md", "summary": "Open when looking up SHIFT_JIS in InDesign.", "keywords": ["SHIFT_JIS"]},
-  {"topic": "UNICODE", "file": "references/document-model/kenten-character-set/unicode.md", "summary": "Open when looking up UNICODE in InDesign.", "keywords": ["UNICODE"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

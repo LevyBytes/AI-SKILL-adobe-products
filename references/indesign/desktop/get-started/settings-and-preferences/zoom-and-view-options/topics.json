@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Power zoom behavior", "file": "desktop/get-started/settings-and-preferences/zoom-and-view-options/power-zoom-behavior.md", "summary": "Open when looking up Power zoom behavior in InDesign.", "keywords": ["Power zoom behavior"]},
+  {"topic": "Zoom methods", "file": "desktop/get-started/settings-and-preferences/zoom-and-view-options/zoom-methods.md", "summary": "Open when looking up Zoom methods in InDesign.", "keywords": ["Zoom methods"]},
+  {"topic": "Zoom percentage display", "file": "desktop/get-started/settings-and-preferences/zoom-and-view-options/zoom-percentage-display.md", "summary": "Open when looking up Zoom percentage display in InDesign.", "keywords": ["Zoom percentage display"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

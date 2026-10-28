@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Barcode value properties", "file": "desktop/work-with-pdf-forms/customize-pdf-form-fields/field-formatting-options/barcode-value-properties.md", "summary": "Open when looking up Barcode value properties in Acrobat.", "keywords": ["Barcode value properties"]},
+  {"topic": "Format text and dropdown fields", "file": "desktop/work-with-pdf-forms/customize-pdf-form-fields/field-formatting-options/format-text-and-dropdown-fields.md", "summary": "Open when looking up Format text and dropdown fields in Acrobat.", "keywords": ["Format text and dropdown fields"]},
+  {"topic": "Validate", "file": "desktop/work-with-pdf-forms/customize-pdf-form-fields/field-formatting-options/validate.md", "summary": "Open when looking up Validate in Acrobat.", "keywords": ["Validate"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

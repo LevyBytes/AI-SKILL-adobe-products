@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/audition", "topics": [
+  {"topic": "Desktop workflows references", "file": "desktop/reference-index.md", "summary": "Open when looking up Desktop workflows in Audition.", "keywords": ["Desktop workflows references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Edit a symbol", "file": "references/desktop/manage-objects/traces-mockups-and-symbols/edit-symbols/edit-a-symbol.md", "summary": "Open when looking up Edit a symbol in Illustrator.", "keywords": ["Edit a symbol"]},
-  {"topic": "Redefine a symbol with another object", "file": "references/desktop/manage-objects/traces-mockups-and-symbols/edit-symbols/redefine-a-symbol-with-another-object.md", "summary": "Open when looking up Redefine a symbol with another object in Illustrator.", "keywords": ["Redefine a symbol with another object"]},
-  {"topic": "Replace a symbol instance with a different symbol", "file": "references/desktop/manage-objects/traces-mockups-and-symbols/edit-symbols/replace-a-symbol-instance-with-a-different-symbol.md", "summary": "Open when looking up Replace a symbol instance with a different symbol in Illustrator.", "keywords": ["Replace a symbol instance with a different symbol"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

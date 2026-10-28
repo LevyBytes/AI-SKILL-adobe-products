@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Setting a CMYK color", "file": "scripting/cmyk-color-example/setting-a-cmyk-color.md", "summary": "Open when looking up Setting a CMYK color in Illustrator.", "keywords": ["Setting a CMYK color"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

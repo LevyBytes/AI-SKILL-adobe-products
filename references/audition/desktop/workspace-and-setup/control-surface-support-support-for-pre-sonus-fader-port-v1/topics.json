@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/audition", "topics": [
+  {"topic": "Control surface support - Support for Mackie HUI", "file": "desktop/workspace-and-setup/control-surface-support-support-for-pre-sonus-fader-port-v1/control-surface-support-support-for-mackie-hui.md", "summary": "Open when looking up Control surface support - Support for Mackie HUI in Audition.", "keywords": ["Control surface support - Support for Mackie HUI"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

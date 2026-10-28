@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "CEP (Common Extensibility Platform)", "file": "references/uxp/legacy-extensibility/cep-common-extensibility-platform.md", "summary": "Open when looking up CEP (Common Extensibility Platform) in Photoshop.", "keywords": ["CEP (Common Extensibility Platform)"]},
-  {"topic": "ExtendScript", "file": "references/uxp/legacy-extensibility/extend-script.md", "summary": "Open when looking up ExtendScript in Photoshop.", "keywords": ["ExtendScript"]},
-  {"topic": "Native C++ Plugins", "file": "references/uxp/legacy-extensibility/native-c-plugins.md", "summary": "Open when looking up Native C++ Plugins in Photoshop.", "keywords": ["Native C++ Plugins"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

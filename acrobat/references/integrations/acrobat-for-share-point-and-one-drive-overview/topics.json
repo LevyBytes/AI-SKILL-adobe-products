@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Data handling and privacy", "file": "references/integrations/acrobat-for-share-point-and-one-drive-overview/data-handling-and-privacy.md", "summary": "Open when looking up Data handling and privacy in Acrobat.", "keywords": ["Data handling and privacy"]},
-  {"topic": "File name and path length limitations", "file": "references/integrations/acrobat-for-share-point-and-one-drive-overview/file-name-and-path-length-limitations.md", "summary": "Open when looking up File name and path length limitations in Acrobat.", "keywords": ["File name and path length limitations"]},
-  {"topic": "File name restrictions", "file": "references/integrations/acrobat-for-share-point-and-one-drive-overview/file-name-restrictions.md", "summary": "Open when looking up File name restrictions in Acrobat.", "keywords": ["File name restrictions"]},
-  {"topic": "Visibility in OneDrive and SharePoint", "file": "references/integrations/acrobat-for-share-point-and-one-drive-overview/visibility-in-one-drive-and-share-point.md", "summary": "Open when looking up Visibility in OneDrive and SharePoint in Acrobat.", "keywords": ["Visibility in OneDrive and SharePoint"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

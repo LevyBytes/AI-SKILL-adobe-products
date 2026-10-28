@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "_CommandID.Clear", "file": "community-types/aftereffects/command-id/clear.md", "summary": "Open when looking up _CommandID.Clear in Shared Adobe platform.", "keywords": ["_CommandID.Clear"]},
+  {"topic": "_CommandID.Copy", "file": "community-types/aftereffects/command-id/copy.md", "summary": "Open when looking up _CommandID.Copy in Shared Adobe platform.", "keywords": ["_CommandID.Copy"]},
+  {"topic": "_CommandID.Cut", "file": "community-types/aftereffects/command-id/cut.md", "summary": "Open when looking up _CommandID.Cut in Shared Adobe platform.", "keywords": ["_CommandID.Cut"]},
+  {"topic": "_CommandID.DeselectAll", "file": "community-types/aftereffects/command-id/deselect-all.md", "summary": "Open when looking up _CommandID.DeselectAll in Shared Adobe platform.", "keywords": ["_CommandID.DeselectAll"]},
+  {"topic": "_CommandID.Duplicate", "file": "community-types/aftereffects/command-id/duplicate.md", "summary": "Open when looking up _CommandID.Duplicate in Shared Adobe platform.", "keywords": ["_CommandID.Duplicate"]},
+  {"topic": "_CommandID.Paste", "file": "community-types/aftereffects/command-id/paste.md", "summary": "Open when looking up _CommandID.Paste in Shared Adobe platform.", "keywords": ["_CommandID.Paste"]},
+  {"topic": "_CommandID.Redo", "file": "community-types/aftereffects/command-id/redo.md", "summary": "Open when looking up _CommandID.Redo in Shared Adobe platform.", "keywords": ["_CommandID.Redo"]},
+  {"topic": "_CommandID.Redo2", "file": "community-types/aftereffects/command-id/redo2.md", "summary": "Open when looking up _CommandID.Redo2 in Shared Adobe platform.", "keywords": ["_CommandID.Redo2"]},
+  {"topic": "_CommandID.SelectAll", "file": "community-types/aftereffects/command-id/select-all.md", "summary": "Open when looking up _CommandID.SelectAll in Shared Adobe platform.", "keywords": ["_CommandID.SelectAll"]},
+  {"topic": "_CommandID.Undo", "file": "community-types/aftereffects/command-id/undo.md", "summary": "Open when looking up _CommandID.Undo in Shared Adobe platform.", "keywords": ["_CommandID.Undo"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

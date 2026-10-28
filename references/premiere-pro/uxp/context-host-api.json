@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Host api references", "file": "uxp/host-api/reference-index.md", "summary": "Open when looking up Host api in Premiere Pro.", "keywords": ["Host api references"]},
+  {"topic": "Premiere Pro DOM APIs", "file": "uxp/premiere-pro-dom-apis.md", "summary": "Open when looking up Premiere Pro DOM APIs in Premiere Pro.", "keywords": ["Premiere Pro DOM APIs"]},
+  {"topic": "Premiere Pro DOM APIs references", "file": "uxp/premiere-pro-dom-apis/reference-index.md", "summary": "Open when looking up Premiere Pro DOM APIs in Premiere Pro.", "keywords": ["Premiere Pro DOM APIs references"]},
+  {"topic": "Premiere UXP API", "file": "uxp/premiere-uxp-api.md", "summary": "Open when looking up Premiere UXP API in Premiere Pro.", "keywords": ["Premiere UXP API"]},
+  {"topic": "Premiere UXP API references", "file": "uxp/premiere-uxp-api/reference-index.md", "summary": "Open when looking up Premiere UXP API in Premiere Pro.", "keywords": ["Premiere UXP API references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

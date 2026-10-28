@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Copy or move assets between libraries", "file": "references/desktop/app-integrations/manage-assets-in-creative-cloud-libraries/copy-or-move-assets-between-libraries.md", "summary": "Open when looking up Copy or move assets between libraries in InDesign.", "keywords": ["Copy or move assets between libraries"]},
-  {"topic": "Rename, delete, or duplicate assets", "file": "references/desktop/app-integrations/manage-assets-in-creative-cloud-libraries/rename-delete-or-duplicate-assets.md", "summary": "Open when looking up Rename, delete, or duplicate assets in InDesign.", "keywords": ["Rename, delete, or duplicate assets"]},
-  {"topic": "Search for assets by name", "file": "references/desktop/app-integrations/manage-assets-in-creative-cloud-libraries/search-for-assets-by-name.md", "summary": "Open when looking up Search for assets by name in InDesign.", "keywords": ["Search for assets by name"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

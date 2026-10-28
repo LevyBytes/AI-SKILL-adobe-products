@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "ChangeGrepPreference.appliedCharacterStyle", "file": "references/community-types/indesign/change-grep-preference/applied-character-style.md", "summary": "Open when looking up ChangeGrepPreference.appliedCharacterStyle in Shared Adobe platform.", "keywords": ["ChangeGrepPreference.appliedCharacterStyle"]},
-  {"topic": "ChangeGrepPreference.appliedParagraphStyle", "file": "references/community-types/indesign/change-grep-preference/applied-paragraph-style.md", "summary": "Open when looking up ChangeGrepPreference.appliedParagraphStyle in Shared Adobe platform.", "keywords": ["ChangeGrepPreference.appliedParagraphStyle"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,16 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "GroupLayerCreateOptions", "file": "uxp/group-layer-create-options.md", "summary": "Open when looking up GroupLayerCreateOptions in Photoshop.", "keywords": ["GroupLayerCreateOptions"]},
+  {"topic": "Layer", "file": "uxp/layer.md", "summary": "Open when looking up Layer in Photoshop.", "keywords": ["Layer"]},
+  {"topic": "Layer references", "file": "uxp/layer/reference-index.md", "summary": "Open when looking up Layer in Photoshop.", "keywords": ["Layer references"]},
+  {"topic": "LayerCompCreateOptions", "file": "uxp/layer-comp-create-options.md", "summary": "Open when looking up LayerCompCreateOptions in Photoshop.", "keywords": ["LayerCompCreateOptions"]},
+  {"topic": "LayerCompRecaptureOptions", "file": "uxp/layer-comp-recapture-options.md", "summary": "Open when looking up LayerCompRecaptureOptions in Photoshop.", "keywords": ["LayerCompRecaptureOptions"]},
+  {"topic": "PixelLayerCreateOptions", "file": "uxp/pixel-layer-create-options.md", "summary": "Open when looking up PixelLayerCreateOptions in Photoshop.", "keywords": ["PixelLayerCreateOptions"]},
+  {"topic": "Prototype", "file": "uxp/prototype.md", "summary": "Open when looking up Prototype in Photoshop.", "keywords": ["Prototype"]},
+  {"topic": "Samples - Create a new layer", "file": "uxp/samples-create-a-new-layer.md", "summary": "Open when looking up Samples - Create a new layer in Photoshop.", "keywords": ["Samples - Create a new layer"]},
+  {"topic": "Samples - Create a new layer references", "file": "uxp/samples-create-a-new-layer/reference-index.md", "summary": "Open when looking up Samples - Create a new layer in Photoshop.", "keywords": ["Samples - Create a new layer references"]},
+  {"topic": "TextLayerCreateOptions", "file": "uxp/text-layer-create-options.md", "summary": "Open when looking up TextLayerCreateOptions in Photoshop.", "keywords": ["TextLayerCreateOptions"]},
+  {"topic": "types/LayerCompTypes - Interfaces", "file": "uxp/types-layer-comp-types-interfaces.md", "summary": "Open when looking up types/LayerCompTypes - Interfaces in Photoshop.", "keywords": ["types/LayerCompTypes - Interfaces"]},
+  {"topic": "types/LayerTypes - Interfaces", "file": "uxp/types-layer-types-interfaces.md", "summary": "Open when looking up types/LayerTypes - Interfaces in Photoshop.", "keywords": ["types/LayerTypes - Interfaces"]},
+  {"topic": "types/LayerTypes - Interfaces references", "file": "uxp/types-layer-types-interfaces/reference-index.md", "summary": "Open when looking up types/LayerTypes - Interfaces in Photoshop.", "keywords": ["types/LayerTypes - Interfaces references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

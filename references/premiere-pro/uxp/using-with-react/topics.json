@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Boolean attributes", "file": "uxp/using-with-react/boolean-attributes.md", "summary": "Open when looking up Boolean attributes in Premiere Pro.", "keywords": ["Boolean attributes"]},
+  {"topic": "Event Handling", "file": "uxp/using-with-react/event-handling.md", "summary": "Open when looking up Event Handling in Premiere Pro.", "keywords": ["Event Handling"]},
+  {"topic": "No self-closing tags", "file": "uxp/using-with-react/no-self-closing-tags.md", "summary": "Open when looking up No self-closing tags in Premiere Pro.", "keywords": ["No self-closing tags"]},
+  {"topic": "Use class instead of className", "file": "uxp/using-with-react/use-class-instead-of-class-name.md", "summary": "Open when looking up Use class instead of className in Premiere Pro.", "keywords": ["Use class instead of className"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

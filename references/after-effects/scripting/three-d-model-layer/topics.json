@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "AE Properties", "file": "scripting/three-d-model-layer/ae-properties.md", "summary": "Open when looking up AE Properties in After Effects.", "keywords": ["AE Properties"]},
+  {"topic": "ThreeDModelLayer object", "file": "scripting/three-d-model-layer/three-d-model-layer-object.md", "summary": "Open when looking up ThreeDModelLayer object in After Effects.", "keywords": ["ThreeDModelLayer object"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

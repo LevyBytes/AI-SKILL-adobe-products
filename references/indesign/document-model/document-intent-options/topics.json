@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "MOBILE_INTENT", "file": "document-model/document-intent-options/mobileintent.md", "summary": "Open when looking up MOBILE_INTENT in InDesign.", "keywords": ["MOBILE_INTENT"]},
+  {"topic": "PRINT_INTENT", "file": "document-model/document-intent-options/printintent.md", "summary": "Open when looking up PRINT_INTENT in InDesign.", "keywords": ["PRINT_INTENT"]},
+  {"topic": "WEB_INTENT", "file": "document-model/document-intent-options/webintent.md", "summary": "Open when looking up WEB_INTENT in InDesign.", "keywords": ["WEB_INTENT"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

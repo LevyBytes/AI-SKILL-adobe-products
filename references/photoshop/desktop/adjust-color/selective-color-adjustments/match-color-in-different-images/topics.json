@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Benefits of Match Color", "file": "desktop/adjust-color/selective-color-adjustments/match-color-in-different-images/benefits-of-match-color.md", "summary": "Open when looking up Benefits of Match Color in Photoshop.", "keywords": ["Benefits of Match Color"]},
+  {"topic": "Functionality of Match Color", "file": "desktop/adjust-color/selective-color-adjustments/match-color-in-different-images/functionality-of-match-color.md", "summary": "Open when looking up Functionality of Match Color in Photoshop.", "keywords": ["Functionality of Match Color"]},
+  {"topic": "Overview of Match Color", "file": "desktop/adjust-color/selective-color-adjustments/match-color-in-different-images/overview-of-match-color.md", "summary": "Open when looking up Overview of Match Color in Photoshop.", "keywords": ["Overview of Match Color"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

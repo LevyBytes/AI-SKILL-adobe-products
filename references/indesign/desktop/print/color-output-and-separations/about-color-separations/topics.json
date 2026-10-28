@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Host-based separations", "file": "desktop/print/color-output-and-separations/about-color-separations/host-based-separations.md", "summary": "Open when looking up Host-based separations in InDesign.", "keywords": ["Host-based separations"]},
+  {"topic": "How color separation works", "file": "desktop/print/color-output-and-separations/about-color-separations/how-color-separation-works.md", "summary": "Open when looking up How color separation works in InDesign.", "keywords": ["How color separation works"]},
+  {"topic": "In-RIP separations", "file": "desktop/print/color-output-and-separations/about-color-separations/in-rip-separations.md", "summary": "Open when looking up In-RIP separations in InDesign.", "keywords": ["In-RIP separations"]},
+  {"topic": "Preparing for separation", "file": "desktop/print/color-output-and-separations/about-color-separations/preparing-for-separation.md", "summary": "Open when looking up Preparing for separation in InDesign.", "keywords": ["Preparing for separation"]},
+  {"topic": "Rich black and ink coverage", "file": "desktop/print/color-output-and-separations/about-color-separations/rich-black-and-ink-coverage.md", "summary": "Open when looking up Rich black and ink coverage in InDesign.", "keywords": ["Rich black and ink coverage"]},
+  {"topic": "Separation workflows", "file": "desktop/print/color-output-and-separations/about-color-separations/separation-workflows.md", "summary": "Open when looking up Separation workflows in InDesign.", "keywords": ["Separation workflows"]},
+  {"topic": "Spot colors versus process colors", "file": "desktop/print/color-output-and-separations/about-color-separations/spot-colors-versus-process-colors.md", "summary": "Open when looking up Spot colors versus process colors in InDesign.", "keywords": ["Spot colors versus process colors"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Automation", "file": "desktop/automation/automate-animation/automation.md", "summary": "Open when looking up Automation in After Effects.", "keywords": ["Automation"]},
+  {"topic": "Scripts", "file": "desktop/automation/automate-animation/scripts.md", "summary": "Open when looking up Scripts in After Effects.", "keywords": ["Scripts"]},
+  {"topic": "Scripts references", "file": "desktop/automation/automate-animation/scripts/reference-index.md", "summary": "Open when looking up Scripts in After Effects.", "keywords": ["Scripts references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

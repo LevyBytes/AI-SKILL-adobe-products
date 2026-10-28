@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Add a layer mask that hides part of a layer", "file": "references/desktop/create-masks/layer-masks/add-layer-masks/add-a-layer-mask-that-hides-part-of-a-layer.md", "summary": "Open when looking up Add a layer mask that hides part of a layer in Photoshop.", "keywords": ["Add a layer mask that hides part of a layer"]},
-  {"topic": "Add a mask that shows or hides the entire layer", "file": "references/desktop/create-masks/layer-masks/add-layer-masks/add-a-mask-that-shows-or-hides-the-entire-layer.md", "summary": "Open when looking up Add a mask that shows or hides the entire layer in Photoshop.", "keywords": ["Add a mask that shows or hides the entire layer"]},
-  {"topic": "Apply a layer mask from another layer", "file": "references/desktop/create-masks/layer-masks/add-layer-masks/apply-a-layer-mask-from-another-layer.md", "summary": "Open when looking up Apply a layer mask from another layer in Photoshop.", "keywords": ["Apply a layer mask from another layer"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Delete layers", "file": "desktop/manage-layers/lock-and-hide-layers/delete-layers.md", "summary": "Open when looking up Delete layers in Illustrator.", "keywords": ["Delete layers"]},
+  {"topic": "Hide or show layers", "file": "desktop/manage-layers/lock-and-hide-layers/hide-or-show-layers.md", "summary": "Open when looking up Hide or show layers in Illustrator.", "keywords": ["Hide or show layers"]},
+  {"topic": "Lock or unlock layers", "file": "desktop/manage-layers/lock-and-hide-layers/lock-or-unlock-layers.md", "summary": "Open when looking up Lock or unlock layers in Illustrator.", "keywords": ["Lock or unlock layers"]},
+  {"topic": "Lock or unlock layers references", "file": "desktop/manage-layers/lock-and-hide-layers/lock-or-unlock-layers/reference-index.md", "summary": "Open when looking up Lock or unlock layers in Illustrator.", "keywords": ["Lock or unlock layers references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

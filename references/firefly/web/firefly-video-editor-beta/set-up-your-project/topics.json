@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Panels in Firefly video editor", "file": "web/firefly-video-editor-beta/set-up-your-project/panels-in-firefly-video-editor.md", "summary": "Open when looking up Panels in Firefly video editor in Firefly.", "keywords": ["Panels in Firefly video editor"]},
+  {"topic": "Panels in Firefly video editor references", "file": "web/firefly-video-editor-beta/set-up-your-project/panels-in-firefly-video-editor/reference-index.md", "summary": "Open when looking up Panels in Firefly video editor in Firefly.", "keywords": ["Panels in Firefly video editor references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

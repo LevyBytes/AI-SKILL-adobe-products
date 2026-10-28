@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "CEF Log", "file": "cep/cep-10-0/cef-log.md", "summary": "Open when looking up CEF Log in Shared Adobe platform.", "keywords": ["CEF Log"]},
+  {"topic": "CEPHtmlEngine Logs", "file": "cep/cep-10-0/cep-html-engine-logs.md", "summary": "Open when looking up CEPHtmlEngine Logs in Shared Adobe platform.", "keywords": ["CEPHtmlEngine Logs"]},
+  {"topic": "Debugging Unsigned Extensions", "file": "cep/cep-10-0/debugging-unsigned-extensions.md", "summary": "Open when looking up Debugging Unsigned Extensions in Shared Adobe platform.", "keywords": ["Debugging Unsigned Extensions"]},
+  {"topic": "Remote Debugging", "file": "cep/cep-10-0/remote-debugging.md", "summary": "Open when looking up Remote Debugging in Shared Adobe platform.", "keywords": ["Remote Debugging"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

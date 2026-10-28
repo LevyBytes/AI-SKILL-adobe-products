@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Differences with CEP Extensions", "file": "uxp/package-a-uxp-plugin/differences-with-cep-extensions.md", "summary": "Open when looking up Differences with CEP Extensions in Premiere Pro.", "keywords": ["Differences with CEP Extensions"]},
+  {"topic": "Host Applications", "file": "uxp/package-a-uxp-plugin/host-applications.md", "summary": "Open when looking up Host Applications in Premiere Pro.", "keywords": ["Host Applications"]},
+  {"topic": "Mind your Plugin's ID", "file": "uxp/package-a-uxp-plugin/mind-your-plugin-s-id.md", "summary": "Open when looking up Mind your Plugin's ID in Premiere Pro.", "keywords": ["Mind your Plugin's ID"]},
+  {"topic": "Multi-channel distribution", "file": "uxp/package-a-uxp-plugin/multi-channel-distribution.md", "summary": "Open when looking up Multi-channel distribution in Premiere Pro.", "keywords": ["Multi-channel distribution"]},
+  {"topic": "Package with the UXP Developer Tool", "file": "uxp/package-a-uxp-plugin/package-with-the-uxp-developer-tool.md", "summary": "Open when looking up Package with the UXP Developer Tool in Premiere Pro.", "keywords": ["Package with the UXP Developer Tool"]},
+  {"topic": "Packaging Hybrid Plugins", "file": "uxp/package-a-uxp-plugin/packaging-hybrid-plugins.md", "summary": "Open when looking up Packaging Hybrid Plugins in Premiere Pro.", "keywords": ["Packaging Hybrid Plugins"]},
+  {"topic": "The CCX file format", "file": "uxp/package-a-uxp-plugin/the-ccx-file-format.md", "summary": "Open when looking up The CCX file format in Premiere Pro.", "keywords": ["The CCX file format"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

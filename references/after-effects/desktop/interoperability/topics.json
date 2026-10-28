@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Capture references", "file": "desktop/interoperability/capture/reference-index.md", "summary": "Open when looking up Capture in After Effects.", "keywords": ["Capture references"]},
+  {"topic": "Premiere references", "file": "desktop/interoperability/premiere/reference-index.md", "summary": "Open when looking up Premiere in After Effects.", "keywords": ["Premiere references"]},
+  {"topic": "Work with dynamic link references", "file": "desktop/interoperability/dynamic-link/reference-index.md", "summary": "Open when looking up Work with dynamic link in After Effects.", "keywords": ["Work with dynamic link references"]},
+  {"topic": "Work with other adobe applications references", "file": "desktop/interoperability/adobe-interoperability/reference-index.md", "summary": "Open when looking up Work with other adobe applications in After Effects.", "keywords": ["Work with other adobe applications references"]},
+  {"topic": "Work with third party plug ins references", "file": "desktop/interoperability/work-with-third-party-plug-ins/reference-index.md", "summary": "Open when looking up Work with third party plug ins in After Effects.", "keywords": ["Work with third party plug ins references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

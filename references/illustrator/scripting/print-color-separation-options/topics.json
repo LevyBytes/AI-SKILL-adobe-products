@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "PrintColorSeparationOptions.colorSeparationMode", "file": "scripting/print-color-separation-options/color-separation-mode.md", "summary": "Open when looking up PrintColorSeparationOptions.colorSeparationMode in Illustrator.", "keywords": ["PrintColorSeparationOptions.colorSeparationMode"]},
+  {"topic": "PrintColorSeparationOptions.convertSpotColors", "file": "scripting/print-color-separation-options/convert-spot-colors.md", "summary": "Open when looking up PrintColorSeparationOptions.convertSpotColors in Illustrator.", "keywords": ["PrintColorSeparationOptions.convertSpotColors"]},
+  {"topic": "PrintColorSeparationOptions.inkList", "file": "scripting/print-color-separation-options/ink-list.md", "summary": "Open when looking up PrintColorSeparationOptions.inkList in Illustrator.", "keywords": ["PrintColorSeparationOptions.inkList"]},
+  {"topic": "PrintColorSeparationOptions.overPrintBlack", "file": "scripting/print-color-separation-options/over-print-black.md", "summary": "Open when looking up PrintColorSeparationOptions.overPrintBlack in Illustrator.", "keywords": ["PrintColorSeparationOptions.overPrintBlack"]},
+  {"topic": "PrintColorSeparationOptions.typename", "file": "scripting/print-color-separation-options/typename.md", "summary": "Open when looking up PrintColorSeparationOptions.typename in Illustrator.", "keywords": ["PrintColorSeparationOptions.typename"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

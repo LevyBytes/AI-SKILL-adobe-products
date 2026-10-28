@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Configure your Content Credentials preferences", "file": "references/desktop/render-and-export/content-credentials/credential-export/configure-your-content-credentials-preferences.md", "summary": "Open when looking up Configure your Content Credentials preferences in Premiere Pro.", "keywords": ["Configure your Content Credentials preferences"]},
-  {"topic": "Export videos with Content Credentials", "file": "references/desktop/render-and-export/content-credentials/credential-export/export-videos-with-content-credentials.md", "summary": "Open when looking up Export videos with Content Credentials in Premiere Pro.", "keywords": ["Export videos with Content Credentials"]},
-  {"topic": "Verify your exported credentials", "file": "references/desktop/render-and-export/content-credentials/credential-export/verify-your-exported-credentials.md", "summary": "Open when looking up Verify your exported credentials in Premiere Pro.", "keywords": ["Verify your exported credentials"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

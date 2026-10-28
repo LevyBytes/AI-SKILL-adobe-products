@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Annotation", "file": "scripting/release-history/modified-in-adobe-reader-5-1/annotation.md", "summary": "Open when looking up Annotation in Acrobat.", "keywords": ["Annotation"]},
+  {"topic": "Doc", "file": "scripting/release-history/modified-in-adobe-reader-5-1/doc.md", "summary": "Open when looking up Doc in Acrobat.", "keywords": ["Doc"]},
+  {"topic": "Template", "file": "scripting/release-history/modified-in-adobe-reader-5-1/template.md", "summary": "Open when looking up Template in Acrobat.", "keywords": ["Template"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

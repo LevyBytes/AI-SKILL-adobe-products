@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "PrintColorManagementOptions.colorProfileMode", "file": "references/scripting/print-color-management-options/color-profile-mode.md", "summary": "Open when looking up PrintColorManagementOptions.colorProfileMode in Illustrator.", "keywords": ["PrintColorManagementOptions.colorProfileMode"]},
-  {"topic": "PrintColorManagementOptions.intent", "file": "references/scripting/print-color-management-options/intent.md", "summary": "Open when looking up PrintColorManagementOptions.intent in Illustrator.", "keywords": ["PrintColorManagementOptions.intent"]},
-  {"topic": "PrintColorManagementOptions.name", "file": "references/scripting/print-color-management-options/name.md", "summary": "Open when looking up PrintColorManagementOptions.name in Illustrator.", "keywords": ["PrintColorManagementOptions.name"]},
-  {"topic": "PrintColorManagementOptions.typename", "file": "references/scripting/print-color-management-options/typename.md", "summary": "Open when looking up PrintColorManagementOptions.typename in Illustrator.", "keywords": ["PrintColorManagementOptions.typename"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

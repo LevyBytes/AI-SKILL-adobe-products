@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "ExternalObject object - ExternalObject Class Attributes", "file": "references/scripting/external-object-class-attributes/external-object-object-external-object-class-attributes.md", "summary": "Open when looking up ExternalObject object - ExternalObject Class Attributes in Shared Adobe platform.", "keywords": ["ExternalObject object - ExternalObject Class Attributes"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

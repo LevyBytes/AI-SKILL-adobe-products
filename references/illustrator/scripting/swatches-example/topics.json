@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Lookup and removal", "file": "scripting/swatches-example/lookup-and-removal.md", "summary": "Open when looking up Lookup and removal in Illustrator.", "keywords": ["Lookup and removal"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

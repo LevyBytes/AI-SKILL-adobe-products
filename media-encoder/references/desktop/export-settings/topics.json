@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "media-encoder", "topics": [
-  {"topic": "Export Settings Reference", "file": "references/desktop/export-settings/export-settings-reference.md", "summary": "Open when looking up Export Settings Reference in Media Encoder.", "keywords": ["Export Settings Reference"]},
-  {"topic": "Export Settings Reference references", "file": "references/desktop/export-settings/export-settings-reference/reference-index.md", "summary": "Open when looking up Export Settings Reference in Media Encoder.", "keywords": ["Export Settings Reference references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

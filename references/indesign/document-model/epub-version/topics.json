@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "EPUB2", "file": "document-model/epub-version/epub2.md", "summary": "Open when looking up EPUB2 in InDesign.", "keywords": ["EPUB2"]},
+  {"topic": "EPUB3", "file": "document-model/epub-version/epub3.md", "summary": "Open when looking up EPUB3 in InDesign.", "keywords": ["EPUB3"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

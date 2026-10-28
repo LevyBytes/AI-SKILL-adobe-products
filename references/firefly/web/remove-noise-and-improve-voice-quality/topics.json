@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Use Enhance Speech to turn recordings into studio-quality audio.", "file": "web/remove-noise-and-improve-voice-quality/enhance-speech-recordings.md", "summary": "Open when looking up Use Enhance Speech to turn recordings into studio-quality audio. in Firefly.", "keywords": ["Use Enhance Speech to turn recordings into studio-quality audio."]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

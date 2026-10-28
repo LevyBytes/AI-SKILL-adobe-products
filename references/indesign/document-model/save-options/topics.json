@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "ASK", "file": "document-model/save-options/ask.md", "summary": "Open when looking up ASK in InDesign.", "keywords": ["ASK"]},
+  {"topic": "NO", "file": "document-model/save-options/no.md", "summary": "Open when looking up NO in InDesign.", "keywords": ["NO"]},
+  {"topic": "YES", "file": "document-model/save-options/yes.md", "summary": "Open when looking up YES in InDesign.", "keywords": ["YES"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

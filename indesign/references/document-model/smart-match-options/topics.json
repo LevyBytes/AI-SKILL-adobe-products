@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "MATCH_STYLE_NAME", "file": "references/document-model/smart-match-options/matchstylename.md", "summary": "Open when looking up MATCH_STYLE_NAME in InDesign.", "keywords": ["MATCH_STYLE_NAME"]},
-  {"topic": "MATCH_STYLE_PATH", "file": "references/document-model/smart-match-options/matchstylepath.md", "summary": "Open when looking up MATCH_STYLE_PATH in InDesign.", "keywords": ["MATCH_STYLE_PATH"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

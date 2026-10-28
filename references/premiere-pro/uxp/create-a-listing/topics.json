@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "1. Metadata", "file": "uxp/create-a-listing/metadata.md", "summary": "Open when looking up 1. Metadata in Premiere Pro.", "keywords": ["1. Metadata"]},
+  {"topic": "1. Public Profile", "file": "uxp/create-a-listing/public-profile.md", "summary": "Open when looking up 1. Public Profile in Premiere Pro.", "keywords": ["1. Public Profile"]},
+  {"topic": "2. Assets", "file": "uxp/create-a-listing/assets.md", "summary": "Open when looking up 2. Assets in Premiere Pro.", "keywords": ["2. Assets"]},
+  {"topic": "2. Create a New Listing", "file": "uxp/create-a-listing/create-a-new-listing.md", "summary": "Open when looking up 2. Create a New Listing in Premiere Pro.", "keywords": ["2. Create a New Listing"]},
+  {"topic": "3. Plugin Details", "file": "uxp/create-a-listing/plugin-details.md", "summary": "Open when looking up 3. Plugin Details in Premiere Pro.", "keywords": ["3. Plugin Details"]},
+  {"topic": "3. Plugin Package", "file": "uxp/create-a-listing/plugin-package.md", "summary": "Open when looking up 3. Plugin Package in Premiere Pro.", "keywords": ["3. Plugin Package"]},
+  {"topic": "4. Add a new Version", "file": "uxp/create-a-listing/add-a-new-version.md", "summary": "Open when looking up 4. Add a new Version in Premiere Pro.", "keywords": ["4. Add a new Version"]},
+  {"topic": "Hybrid plugins support", "file": "uxp/create-a-listing/hybrid-plugins-support.md", "summary": "Open when looking up Hybrid plugins support in Premiere Pro.", "keywords": ["Hybrid plugins support"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "DEFAULT_VALUE", "file": "document-model/open-options/defaultvalue.md", "summary": "Open when looking up DEFAULT_VALUE in InDesign.", "keywords": ["DEFAULT_VALUE"]},
+  {"topic": "OPEN_COPY", "file": "document-model/open-options/opencopy.md", "summary": "Open when looking up OPEN_COPY in InDesign.", "keywords": ["OPEN_COPY"]},
+  {"topic": "OPEN_ORIGINAL", "file": "document-model/open-options/openoriginal.md", "summary": "Open when looking up OPEN_ORIGINAL in InDesign.", "keywords": ["OPEN_ORIGINAL"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Apply tags to text frames and graphics", "file": "references/desktop/interactive-elements-and-forms/forms-and-pdfs/use-tags-to-create-accessible-pdfs/apply-tags-to-text-frames-and-graphics.md", "summary": "Open when looking up Apply tags to text frames and graphics in InDesign.", "keywords": ["Apply tags to text frames and graphics"]},
-  {"topic": "Group related items into Article elements", "file": "references/desktop/interactive-elements-and-forms/forms-and-pdfs/use-tags-to-create-accessible-pdfs/group-related-items-into-article-elements.md", "summary": "Open when looking up Group related items into Article elements in InDesign.", "keywords": ["Group related items into Article elements"]},
-  {"topic": "Label graphics for screen reader software", "file": "references/desktop/interactive-elements-and-forms/forms-and-pdfs/use-tags-to-create-accessible-pdfs/label-graphics-for-screen-reader-software.md", "summary": "Open when looking up Label graphics for screen reader software in InDesign.", "keywords": ["Label graphics for screen reader software"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

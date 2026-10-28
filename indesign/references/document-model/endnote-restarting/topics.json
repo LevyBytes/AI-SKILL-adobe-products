@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "CONTINUOUS", "file": "references/document-model/endnote-restarting/continuous.md", "summary": "Open when looking up CONTINUOUS in InDesign.", "keywords": ["CONTINUOUS"]},
-  {"topic": "STORY_RESTART", "file": "references/document-model/endnote-restarting/storyrestart.md", "summary": "Open when looking up STORY_RESTART in InDesign.", "keywords": ["STORY_RESTART"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "KINSOKU_PRIORITIZE_ADJUSTMENT_AMOUNT", "file": "document-model/kinsoku-type/kinsokuprioritizeadjustmentamount.md", "summary": "Open when looking up KINSOKU_PRIORITIZE_ADJUSTMENT_AMOUNT in InDesign.", "keywords": ["KINSOKU_PRIORITIZE_ADJUSTMENT_AMOUNT"]},
+  {"topic": "KINSOKU_PUSH_IN_FIRST", "file": "document-model/kinsoku-type/kinsokupushinfirst.md", "summary": "Open when looking up KINSOKU_PUSH_IN_FIRST in InDesign.", "keywords": ["KINSOKU_PUSH_IN_FIRST"]},
+  {"topic": "KINSOKU_PUSH_OUT_FIRST", "file": "document-model/kinsoku-type/kinsokupushoutfirst.md", "summary": "Open when looking up KINSOKU_PUSH_OUT_FIRST in InDesign.", "keywords": ["KINSOKU_PUSH_OUT_FIRST"]},
+  {"topic": "KINSOKU_PUSH_OUT_ONLY", "file": "document-model/kinsoku-type/kinsokupushoutonly.md", "summary": "Open when looking up KINSOKU_PUSH_OUT_ONLY in InDesign.", "keywords": ["KINSOKU_PUSH_OUT_ONLY"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

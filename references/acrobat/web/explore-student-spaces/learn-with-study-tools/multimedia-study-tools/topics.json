@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "How to access the tools", "file": "web/explore-student-spaces/learn-with-study-tools/multimedia-study-tools/how-to-access-the-tools.md", "summary": "Open when looking up How to access the tools in Acrobat.", "keywords": ["How to access the tools"]},
+  {"topic": "Podcast", "file": "web/explore-student-spaces/learn-with-study-tools/multimedia-study-tools/podcast.md", "summary": "Open when looking up Podcast in Acrobat.", "keywords": ["Podcast"]},
+  {"topic": "Presentation", "file": "web/explore-student-spaces/learn-with-study-tools/multimedia-study-tools/presentation.md", "summary": "Open when looking up Presentation in Acrobat.", "keywords": ["Presentation"]},
+  {"topic": "Video summary", "file": "web/explore-student-spaces/learn-with-study-tools/multimedia-study-tools/video-summary.md", "summary": "Open when looking up Video summary in Acrobat.", "keywords": ["Video summary"]},
+  {"topic": "Why use multimedia study tools", "file": "web/explore-student-spaces/learn-with-study-tools/multimedia-study-tools/why-use-multimedia-study-tools.md", "summary": "Open when looking up Why use multimedia study tools in Acrobat.", "keywords": ["Why use multimedia study tools"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

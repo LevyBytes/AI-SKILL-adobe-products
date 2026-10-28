@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "NONE", "file": "references/document-model/change-markings/none.md", "summary": "Open when looking up NONE in InDesign.", "keywords": ["NONE"]},
-  {"topic": "OUTLINE", "file": "references/document-model/change-markings/outline.md", "summary": "Open when looking up OUTLINE in InDesign.", "keywords": ["OUTLINE"]},
-  {"topic": "STRIKETHROUGH", "file": "references/document-model/change-markings/strikethrough.md", "summary": "Open when looking up STRIKETHROUGH in InDesign.", "keywords": ["STRIKETHROUGH"]},
-  {"topic": "UNDERLINE_SINGLE", "file": "references/document-model/change-markings/underlinesingle.md", "summary": "Open when looking up UNDERLINE_SINGLE in InDesign.", "keywords": ["UNDERLINE_SINGLE"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

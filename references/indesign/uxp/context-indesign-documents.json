@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Document changes", "file": "uxp/document-changes.md", "summary": "Open when looking up Document changes in InDesign.", "keywords": ["Document changes"]},
+  {"topic": "Document changes references", "file": "uxp/document-changes/reference-index.md", "summary": "Open when looking up Document changes in InDesign.", "keywords": ["Document changes references"]},
+  {"topic": "Events", "file": "uxp/events.md", "summary": "Open when looking up Events in InDesign.", "keywords": ["Events"]},
+  {"topic": "Events references", "file": "uxp/events/reference-index.md", "summary": "Open when looking up Events in InDesign.", "keywords": ["Events references"]},
+  {"topic": "Importing XML", "file": "uxp/importing-xml.md", "summary": "Open when looking up Importing XML in InDesign.", "keywords": ["Importing XML"]},
+  {"topic": "Loading XML tags", "file": "uxp/loading-xml-tags.md", "summary": "Open when looking up Loading XML tags in InDesign.", "keywords": ["Loading XML tags"]},
+  {"topic": "Measurements and positioning", "file": "uxp/measurements-and-positioning.md", "summary": "Open when looking up Measurements and positioning in InDesign.", "keywords": ["Measurements and positioning"]},
+  {"topic": "Measurements and positioning references", "file": "uxp/measurements-and-positioning/reference-index.md", "summary": "Open when looking up Measurements and positioning in InDesign.", "keywords": ["Measurements and positioning references"]},
+  {"topic": "Saving XML tags", "file": "uxp/saving-xml-tags.md", "summary": "Open when looking up Saving XML tags in InDesign.", "keywords": ["Saving XML tags"]},
+  {"topic": "Xml rules references", "file": "uxp/xml-rules/reference-index.md", "summary": "Open when looking up Xml rules in InDesign.", "keywords": ["Xml rules references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Table.endnotes", "file": "references/community-types/indesign/table/endnotes.md", "summary": "Open when looking up Table.endnotes in Shared Adobe platform.", "keywords": ["Table.endnotes"]},
-  {"topic": "Table.endnoteTextFrames", "file": "references/community-types/indesign/table/endnote-text-frames.md", "summary": "Open when looking up Table.endnoteTextFrames in Shared Adobe platform.", "keywords": ["Table.endnoteTextFrames"]},
-  {"topic": "Table.footnotes", "file": "references/community-types/indesign/table/footnotes.md", "summary": "Open when looking up Table.footnotes in Shared Adobe platform.", "keywords": ["Table.footnotes"]},
-  {"topic": "Table.notes", "file": "references/community-types/indesign/table/notes.md", "summary": "Open when looking up Table.notes in Shared Adobe platform.", "keywords": ["Table.notes"]},
-  {"topic": "Table.storyOffset", "file": "references/community-types/indesign/table/story-offset.md", "summary": "Open when looking up Table.storyOffset in Shared Adobe platform.", "keywords": ["Table.storyOffset"]},
-  {"topic": "Table.textFrames", "file": "references/community-types/indesign/table/text-frames.md", "summary": "Open when looking up Table.textFrames in Shared Adobe platform.", "keywords": ["Table.textFrames"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

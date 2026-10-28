@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Direct distribution with .ccx files", "file": "references/uxp/distribution-options/direct-distribution-with-ccx-files.md", "summary": "Open when looking up Direct distribution with .ccx files in Photoshop.", "keywords": ["Direct distribution with .ccx files"]},
-  {"topic": "Distribute on Creative Cloud Plugin Marketplace", "file": "references/uxp/distribution-options/distribute-on-creative-cloud-plugin-marketplace.md", "summary": "Open when looking up Distribute on Creative Cloud Plugin Marketplace in Photoshop.", "keywords": ["Distribute on Creative Cloud Plugin Marketplace"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

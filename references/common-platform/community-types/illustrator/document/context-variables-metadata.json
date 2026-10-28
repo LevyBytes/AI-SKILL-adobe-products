@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Document.activeDataSet", "file": "community-types/illustrator/document/active-data-set.md", "summary": "Open when looking up Document.activeDataSet in Shared Adobe platform.", "keywords": ["Document.activeDataSet"]},
+  {"topic": "Document.dataSets", "file": "community-types/illustrator/document/data-sets.md", "summary": "Open when looking up Document.dataSets in Shared Adobe platform.", "keywords": ["Document.dataSets"]},
+  {"topic": "Document.exportVariables", "file": "community-types/illustrator/document/export-variables.md", "summary": "Open when looking up Document.exportVariables in Shared Adobe platform.", "keywords": ["Document.exportVariables"]},
+  {"topic": "Document.importVariables", "file": "community-types/illustrator/document/import-variables.md", "summary": "Open when looking up Document.importVariables in Shared Adobe platform.", "keywords": ["Document.importVariables"]},
+  {"topic": "Document.tags", "file": "community-types/illustrator/document/tags.md", "summary": "Open when looking up Document.tags in Shared Adobe platform.", "keywords": ["Document.tags"]},
+  {"topic": "Document.variables", "file": "community-types/illustrator/document/variables.md", "summary": "Open when looking up Document.variables in Shared Adobe platform.", "keywords": ["Document.variables"]},
+  {"topic": "Document.variablesLocked", "file": "community-types/illustrator/document/variables-locked.md", "summary": "Open when looking up Document.variablesLocked in Shared Adobe platform.", "keywords": ["Document.variablesLocked"]},
+  {"topic": "Document.XMPString", "file": "community-types/illustrator/document/xmp-string.md", "summary": "Open when looking up Document.XMPString in Shared Adobe platform.", "keywords": ["Document.XMPString"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

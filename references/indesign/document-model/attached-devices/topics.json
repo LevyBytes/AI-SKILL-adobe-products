@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "ALL", "file": "document-model/attached-devices/all.md", "summary": "Open when looking up ALL in InDesign.", "keywords": ["ALL"]},
+  {"topic": "ANDROID", "file": "document-model/attached-devices/android.md", "summary": "Open when looking up ANDROID in InDesign.", "keywords": ["ANDROID"]},
+  {"topic": "IOS", "file": "document-model/attached-devices/ios.md", "summary": "Open when looking up IOS in InDesign.", "keywords": ["IOS"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

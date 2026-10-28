@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "getActiveProduction", "file": "references/uxp/host-api/pr-production/static-methods/get-active-production.md", "summary": "Open when looking up getActiveProduction in Premiere Pro.", "keywords": ["getActiveProduction"]},
-  {"topic": "getScratchDiskSettings", "file": "references/uxp/host-api/pr-production/static-methods/get-scratch-disk-settings.md", "summary": "Open when looking up getScratchDiskSettings in Premiere Pro.", "keywords": ["getScratchDiskSettings"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

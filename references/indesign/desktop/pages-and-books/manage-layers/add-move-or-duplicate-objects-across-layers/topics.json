@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Add new objects to a specific layer", "file": "desktop/pages-and-books/manage-layers/add-move-or-duplicate-objects-across-layers/add-new-objects-to-a-specific-layer.md", "summary": "Open when looking up Add new objects to a specific layer in InDesign.", "keywords": ["Add new objects to a specific layer"]},
+  {"topic": "Copy objects to another layer", "file": "desktop/pages-and-books/manage-layers/add-move-or-duplicate-objects-across-layers/copy-objects-to-another-layer.md", "summary": "Open when looking up Copy objects to another layer in InDesign.", "keywords": ["Copy objects to another layer"]},
+  {"topic": "Move objects to a different layer", "file": "desktop/pages-and-books/manage-layers/add-move-or-duplicate-objects-across-layers/move-objects-to-a-different-layer.md", "summary": "Open when looking up Move objects to a different layer in InDesign.", "keywords": ["Move objects to a different layer"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

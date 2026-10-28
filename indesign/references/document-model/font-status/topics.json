@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "FAUXED", "file": "references/document-model/font-status/fauxed.md", "summary": "Open when looking up FAUXED in InDesign.", "keywords": ["FAUXED"]},
-  {"topic": "INSTALLED", "file": "references/document-model/font-status/installed.md", "summary": "Open when looking up INSTALLED in InDesign.", "keywords": ["INSTALLED"]},
-  {"topic": "NOT_AVAILABLE", "file": "references/document-model/font-status/notavailable.md", "summary": "Open when looking up NOT_AVAILABLE in InDesign.", "keywords": ["NOT_AVAILABLE"]},
-  {"topic": "SUBSTITUTED", "file": "references/document-model/font-status/substituted.md", "summary": "Open when looking up SUBSTITUTED in InDesign.", "keywords": ["SUBSTITUTED"]},
-  {"topic": "UNKNOWN", "file": "references/document-model/font-status/unknown.md", "summary": "Open when looking up UNKNOWN in InDesign.", "keywords": ["UNKNOWN"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

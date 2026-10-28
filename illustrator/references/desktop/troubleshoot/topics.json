@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Application crash issues", "file": "references/desktop/troubleshoot/application-crash-issues.md", "summary": "Open when looking up Application crash issues in Illustrator.", "keywords": ["Application crash issues"]},
-  {"topic": "Application crash issues references", "file": "references/desktop/troubleshoot/crashes/reference-index.md", "summary": "Open when looking up Application crash issues in Illustrator.", "keywords": ["Application crash issues references"]},
-  {"topic": "Cloud document issues", "file": "references/desktop/troubleshoot/cloud-document-issues.md", "summary": "Open when looking up Cloud document issues in Illustrator.", "keywords": ["Cloud document issues"]},
-  {"topic": "Cloud document issues references", "file": "references/desktop/troubleshoot/cloud-document-issues/reference-index.md", "summary": "Open when looking up Cloud document issues in Illustrator.", "keywords": ["Cloud document issues references"]},
-  {"topic": "Known and fixed issues in Adobe Illustrator", "file": "references/desktop/troubleshoot/known-and-fixed-issues-in-adobe-illustrator.md", "summary": "Open when looking up Known and fixed issues in Adobe Illustrator in Illustrator.", "keywords": ["Known and fixed issues in Adobe Illustrator"]},
-  {"topic": "Known and fixed issues in Adobe Illustrator references", "file": "references/desktop/troubleshoot/known-and-fixed-issues-in-adobe-illustrator/reference-index.md", "summary": "Open when looking up Known and fixed issues in Adobe Illustrator in Illustrator.", "keywords": ["Known and fixed issues in Adobe Illustrator references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

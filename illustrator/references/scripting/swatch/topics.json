@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Swatch.color", "file": "references/scripting/swatch/color.md", "summary": "Open when looking up Swatch.color in Illustrator.", "keywords": ["Swatch.color"]},
-  {"topic": "Swatch.name", "file": "references/scripting/swatch/name.md", "summary": "Open when looking up Swatch.name in Illustrator.", "keywords": ["Swatch.name"]},
-  {"topic": "Swatch.parent", "file": "references/scripting/swatch/parent.md", "summary": "Open when looking up Swatch.parent in Illustrator.", "keywords": ["Swatch.parent"]},
-  {"topic": "Swatch.remove()", "file": "references/scripting/swatch/remove.md", "summary": "Open when looking up Swatch.remove() in Illustrator.", "keywords": ["Swatch.remove()"]},
-  {"topic": "Swatch.typename", "file": "references/scripting/swatch/typename.md", "summary": "Open when looking up Swatch.typename in Illustrator.", "keywords": ["Swatch.typename"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Advanced panel options", "file": "desktop/create-documents/conversion-settings/pdf-settings-overview/advanced-panel-options.md", "summary": "Open when looking up Advanced panel options in Acrobat.", "keywords": ["Advanced panel options"]},
+  {"topic": "Advanced settings", "file": "desktop/create-documents/conversion-settings/pdf-settings-overview/advanced-settings.md", "summary": "Open when looking up Advanced settings in Acrobat.", "keywords": ["Advanced settings"]},
+  {"topic": "Color panel options", "file": "desktop/create-documents/conversion-settings/pdf-settings-overview/color-panel-options.md", "summary": "Open when looking up Color panel options in Acrobat.", "keywords": ["Color panel options"]},
+  {"topic": "Color settings", "file": "desktop/create-documents/conversion-settings/pdf-settings-overview/color-settings.md", "summary": "Open when looking up Color settings in Acrobat.", "keywords": ["Color settings"]},
+  {"topic": "Fonts panel options", "file": "desktop/create-documents/conversion-settings/pdf-settings-overview/fonts-panel-options.md", "summary": "Open when looking up Fonts panel options in Acrobat.", "keywords": ["Fonts panel options"]},
+  {"topic": "Fonts settings", "file": "desktop/create-documents/conversion-settings/pdf-settings-overview/fonts-settings.md", "summary": "Open when looking up Fonts settings in Acrobat.", "keywords": ["Fonts settings"]},
+  {"topic": "General panel options", "file": "desktop/create-documents/conversion-settings/pdf-settings-overview/general-panel-options.md", "summary": "Open when looking up General panel options in Acrobat.", "keywords": ["General panel options"]},
+  {"topic": "General settings", "file": "desktop/create-documents/conversion-settings/pdf-settings-overview/general-settings.md", "summary": "Open when looking up General settings in Acrobat.", "keywords": ["General settings"]},
+  {"topic": "Images panel options", "file": "desktop/create-documents/conversion-settings/pdf-settings-overview/images-panel-options.md", "summary": "Open when looking up Images panel options in Acrobat.", "keywords": ["Images panel options"]},
+  {"topic": "Images settings", "file": "desktop/create-documents/conversion-settings/pdf-settings-overview/images-settings.md", "summary": "Open when looking up Images settings in Acrobat.", "keywords": ["Images settings"]},
+  {"topic": "Standards options", "file": "desktop/create-documents/conversion-settings/pdf-settings-overview/standards-options.md", "summary": "Open when looking up Standards options in Acrobat.", "keywords": ["Standards options"]},
+  {"topic": "Standards panel options", "file": "desktop/create-documents/conversion-settings/pdf-settings-overview/standards-panel-options.md", "summary": "Open when looking up Standards panel options in Acrobat.", "keywords": ["Standards panel options"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

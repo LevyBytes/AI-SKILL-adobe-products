@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Control the movement of a selection", "file": "desktop/make-selections/selection-refinement/move-a-selection-or-selection-border/control-the-movement-of-a-selection.md", "summary": "Open when looking up Control the movement of a selection in Photoshop.", "keywords": ["Control the movement of a selection"]},
+  {"topic": "Hide or show selection edges", "file": "desktop/make-selections/selection-refinement/move-a-selection-or-selection-border/hide-or-show-selection-edges.md", "summary": "Open when looking up Hide or show selection edges in Photoshop.", "keywords": ["Hide or show selection edges"]},
+  {"topic": "Move a selection", "file": "desktop/make-selections/selection-refinement/move-a-selection-or-selection-border/move-a-selection.md", "summary": "Open when looking up Move a selection in Photoshop.", "keywords": ["Move a selection"]},
+  {"topic": "Move a selection border", "file": "desktop/make-selections/selection-refinement/move-a-selection-or-selection-border/move-a-selection-border.md", "summary": "Open when looking up Move a selection border in Photoshop.", "keywords": ["Move a selection border"]},
+  {"topic": "Select the unselected parts of an image", "file": "desktop/make-selections/selection-refinement/move-a-selection-or-selection-border/select-the-unselected-parts-of-an-image.md", "summary": "Open when looking up Select the unselected parts of an image in Photoshop.", "keywords": ["Select the unselected parts of an image"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

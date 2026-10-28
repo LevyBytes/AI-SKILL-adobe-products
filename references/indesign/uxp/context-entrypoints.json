@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "EntryPointsError", "file": "uxp/entry-points-error.md", "summary": "Open when looking up EntryPointsError in InDesign.", "keywords": ["EntryPointsError"]},
+  {"topic": "Menus", "file": "uxp/menus.md", "summary": "Open when looking up Menus in InDesign.", "keywords": ["Menus"]},
+  {"topic": "UXP Entry Points", "file": "uxp/uxp-entry-points.md", "summary": "Open when looking up UXP Entry Points in InDesign.", "keywords": ["UXP Entry Points"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

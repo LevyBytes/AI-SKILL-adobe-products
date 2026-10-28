@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "On MacOS", "file": "web/get-started/preferences-settings/set-accessibility-settings/on-mac-os.md", "summary": "Open when looking up On MacOS in Acrobat.", "keywords": ["On MacOS"]},
+  {"topic": "On Windows", "file": "web/get-started/preferences-settings/set-accessibility-settings/on-windows.md", "summary": "Open when looking up On Windows in Acrobat.", "keywords": ["On Windows"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

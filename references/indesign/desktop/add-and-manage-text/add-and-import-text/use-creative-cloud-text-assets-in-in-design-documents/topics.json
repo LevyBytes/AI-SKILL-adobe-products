@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Add a text asset", "file": "desktop/add-and-manage-text/add-and-import-text/use-creative-cloud-text-assets-in-in-design-documents/add-a-text-asset.md", "summary": "Open when looking up Add a text asset in InDesign.", "keywords": ["Add a text asset"]},
+  {"topic": "Place a text asset in a document", "file": "desktop/add-and-manage-text/add-and-import-text/use-creative-cloud-text-assets-in-in-design-documents/place-a-text-asset-in-a-document.md", "summary": "Open when looking up Place a text asset in a document in InDesign.", "keywords": ["Place a text asset in a document"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

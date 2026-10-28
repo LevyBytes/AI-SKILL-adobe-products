@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Guidelines for compressing and downsampling images", "file": "desktop/create-documents/advanced-conversion/post-script-to-pdf-conversion-guidelines/guidelines-for-compressing-and-downsampling-images.md", "summary": "Open when looking up Guidelines for compressing and downsampling images in Acrobat.", "keywords": ["Guidelines for compressing and downsampling images"]},
+  {"topic": "Guidelines for creating PostScript files", "file": "desktop/create-documents/advanced-conversion/post-script-to-pdf-conversion-guidelines/guidelines-for-creating-post-script-files.md", "summary": "Open when looking up Guidelines for creating PostScript files in Acrobat.", "keywords": ["Guidelines for creating PostScript files"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

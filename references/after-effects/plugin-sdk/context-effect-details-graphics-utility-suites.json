@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Do the math for me references", "file": "plugin-sdk/do-the-math-for-me/reference-index.md", "summary": "Open when looking up Do the math for me in After Effects.", "keywords": ["Do the math for me references"]},
+  {"topic": "Fill em up references", "file": "plugin-sdk/fill-em-up/reference-index.md", "summary": "Open when looking up Fill em up in After Effects.", "keywords": ["Fill em up references"]},
+  {"topic": "Graphics Utility Suites", "file": "plugin-sdk/graphics-utility-suites.md", "summary": "Open when looking up Graphics Utility Suites in After Effects.", "keywords": ["Graphics Utility Suites"]},
+  {"topic": "Kernel flags references", "file": "plugin-sdk/kernel-flags/reference-index.md", "summary": "Open when looking up Kernel flags in After Effects.", "keywords": ["Kernel flags references"]},
+  {"topic": "PF_BatchSamplingSuite1 Functions references", "file": "plugin-sdk/pf-batch-sampling-suite1-functions/reference-index.md", "summary": "Open when looking up PF_BatchSamplingSuite1 Functions in After Effects.", "keywords": ["PF_BatchSamplingSuite1 Functions references"]},
+  {"topic": "PF_FillMatteSuite2 references", "file": "plugin-sdk/pf-fill-matte-suite2/reference-index.md", "summary": "Open when looking up PF_FillMatteSuite2 in After Effects.", "keywords": ["PF_FillMatteSuite2 references"]},
+  {"topic": "PF_WorldTransformSuite1 references", "file": "plugin-sdk/pf-world-transform-suite1/reference-index.md", "summary": "Open when looking up PF_WorldTransformSuite1 in After Effects.", "keywords": ["PF_WorldTransformSuite1 references"]},
+  {"topic": "Sampling images references", "file": "plugin-sdk/sampling-images/reference-index.md", "summary": "Open when looking up Sampling images in After Effects.", "keywords": ["Sampling images references"]},
+  {"topic": "Transform worlds references", "file": "plugin-sdk/transform-worlds/reference-index.md", "summary": "Open when looking up Transform worlds in After Effects.", "keywords": ["Transform worlds references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

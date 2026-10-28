@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Apply corner effects using Corner Options", "file": "desktop/create-lines-and-shapes/edit-and-style-paths/apply-corner-effects-to-frames/apply-corner-effects-using-corner-options.md", "summary": "Open when looking up Apply corner effects using Corner Options in InDesign.", "keywords": ["Apply corner effects using Corner Options"]},
+  {"topic": "Apply corner effects using Live Corners", "file": "desktop/create-lines-and-shapes/edit-and-style-paths/apply-corner-effects-to-frames/apply-corner-effects-using-live-corners.md", "summary": "Open when looking up Apply corner effects using Live Corners in InDesign.", "keywords": ["Apply corner effects using Live Corners"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

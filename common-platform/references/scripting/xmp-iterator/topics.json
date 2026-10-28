@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "XMPIterator.next()", "file": "references/scripting/xmp-iterator/next.md", "summary": "Open when looking up XMPIterator.next() in Shared Adobe platform.", "keywords": ["XMPIterator.next()"]},
-  {"topic": "XMPIterator.skipSiblings()", "file": "references/scripting/xmp-iterator/skip-siblings.md", "summary": "Open when looking up XMPIterator.skipSiblings() in Shared Adobe platform.", "keywords": ["XMPIterator.skipSiblings()"]},
-  {"topic": "XMPIterator.skipSubtree()", "file": "references/scripting/xmp-iterator/skip-subtree.md", "summary": "Open when looking up XMPIterator.skipSubtree() in Shared Adobe platform.", "keywords": ["XMPIterator.skipSubtree()"]},
-  {"topic": "XMPScript object reference - XMPIterator object", "file": "references/scripting/xmp-iterator/xmp-script-object-reference-xmp-iterator-object.md", "summary": "Open when looking up XMPScript object reference - XMPIterator object in Shared Adobe platform.", "keywords": ["XMPScript object reference - XMPIterator object"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

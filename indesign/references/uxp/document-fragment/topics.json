@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "append(...args)", "file": "references/uxp/document-fragment/append.md", "summary": "Open when looking up append(...args) in InDesign.", "keywords": ["append(...args)"]},
-  {"topic": "childElementCount : number", "file": "references/uxp/document-fragment/child-element-count-number.md", "summary": "Open when looking up childElementCount : number in InDesign.", "keywords": ["childElementCount : number"]},
-  {"topic": "querySelector(selector)", "file": "references/uxp/document-fragment/query-selector.md", "summary": "Open when looking up querySelector(selector) in InDesign.", "keywords": ["querySelector(selector)"]},
-  {"topic": "querySelectorAll(selector)", "file": "references/uxp/document-fragment/query-selector-all.md", "summary": "Open when looking up querySelectorAll(selector) in InDesign.", "keywords": ["querySelectorAll(selector)"]},
-  {"topic": "window.DocumentFragment", "file": "references/uxp/document-fragment/overview.md", "summary": "Open when looking up window.DocumentFragment in InDesign.", "keywords": ["window.DocumentFragment"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

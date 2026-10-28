@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "P05MM", "file": "document-model/mark-line-weight/p05-mm.md", "summary": "Open when looking up P05MM in InDesign.", "keywords": ["P05MM"]},
+  {"topic": "P07MM", "file": "document-model/mark-line-weight/p07-mm.md", "summary": "Open when looking up P07MM in InDesign.", "keywords": ["P07MM"]},
+  {"topic": "P10MM", "file": "document-model/mark-line-weight/p10-mm.md", "summary": "Open when looking up P10MM in InDesign.", "keywords": ["P10MM"]},
+  {"topic": "P125PT", "file": "document-model/mark-line-weight/p125-pt.md", "summary": "Open when looking up P125PT in InDesign.", "keywords": ["P125PT"]},
+  {"topic": "P15MM", "file": "document-model/mark-line-weight/p15-mm.md", "summary": "Open when looking up P15MM in InDesign.", "keywords": ["P15MM"]},
+  {"topic": "P20MM", "file": "document-model/mark-line-weight/p20-mm.md", "summary": "Open when looking up P20MM in InDesign.", "keywords": ["P20MM"]},
+  {"topic": "P25PT", "file": "document-model/mark-line-weight/p25-pt.md", "summary": "Open when looking up P25PT in InDesign.", "keywords": ["P25PT"]},
+  {"topic": "P30MM", "file": "document-model/mark-line-weight/p30-mm.md", "summary": "Open when looking up P30MM in InDesign.", "keywords": ["P30MM"]},
+  {"topic": "P50PT", "file": "document-model/mark-line-weight/p50-pt.md", "summary": "Open when looking up P50PT in InDesign.", "keywords": ["P50PT"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

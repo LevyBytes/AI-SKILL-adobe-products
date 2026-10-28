@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "addColorStop(offset, colorValue)", "file": "references/uxp/canvas-gradient/add-color-stop.md", "summary": "Open when looking up addColorStop(offset, colorValue) in InDesign.", "keywords": ["addColorStop(offset, colorValue)"]},
-  {"topic": "window.CanvasGradient", "file": "references/uxp/canvas-gradient/overview.md", "summary": "Open when looking up window.CanvasGradient in InDesign.", "keywords": ["window.CanvasGradient"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

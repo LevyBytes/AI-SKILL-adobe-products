@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Accessibility references", "file": "references/desktop/get-started/accessibility/reference-index.md", "summary": "Open when looking up Accessibility in Illustrator.", "keywords": ["Accessibility references"]},
-  {"topic": "App preferences and settings references", "file": "references/desktop/get-started/app-preferences-and-settings/reference-index.md", "summary": "Open when looking up App preferences and settings in Illustrator.", "keywords": ["App preferences and settings references"]},
-  {"topic": "Learn the basics references", "file": "references/desktop/get-started/learn-the-basics/reference-index.md", "summary": "Open when looking up Learn the basics in Illustrator.", "keywords": ["Learn the basics references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

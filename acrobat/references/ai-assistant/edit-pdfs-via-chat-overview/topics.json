@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Prompt types", "file": "references/ai-assistant/edit-pdfs-via-chat-overview/prompt-types.md", "summary": "Open when looking up Prompt types in Acrobat.", "keywords": ["Prompt types"]},
-  {"topic": "Supported tools", "file": "references/ai-assistant/edit-pdfs-via-chat-overview/supported-tools.md", "summary": "Open when looking up Supported tools in Acrobat.", "keywords": ["Supported tools"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

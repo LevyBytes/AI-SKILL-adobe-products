@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Custom UI & Drawbot - Drawbot_SurfaceSuite", "file": "plugin-sdk/drawbot-surface-suite/custom-ui-drawbot-drawbot-surface-suite.md", "summary": "Open when looking up Custom UI & Drawbot - Drawbot_SurfaceSuite in After Effects.", "keywords": ["Custom UI & Drawbot - Drawbot_SurfaceSuite"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

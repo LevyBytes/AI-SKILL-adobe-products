@@ -1,0 +1,19 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Asset", "file": "document-model/asset.md", "summary": "Open when looking up Asset in InDesign.", "keywords": ["Asset"]},
+  {"topic": "Asset references", "file": "document-model/asset/reference-index.md", "summary": "Open when looking up Asset in InDesign.", "keywords": ["Asset references"]},
+  {"topic": "Assets", "file": "document-model/assets.md", "summary": "Open when looking up Assets in InDesign.", "keywords": ["Assets"]},
+  {"topic": "Assets references", "file": "document-model/assets/reference-index.md", "summary": "Open when looking up Assets in InDesign.", "keywords": ["Assets references"]},
+  {"topic": "AssetType", "file": "document-model/asset-type.md", "summary": "Open when looking up AssetType in InDesign.", "keywords": ["AssetType"]},
+  {"topic": "AssetType references", "file": "document-model/asset-type/reference-index.md", "summary": "Open when looking up AssetType in InDesign.", "keywords": ["AssetType references"]},
+  {"topic": "Libraries", "file": "document-model/libraries.md", "summary": "Open when looking up Libraries in InDesign.", "keywords": ["Libraries"]},
+  {"topic": "Libraries references", "file": "document-model/libraries/reference-index.md", "summary": "Open when looking up Libraries in InDesign.", "keywords": ["Libraries references"]},
+  {"topic": "Library", "file": "document-model/library.md", "summary": "Open when looking up Library in InDesign.", "keywords": ["Library"]},
+  {"topic": "Library references", "file": "document-model/library/reference-index.md", "summary": "Open when looking up Library in InDesign.", "keywords": ["Library references"]},
+  {"topic": "Snippet", "file": "document-model/snippet.md", "summary": "Open when looking up Snippet in InDesign.", "keywords": ["Snippet"]},
+  {"topic": "Snippet references", "file": "document-model/snippet/reference-index.md", "summary": "Open when looking up Snippet in InDesign.", "keywords": ["Snippet references"]},
+  {"topic": "Snippets", "file": "document-model/snippets.md", "summary": "Open when looking up Snippets in InDesign.", "keywords": ["Snippets"]},
+  {"topic": "Snippets references", "file": "document-model/snippets/reference-index.md", "summary": "Open when looking up Snippets in InDesign.", "keywords": ["Snippets references"]},
+  {"topic": "SortAssets", "file": "document-model/sort-assets.md", "summary": "Open when looking up SortAssets in InDesign.", "keywords": ["SortAssets"]},
+  {"topic": "SortAssets references", "file": "document-model/sort-assets/reference-index.md", "summary": "Open when looking up SortAssets in InDesign.", "keywords": ["SortAssets references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

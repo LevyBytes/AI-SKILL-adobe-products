@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "changecase", "file": "document-model/text/changecase.md", "summary": "Open when looking up changecase in InDesign.", "keywords": ["changecase"]},
+  {"topic": "clearOverrides", "file": "document-model/text/clear-overrides.md", "summary": "Open when looking up clearOverrides in InDesign.", "keywords": ["clearOverrides"]},
+  {"topic": "contents", "file": "document-model/text/contents.md", "summary": "Open when looking up contents in InDesign.", "keywords": ["contents"]},
+  {"topic": "convertToNote", "file": "document-model/text/convert-to-note.md", "summary": "Open when looking up convertToNote in InDesign.", "keywords": ["convertToNote"]},
+  {"topic": "convertToTable", "file": "document-model/text/convert-to-table.md", "summary": "Open when looking up convertToTable in InDesign.", "keywords": ["convertToTable"]},
+  {"topic": "hiddenTexts", "file": "document-model/text/hidden-texts.md", "summary": "Open when looking up hiddenTexts in InDesign.", "keywords": ["hiddenTexts"]},
+  {"topic": "length", "file": "document-model/text/length.md", "summary": "Open when looking up length in InDesign.", "keywords": ["length"]},
+  {"topic": "recompose", "file": "document-model/text/recompose.md", "summary": "Open when looking up recompose in InDesign.", "keywords": ["recompose"]},
+  {"topic": "showText", "file": "document-model/text/show-text.md", "summary": "Open when looking up showText in InDesign.", "keywords": ["showText"]},
+  {"topic": "textHasOverrides", "file": "document-model/text/text-has-overrides.md", "summary": "Open when looking up textHasOverrides in InDesign.", "keywords": ["textHasOverrides"]},
+  {"topic": "textVariableInstances", "file": "document-model/text/text-variable-instances.md", "summary": "Open when looking up textVariableInstances in InDesign.", "keywords": ["textVariableInstances"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

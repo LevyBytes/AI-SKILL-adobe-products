@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Document modes and creation", "file": "uxp/enumerations/context-document-setup.md", "summary": "Open when working with document modes and creation in Photoshop - Enumerations.", "keywords": ["Document modes and creation"]},
+  {"topic": "Color models, profiles and conversion", "file": "uxp/enumerations/context-color.md", "summary": "Open when working with color models, profiles and conversion in Photoshop - Enumerations.", "keywords": ["Color models, profiles and conversion"]},
+  {"topic": "Layers, channels and compositing", "file": "uxp/enumerations/context-layers-channels.md", "summary": "Open when working with layers, channels and compositing in Photoshop - Enumerations.", "keywords": ["Layers, channels and compositing"]},
+  {"topic": "Selections, paths and shapes", "file": "uxp/enumerations/context-selection-paths.md", "summary": "Open when working with selections, paths and shapes in Photoshop - Enumerations.", "keywords": ["Selections, paths and shapes"]},
+  {"topic": "Image geometry and resampling", "file": "uxp/enumerations/context-image-geometry.md", "summary": "Open when working with image geometry and resampling in Photoshop - Enumerations.", "keywords": ["Image geometry and resampling"]},
+  {"topic": "Character styling", "file": "uxp/enumerations/context-font-character.md", "summary": "Open when working with character styling in Photoshop - Enumerations.", "keywords": ["Character styling"]},
+  {"topic": "Paragraphs and writing systems", "file": "uxp/enumerations/context-paragraph-language.md", "summary": "Open when working with paragraphs and writing systems in Photoshop - Enumerations.", "keywords": ["Paragraphs and writing systems"]},
+  {"topic": "Units, grids and guides", "file": "uxp/enumerations/context-units-guides.md", "summary": "Open when working with units, grids and guides in Photoshop - Enumerations.", "keywords": ["Units, grids and guides"]},
+  {"topic": "Filter and effect controls", "file": "uxp/enumerations/context-effects.md", "summary": "Open when working with filter and effect controls in Photoshop - Enumerations.", "keywords": ["Filter and effect controls"]},
+  {"topic": "Save and export formats", "file": "uxp/enumerations/context-save-export.md", "summary": "Open when working with save and export formats in Photoshop - Enumerations.", "keywords": ["Save and export formats"]},
+  {"topic": "Application, tools and history logs", "file": "uxp/enumerations/context-application-tools.md", "summary": "Open when working with application, tools and history logs in Photoshop - Enumerations.", "keywords": ["Application, tools and history logs"]},
+  {"topic": "Generative upscale models", "file": "uxp/enumerations/context-generative-upscale.md", "summary": "Open when working with generative upscale models in Photoshop - Enumerations.", "keywords": ["Generative upscale models"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

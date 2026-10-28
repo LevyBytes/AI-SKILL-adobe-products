@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Audio", "file": "references/desktop/generative-extend-faq/audio.md", "summary": "Open when looking up Audio in Premiere Pro.", "keywords": ["Audio"]},
-  {"topic": "Video", "file": "references/desktop/generative-extend-faq/video.md", "summary": "Open when looking up Video in Premiere Pro.", "keywords": ["Video"]},
-  {"topic": "Video Source Media Frame Rate and Bit Depth details:", "file": "references/desktop/generative-extend-faq/video-source-media-frame-rate-and-bit-depth-details.md", "summary": "Open when looking up Video Source Media Frame Rate and Bit Depth details: in Premiere Pro.", "keywords": ["Video Source Media Frame Rate and Bit Depth details:"]},
-  {"topic": "Video source media resolution details:", "file": "references/desktop/generative-extend-faq/video-source-media-resolution-details.md", "summary": "Open when looking up Video source media resolution details: in Premiere Pro.", "keywords": ["Video source media resolution details:"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

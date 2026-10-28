@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Multiple Plugins", "file": "uxp/creating-a-plugin-with-the-uxp-developer-tool/multiple-plugins.md", "summary": "Open when looking up Multiple Plugins in Photoshop.", "keywords": ["Multiple Plugins"]},
+  {"topic": "Now What?", "file": "uxp/creating-a-plugin-with-the-uxp-developer-tool/now-what.md", "summary": "Open when looking up Now What? in Photoshop.", "keywords": ["Now What?"]},
+  {"topic": "Packaging", "file": "uxp/creating-a-plugin-with-the-uxp-developer-tool/packaging.md", "summary": "Open when looking up Packaging in Photoshop.", "keywords": ["Packaging"]},
+  {"topic": "Watching, Reloading, and Debugging", "file": "uxp/creating-a-plugin-with-the-uxp-developer-tool/watching-reloading-and-debugging.md", "summary": "Open when looking up Watching, Reloading, and Debugging in Photoshop.", "keywords": ["Watching, Reloading, and Debugging"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

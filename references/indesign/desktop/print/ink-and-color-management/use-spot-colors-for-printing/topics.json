@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Add a spot color swatch", "file": "desktop/print/ink-and-color-management/use-spot-colors-for-printing/add-a-spot-color-swatch.md", "summary": "Open when looking up Add a spot color swatch in InDesign.", "keywords": ["Add a spot color swatch"]},
+  {"topic": "Apply spot color to objects", "file": "desktop/print/ink-and-color-management/use-spot-colors-for-printing/apply-spot-color-to-objects.md", "summary": "Open when looking up Apply spot color to objects in InDesign.", "keywords": ["Apply spot color to objects"]},
+  {"topic": "Verify spot color separations", "file": "desktop/print/ink-and-color-management/use-spot-colors-for-printing/verify-spot-color-separations.md", "summary": "Open when looking up Verify spot color separations in InDesign.", "keywords": ["Verify spot color separations"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "HIGH", "file": "document-model/dynamic-documents-jpeg-quality-options/high.md", "summary": "Open when looking up HIGH in InDesign.", "keywords": ["HIGH"]},
+  {"topic": "LOW", "file": "document-model/dynamic-documents-jpeg-quality-options/low.md", "summary": "Open when looking up LOW in InDesign.", "keywords": ["LOW"]},
+  {"topic": "MAXIMUM", "file": "document-model/dynamic-documents-jpeg-quality-options/maximum.md", "summary": "Open when looking up MAXIMUM in InDesign.", "keywords": ["MAXIMUM"]},
+  {"topic": "MEDIUM", "file": "document-model/dynamic-documents-jpeg-quality-options/medium.md", "summary": "Open when looking up MEDIUM in InDesign.", "keywords": ["MEDIUM"]},
+  {"topic": "MINIMUM", "file": "document-model/dynamic-documents-jpeg-quality-options/minimum.md", "summary": "Open when looking up MINIMUM in InDesign.", "keywords": ["MINIMUM"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Images collection iteration", "file": "community-types/indesign/images/collection-iteration.md", "summary": "Open when looking up Images collection iteration in Shared Adobe platform.", "keywords": ["Images collection iteration"]},
+  {"topic": "Images declaration", "file": "community-types/indesign/images/declaration.md", "summary": "Open when looking up Images declaration in Shared Adobe platform.", "keywords": ["Images declaration"]},
+  {"topic": "Images named and indexed items", "file": "community-types/indesign/images/named-and-indexed-items.md", "summary": "Open when looking up Images named and indexed items in Shared Adobe platform.", "keywords": ["Images named and indexed items"]},
+  {"topic": "Images.count", "file": "community-types/indesign/images/count.md", "summary": "Open when looking up Images.count in Shared Adobe platform.", "keywords": ["Images.count"]},
+  {"topic": "Images.IndexSignature", "file": "community-types/indesign/images/index-signature.md", "summary": "Open when looking up Images.IndexSignature in Shared Adobe platform.", "keywords": ["Images.IndexSignature"]},
+  {"topic": "Images.itemByRange", "file": "community-types/indesign/images/item-by-range.md", "summary": "Open when looking up Images.itemByRange in Shared Adobe platform.", "keywords": ["Images.itemByRange"]},
+  {"topic": "Images.length", "file": "community-types/indesign/images/length.md", "summary": "Open when looking up Images.length in Shared Adobe platform.", "keywords": ["Images.length"]},
+  {"topic": "Images.toSource", "file": "community-types/indesign/images/to-source.md", "summary": "Open when looking up Images.toSource in Shared Adobe platform.", "keywords": ["Images.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

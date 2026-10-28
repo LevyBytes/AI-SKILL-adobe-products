@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Other resources", "file": "uxp/resources/reference-index.md", "summary": "Open when looking up Other resources in Premiere Pro.", "keywords": ["Other resources"]},
+  {"topic": "What you will learn", "file": "uxp/plugin-tutorials/what-you-will-learn.md", "summary": "Open when looking up What you will learn in Premiere Pro.", "keywords": ["What you will learn"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

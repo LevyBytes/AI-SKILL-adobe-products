@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Configure layer properties", "file": "desktop/pages-and-books/manage-layers/create-and-set-up-layers/configure-layer-properties.md", "summary": "Open when looking up Configure layer properties in InDesign.", "keywords": ["Configure layer properties"]},
+  {"topic": "Create a new layer", "file": "desktop/pages-and-books/manage-layers/create-and-set-up-layers/create-a-new-layer.md", "summary": "Open when looking up Create a new layer in InDesign.", "keywords": ["Create a new layer"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Color arrays", "file": "references/scripting/color/color-arrays.md", "summary": "Open when looking up Color arrays in Acrobat.", "keywords": ["Color arrays"]},
-  {"topic": "color methods", "file": "references/scripting/color/color-methods.md", "summary": "Open when looking up color methods in Acrobat.", "keywords": ["color methods"]},
-  {"topic": "color properties", "file": "references/scripting/color/color-properties.md", "summary": "Open when looking up color properties in Acrobat.", "keywords": ["color properties"]},
-  {"topic": "convert", "file": "references/scripting/color/convert.md", "summary": "Open when looking up convert in Acrobat.", "keywords": ["convert"]},
-  {"topic": "equal", "file": "references/scripting/color/equal.md", "summary": "Open when looking up equal in Acrobat.", "keywords": ["equal"]},
-  {"topic": "JavaScript APIs - color", "file": "references/scripting/color/java-script-apis-color.md", "summary": "Open when looking up JavaScript APIs - color in Acrobat.", "keywords": ["JavaScript APIs - color"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

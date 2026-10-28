@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Add Content Credentials while exporting videos in Adobe Premiere.", "file": "desktop/export-videos-with-content-credentials/export-content-credentials.md", "summary": "Open when looking up Add Content Credentials while exporting videos in Adobe Premiere. in Premiere Pro.", "keywords": ["Add Content Credentials while exporting videos in Adobe Premiere."]},
+  {"topic": "Exporting Content Credentials", "file": "desktop/export-videos-with-content-credentials/exporting-content-credentials.md", "summary": "Open when looking up Exporting Content Credentials in Premiere Pro.", "keywords": ["Exporting Content Credentials"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

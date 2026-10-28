@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Prepare the audio input channel for recording", "file": "references/desktop/organize-media/import-files/record-audio/prepare-the-audio-input-channel-for-recording.md", "summary": "Open when looking up Prepare the audio input channel for recording in Premiere Pro.", "keywords": ["Prepare the audio input channel for recording"]},
-  {"topic": "Record audio from a microphone", "file": "references/desktop/organize-media/import-files/record-audio/record-audio-from-a-microphone.md", "summary": "Open when looking up Record audio from a microphone in Premiere Pro.", "keywords": ["Record audio from a microphone"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

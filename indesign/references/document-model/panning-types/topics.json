@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "GREEK_IMAGES", "file": "references/document-model/panning-types/greekimages.md", "summary": "Open when looking up GREEK_IMAGES in InDesign.", "keywords": ["GREEK_IMAGES"]},
-  {"topic": "GREEK_IMAGES_AND_TEXT", "file": "references/document-model/panning-types/greekimagesandtext.md", "summary": "Open when looking up GREEK_IMAGES_AND_TEXT in InDesign.", "keywords": ["GREEK_IMAGES_AND_TEXT"]},
-  {"topic": "NO_GREEKING", "file": "references/document-model/panning-types/nogreeking.md", "summary": "Open when looking up NO_GREEKING in InDesign.", "keywords": ["NO_GREEKING"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

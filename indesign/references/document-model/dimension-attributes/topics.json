@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "BOTH_HEIGHT_WIDTH_ATTRIBUTE", "file": "references/document-model/dimension-attributes/bothheightwidthattribute.md", "summary": "Open when looking up BOTH_HEIGHT_WIDTH_ATTRIBUTE in InDesign.", "keywords": ["BOTH_HEIGHT_WIDTH_ATTRIBUTE"]},
-  {"topic": "HEIGHT_ATTRIBUTE", "file": "references/document-model/dimension-attributes/heightattribute.md", "summary": "Open when looking up HEIGHT_ATTRIBUTE in InDesign.", "keywords": ["HEIGHT_ATTRIBUTE"]},
-  {"topic": "WIDTH_ATTRIBUTE", "file": "references/document-model/dimension-attributes/widthattribute.md", "summary": "Open when looking up WIDTH_ATTRIBUTE in InDesign.", "keywords": ["WIDTH_ATTRIBUTE"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

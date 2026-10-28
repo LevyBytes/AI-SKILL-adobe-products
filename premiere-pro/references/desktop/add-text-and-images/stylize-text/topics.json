@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "About Properties panel", "file": "references/desktop/add-text-and-images/stylize-text/about-properties-panel.md", "summary": "Open when looking up About Properties panel in Premiere Pro.", "keywords": ["About Properties panel"]},
-  {"topic": "Apply styles to a sub-selection of the text", "file": "references/desktop/add-text-and-images/stylize-text/apply-styles-to-a-sub-selection-of-the-text.md", "summary": "Open when looking up Apply styles to a sub-selection of the text in Premiere Pro.", "keywords": ["Apply styles to a sub-selection of the text"]},
-  {"topic": "Create Linked and Track Styles", "file": "references/desktop/add-text-and-images/stylize-text/create-linked-and-track-styles.md", "summary": "Open when looking up Create Linked and Track Styles in Premiere Pro.", "keywords": ["Create Linked and Track Styles"]},
-  {"topic": "Create text styles", "file": "references/desktop/add-text-and-images/stylize-text/create-text-styles.md", "summary": "Open when looking up Create text styles in Premiere Pro.", "keywords": ["Create text styles"]},
-  {"topic": "Replace fonts", "file": "references/desktop/add-text-and-images/stylize-text/replace-fonts.md", "summary": "Open when looking up Replace fonts in Premiere Pro.", "keywords": ["Replace fonts"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

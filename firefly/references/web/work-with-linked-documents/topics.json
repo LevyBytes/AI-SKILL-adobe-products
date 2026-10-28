@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "firefly", "topics": [
-  {"topic": "Create and use linked PSD or AI files directly inside Firefly Boards.", "file": "references/web/work-with-linked-documents/linked-psd-and-ai-board-documents.md", "summary": "Open when looking up Create and use linked PSD or AI files directly inside Firefly Boards. in Firefly.", "keywords": ["Create and use linked PSD or AI files directly inside Firefly Boards."]},
-  {"topic": "Linked documents from Creative Cloud", "file": "references/web/work-with-linked-documents/linked-documents-from-creative-cloud.md", "summary": "Open when looking up Linked documents from Creative Cloud in Firefly.", "keywords": ["Linked documents from Creative Cloud"]},
-  {"topic": "Linked documents from device", "file": "references/web/work-with-linked-documents/linked-documents-from-device.md", "summary": "Open when looking up Linked documents from device in Firefly.", "keywords": ["Linked documents from device"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

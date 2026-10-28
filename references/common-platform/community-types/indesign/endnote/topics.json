@@ -1,0 +1,20 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Endnote declaration", "file": "community-types/indesign/endnote/declaration.md", "summary": "Open when looking up Endnote declaration in Shared Adobe platform.", "keywords": ["Endnote declaration"]},
+  {"topic": "Endnote event listeners", "file": "community-types/indesign/endnote/event-listeners.md", "summary": "Open when looking up Endnote event listeners in Shared Adobe platform.", "keywords": ["Endnote event listeners"]},
+  {"topic": "Endnote identity and parent", "file": "community-types/indesign/endnote/identity-and-parent.md", "summary": "Open when looking up Endnote identity and parent in Shared Adobe platform.", "keywords": ["Endnote identity and parent"]},
+  {"topic": "Endnote labels and metadata", "file": "community-types/indesign/endnote/labels-and-metadata.md", "summary": "Open when looking up Endnote labels and metadata in Shared Adobe platform.", "keywords": ["Endnote labels and metadata"]},
+  {"topic": "Endnote object resolution", "file": "community-types/indesign/endnote/object-resolution.md", "summary": "Open when looking up Endnote object resolution in Shared Adobe platform.", "keywords": ["Endnote object resolution"]},
+  {"topic": "Endnote.characters", "file": "community-types/indesign/endnote/characters.md", "summary": "Open when looking up Endnote.characters in Shared Adobe platform.", "keywords": ["Endnote.characters"]},
+  {"topic": "Endnote.deleteEndnote", "file": "community-types/indesign/endnote/delete-endnote.md", "summary": "Open when looking up Endnote.deleteEndnote in Shared Adobe platform.", "keywords": ["Endnote.deleteEndnote"]},
+  {"topic": "Endnote.endnoteTextRange", "file": "community-types/indesign/endnote/endnote-text-range.md", "summary": "Open when looking up Endnote.endnoteTextRange in Shared Adobe platform.", "keywords": ["Endnote.endnoteTextRange"]},
+  {"topic": "Endnote.insertionPoints", "file": "community-types/indesign/endnote/insertion-points.md", "summary": "Open when looking up Endnote.insertionPoints in Shared Adobe platform.", "keywords": ["Endnote.insertionPoints"]},
+  {"topic": "Endnote.insertTextInEndnote", "file": "community-types/indesign/endnote/insert-text-in-endnote.md", "summary": "Open when looking up Endnote.insertTextInEndnote in Shared Adobe platform.", "keywords": ["Endnote.insertTextInEndnote"]},
+  {"topic": "Endnote.lines", "file": "community-types/indesign/endnote/lines.md", "summary": "Open when looking up Endnote.lines in Shared Adobe platform.", "keywords": ["Endnote.lines"]},
+  {"topic": "Endnote.properties", "file": "community-types/indesign/endnote/properties.md", "summary": "Open when looking up Endnote.properties in Shared Adobe platform.", "keywords": ["Endnote.properties"]},
+  {"topic": "Endnote.storyOffset", "file": "community-types/indesign/endnote/story-offset.md", "summary": "Open when looking up Endnote.storyOffset in Shared Adobe platform.", "keywords": ["Endnote.storyOffset"]},
+  {"topic": "Endnote.textColumns", "file": "community-types/indesign/endnote/text-columns.md", "summary": "Open when looking up Endnote.textColumns in Shared Adobe platform.", "keywords": ["Endnote.textColumns"]},
+  {"topic": "Endnote.texts", "file": "community-types/indesign/endnote/texts.md", "summary": "Open when looking up Endnote.texts in Shared Adobe platform.", "keywords": ["Endnote.texts"]},
+  {"topic": "Endnote.textStyleRanges", "file": "community-types/indesign/endnote/text-style-ranges.md", "summary": "Open when looking up Endnote.textStyleRanges in Shared Adobe platform.", "keywords": ["Endnote.textStyleRanges"]},
+  {"topic": "Endnote.words", "file": "community-types/indesign/endnote/words.md", "summary": "Open when looking up Endnote.words in Shared Adobe platform.", "keywords": ["Endnote.words"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

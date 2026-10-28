@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "First-Party Effect Match Names - Utility", "file": "scripting/utility/first-party-effect-match-names-utility.md", "summary": "Open when looking up First-Party Effect Match Names - Utility in After Effects.", "keywords": ["First-Party Effect Match Names - Utility"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

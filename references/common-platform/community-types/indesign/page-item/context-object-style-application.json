@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "PageItem.appliedObjectStyle", "file": "community-types/indesign/page-item/applied-object-style.md", "summary": "Open when looking up PageItem.appliedObjectStyle in Shared Adobe platform.", "keywords": ["PageItem.appliedObjectStyle"]},
+  {"topic": "PageItem.applyObjectStyle", "file": "community-types/indesign/page-item/apply-object-style.md", "summary": "Open when looking up PageItem.applyObjectStyle in Shared Adobe platform.", "keywords": ["PageItem.applyObjectStyle"]},
+  {"topic": "PageItem.clearObjectStyleOverrides", "file": "community-types/indesign/page-item/clear-object-style-overrides.md", "summary": "Open when looking up PageItem.clearObjectStyleOverrides in Shared Adobe platform.", "keywords": ["PageItem.clearObjectStyleOverrides"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

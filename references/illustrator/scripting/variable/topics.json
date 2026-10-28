@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Variable.kind", "file": "scripting/variable/kind.md", "summary": "Open when looking up Variable.kind in Illustrator.", "keywords": ["Variable.kind"]},
+  {"topic": "Variable.name", "file": "scripting/variable/name.md", "summary": "Open when looking up Variable.name in Illustrator.", "keywords": ["Variable.name"]},
+  {"topic": "Variable.pageItems", "file": "scripting/variable/page-items.md", "summary": "Open when looking up Variable.pageItems in Illustrator.", "keywords": ["Variable.pageItems"]},
+  {"topic": "Variable.parent", "file": "scripting/variable/parent.md", "summary": "Open when looking up Variable.parent in Illustrator.", "keywords": ["Variable.parent"]},
+  {"topic": "Variable.remove()", "file": "scripting/variable/remove.md", "summary": "Open when looking up Variable.remove() in Illustrator.", "keywords": ["Variable.remove()"]},
+  {"topic": "Variable.typename", "file": "scripting/variable/typename.md", "summary": "Open when looking up Variable.typename in Illustrator.", "keywords": ["Variable.typename"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

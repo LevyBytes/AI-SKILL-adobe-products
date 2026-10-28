@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Cut, copy, clear, or paste masks", "file": "references/desktop/add-video-effects/work-with-masks/copy-paste-or-move-masks/cut-copy-clear-or-paste-masks.md", "summary": "Open when looking up Cut, copy, clear, or paste masks in Premiere Pro.", "keywords": ["Cut, copy, clear, or paste masks"]},
-  {"topic": "Drag and drop masks", "file": "references/desktop/add-video-effects/work-with-masks/copy-paste-or-move-masks/drag-and-drop-masks.md", "summary": "Open when looking up Drag and drop masks in Premiere Pro.", "keywords": ["Drag and drop masks"]},
-  {"topic": "Move masks between effects", "file": "references/desktop/add-video-effects/work-with-masks/copy-paste-or-move-masks/move-masks-between-effects.md", "summary": "Open when looking up Move masks between effects in Premiere Pro.", "keywords": ["Move masks between effects"]},
-  {"topic": "Paste masks", "file": "references/desktop/add-video-effects/work-with-masks/copy-paste-or-move-masks/paste-masks.md", "summary": "Open when looking up Paste masks in Premiere Pro.", "keywords": ["Paste masks"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

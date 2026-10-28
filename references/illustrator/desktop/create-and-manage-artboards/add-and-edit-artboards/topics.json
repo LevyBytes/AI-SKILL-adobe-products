@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Delete artboards", "file": "desktop/create-and-manage-artboards/add-and-edit-artboards/delete-artboards.md", "summary": "Open when looking up Delete artboards in Illustrator.", "keywords": ["Delete artboards"]},
+  {"topic": "Rename artboards", "file": "desktop/create-and-manage-artboards/add-and-edit-artboards/rename-artboards.md", "summary": "Open when looking up Rename artboards in Illustrator.", "keywords": ["Rename artboards"]},
+  {"topic": "Rename artboards references", "file": "desktop/create-and-manage-artboards/add-and-edit-artboards/rename-artboards/reference-index.md", "summary": "Open when looking up Rename artboards in Illustrator.", "keywords": ["Rename artboards references"]},
+  {"topic": "Resize artboards", "file": "desktop/create-and-manage-artboards/add-and-edit-artboards/resize-artboards.md", "summary": "Open when looking up Resize artboards in Illustrator.", "keywords": ["Resize artboards"]},
+  {"topic": "Scale artwork with artboard", "file": "desktop/create-and-manage-artboards/add-and-edit-artboards/scale-artwork-with-artboard.md", "summary": "Open when looking up Scale artwork with artboard in Illustrator.", "keywords": ["Scale artwork with artboard"]},
+  {"topic": "Select artboards", "file": "desktop/create-and-manage-artboards/add-and-edit-artboards/select-artboards.md", "summary": "Open when looking up Select artboards in Illustrator.", "keywords": ["Select artboards"]},
+  {"topic": "Select artboards references", "file": "desktop/create-and-manage-artboards/add-and-edit-artboards/select-artboards/reference-index.md", "summary": "Open when looking up Select artboards in Illustrator.", "keywords": ["Select artboards references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "arrayBuffer()", "file": "uxp/network-and-data/blob/array-buffer.md", "summary": "Open when looking up arrayBuffer() in Premiere Pro.", "keywords": ["arrayBuffer()"]},
+  {"topic": "Blob(array, [options])", "file": "uxp/network-and-data/blob/blob.md", "summary": "Open when looking up Blob(array, [options]) in Premiere Pro.", "keywords": ["Blob(array, [options])"]},
+  {"topic": "size : number", "file": "uxp/network-and-data/blob/size-number.md", "summary": "Open when looking up size : number in Premiere Pro.", "keywords": ["size : number"]},
+  {"topic": "slice([start], [end], [contentType])", "file": "uxp/network-and-data/blob/slice.md", "summary": "Open when looking up slice([start], [end], [contentType]) in Premiere Pro.", "keywords": ["slice([start], [end], [contentType])"]},
+  {"topic": "stream()", "file": "uxp/network-and-data/blob/stream.md", "summary": "Open when looking up stream() in Premiere Pro.", "keywords": ["stream()"]},
+  {"topic": "text()", "file": "uxp/network-and-data/blob/text.md", "summary": "Open when looking up text() in Premiere Pro.", "keywords": ["text()"]},
+  {"topic": "type : string", "file": "uxp/network-and-data/blob/type-string.md", "summary": "Open when looking up type : string in Premiere Pro.", "keywords": ["type : string"]},
+  {"topic": "window.Blob", "file": "uxp/network-and-data/blob/overview.md", "summary": "Open when looking up window.Blob in Premiere Pro.", "keywords": ["window.Blob"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

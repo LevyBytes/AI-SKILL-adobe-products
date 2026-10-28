@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Table declaration", "file": "community-types/indesign/table/declaration.md", "summary": "Open when looking up Table declaration in Shared Adobe platform.", "keywords": ["Table declaration"]},
+  {"topic": "Table identity and parent", "file": "community-types/indesign/table/identity-and-parent.md", "summary": "Open when looking up Table identity and parent in Shared Adobe platform.", "keywords": ["Table identity and parent"]},
+  {"topic": "Table labels and metadata", "file": "community-types/indesign/table/labels-and-metadata.md", "summary": "Open when looking up Table labels and metadata in Shared Adobe platform.", "keywords": ["Table labels and metadata"]},
+  {"topic": "Table object resolution", "file": "community-types/indesign/table/object-resolution.md", "summary": "Open when looking up Table object resolution in Shared Adobe platform.", "keywords": ["Table object resolution"]},
+  {"topic": "Table.properties", "file": "community-types/indesign/table/properties.md", "summary": "Open when looking up Table.properties in Shared Adobe platform.", "keywords": ["Table.properties"]},
+  {"topic": "Table.remove", "file": "community-types/indesign/table/remove.md", "summary": "Open when looking up Table.remove in Shared Adobe platform.", "keywords": ["Table.remove"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

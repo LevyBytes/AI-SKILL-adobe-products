@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Adjust the sample source overlay options", "file": "desktop/repair-and-retouch/heal-and-clone/adjust-the-sample-source-overlay-options.md", "summary": "Open when looking up Adjust the sample source overlay options in Photoshop.", "keywords": ["Adjust the sample source overlay options"]},
+  {"topic": "Clone Source panel", "file": "desktop/repair-and-retouch/heal-and-clone/clone-source-panel.md", "summary": "Open when looking up Clone Source panel in Photoshop.", "keywords": ["Clone Source panel"]},
+  {"topic": "Clone Source panel references", "file": "desktop/repair-and-retouch/heal-and-clone/clone-source-panel/reference-index.md", "summary": "Open when looking up Clone Source panel in Photoshop.", "keywords": ["Clone Source panel references"]},
+  {"topic": "Retouch images with the Clone Stamp tool", "file": "desktop/repair-and-retouch/heal-and-clone/retouch-images-with-the-clone-stamp-tool.md", "summary": "Open when looking up Retouch images with the Clone Stamp tool in Photoshop.", "keywords": ["Retouch images with the Clone Stamp tool"]},
+  {"topic": "Scale or rotate the sample source", "file": "desktop/repair-and-retouch/heal-and-clone/scale-or-rotate-the-sample-source.md", "summary": "Open when looking up Scale or rotate the sample source in Photoshop.", "keywords": ["Scale or rotate the sample source"]},
+  {"topic": "Set sample sources for cloning and healing", "file": "desktop/repair-and-retouch/heal-and-clone/set-sample-sources-for-cloning-and-healing.md", "summary": "Open when looking up Set sample sources for cloning and healing in Photoshop.", "keywords": ["Set sample sources for cloning and healing"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

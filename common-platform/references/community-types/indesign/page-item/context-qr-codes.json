@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "PageItem.createEmailQRCode", "file": "references/community-types/indesign/page-item/create-email-qr-code.md", "summary": "Open when looking up PageItem.createEmailQRCode in Shared Adobe platform.", "keywords": ["PageItem.createEmailQRCode"]},
-  {"topic": "PageItem.createHyperlinkQRCode", "file": "references/community-types/indesign/page-item/create-hyperlink-qr-code.md", "summary": "Open when looking up PageItem.createHyperlinkQRCode in Shared Adobe platform.", "keywords": ["PageItem.createHyperlinkQRCode"]},
-  {"topic": "PageItem.createPlainTextQRCode", "file": "references/community-types/indesign/page-item/create-plain-text-qr-code.md", "summary": "Open when looking up PageItem.createPlainTextQRCode in Shared Adobe platform.", "keywords": ["PageItem.createPlainTextQRCode"]},
-  {"topic": "PageItem.createTextMsgQRCode", "file": "references/community-types/indesign/page-item/create-text-msg-qr-code.md", "summary": "Open when looking up PageItem.createTextMsgQRCode in Shared Adobe platform.", "keywords": ["PageItem.createTextMsgQRCode"]},
-  {"topic": "PageItem.createVCardQRCode", "file": "references/community-types/indesign/page-item/create-v-card-qr-code.md", "summary": "Open when looking up PageItem.createVCardQRCode in Shared Adobe platform.", "keywords": ["PageItem.createVCardQRCode"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

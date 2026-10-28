@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Draw shapes", "file": "desktop/draw-shapes-and-paths/draw-shapes.md", "summary": "Open when looking up Draw shapes in Illustrator.", "keywords": ["Draw shapes"]},
+  {"topic": "Draw shapes references", "file": "desktop/draw-shapes-and-paths/draw-shapes/reference-index.md", "summary": "Open when looking up Draw shapes in Illustrator.", "keywords": ["Draw shapes references"]},
+  {"topic": "Learn drawing basics", "file": "desktop/draw-shapes-and-paths/learn-drawing-basics.md", "summary": "Open when looking up Learn drawing basics in Illustrator.", "keywords": ["Learn drawing basics"]},
+  {"topic": "Learn drawing basics references", "file": "desktop/draw-shapes-and-paths/learn-drawing-basics/reference-index.md", "summary": "Open when looking up Learn drawing basics in Illustrator.", "keywords": ["Learn drawing basics references"]},
+  {"topic": "Modify live shapes", "file": "desktop/draw-shapes-and-paths/modify-live-shapes.md", "summary": "Open when looking up Modify live shapes in Illustrator.", "keywords": ["Modify live shapes"]},
+  {"topic": "Modify live shapes references", "file": "desktop/draw-shapes-and-paths/modify-live-shapes/reference-index.md", "summary": "Open when looking up Modify live shapes in Illustrator.", "keywords": ["Modify live shapes references"]},
+  {"topic": "Modify paths", "file": "desktop/draw-shapes-and-paths/modify-paths.md", "summary": "Open when looking up Modify paths in Illustrator.", "keywords": ["Modify paths"]},
+  {"topic": "Modify paths references", "file": "desktop/draw-shapes-and-paths/modify-paths/reference-index.md", "summary": "Open when looking up Modify paths in Illustrator.", "keywords": ["Modify paths references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

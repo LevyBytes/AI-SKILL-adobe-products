@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "V1 Placement", "file": "cloud-services/layer-operations/smart-objects/placement-options/v1-placement.md", "summary": "Open when looking up V1 Placement in Photoshop.", "keywords": ["V1 Placement"]},
+  {"topic": "V2 Placement", "file": "cloud-services/layer-operations/smart-objects/placement-options/v2-placement.md", "summary": "Open when looking up V2 Placement in Photoshop.", "keywords": ["V2 Placement"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

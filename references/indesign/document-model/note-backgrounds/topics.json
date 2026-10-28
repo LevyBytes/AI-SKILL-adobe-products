@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "GALLEY_BACKGROUND_COLOR", "file": "document-model/note-backgrounds/galleybackgroundcolor.md", "summary": "Open when looking up GALLEY_BACKGROUND_COLOR in InDesign.", "keywords": ["GALLEY_BACKGROUND_COLOR"]},
+  {"topic": "USE_NOTE_COLOR", "file": "document-model/note-backgrounds/usenotecolor.md", "summary": "Open when looking up USE_NOTE_COLOR in InDesign.", "keywords": ["USE_NOTE_COLOR"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

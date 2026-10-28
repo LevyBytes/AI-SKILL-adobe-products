@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Document.characterStyles", "file": "scripting/document/character-styles.md", "summary": "Open when looking up Document.characterStyles in Illustrator.", "keywords": ["Document.characterStyles"]},
+  {"topic": "Document.importCharacterStyles()", "file": "scripting/document/import-character-styles.md", "summary": "Open when looking up Document.importCharacterStyles() in Illustrator.", "keywords": ["Document.importCharacterStyles()"]},
+  {"topic": "Document.importParagraphStyles()", "file": "scripting/document/import-paragraph-styles.md", "summary": "Open when looking up Document.importParagraphStyles() in Illustrator.", "keywords": ["Document.importParagraphStyles()"]},
+  {"topic": "Document.kinsokuSet", "file": "scripting/document/kinsoku-set.md", "summary": "Open when looking up Document.kinsokuSet in Illustrator.", "keywords": ["Document.kinsokuSet"]},
+  {"topic": "Document.legacyTextItems", "file": "scripting/document/legacy-text-items.md", "summary": "Open when looking up Document.legacyTextItems in Illustrator.", "keywords": ["Document.legacyTextItems"]},
+  {"topic": "Document.mojikumiSet", "file": "scripting/document/mojikumi-set.md", "summary": "Open when looking up Document.mojikumiSet in Illustrator.", "keywords": ["Document.mojikumiSet"]},
+  {"topic": "Document.paragraphStyles", "file": "scripting/document/paragraph-styles.md", "summary": "Open when looking up Document.paragraphStyles in Illustrator.", "keywords": ["Document.paragraphStyles"]},
+  {"topic": "Document.stories", "file": "scripting/document/stories.md", "summary": "Open when looking up Document.stories in Illustrator.", "keywords": ["Document.stories"]},
+  {"topic": "Document.textFrames", "file": "scripting/document/text-frames.md", "summary": "Open when looking up Document.textFrames in Illustrator.", "keywords": ["Document.textFrames"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

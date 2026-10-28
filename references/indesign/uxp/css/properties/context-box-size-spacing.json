@@ -1,0 +1,20 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "height", "file": "uxp/css/properties/height.md", "summary": "Open when looking up height in InDesign.", "keywords": ["height"]},
+  {"topic": "margin", "file": "uxp/css/properties/margin.md", "summary": "Open when looking up margin in InDesign.", "keywords": ["margin"]},
+  {"topic": "margin-bottom", "file": "uxp/css/properties/margin-bottom.md", "summary": "Open when looking up margin-bottom in InDesign.", "keywords": ["margin-bottom"]},
+  {"topic": "margin-bottom references", "file": "uxp/css/properties/margin-bottom/reference-index.md", "summary": "Open when looking up margin-bottom in InDesign.", "keywords": ["margin-bottom references"]},
+  {"topic": "margin-left", "file": "uxp/css/properties/margin-left.md", "summary": "Open when looking up margin-left in InDesign.", "keywords": ["margin-left"]},
+  {"topic": "margin-right", "file": "uxp/css/properties/margin-right.md", "summary": "Open when looking up margin-right in InDesign.", "keywords": ["margin-right"]},
+  {"topic": "margin-top", "file": "uxp/css/properties/margin-top.md", "summary": "Open when looking up margin-top in InDesign.", "keywords": ["margin-top"]},
+  {"topic": "max-height", "file": "uxp/css/properties/max-height.md", "summary": "Open when looking up max-height in InDesign.", "keywords": ["max-height"]},
+  {"topic": "max-width", "file": "uxp/css/properties/max-width.md", "summary": "Open when looking up max-width in InDesign.", "keywords": ["max-width"]},
+  {"topic": "min-height", "file": "uxp/css/properties/min-height.md", "summary": "Open when looking up min-height in InDesign.", "keywords": ["min-height"]},
+  {"topic": "min-width", "file": "uxp/css/properties/min-width.md", "summary": "Open when looking up min-width in InDesign.", "keywords": ["min-width"]},
+  {"topic": "padding", "file": "uxp/css/properties/padding.md", "summary": "Open when looking up padding in InDesign.", "keywords": ["padding"]},
+  {"topic": "padding-bottom", "file": "uxp/css/properties/padding-bottom.md", "summary": "Open when looking up padding-bottom in InDesign.", "keywords": ["padding-bottom"]},
+  {"topic": "padding-left", "file": "uxp/css/properties/padding-left.md", "summary": "Open when looking up padding-left in InDesign.", "keywords": ["padding-left"]},
+  {"topic": "padding-right", "file": "uxp/css/properties/padding-right.md", "summary": "Open when looking up padding-right in InDesign.", "keywords": ["padding-right"]},
+  {"topic": "padding-top", "file": "uxp/css/properties/padding-top.md", "summary": "Open when looking up padding-top in InDesign.", "keywords": ["padding-top"]},
+  {"topic": "width", "file": "uxp/css/properties/width.md", "summary": "Open when looking up width in InDesign.", "keywords": ["width"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

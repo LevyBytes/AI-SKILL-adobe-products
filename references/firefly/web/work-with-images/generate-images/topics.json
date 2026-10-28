@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Generate and configure your image", "file": "web/work-with-images/generate-images/generate-and-configure-your-image.md", "summary": "Open when looking up Generate and configure your image in Firefly.", "keywords": ["Generate and configure your image"]},
+  {"topic": "Generate Images", "file": "web/work-with-images/generate-images/generate-images.md", "summary": "Open when looking up Generate Images in Firefly.", "keywords": ["Generate Images"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

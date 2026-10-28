@@ -1,0 +1,20 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "allGraphics", "file": "document-model/button/all-graphics.md", "summary": "Open when looking up allGraphics in InDesign.", "keywords": ["allGraphics"]},
+  {"topic": "allPageItems", "file": "document-model/button/all-page-items.md", "summary": "Open when looking up allPageItems in InDesign.", "keywords": ["allPageItems"]},
+  {"topic": "epss", "file": "document-model/button/epss.md", "summary": "Open when looking up epss in InDesign.", "keywords": ["epss"]},
+  {"topic": "epstexts", "file": "document-model/button/epstexts.md", "summary": "Open when looking up epstexts in InDesign.", "keywords": ["epstexts"]},
+  {"topic": "graphicLines", "file": "document-model/button/graphic-lines.md", "summary": "Open when looking up graphicLines in InDesign.", "keywords": ["graphicLines"]},
+  {"topic": "graphics", "file": "document-model/button/graphics.md", "summary": "Open when looking up graphics in InDesign.", "keywords": ["graphics"]},
+  {"topic": "groups", "file": "document-model/button/groups.md", "summary": "Open when looking up groups in InDesign.", "keywords": ["groups"]},
+  {"topic": "images", "file": "document-model/button/images.md", "summary": "Open when looking up images in InDesign.", "keywords": ["images"]},
+  {"topic": "ovals", "file": "document-model/button/ovals.md", "summary": "Open when looking up ovals in InDesign.", "keywords": ["ovals"]},
+  {"topic": "pageItems", "file": "document-model/button/page-items.md", "summary": "Open when looking up pageItems in InDesign.", "keywords": ["pageItems"]},
+  {"topic": "pdfs", "file": "document-model/button/pdfs.md", "summary": "Open when looking up pdfs in InDesign.", "keywords": ["pdfs"]},
+  {"topic": "picts", "file": "document-model/button/picts.md", "summary": "Open when looking up picts in InDesign.", "keywords": ["picts"]},
+  {"topic": "polygons", "file": "document-model/button/polygons.md", "summary": "Open when looking up polygons in InDesign.", "keywords": ["polygons"]},
+  {"topic": "rectangles", "file": "document-model/button/rectangles.md", "summary": "Open when looking up rectangles in InDesign.", "keywords": ["rectangles"]},
+  {"topic": "splineItems", "file": "document-model/button/spline-items.md", "summary": "Open when looking up splineItems in InDesign.", "keywords": ["splineItems"]},
+  {"topic": "svgs", "file": "document-model/button/svgs.md", "summary": "Open when looking up svgs in InDesign.", "keywords": ["svgs"]},
+  {"topic": "wmfs", "file": "document-model/button/wmfs.md", "summary": "Open when looking up wmfs in InDesign.", "keywords": ["wmfs"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

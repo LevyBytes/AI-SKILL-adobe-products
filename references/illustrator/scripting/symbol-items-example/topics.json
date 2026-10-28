@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Symbol construction", "file": "scripting/symbol-items-example/symbol-construction.md", "summary": "Open when looking up Symbol construction in Illustrator.", "keywords": ["Symbol construction"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

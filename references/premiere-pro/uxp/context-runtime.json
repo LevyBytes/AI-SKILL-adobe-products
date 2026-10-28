@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Global Members", "file": "uxp/global-members.md", "summary": "Open when looking up Global Members in Premiere Pro.", "keywords": ["Global Members"]},
+  {"topic": "Host Environment Information", "file": "uxp/host-environment-information.md", "summary": "Open when looking up Host Environment Information in Premiere Pro.", "keywords": ["Host Environment Information"]},
+  {"topic": "Host Environment Information references", "file": "uxp/host-environment-information/reference-index.md", "summary": "Open when looking up Host Environment Information in Premiere Pro.", "keywords": ["Host Environment Information references"]},
+  {"topic": "Host references", "file": "uxp/host/reference-index.md", "summary": "Open when looking up Host in Premiere Pro.", "keywords": ["Host references"]},
+  {"topic": "Modules", "file": "uxp/modules.md", "summary": "Open when looking up Modules in Premiere Pro.", "keywords": ["Modules"]},
+  {"topic": "Reference Js", "file": "uxp/reference-js.md", "summary": "Open when looking up Reference Js in Premiere Pro.", "keywords": ["Reference Js"]},
+  {"topic": "Require os platform references", "file": "uxp/require-os-platform/reference-index.md", "summary": "Open when looking up Require os platform in Premiere Pro.", "keywords": ["Require os platform references"]},
+  {"topic": "Runtime references", "file": "uxp/runtime/reference-index.md", "summary": "Open when looking up Runtime in Premiere Pro.", "keywords": ["Runtime references"]},
+  {"topic": "UXP API Reference", "file": "uxp/uxp-api-reference.md", "summary": "Open when looking up UXP API Reference in Premiere Pro.", "keywords": ["UXP API Reference"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Documents collection iteration", "file": "community-types/indesign/documents/collection-iteration.md", "summary": "Open when looking up Documents collection iteration in Shared Adobe platform.", "keywords": ["Documents collection iteration"]},
+  {"topic": "Documents declaration", "file": "community-types/indesign/documents/declaration.md", "summary": "Open when looking up Documents declaration in Shared Adobe platform.", "keywords": ["Documents declaration"]},
+  {"topic": "Documents named and indexed items", "file": "community-types/indesign/documents/named-and-indexed-items.md", "summary": "Open when looking up Documents named and indexed items in Shared Adobe platform.", "keywords": ["Documents named and indexed items"]},
+  {"topic": "Documents.add", "file": "community-types/indesign/documents/add.md", "summary": "Open when looking up Documents.add in Shared Adobe platform.", "keywords": ["Documents.add"]},
+  {"topic": "Documents.count", "file": "community-types/indesign/documents/count.md", "summary": "Open when looking up Documents.count in Shared Adobe platform.", "keywords": ["Documents.count"]},
+  {"topic": "Documents.IndexSignature", "file": "community-types/indesign/documents/index-signature.md", "summary": "Open when looking up Documents.IndexSignature in Shared Adobe platform.", "keywords": ["Documents.IndexSignature"]},
+  {"topic": "Documents.itemByRange", "file": "community-types/indesign/documents/item-by-range.md", "summary": "Open when looking up Documents.itemByRange in Shared Adobe platform.", "keywords": ["Documents.itemByRange"]},
+  {"topic": "Documents.length", "file": "community-types/indesign/documents/length.md", "summary": "Open when looking up Documents.length in Shared Adobe platform.", "keywords": ["Documents.length"]},
+  {"topic": "Documents.toSource", "file": "community-types/indesign/documents/to-source.md", "summary": "Open when looking up Documents.toSource in Shared Adobe platform.", "keywords": ["Documents.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

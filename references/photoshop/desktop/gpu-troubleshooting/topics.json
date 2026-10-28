@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Rendering issues or performance problems due to automatic graphics switch between integrated and discrete GPUs on macOS", "file": "desktop/gpu-troubleshooting/macos-automatic-graphics-switching.md", "summary": "Open when looking up Rendering issues or performance problems due to automatic graphics switch between integrated and discrete GPUs on macOS in Photoshop.", "keywords": ["Rendering issues or performance problems due to automatic graphics switch between integrated and discrete GPUs on macOS"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

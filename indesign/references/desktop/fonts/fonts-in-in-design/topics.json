@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Font installation and availability", "file": "references/desktop/fonts/fonts-in-in-design/font-installation-and-availability.md", "summary": "Open when looking up Font installation and availability in InDesign.", "keywords": ["Font installation and availability"]},
-  {"topic": "Supported font formats", "file": "references/desktop/fonts/fonts-in-in-design/supported-font-formats.md", "summary": "Open when looking up Supported font formats in InDesign.", "keywords": ["Supported font formats"]},
-  {"topic": "What are fonts?", "file": "references/desktop/fonts/fonts-in-in-design/what-are-fonts.md", "summary": "Open when looking up What are fonts? in InDesign.", "keywords": ["What are fonts?"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

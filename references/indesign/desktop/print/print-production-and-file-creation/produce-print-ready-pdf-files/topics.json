@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Configure PDF export settings", "file": "desktop/print/print-production-and-file-creation/produce-print-ready-pdf-files/configure-pdf-export-settings.md", "summary": "Open when looking up Configure PDF export settings in InDesign.", "keywords": ["Configure PDF export settings"]},
+  {"topic": "Export document as print PDF", "file": "desktop/print/print-production-and-file-creation/produce-print-ready-pdf-files/export-document-as-print-pdf.md", "summary": "Open when looking up Export document as print PDF in InDesign.", "keywords": ["Export document as print PDF"]},
+  {"topic": "Run preflight check", "file": "desktop/print/print-production-and-file-creation/produce-print-ready-pdf-files/run-preflight-check.md", "summary": "Open when looking up Run preflight check in InDesign.", "keywords": ["Run preflight check"]},
+  {"topic": "Verify document links and resources", "file": "desktop/print/print-production-and-file-creation/produce-print-ready-pdf-files/verify-document-links-and-resources.md", "summary": "Open when looking up Verify document links and resources in InDesign.", "keywords": ["Verify document links and resources"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

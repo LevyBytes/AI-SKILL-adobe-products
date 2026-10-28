@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "ExternalObject object - ExternalObject constructor", "file": "scripting/external-object-constructor/external-object-object-external-object-constructor.md", "summary": "Open when looking up ExternalObject object - ExternalObject constructor in Shared Adobe platform.", "keywords": ["ExternalObject object - ExternalObject constructor"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

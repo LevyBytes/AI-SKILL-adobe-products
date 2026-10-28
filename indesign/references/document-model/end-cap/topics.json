@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "BUTT_END_CAP", "file": "references/document-model/end-cap/buttendcap.md", "summary": "Open when looking up BUTT_END_CAP in InDesign.", "keywords": ["BUTT_END_CAP"]},
-  {"topic": "PROJECTING_END_CAP", "file": "references/document-model/end-cap/projectingendcap.md", "summary": "Open when looking up PROJECTING_END_CAP in InDesign.", "keywords": ["PROJECTING_END_CAP"]},
-  {"topic": "ROUND_END_CAP", "file": "references/document-model/end-cap/roundendcap.md", "summary": "Open when looking up ROUND_END_CAP in InDesign.", "keywords": ["ROUND_END_CAP"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

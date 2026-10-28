@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Talk to us", "file": "desktop/text-and-typography/text-effects/apply-retro-style-to-text/talk-to-us.md", "summary": "Open when looking up Talk to us in Illustrator.", "keywords": ["Talk to us"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

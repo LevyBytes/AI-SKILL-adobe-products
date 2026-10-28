@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "layout()", "file": "references/scripting/auto-layout-manager-object-functions/layout.md", "summary": "Open when looking up layout() in Shared Adobe platform.", "keywords": ["layout()"]},
-  {"topic": "resize()", "file": "references/scripting/auto-layout-manager-object-functions/resize.md", "summary": "Open when looking up resize() in Shared Adobe platform.", "keywords": ["resize()"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

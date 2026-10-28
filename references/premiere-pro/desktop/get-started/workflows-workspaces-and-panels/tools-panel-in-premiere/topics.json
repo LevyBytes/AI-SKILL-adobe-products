@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Options in Tools panel", "file": "desktop/get-started/workflows-workspaces-and-panels/tools-panel-in-premiere/options-in-tools-panel.md", "summary": "Open when looking up Options in Tools panel in Premiere Pro.", "keywords": ["Options in Tools panel"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

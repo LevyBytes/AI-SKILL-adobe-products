@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "AlternatingFillsTypes", "file": "document-model/alternating-fills-types.md", "summary": "Open when looking up AlternatingFillsTypes in InDesign.", "keywords": ["AlternatingFillsTypes"]},
+  {"topic": "AlternatingFillsTypes references", "file": "document-model/alternating-fills-types/reference-index.md", "summary": "Open when looking up AlternatingFillsTypes in InDesign.", "keywords": ["AlternatingFillsTypes references"]},
+  {"topic": "StrokeOrderTypes", "file": "document-model/stroke-order-types.md", "summary": "Open when looking up StrokeOrderTypes in InDesign.", "keywords": ["StrokeOrderTypes"]},
+  {"topic": "StrokeOrderTypes references", "file": "document-model/stroke-order-types/reference-index.md", "summary": "Open when looking up StrokeOrderTypes in InDesign.", "keywords": ["StrokeOrderTypes references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

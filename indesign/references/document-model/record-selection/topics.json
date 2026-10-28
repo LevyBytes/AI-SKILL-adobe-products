@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "ALL_RECORDS", "file": "references/document-model/record-selection/allrecords.md", "summary": "Open when looking up ALL_RECORDS in InDesign.", "keywords": ["ALL_RECORDS"]},
-  {"topic": "ONE_RECORD", "file": "references/document-model/record-selection/onerecord.md", "summary": "Open when looking up ONE_RECORD in InDesign.", "keywords": ["ONE_RECORD"]},
-  {"topic": "RANGE", "file": "references/document-model/record-selection/range.md", "summary": "Open when looking up RANGE in InDesign.", "keywords": ["RANGE"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

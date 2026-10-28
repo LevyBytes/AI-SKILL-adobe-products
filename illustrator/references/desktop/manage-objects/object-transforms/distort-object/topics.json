@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Distort objects using a liquify tool", "file": "references/desktop/manage-objects/object-transforms/distort-object/distort-objects-using-a-liquify-tool.md", "summary": "Open when looking up Distort objects using a liquify tool in Illustrator.", "keywords": ["Distort objects using a liquify tool"]},
-  {"topic": "Distort objects with the Free Transform tool", "file": "references/desktop/manage-objects/object-transforms/distort-object/distort-objects-with-the-free-transform-tool.md", "summary": "Open when looking up Distort objects with the Free Transform tool in Illustrator.", "keywords": ["Distort objects with the Free Transform tool"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

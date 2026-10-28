@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "connect", "file": "scripting/directory/connect.md", "summary": "Open when looking up connect in Acrobat.", "keywords": ["connect"]},
+  {"topic": "info", "file": "scripting/directory/info.md", "summary": "Open when looking up info in Acrobat.", "keywords": ["info"]},
+  {"topic": "JavaScript APIs - Directory", "file": "scripting/directory/java-script-apis-directory.md", "summary": "Open when looking up JavaScript APIs - Directory in Acrobat.", "keywords": ["JavaScript APIs - Directory"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

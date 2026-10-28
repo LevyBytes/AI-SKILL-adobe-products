@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "WATERMARK_V_BOTTOM", "file": "document-model/watermark-vertical-position-enum/watermarkvbottom.md", "summary": "Open when looking up WATERMARK_V_BOTTOM in InDesign.", "keywords": ["WATERMARK_V_BOTTOM"]},
+  {"topic": "WATERMARK_V_CENTER", "file": "document-model/watermark-vertical-position-enum/watermarkvcenter.md", "summary": "Open when looking up WATERMARK_V_CENTER in InDesign.", "keywords": ["WATERMARK_V_CENTER"]},
+  {"topic": "WATERMARK_V_TOP", "file": "document-model/watermark-vertical-position-enum/watermarkvtop.md", "summary": "Open when looking up WATERMARK_V_TOP in InDesign.", "keywords": ["WATERMARK_V_TOP"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Blend images", "file": "references/desktop/create-masks/blend-images.md", "summary": "Open when looking up Blend images in Photoshop.", "keywords": ["Blend images"]},
-  {"topic": "Blend images references", "file": "references/desktop/create-masks/blend-images/reference-index.md", "summary": "Open when looking up Blend images in Photoshop.", "keywords": ["Blend images references"]},
-  {"topic": "Layer masks", "file": "references/desktop/create-masks/layer-masks.md", "summary": "Open when looking up Layer masks in Photoshop.", "keywords": ["Layer masks"]},
-  {"topic": "Layer masks references", "file": "references/desktop/create-masks/layer-masks/reference-index.md", "summary": "Open when looking up Layer masks in Photoshop.", "keywords": ["Layer masks references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

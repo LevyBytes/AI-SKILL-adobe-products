@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "PluginItems.getByName()", "file": "scripting/plugin-items/get-by-name.md", "summary": "Open when looking up PluginItems.getByName() in Illustrator.", "keywords": ["PluginItems.getByName()"]},
+  {"topic": "PluginItems.index()", "file": "scripting/plugin-items/index.md", "summary": "Open when looking up PluginItems.index() in Illustrator.", "keywords": ["PluginItems.index()"]},
+  {"topic": "PluginItems.length", "file": "scripting/plugin-items/length.md", "summary": "Open when looking up PluginItems.length in Illustrator.", "keywords": ["PluginItems.length"]},
+  {"topic": "PluginItems.parent", "file": "scripting/plugin-items/parent.md", "summary": "Open when looking up PluginItems.parent in Illustrator.", "keywords": ["PluginItems.parent"]},
+  {"topic": "PluginItems.removeAll()", "file": "scripting/plugin-items/remove-all.md", "summary": "Open when looking up PluginItems.removeAll() in Illustrator.", "keywords": ["PluginItems.removeAll()"]},
+  {"topic": "PluginItems.typename", "file": "scripting/plugin-items/typename.md", "summary": "Open when looking up PluginItems.typename in Illustrator.", "keywords": ["PluginItems.typename"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

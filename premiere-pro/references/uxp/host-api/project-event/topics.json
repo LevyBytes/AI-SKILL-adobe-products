@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "ProjectEvent - Events", "file": "references/uxp/host-api/project-event/project-event-events.md", "summary": "Open when looking up ProjectEvent - Events in Premiere Pro.", "keywords": ["ProjectEvent - Events"]},
-  {"topic": "ProjectEvent - Properties", "file": "references/uxp/host-api/project-event/project-event-properties.md", "summary": "Open when looking up ProjectEvent - Properties in Premiere Pro.", "keywords": ["ProjectEvent - Properties"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

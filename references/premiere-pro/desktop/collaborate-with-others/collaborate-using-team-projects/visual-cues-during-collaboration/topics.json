@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Active collaborator", "file": "desktop/collaborate-with-others/collaborate-using-team-projects/visual-cues-during-collaboration/active-collaborator.md", "summary": "Open when looking up Active collaborator in Premiere Pro.", "keywords": ["Active collaborator"]},
+  {"topic": "Other collaborators", "file": "desktop/collaborate-with-others/collaborate-using-team-projects/visual-cues-during-collaboration/other-collaborators.md", "summary": "Open when looking up Other collaborators in Premiere Pro.", "keywords": ["Other collaborators"]},
+  {"topic": "Publish Status", "file": "desktop/collaborate-with-others/collaborate-using-team-projects/visual-cues-during-collaboration/publish-status.md", "summary": "Open when looking up Publish Status in Premiere Pro.", "keywords": ["Publish Status"]},
+  {"topic": "Update Status", "file": "desktop/collaborate-with-others/collaborate-using-team-projects/visual-cues-during-collaboration/update-status.md", "summary": "Open when looking up Update Status in Premiere Pro.", "keywords": ["Update Status"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

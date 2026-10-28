@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "firefly", "topics": [
-  {"topic": "Expanding Images with Async APIs", "file": "references/cloud-services/using-the-asynchronous-adobe-firefly-apis/expanding-images-with-async-apis.md", "summary": "Open when looking up Expanding Images with Async APIs in Firefly.", "keywords": ["Expanding Images with Async APIs"]},
-  {"topic": "Generating Images with the Async API", "file": "references/cloud-services/using-the-asynchronous-adobe-firefly-apis/generating-images-with-the-async-api.md", "summary": "Open when looking up Generating Images with the Async API in Firefly.", "keywords": ["Generating Images with the Async API"]},
-  {"topic": "Introduction", "file": "references/cloud-services/using-the-asynchronous-adobe-firefly-apis/introduction.md", "summary": "Open when looking up Introduction in Firefly.", "keywords": ["Introduction"]},
-  {"topic": "Sequence of Calls", "file": "references/cloud-services/using-the-asynchronous-adobe-firefly-apis/sequence-of-calls.md", "summary": "Open when looking up Sequence of Calls in Firefly.", "keywords": ["Sequence of Calls"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

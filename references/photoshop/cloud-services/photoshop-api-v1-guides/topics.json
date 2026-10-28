@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Before you start", "file": "cloud-services/photoshop-api-v1-guides/before-you-start.md", "summary": "Open when looking up Before you start in Photoshop.", "keywords": ["Before you start"]},
+  {"topic": "Migrating from v1?", "file": "cloud-services/photoshop-api-v1-guides/migrating-from-v1.md", "summary": "Open when looking up Migrating from v1? in Photoshop.", "keywords": ["Migrating from v1?"]},
+  {"topic": "Working with code samples", "file": "cloud-services/photoshop-api-v1-guides/working-with-code-samples.md", "summary": "Open when looking up Working with code samples in Photoshop.", "keywords": ["Working with code samples"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

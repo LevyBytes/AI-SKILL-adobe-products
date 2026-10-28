@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Considerations when using Ambisonics audio", "file": "desktop/edit-projects/edit-vr-content/assembling-ambisonics-audio/considerations-when-using-ambisonics-audio.md", "summary": "Open when looking up Considerations when using Ambisonics audio in Premiere Pro.", "keywords": ["Considerations when using Ambisonics audio"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

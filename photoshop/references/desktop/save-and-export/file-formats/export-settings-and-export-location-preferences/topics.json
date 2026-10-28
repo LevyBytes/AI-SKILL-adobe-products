@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Canvas Size", "file": "references/desktop/save-and-export/file-formats/export-settings-and-export-location-preferences/canvas-size.md", "summary": "Open when looking up Canvas Size in Photoshop.", "keywords": ["Canvas Size"]},
-  {"topic": "Scale All", "file": "references/desktop/save-and-export/file-formats/export-settings-and-export-location-preferences/scale-all.md", "summary": "Open when looking up Scale All in Photoshop.", "keywords": ["Scale All"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

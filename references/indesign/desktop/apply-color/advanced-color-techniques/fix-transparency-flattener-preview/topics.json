@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Adjust preview settings to fix display issues", "file": "desktop/apply-color/advanced-color-techniques/fix-transparency-flattener-preview/adjust-preview-settings-to-fix-display-issues.md", "summary": "Open when looking up Adjust preview settings to fix display issues in InDesign.", "keywords": ["Adjust preview settings to fix display issues"]},
+  {"topic": "Refresh the preview display", "file": "desktop/apply-color/advanced-color-techniques/fix-transparency-flattener-preview/refresh-the-preview-display.md", "summary": "Open when looking up Refresh the preview display in InDesign.", "keywords": ["Refresh the preview display"]},
+  {"topic": "Verify preview accuracy", "file": "desktop/apply-color/advanced-color-techniques/fix-transparency-flattener-preview/verify-preview-accuracy.md", "summary": "Open when looking up Verify preview accuracy in InDesign.", "keywords": ["Verify preview accuracy"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Explore generative AI features in Acrobat", "file": "ai-assistant/use-acrobat-ai/explore-generative-ai-features-in-acrobat.md", "summary": "Open when looking up Explore generative AI features in Acrobat in Acrobat.", "keywords": ["Explore generative AI features in Acrobat"]},
+  {"topic": "Get started with generative AI", "file": "ai-assistant/use-acrobat-ai/get-started-with-generative-ai.md", "summary": "Open when looking up Get started with generative AI in Acrobat.", "keywords": ["Get started with generative AI"]},
+  {"topic": "Get started with smart actions", "file": "ai-assistant/use-acrobat-ai/get-started-with-smart-actions.md", "summary": "Open when looking up Get started with smart actions in Acrobat.", "keywords": ["Get started with smart actions"]},
+  {"topic": "Podcasts", "file": "ai-assistant/use-acrobat-ai/podcasts.md", "summary": "Open when looking up Podcasts in Acrobat.", "keywords": ["Podcasts"]},
+  {"topic": "Set up generative AI in Acrobat", "file": "ai-assistant/use-acrobat-ai/set-up-generative-ai-in-acrobat.md", "summary": "Open when looking up Set up generative AI in Acrobat in Acrobat.", "keywords": ["Set up generative AI in Acrobat"]},
+  {"topic": "Understand usage and policies", "file": "ai-assistant/use-acrobat-ai/understand-usage-and-policies.md", "summary": "Open when looking up Understand usage and policies in Acrobat.", "keywords": ["Understand usage and policies"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

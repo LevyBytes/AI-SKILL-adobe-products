@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Clean Up settings", "file": "references/desktop/create-documents/optimize-pdfs/pdf-optimizer-settings/clean-up-settings.md", "summary": "Open when looking up Clean Up settings in Acrobat.", "keywords": ["Clean Up settings"]},
-  {"topic": "Discard Objects settings", "file": "references/desktop/create-documents/optimize-pdfs/pdf-optimizer-settings/discard-objects-settings.md", "summary": "Open when looking up Discard Objects settings in Acrobat.", "keywords": ["Discard Objects settings"]},
-  {"topic": "Discard User Data settings", "file": "references/desktop/create-documents/optimize-pdfs/pdf-optimizer-settings/discard-user-data-settings.md", "summary": "Open when looking up Discard User Data settings in Acrobat.", "keywords": ["Discard User Data settings"]},
-  {"topic": "Font Unembedding settings", "file": "references/desktop/create-documents/optimize-pdfs/pdf-optimizer-settings/font-unembedding-settings.md", "summary": "Open when looking up Font Unembedding settings in Acrobat.", "keywords": ["Font Unembedding settings"]},
-  {"topic": "Images settings", "file": "references/desktop/create-documents/optimize-pdfs/pdf-optimizer-settings/images-settings.md", "summary": "Open when looking up Images settings in Acrobat.", "keywords": ["Images settings"]},
-  {"topic": "Transparency settings", "file": "references/desktop/create-documents/optimize-pdfs/pdf-optimizer-settings/transparency-settings.md", "summary": "Open when looking up Transparency settings in Acrobat.", "keywords": ["Transparency settings"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

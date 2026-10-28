@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Switch to legacy undo shortcuts", "file": "desktop/get-started/set-up-toolbars-and-panels/use-undo-and-redo-commands/switch-to-legacy-undo-shortcuts.md", "summary": "Open when looking up Switch to legacy undo shortcuts in Photoshop.", "keywords": ["Switch to legacy undo shortcuts"]},
+  {"topic": "Undo and redo actions", "file": "desktop/get-started/set-up-toolbars-and-panels/use-undo-and-redo-commands/undo-and-redo-actions.md", "summary": "Open when looking up Undo and redo actions in Photoshop.", "keywords": ["Undo and redo actions"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

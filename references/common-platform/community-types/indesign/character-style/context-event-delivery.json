@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "CharacterStyle event listeners", "file": "community-types/indesign/character-style/event-listeners.md", "summary": "Open when looking up CharacterStyle event listeners in Shared Adobe platform.", "keywords": ["CharacterStyle event listeners"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

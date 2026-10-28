@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/media-encoder", "topics": [
+  {"topic": "Manage Sync Settings", "file": "desktop/get-started/sync-settings-in-media-encoder/manage-sync-settings.md", "summary": "Open when looking up Manage Sync Settings in Media Encoder.", "keywords": ["Manage Sync Settings"]},
+  {"topic": "Sync settings", "file": "desktop/get-started/sync-settings-in-media-encoder/sync-settings.md", "summary": "Open when looking up Sync settings in Media Encoder.", "keywords": ["Sync settings"]},
+  {"topic": "Sync settings from a different account", "file": "desktop/get-started/sync-settings-in-media-encoder/sync-settings-from-a-different-account.md", "summary": "Open when looking up Sync settings from a different account in Media Encoder.", "keywords": ["Sync settings from a different account"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "export-panel.css", "file": "references/cep/examples/document-export/client/export-panel.css", "summary": "Open when looking up export-panel.css in Shared Adobe platform.", "keywords": ["export-panel.css"]},
-  {"topic": "export-panel.html", "file": "references/cep/examples/document-export/client/export-panel.html", "summary": "Open when looking up export-panel.html in Shared Adobe platform.", "keywords": ["export-panel.html"]},
-  {"topic": "export-panel.js", "file": "references/cep/examples/document-export/client/export-panel.js", "summary": "Open when looking up export-panel.js in Shared Adobe platform.", "keywords": ["export-panel.js"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

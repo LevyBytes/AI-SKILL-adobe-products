@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "DOCUMENT_IN_USE", "file": "document-model/book-content-status/documentinuse.md", "summary": "Open when looking up DOCUMENT_IN_USE in InDesign.", "keywords": ["DOCUMENT_IN_USE"]},
+  {"topic": "DOCUMENT_IS_OPEN", "file": "document-model/book-content-status/documentisopen.md", "summary": "Open when looking up DOCUMENT_IS_OPEN in InDesign.", "keywords": ["DOCUMENT_IS_OPEN"]},
+  {"topic": "DOCUMENT_OUT_OF_DATE", "file": "document-model/book-content-status/documentoutofdate.md", "summary": "Open when looking up DOCUMENT_OUT_OF_DATE in InDesign.", "keywords": ["DOCUMENT_OUT_OF_DATE"]},
+  {"topic": "MISSING_DOCUMENT", "file": "document-model/book-content-status/missingdocument.md", "summary": "Open when looking up MISSING_DOCUMENT in InDesign.", "keywords": ["MISSING_DOCUMENT"]},
+  {"topic": "NORMAL", "file": "document-model/book-content-status/normal.md", "summary": "Open when looking up NORMAL in InDesign.", "keywords": ["NORMAL"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

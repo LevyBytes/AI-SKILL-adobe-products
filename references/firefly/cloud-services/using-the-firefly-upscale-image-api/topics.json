@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "1. Upscaling product images for eCommerce", "file": "cloud-services/using-the-firefly-upscale-image-api/upscaling-product-images-for-e-commerce.md", "summary": "Open when looking up 1. Upscaling product images for eCommerce in Firefly.", "keywords": ["1. Upscaling product images for eCommerce"]},
+  {"topic": "2. Preparing video stills for print", "file": "cloud-services/using-the-firefly-upscale-image-api/preparing-video-stills-for-print.md", "summary": "Open when looking up 2. Preparing video stills for print in Firefly.", "keywords": ["2. Preparing video stills for print"]},
+  {"topic": "API quick reference", "file": "cloud-services/using-the-firefly-upscale-image-api/api-quick-reference.md", "summary": "Open when looking up API quick reference in Firefly.", "keywords": ["API quick reference"]},
+  {"topic": "How it works", "file": "cloud-services/using-the-firefly-upscale-image-api/how-it-works.md", "summary": "Open when looking up How it works in Firefly.", "keywords": ["How it works"]},
+  {"topic": "Limitations and considerations", "file": "cloud-services/using-the-firefly-upscale-image-api/limitations-and-considerations.md", "summary": "Open when looking up Limitations and considerations in Firefly.", "keywords": ["Limitations and considerations"]},
+  {"topic": "Ready to get started?", "file": "cloud-services/using-the-firefly-upscale-image-api/ready-to-get-started.md", "summary": "Open when looking up Ready to get started? in Firefly.", "keywords": ["Ready to get started?"]},
+  {"topic": "Scale factor guidance", "file": "cloud-services/using-the-firefly-upscale-image-api/scale-factor-guidance.md", "summary": "Open when looking up Scale factor guidance in Firefly.", "keywords": ["Scale factor guidance"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Additional notes", "file": "references/uxp/debugging/additional-notes.md", "summary": "Open when looking up Additional notes in InDesign.", "keywords": ["Additional notes"]},
-  {"topic": "Alerts", "file": "references/uxp/debugging/alerts.md", "summary": "Open when looking up Alerts in InDesign.", "keywords": ["Alerts"]},
-  {"topic": "JavaScript", "file": "references/uxp/debugging/java-script.md", "summary": "Open when looking up JavaScript in InDesign.", "keywords": ["JavaScript"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

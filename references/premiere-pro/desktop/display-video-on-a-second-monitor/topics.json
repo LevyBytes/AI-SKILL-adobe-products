@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Send Premiere video output to a second monitor", "file": "desktop/display-video-on-a-second-monitor/send-premiere-video-output-to-a-second-monitor.md", "summary": "Open when looking up Send Premiere video output to a second monitor in Premiere Pro.", "keywords": ["Send Premiere video output to a second monitor"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

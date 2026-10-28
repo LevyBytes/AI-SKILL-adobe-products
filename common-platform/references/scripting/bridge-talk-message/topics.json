@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "BridgeTalk message object", "file": "references/scripting/bridge-talk-message/bridge-talk-message-object.md", "summary": "Open when looking up BridgeTalk message object in Shared Adobe platform.", "keywords": ["BridgeTalk message object"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

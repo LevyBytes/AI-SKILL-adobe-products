@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "audition", "topics": [
-  {"topic": "Export and import customized application settings", "file": "references/desktop/workspace-and-setup/customizing-and-saving-application-settings/export-and-import-customized-application-settings.md", "summary": "Open when looking up Export and import customized application settings in Audition.", "keywords": ["Export and import customized application settings"]},
-  {"topic": "Restore preferences to default settings", "file": "references/desktop/workspace-and-setup/customizing-and-saving-application-settings/restore-preferences-to-default-settings.md", "summary": "Open when looking up Restore preferences to default settings in Audition.", "keywords": ["Restore preferences to default settings"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

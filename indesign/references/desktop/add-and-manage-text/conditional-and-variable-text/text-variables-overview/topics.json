@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Text variable behavior", "file": "references/desktop/add-and-manage-text/conditional-and-variable-text/text-variables-overview/text-variable-behavior.md", "summary": "Open when looking up Text variable behavior in InDesign.", "keywords": ["Text variable behavior"]},
-  {"topic": "Types of text variables and their behaviors", "file": "references/desktop/add-and-manage-text/conditional-and-variable-text/text-variables-overview/types-of-text-variables-and-their-behaviors.md", "summary": "Open when looking up Types of text variables and their behaviors in InDesign.", "keywords": ["Types of text variables and their behaviors"]},
-  {"topic": "Where variables are commonly used", "file": "references/desktop/add-and-manage-text/conditional-and-variable-text/text-variables-overview/where-variables-are-commonly-used.md", "summary": "Open when looking up Where variables are commonly used in InDesign.", "keywords": ["Where variables are commonly used"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

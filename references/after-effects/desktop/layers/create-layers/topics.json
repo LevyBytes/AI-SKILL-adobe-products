@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Creating Layers", "file": "desktop/layers/create-layers/creating-layers.md", "summary": "Open when looking up Creating Layers in After Effects.", "keywords": ["Creating Layers"]},
+  {"topic": "Creating Layers references", "file": "desktop/layers/create-layers/creating-layers/reference-index.md", "summary": "Open when looking up Creating Layers in After Effects.", "keywords": ["Creating Layers references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

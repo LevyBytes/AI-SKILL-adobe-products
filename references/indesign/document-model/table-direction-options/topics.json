@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "LEFT_TO_RIGHT_DIRECTION", "file": "document-model/table-direction-options/lefttorightdirection.md", "summary": "Open when looking up LEFT_TO_RIGHT_DIRECTION in InDesign.", "keywords": ["LEFT_TO_RIGHT_DIRECTION"]},
+  {"topic": "RIGHT_TO_LEFT_DIRECTION", "file": "document-model/table-direction-options/righttoleftdirection.md", "summary": "Open when looking up RIGHT_TO_LEFT_DIRECTION in InDesign.", "keywords": ["RIGHT_TO_LEFT_DIRECTION"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

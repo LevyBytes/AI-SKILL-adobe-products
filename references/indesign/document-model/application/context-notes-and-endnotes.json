@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "endnoteOptions", "file": "document-model/application/endnote-options.md", "summary": "Open when looking up endnoteOptions in InDesign.", "keywords": ["endnoteOptions"]},
+  {"topic": "footnoteOptions", "file": "document-model/application/footnote-options.md", "summary": "Open when looking up footnoteOptions in InDesign.", "keywords": ["footnoteOptions"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

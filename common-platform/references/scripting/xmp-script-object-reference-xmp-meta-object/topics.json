@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "XMPMeta class functions", "file": "references/scripting/xmp-script-object-reference-xmp-meta-object/xmp-meta-class-functions.md", "summary": "Open when looking up XMPMeta class functions in Shared Adobe platform.", "keywords": ["XMPMeta class functions"]},
-  {"topic": "XMPMeta class properties", "file": "references/scripting/xmp-script-object-reference-xmp-meta-object/xmp-meta-class-properties.md", "summary": "Open when looking up XMPMeta class properties in Shared Adobe platform.", "keywords": ["XMPMeta class properties"]},
-  {"topic": "XMPMeta object constructors", "file": "references/scripting/xmp-script-object-reference-xmp-meta-object/xmp-meta-object-constructors.md", "summary": "Open when looking up XMPMeta object constructors in Shared Adobe platform.", "keywords": ["XMPMeta object constructors"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

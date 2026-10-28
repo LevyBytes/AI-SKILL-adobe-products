@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Acrobat isn't updated", "file": "desktop/error-while-printing-pdfs-in-acrobat/acrobat-isn-t-updated.md", "summary": "Open when looking up Acrobat isn't updated in Acrobat.", "keywords": ["Acrobat isn't updated"]},
+  {"topic": "Check syntax issues with Preflight", "file": "desktop/error-while-printing-pdfs-in-acrobat/check-syntax-issues-with-preflight.md", "summary": "Open when looking up Check syntax issues with Preflight in Acrobat.", "keywords": ["Check syntax issues with Preflight"]},
+  {"topic": "Download or copy the PDF again", "file": "desktop/error-while-printing-pdfs-in-acrobat/download-or-copy-the-pdf-again.md", "summary": "Open when looking up Download or copy the PDF again in Acrobat.", "keywords": ["Download or copy the PDF again"]},
+  {"topic": "Outdated drivers", "file": "desktop/error-while-printing-pdfs-in-acrobat/outdated-drivers.md", "summary": "Open when looking up Outdated drivers in Acrobat.", "keywords": ["Outdated drivers"]},
+  {"topic": "Print as image", "file": "desktop/error-while-printing-pdfs-in-acrobat/print-as-image.md", "summary": "Open when looking up Print as image in Acrobat.", "keywords": ["Print as image"]},
+  {"topic": "Printer connection or hardware issue", "file": "desktop/error-while-printing-pdfs-in-acrobat/printer-connection-or-hardware-issue.md", "summary": "Open when looking up Printer connection or hardware issue in Acrobat.", "keywords": ["Printer connection or hardware issue"]},
+  {"topic": "Printer-specific issue", "file": "desktop/error-while-printing-pdfs-in-acrobat/printer-specific-issue.md", "summary": "Open when looking up Printer-specific issue in Acrobat.", "keywords": ["Printer-specific issue"]},
+  {"topic": "Save As a new copy", "file": "desktop/error-while-printing-pdfs-in-acrobat/save-as-a-new-copy.md", "summary": "Open when looking up Save As a new copy in Acrobat.", "keywords": ["Save As a new copy"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

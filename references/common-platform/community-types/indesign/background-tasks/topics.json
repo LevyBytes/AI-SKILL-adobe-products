@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "BackgroundTasks collection iteration", "file": "community-types/indesign/background-tasks/collection-iteration.md", "summary": "Open when looking up BackgroundTasks collection iteration in Shared Adobe platform.", "keywords": ["BackgroundTasks collection iteration"]},
+  {"topic": "BackgroundTasks declaration", "file": "community-types/indesign/background-tasks/declaration.md", "summary": "Open when looking up BackgroundTasks declaration in Shared Adobe platform.", "keywords": ["BackgroundTasks declaration"]},
+  {"topic": "BackgroundTasks named and indexed items", "file": "community-types/indesign/background-tasks/named-and-indexed-items.md", "summary": "Open when looking up BackgroundTasks named and indexed items in Shared Adobe platform.", "keywords": ["BackgroundTasks named and indexed items"]},
+  {"topic": "BackgroundTasks.count", "file": "community-types/indesign/background-tasks/count.md", "summary": "Open when looking up BackgroundTasks.count in Shared Adobe platform.", "keywords": ["BackgroundTasks.count"]},
+  {"topic": "BackgroundTasks.IndexSignature", "file": "community-types/indesign/background-tasks/index-signature.md", "summary": "Open when looking up BackgroundTasks.IndexSignature in Shared Adobe platform.", "keywords": ["BackgroundTasks.IndexSignature"]},
+  {"topic": "BackgroundTasks.itemByRange", "file": "community-types/indesign/background-tasks/item-by-range.md", "summary": "Open when looking up BackgroundTasks.itemByRange in Shared Adobe platform.", "keywords": ["BackgroundTasks.itemByRange"]},
+  {"topic": "BackgroundTasks.length", "file": "community-types/indesign/background-tasks/length.md", "summary": "Open when looking up BackgroundTasks.length in Shared Adobe platform.", "keywords": ["BackgroundTasks.length"]},
+  {"topic": "BackgroundTasks.toSource", "file": "community-types/indesign/background-tasks/to-source.md", "summary": "Open when looking up BackgroundTasks.toSource in Shared Adobe platform.", "keywords": ["BackgroundTasks.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

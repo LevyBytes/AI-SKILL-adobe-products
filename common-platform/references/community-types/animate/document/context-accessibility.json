@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Document.accName", "file": "references/community-types/animate/document/acc-name.md", "summary": "Open when looking up Document.accName in Shared Adobe platform.", "keywords": ["Document.accName"]},
-  {"topic": "Document.autoLabel", "file": "references/community-types/animate/document/auto-label.md", "summary": "Open when looking up Document.autoLabel in Shared Adobe platform.", "keywords": ["Document.autoLabel"]},
-  {"topic": "Document.description", "file": "references/community-types/animate/document/description.md", "summary": "Open when looking up Document.description in Shared Adobe platform.", "keywords": ["Document.description"]},
-  {"topic": "Document.forceSimple", "file": "references/community-types/animate/document/force-simple.md", "summary": "Open when looking up Document.forceSimple in Shared Adobe platform.", "keywords": ["Document.forceSimple"]},
-  {"topic": "Document.silent", "file": "references/community-types/animate/document/silent.md", "summary": "Open when looking up Document.silent in Shared Adobe platform.", "keywords": ["Document.silent"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

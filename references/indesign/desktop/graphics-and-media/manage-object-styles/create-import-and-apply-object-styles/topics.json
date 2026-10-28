@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Apply an object style", "file": "desktop/graphics-and-media/manage-object-styles/create-import-and-apply-object-styles/apply-an-object-style.md", "summary": "Open when looking up Apply an object style in InDesign.", "keywords": ["Apply an object style"]},
+  {"topic": "Create a new object style", "file": "desktop/graphics-and-media/manage-object-styles/create-import-and-apply-object-styles/create-a-new-object-style.md", "summary": "Open when looking up Create a new object style in InDesign.", "keywords": ["Create a new object style"]},
+  {"topic": "Import Object Styles", "file": "desktop/graphics-and-media/manage-object-styles/create-import-and-apply-object-styles/import-object-styles.md", "summary": "Open when looking up Import Object Styles in InDesign.", "keywords": ["Import Object Styles"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

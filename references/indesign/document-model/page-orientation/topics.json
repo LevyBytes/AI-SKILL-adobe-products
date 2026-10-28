@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "LANDSCAPE", "file": "document-model/page-orientation/landscape.md", "summary": "Open when looking up LANDSCAPE in InDesign.", "keywords": ["LANDSCAPE"]},
+  {"topic": "PORTRAIT", "file": "document-model/page-orientation/portrait.md", "summary": "Open when looking up PORTRAIT in InDesign.", "keywords": ["PORTRAIT"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

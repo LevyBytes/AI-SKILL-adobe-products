@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Choose how to place snippets", "file": "desktop/graphics-and-media/object-libraries-and-snippets/create-and-add-snippets/choose-how-to-place-snippets.md", "summary": "Open when looking up Choose how to place snippets in InDesign.", "keywords": ["Choose how to place snippets"]},
+  {"topic": "Create a snippet file", "file": "desktop/graphics-and-media/object-libraries-and-snippets/create-and-add-snippets/create-a-snippet-file.md", "summary": "Open when looking up Create a snippet file in InDesign.", "keywords": ["Create a snippet file"]},
+  {"topic": "Place snippets in a document", "file": "desktop/graphics-and-media/object-libraries-and-snippets/create-and-add-snippets/place-snippets-in-a-document.md", "summary": "Open when looking up Place snippets in a document in InDesign.", "keywords": ["Place snippets in a document"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

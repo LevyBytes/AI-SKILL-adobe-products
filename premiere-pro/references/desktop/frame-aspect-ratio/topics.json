@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Frame aspect ratios in Adobe Premiere", "file": "references/desktop/frame-aspect-ratio/frame-aspect-ratios-in-adobe-premiere.md", "summary": "Open when looking up Frame aspect ratios in Adobe Premiere in Premiere Pro.", "keywords": ["Frame aspect ratios in Adobe Premiere"]},
-  {"topic": "Letterboxing", "file": "references/desktop/frame-aspect-ratio/letterboxing.md", "summary": "Open when looking up Letterboxing in Premiere Pro.", "keywords": ["Letterboxing"]},
-  {"topic": "Pan and scan", "file": "references/desktop/frame-aspect-ratio/pan-and-scan.md", "summary": "Open when looking up Pan and scan in Premiere Pro.", "keywords": ["Pan and scan"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

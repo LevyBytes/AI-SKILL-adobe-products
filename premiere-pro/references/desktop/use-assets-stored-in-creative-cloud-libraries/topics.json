@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Drag a Look to the Project panel", "file": "references/desktop/use-assets-stored-in-creative-cloud-libraries/drag-a-look-to-the-project-panel.md", "summary": "Open when looking up Drag a Look to the Project panel in Premiere Pro.", "keywords": ["Drag a Look to the Project panel"]},
-  {"topic": "Drag a Look to timeline", "file": "references/desktop/use-assets-stored-in-creative-cloud-libraries/drag-a-look-to-timeline.md", "summary": "Open when looking up Drag a Look to timeline in Premiere Pro.", "keywords": ["Drag a Look to timeline"]},
-  {"topic": "Graphic element", "file": "references/desktop/use-assets-stored-in-creative-cloud-libraries/graphic-element.md", "summary": "Open when looking up Graphic element in Premiere Pro.", "keywords": ["Graphic element"]},
-  {"topic": "Look", "file": "references/desktop/use-assets-stored-in-creative-cloud-libraries/look.md", "summary": "Open when looking up Look in Premiere Pro.", "keywords": ["Look"]},
-  {"topic": "Use assets and Looks from Libraries in Adobe Premiere projects.", "file": "references/desktop/use-assets-stored-in-creative-cloud-libraries/creative-cloud-assets-and-looks.md", "summary": "Open when looking up Use assets and Looks from Libraries in Adobe Premiere projects. in Premiere Pro.", "keywords": ["Use assets and Looks from Libraries in Adobe Premiere projects."]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

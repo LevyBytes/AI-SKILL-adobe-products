@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Exporting Symbols in Effects - Disabling Xcode Symbol Export", "file": "plugin-sdk/disabling-xcode-symbol-export/exporting-symbols-in-effects-disabling-xcode-symbol-export.md", "summary": "Open when looking up Exporting Symbols in Effects - Disabling Xcode Symbol Export in After Effects.", "keywords": ["Exporting Symbols in Effects - Disabling Xcode Symbol Export"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

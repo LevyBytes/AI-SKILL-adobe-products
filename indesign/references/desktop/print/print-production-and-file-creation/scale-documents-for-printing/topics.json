@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Scale document dimensions manually", "file": "references/desktop/print/print-production-and-file-creation/scale-documents-for-printing/scale-document-dimensions-manually.md", "summary": "Open when looking up Scale document dimensions manually in InDesign.", "keywords": ["Scale document dimensions manually"]},
-  {"topic": "Scale document to fit paper automatically", "file": "references/desktop/print/print-production-and-file-creation/scale-documents-for-printing/scale-document-to-fit-paper-automatically.md", "summary": "Open when looking up Scale document to fit paper automatically in InDesign.", "keywords": ["Scale document to fit paper automatically"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

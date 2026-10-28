@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Registering your application and webhook", "file": "cloud-services/photoshop-api-webhooks-and-adobe-i-o-events/registering-your-application-and-webhook.md", "summary": "Open when looking up Registering your application and webhook in Photoshop.", "keywords": ["Registering your application and webhook"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "openExternal(url, developerText)", "file": "references/uxp/shell/open-external.md", "summary": "Open when looking up openExternal(url, developerText) in Photoshop.", "keywords": ["openExternal(url, developerText)"]},
-  {"topic": "openPath(path, developerText)", "file": "references/uxp/shell/open-path.md", "summary": "Open when looking up openPath(path, developerText) in Photoshop.", "keywords": ["openPath(path, developerText)"]},
-  {"topic": "require('uxp').shell", "file": "references/uxp/shell/require-uxp-shell.md", "summary": "Open when looking up require('uxp').shell in Photoshop.", "keywords": ["require('uxp').shell"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

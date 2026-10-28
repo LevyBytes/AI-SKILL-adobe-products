@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Quality parameter not accepted", "file": "cloud-services/format-conversion-migration/common-migration-issues/quality-parameter-not-accepted.md", "summary": "Open when looking up Quality parameter not accepted in Photoshop.", "keywords": ["Quality parameter not accepted"]},
+  {"topic": "Storage parameter not recognized", "file": "cloud-services/format-conversion-migration/common-migration-issues/storage-parameter-not-recognized.md", "summary": "Open when looking up Storage parameter not recognized in Photoshop.", "keywords": ["Storage parameter not recognized"]},
+  {"topic": "Type vs MediaType", "file": "cloud-services/format-conversion-migration/common-migration-issues/type-vs-media-type.md", "summary": "Open when looking up Type vs MediaType in Photoshop.", "keywords": ["Type vs MediaType"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Change ruler guide stacking order", "file": "references/desktop/layout-and-grid-tools/rulers-and-measure-tools/manage-ruler-guides/change-ruler-guide-stacking-order.md", "summary": "Open when looking up Change ruler guide stacking order in InDesign.", "keywords": ["Change ruler guide stacking order"]},
-  {"topic": "Delete ruler guides", "file": "references/desktop/layout-and-grid-tools/rulers-and-measure-tools/manage-ruler-guides/delete-ruler-guides.md", "summary": "Open when looking up Delete ruler guides in InDesign.", "keywords": ["Delete ruler guides"]},
-  {"topic": "Lock and unlock ruler guides", "file": "references/desktop/layout-and-grid-tools/rulers-and-measure-tools/manage-ruler-guides/lock-and-unlock-ruler-guides.md", "summary": "Open when looking up Lock and unlock ruler guides in InDesign.", "keywords": ["Lock and unlock ruler guides"]},
-  {"topic": "Move ruler guides", "file": "references/desktop/layout-and-grid-tools/rulers-and-measure-tools/manage-ruler-guides/move-ruler-guides.md", "summary": "Open when looking up Move ruler guides in InDesign.", "keywords": ["Move ruler guides"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

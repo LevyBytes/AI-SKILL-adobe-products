@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "activated", "file": "scripting/annot-rich-media/activated.md", "summary": "Open when looking up activated in Acrobat.", "keywords": ["activated"]},
+  {"topic": "callAS", "file": "scripting/annot-rich-media/call-as.md", "summary": "Open when looking up callAS in Acrobat.", "keywords": ["callAS"]},
+  {"topic": "context3D", "file": "scripting/annot-rich-media/context3-d.md", "summary": "Open when looking up context3D in Acrobat.", "keywords": ["context3D"]},
+  {"topic": "JavaScript APIs - AnnotRichMedia", "file": "scripting/annot-rich-media/java-script-apis-annot-rich-media.md", "summary": "Open when looking up JavaScript APIs - AnnotRichMedia in Acrobat.", "keywords": ["JavaScript APIs - AnnotRichMedia"]},
+  {"topic": "name", "file": "scripting/annot-rich-media/name.md", "summary": "Open when looking up name in Acrobat.", "keywords": ["name"]},
+  {"topic": "page", "file": "scripting/annot-rich-media/page.md", "summary": "Open when looking up page in Acrobat.", "keywords": ["page"]},
+  {"topic": "rect", "file": "scripting/annot-rich-media/rect.md", "summary": "Open when looking up rect in Acrobat.", "keywords": ["rect"]},
+  {"topic": "subtype", "file": "scripting/annot-rich-media/subtype.md", "summary": "Open when looking up subtype in Acrobat.", "keywords": ["subtype"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

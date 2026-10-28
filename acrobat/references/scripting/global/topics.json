@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Creating global properties", "file": "references/scripting/global/creating-global-properties.md", "summary": "Open when looking up Creating global properties in Acrobat.", "keywords": ["Creating global properties"]},
-  {"topic": "Deleting global properties", "file": "references/scripting/global/deleting-global-properties.md", "summary": "Open when looking up Deleting global properties in Acrobat.", "keywords": ["Deleting global properties"]},
-  {"topic": "Global object security policy", "file": "references/scripting/global/global-object-security-policy.md", "summary": "Open when looking up Global object security policy in Acrobat.", "keywords": ["Global object security policy"]},
-  {"topic": "JavaScript APIs - global", "file": "references/scripting/global/java-script-apis-global.md", "summary": "Open when looking up JavaScript APIs - global in Acrobat.", "keywords": ["JavaScript APIs - global"]},
-  {"topic": "setPersistent", "file": "references/scripting/global/set-persistent.md", "summary": "Open when looking up setPersistent in Acrobat.", "keywords": ["setPersistent"]},
-  {"topic": "subscribe", "file": "references/scripting/global/subscribe.md", "summary": "Open when looking up subscribe in Acrobat.", "keywords": ["subscribe"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Clear corrupt recovery data", "file": "desktop/troubleshoot/files-and-output/recover-in-design-documents/clear-corrupt-recovery-data.md", "summary": "Open when looking up Clear corrupt recovery data in InDesign.", "keywords": ["Clear corrupt recovery data"]},
+  {"topic": "Corrupt InDesign preferences", "file": "desktop/troubleshoot/files-and-output/recover-in-design-documents/corrupt-in-design-preferences.md", "summary": "Open when looking up Corrupt InDesign preferences in InDesign.", "keywords": ["Corrupt InDesign preferences"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

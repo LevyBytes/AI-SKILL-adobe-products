@@ -1,0 +1,18 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "bodyRowCount", "file": "document-model/table/body-row-count.md", "summary": "Open when looking up bodyRowCount in InDesign.", "keywords": ["bodyRowCount"]},
+  {"topic": "breakFooters", "file": "document-model/table/break-footers.md", "summary": "Open when looking up breakFooters in InDesign.", "keywords": ["breakFooters"]},
+  {"topic": "breakHeaders", "file": "document-model/table/break-headers.md", "summary": "Open when looking up breakHeaders in InDesign.", "keywords": ["breakHeaders"]},
+  {"topic": "cells", "file": "document-model/table/cells.md", "summary": "Open when looking up cells in InDesign.", "keywords": ["cells"]},
+  {"topic": "columnCount", "file": "document-model/table/column-count.md", "summary": "Open when looking up columnCount in InDesign.", "keywords": ["columnCount"]},
+  {"topic": "columns", "file": "document-model/table/columns.md", "summary": "Open when looking up columns in InDesign.", "keywords": ["columns"]},
+  {"topic": "displayCollapsed", "file": "document-model/table/display-collapsed.md", "summary": "Open when looking up displayCollapsed in InDesign.", "keywords": ["displayCollapsed"]},
+  {"topic": "displayOrder", "file": "document-model/table/display-order.md", "summary": "Open when looking up displayOrder in InDesign.", "keywords": ["displayOrder"]},
+  {"topic": "footerRowCount", "file": "document-model/table/footer-row-count.md", "summary": "Open when looking up footerRowCount in InDesign.", "keywords": ["footerRowCount"]},
+  {"topic": "headerRowCount", "file": "document-model/table/header-row-count.md", "summary": "Open when looking up headerRowCount in InDesign.", "keywords": ["headerRowCount"]},
+  {"topic": "rows", "file": "document-model/table/rows.md", "summary": "Open when looking up rows in InDesign.", "keywords": ["rows"]},
+  {"topic": "skipFirstHeader", "file": "document-model/table/skip-first-header.md", "summary": "Open when looking up skipFirstHeader in InDesign.", "keywords": ["skipFirstHeader"]},
+  {"topic": "skipLastFooter", "file": "document-model/table/skip-last-footer.md", "summary": "Open when looking up skipLastFooter in InDesign.", "keywords": ["skipLastFooter"]},
+  {"topic": "tableDirection", "file": "document-model/table/table-direction.md", "summary": "Open when looking up tableDirection in InDesign.", "keywords": ["tableDirection"]},
+  {"topic": "unmerge", "file": "document-model/table/unmerge.md", "summary": "Open when looking up unmerge in InDesign.", "keywords": ["unmerge"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

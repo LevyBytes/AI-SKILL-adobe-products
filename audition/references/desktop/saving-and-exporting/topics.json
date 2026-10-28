@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "audition", "topics": [
-  {"topic": "Save and export audio files - Save audio files", "file": "references/desktop/saving-and-exporting/save-and-export-audio-files-save-audio-files.md", "summary": "Open when looking up Save and export audio files - Save audio files in Audition.", "keywords": ["Save and export audio files - Save audio files"]},
-  {"topic": "Save and export audio files - Save audio files references", "file": "references/desktop/saving-and-exporting/save-and-export-audio-files-save-audio-files/reference-index.md", "summary": "Open when looking up Save and export audio files - Save audio files in Audition.", "keywords": ["Save and export audio files - Save audio files references"]},
-  {"topic": "Viewing and editing XMP metadata", "file": "references/desktop/saving-and-exporting/viewing-and-editing-xmp-metadata.md", "summary": "Open when looking up Viewing and editing XMP metadata in Audition.", "keywords": ["Viewing and editing XMP metadata"]},
-  {"topic": "Viewing and editing XMP metadata references", "file": "references/desktop/saving-and-exporting/viewing-and-editing-xmp-metadata/reference-index.md", "summary": "Open when looking up Viewing and editing XMP metadata in Audition.", "keywords": ["Viewing and editing XMP metadata references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

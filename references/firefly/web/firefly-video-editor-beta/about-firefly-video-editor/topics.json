@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "About Firefly video editor (beta)", "file": "web/firefly-video-editor-beta/about-firefly-video-editor/about-firefly-video-editor-beta.md", "summary": "Open when looking up About Firefly video editor (beta) in Firefly.", "keywords": ["About Firefly video editor (beta)"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

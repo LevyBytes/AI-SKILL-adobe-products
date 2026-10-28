@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Enable Secure Reliable Transport stream", "file": "references/desktop/render-and-export/stream-video/enable-secure-reliable-transport-stream.md", "summary": "Open when looking up Enable Secure Reliable Transport stream in Premiere Pro.", "keywords": ["Enable Secure Reliable Transport stream"]},
-  {"topic": "Secure reliable transport modes", "file": "references/desktop/render-and-export/stream-video/secure-reliable-transport-modes.md", "summary": "Open when looking up Secure reliable transport modes in Premiere Pro.", "keywords": ["Secure reliable transport modes"]},
-  {"topic": "SRT settings", "file": "references/desktop/render-and-export/stream-video/srt-settings.md", "summary": "Open when looking up SRT settings in Premiere Pro.", "keywords": ["SRT settings"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

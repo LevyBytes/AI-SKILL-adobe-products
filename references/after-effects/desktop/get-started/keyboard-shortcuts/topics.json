@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Keyboard Shortcuts Reference", "file": "desktop/get-started/keyboard-shortcuts/keyboard-shortcuts-reference.md", "summary": "Open when looking up Keyboard Shortcuts Reference in After Effects.", "keywords": ["Keyboard Shortcuts Reference"]},
+  {"topic": "Keyboard Shortcuts Reference references", "file": "desktop/get-started/keyboard-shortcuts/keyboard-shortcuts-reference/reference-index.md", "summary": "Open when looking up Keyboard Shortcuts Reference in After Effects.", "keywords": ["Keyboard Shortcuts Reference references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

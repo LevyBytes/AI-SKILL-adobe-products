@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/audition", "topics": [
+  {"topic": "DeClicker options", "file": "desktop/effects/diagnostics-effects-waveform-editor-only/de-clicker-options.md", "summary": "Open when looking up DeClicker options in Audition.", "keywords": ["DeClicker options"]},
+  {"topic": "DeClipper options", "file": "desktop/effects/diagnostics-effects-waveform-editor-only/de-clipper-options.md", "summary": "Open when looking up DeClipper options in Audition.", "keywords": ["DeClipper options"]},
+  {"topic": "Delete Silence and Mark Audio options", "file": "desktop/effects/diagnostics-effects-waveform-editor-only/delete-silence-and-mark-audio-options.md", "summary": "Open when looking up Delete Silence and Mark Audio options in Audition.", "keywords": ["Delete Silence and Mark Audio options"]},
+  {"topic": "Diagnose and repair, delete, or mark audio", "file": "desktop/effects/diagnostics-effects-waveform-editor-only/diagnose-and-repair-delete-or-mark-audio.md", "summary": "Open when looking up Diagnose and repair, delete, or mark audio in Audition.", "keywords": ["Diagnose and repair, delete, or mark audio"]},
+  {"topic": "Mic check", "file": "desktop/effects/diagnostics-effects-waveform-editor-only/mic-check.md", "summary": "Open when looking up Mic check in Audition.", "keywords": ["Mic check"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

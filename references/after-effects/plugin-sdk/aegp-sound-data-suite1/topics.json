@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "AEGP_DisposeSoundData", "file": "plugin-sdk/aegp-sound-data-suite1/aegp-dispose-sound-data.md", "summary": "Open when looking up AEGP_DisposeSoundData in After Effects.", "keywords": ["AEGP_DisposeSoundData"]},
+  {"topic": "AEGP_GetNumSamples", "file": "plugin-sdk/aegp-sound-data-suite1/aegp-get-num-samples.md", "summary": "Open when looking up AEGP_GetNumSamples in After Effects.", "keywords": ["AEGP_GetNumSamples"]},
+  {"topic": "AEGP_GetSoundDataFormat", "file": "plugin-sdk/aegp-sound-data-suite1/aegp-get-sound-data-format.md", "summary": "Open when looking up AEGP_GetSoundDataFormat in After Effects.", "keywords": ["AEGP_GetSoundDataFormat"]},
+  {"topic": "AEGP_LockSoundDataSamples", "file": "plugin-sdk/aegp-sound-data-suite1/aegp-lock-sound-data-samples.md", "summary": "Open when looking up AEGP_LockSoundDataSamples in After Effects.", "keywords": ["AEGP_LockSoundDataSamples"]},
+  {"topic": "AEGP_NewSoundData", "file": "plugin-sdk/aegp-sound-data-suite1/aegp-new-sound-data.md", "summary": "Open when looking up AEGP_NewSoundData in After Effects.", "keywords": ["AEGP_NewSoundData"]},
+  {"topic": "AEGP_UnlockSoundDataSamples", "file": "plugin-sdk/aegp-sound-data-suite1/aegp-unlock-sound-data-samples.md", "summary": "Open when looking up AEGP_UnlockSoundDataSamples in After Effects.", "keywords": ["AEGP_UnlockSoundDataSamples"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Add new audio or video tracks in Adobe Premiere.", "file": "desktop/add-tracks/add-new-audio-or-video-tracks-in-adobe-premiere.md", "summary": "Open when looking up Add new audio or video tracks in Adobe Premiere. in Premiere Pro.", "keywords": ["Add new audio or video tracks in Adobe Premiere."]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

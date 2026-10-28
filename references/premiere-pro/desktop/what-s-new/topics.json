@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "What's new", "file": "desktop/what-s-new/what-s-new.md", "summary": "Open when looking up What's new in Premiere Pro.", "keywords": ["What's new"]},
+  {"topic": "What’s new in Adobe Premiere on desktop", "file": "desktop/what-s-new/what-s-new-in-adobe-premiere-on-desktop.md", "summary": "Open when looking up What’s new in Adobe Premiere on desktop in Premiere Pro.", "keywords": ["What’s new in Adobe Premiere on desktop"]},
+  {"topic": "What’s new in Premiere (beta) desktop", "file": "desktop/what-s-new/what-s-new-in-premiere-beta-desktop.md", "summary": "Open when looking up What’s new in Premiere (beta) desktop in Premiere Pro.", "keywords": ["What’s new in Premiere (beta) desktop"]},
+  {"topic": "What’s new in Premiere (beta) desktop references", "file": "desktop/what-s-new/what-s-new-in-premiere-beta-desktop/reference-index.md", "summary": "Open when looking up What’s new in Premiere (beta) desktop in Premiere Pro.", "keywords": ["What’s new in Premiere (beta) desktop references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

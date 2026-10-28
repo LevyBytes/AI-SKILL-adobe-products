@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "fill-masked-areas.cjs", "file": "cloud-services/examples/masking/fill-masked-areas.cjs", "summary": "Open when looking up fill-masked-areas.cjs in Photoshop.", "keywords": ["fill-masked-areas.cjs"]},
+  {"topic": "masking-job-service.cjs", "file": "cloud-services/examples/masking/masking-job-service.cjs", "summary": "Open when looking up masking-job-service.cjs in Photoshop.", "keywords": ["masking-job-service.cjs"]},
+  {"topic": "Photoshop v1 masking examples", "file": "cloud-services/examples/masking/masking-example-setup.md", "summary": "Open when looking up Photoshop v1 masking examples in Photoshop.", "keywords": ["Photoshop v1 masking examples"]},
+  {"topic": "refine-mask.cjs", "file": "cloud-services/examples/masking/refine-mask.cjs", "summary": "Open when looking up refine-mask.cjs in Photoshop.", "keywords": ["refine-mask.cjs"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

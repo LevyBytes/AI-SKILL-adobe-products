@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Share a custom model with collaborators", "file": "web/custom-models/share-custom-models/share-a-custom-model-with-collaborators.md", "summary": "Open when looking up Share a custom model with collaborators in Firefly.", "keywords": ["Share a custom model with collaborators"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Communications overview - Messaging framework", "file": "scripting/messaging-framework/communications-overview-messaging-framework.md", "summary": "Open when looking up Communications overview - Messaging framework in Shared Adobe platform.", "keywords": ["Communications overview - Messaging framework"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

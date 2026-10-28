@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "colorDepth", "file": "scripting/monitor/color-depth.md", "summary": "Open when looking up colorDepth in Acrobat.", "keywords": ["colorDepth"]},
+  {"topic": "isPrimary", "file": "scripting/monitor/is-primary.md", "summary": "Open when looking up isPrimary in Acrobat.", "keywords": ["isPrimary"]},
+  {"topic": "JavaScript APIs - Monitor", "file": "scripting/monitor/java-script-apis-monitor.md", "summary": "Open when looking up JavaScript APIs - Monitor in Acrobat.", "keywords": ["JavaScript APIs - Monitor"]},
+  {"topic": "rect", "file": "scripting/monitor/rect.md", "summary": "Open when looking up rect in Acrobat.", "keywords": ["rect"]},
+  {"topic": "workRect", "file": "scripting/monitor/work-rect.md", "summary": "Open when looking up workRect in Acrobat.", "keywords": ["workRect"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

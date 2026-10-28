@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "gaussRandom()", "file": "references/desktop/random-numbers-methods/gauss-random.md", "summary": "Open when looking up gaussRandom() in After Effects.", "keywords": ["gaussRandom()"]},
-  {"topic": "noise(valOrArray)", "file": "references/desktop/random-numbers-methods/noise.md", "summary": "Open when looking up noise(valOrArray) in After Effects.", "keywords": ["noise(valOrArray)"]},
-  {"topic": "random()", "file": "references/desktop/random-numbers-methods/random.md", "summary": "Open when looking up random() in After Effects.", "keywords": ["random()"]},
-  {"topic": "seedRandom(offset, timeless=false)", "file": "references/desktop/random-numbers-methods/seed-random.md", "summary": "Open when looking up seedRandom(offset, timeless=false) in After Effects.", "keywords": ["seedRandom(offset, timeless=false)"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

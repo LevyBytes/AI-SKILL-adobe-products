@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "After Effects Beta Builds", "file": "references/plugin-sdk/what-s-new-in-the-after-effects-sdk-in-march-2021/after-effects-beta-builds.md", "summary": "Open when looking up After Effects Beta Builds in After Effects.", "keywords": ["After Effects Beta Builds"]},
-  {"topic": "Apple Silicon Support", "file": "references/plugin-sdk/what-s-new-in-the-after-effects-sdk-in-march-2021/apple-silicon-support.md", "summary": "Open when looking up Apple Silicon Support in After Effects.", "keywords": ["Apple Silicon Support"]},
-  {"topic": "Downloading the March 2021 SDK", "file": "references/plugin-sdk/what-s-new-in-the-after-effects-sdk-in-march-2021/downloading-the-march-2021-sdk.md", "summary": "Open when looking up Downloading the March 2021 SDK in After Effects.", "keywords": ["Downloading the March 2021 SDK"]},
-  {"topic": "Exporting Symbols from Effects", "file": "references/plugin-sdk/what-s-new-in-the-after-effects-sdk-in-march-2021/exporting-symbols-from-effects.md", "summary": "Open when looking up Exporting Symbols from Effects in After Effects.", "keywords": ["Exporting Symbols from Effects"]},
-  {"topic": "Multi-Frame Rendering Changes", "file": "references/plugin-sdk/what-s-new-in-the-after-effects-sdk-in-march-2021/multi-frame-rendering-changes.md", "summary": "Open when looking up Multi-Frame Rendering Changes in After Effects.", "keywords": ["Multi-Frame Rendering Changes"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

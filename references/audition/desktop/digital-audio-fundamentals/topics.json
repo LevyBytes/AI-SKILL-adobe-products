@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/audition", "topics": [
+  {"topic": "Digitizing audio", "file": "desktop/digital-audio-fundamentals/digitizing-audio.md", "summary": "Open when looking up Digitizing audio in Audition.", "keywords": ["Digitizing audio"]},
+  {"topic": "Digitizing audio references", "file": "desktop/digital-audio-fundamentals/digitizing-audio/reference-index.md", "summary": "Open when looking up Digitizing audio in Audition.", "keywords": ["Digitizing audio references"]},
+  {"topic": "Understanding sound", "file": "desktop/digital-audio-fundamentals/understanding-sound.md", "summary": "Open when looking up Understanding sound in Audition.", "keywords": ["Understanding sound"]},
+  {"topic": "Understanding sound references", "file": "desktop/digital-audio-fundamentals/understanding-sound/reference-index.md", "summary": "Open when looking up Understanding sound in Audition.", "keywords": ["Understanding sound references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

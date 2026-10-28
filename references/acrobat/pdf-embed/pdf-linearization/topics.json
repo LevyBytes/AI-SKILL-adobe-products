@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Display linearized PDFs", "file": "pdf-embed/pdf-linearization/display-linearized-pdfs.md", "summary": "Open when looking up Display linearized PDFs in Acrobat.", "keywords": ["Display linearized PDFs"]},
+  {"topic": "Enabling byte-streaming on a server", "file": "pdf-embed/pdf-linearization/enabling-byte-streaming-on-a-server.md", "summary": "Open when looking up Enabling byte-streaming on a server in Acrobat.", "keywords": ["Enabling byte-streaming on a server"]},
+  {"topic": "File Promise", "file": "pdf-embed/pdf-linearization/file-promise.md", "summary": "Open when looking up File Promise in Acrobat.", "keywords": ["File Promise"]},
+  {"topic": "File URL", "file": "pdf-embed/pdf-linearization/file-url.md", "summary": "Open when looking up File URL in Acrobat.", "keywords": ["File URL"]},
+  {"topic": "Other supported functionalities", "file": "pdf-embed/pdf-linearization/other-supported-functionalities.md", "summary": "Open when looking up Other supported functionalities in Acrobat.", "keywords": ["Other supported functionalities"]},
+  {"topic": "Supported browsers and platforms", "file": "pdf-embed/pdf-linearization/supported-browsers-and-platforms.md", "summary": "Open when looking up Supported browsers and platforms in Acrobat.", "keywords": ["Supported browsers and platforms"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

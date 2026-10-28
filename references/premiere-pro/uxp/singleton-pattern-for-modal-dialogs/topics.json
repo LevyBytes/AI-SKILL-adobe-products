@@ -1,0 +1,16 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "#runRoutine()", "file": "uxp/singleton-pattern-for-modal-dialogs/run-routine.md", "summary": "Open when looking up #runRoutine() in Premiere Pro.", "keywords": ["#runRoutine()"]},
+  {"topic": "createDialog()", "file": "uxp/singleton-pattern-for-modal-dialogs/create-dialog.md", "summary": "Open when looking up createDialog() in Premiere Pro.", "keywords": ["createDialog()"]},
+  {"topic": "Dialog modules and panel entrypoint", "file": "uxp/singleton-pattern-for-modal-dialogs/dialog-modules-and-panel-entrypoint.md", "summary": "Open when looking up Dialog modules and panel entrypoint in Premiere Pro.", "keywords": ["Dialog modules and panel entrypoint"]},
+  {"topic": "Dialog UI: fragments/dialog.html and fragments/styles.css", "file": "uxp/singleton-pattern-for-modal-dialogs/dialog-ui-fragments-dialog-html-and-fragments-styles-css.md", "summary": "Open when looking up Dialog UI: fragments/dialog.html and fragments/styles.css in Premiere Pro.", "keywords": ["Dialog UI: fragments/dialog.html and fragments/styles.css"]},
+  {"topic": "Example: real-world Dialog", "file": "uxp/singleton-pattern-for-modal-dialogs/example-real-world-dialog.md", "summary": "Open when looking up Example: real-world Dialog in Premiere Pro.", "keywords": ["Example: real-world Dialog"]},
+  {"topic": "getParams()", "file": "uxp/singleton-pattern-for-modal-dialogs/get-params.md", "summary": "Open when looking up getParams() in Premiere Pro.", "keywords": ["getParams()"]},
+  {"topic": "Global Configuration Object", "file": "uxp/singleton-pattern-for-modal-dialogs/global-configuration-object.md", "summary": "Open when looking up Global Configuration Object in Premiere Pro.", "keywords": ["Global Configuration Object"]},
+  {"topic": "Implementation Details", "file": "uxp/singleton-pattern-for-modal-dialogs/implementation-details.md", "summary": "Open when looking up Implementation Details in Premiere Pro.", "keywords": ["Implementation Details"]},
+  {"topic": "initDialog()", "file": "uxp/singleton-pattern-for-modal-dialogs/init-dialog.md", "summary": "Open when looking up initDialog() in Premiere Pro.", "keywords": ["initDialog()"]},
+  {"topic": "Manifest: manifest.json", "file": "uxp/singleton-pattern-for-modal-dialogs/manifest-manifest-json.md", "summary": "Open when looking up Manifest: manifest.json in Premiere Pro.", "keywords": ["Manifest: manifest.json"]},
+  {"topic": "Panel UI: index.html and styles.css", "file": "uxp/singleton-pattern-for-modal-dialogs/panel-ui-index-html-and-styles-css.md", "summary": "Open when looking up Panel UI: index.html and styles.css in Premiere Pro.", "keywords": ["Panel UI: index.html and styles.css"]},
+  {"topic": "runDialog()", "file": "uxp/singleton-pattern-for-modal-dialogs/run-dialog.md", "summary": "Open when looking up runDialog() in Premiere Pro.", "keywords": ["runDialog()"]},
+  {"topic": "Singleton Pattern", "file": "uxp/singleton-pattern-for-modal-dialogs/singleton-pattern.md", "summary": "Open when looking up Singleton Pattern in Premiere Pro.", "keywords": ["Singleton Pattern"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "NORMAL_MARKER", "file": "references/document-model/footnote-marker-positioning/normalmarker.md", "summary": "Open when looking up NORMAL_MARKER in InDesign.", "keywords": ["NORMAL_MARKER"]},
-  {"topic": "RUBY_MARKER", "file": "references/document-model/footnote-marker-positioning/rubymarker.md", "summary": "Open when looking up RUBY_MARKER in InDesign.", "keywords": ["RUBY_MARKER"]},
-  {"topic": "SUBSCRIPT_MARKER", "file": "references/document-model/footnote-marker-positioning/subscriptmarker.md", "summary": "Open when looking up SUBSCRIPT_MARKER in InDesign.", "keywords": ["SUBSCRIPT_MARKER"]},
-  {"topic": "SUPERSCRIPT_MARKER", "file": "references/document-model/footnote-marker-positioning/superscriptmarker.md", "summary": "Open when looking up SUPERSCRIPT_MARKER in InDesign.", "keywords": ["SUPERSCRIPT_MARKER"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "app.getColorProfiles", "file": "references/uxp/release-history/photoshop-api-changelog-photoshop-24-1-december-2022/app-get-color-profiles.md", "summary": "Open when looking up app.getColorProfiles in Photoshop.", "keywords": ["app.getColorProfiles"]},
-  {"topic": "CountItems support", "file": "references/uxp/release-history/photoshop-api-changelog-photoshop-24-1-december-2022/count-items-support.md", "summary": "Open when looking up CountItems support in Photoshop.", "keywords": ["CountItems support"]},
-  {"topic": "Layer blend modes now throw errors in more cases", "file": "references/uxp/release-history/photoshop-api-changelog-photoshop-24-1-december-2022/layer-blend-modes-now-throw-errors-in-more-cases.md", "summary": "Open when looking up Layer blend modes now throw errors in more cases in Photoshop.", "keywords": ["Layer blend modes now throw errors in more cases"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

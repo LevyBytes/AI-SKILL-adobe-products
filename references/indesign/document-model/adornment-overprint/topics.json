@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "AUTO", "file": "document-model/adornment-overprint/auto.md", "summary": "Open when looking up AUTO in InDesign.", "keywords": ["AUTO"]},
+  {"topic": "OVERPRINT_OFF", "file": "document-model/adornment-overprint/overprintoff.md", "summary": "Open when looking up OVERPRINT_OFF in InDesign.", "keywords": ["OVERPRINT_OFF"]},
+  {"topic": "OVERPRINT_ON", "file": "document-model/adornment-overprint/overprinton.md", "summary": "Open when looking up OVERPRINT_ON in InDesign.", "keywords": ["OVERPRINT_ON"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

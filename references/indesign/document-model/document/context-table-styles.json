@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "allCellStyles", "file": "document-model/document/all-cell-styles.md", "summary": "Open when looking up allCellStyles in InDesign.", "keywords": ["allCellStyles"]},
+  {"topic": "allTableStyles", "file": "document-model/document/all-table-styles.md", "summary": "Open when looking up allTableStyles in InDesign.", "keywords": ["allTableStyles"]},
+  {"topic": "cellStyleGroups", "file": "document-model/document/cell-style-groups.md", "summary": "Open when looking up cellStyleGroups in InDesign.", "keywords": ["cellStyleGroups"]},
+  {"topic": "cellStyleMappings", "file": "document-model/document/cell-style-mappings.md", "summary": "Open when looking up cellStyleMappings in InDesign.", "keywords": ["cellStyleMappings"]},
+  {"topic": "cellStyles", "file": "document-model/document/cell-styles.md", "summary": "Open when looking up cellStyles in InDesign.", "keywords": ["cellStyles"]},
+  {"topic": "tableStyleGroups", "file": "document-model/document/table-style-groups.md", "summary": "Open when looking up tableStyleGroups in InDesign.", "keywords": ["tableStyleGroups"]},
+  {"topic": "tableStyleMappings", "file": "document-model/document/table-style-mappings.md", "summary": "Open when looking up tableStyleMappings in InDesign.", "keywords": ["tableStyleMappings"]},
+  {"topic": "tableStyles", "file": "document-model/document/table-styles.md", "summary": "Open when looking up tableStyles in InDesign.", "keywords": ["tableStyles"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

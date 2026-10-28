@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "getAlternateLayoutsForFolio", "file": "document-model/document/get-alternate-layouts-for-folio.md", "summary": "Open when looking up getAlternateLayoutsForFolio in InDesign.", "keywords": ["getAlternateLayoutsForFolio"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

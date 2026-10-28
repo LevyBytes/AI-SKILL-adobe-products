@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Print a book", "file": "desktop/print/print-production-and-file-creation/print-documents-and-books/print-a-book.md", "summary": "Open when looking up Print a book in InDesign.", "keywords": ["Print a book"]},
+  {"topic": "Print a single document", "file": "desktop/print/print-production-and-file-creation/print-documents-and-books/print-a-single-document.md", "summary": "Open when looking up Print a single document in InDesign.", "keywords": ["Print a single document"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

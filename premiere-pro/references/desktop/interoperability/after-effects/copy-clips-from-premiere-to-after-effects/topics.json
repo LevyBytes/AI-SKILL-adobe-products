@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Copy assets to After Effects", "file": "references/desktop/interoperability/after-effects/copy-clips-from-premiere-to-after-effects/copy-assets-to-after-effects.md", "summary": "Open when looking up Copy assets to After Effects in Premiere Pro.", "keywords": ["Copy assets to After Effects"]},
-  {"topic": "Results of pasting into After Effects", "file": "references/desktop/interoperability/after-effects/copy-clips-from-premiere-to-after-effects/results-of-pasting-into-after-effects.md", "summary": "Open when looking up Results of pasting into After Effects in Premiere Pro.", "keywords": ["Results of pasting into After Effects"]},
-  {"topic": "What transfers between applications", "file": "references/desktop/interoperability/after-effects/copy-clips-from-premiere-to-after-effects/what-transfers-between-applications.md", "summary": "Open when looking up What transfers between applications in Premiere Pro.", "keywords": ["What transfers between applications"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

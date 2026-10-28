@@ -1,0 +1,19 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "ExportOptionsGIF.antiAliasing", "file": "scripting/export-options-gif/anti-aliasing.md", "summary": "Open when looking up ExportOptionsGIF.antiAliasing in Illustrator.", "keywords": ["ExportOptionsGIF.antiAliasing"]},
+  {"topic": "ExportOptionsGIF.artBoardClipping", "file": "scripting/export-options-gif/art-board-clipping.md", "summary": "Open when looking up ExportOptionsGIF.artBoardClipping in Illustrator.", "keywords": ["ExportOptionsGIF.artBoardClipping"]},
+  {"topic": "ExportOptionsGIF.colorCount", "file": "scripting/export-options-gif/color-count.md", "summary": "Open when looking up ExportOptionsGIF.colorCount in Illustrator.", "keywords": ["ExportOptionsGIF.colorCount"]},
+  {"topic": "ExportOptionsGIF.colorDither", "file": "scripting/export-options-gif/color-dither.md", "summary": "Open when looking up ExportOptionsGIF.colorDither in Illustrator.", "keywords": ["ExportOptionsGIF.colorDither"]},
+  {"topic": "ExportOptionsGIF.colorReduction", "file": "scripting/export-options-gif/color-reduction.md", "summary": "Open when looking up ExportOptionsGIF.colorReduction in Illustrator.", "keywords": ["ExportOptionsGIF.colorReduction"]},
+  {"topic": "ExportOptionsGIF.ditherPercent", "file": "scripting/export-options-gif/dither-percent.md", "summary": "Open when looking up ExportOptionsGIF.ditherPercent in Illustrator.", "keywords": ["ExportOptionsGIF.ditherPercent"]},
+  {"topic": "ExportOptionsGIF.horizontalScale", "file": "scripting/export-options-gif/horizontal-scale.md", "summary": "Open when looking up ExportOptionsGIF.horizontalScale in Illustrator.", "keywords": ["ExportOptionsGIF.horizontalScale"]},
+  {"topic": "ExportOptionsGIF.infoLossPercent", "file": "scripting/export-options-gif/info-loss-percent.md", "summary": "Open when looking up ExportOptionsGIF.infoLossPercent in Illustrator.", "keywords": ["ExportOptionsGIF.infoLossPercent"]},
+  {"topic": "ExportOptionsGIF.interlaced", "file": "scripting/export-options-gif/interlaced.md", "summary": "Open when looking up ExportOptionsGIF.interlaced in Illustrator.", "keywords": ["ExportOptionsGIF.interlaced"]},
+  {"topic": "ExportOptionsGIF.matte", "file": "scripting/export-options-gif/matte.md", "summary": "Open when looking up ExportOptionsGIF.matte in Illustrator.", "keywords": ["ExportOptionsGIF.matte"]},
+  {"topic": "ExportOptionsGIF.matteColor", "file": "scripting/export-options-gif/matte-color.md", "summary": "Open when looking up ExportOptionsGIF.matteColor in Illustrator.", "keywords": ["ExportOptionsGIF.matteColor"]},
+  {"topic": "ExportOptionsGIF.saveAsHTML", "file": "scripting/export-options-gif/save-as-html.md", "summary": "Open when looking up ExportOptionsGIF.saveAsHTML in Illustrator.", "keywords": ["ExportOptionsGIF.saveAsHTML"]},
+  {"topic": "ExportOptionsGIF.transparency", "file": "scripting/export-options-gif/transparency.md", "summary": "Open when looking up ExportOptionsGIF.transparency in Illustrator.", "keywords": ["ExportOptionsGIF.transparency"]},
+  {"topic": "ExportOptionsGIF.typename", "file": "scripting/export-options-gif/typename.md", "summary": "Open when looking up ExportOptionsGIF.typename in Illustrator.", "keywords": ["ExportOptionsGIF.typename"]},
+  {"topic": "ExportOptionsGIF.verticalScale", "file": "scripting/export-options-gif/vertical-scale.md", "summary": "Open when looking up ExportOptionsGIF.verticalScale in Illustrator.", "keywords": ["ExportOptionsGIF.verticalScale"]},
+  {"topic": "ExportOptionsGIF.webSnap", "file": "scripting/export-options-gif/web-snap.md", "summary": "Open when looking up ExportOptionsGIF.webSnap in Illustrator.", "keywords": ["ExportOptionsGIF.webSnap"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

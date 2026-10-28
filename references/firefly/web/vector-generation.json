@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Generate vectors references", "file": "web/generate-vectors/reference-index.md", "summary": "Open when looking up Generate vectors in Firefly.", "keywords": ["Generate vectors references"]},
+  {"topic": "Generate vectors using partner models references", "file": "web/generate-vectors-using-partner-models/reference-index.md", "summary": "Open when looking up Generate vectors using partner models in Firefly.", "keywords": ["Generate vectors using partner models references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

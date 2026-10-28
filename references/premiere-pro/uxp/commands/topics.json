@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Command Traits", "file": "uxp/commands/command-traits.md", "summary": "Open when looking up Command Traits in Premiere Pro.", "keywords": ["Command Traits"]},
+  {"topic": "Good Fits for Commands", "file": "uxp/commands/good-fits-for-commands.md", "summary": "Open when looking up Good Fits for Commands in Premiere Pro.", "keywords": ["Good Fits for Commands"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

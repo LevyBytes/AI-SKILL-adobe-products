@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Split pdf into number of files example setup", "file": "pdf-services/examples/node/split-pdf-into-number-of-files/split-pdf-into-number-of-files-setup.md", "summary": "Open when looking up Split pdf into number of files example setup in Acrobat.", "keywords": ["Split pdf into number of files example setup"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

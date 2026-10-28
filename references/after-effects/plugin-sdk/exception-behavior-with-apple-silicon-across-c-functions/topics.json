@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Apple Silicon Support - Exception Behavior with Apple Silicon Across \"C\" Functions", "file": "plugin-sdk/exception-behavior-with-apple-silicon-across-c-functions/exception-behavior-with-apple-silicon-across-c-functions.md", "summary": "Open when looking up Apple Silicon Support - Exception Behavior with Apple Silicon Across \"C\" Functions in After Effects.", "keywords": ["Apple Silicon Support - Exception Behavior with Apple Silicon Across \"C\" Functions"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

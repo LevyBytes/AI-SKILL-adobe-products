@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": ".NET", "file": "pdf-services/get-pdf-properties/net.md", "summary": "Open when looking up .NET in Acrobat.", "keywords": [".NET"]},
+  {"topic": "Fetch PDF Properties", "file": "pdf-services/get-pdf-properties/fetch-pdf-properties.md", "summary": "Open when looking up Fetch PDF Properties in Acrobat.", "keywords": ["Fetch PDF Properties"]},
+  {"topic": "Java", "file": "pdf-services/get-pdf-properties/java.md", "summary": "Open when looking up Java in Acrobat.", "keywords": ["Java"]},
+  {"topic": "Node JS", "file": "pdf-services/get-pdf-properties/node-js.md", "summary": "Open when looking up Node JS in Acrobat.", "keywords": ["Node JS"]},
+  {"topic": "Python", "file": "pdf-services/get-pdf-properties/python.md", "summary": "Open when looking up Python in Acrobat.", "keywords": ["Python"]},
+  {"topic": "REST API", "file": "pdf-services/get-pdf-properties/rest-api.md", "summary": "Open when looking up REST API in Acrobat.", "keywords": ["REST API"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

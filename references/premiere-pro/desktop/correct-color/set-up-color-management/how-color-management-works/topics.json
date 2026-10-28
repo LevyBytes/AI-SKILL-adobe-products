@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Color Management and sequences", "file": "desktop/correct-color/set-up-color-management/how-color-management-works/color-management-and-sequences.md", "summary": "Open when looking up Color Management and sequences in Premiere Pro.", "keywords": ["Color Management and sequences"]},
+  {"topic": "Color Management and source media", "file": "desktop/correct-color/set-up-color-management/how-color-management-works/color-management-and-source-media.md", "summary": "Open when looking up Color Management and source media in Premiere Pro.", "keywords": ["Color Management and source media"]},
+  {"topic": "Monitor and export output color space", "file": "desktop/correct-color/set-up-color-management/how-color-management-works/monitor-and-export-output-color-space.md", "summary": "Open when looking up Monitor and export output color space in Premiere Pro.", "keywords": ["Monitor and export output color space"]},
+  {"topic": "Tone mapping and Gamut Compression", "file": "desktop/correct-color/set-up-color-management/how-color-management-works/tone-mapping-and-gamut-compression.md", "summary": "Open when looking up Tone mapping and Gamut Compression in Premiere Pro.", "keywords": ["Tone mapping and Gamut Compression"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

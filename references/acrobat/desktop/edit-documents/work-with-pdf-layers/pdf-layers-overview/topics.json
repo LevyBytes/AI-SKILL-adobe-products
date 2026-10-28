@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Common uses for PDF layers", "file": "desktop/edit-documents/work-with-pdf-layers/pdf-layers-overview/common-uses-for-pdf-layers.md", "summary": "Open when looking up Common uses for PDF layers in Acrobat.", "keywords": ["Common uses for PDF layers"]},
+  {"topic": "Work with PDF layers", "file": "desktop/edit-documents/work-with-pdf-layers/pdf-layers-overview/work-with-pdf-layers.md", "summary": "Open when looking up Work with PDF layers in Acrobat.", "keywords": ["Work with PDF layers"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

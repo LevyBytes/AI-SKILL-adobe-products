@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Key features of PDF forms", "file": "desktop/work-with-pdf-forms/explore-pdf-forms-basics/pdf-forms-overview/key-features-of-pdf-forms.md", "summary": "Open when looking up Key features of PDF forms in Acrobat.", "keywords": ["Key features of PDF forms"]},
+  {"topic": "Types of PDF forms", "file": "desktop/work-with-pdf-forms/explore-pdf-forms-basics/pdf-forms-overview/types-of-pdf-forms.md", "summary": "Open when looking up Types of PDF forms in Acrobat.", "keywords": ["Types of PDF forms"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

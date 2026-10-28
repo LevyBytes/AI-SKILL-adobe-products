@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Add artboards instantly", "file": "desktop/create-and-add-new-artboards/add-artboards-instantly.md", "summary": "Open when looking up Add artboards instantly in Illustrator.", "keywords": ["Add artboards instantly"]},
+  {"topic": "Add new artboards", "file": "desktop/create-and-add-new-artboards/add-new-artboards.md", "summary": "Open when looking up Add new artboards in Illustrator.", "keywords": ["Add new artboards"]},
+  {"topic": "Learn how to create and add new artboards.", "file": "desktop/create-and-add-new-artboards/learn-how-to-create-and-add-new-artboards.md", "summary": "Open when looking up Learn how to create and add new artboards. in Illustrator.", "keywords": ["Learn how to create and add new artboards."]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

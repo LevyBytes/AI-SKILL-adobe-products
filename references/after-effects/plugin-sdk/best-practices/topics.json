@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Tips & Tricks - Best Practices", "file": "plugin-sdk/best-practices/tips-tricks-best-practices.md", "summary": "Open when looking up Tips & Tricks - Best Practices in After Effects.", "keywords": ["Tips & Tricks - Best Practices"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

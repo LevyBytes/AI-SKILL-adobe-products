@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Delete audio or video tracks in Adobe Premiere.", "file": "desktop/delete-tracks/delete-audio-or-video-tracks-in-adobe-premiere.md", "summary": "Open when looking up Delete audio or video tracks in Adobe Premiere. in Premiere Pro.", "keywords": ["Delete audio or video tracks in Adobe Premiere."]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

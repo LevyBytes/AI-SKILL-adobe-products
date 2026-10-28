@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Enable Multi-Frame Rendering", "file": "plugin-sdk/how-to-test-whether-an-effect-is-thread-safe/enable-multi-frame-rendering.md", "summary": "Open when looking up Enable Multi-Frame Rendering in After Effects.", "keywords": ["Enable Multi-Frame Rendering"]},
+  {"topic": "Multi-Frame Rendering in AE - How to test whether an effect is Thread-Safe", "file": "plugin-sdk/how-to-test-whether-an-effect-is-thread-safe/how-to-test-whether-an-effect-is-thread-safe.md", "summary": "Open when looking up Multi-Frame Rendering in AE - How to test whether an effect is Thread-Safe in After Effects.", "keywords": ["Multi-Frame Rendering in AE - How to test whether an effect is Thread-Safe"]},
+  {"topic": "Test your effect", "file": "plugin-sdk/how-to-test-whether-an-effect-is-thread-safe/test-your-effect.md", "summary": "Open when looking up Test your effect in After Effects.", "keywords": ["Test your effect"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

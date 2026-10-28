@@ -1,0 +1,17 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "APIs within UXP", "file": "uxp/apis-within-uxp.md", "summary": "Open when looking up APIs within UXP in InDesign.", "keywords": ["APIs within UXP"]},
+  {"topic": "APIs within UXP references", "file": "uxp/apis-within-uxp/reference-index.md", "summary": "Open when looking up APIs within UXP in InDesign.", "keywords": ["APIs within UXP references"]},
+  {"topic": "Building your first plugin", "file": "uxp/building-your-first-plugin.md", "summary": "Open when looking up Building your first plugin in InDesign.", "keywords": ["Building your first plugin"]},
+  {"topic": "Building your first plugin references", "file": "uxp/building-your-first-plugin/reference-index.md", "summary": "Open when looking up Building your first plugin in InDesign.", "keywords": ["Building your first plugin references"]},
+  {"topic": "Building your first script", "file": "uxp/building-your-first-script.md", "summary": "Open when looking up Building your first script in InDesign.", "keywords": ["Building your first script"]},
+  {"topic": "Building your first script references", "file": "uxp/building-your-first-script/reference-index.md", "summary": "Open when looking up Building your first script in InDesign.", "keywords": ["Building your first script references"]},
+  {"topic": "Fundamentals", "file": "uxp/fundamentals.md", "summary": "Open when looking up Fundamentals in InDesign.", "keywords": ["Fundamentals"]},
+  {"topic": "InDesign and Unified Extensibility Platform (UXP)", "file": "uxp/in-design-and-unified-extensibility-platform-uxp.md", "summary": "Open when looking up InDesign and Unified Extensibility Platform (UXP) in InDesign.", "keywords": ["InDesign and Unified Extensibility Platform (UXP)"]},
+  {"topic": "Plugins references", "file": "uxp/plugins/reference-index.md", "summary": "Open when looking up Plugins in InDesign.", "keywords": ["Plugins references"]},
+  {"topic": "UXP for Adobe InDesign", "file": "uxp/uxp-for-adobe-in-design.md", "summary": "Open when looking up UXP for Adobe InDesign in InDesign.", "keywords": ["UXP for Adobe InDesign"]},
+  {"topic": "UXP for Adobe InDesign references", "file": "uxp/uxp-for-adobe-in-design/reference-index.md", "summary": "Open when looking up UXP for Adobe InDesign in InDesign.", "keywords": ["UXP for Adobe InDesign references"]},
+  {"topic": "UXP Plugins", "file": "uxp/uxp-plugins.md", "summary": "Open when looking up UXP Plugins in InDesign.", "keywords": ["UXP Plugins"]},
+  {"topic": "UXP scripts", "file": "uxp/uxp-scripts.md", "summary": "Open when looking up UXP scripts in InDesign.", "keywords": ["UXP scripts"]},
+  {"topic": "UXP Scripts and Plugins", "file": "uxp/uxp-scripts-and-plugins.md", "summary": "Open when looking up UXP Scripts and Plugins in InDesign.", "keywords": ["UXP Scripts and Plugins"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

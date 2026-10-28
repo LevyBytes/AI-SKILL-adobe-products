@@ -1,0 +1,17 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Global await", "file": "uxp/global-await.md", "summary": "Open when looking up Global await in InDesign.", "keywords": ["Global await"]},
+  {"topic": "InDesign Server", "file": "uxp/in-design-server.md", "summary": "Open when looking up InDesign Server in InDesign.", "keywords": ["InDesign Server"]},
+  {"topic": "Passing Arguments", "file": "uxp/passing-arguments.md", "summary": "Open when looking up Passing Arguments in InDesign.", "keywords": ["Passing Arguments"]},
+  {"topic": "Passing Arguments references", "file": "uxp/passing-arguments/reference-index.md", "summary": "Open when looking up Passing Arguments in InDesign.", "keywords": ["Passing Arguments references"]},
+  {"topic": "Sample references", "file": "uxp/sample/reference-index.md", "summary": "Open when looking up Sample in InDesign.", "keywords": ["Sample references"]},
+  {"topic": "Script lifespan", "file": "uxp/script-lifespan.md", "summary": "Open when looking up Script lifespan in InDesign.", "keywords": ["Script lifespan"]},
+  {"topic": "Script lifespan references", "file": "uxp/script-lifespan/reference-index.md", "summary": "Open when looking up Script lifespan in InDesign.", "keywords": ["Script lifespan references"]},
+  {"topic": "Scripts references", "file": "uxp/scripts/reference-index.md", "summary": "Open when looking up Scripts in InDesign.", "keywords": ["Scripts references"]},
+  {"topic": "Setting Script Result", "file": "uxp/setting-script-result.md", "summary": "Open when looking up Setting Script Result in InDesign.", "keywords": ["Setting Script Result"]},
+  {"topic": "Setting Script Result references", "file": "uxp/setting-script-result/reference-index.md", "summary": "Open when looking up Setting Script Result in InDesign.", "keywords": ["Setting Script Result references"]},
+  {"topic": "Tips and tricks for UXP scripts", "file": "uxp/tips-and-tricks-for-uxp-scripts.md", "summary": "Open when looking up Tips and tricks for UXP scripts in InDesign.", "keywords": ["Tips and tricks for UXP scripts"]},
+  {"topic": "Tips and tricks for UXP scripts references", "file": "uxp/tips-and-tricks-for-uxp-scripts/reference-index.md", "summary": "Open when looking up Tips and tricks for UXP scripts in InDesign.", "keywords": ["Tips and tricks for UXP scripts references"]},
+  {"topic": "UXP Scripts for InDesign Server", "file": "uxp/uxp-scripts-for-in-design-server.md", "summary": "Open when looking up UXP Scripts for InDesign Server in InDesign.", "keywords": ["UXP Scripts for InDesign Server"]},
+  {"topic": "UXP Scripts for InDesign Server references", "file": "uxp/uxp-scripts-for-in-design-server/reference-index.md", "summary": "Open when looking up UXP Scripts for InDesign Server in InDesign.", "keywords": ["UXP Scripts for InDesign Server references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

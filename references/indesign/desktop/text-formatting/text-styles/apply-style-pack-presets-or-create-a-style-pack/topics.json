@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Apply a preset Style Pack", "file": "desktop/text-formatting/text-styles/apply-style-pack-presets-or-create-a-style-pack/apply-a-preset-style-pack.md", "summary": "Open when looking up Apply a preset Style Pack in InDesign.", "keywords": ["Apply a preset Style Pack"]},
+  {"topic": "Create a Style Pack", "file": "desktop/text-formatting/text-styles/apply-style-pack-presets-or-create-a-style-pack/create-a-style-pack.md", "summary": "Open when looking up Create a Style Pack in InDesign.", "keywords": ["Create a Style Pack"]},
+  {"topic": "Using Paragraph Styles", "file": "desktop/text-formatting/text-styles/apply-style-pack-presets-or-create-a-style-pack/using-paragraph-styles.md", "summary": "Open when looking up Using Paragraph Styles in InDesign.", "keywords": ["Using Paragraph Styles"]},
+  {"topic": "Using the Style Packs panel", "file": "desktop/text-formatting/text-styles/apply-style-pack-presets-or-create-a-style-pack/using-the-style-packs-panel.md", "summary": "Open when looking up Using the Style Packs panel in InDesign.", "keywords": ["Using the Style Packs panel"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

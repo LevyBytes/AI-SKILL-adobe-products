@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "FlattenerPresets collection iteration", "file": "community-types/indesign/flattener-presets/collection-iteration.md", "summary": "Open when looking up FlattenerPresets collection iteration in Shared Adobe platform.", "keywords": ["FlattenerPresets collection iteration"]},
+  {"topic": "FlattenerPresets declaration", "file": "community-types/indesign/flattener-presets/declaration.md", "summary": "Open when looking up FlattenerPresets declaration in Shared Adobe platform.", "keywords": ["FlattenerPresets declaration"]},
+  {"topic": "FlattenerPresets named and indexed items", "file": "community-types/indesign/flattener-presets/named-and-indexed-items.md", "summary": "Open when looking up FlattenerPresets named and indexed items in Shared Adobe platform.", "keywords": ["FlattenerPresets named and indexed items"]},
+  {"topic": "FlattenerPresets.add", "file": "community-types/indesign/flattener-presets/add.md", "summary": "Open when looking up FlattenerPresets.add in Shared Adobe platform.", "keywords": ["FlattenerPresets.add"]},
+  {"topic": "FlattenerPresets.count", "file": "community-types/indesign/flattener-presets/count.md", "summary": "Open when looking up FlattenerPresets.count in Shared Adobe platform.", "keywords": ["FlattenerPresets.count"]},
+  {"topic": "FlattenerPresets.IndexSignature", "file": "community-types/indesign/flattener-presets/index-signature.md", "summary": "Open when looking up FlattenerPresets.IndexSignature in Shared Adobe platform.", "keywords": ["FlattenerPresets.IndexSignature"]},
+  {"topic": "FlattenerPresets.itemByRange", "file": "community-types/indesign/flattener-presets/item-by-range.md", "summary": "Open when looking up FlattenerPresets.itemByRange in Shared Adobe platform.", "keywords": ["FlattenerPresets.itemByRange"]},
+  {"topic": "FlattenerPresets.length", "file": "community-types/indesign/flattener-presets/length.md", "summary": "Open when looking up FlattenerPresets.length in Shared Adobe platform.", "keywords": ["FlattenerPresets.length"]},
+  {"topic": "FlattenerPresets.toSource", "file": "community-types/indesign/flattener-presets/to-source.md", "summary": "Open when looking up FlattenerPresets.toSource in Shared Adobe platform.", "keywords": ["FlattenerPresets.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

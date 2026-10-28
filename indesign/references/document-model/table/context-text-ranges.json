@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "endnotes", "file": "references/document-model/table/endnotes.md", "summary": "Open when looking up endnotes in InDesign.", "keywords": ["endnotes"]},
-  {"topic": "endnoteTextFrames", "file": "references/document-model/table/endnote-text-frames.md", "summary": "Open when looking up endnoteTextFrames in InDesign.", "keywords": ["endnoteTextFrames"]},
-  {"topic": "footnotes", "file": "references/document-model/table/footnotes.md", "summary": "Open when looking up footnotes in InDesign.", "keywords": ["footnotes"]},
-  {"topic": "notes", "file": "references/document-model/table/notes.md", "summary": "Open when looking up notes in InDesign.", "keywords": ["notes"]},
-  {"topic": "storyOffset", "file": "references/document-model/table/story-offset.md", "summary": "Open when looking up storyOffset in InDesign.", "keywords": ["storyOffset"]},
-  {"topic": "textFrames", "file": "references/document-model/table/text-frames.md", "summary": "Open when looking up textFrames in InDesign.", "keywords": ["textFrames"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

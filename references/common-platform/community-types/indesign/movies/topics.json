@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Movies collection iteration", "file": "community-types/indesign/movies/collection-iteration.md", "summary": "Open when looking up Movies collection iteration in Shared Adobe platform.", "keywords": ["Movies collection iteration"]},
+  {"topic": "Movies declaration", "file": "community-types/indesign/movies/declaration.md", "summary": "Open when looking up Movies declaration in Shared Adobe platform.", "keywords": ["Movies declaration"]},
+  {"topic": "Movies named and indexed items", "file": "community-types/indesign/movies/named-and-indexed-items.md", "summary": "Open when looking up Movies named and indexed items in Shared Adobe platform.", "keywords": ["Movies named and indexed items"]},
+  {"topic": "Movies.add", "file": "community-types/indesign/movies/add.md", "summary": "Open when looking up Movies.add in Shared Adobe platform.", "keywords": ["Movies.add"]},
+  {"topic": "Movies.count", "file": "community-types/indesign/movies/count.md", "summary": "Open when looking up Movies.count in Shared Adobe platform.", "keywords": ["Movies.count"]},
+  {"topic": "Movies.IndexSignature", "file": "community-types/indesign/movies/index-signature.md", "summary": "Open when looking up Movies.IndexSignature in Shared Adobe platform.", "keywords": ["Movies.IndexSignature"]},
+  {"topic": "Movies.itemByRange", "file": "community-types/indesign/movies/item-by-range.md", "summary": "Open when looking up Movies.itemByRange in Shared Adobe platform.", "keywords": ["Movies.itemByRange"]},
+  {"topic": "Movies.length", "file": "community-types/indesign/movies/length.md", "summary": "Open when looking up Movies.length in Shared Adobe platform.", "keywords": ["Movies.length"]},
+  {"topic": "Movies.toSource", "file": "community-types/indesign/movies/to-source.md", "summary": "Open when looking up Movies.toSource in Shared Adobe platform.", "keywords": ["Movies.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

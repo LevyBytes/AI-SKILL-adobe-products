@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Additional Resources", "file": "cloud-services/smart-object-replace-migration/additional-resources.md", "summary": "Open when looking up Additional Resources in Photoshop.", "keywords": ["Additional Resources"]},
+  {"topic": "Key Field Mapping", "file": "cloud-services/smart-object-replace-migration/key-field-mapping.md", "summary": "Open when looking up Key Field Mapping in Photoshop.", "keywords": ["Key Field Mapping"]},
+  {"topic": "Migration Checklist", "file": "cloud-services/smart-object-replace-migration/migration-checklist.md", "summary": "Open when looking up Migration Checklist in Photoshop.", "keywords": ["Migration Checklist"]},
+  {"topic": "Place a smart object add references", "file": "cloud-services/smart-object-replace-migration/place-a-smart-object-add/reference-index.md", "summary": "Open when looking up Place a smart object add in Photoshop.", "keywords": ["Place a smart object add references"]},
+  {"topic": "Placement options references", "file": "cloud-services/smart-object-replace-migration/placement-options/reference-index.md", "summary": "Open when looking up Placement options in Photoshop.", "keywords": ["Placement options references"]},
+  {"topic": "Replace smart object content references", "file": "cloud-services/smart-object-replace-migration/replace-smart-object-content/reference-index.md", "summary": "Open when looking up Replace smart object content in Photoshop.", "keywords": ["Replace smart object content references"]},
+  {"topic": "Smart Object Replace", "file": "cloud-services/smart-object-replace-migration/smart-object-replace.md", "summary": "Open when looking up Smart Object Replace in Photoshop.", "keywords": ["Smart Object Replace"]},
+  {"topic": "V1 Limitations Lifted in V2", "file": "cloud-services/smart-object-replace-migration/v1-limitations-lifted-in-v2.md", "summary": "Open when looking up V1 Limitations Lifted in V2 in Photoshop.", "keywords": ["V1 Limitations Lifted in V2"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

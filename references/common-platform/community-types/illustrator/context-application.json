@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Application references", "file": "community-types/illustrator/application/reference-index.md", "summary": "Open when looking up Application in Shared Adobe platform.", "keywords": ["Application references"]},
+  {"topic": "Preferences references", "file": "community-types/illustrator/preferences/reference-index.md", "summary": "Open when looking up Preferences in Shared Adobe platform.", "keywords": ["Preferences references"]},
+  {"topic": "JavaScriptExecutionMode", "file": "community-types/illustrator/java-script-execution-mode.md", "summary": "Open when looking up JavaScriptExecutionMode in Shared Adobe platform.", "keywords": ["JavaScriptExecutionMode"]},
+  {"topic": "UserInteractionLevel", "file": "community-types/illustrator/user-interaction-level.md", "summary": "Open when looking up UserInteractionLevel in Shared Adobe platform.", "keywords": ["UserInteractionLevel"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

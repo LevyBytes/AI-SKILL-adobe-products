@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Create VR Environment", "file": "desktop/immersive-video-and-vr/construct-vr-environments/construct-vr-environments-in-after-effects/create-vr-environment.md", "summary": "Open when looking up Create VR Environment in After Effects.", "keywords": ["Create VR Environment"]},
+  {"topic": "Extract Cubemap", "file": "desktop/immersive-video-and-vr/construct-vr-environments/construct-vr-environments-in-after-effects/extract-cubemap.md", "summary": "Open when looking up Extract Cubemap in After Effects.", "keywords": ["Extract Cubemap"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

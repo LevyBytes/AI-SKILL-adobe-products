@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "InDesign ran out of memory", "file": "references/desktop/troubleshoot/files-and-output/pdf-export-fails-when-downsampling-large-images/in-design-ran-out-of-memory.md", "summary": "Open when looking up InDesign ran out of memory in InDesign.", "keywords": ["InDesign ran out of memory"]},
-  {"topic": "Placed Images have high resolution", "file": "references/desktop/troubleshoot/files-and-output/pdf-export-fails-when-downsampling-large-images/placed-images-have-high-resolution.md", "summary": "Open when looking up Placed Images have high resolution in InDesign.", "keywords": ["Placed Images have high resolution"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

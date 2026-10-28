@@ -1,0 +1,21 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "available", "file": "scripting/tts/available.md", "summary": "Open when looking up available in Acrobat.", "keywords": ["available"]},
+  {"topic": "getNthSpeakerName", "file": "scripting/tts/get-nth-speaker-name.md", "summary": "Open when looking up getNthSpeakerName in Acrobat.", "keywords": ["getNthSpeakerName"]},
+  {"topic": "JavaScript APIs - TTS", "file": "scripting/tts/java-script-apis-tts.md", "summary": "Open when looking up JavaScript APIs - TTS in Acrobat.", "keywords": ["JavaScript APIs - TTS"]},
+  {"topic": "numSpeakers", "file": "scripting/tts/num-speakers.md", "summary": "Open when looking up numSpeakers in Acrobat.", "keywords": ["numSpeakers"]},
+  {"topic": "pause", "file": "scripting/tts/pause.md", "summary": "Open when looking up pause in Acrobat.", "keywords": ["pause"]},
+  {"topic": "pitch", "file": "scripting/tts/pitch.md", "summary": "Open when looking up pitch in Acrobat.", "keywords": ["pitch"]},
+  {"topic": "qSilence", "file": "scripting/tts/q-silence.md", "summary": "Open when looking up qSilence in Acrobat.", "keywords": ["qSilence"]},
+  {"topic": "qSound", "file": "scripting/tts/q-sound.md", "summary": "Open when looking up qSound in Acrobat.", "keywords": ["qSound"]},
+  {"topic": "qText", "file": "scripting/tts/q-text.md", "summary": "Open when looking up qText in Acrobat.", "keywords": ["qText"]},
+  {"topic": "reset", "file": "scripting/tts/reset.md", "summary": "Open when looking up reset in Acrobat.", "keywords": ["reset"]},
+  {"topic": "resume", "file": "scripting/tts/resume.md", "summary": "Open when looking up resume in Acrobat.", "keywords": ["resume"]},
+  {"topic": "soundCues", "file": "scripting/tts/sound-cues.md", "summary": "Open when looking up soundCues in Acrobat.", "keywords": ["soundCues"]},
+  {"topic": "speaker", "file": "scripting/tts/speaker.md", "summary": "Open when looking up speaker in Acrobat.", "keywords": ["speaker"]},
+  {"topic": "speechCues", "file": "scripting/tts/speech-cues.md", "summary": "Open when looking up speechCues in Acrobat.", "keywords": ["speechCues"]},
+  {"topic": "speechRate", "file": "scripting/tts/speech-rate.md", "summary": "Open when looking up speechRate in Acrobat.", "keywords": ["speechRate"]},
+  {"topic": "stop", "file": "scripting/tts/stop.md", "summary": "Open when looking up stop in Acrobat.", "keywords": ["stop"]},
+  {"topic": "talk", "file": "scripting/tts/talk.md", "summary": "Open when looking up talk in Acrobat.", "keywords": ["talk"]},
+  {"topic": "volume", "file": "scripting/tts/volume.md", "summary": "Open when looking up volume in Acrobat.", "keywords": ["volume"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

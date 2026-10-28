@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "BOTH", "file": "document-model/compose-using/both.md", "summary": "Open when looking up BOTH in InDesign.", "keywords": ["BOTH"]},
+  {"topic": "USE_DOCUMENT", "file": "document-model/compose-using/usedocument.md", "summary": "Open when looking up USE_DOCUMENT in InDesign.", "keywords": ["USE_DOCUMENT"]},
+  {"topic": "USE_USER_DICTIONARY", "file": "document-model/compose-using/useuserdictionary.md", "summary": "Open when looking up USE_USER_DICTIONARY in InDesign.", "keywords": ["USE_USER_DICTIONARY"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

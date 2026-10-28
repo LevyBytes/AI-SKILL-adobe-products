@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Import the converted XML into Premiere", "file": "desktop/organize-media/import-files/import-xml-files-from-final-cut-pro-x/import-the-converted-xml-into-premiere.md", "summary": "Open when looking up Import the converted XML into Premiere in Premiere Pro.", "keywords": ["Import the converted XML into Premiere"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

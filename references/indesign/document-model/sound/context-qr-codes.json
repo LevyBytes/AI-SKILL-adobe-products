@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "createEmailQRCode", "file": "document-model/sound/create-email-qr-code.md", "summary": "Open when looking up createEmailQRCode in InDesign.", "keywords": ["createEmailQRCode"]},
+  {"topic": "createHyperlinkQRCode", "file": "document-model/sound/create-hyperlink-qr-code.md", "summary": "Open when looking up createHyperlinkQRCode in InDesign.", "keywords": ["createHyperlinkQRCode"]},
+  {"topic": "createPlainTextQRCode", "file": "document-model/sound/create-plain-text-qr-code.md", "summary": "Open when looking up createPlainTextQRCode in InDesign.", "keywords": ["createPlainTextQRCode"]},
+  {"topic": "createTextMsgQRCode", "file": "document-model/sound/create-text-msg-qr-code.md", "summary": "Open when looking up createTextMsgQRCode in InDesign.", "keywords": ["createTextMsgQRCode"]},
+  {"topic": "createVCardQRCode", "file": "document-model/sound/create-v-card-qr-code.md", "summary": "Open when looking up createVCardQRCode in InDesign.", "keywords": ["createVCardQRCode"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

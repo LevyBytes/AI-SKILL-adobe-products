@@ -1,0 +1,21 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "close(fd, callback)", "file": "uxp/require-fs/close.md", "summary": "Open when looking up close(fd, callback) in Premiere Pro.", "keywords": ["close(fd, callback)"]},
+  {"topic": "copyFile(srcPath, destPath, flags, callback)", "file": "uxp/require-fs/copy-file.md", "summary": "Open when looking up copyFile(srcPath, destPath, flags, callback) in Premiere Pro.", "keywords": ["copyFile(srcPath, destPath, flags, callback)"]},
+  {"topic": "lstat(path, callback)", "file": "uxp/require-fs/lstat.md", "summary": "Open when looking up lstat(path, callback) in Premiere Pro.", "keywords": ["lstat(path, callback)"]},
+  {"topic": "lstatSync(path)", "file": "uxp/require-fs/lstat-sync.md", "summary": "Open when looking up lstatSync(path) in Premiere Pro.", "keywords": ["lstatSync(path)"]},
+  {"topic": "mkdir(path, options, callback)", "file": "uxp/require-fs/mkdir.md", "summary": "Open when looking up mkdir(path, options, callback) in Premiere Pro.", "keywords": ["mkdir(path, options, callback)"]},
+  {"topic": "open(path, [flag], [mode], callback)", "file": "uxp/require-fs/open.md", "summary": "Open when looking up open(path, [flag], [mode], callback) in Premiere Pro.", "keywords": ["open(path, [flag], [mode], callback)"]},
+  {"topic": "read(fd, buffer, offset, length, position, callback)", "file": "uxp/require-fs/read.md", "summary": "Open when looking up read(fd, buffer, offset, length, position, callback) in Premiere Pro.", "keywords": ["read(fd, buffer, offset, length, position, callback)"]},
+  {"topic": "readdir(path, callback)", "file": "uxp/require-fs/readdir.md", "summary": "Open when looking up readdir(path, callback) in Premiere Pro.", "keywords": ["readdir(path, callback)"]},
+  {"topic": "readdirSync(path)", "file": "uxp/require-fs/readdir-sync.md", "summary": "Open when looking up readdirSync(path) in Premiere Pro.", "keywords": ["readdirSync(path)"]},
+  {"topic": "readFile(path, options, callback)", "file": "uxp/require-fs/read-file.md", "summary": "Open when looking up readFile(path, options, callback) in Premiere Pro.", "keywords": ["readFile(path, options, callback)"]},
+  {"topic": "readFileSync(path, options)", "file": "uxp/require-fs/read-file-sync.md", "summary": "Open when looking up readFileSync(path, options) in Premiere Pro.", "keywords": ["readFileSync(path, options)"]},
+  {"topic": "rename(oldPath, newPath, callback)", "file": "uxp/require-fs/rename.md", "summary": "Open when looking up rename(oldPath, newPath, callback) in Premiere Pro.", "keywords": ["rename(oldPath, newPath, callback)"]},
+  {"topic": "require('fs')", "file": "uxp/require-fs/require.md", "summary": "Open when looking up require('fs') in Premiere Pro.", "keywords": ["require('fs')"]},
+  {"topic": "rmdir(path, callback)", "file": "uxp/require-fs/rmdir.md", "summary": "Open when looking up rmdir(path, callback) in Premiere Pro.", "keywords": ["rmdir(path, callback)"]},
+  {"topic": "unlink(path, callback)", "file": "uxp/require-fs/unlink.md", "summary": "Open when looking up unlink(path, callback) in Premiere Pro.", "keywords": ["unlink(path, callback)"]},
+  {"topic": "write(fd, buffer, offset, length, position, callback)", "file": "uxp/require-fs/write.md", "summary": "Open when looking up write(fd, buffer, offset, length, position, callback) in Premiere Pro.", "keywords": ["write(fd, buffer, offset, length, position, callback)"]},
+  {"topic": "writeFile(path, data, options, callback)", "file": "uxp/require-fs/write-file.md", "summary": "Open when looking up writeFile(path, data, options, callback) in Premiere Pro.", "keywords": ["writeFile(path, data, options, callback)"]},
+  {"topic": "writeFileSync(path, data, options)", "file": "uxp/require-fs/write-file-sync.md", "summary": "Open when looking up writeFileSync(path, data, options) in Premiere Pro.", "keywords": ["writeFileSync(path, data, options)"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

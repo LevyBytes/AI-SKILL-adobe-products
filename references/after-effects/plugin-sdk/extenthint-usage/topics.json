@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "PF_InData - extent_hint Usage", "file": "plugin-sdk/extenthint-usage/pf-in-data-extenthint-usage.md", "summary": "Open when looking up PF_InData - extent_hint Usage in After Effects.", "keywords": ["PF_InData - extent_hint Usage"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

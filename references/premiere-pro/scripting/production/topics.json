@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Production object", "file": "scripting/production/production-object.md", "summary": "Open when looking up Production object in Premiere Pro.", "keywords": ["Production object"]},
+  {"topic": "Production.addProject()", "file": "scripting/production/add-project.md", "summary": "Open when looking up Production.addProject() in Premiere Pro.", "keywords": ["Production.addProject()"]},
+  {"topic": "Production.close()", "file": "scripting/production/close.md", "summary": "Open when looking up Production.close() in Premiere Pro.", "keywords": ["Production.close()"]},
+  {"topic": "Production.getLocked()", "file": "scripting/production/get-locked.md", "summary": "Open when looking up Production.getLocked() in Premiere Pro.", "keywords": ["Production.getLocked()"]},
+  {"topic": "Production.moveToTrash()", "file": "scripting/production/move-to-trash.md", "summary": "Open when looking up Production.moveToTrash() in Premiere Pro.", "keywords": ["Production.moveToTrash()"]},
+  {"topic": "Production.name", "file": "scripting/production/name.md", "summary": "Open when looking up Production.name in Premiere Pro.", "keywords": ["Production.name"]},
+  {"topic": "Production.path", "file": "scripting/production/path.md", "summary": "Open when looking up Production.path in Premiere Pro.", "keywords": ["Production.path"]},
+  {"topic": "Production.projects", "file": "scripting/production/projects.md", "summary": "Open when looking up Production.projects in Premiere Pro.", "keywords": ["Production.projects"]},
+  {"topic": "Production.setLocked()", "file": "scripting/production/set-locked.md", "summary": "Open when looking up Production.setLocked() in Premiere Pro.", "keywords": ["Production.setLocked()"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

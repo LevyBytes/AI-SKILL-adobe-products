@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Story.allGraphics", "file": "community-types/indesign/story/all-graphics.md", "summary": "Open when looking up Story.allGraphics in Shared Adobe platform.", "keywords": ["Story.allGraphics"]},
+  {"topic": "Story.allPageItems", "file": "community-types/indesign/story/all-page-items.md", "summary": "Open when looking up Story.allPageItems in Shared Adobe platform.", "keywords": ["Story.allPageItems"]},
+  {"topic": "Story.epstexts", "file": "community-types/indesign/story/epstexts.md", "summary": "Open when looking up Story.epstexts in Shared Adobe platform.", "keywords": ["Story.epstexts"]},
+  {"topic": "Story.graphicLines", "file": "community-types/indesign/story/graphic-lines.md", "summary": "Open when looking up Story.graphicLines in Shared Adobe platform.", "keywords": ["Story.graphicLines"]},
+  {"topic": "Story.groups", "file": "community-types/indesign/story/groups.md", "summary": "Open when looking up Story.groups in Shared Adobe platform.", "keywords": ["Story.groups"]},
+  {"topic": "Story.ovals", "file": "community-types/indesign/story/ovals.md", "summary": "Open when looking up Story.ovals in Shared Adobe platform.", "keywords": ["Story.ovals"]},
+  {"topic": "Story.pageItems", "file": "community-types/indesign/story/page-items.md", "summary": "Open when looking up Story.pageItems in Shared Adobe platform.", "keywords": ["Story.pageItems"]},
+  {"topic": "Story.polygons", "file": "community-types/indesign/story/polygons.md", "summary": "Open when looking up Story.polygons in Shared Adobe platform.", "keywords": ["Story.polygons"]},
+  {"topic": "Story.rectangles", "file": "community-types/indesign/story/rectangles.md", "summary": "Open when looking up Story.rectangles in Shared Adobe platform.", "keywords": ["Story.rectangles"]},
+  {"topic": "Story.splineItems", "file": "community-types/indesign/story/spline-items.md", "summary": "Open when looking up Story.splineItems in Shared Adobe platform.", "keywords": ["Story.splineItems"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

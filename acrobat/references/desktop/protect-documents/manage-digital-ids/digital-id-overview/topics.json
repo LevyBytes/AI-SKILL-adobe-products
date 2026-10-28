@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Digital ID usage", "file": "references/desktop/protect-documents/manage-digital-ids/digital-id-overview/digital-id-usage.md", "summary": "Open when looking up Digital ID usage in Acrobat.", "keywords": ["Digital ID usage"]},
-  {"topic": "Key benefits", "file": "references/desktop/protect-documents/manage-digital-ids/digital-id-overview/key-benefits.md", "summary": "Open when looking up Key benefits in Acrobat.", "keywords": ["Key benefits"]},
-  {"topic": "Types of digital IDs", "file": "references/desktop/protect-documents/manage-digital-ids/digital-id-overview/types-of-digital-ids.md", "summary": "Open when looking up Types of digital IDs in Acrobat.", "keywords": ["Types of digital IDs"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

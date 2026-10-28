@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Launching for the first time", "file": "uxp/installation/launching-for-the-first-time.md", "summary": "Open when looking up Launching for the first time in Photoshop.", "keywords": ["Launching for the first time"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

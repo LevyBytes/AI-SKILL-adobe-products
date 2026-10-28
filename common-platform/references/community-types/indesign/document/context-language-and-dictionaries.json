@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Document.dictionaryPreferences", "file": "references/community-types/indesign/document/dictionary-preferences.md", "summary": "Open when looking up Document.dictionaryPreferences in Shared Adobe platform.", "keywords": ["Document.dictionaryPreferences"]},
-  {"topic": "Document.languages", "file": "references/community-types/indesign/document/languages.md", "summary": "Open when looking up Document.languages in Shared Adobe platform.", "keywords": ["Document.languages"]},
-  {"topic": "Document.mojikumiTables", "file": "references/community-types/indesign/document/mojikumi-tables.md", "summary": "Open when looking up Document.mojikumiTables in Shared Adobe platform.", "keywords": ["Document.mojikumiTables"]},
-  {"topic": "Document.mojikumiUIPreferences", "file": "references/community-types/indesign/document/mojikumi-ui-preferences.md", "summary": "Open when looking up Document.mojikumiUIPreferences in Shared Adobe platform.", "keywords": ["Document.mojikumiUIPreferences"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

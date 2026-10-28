@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Create pdf from docx with options example setup", "file": "pdf-services/examples/java/create-pdf-from-docx-with-options/create-pdf-from-docx-with-options-setup.md", "summary": "Open when looking up Create pdf from docx with options example setup in Acrobat.", "keywords": ["Create pdf from docx with options example setup"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "changeTo", "file": "document-model/change-text-preference/change-to.md", "summary": "Open when looking up changeTo in InDesign.", "keywords": ["changeTo"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

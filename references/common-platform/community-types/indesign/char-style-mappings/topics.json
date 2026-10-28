@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "CharStyleMappings collection iteration", "file": "community-types/indesign/char-style-mappings/collection-iteration.md", "summary": "Open when looking up CharStyleMappings collection iteration in Shared Adobe platform.", "keywords": ["CharStyleMappings collection iteration"]},
+  {"topic": "CharStyleMappings declaration", "file": "community-types/indesign/char-style-mappings/declaration.md", "summary": "Open when looking up CharStyleMappings declaration in Shared Adobe platform.", "keywords": ["CharStyleMappings declaration"]},
+  {"topic": "CharStyleMappings.add", "file": "community-types/indesign/char-style-mappings/add.md", "summary": "Open when looking up CharStyleMappings.add in Shared Adobe platform.", "keywords": ["CharStyleMappings.add"]},
+  {"topic": "CharStyleMappings.count", "file": "community-types/indesign/char-style-mappings/count.md", "summary": "Open when looking up CharStyleMappings.count in Shared Adobe platform.", "keywords": ["CharStyleMappings.count"]},
+  {"topic": "CharStyleMappings.IndexSignature", "file": "community-types/indesign/char-style-mappings/index-signature.md", "summary": "Open when looking up CharStyleMappings.IndexSignature in Shared Adobe platform.", "keywords": ["CharStyleMappings.IndexSignature"]},
+  {"topic": "CharStyleMappings.item", "file": "community-types/indesign/char-style-mappings/item.md", "summary": "Open when looking up CharStyleMappings.item in Shared Adobe platform.", "keywords": ["CharStyleMappings.item"]},
+  {"topic": "CharStyleMappings.itemByRange", "file": "community-types/indesign/char-style-mappings/item-by-range.md", "summary": "Open when looking up CharStyleMappings.itemByRange in Shared Adobe platform.", "keywords": ["CharStyleMappings.itemByRange"]},
+  {"topic": "CharStyleMappings.length", "file": "community-types/indesign/char-style-mappings/length.md", "summary": "Open when looking up CharStyleMappings.length in Shared Adobe platform.", "keywords": ["CharStyleMappings.length"]},
+  {"topic": "CharStyleMappings.toSource", "file": "community-types/indesign/char-style-mappings/to-source.md", "summary": "Open when looking up CharStyleMappings.toSource in Shared Adobe platform.", "keywords": ["CharStyleMappings.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

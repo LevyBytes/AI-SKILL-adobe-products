@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "add", "file": "uxp/host-api/tick-time/add.md", "summary": "Open when looking up add in Premiere Pro.", "keywords": ["add"]},
+  {"topic": "alignToFrame", "file": "uxp/host-api/tick-time/align-to-frame.md", "summary": "Open when looking up alignToFrame in Premiere Pro.", "keywords": ["alignToFrame"]},
+  {"topic": "alignToNearestFrame", "file": "uxp/host-api/tick-time/align-to-nearest-frame.md", "summary": "Open when looking up alignToNearestFrame in Premiere Pro.", "keywords": ["alignToNearestFrame"]},
+  {"topic": "createWithFrameAndFrameRate", "file": "uxp/host-api/tick-time/create-with-frame-and-frame-rate.md", "summary": "Open when looking up createWithFrameAndFrameRate in Premiere Pro.", "keywords": ["createWithFrameAndFrameRate"]},
+  {"topic": "createWithSeconds", "file": "uxp/host-api/tick-time/create-with-seconds.md", "summary": "Open when looking up createWithSeconds in Premiere Pro.", "keywords": ["createWithSeconds"]},
+  {"topic": "createWithTicks", "file": "uxp/host-api/tick-time/create-with-ticks.md", "summary": "Open when looking up createWithTicks in Premiere Pro.", "keywords": ["createWithTicks"]},
+  {"topic": "divide", "file": "uxp/host-api/tick-time/divide.md", "summary": "Open when looking up divide in Premiere Pro.", "keywords": ["divide"]},
+  {"topic": "equals", "file": "uxp/host-api/tick-time/equals.md", "summary": "Open when looking up equals in Premiere Pro.", "keywords": ["equals"]},
+  {"topic": "multiply", "file": "uxp/host-api/tick-time/multiply.md", "summary": "Open when looking up multiply in Premiere Pro.", "keywords": ["multiply"]},
+  {"topic": "subtract", "file": "uxp/host-api/tick-time/subtract.md", "summary": "Open when looking up subtract in Premiere Pro.", "keywords": ["subtract"]},
+  {"topic": "TickTime - Properties", "file": "uxp/host-api/tick-time/tick-time-properties.md", "summary": "Open when looking up TickTime - Properties in Premiere Pro.", "keywords": ["TickTime - Properties"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

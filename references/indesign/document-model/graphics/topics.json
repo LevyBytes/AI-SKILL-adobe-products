@@ -1,0 +1,17 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "anyItem", "file": "document-model/graphics/any-item.md", "summary": "Open when looking up anyItem in InDesign.", "keywords": ["anyItem"]},
+  {"topic": "count", "file": "document-model/graphics/count.md", "summary": "Open when looking up count in InDesign.", "keywords": ["count"]},
+  {"topic": "everyItem", "file": "document-model/graphics/every-item.md", "summary": "Open when looking up everyItem in InDesign.", "keywords": ["everyItem"]},
+  {"topic": "firstItem", "file": "document-model/graphics/first-item.md", "summary": "Open when looking up firstItem in InDesign.", "keywords": ["firstItem"]},
+  {"topic": "item", "file": "document-model/graphics/item.md", "summary": "Open when looking up item in InDesign.", "keywords": ["item"]},
+  {"topic": "itemByID", "file": "document-model/graphics/item-by-id.md", "summary": "Open when looking up itemByID in InDesign.", "keywords": ["itemByID"]},
+  {"topic": "itemByName", "file": "document-model/graphics/item-by-name.md", "summary": "Open when looking up itemByName in InDesign.", "keywords": ["itemByName"]},
+  {"topic": "itemByRange", "file": "document-model/graphics/item-by-range.md", "summary": "Open when looking up itemByRange in InDesign.", "keywords": ["itemByRange"]},
+  {"topic": "lastItem", "file": "document-model/graphics/last-item.md", "summary": "Open when looking up lastItem in InDesign.", "keywords": ["lastItem"]},
+  {"topic": "length", "file": "document-model/graphics/length.md", "summary": "Open when looking up length in InDesign.", "keywords": ["length"]},
+  {"topic": "middleItem", "file": "document-model/graphics/middle-item.md", "summary": "Open when looking up middleItem in InDesign.", "keywords": ["middleItem"]},
+  {"topic": "nextItem", "file": "document-model/graphics/next-item.md", "summary": "Open when looking up nextItem in InDesign.", "keywords": ["nextItem"]},
+  {"topic": "previousItem", "file": "document-model/graphics/previous-item.md", "summary": "Open when looking up previousItem in InDesign.", "keywords": ["previousItem"]},
+  {"topic": "toSource", "file": "document-model/graphics/to-source.md", "summary": "Open when looking up toSource in InDesign.", "keywords": ["toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

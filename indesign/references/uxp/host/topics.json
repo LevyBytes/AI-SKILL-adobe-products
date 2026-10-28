@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "name ⇒ string", "file": "references/uxp/host/name-string.md", "summary": "Open when looking up name ⇒ string in InDesign.", "keywords": ["name ⇒ string"]},
-  {"topic": "require('uxp').host", "file": "references/uxp/host/require-uxp-host.md", "summary": "Open when looking up require('uxp').host in InDesign.", "keywords": ["require('uxp').host"]},
-  {"topic": "uiLocale ⇒ string", "file": "references/uxp/host/ui-locale-string.md", "summary": "Open when looking up uiLocale ⇒ string in InDesign.", "keywords": ["uiLocale ⇒ string"]},
-  {"topic": "version ⇒ string", "file": "references/uxp/host/version-string.md", "summary": "Open when looking up version ⇒ string in InDesign.", "keywords": ["version ⇒ string"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

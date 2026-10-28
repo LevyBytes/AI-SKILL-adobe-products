@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "Api versions references", "file": "references/plugin-sdk/api-versions/reference-index.md", "summary": "Open when looking up Api versions in After Effects.", "keywords": ["Api versions references"]},
-  {"topic": "Compatibility Across Multiple Versions?", "file": "references/plugin-sdk/compatibility-across-multiple-versions.md", "summary": "Open when looking up Compatibility Across Multiple Versions? in After Effects.", "keywords": ["Compatibility Across Multiple Versions?"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

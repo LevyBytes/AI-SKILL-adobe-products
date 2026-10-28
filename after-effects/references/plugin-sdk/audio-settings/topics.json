@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "AEGP Suites - Audio Settings", "file": "references/plugin-sdk/audio-settings/aegp-suites-audio-settings.md", "summary": "Open when looking up AEGP Suites - Audio Settings in After Effects.", "keywords": ["AEGP Suites - Audio Settings"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

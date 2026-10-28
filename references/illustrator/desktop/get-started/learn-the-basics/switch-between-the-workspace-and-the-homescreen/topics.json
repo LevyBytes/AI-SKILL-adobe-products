@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Switch back to the active document", "file": "desktop/get-started/learn-the-basics/switch-between-the-workspace-and-the-homescreen/switch-back-to-the-active-document.md", "summary": "Open when looking up Switch back to the active document in Illustrator.", "keywords": ["Switch back to the active document"]},
+  {"topic": "Switch to the homescreen", "file": "desktop/get-started/learn-the-basics/switch-between-the-workspace-and-the-homescreen/switch-to-the-homescreen.md", "summary": "Open when looking up Switch to the homescreen in Illustrator.", "keywords": ["Switch to the homescreen"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

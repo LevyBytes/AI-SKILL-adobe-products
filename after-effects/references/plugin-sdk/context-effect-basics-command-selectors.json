@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "Calling sequence references", "file": "references/plugin-sdk/calling-sequence/reference-index.md", "summary": "Open when looking up Calling sequence in After Effects.", "keywords": ["Calling sequence references"]},
-  {"topic": "Command Selectors", "file": "references/plugin-sdk/command-selectors.md", "summary": "Open when looking up Command Selectors in After Effects.", "keywords": ["Command Selectors"]},
-  {"topic": "Command selectors table references", "file": "references/plugin-sdk/command-selectors-table/reference-index.md", "summary": "Open when looking up Command selectors table in After Effects.", "keywords": ["Command selectors table references"]},
-  {"topic": "What s the difference references", "file": "references/plugin-sdk/what-s-the-difference/reference-index.md", "summary": "Open when looking up What s the difference in After Effects.", "keywords": ["What s the difference references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

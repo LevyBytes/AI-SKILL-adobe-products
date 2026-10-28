@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Present documents in Presentation Mode", "file": "desktop/interactive-elements-and-forms/forms-and-pdfs/preview-and-present-interactive-documents/present-documents-in-presentation-mode.md", "summary": "Open when looking up Present documents in Presentation Mode in InDesign.", "keywords": ["Present documents in Presentation Mode"]},
+  {"topic": "Preview interactive elements", "file": "desktop/interactive-elements-and-forms/forms-and-pdfs/preview-and-present-interactive-documents/preview-interactive-elements.md", "summary": "Open when looking up Preview interactive elements in InDesign.", "keywords": ["Preview interactive elements"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

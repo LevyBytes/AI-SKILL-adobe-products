@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Av item references", "file": "scripting/av-item/reference-index.md", "summary": "Open when looking up Av item in After Effects.", "keywords": ["Av item references"]},
+  {"topic": "Comp item references", "file": "scripting/comp-item/reference-index.md", "summary": "Open when looking up Comp item in After Effects.", "keywords": ["Comp item references"]},
+  {"topic": "File source references", "file": "scripting/file-source/reference-index.md", "summary": "Open when looking up File source in After Effects.", "keywords": ["File source references"]},
+  {"topic": "Folder item references", "file": "scripting/folder-item/reference-index.md", "summary": "Open when looking up Folder item in After Effects.", "keywords": ["Folder item references"]},
+  {"topic": "Footage item references", "file": "scripting/footage-item/reference-index.md", "summary": "Open when looking up Footage item in After Effects.", "keywords": ["Footage item references"]},
+  {"topic": "Footage item sources references", "file": "scripting/footage-item-sources/reference-index.md", "summary": "Open when looking up Footage item sources in After Effects.", "keywords": ["Footage item sources references"]},
+  {"topic": "Footage source references", "file": "scripting/footage-source/reference-index.md", "summary": "Open when looking up Footage source in After Effects.", "keywords": ["Footage source references"]},
+  {"topic": "Import options references", "file": "scripting/import-options/reference-index.md", "summary": "Open when looking up Import options in After Effects.", "keywords": ["Import options references"]},
+  {"topic": "Placeholder source references", "file": "scripting/placeholder-source/reference-index.md", "summary": "Open when looking up Placeholder source in After Effects.", "keywords": ["Placeholder source references"]},
+  {"topic": "Solid source references", "file": "scripting/solid-source/reference-index.md", "summary": "Open when looking up Solid source in After Effects.", "keywords": ["Solid source references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

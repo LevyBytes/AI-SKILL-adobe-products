@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Application.COMMAND_EDIT_SHORTCUTS", "file": "community-types/audition/application/commandeditshortcuts.md", "summary": "Open when looking up Application.COMMAND_EDIT_SHORTCUTS in Shared Adobe platform.", "keywords": ["Application.COMMAND_EDIT_SHORTCUTS"]},
+  {"topic": "Application.COMMAND_KEYBOARD_END", "file": "community-types/audition/application/commandkeyboardend.md", "summary": "Open when looking up Application.COMMAND_KEYBOARD_END in Shared Adobe platform.", "keywords": ["Application.COMMAND_KEYBOARD_END"]},
+  {"topic": "Application.COMMAND_KEYBOARD_ENTER", "file": "community-types/audition/application/commandkeyboardenter.md", "summary": "Open when looking up Application.COMMAND_KEYBOARD_ENTER in Shared Adobe platform.", "keywords": ["Application.COMMAND_KEYBOARD_ENTER"]},
+  {"topic": "Application.COMMAND_KEYBOARD_ESCAPE", "file": "community-types/audition/application/commandkeyboardescape.md", "summary": "Open when looking up Application.COMMAND_KEYBOARD_ESCAPE in Shared Adobe platform.", "keywords": ["Application.COMMAND_KEYBOARD_ESCAPE"]},
+  {"topic": "Application.COMMAND_KEYBOARD_HOME", "file": "community-types/audition/application/commandkeyboardhome.md", "summary": "Open when looking up Application.COMMAND_KEYBOARD_HOME in Shared Adobe platform.", "keywords": ["Application.COMMAND_KEYBOARD_HOME"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

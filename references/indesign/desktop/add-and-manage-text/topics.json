@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Add and import text", "file": "desktop/add-and-manage-text/add-and-import-text.md", "summary": "Open when looking up Add and import text in InDesign.", "keywords": ["Add and import text"]},
+  {"topic": "Add and import text references", "file": "desktop/add-and-manage-text/add-and-import-text/reference-index.md", "summary": "Open when looking up Add and import text in InDesign.", "keywords": ["Add and import text references"]},
+  {"topic": "Add and manage text frames", "file": "desktop/add-and-manage-text/add-and-manage-text-frames.md", "summary": "Open when looking up Add and manage text frames in InDesign.", "keywords": ["Add and manage text frames"]},
+  {"topic": "Add and manage text frames references", "file": "desktop/add-and-manage-text/add-and-manage-text-frames/reference-index.md", "summary": "Open when looking up Add and manage text frames in InDesign.", "keywords": ["Add and manage text frames references"]},
+  {"topic": "Conditional and variable text", "file": "desktop/add-and-manage-text/conditional-and-variable-text.md", "summary": "Open when looking up Conditional and variable text in InDesign.", "keywords": ["Conditional and variable text"]},
+  {"topic": "Conditional and variable text references", "file": "desktop/add-and-manage-text/conditional-and-variable-text/reference-index.md", "summary": "Open when looking up Conditional and variable text in InDesign.", "keywords": ["Conditional and variable text references"]},
+  {"topic": "Type on a path", "file": "desktop/add-and-manage-text/type-on-a-path.md", "summary": "Open when looking up Type on a path in InDesign.", "keywords": ["Type on a path"]},
+  {"topic": "Type on a path references", "file": "desktop/add-and-manage-text/type-on-a-path/reference-index.md", "summary": "Open when looking up Type on a path in InDesign.", "keywords": ["Type on a path references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

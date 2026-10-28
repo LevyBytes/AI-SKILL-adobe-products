@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "About seeds", "file": "cloud-services/understanding-firefly-api-seeds/about-seeds.md", "summary": "Open when looking up About seeds in Firefly.", "keywords": ["About seeds"]},
+  {"topic": "Concepts in action", "file": "cloud-services/understanding-firefly-api-seeds/concepts-in-action.md", "summary": "Open when looking up Concepts in action in Firefly.", "keywords": ["Concepts in action"]},
+  {"topic": "Find the seed", "file": "cloud-services/understanding-firefly-api-seeds/find-the-seed.md", "summary": "Open when looking up Find the seed in Firefly.", "keywords": ["Find the seed"]},
+  {"topic": "Generate a seed image", "file": "cloud-services/understanding-firefly-api-seeds/generate-a-seed-image.md", "summary": "Open when looking up Generate a seed image in Firefly.", "keywords": ["Generate a seed image"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

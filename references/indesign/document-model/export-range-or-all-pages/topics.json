@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "EXPORT_ALL", "file": "document-model/export-range-or-all-pages/exportall.md", "summary": "Open when looking up EXPORT_ALL in InDesign.", "keywords": ["EXPORT_ALL"]},
+  {"topic": "EXPORT_RANGE", "file": "document-model/export-range-or-all-pages/exportrange.md", "summary": "Open when looking up EXPORT_RANGE in InDesign.", "keywords": ["EXPORT_RANGE"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

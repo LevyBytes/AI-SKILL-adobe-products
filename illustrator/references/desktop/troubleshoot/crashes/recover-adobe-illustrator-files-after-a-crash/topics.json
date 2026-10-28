@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "macOS", "file": "references/desktop/troubleshoot/crashes/recover-adobe-illustrator-files-after-a-crash/mac-os.md", "summary": "Open when looking up macOS in Illustrator.", "keywords": ["macOS"]},
-  {"topic": "Recover files from the auto-backup location", "file": "references/desktop/troubleshoot/crashes/recover-adobe-illustrator-files-after-a-crash/recover-files-from-the-auto-backup-location.md", "summary": "Open when looking up Recover files from the auto-backup location in Illustrator.", "keywords": ["Recover files from the auto-backup location"]},
-  {"topic": "Recover files using auto-recovery", "file": "references/desktop/troubleshoot/crashes/recover-adobe-illustrator-files-after-a-crash/recover-files-using-auto-recovery.md", "summary": "Open when looking up Recover files using auto-recovery in Illustrator.", "keywords": ["Recover files using auto-recovery"]},
-  {"topic": "Windows", "file": "references/desktop/troubleshoot/crashes/recover-adobe-illustrator-files-after-a-crash/windows.md", "summary": "Open when looking up Windows in Illustrator.", "keywords": ["Windows"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

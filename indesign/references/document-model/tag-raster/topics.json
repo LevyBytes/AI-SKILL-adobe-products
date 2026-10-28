@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "DEFAULT_VALUE", "file": "references/document-model/tag-raster/defaultvalue.md", "summary": "Open when looking up DEFAULT_VALUE in InDesign.", "keywords": ["DEFAULT_VALUE"]},
-  {"topic": "GRAY_OUT", "file": "references/document-model/tag-raster/grayout.md", "summary": "Open when looking up GRAY_OUT in InDesign.", "keywords": ["GRAY_OUT"]},
-  {"topic": "HIGH_RESOLUTION", "file": "references/document-model/tag-raster/highresolution.md", "summary": "Open when looking up HIGH_RESOLUTION in InDesign.", "keywords": ["HIGH_RESOLUTION"]},
-  {"topic": "PROXY", "file": "references/document-model/tag-raster/proxy.md", "summary": "Open when looking up PROXY in InDesign.", "keywords": ["PROXY"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "NO_PREFIX_SUFFIX", "file": "document-model/footnote-prefix-suffix/noprefixsuffix.md", "summary": "Open when looking up NO_PREFIX_SUFFIX in InDesign.", "keywords": ["NO_PREFIX_SUFFIX"]},
+  {"topic": "PREFIX_SUFFIX_BOTH", "file": "document-model/footnote-prefix-suffix/prefixsuffixboth.md", "summary": "Open when looking up PREFIX_SUFFIX_BOTH in InDesign.", "keywords": ["PREFIX_SUFFIX_BOTH"]},
+  {"topic": "PREFIX_SUFFIX_MARKER", "file": "document-model/footnote-prefix-suffix/prefixsuffixmarker.md", "summary": "Open when looking up PREFIX_SUFFIX_MARKER in InDesign.", "keywords": ["PREFIX_SUFFIX_MARKER"]},
+  {"topic": "PREFIX_SUFFIX_REFERENCE", "file": "document-model/footnote-prefix-suffix/prefixsuffixreference.md", "summary": "Open when looking up PREFIX_SUFFIX_REFERENCE in InDesign.", "keywords": ["PREFIX_SUFFIX_REFERENCE"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

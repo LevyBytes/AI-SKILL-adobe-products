@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Adjust column, bar, and cluster spacing", "file": "desktop/automate-and-visualize-data/visualize-data/format-columns-bars-and-lines/adjust-column-bar-and-cluster-spacing.md", "summary": "Open when looking up Adjust column, bar, and cluster spacing in Illustrator.", "keywords": ["Adjust column, bar, and cluster spacing"]},
+  {"topic": "Adjust lines and data points in a line, scatter, and radar graph", "file": "desktop/automate-and-visualize-data/visualize-data/format-columns-bars-and-lines/graph-lines-and-data-points.md", "summary": "Open when looking up Adjust lines and data points in a line, scatter, and radar graph in Illustrator.", "keywords": ["Adjust lines and data points in a line, scatter, and radar graph"]},
+  {"topic": "Control column, bar, and lines overlap", "file": "desktop/automate-and-visualize-data/visualize-data/format-columns-bars-and-lines/control-column-bar-and-lines-overlap.md", "summary": "Open when looking up Control column, bar, and lines overlap in Illustrator.", "keywords": ["Control column, bar, and lines overlap"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

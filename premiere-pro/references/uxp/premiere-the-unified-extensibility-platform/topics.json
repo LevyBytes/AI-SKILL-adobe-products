@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Support and Features", "file": "references/uxp/premiere-the-unified-extensibility-platform/support-and-features.md", "summary": "Open when looking up Support and Features in Premiere Pro.", "keywords": ["Support and Features"]},
-  {"topic": "UXP is not a Browser", "file": "references/uxp/premiere-the-unified-extensibility-platform/uxp-is-not-a-browser.md", "summary": "Open when looking up UXP is not a Browser in Premiere Pro.", "keywords": ["UXP is not a Browser"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

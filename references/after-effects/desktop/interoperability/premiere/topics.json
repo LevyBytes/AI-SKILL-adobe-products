@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Importing Effects Premiere Pro", "file": "desktop/interoperability/premiere/importing-effects-premiere-pro.md", "summary": "Open when looking up Importing Effects Premiere Pro in After Effects.", "keywords": ["Importing Effects Premiere Pro"]},
+  {"topic": "Importing Effects Premiere Pro references", "file": "desktop/interoperability/premiere/importing-effects-premiere-pro/reference-index.md", "summary": "Open when looking up Importing Effects Premiere Pro in After Effects.", "keywords": ["Importing Effects Premiere Pro references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

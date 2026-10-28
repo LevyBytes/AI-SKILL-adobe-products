@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Create a personalized assistant", "file": "mobile/use-personalized-ai-assistant-in-pdf-spaces-on-mobile/create-a-personalized-assistant.md", "summary": "Open when looking up Create a personalized assistant in Acrobat.", "keywords": ["Create a personalized assistant"]},
+  {"topic": "Get tailored insights", "file": "mobile/use-personalized-ai-assistant-in-pdf-spaces-on-mobile/get-tailored-insights.md", "summary": "Open when looking up Get tailored insights in Acrobat.", "keywords": ["Get tailored insights"]},
+  {"topic": "Turn insights into charts and graphs", "file": "mobile/use-personalized-ai-assistant-in-pdf-spaces-on-mobile/turn-insights-into-charts-and-graphs.md", "summary": "Open when looking up Turn insights into charts and graphs in Acrobat.", "keywords": ["Turn insights into charts and graphs"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

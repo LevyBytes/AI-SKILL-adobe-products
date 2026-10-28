@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Field name changes (all formats)", "file": "cloud-services/output-types-migration/output-types-migration-guide-quick-reference/field-name-changes-all-formats.md", "summary": "Open when looking up Field name changes (all formats) in Photoshop.", "keywords": ["Field name changes (all formats)"]},
+  {"topic": "JPEG quality quick reference", "file": "cloud-services/output-types-migration/output-types-migration-guide-quick-reference/jpeg-quality-quick-reference.md", "summary": "Open when looking up JPEG quality quick reference in Photoshop.", "keywords": ["JPEG quality quick reference"]},
+  {"topic": "PNG compression quick reference", "file": "cloud-services/output-types-migration/output-types-migration-guide-quick-reference/png-compression-quick-reference.md", "summary": "Open when looking up PNG compression quick reference in Photoshop.", "keywords": ["PNG compression quick reference"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

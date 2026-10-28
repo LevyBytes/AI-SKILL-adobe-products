@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Verify certificates for contacts", "file": "desktop/protect-documents/encrypt-with-certificates/verify-certificate-information/verify-certificates-for-contacts.md", "summary": "Open when looking up Verify certificates for contacts in Acrobat.", "keywords": ["Verify certificates for contacts"]},
+  {"topic": "Verify your own certificate", "file": "desktop/protect-documents/encrypt-with-certificates/verify-certificate-information/verify-your-own-certificate.md", "summary": "Open when looking up Verify your own certificate in Acrobat.", "keywords": ["Verify your own certificate"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Add Emoji glyphs", "file": "desktop/text-and-typography/characters-and-glyphs/add-emoji-glyphs.md", "summary": "Open when looking up Add Emoji glyphs in Photoshop.", "keywords": ["Add Emoji glyphs"]},
+  {"topic": "Add Emoji glyphs references", "file": "desktop/text-and-typography/characters-and-glyphs/add-emoji-glyphs/reference-index.md", "summary": "Open when looking up Add Emoji glyphs in Photoshop.", "keywords": ["Add Emoji glyphs references"]},
+  {"topic": "Add glyphs", "file": "desktop/text-and-typography/characters-and-glyphs/add-glyphs.md", "summary": "Open when looking up Add glyphs in Photoshop.", "keywords": ["Add glyphs"]},
+  {"topic": "Enable glyph protection", "file": "desktop/text-and-typography/characters-and-glyphs/enable-glyph-protection.md", "summary": "Open when looking up Enable glyph protection in Photoshop.", "keywords": ["Enable glyph protection"]},
+  {"topic": "Use on-canvas glyph alternatives", "file": "desktop/text-and-typography/characters-and-glyphs/use-on-canvas-glyph-alternatives.md", "summary": "Open when looking up Use on-canvas glyph alternatives in Photoshop.", "keywords": ["Use on-canvas glyph alternatives"]},
+  {"topic": "Work with OpenType SVG fonts", "file": "desktop/text-and-typography/characters-and-glyphs/work-with-open-type-svg-fonts.md", "summary": "Open when looking up Work with OpenType SVG fonts in Photoshop.", "keywords": ["Work with OpenType SVG fonts"]},
+  {"topic": "Work with OpenType SVG fonts references", "file": "desktop/text-and-typography/characters-and-glyphs/work-with-open-type-svg-fonts/reference-index.md", "summary": "Open when looking up Work with OpenType SVG fonts in Photoshop.", "keywords": ["Work with OpenType SVG fonts references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

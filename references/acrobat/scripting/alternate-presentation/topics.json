@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "active", "file": "scripting/alternate-presentation/active.md", "summary": "Open when looking up active in Acrobat.", "keywords": ["active"]},
+  {"topic": "JavaScript APIs - AlternatePresentation", "file": "scripting/alternate-presentation/java-script-apis-alternate-presentation.md", "summary": "Open when looking up JavaScript APIs - AlternatePresentation in Acrobat.", "keywords": ["JavaScript APIs - AlternatePresentation"]},
+  {"topic": "start", "file": "scripting/alternate-presentation/start.md", "summary": "Open when looking up start in Acrobat.", "keywords": ["start"]},
+  {"topic": "stop", "file": "scripting/alternate-presentation/stop.md", "summary": "Open when looking up stop in Acrobat.", "keywords": ["stop"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

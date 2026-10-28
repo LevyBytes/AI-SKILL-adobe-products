@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Applying attributes to words", "file": "references/scripting/words-example/applying-attributes-to-words.md", "summary": "Open when looking up Applying attributes to words in Illustrator.", "keywords": ["Applying attributes to words"]},
-  {"topic": "Counting words", "file": "references/scripting/words-example/counting-words.md", "summary": "Open when looking up Counting words in Illustrator.", "keywords": ["Counting words"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

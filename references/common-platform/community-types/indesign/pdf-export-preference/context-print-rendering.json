@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "PDFExportPreference.ignoreSpreadOverrides", "file": "community-types/indesign/pdf-export-preference/ignore-spread-overrides.md", "summary": "Open when looking up PDFExportPreference.ignoreSpreadOverrides in Shared Adobe platform.", "keywords": ["PDFExportPreference.ignoreSpreadOverrides"]},
+  {"topic": "PDFExportPreference.omitBitmaps", "file": "community-types/indesign/pdf-export-preference/omit-bitmaps.md", "summary": "Open when looking up PDFExportPreference.omitBitmaps in Shared Adobe platform.", "keywords": ["PDFExportPreference.omitBitmaps"]},
+  {"topic": "PDFExportPreference.omitEPS", "file": "community-types/indesign/pdf-export-preference/omit-eps.md", "summary": "Open when looking up PDFExportPreference.omitEPS in Shared Adobe platform.", "keywords": ["PDFExportPreference.omitEPS"]},
+  {"topic": "PDFExportPreference.omitPDF", "file": "community-types/indesign/pdf-export-preference/omit-pdf.md", "summary": "Open when looking up PDFExportPreference.omitPDF in Shared Adobe platform.", "keywords": ["PDFExportPreference.omitPDF"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

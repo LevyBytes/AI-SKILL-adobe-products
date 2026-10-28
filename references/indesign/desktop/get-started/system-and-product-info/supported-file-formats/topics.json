@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Export formats", "file": "desktop/get-started/system-and-product-info/supported-file-formats/export-formats.md", "summary": "Open when looking up Export formats in InDesign.", "keywords": ["Export formats"]},
+  {"topic": "Graphics formats", "file": "desktop/get-started/system-and-product-info/supported-file-formats/graphics-formats.md", "summary": "Open when looking up Graphics formats in InDesign.", "keywords": ["Graphics formats"]},
+  {"topic": "InCopy interchange", "file": "desktop/get-started/system-and-product-info/supported-file-formats/in-copy-interchange.md", "summary": "Open when looking up InCopy interchange in InDesign.", "keywords": ["InCopy interchange"]},
+  {"topic": "Open formats", "file": "desktop/get-started/system-and-product-info/supported-file-formats/open-formats.md", "summary": "Open when looking up Open formats in InDesign.", "keywords": ["Open formats"]},
+  {"topic": "Place formats (import)", "file": "desktop/get-started/system-and-product-info/supported-file-formats/place-formats-import.md", "summary": "Open when looking up Place formats (import) in InDesign.", "keywords": ["Place formats (import)"]},
+  {"topic": "Preflight and packaging", "file": "desktop/get-started/system-and-product-info/supported-file-formats/preflight-and-packaging.md", "summary": "Open when looking up Preflight and packaging in InDesign.", "keywords": ["Preflight and packaging"]},
+  {"topic": "Save formats", "file": "desktop/get-started/system-and-product-info/supported-file-formats/save-formats.md", "summary": "Open when looking up Save formats in InDesign.", "keywords": ["Save formats"]},
+  {"topic": "Snippets", "file": "desktop/get-started/system-and-product-info/supported-file-formats/snippets.md", "summary": "Open when looking up Snippets in InDesign.", "keywords": ["Snippets"]},
+  {"topic": "Text formats", "file": "desktop/get-started/system-and-product-info/supported-file-formats/text-formats.md", "summary": "Open when looking up Text formats in InDesign.", "keywords": ["Text formats"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

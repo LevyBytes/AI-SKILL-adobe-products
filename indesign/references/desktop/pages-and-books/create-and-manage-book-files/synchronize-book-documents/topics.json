@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Select synchronization options", "file": "references/desktop/pages-and-books/create-and-manage-book-files/synchronize-book-documents/select-synchronization-options.md", "summary": "Open when looking up Select synchronization options in InDesign.", "keywords": ["Select synchronization options"]},
-  {"topic": "Synchronize documents with the style source", "file": "references/desktop/pages-and-books/create-and-manage-book-files/synchronize-book-documents/synchronize-documents-with-the-style-source.md", "summary": "Open when looking up Synchronize documents with the style source in InDesign.", "keywords": ["Synchronize documents with the style source"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

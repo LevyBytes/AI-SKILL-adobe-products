@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "window.BaseUIEvent - BaseUIEvent(type, eventInit)", "file": "uxp/base-ui-event/constructor.md", "summary": "Open when looking up window.BaseUIEvent - BaseUIEvent(type, eventInit) in Photoshop.", "keywords": ["window.BaseUIEvent - BaseUIEvent(type, eventInit)"]},
+  {"topic": "window.BaseUIEvent - composedPath()", "file": "uxp/base-ui-event/composed-path.md", "summary": "Open when looking up window.BaseUIEvent - composedPath() in Photoshop.", "keywords": ["window.BaseUIEvent - composedPath()"]},
+  {"topic": "window.BaseUIEvent - initEvent(typeArg, bubblesArg, cancelableArg)", "file": "uxp/base-ui-event/init-event.md", "summary": "Open when looking up window.BaseUIEvent - initEvent(typeArg, bubblesArg, cancelableArg) in Photoshop.", "keywords": ["window.BaseUIEvent - initEvent(typeArg, bubblesArg, cancelableArg)"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

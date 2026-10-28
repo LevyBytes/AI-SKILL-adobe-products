@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "And much more", "file": "references/uxp/scripts/advanced-topics/and-much-more.md", "summary": "Open when looking up And much more in InDesign.", "keywords": ["And much more"]},
-  {"topic": "File I/O", "file": "references/uxp/scripts/advanced-topics/file-i-o.md", "summary": "Open when looking up File I/O in InDesign.", "keywords": ["File I/O"]},
-  {"topic": "Network I/O", "file": "references/uxp/scripts/advanced-topics/network-i-o.md", "summary": "Open when looking up Network I/O in InDesign.", "keywords": ["Network I/O"]},
-  {"topic": "User Interface", "file": "references/uxp/scripts/advanced-topics/user-interface.md", "summary": "Open when looking up User Interface in InDesign.", "keywords": ["User Interface"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

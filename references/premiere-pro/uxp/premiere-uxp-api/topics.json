@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Additional Resources", "file": "uxp/premiere-uxp-api/additional-resources.md", "summary": "Open when looking up Additional Resources in Premiere Pro.", "keywords": ["Additional Resources"]},
+  {"topic": "API References", "file": "uxp/premiere-uxp-api/api-references.md", "summary": "Open when looking up API References in Premiere Pro.", "keywords": ["API References"]},
+  {"topic": "Building Plugins", "file": "uxp/premiere-uxp-api/building-plugins.md", "summary": "Open when looking up Building Plugins in Premiere Pro.", "keywords": ["Building Plugins"]},
+  {"topic": "Join the community", "file": "uxp/premiere-uxp-api/join-the-community.md", "summary": "Open when looking up Join the community in Premiere Pro.", "keywords": ["Join the community"]},
+  {"topic": "New to UXP?", "file": "uxp/premiere-uxp-api/new-to-uxp.md", "summary": "Open when looking up New to UXP? in Premiere Pro.", "keywords": ["New to UXP?"]},
+  {"topic": "Resources", "file": "uxp/premiere-uxp-api/resources.md", "summary": "Open when looking up Resources in Premiere Pro.", "keywords": ["Resources"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

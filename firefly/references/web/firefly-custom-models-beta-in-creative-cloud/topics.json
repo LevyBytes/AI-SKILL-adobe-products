@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "firefly", "topics": [
-  {"topic": "Firefly Custom Models (beta) in Creative Cloud", "file": "references/web/firefly-custom-models-beta-in-creative-cloud/firefly-custom-models-beta-in-creative-cloud.md", "summary": "Open when looking up Firefly Custom Models (beta) in Creative Cloud in Firefly.", "keywords": ["Firefly Custom Models (beta) in Creative Cloud"]},
-  {"topic": "Train Firefly Custom Models (beta)", "file": "references/web/firefly-custom-models-beta-in-creative-cloud/train-firefly-custom-models-beta.md", "summary": "Open when looking up Train Firefly Custom Models (beta) in Firefly.", "keywords": ["Train Firefly Custom Models (beta)"]},
-  {"topic": "Train Firefly Custom Models (beta) references", "file": "references/web/firefly-custom-models-beta-in-creative-cloud/train-firefly-custom-models-beta/reference-index.md", "summary": "Open when looking up Train Firefly Custom Models (beta) in Firefly.", "keywords": ["Train Firefly Custom Models (beta) references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

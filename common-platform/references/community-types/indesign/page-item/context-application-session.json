@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "PageItem.preferences", "file": "references/community-types/indesign/page-item/preferences.md", "summary": "Open when looking up PageItem.preferences in Shared Adobe platform.", "keywords": ["PageItem.preferences"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

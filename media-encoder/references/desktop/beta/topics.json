@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "media-encoder", "topics": [
-  {"topic": "Media Encoder Beta", "file": "references/desktop/beta/media-encoder-beta.md", "summary": "Open when looking up Media Encoder Beta in Media Encoder.", "keywords": ["Media Encoder Beta"]},
-  {"topic": "Media Encoder Beta references", "file": "references/desktop/beta/media-encoder-beta/reference-index.md", "summary": "Open when looking up Media Encoder Beta in Media Encoder.", "keywords": ["Media Encoder Beta references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

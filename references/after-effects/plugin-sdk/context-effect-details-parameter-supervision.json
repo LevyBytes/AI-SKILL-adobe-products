@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Parameter Supervision - PF_ParamUtilSuite3 references", "file": "plugin-sdk/parameter-supervision-pf-param-util-suite3/reference-index.md", "summary": "Open when looking up Parameter Supervision - PF_ParamUtilSuite3 in After Effects.", "keywords": ["Parameter Supervision - PF_ParamUtilSuite3 references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

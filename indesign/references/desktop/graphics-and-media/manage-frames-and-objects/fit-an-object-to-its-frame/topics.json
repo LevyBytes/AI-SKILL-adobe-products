@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Apply fitting commands to frames", "file": "references/desktop/graphics-and-media/manage-frames-and-objects/fit-an-object-to-its-frame/apply-fitting-commands-to-frames.md", "summary": "Open when looking up Apply fitting commands to frames in InDesign.", "keywords": ["Apply fitting commands to frames"]},
-  {"topic": "Independent frame and content adjustment", "file": "references/desktop/graphics-and-media/manage-frames-and-objects/fit-an-object-to-its-frame/independent-frame-and-content-adjustment.md", "summary": "Open when looking up Independent frame and content adjustment in InDesign.", "keywords": ["Independent frame and content adjustment"]},
-  {"topic": "Set automatic frame fitting", "file": "references/desktop/graphics-and-media/manage-frames-and-objects/fit-an-object-to-its-frame/set-automatic-frame-fitting.md", "summary": "Open when looking up Set automatic frame fitting in InDesign.", "keywords": ["Set automatic frame fitting"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Create a clip layer in Adobe Premiere and add image or video media.", "file": "desktop/create-clip-layers/image-and-video-clip-layers.md", "summary": "Open when looking up Create a clip layer in Adobe Premiere and add image or video media. in Premiere Pro.", "keywords": ["Create a clip layer in Adobe Premiere and add image or video media."]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

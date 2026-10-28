@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Export guides", "file": "references/desktop/get-started/monitor-adjustments/save-export-and-import-custom-guides/export-guides.md", "summary": "Open when looking up Export guides in Premiere Pro.", "keywords": ["Export guides"]},
-  {"topic": "Import guides", "file": "references/desktop/get-started/monitor-adjustments/save-export-and-import-custom-guides/import-guides.md", "summary": "Open when looking up Import guides in Premiere Pro.", "keywords": ["Import guides"]},
-  {"topic": "Save guides", "file": "references/desktop/get-started/monitor-adjustments/save-export-and-import-custom-guides/save-guides.md", "summary": "Open when looking up Save guides in Premiere Pro.", "keywords": ["Save guides"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

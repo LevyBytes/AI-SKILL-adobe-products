@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Resources", "file": "uxp/resources.md", "summary": "Open when choosing InDesign API references or file, network and storage recipes.", "keywords": ["Resources"]},
+  {"topic": "File I/O", "file": "uxp/scripts/advanced-topics/file-i-o.md", "summary": "Open when looking up File I/O in InDesign.", "keywords": ["File I/O"]},
+  {"topic": "Network I/O", "file": "uxp/scripts/advanced-topics/network-i-o.md", "summary": "Open when looking up Network I/O in InDesign.", "keywords": ["Network I/O"]},
+  {"topic": "User Interface", "file": "uxp/scripts/advanced-topics/user-interface.md", "summary": "Open when looking up User Interface in InDesign.", "keywords": ["User Interface"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

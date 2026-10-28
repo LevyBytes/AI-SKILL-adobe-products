@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "MOUSE_DOWN", "file": "references/document-model/behavior-events/mousedown.md", "summary": "Open when looking up MOUSE_DOWN in InDesign.", "keywords": ["MOUSE_DOWN"]},
-  {"topic": "MOUSE_ENTER", "file": "references/document-model/behavior-events/mouseenter.md", "summary": "Open when looking up MOUSE_ENTER in InDesign.", "keywords": ["MOUSE_ENTER"]},
-  {"topic": "MOUSE_EXIT", "file": "references/document-model/behavior-events/mouseexit.md", "summary": "Open when looking up MOUSE_EXIT in InDesign.", "keywords": ["MOUSE_EXIT"]},
-  {"topic": "MOUSE_UP", "file": "references/document-model/behavior-events/mouseup.md", "summary": "Open when looking up MOUSE_UP in InDesign.", "keywords": ["MOUSE_UP"]},
-  {"topic": "ON_BLUR", "file": "references/document-model/behavior-events/onblur.md", "summary": "Open when looking up ON_BLUR in InDesign.", "keywords": ["ON_BLUR"]},
-  {"topic": "ON_FOCUS", "file": "references/document-model/behavior-events/onfocus.md", "summary": "Open when looking up ON_FOCUS in InDesign.", "keywords": ["ON_FOCUS"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

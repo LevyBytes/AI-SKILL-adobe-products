@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Internal server set up for PDF review", "file": "desktop/share-and-review-documents/share-documents/about-reviewing-on-internal-servers/internal-server-set-up-for-pdf-review.md", "summary": "Open when looking up Internal server set up for PDF review in Acrobat.", "keywords": ["Internal server set up for PDF review"]},
+  {"topic": "Supported internal server locations include:", "file": "desktop/share-and-review-documents/share-documents/about-reviewing-on-internal-servers/supported-internal-server-locations-include.md", "summary": "Open when looking up Supported internal server locations include: in Acrobat.", "keywords": ["Supported internal server locations include:"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

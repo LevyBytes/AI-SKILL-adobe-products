@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "addAnnot", "file": "scripting/doc/add-annot.md", "summary": "Open when looking up addAnnot in Acrobat.", "keywords": ["addAnnot"]},
+  {"topic": "applyRedactions", "file": "scripting/doc/apply-redactions.md", "summary": "Open when looking up applyRedactions in Acrobat.", "keywords": ["applyRedactions"]},
+  {"topic": "getAnnot", "file": "scripting/doc/get-annot.md", "summary": "Open when looking up getAnnot in Acrobat.", "keywords": ["getAnnot"]},
+  {"topic": "getAnnots", "file": "scripting/doc/get-annots.md", "summary": "Open when looking up getAnnots in Acrobat.", "keywords": ["getAnnots"]},
+  {"topic": "selectedAnnots", "file": "scripting/doc/selected-annots.md", "summary": "Open when looking up selectedAnnots in Acrobat.", "keywords": ["selectedAnnots"]},
+  {"topic": "syncAnnotScan", "file": "scripting/doc/sync-annot-scan.md", "summary": "Open when looking up syncAnnotScan in Acrobat.", "keywords": ["syncAnnotScan"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

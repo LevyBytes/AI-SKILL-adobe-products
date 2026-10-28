@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Adjust the shape of spine", "file": "desktop/manage-colors/apply-transparency-and-blending/modify-the-spine-of-blended-objects/adjust-the-shape-of-spine.md", "summary": "Open when looking up Adjust the shape of spine in Illustrator.", "keywords": ["Adjust the shape of spine"]},
+  {"topic": "Replace the spine with a different path", "file": "desktop/manage-colors/apply-transparency-and-blending/modify-the-spine-of-blended-objects/replace-the-spine-with-a-different-path.md", "summary": "Open when looking up Replace the spine with a different path in Illustrator.", "keywords": ["Replace the spine with a different path"]},
+  {"topic": "Reverse the order of a blend on its spine", "file": "desktop/manage-colors/apply-transparency-and-blending/modify-the-spine-of-blended-objects/reverse-the-order-of-a-blend-on-its-spine.md", "summary": "Open when looking up Reverse the order of a blend on its spine in Illustrator.", "keywords": ["Reverse the order of a blend on its spine"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Create InDesign plug-ins", "file": "desktop/app-integrations/create-in-design-plug-ins-with-uxp/create-in-design-plug-ins.md", "summary": "Open when looking up Create InDesign plug-ins in InDesign.", "keywords": ["Create InDesign plug-ins"]},
+  {"topic": "Flyout menu enhancements", "file": "desktop/app-integrations/create-in-design-plug-ins-with-uxp/flyout-menu-enhancements.md", "summary": "Open when looking up Flyout menu enhancements in InDesign.", "keywords": ["Flyout menu enhancements"]},
+  {"topic": "GUID support", "file": "desktop/app-integrations/create-in-design-plug-ins-with-uxp/guid-support.md", "summary": "Open when looking up GUID support in InDesign.", "keywords": ["GUID support"]},
+  {"topic": "Persistent storage", "file": "desktop/app-integrations/create-in-design-plug-ins-with-uxp/persistent-storage.md", "summary": "Open when looking up Persistent storage in InDesign.", "keywords": ["Persistent storage"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

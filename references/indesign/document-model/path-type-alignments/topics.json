@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "BOTTOM_PATH_ALIGNMENT", "file": "document-model/path-type-alignments/bottompathalignment.md", "summary": "Open when looking up BOTTOM_PATH_ALIGNMENT in InDesign.", "keywords": ["BOTTOM_PATH_ALIGNMENT"]},
+  {"topic": "CENTER_PATH_ALIGNMENT", "file": "document-model/path-type-alignments/centerpathalignment.md", "summary": "Open when looking up CENTER_PATH_ALIGNMENT in InDesign.", "keywords": ["CENTER_PATH_ALIGNMENT"]},
+  {"topic": "TOP_PATH_ALIGNMENT", "file": "document-model/path-type-alignments/toppathalignment.md", "summary": "Open when looking up TOP_PATH_ALIGNMENT in InDesign.", "keywords": ["TOP_PATH_ALIGNMENT"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

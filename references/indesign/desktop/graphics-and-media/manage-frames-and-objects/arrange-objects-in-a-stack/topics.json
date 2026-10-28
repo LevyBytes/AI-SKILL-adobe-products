@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Change an object's position in the stack", "file": "desktop/graphics-and-media/manage-frames-and-objects/arrange-objects-in-a-stack/change-an-object-s-position-in-the-stack.md", "summary": "Open when looking up Change an object's position in the stack in InDesign.", "keywords": ["Change an object's position in the stack"]},
+  {"topic": "Reorder objects within a layer using the Layers panel", "file": "desktop/graphics-and-media/manage-frames-and-objects/arrange-objects-in-a-stack/reorder-objects-within-a-layer-using-the-layers-panel.md", "summary": "Open when looking up Reorder objects within a layer using the Layers panel in InDesign.", "keywords": ["Reorder objects within a layer using the Layers panel"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

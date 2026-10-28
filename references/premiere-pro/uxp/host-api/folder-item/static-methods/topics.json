@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "cast", "file": "uxp/host-api/folder-item/static-methods/cast.md", "summary": "Open when looking up cast in Premiere Pro.", "keywords": ["cast"]},
+  {"topic": "createBinAction", "file": "uxp/host-api/folder-item/static-methods/create-bin-action.md", "summary": "Open when looking up createBinAction in Premiere Pro.", "keywords": ["createBinAction"]},
+  {"topic": "createMoveItemAction", "file": "uxp/host-api/folder-item/static-methods/create-move-item-action.md", "summary": "Open when looking up createMoveItemAction in Premiere Pro.", "keywords": ["createMoveItemAction"]},
+  {"topic": "createRemoveItemAction", "file": "uxp/host-api/folder-item/static-methods/create-remove-item-action.md", "summary": "Open when looking up createRemoveItemAction in Premiere Pro.", "keywords": ["createRemoveItemAction"]},
+  {"topic": "createRenameBinAction", "file": "uxp/host-api/folder-item/static-methods/create-rename-bin-action.md", "summary": "Open when looking up createRenameBinAction in Premiere Pro.", "keywords": ["createRenameBinAction"]},
+  {"topic": "createSetColorLabelAction", "file": "uxp/host-api/folder-item/static-methods/create-set-color-label-action.md", "summary": "Open when looking up createSetColorLabelAction in Premiere Pro.", "keywords": ["createSetColorLabelAction"]},
+  {"topic": "createSetNameAction", "file": "uxp/host-api/folder-item/static-methods/create-set-name-action.md", "summary": "Open when looking up createSetNameAction in Premiere Pro.", "keywords": ["createSetNameAction"]},
+  {"topic": "createSmartBinAction", "file": "uxp/host-api/folder-item/static-methods/create-smart-bin-action.md", "summary": "Open when looking up createSmartBinAction in Premiere Pro.", "keywords": ["createSmartBinAction"]},
+  {"topic": "getColorLabelIndex", "file": "uxp/host-api/folder-item/static-methods/get-color-label-index.md", "summary": "Open when looking up getColorLabelIndex in Premiere Pro.", "keywords": ["getColorLabelIndex"]},
+  {"topic": "getItems", "file": "uxp/host-api/folder-item/static-methods/get-items.md", "summary": "Open when looking up getItems in Premiere Pro.", "keywords": ["getItems"]},
+  {"topic": "getProject", "file": "uxp/host-api/folder-item/static-methods/get-project.md", "summary": "Open when looking up getProject in Premiere Pro.", "keywords": ["getProject"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

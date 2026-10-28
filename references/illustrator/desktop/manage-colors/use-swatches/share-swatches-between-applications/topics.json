@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Import Swatches from Illustrator to InDesign", "file": "desktop/manage-colors/use-swatches/share-swatches-between-applications/import-swatches-from-illustrator-to-in-design.md", "summary": "Open when looking up Import Swatches from Illustrator to InDesign in Illustrator.", "keywords": ["Import Swatches from Illustrator to InDesign"]},
+  {"topic": "Import Swatches from Illustrator to Photoshop", "file": "desktop/manage-colors/use-swatches/share-swatches-between-applications/import-swatches-from-illustrator-to-photoshop.md", "summary": "Open when looking up Import Swatches from Illustrator to Photoshop in Illustrator.", "keywords": ["Import Swatches from Illustrator to Photoshop"]},
+  {"topic": "Save Swatches as an ASE file in Illustrator", "file": "desktop/manage-colors/use-swatches/share-swatches-between-applications/save-swatches-as-an-ase-file-in-illustrator.md", "summary": "Open when looking up Save Swatches as an ASE file in Illustrator in Illustrator.", "keywords": ["Save Swatches as an ASE file in Illustrator"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

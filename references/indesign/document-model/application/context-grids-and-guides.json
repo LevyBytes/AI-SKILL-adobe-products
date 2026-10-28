@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "baselineFrameGridOptions", "file": "document-model/application/baseline-frame-grid-options.md", "summary": "Open when looking up baselineFrameGridOptions in InDesign.", "keywords": ["baselineFrameGridOptions"]},
+  {"topic": "cjkGridPreferences", "file": "document-model/application/cjk-grid-preferences.md", "summary": "Open when looking up cjkGridPreferences in InDesign.", "keywords": ["cjkGridPreferences"]},
+  {"topic": "gridPreferences", "file": "document-model/application/grid-preferences.md", "summary": "Open when looking up gridPreferences in InDesign.", "keywords": ["gridPreferences"]},
+  {"topic": "guidePreferences", "file": "document-model/application/guide-preferences.md", "summary": "Open when looking up guidePreferences in InDesign.", "keywords": ["guidePreferences"]},
+  {"topic": "layoutGridData", "file": "document-model/application/layout-grid-data.md", "summary": "Open when looking up layoutGridData in InDesign.", "keywords": ["layoutGridData"]},
+  {"topic": "marginPreferences", "file": "document-model/application/margin-preferences.md", "summary": "Open when looking up marginPreferences in InDesign.", "keywords": ["marginPreferences"]},
+  {"topic": "namedGrids", "file": "document-model/application/named-grids.md", "summary": "Open when looking up namedGrids in InDesign.", "keywords": ["namedGrids"]},
+  {"topic": "pasteboardPreferences", "file": "document-model/application/pasteboard-preferences.md", "summary": "Open when looking up pasteboardPreferences in InDesign.", "keywords": ["pasteboardPreferences"]},
+  {"topic": "smartGuidePreferences", "file": "document-model/application/smart-guide-preferences.md", "summary": "Open when looking up smartGuidePreferences in InDesign.", "keywords": ["smartGuidePreferences"]},
+  {"topic": "storyGridData", "file": "document-model/application/story-grid-data.md", "summary": "Open when looking up storyGridData in InDesign.", "keywords": ["storyGridData"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

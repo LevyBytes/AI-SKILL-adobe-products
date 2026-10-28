@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Borders", "file": "desktop/warp-stabilizer-settings/borders.md", "summary": "Open when looking up Borders in Premiere Pro.", "keywords": ["Borders"]},
+  {"topic": "Stabilization", "file": "desktop/warp-stabilizer-settings/stabilization.md", "summary": "Open when looking up Stabilization in Premiere Pro.", "keywords": ["Stabilization"]},
+  {"topic": "Warp Stabilizer settings for analysis, methods, and borders", "file": "desktop/warp-stabilizer-settings/warp-stabilizer-settings-for-analysis-methods-and-borders.md", "summary": "Open when looking up Warp Stabilizer settings for analysis, methods, and borders in Premiere Pro.", "keywords": ["Warp Stabilizer settings for analysis, methods, and borders"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

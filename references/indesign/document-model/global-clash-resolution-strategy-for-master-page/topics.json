@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "LOAD_ALL_WITH_OVERWRITE", "file": "document-model/global-clash-resolution-strategy-for-master-page/loadallwithoverwrite.md", "summary": "Open when looking up LOAD_ALL_WITH_OVERWRITE in InDesign.", "keywords": ["LOAD_ALL_WITH_OVERWRITE"]},
+  {"topic": "LOAD_ALL_WITH_RENAME", "file": "document-model/global-clash-resolution-strategy-for-master-page/loadallwithrename.md", "summary": "Open when looking up LOAD_ALL_WITH_RENAME in InDesign.", "keywords": ["LOAD_ALL_WITH_RENAME"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

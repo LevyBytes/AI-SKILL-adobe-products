@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "GraphicStyles.getByName()", "file": "scripting/graphic-styles/get-by-name.md", "summary": "Open when looking up GraphicStyles.getByName() in Illustrator.", "keywords": ["GraphicStyles.getByName()"]},
+  {"topic": "GraphicStyles.index()", "file": "scripting/graphic-styles/index.md", "summary": "Open when looking up GraphicStyles.index() in Illustrator.", "keywords": ["GraphicStyles.index()"]},
+  {"topic": "GraphicStyles.length", "file": "scripting/graphic-styles/length.md", "summary": "Open when looking up GraphicStyles.length in Illustrator.", "keywords": ["GraphicStyles.length"]},
+  {"topic": "GraphicStyles.parent", "file": "scripting/graphic-styles/parent.md", "summary": "Open when looking up GraphicStyles.parent in Illustrator.", "keywords": ["GraphicStyles.parent"]},
+  {"topic": "GraphicStyles.removeAll()", "file": "scripting/graphic-styles/remove-all.md", "summary": "Open when looking up GraphicStyles.removeAll() in Illustrator.", "keywords": ["GraphicStyles.removeAll()"]},
+  {"topic": "GraphicStyles.typename", "file": "scripting/graphic-styles/typename.md", "summary": "Open when looking up GraphicStyles.typename in Illustrator.", "keywords": ["GraphicStyles.typename"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

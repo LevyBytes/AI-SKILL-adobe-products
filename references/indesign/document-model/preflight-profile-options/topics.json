@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "USE_EMBEDDED_PROFILE", "file": "document-model/preflight-profile-options/useembeddedprofile.md", "summary": "Open when looking up USE_EMBEDDED_PROFILE in InDesign.", "keywords": ["USE_EMBEDDED_PROFILE"]},
+  {"topic": "USE_WORKING_PROFILE", "file": "document-model/preflight-profile-options/useworkingprofile.md", "summary": "Open when looking up USE_WORKING_PROFILE in InDesign.", "keywords": ["USE_WORKING_PROFILE"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Accessibility features in PDFs", "file": "references/desktop/accessibility/accessibility-features-in-pdfs.md", "summary": "Open when looking up Accessibility features in PDFs in Acrobat.", "keywords": ["Accessibility features in PDFs"]},
-  {"topic": "Accessibility features in PDFs references", "file": "references/desktop/accessibility/accessibility-features-in-pdfs/reference-index.md", "summary": "Open when looking up Accessibility features in PDFs in Acrobat.", "keywords": ["Accessibility features in PDFs references"]},
-  {"topic": "Reading PDFs with reflow and accessibility features", "file": "references/desktop/accessibility/reading-pdfs-with-reflow-and-accessibility-features.md", "summary": "Open when looking up Reading PDFs with reflow and accessibility features in Acrobat.", "keywords": ["Reading PDFs with reflow and accessibility features"]},
-  {"topic": "Reading PDFs with reflow and accessibility features references", "file": "references/desktop/accessibility/reading-pdfs-with-reflow-and-accessibility-features/reference-index.md", "summary": "Open when looking up Reading PDFs with reflow and accessibility features in Acrobat.", "keywords": ["Reading PDFs with reflow and accessibility features references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

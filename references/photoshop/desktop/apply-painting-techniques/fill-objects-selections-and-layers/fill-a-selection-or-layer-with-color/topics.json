@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Keyboard shortcuts", "file": "desktop/apply-painting-techniques/fill-objects-selections-and-layers/fill-a-selection-or-layer-with-color/keyboard-shortcuts.md", "summary": "Open when looking up Keyboard shortcuts in Photoshop.", "keywords": ["Keyboard shortcuts"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

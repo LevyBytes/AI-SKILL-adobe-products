@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "macOS", "file": "desktop/edit-documents/organize-pages/move-or-copy-pages-between-two-pdfs/mac-os.md", "summary": "Open when looking up macOS in Acrobat.", "keywords": ["macOS"]},
+  {"topic": "Windows", "file": "desktop/edit-documents/organize-pages/move-or-copy-pages-between-two-pdfs/windows.md", "summary": "Open when looking up Windows in Acrobat.", "keywords": ["Windows"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

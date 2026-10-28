@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "After Effects Beta", "file": "references/desktop/what-s-new/after-effects-beta.md", "summary": "Open when looking up After Effects Beta in After Effects.", "keywords": ["After Effects Beta"]},
-  {"topic": "After Effects Beta references", "file": "references/desktop/what-s-new/after-effects-beta/reference-index.md", "summary": "Open when looking up After Effects Beta in After Effects.", "keywords": ["After Effects Beta references"]},
-  {"topic": "What's new in After Effects", "file": "references/desktop/what-s-new/what-s-new-in-after-effects.md", "summary": "Open when looking up What's new in After Effects in After Effects.", "keywords": ["What's new in After Effects"]},
-  {"topic": "What's new in After Effects references", "file": "references/desktop/what-s-new/what-s-new-in-after-effects/reference-index.md", "summary": "Open when looking up What's new in After Effects in After Effects.", "keywords": ["What's new in After Effects references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

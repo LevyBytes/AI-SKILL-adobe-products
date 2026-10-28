@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "The Artwork Tree - Color objects", "file": "scripting/color-objects/the-artwork-tree-color-objects.md", "summary": "Open when looking up The Artwork Tree - Color objects in Illustrator.", "keywords": ["The Artwork Tree - Color objects"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

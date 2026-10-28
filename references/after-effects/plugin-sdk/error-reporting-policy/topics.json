@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Errors - Error Reporting Policy", "file": "plugin-sdk/error-reporting-policy/errors-error-reporting-policy.md", "summary": "Open when looking up Errors - Error Reporting Policy in After Effects.", "keywords": ["Errors - Error Reporting Policy"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

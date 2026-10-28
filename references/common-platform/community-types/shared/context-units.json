@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "declare const UnitValue: UnitValueConstructor", "file": "community-types/shared/declare-const-unit-value-unit-value-constructor.md", "summary": "Open when looking up declare const UnitValue: UnitValueConstructor in Shared Adobe platform.", "keywords": ["declare const UnitValue: UnitValueConstructor"]},
+  {"topic": "UnitName", "file": "community-types/shared/unit-name.md", "summary": "Open when looking up UnitName in Shared Adobe platform.", "keywords": ["UnitName"]},
+  {"topic": "UnitNameAbbrev", "file": "community-types/shared/unit-name-abbrev.md", "summary": "Open when looking up UnitNameAbbrev in Shared Adobe platform.", "keywords": ["UnitNameAbbrev"]},
+  {"topic": "UnitValue", "file": "community-types/shared/unit-value.md", "summary": "Open when looking up UnitValue in Shared Adobe platform.", "keywords": ["UnitValue"]},
+  {"topic": "UnitValueConstructor", "file": "community-types/shared/unit-value-constructor.md", "summary": "Open when looking up UnitValueConstructor in Shared Adobe platform.", "keywords": ["UnitValueConstructor"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

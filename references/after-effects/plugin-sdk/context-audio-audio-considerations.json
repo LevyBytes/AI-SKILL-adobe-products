@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Audio Considerations", "file": "plugin-sdk/audio-considerations.md", "summary": "Open when looking up Audio Considerations in After Effects.", "keywords": ["Audio Considerations"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

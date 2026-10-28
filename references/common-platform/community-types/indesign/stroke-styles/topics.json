@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "StrokeStyles collection iteration", "file": "community-types/indesign/stroke-styles/collection-iteration.md", "summary": "Open when looking up StrokeStyles collection iteration in Shared Adobe platform.", "keywords": ["StrokeStyles collection iteration"]},
+  {"topic": "StrokeStyles declaration", "file": "community-types/indesign/stroke-styles/declaration.md", "summary": "Open when looking up StrokeStyles declaration in Shared Adobe platform.", "keywords": ["StrokeStyles declaration"]},
+  {"topic": "StrokeStyles named and indexed items", "file": "community-types/indesign/stroke-styles/named-and-indexed-items.md", "summary": "Open when looking up StrokeStyles named and indexed items in Shared Adobe platform.", "keywords": ["StrokeStyles named and indexed items"]},
+  {"topic": "StrokeStyles.count", "file": "community-types/indesign/stroke-styles/count.md", "summary": "Open when looking up StrokeStyles.count in Shared Adobe platform.", "keywords": ["StrokeStyles.count"]},
+  {"topic": "StrokeStyles.IndexSignature", "file": "community-types/indesign/stroke-styles/index-signature.md", "summary": "Open when looking up StrokeStyles.IndexSignature in Shared Adobe platform.", "keywords": ["StrokeStyles.IndexSignature"]},
+  {"topic": "StrokeStyles.itemByRange", "file": "community-types/indesign/stroke-styles/item-by-range.md", "summary": "Open when looking up StrokeStyles.itemByRange in Shared Adobe platform.", "keywords": ["StrokeStyles.itemByRange"]},
+  {"topic": "StrokeStyles.length", "file": "community-types/indesign/stroke-styles/length.md", "summary": "Open when looking up StrokeStyles.length in Shared Adobe platform.", "keywords": ["StrokeStyles.length"]},
+  {"topic": "StrokeStyles.toSource", "file": "community-types/indesign/stroke-styles/to-source.md", "summary": "Open when looking up StrokeStyles.toSource in Shared Adobe platform.", "keywords": ["StrokeStyles.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "PF_DisposeWorld", "file": "references/plugin-sdk/image-buffer-management-functions-pf-world-suite2/pf-dispose-world.md", "summary": "Open when looking up PF_DisposeWorld in After Effects.", "keywords": ["PF_DisposeWorld"]},
-  {"topic": "PF_GetPixelFormat", "file": "references/plugin-sdk/image-buffer-management-functions-pf-world-suite2/pf-get-pixel-format.md", "summary": "Open when looking up PF_GetPixelFormat in After Effects.", "keywords": ["PF_GetPixelFormat"]},
-  {"topic": "PF_NewWorld", "file": "references/plugin-sdk/image-buffer-management-functions-pf-world-suite2/pf-new-world.md", "summary": "Open when looking up PF_NewWorld in After Effects.", "keywords": ["PF_NewWorld"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "allArticles", "file": "document-model/group/all-articles.md", "summary": "Open when looking up allArticles in InDesign.", "keywords": ["allArticles"]},
+  {"topic": "articleChildren", "file": "document-model/group/article-children.md", "summary": "Open when looking up articleChildren in InDesign.", "keywords": ["articleChildren"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

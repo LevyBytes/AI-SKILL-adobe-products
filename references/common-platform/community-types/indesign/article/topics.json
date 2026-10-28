@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Article declaration", "file": "community-types/indesign/article/declaration.md", "summary": "Open when looking up Article declaration in Shared Adobe platform.", "keywords": ["Article declaration"]},
+  {"topic": "Article event listeners", "file": "community-types/indesign/article/event-listeners.md", "summary": "Open when looking up Article event listeners in Shared Adobe platform.", "keywords": ["Article event listeners"]},
+  {"topic": "Article identity and parent", "file": "community-types/indesign/article/identity-and-parent.md", "summary": "Open when looking up Article identity and parent in Shared Adobe platform.", "keywords": ["Article identity and parent"]},
+  {"topic": "Article labels and metadata", "file": "community-types/indesign/article/labels-and-metadata.md", "summary": "Open when looking up Article labels and metadata in Shared Adobe platform.", "keywords": ["Article labels and metadata"]},
+  {"topic": "Article object lifecycle", "file": "community-types/indesign/article/object-lifecycle.md", "summary": "Open when looking up Article object lifecycle in Shared Adobe platform.", "keywords": ["Article object lifecycle"]},
+  {"topic": "Article object resolution", "file": "community-types/indesign/article/object-resolution.md", "summary": "Open when looking up Article object resolution in Shared Adobe platform.", "keywords": ["Article object resolution"]},
+  {"topic": "Article.addDocumentContent", "file": "community-types/indesign/article/add-document-content.md", "summary": "Open when looking up Article.addDocumentContent in Shared Adobe platform.", "keywords": ["Article.addDocumentContent"]},
+  {"topic": "Article.articleExportStatus", "file": "community-types/indesign/article/article-export-status.md", "summary": "Open when looking up Article.articleExportStatus in Shared Adobe platform.", "keywords": ["Article.articleExportStatus"]},
+  {"topic": "Article.articleMembers", "file": "community-types/indesign/article/article-members.md", "summary": "Open when looking up Article.articleMembers in Shared Adobe platform.", "keywords": ["Article.articleMembers"]},
+  {"topic": "Article.properties", "file": "community-types/indesign/article/properties.md", "summary": "Open when looking up Article.properties in Shared Adobe platform.", "keywords": ["Article.properties"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

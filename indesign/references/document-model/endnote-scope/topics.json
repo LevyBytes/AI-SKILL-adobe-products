@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "ENDNOTE_DOCUMENT_SCOPE", "file": "references/document-model/endnote-scope/endnotedocumentscope.md", "summary": "Open when looking up ENDNOTE_DOCUMENT_SCOPE in InDesign.", "keywords": ["ENDNOTE_DOCUMENT_SCOPE"]},
-  {"topic": "STORY_SCOPE", "file": "references/document-model/endnote-scope/storyscope.md", "summary": "Open when looking up STORY_SCOPE in InDesign.", "keywords": ["STORY_SCOPE"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

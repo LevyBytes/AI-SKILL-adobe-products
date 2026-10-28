@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "clear()", "file": "references/uxp/window-local-storage/clear.md", "summary": "Open when looking up clear() in Photoshop.", "keywords": ["clear()"]},
-  {"topic": "getItem(key)", "file": "references/uxp/window-local-storage/get-item.md", "summary": "Open when looking up getItem(key) in Photoshop.", "keywords": ["getItem(key)"]},
-  {"topic": "key(index)", "file": "references/uxp/window-local-storage/key.md", "summary": "Open when looking up key(index) in Photoshop.", "keywords": ["key(index)"]},
-  {"topic": "length : number", "file": "references/uxp/window-local-storage/length-number.md", "summary": "Open when looking up length : number in Photoshop.", "keywords": ["length : number"]},
-  {"topic": "removeItem(key)", "file": "references/uxp/window-local-storage/remove-item.md", "summary": "Open when looking up removeItem(key) in Photoshop.", "keywords": ["removeItem(key)"]},
-  {"topic": "setItem(key, value)", "file": "references/uxp/window-local-storage/set-item.md", "summary": "Open when looking up setItem(key, value) in Photoshop.", "keywords": ["setItem(key, value)"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

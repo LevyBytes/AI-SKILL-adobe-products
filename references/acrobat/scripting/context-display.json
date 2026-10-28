@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Full screen references", "file": "scripting/full-screen/reference-index.md", "summary": "Open when looking up Full screen in Acrobat.", "keywords": ["Full screen references"]},
+  {"topic": "Host container references", "file": "scripting/host-container/reference-index.md", "summary": "Open when looking up Host container in Acrobat.", "keywords": ["Host container references"]},
+  {"topic": "Icon references", "file": "scripting/icon/reference-index.md", "summary": "Open when looking up Icon in Acrobat.", "keywords": ["Icon references"]},
+  {"topic": "Icon stream references", "file": "scripting/icon-stream/reference-index.md", "summary": "Open when looking up Icon stream in Acrobat.", "keywords": ["Icon stream references"]},
+  {"topic": "Monitor references", "file": "scripting/monitor/reference-index.md", "summary": "Open when looking up Monitor in Acrobat.", "keywords": ["Monitor references"]},
+  {"topic": "Monitors references", "file": "scripting/monitors/reference-index.md", "summary": "Open when looking up Monitors in Acrobat.", "keywords": ["Monitors references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

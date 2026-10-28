@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Choosing and maintaining a color setup", "file": "desktop/correct-color/color-mode-fundamentals/using-color-mode-with-color-management/choosing-and-maintaining-a-color-setup.md", "summary": "Open when looking up Choosing and maintaining a color setup in Premiere Pro.", "keywords": ["Choosing and maintaining a color setup"]},
+  {"topic": "How Color mode works with Color Management", "file": "desktop/correct-color/color-mode-fundamentals/using-color-mode-with-color-management/how-color-mode-works-with-color-management.md", "summary": "Open when looking up How Color mode works with Color Management in Premiere Pro.", "keywords": ["How Color mode works with Color Management"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

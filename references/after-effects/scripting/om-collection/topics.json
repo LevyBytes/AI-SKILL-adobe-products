@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "OMCollection object", "file": "scripting/om-collection/om-collection-object.md", "summary": "Open when looking up OMCollection object in After Effects.", "keywords": ["OMCollection object"]},
+  {"topic": "OMCollection.add()", "file": "scripting/om-collection/add.md", "summary": "Open when looking up OMCollection.add() in After Effects.", "keywords": ["OMCollection.add()"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

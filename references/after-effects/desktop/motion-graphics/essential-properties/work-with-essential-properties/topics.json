@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Glossary of terms", "file": "desktop/motion-graphics/essential-properties/work-with-essential-properties/glossary-of-terms.md", "summary": "Open when looking up Glossary of terms in After Effects.", "keywords": ["Glossary of terms"]},
+  {"topic": "Modify Source Text Essential Properties", "file": "desktop/motion-graphics/essential-properties/work-with-essential-properties/modify-source-text-essential-properties.md", "summary": "Open when looking up Modify Source Text Essential Properties in After Effects.", "keywords": ["Modify Source Text Essential Properties"]},
+  {"topic": "Pull and Push buttons", "file": "desktop/motion-graphics/essential-properties/work-with-essential-properties/pull-and-push-buttons.md", "summary": "Open when looking up Pull and Push buttons in After Effects.", "keywords": ["Pull and Push buttons"]},
+  {"topic": "Relink Essential Properties", "file": "desktop/motion-graphics/essential-properties/work-with-essential-properties/relink-essential-properties.md", "summary": "Open when looking up Relink Essential Properties in After Effects.", "keywords": ["Relink Essential Properties"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

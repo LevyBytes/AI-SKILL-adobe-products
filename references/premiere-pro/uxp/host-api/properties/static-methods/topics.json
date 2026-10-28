@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "createClearValueAction", "file": "uxp/host-api/properties/static-methods/create-clear-value-action.md", "summary": "Open when looking up createClearValueAction in Premiere Pro.", "keywords": ["createClearValueAction"]},
+  {"topic": "createSetValueAction", "file": "uxp/host-api/properties/static-methods/create-set-value-action.md", "summary": "Open when looking up createSetValueAction in Premiere Pro.", "keywords": ["createSetValueAction"]},
+  {"topic": "getProperties", "file": "uxp/host-api/properties/static-methods/get-properties.md", "summary": "Open when looking up getProperties in Premiere Pro.", "keywords": ["getProperties"]},
+  {"topic": "getValue", "file": "uxp/host-api/properties/static-methods/get-value.md", "summary": "Open when looking up getValue in Premiere Pro.", "keywords": ["getValue"]},
+  {"topic": "getValueAsBool", "file": "uxp/host-api/properties/static-methods/get-value-as-bool.md", "summary": "Open when looking up getValueAsBool in Premiere Pro.", "keywords": ["getValueAsBool"]},
+  {"topic": "getValueAsFloat", "file": "uxp/host-api/properties/static-methods/get-value-as-float.md", "summary": "Open when looking up getValueAsFloat in Premiere Pro.", "keywords": ["getValueAsFloat"]},
+  {"topic": "getValueAsInt", "file": "uxp/host-api/properties/static-methods/get-value-as-int.md", "summary": "Open when looking up getValueAsInt in Premiere Pro.", "keywords": ["getValueAsInt"]},
+  {"topic": "hasValue", "file": "uxp/host-api/properties/static-methods/has-value.md", "summary": "Open when looking up hasValue in Premiere Pro.", "keywords": ["hasValue"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

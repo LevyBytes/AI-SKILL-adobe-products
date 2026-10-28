@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "allowOverrides", "file": "document-model/svg/allow-overrides.md", "summary": "Open when looking up allowOverrides in InDesign.", "keywords": ["allowOverrides"]},
+  {"topic": "detach", "file": "document-model/svg/detach.md", "summary": "Open when looking up detach in InDesign.", "keywords": ["detach"]},
+  {"topic": "itemLayer", "file": "document-model/svg/item-layer.md", "summary": "Open when looking up itemLayer in InDesign.", "keywords": ["itemLayer"]},
+  {"topic": "locked", "file": "document-model/svg/locked.md", "summary": "Open when looking up locked in InDesign.", "keywords": ["locked"]},
+  {"topic": "nonprinting", "file": "document-model/svg/nonprinting.md", "summary": "Open when looking up nonprinting in InDesign.", "keywords": ["nonprinting"]},
+  {"topic": "overridden", "file": "document-model/svg/overridden.md", "summary": "Open when looking up overridden in InDesign.", "keywords": ["overridden"]},
+  {"topic": "overriddenMasterPageItem", "file": "document-model/svg/overridden-master-page-item.md", "summary": "Open when looking up overriddenMasterPageItem in InDesign.", "keywords": ["overriddenMasterPageItem"]},
+  {"topic": "override", "file": "document-model/svg/override.md", "summary": "Open when looking up override in InDesign.", "keywords": ["override"]},
+  {"topic": "parentPage", "file": "document-model/svg/parent-page.md", "summary": "Open when looking up parentPage in InDesign.", "keywords": ["parentPage"]},
+  {"topic": "removeOverride", "file": "document-model/svg/remove-override.md", "summary": "Open when looking up removeOverride in InDesign.", "keywords": ["removeOverride"]},
+  {"topic": "select", "file": "document-model/svg/select.md", "summary": "Open when looking up select in InDesign.", "keywords": ["select"]},
+  {"topic": "visible", "file": "document-model/svg/visible.md", "summary": "Open when looking up visible in InDesign.", "keywords": ["visible"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "conditionalTextPreferences", "file": "references/document-model/document/conditional-text-preferences.md", "summary": "Open when looking up conditionalTextPreferences in InDesign.", "keywords": ["conditionalTextPreferences"]},
-  {"topic": "conditions", "file": "references/document-model/document/conditions.md", "summary": "Open when looking up conditions in InDesign.", "keywords": ["conditions"]},
-  {"topic": "conditionSets", "file": "references/document-model/document/condition-sets.md", "summary": "Open when looking up conditionSets in InDesign.", "keywords": ["conditionSets"]},
-  {"topic": "loadConditions", "file": "references/document-model/document/load-conditions.md", "summary": "Open when looking up loadConditions in InDesign.", "keywords": ["loadConditions"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

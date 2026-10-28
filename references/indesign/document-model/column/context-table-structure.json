@@ -1,0 +1,17 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "cells", "file": "document-model/column/cells.md", "summary": "Open when looking up cells in InDesign.", "keywords": ["cells"]},
+  {"topic": "columns", "file": "document-model/column/columns.md", "summary": "Open when looking up columns in InDesign.", "keywords": ["columns"]},
+  {"topic": "columnSpan", "file": "document-model/column/column-span.md", "summary": "Open when looking up columnSpan in InDesign.", "keywords": ["columnSpan"]},
+  {"topic": "keepWithNextRow", "file": "document-model/column/keep-with-next-row.md", "summary": "Open when looking up keepWithNextRow in InDesign.", "keywords": ["keepWithNextRow"]},
+  {"topic": "merge", "file": "document-model/column/merge.md", "summary": "Open when looking up merge in InDesign.", "keywords": ["merge"]},
+  {"topic": "parentColumn", "file": "document-model/column/parent-column.md", "summary": "Open when looking up parentColumn in InDesign.", "keywords": ["parentColumn"]},
+  {"topic": "parentRow", "file": "document-model/column/parent-row.md", "summary": "Open when looking up parentRow in InDesign.", "keywords": ["parentRow"]},
+  {"topic": "redistribute", "file": "document-model/column/redistribute.md", "summary": "Open when looking up redistribute in InDesign.", "keywords": ["redistribute"]},
+  {"topic": "rows", "file": "document-model/column/rows.md", "summary": "Open when looking up rows in InDesign.", "keywords": ["rows"]},
+  {"topic": "rowSpan", "file": "document-model/column/row-span.md", "summary": "Open when looking up rowSpan in InDesign.", "keywords": ["rowSpan"]},
+  {"topic": "rowType", "file": "document-model/column/row-type.md", "summary": "Open when looking up rowType in InDesign.", "keywords": ["rowType"]},
+  {"topic": "split", "file": "document-model/column/split.md", "summary": "Open when looking up split in InDesign.", "keywords": ["split"]},
+  {"topic": "startRow", "file": "document-model/column/start-row.md", "summary": "Open when looking up startRow in InDesign.", "keywords": ["startRow"]},
+  {"topic": "unmerge", "file": "document-model/column/unmerge.md", "summary": "Open when looking up unmerge in InDesign.", "keywords": ["unmerge"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

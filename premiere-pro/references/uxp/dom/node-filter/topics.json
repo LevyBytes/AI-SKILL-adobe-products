@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "window.NodeFilter", "file": "references/uxp/dom/node-filter/overview.md", "summary": "Open when looking up window.NodeFilter in Premiere Pro.", "keywords": ["window.NodeFilter"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

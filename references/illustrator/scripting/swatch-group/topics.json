@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "SwatchGroup.addSpot()", "file": "scripting/swatch-group/add-spot.md", "summary": "Open when looking up SwatchGroup.addSpot() in Illustrator.", "keywords": ["SwatchGroup.addSpot()"]},
+  {"topic": "SwatchGroup.addSwatch()", "file": "scripting/swatch-group/add-swatch.md", "summary": "Open when looking up SwatchGroup.addSwatch() in Illustrator.", "keywords": ["SwatchGroup.addSwatch()"]},
+  {"topic": "SwatchGroup.getAllSwatches()", "file": "scripting/swatch-group/get-all-swatches.md", "summary": "Open when looking up SwatchGroup.getAllSwatches() in Illustrator.", "keywords": ["SwatchGroup.getAllSwatches()"]},
+  {"topic": "SwatchGroup.name", "file": "scripting/swatch-group/name.md", "summary": "Open when looking up SwatchGroup.name in Illustrator.", "keywords": ["SwatchGroup.name"]},
+  {"topic": "SwatchGroup.parent", "file": "scripting/swatch-group/parent.md", "summary": "Open when looking up SwatchGroup.parent in Illustrator.", "keywords": ["SwatchGroup.parent"]},
+  {"topic": "SwatchGroup.remove()", "file": "scripting/swatch-group/remove.md", "summary": "Open when looking up SwatchGroup.remove() in Illustrator.", "keywords": ["SwatchGroup.remove()"]},
+  {"topic": "SwatchGroup.removeAll()", "file": "scripting/swatch-group/remove-all.md", "summary": "Open when looking up SwatchGroup.removeAll() in Illustrator.", "keywords": ["SwatchGroup.removeAll()"]},
+  {"topic": "SwatchGroup.typename", "file": "scripting/swatch-group/typename.md", "summary": "Open when looking up SwatchGroup.typename in Illustrator.", "keywords": ["SwatchGroup.typename"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

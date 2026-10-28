@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "CountItem", "file": "community-types/photoshop/count-item.md", "summary": "Open when looking up CountItem in Shared Adobe platform.", "keywords": ["CountItem"]},
+  {"topic": "CountItems", "file": "community-types/photoshop/count-items.md", "summary": "Open when looking up CountItems in Shared Adobe platform.", "keywords": ["CountItems"]},
+  {"topic": "MeasurementLog", "file": "community-types/photoshop/measurement-log.md", "summary": "Open when looking up MeasurementLog in Shared Adobe platform.", "keywords": ["MeasurementLog"]},
+  {"topic": "MeasurementRange", "file": "community-types/photoshop/measurement-range.md", "summary": "Open when looking up MeasurementRange in Shared Adobe platform.", "keywords": ["MeasurementRange"]},
+  {"topic": "MeasurementScale", "file": "community-types/photoshop/measurement-scale.md", "summary": "Open when looking up MeasurementScale in Shared Adobe platform.", "keywords": ["MeasurementScale"]},
+  {"topic": "MeasurementSource", "file": "community-types/photoshop/measurement-source.md", "summary": "Open when looking up MeasurementSource in Shared Adobe platform.", "keywords": ["MeasurementSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

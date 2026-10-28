@@ -1,0 +1,20 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Placed item example references", "file": "scripting/placed-item-example/reference-index.md", "summary": "Open when looking up Placed item example in Illustrator.", "keywords": ["Placed item example references"]},
+  {"topic": "PlacedItem", "file": "scripting/placed-item.md", "summary": "Open when looking up PlacedItem in Illustrator.", "keywords": ["PlacedItem"]},
+  {"topic": "PlacedItem references", "file": "scripting/placed-item/reference-index.md", "summary": "Open when looking up PlacedItem in Illustrator.", "keywords": ["PlacedItem references"]},
+  {"topic": "PlacedItems", "file": "scripting/placed-items.md", "summary": "Open when looking up PlacedItems in Illustrator.", "keywords": ["PlacedItems"]},
+  {"topic": "PlacedItems references", "file": "scripting/placed-items/reference-index.md", "summary": "Open when looking up PlacedItems in Illustrator.", "keywords": ["PlacedItems references"]},
+  {"topic": "Mesh item example references", "file": "scripting/mesh-item-example/reference-index.md", "summary": "Open when looking up Mesh item example in Illustrator.", "keywords": ["Mesh item example references"]},
+  {"topic": "MeshItem", "file": "scripting/mesh-item.md", "summary": "Open when looking up MeshItem in Illustrator.", "keywords": ["MeshItem"]},
+  {"topic": "MeshItem references", "file": "scripting/mesh-item/reference-index.md", "summary": "Open when looking up MeshItem in Illustrator.", "keywords": ["MeshItem references"]},
+  {"topic": "Mesh items example references", "file": "scripting/mesh-items-example/reference-index.md", "summary": "Open when looking up Mesh items example in Illustrator.", "keywords": ["Mesh items example references"]},
+  {"topic": "MeshItems", "file": "scripting/mesh-items.md", "summary": "Open when looking up MeshItems in Illustrator.", "keywords": ["MeshItems"]},
+  {"topic": "MeshItems references", "file": "scripting/mesh-items/reference-index.md", "summary": "Open when looking up MeshItems in Illustrator.", "keywords": ["MeshItems references"]},
+  {"topic": "RasterItem", "file": "scripting/raster-item.md", "summary": "Open when looking up RasterItem in Illustrator.", "keywords": ["RasterItem"]},
+  {"topic": "RasterItem references", "file": "scripting/raster-item/reference-index.md", "summary": "Open when looking up RasterItem in Illustrator.", "keywords": ["RasterItem references"]},
+  {"topic": "Raster items example references", "file": "scripting/raster-items-example/reference-index.md", "summary": "Open when looking up Raster items example in Illustrator.", "keywords": ["Raster items example references"]},
+  {"topic": "RasterItems", "file": "scripting/raster-items.md", "summary": "Open when looking up RasterItems in Illustrator.", "keywords": ["RasterItems"]},
+  {"topic": "RasterItems references", "file": "scripting/raster-items/reference-index.md", "summary": "Open when looking up RasterItems in Illustrator.", "keywords": ["RasterItems references"]},
+  {"topic": "Raster link state references", "file": "scripting/raster-link-state/reference-index.md", "summary": "Open when looking up Raster link state in Illustrator.", "keywords": ["Raster link state references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

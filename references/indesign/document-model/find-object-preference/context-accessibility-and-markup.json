@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "actualMetadataProperty", "file": "document-model/find-object-preference/actual-metadata-property.md", "summary": "Open when looking up actualMetadataProperty in InDesign.", "keywords": ["actualMetadataProperty"]},
+  {"topic": "actualText", "file": "document-model/find-object-preference/actual-text.md", "summary": "Open when looking up actualText in InDesign.", "keywords": ["actualText"]},
+  {"topic": "actualTextSourceType", "file": "document-model/find-object-preference/actual-text-source-type.md", "summary": "Open when looking up actualTextSourceType in InDesign.", "keywords": ["actualTextSourceType"]},
+  {"topic": "altMetadataProperty", "file": "document-model/find-object-preference/alt-metadata-property.md", "summary": "Open when looking up altMetadataProperty in InDesign.", "keywords": ["altMetadataProperty"]},
+  {"topic": "altText", "file": "document-model/find-object-preference/alt-text.md", "summary": "Open when looking up altText in InDesign.", "keywords": ["altText"]},
+  {"topic": "altTextSourceType", "file": "document-model/find-object-preference/alt-text-source-type.md", "summary": "Open when looking up altTextSourceType in InDesign.", "keywords": ["altTextSourceType"]},
+  {"topic": "applyTagType", "file": "document-model/find-object-preference/apply-tag-type.md", "summary": "Open when looking up applyTagType in InDesign.", "keywords": ["applyTagType"]},
+  {"topic": "customActualText", "file": "document-model/find-object-preference/custom-actual-text.md", "summary": "Open when looking up customActualText in InDesign.", "keywords": ["customActualText"]},
+  {"topic": "customAltText", "file": "document-model/find-object-preference/custom-alt-text.md", "summary": "Open when looking up customAltText in InDesign.", "keywords": ["customAltText"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

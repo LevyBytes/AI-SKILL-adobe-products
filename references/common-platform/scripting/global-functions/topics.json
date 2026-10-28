@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "isXMLName()", "file": "scripting/global-functions/is-xml-name.md", "summary": "Open when looking up isXMLName() in Shared Adobe platform.", "keywords": ["isXMLName()"]},
+  {"topic": "setDefaultXMLNamespace()", "file": "scripting/global-functions/set-default-xml-namespace.md", "summary": "Open when looking up setDefaultXMLNamespace() in Shared Adobe platform.", "keywords": ["setDefaultXMLNamespace()"]},
+  {"topic": "XML Object Reference - Global functions", "file": "scripting/global-functions/xml-object-reference-global-functions.md", "summary": "Open when looking up XML Object Reference - Global functions in Shared Adobe platform.", "keywords": ["XML Object Reference - Global functions"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

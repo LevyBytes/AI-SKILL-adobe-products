@@ -1,0 +1,21 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "addEventListener", "file": "document-model/dtd/add-event-listener.md", "summary": "Open when looking up addEventListener in InDesign.", "keywords": ["addEventListener"]},
+  {"topic": "contents", "file": "document-model/dtd/contents.md", "summary": "Open when looking up contents in InDesign.", "keywords": ["contents"]},
+  {"topic": "eventListeners", "file": "document-model/dtd/event-listeners.md", "summary": "Open when looking up eventListeners in InDesign.", "keywords": ["eventListeners"]},
+  {"topic": "events", "file": "document-model/dtd/events.md", "summary": "Open when looking up events in InDesign.", "keywords": ["events"]},
+  {"topic": "getElements", "file": "document-model/dtd/get-elements.md", "summary": "Open when looking up getElements in InDesign.", "keywords": ["getElements"]},
+  {"topic": "id", "file": "document-model/dtd/id.md", "summary": "Open when looking up id in InDesign.", "keywords": ["id"]},
+  {"topic": "index", "file": "document-model/dtd/index.md", "summary": "Open when looking up index in InDesign.", "keywords": ["index"]},
+  {"topic": "isValid", "file": "document-model/dtd/is-valid.md", "summary": "Open when looking up isValid in InDesign.", "keywords": ["isValid"]},
+  {"topic": "parent", "file": "document-model/dtd/parent.md", "summary": "Open when looking up parent in InDesign.", "keywords": ["parent"]},
+  {"topic": "properties", "file": "document-model/dtd/properties.md", "summary": "Open when looking up properties in InDesign.", "keywords": ["properties"]},
+  {"topic": "publicId", "file": "document-model/dtd/public-id.md", "summary": "Open when looking up publicId in InDesign.", "keywords": ["publicId"]},
+  {"topic": "remove", "file": "document-model/dtd/remove.md", "summary": "Open when looking up remove in InDesign.", "keywords": ["remove"]},
+  {"topic": "removeEventListener", "file": "document-model/dtd/remove-event-listener.md", "summary": "Open when looking up removeEventListener in InDesign.", "keywords": ["removeEventListener"]},
+  {"topic": "rootTag", "file": "document-model/dtd/root-tag.md", "summary": "Open when looking up rootTag in InDesign.", "keywords": ["rootTag"]},
+  {"topic": "select", "file": "document-model/dtd/select.md", "summary": "Open when looking up select in InDesign.", "keywords": ["select"]},
+  {"topic": "systemId", "file": "document-model/dtd/system-id.md", "summary": "Open when looking up systemId in InDesign.", "keywords": ["systemId"]},
+  {"topic": "toSource", "file": "document-model/dtd/to-source.md", "summary": "Open when looking up toSource in InDesign.", "keywords": ["toSource"]},
+  {"topic": "toSpecifier", "file": "document-model/dtd/to-specifier.md", "summary": "Open when looking up toSpecifier in InDesign.", "keywords": ["toSpecifier"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

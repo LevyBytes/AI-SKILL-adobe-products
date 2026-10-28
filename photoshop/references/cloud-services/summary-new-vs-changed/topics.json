@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Changed fields (present in both, different shape)", "file": "references/cloud-services/summary-new-vs-changed/changed-fields-present-in-both-different-shape.md", "summary": "Open when looking up Changed fields (present in both, different shape) in Photoshop.", "keywords": ["Changed fields (present in both, different shape)"]},
-  {"topic": "Fully new fields (absent in V1)", "file": "references/cloud-services/summary-new-vs-changed/fully-new-fields-absent-in-v1.md", "summary": "Open when looking up Fully new fields (absent in V1) in Photoshop.", "keywords": ["Fully new fields (absent in V1)"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

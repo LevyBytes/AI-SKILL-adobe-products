@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "PageItem declaration", "file": "community-types/indesign/page-item/declaration.md", "summary": "Open when looking up PageItem declaration in Shared Adobe platform.", "keywords": ["PageItem declaration"]},
+  {"topic": "PageItem identity and parent", "file": "community-types/indesign/page-item/identity-and-parent.md", "summary": "Open when looking up PageItem identity and parent in Shared Adobe platform.", "keywords": ["PageItem identity and parent"]},
+  {"topic": "PageItem labels and metadata", "file": "community-types/indesign/page-item/labels-and-metadata.md", "summary": "Open when looking up PageItem labels and metadata in Shared Adobe platform.", "keywords": ["PageItem labels and metadata"]},
+  {"topic": "PageItem object lifecycle", "file": "community-types/indesign/page-item/object-lifecycle.md", "summary": "Open when looking up PageItem object lifecycle in Shared Adobe platform.", "keywords": ["PageItem object lifecycle"]},
+  {"topic": "PageItem object resolution", "file": "community-types/indesign/page-item/object-resolution.md", "summary": "Open when looking up PageItem object resolution in Shared Adobe platform.", "keywords": ["PageItem object resolution"]},
+  {"topic": "PageItem.properties", "file": "community-types/indesign/page-item/properties.md", "summary": "Open when looking up PageItem.properties in Shared Adobe platform.", "keywords": ["PageItem.properties"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

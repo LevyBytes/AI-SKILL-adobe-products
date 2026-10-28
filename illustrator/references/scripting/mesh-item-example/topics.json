@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Example name", "file": "references/scripting/mesh-item-example/example-name.md", "summary": "Open when looking up Example name in Illustrator.", "keywords": ["Example name"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

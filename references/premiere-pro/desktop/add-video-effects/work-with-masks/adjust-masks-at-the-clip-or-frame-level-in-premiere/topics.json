@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Use clip-level adjustments", "file": "desktop/add-video-effects/work-with-masks/adjust-masks-at-the-clip-or-frame-level-in-premiere/use-clip-level-adjustments.md", "summary": "Open when looking up Use clip-level adjustments in Premiere Pro.", "keywords": ["Use clip-level adjustments"]},
+  {"topic": "Use frame-level adjustments", "file": "desktop/add-video-effects/work-with-masks/adjust-masks-at-the-clip-or-frame-level-in-premiere/use-frame-level-adjustments.md", "summary": "Open when looking up Use frame-level adjustments in Premiere Pro.", "keywords": ["Use frame-level adjustments"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Divide objects", "file": "desktop/manage-objects/edit-objects/divide-or-split-objects/divide-objects.md", "summary": "Open when looking up Divide objects in Illustrator.", "keywords": ["Divide objects"]},
+  {"topic": "Split objects into grids", "file": "desktop/manage-objects/edit-objects/divide-or-split-objects/split-objects-into-grids.md", "summary": "Open when looking up Split objects into grids in Illustrator.", "keywords": ["Split objects into grids"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

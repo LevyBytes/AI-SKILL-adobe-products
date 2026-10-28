@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "AE Properties", "file": "references/scripting/text-layer/ae-properties.md", "summary": "Open when looking up AE Properties in After Effects.", "keywords": ["AE Properties"]},
-  {"topic": "TextLayer object", "file": "references/scripting/text-layer/text-layer-object.md", "summary": "Open when looking up TextLayer object in After Effects.", "keywords": ["TextLayer object"]},
-  {"topic": "Unused Properties and Attributes", "file": "references/scripting/text-layer/unused-properties-and-attributes.md", "summary": "Open when looking up Unused Properties and Attributes in After Effects.", "keywords": ["Unused Properties and Attributes"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "TimingTarget declaration", "file": "community-types/indesign/timing-target/declaration.md", "summary": "Open when looking up TimingTarget declaration in Shared Adobe platform.", "keywords": ["TimingTarget declaration"]},
+  {"topic": "TimingTarget event listeners", "file": "community-types/indesign/timing-target/event-listeners.md", "summary": "Open when looking up TimingTarget event listeners in Shared Adobe platform.", "keywords": ["TimingTarget event listeners"]},
+  {"topic": "TimingTarget identity and parent", "file": "community-types/indesign/timing-target/identity-and-parent.md", "summary": "Open when looking up TimingTarget identity and parent in Shared Adobe platform.", "keywords": ["TimingTarget identity and parent"]},
+  {"topic": "TimingTarget object lifecycle", "file": "community-types/indesign/timing-target/object-lifecycle.md", "summary": "Open when looking up TimingTarget object lifecycle in Shared Adobe platform.", "keywords": ["TimingTarget object lifecycle"]},
+  {"topic": "TimingTarget object resolution", "file": "community-types/indesign/timing-target/object-resolution.md", "summary": "Open when looking up TimingTarget object resolution in Shared Adobe platform.", "keywords": ["TimingTarget object resolution"]},
+  {"topic": "TimingTarget.delaySeconds", "file": "community-types/indesign/timing-target/delay-seconds.md", "summary": "Open when looking up TimingTarget.delaySeconds in Shared Adobe platform.", "keywords": ["TimingTarget.delaySeconds"]},
+  {"topic": "TimingTarget.dynamicTarget", "file": "community-types/indesign/timing-target/dynamic-target.md", "summary": "Open when looking up TimingTarget.dynamicTarget in Shared Adobe platform.", "keywords": ["TimingTarget.dynamicTarget"]},
+  {"topic": "TimingTarget.properties", "file": "community-types/indesign/timing-target/properties.md", "summary": "Open when looking up TimingTarget.properties in Shared Adobe platform.", "keywords": ["TimingTarget.properties"]},
+  {"topic": "TimingTarget.reverseAnimation", "file": "community-types/indesign/timing-target/reverse-animation.md", "summary": "Open when looking up TimingTarget.reverseAnimation in Shared Adobe platform.", "keywords": ["TimingTarget.reverseAnimation"]},
+  {"topic": "TimingTarget.unlink", "file": "community-types/indesign/timing-target/unlink.md", "summary": "Open when looking up TimingTarget.unlink in Shared Adobe platform.", "keywords": ["TimingTarget.unlink"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,18 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "addEventListener", "file": "document-model/preflight-rule/add-event-listener.md", "summary": "Open when looking up addEventListener in InDesign.", "keywords": ["addEventListener"]},
+  {"topic": "description", "file": "document-model/preflight-rule/description.md", "summary": "Open when looking up description in InDesign.", "keywords": ["description"]},
+  {"topic": "eventListeners", "file": "document-model/preflight-rule/event-listeners.md", "summary": "Open when looking up eventListeners in InDesign.", "keywords": ["eventListeners"]},
+  {"topic": "events", "file": "document-model/preflight-rule/events.md", "summary": "Open when looking up events in InDesign.", "keywords": ["events"]},
+  {"topic": "fullFeature", "file": "document-model/preflight-rule/full-feature.md", "summary": "Open when looking up fullFeature in InDesign.", "keywords": ["fullFeature"]},
+  {"topic": "getElements", "file": "document-model/preflight-rule/get-elements.md", "summary": "Open when looking up getElements in InDesign.", "keywords": ["getElements"]},
+  {"topic": "id", "file": "document-model/preflight-rule/id.md", "summary": "Open when looking up id in InDesign.", "keywords": ["id"]},
+  {"topic": "index", "file": "document-model/preflight-rule/index.md", "summary": "Open when looking up index in InDesign.", "keywords": ["index"]},
+  {"topic": "isValid", "file": "document-model/preflight-rule/is-valid.md", "summary": "Open when looking up isValid in InDesign.", "keywords": ["isValid"]},
+  {"topic": "name", "file": "document-model/preflight-rule/name.md", "summary": "Open when looking up name in InDesign.", "keywords": ["name"]},
+  {"topic": "parent", "file": "document-model/preflight-rule/parent.md", "summary": "Open when looking up parent in InDesign.", "keywords": ["parent"]},
+  {"topic": "properties", "file": "document-model/preflight-rule/properties.md", "summary": "Open when looking up properties in InDesign.", "keywords": ["properties"]},
+  {"topic": "removeEventListener", "file": "document-model/preflight-rule/remove-event-listener.md", "summary": "Open when looking up removeEventListener in InDesign.", "keywords": ["removeEventListener"]},
+  {"topic": "toSource", "file": "document-model/preflight-rule/to-source.md", "summary": "Open when looking up toSource in InDesign.", "keywords": ["toSource"]},
+  {"topic": "toSpecifier", "file": "document-model/preflight-rule/to-specifier.md", "summary": "Open when looking up toSpecifier in InDesign.", "keywords": ["toSpecifier"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

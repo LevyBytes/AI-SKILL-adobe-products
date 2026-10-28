@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Remove opacity masks", "file": "desktop/manage-colors/apply-transparency-and-blending/deactivate-reactivate-or-remove-opacity-masks/remove-opacity-masks.md", "summary": "Open when looking up Remove opacity masks in Illustrator.", "keywords": ["Remove opacity masks"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

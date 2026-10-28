@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Add transitions to your clips", "file": "web/firefly-video-editor-beta/add-and-organize-media/add-transitions-to-your-videos/add-transitions-to-your-clips.md", "summary": "Open when looking up Add transitions to your clips in Firefly.", "keywords": ["Add transitions to your clips"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

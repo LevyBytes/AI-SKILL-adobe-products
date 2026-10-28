@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Table.changeGlyph", "file": "community-types/indesign/table/change-glyph.md", "summary": "Open when looking up Table.changeGlyph in Shared Adobe platform.", "keywords": ["Table.changeGlyph"]},
+  {"topic": "Table.changeGrep", "file": "community-types/indesign/table/change-grep.md", "summary": "Open when looking up Table.changeGrep in Shared Adobe platform.", "keywords": ["Table.changeGrep"]},
+  {"topic": "Table.changeText", "file": "community-types/indesign/table/change-text.md", "summary": "Open when looking up Table.changeText in Shared Adobe platform.", "keywords": ["Table.changeText"]},
+  {"topic": "Table.changeTransliterate", "file": "community-types/indesign/table/change-transliterate.md", "summary": "Open when looking up Table.changeTransliterate in Shared Adobe platform.", "keywords": ["Table.changeTransliterate"]},
+  {"topic": "Table.findGlyph", "file": "community-types/indesign/table/find-glyph.md", "summary": "Open when looking up Table.findGlyph in Shared Adobe platform.", "keywords": ["Table.findGlyph"]},
+  {"topic": "Table.findGrep", "file": "community-types/indesign/table/find-grep.md", "summary": "Open when looking up Table.findGrep in Shared Adobe platform.", "keywords": ["Table.findGrep"]},
+  {"topic": "Table.findText", "file": "community-types/indesign/table/find-text.md", "summary": "Open when looking up Table.findText in Shared Adobe platform.", "keywords": ["Table.findText"]},
+  {"topic": "Table.findTransliterate", "file": "community-types/indesign/table/find-transliterate.md", "summary": "Open when looking up Table.findTransliterate in Shared Adobe platform.", "keywords": ["Table.findTransliterate"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

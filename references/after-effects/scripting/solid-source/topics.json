@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "SolidSource object", "file": "scripting/solid-source/solid-source-object.md", "summary": "Open when looking up SolidSource object in After Effects.", "keywords": ["SolidSource object"]},
+  {"topic": "SolidSource.color", "file": "scripting/solid-source/color.md", "summary": "Open when looking up SolidSource.color in After Effects.", "keywords": ["SolidSource.color"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Combine pdf with page ranges example setup", "file": "pdf-services/examples/python/combine-pdf-with-page-ranges/combine-pdf-with-page-ranges-setup.md", "summary": "Open when looking up Combine pdf with page ranges example setup in Acrobat.", "keywords": ["Combine pdf with page ranges example setup"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

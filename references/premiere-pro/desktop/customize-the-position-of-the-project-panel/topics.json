@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Adjust the Project panel position to better fit the workspace.", "file": "desktop/customize-the-position-of-the-project-panel/adjust-the-project-panel-position-to-better-fit-the-workspace.md", "summary": "Open when looking up Adjust the Project panel position to better fit the workspace. in Premiere Pro.", "keywords": ["Adjust the Project panel position to better fit the workspace."]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

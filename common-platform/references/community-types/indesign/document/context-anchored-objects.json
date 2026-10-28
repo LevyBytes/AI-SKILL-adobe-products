@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Document.anchoredObjectDefaults", "file": "references/community-types/indesign/document/anchored-object-defaults.md", "summary": "Open when looking up Document.anchoredObjectDefaults in Shared Adobe platform.", "keywords": ["Document.anchoredObjectDefaults"]},
-  {"topic": "Document.anchoredObjectSettings", "file": "references/community-types/indesign/document/anchored-object-settings.md", "summary": "Open when looking up Document.anchoredObjectSettings in Shared Adobe platform.", "keywords": ["Document.anchoredObjectSettings"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,17 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Row.cells", "file": "community-types/indesign/row/cells.md", "summary": "Open when looking up Row.cells in Shared Adobe platform.", "keywords": ["Row.cells"]},
+  {"topic": "Row.columns", "file": "community-types/indesign/row/columns.md", "summary": "Open when looking up Row.columns in Shared Adobe platform.", "keywords": ["Row.columns"]},
+  {"topic": "Row.columnSpan", "file": "community-types/indesign/row/column-span.md", "summary": "Open when looking up Row.columnSpan in Shared Adobe platform.", "keywords": ["Row.columnSpan"]},
+  {"topic": "Row.keepWithNextRow", "file": "community-types/indesign/row/keep-with-next-row.md", "summary": "Open when looking up Row.keepWithNextRow in Shared Adobe platform.", "keywords": ["Row.keepWithNextRow"]},
+  {"topic": "Row.merge", "file": "community-types/indesign/row/merge.md", "summary": "Open when looking up Row.merge in Shared Adobe platform.", "keywords": ["Row.merge"]},
+  {"topic": "Row.parentColumn", "file": "community-types/indesign/row/parent-column.md", "summary": "Open when looking up Row.parentColumn in Shared Adobe platform.", "keywords": ["Row.parentColumn"]},
+  {"topic": "Row.parentRow", "file": "community-types/indesign/row/parent-row.md", "summary": "Open when looking up Row.parentRow in Shared Adobe platform.", "keywords": ["Row.parentRow"]},
+  {"topic": "Row.redistribute", "file": "community-types/indesign/row/redistribute.md", "summary": "Open when looking up Row.redistribute in Shared Adobe platform.", "keywords": ["Row.redistribute"]},
+  {"topic": "Row.rows", "file": "community-types/indesign/row/rows.md", "summary": "Open when looking up Row.rows in Shared Adobe platform.", "keywords": ["Row.rows"]},
+  {"topic": "Row.rowSpan", "file": "community-types/indesign/row/row-span.md", "summary": "Open when looking up Row.rowSpan in Shared Adobe platform.", "keywords": ["Row.rowSpan"]},
+  {"topic": "Row.rowType", "file": "community-types/indesign/row/row-type.md", "summary": "Open when looking up Row.rowType in Shared Adobe platform.", "keywords": ["Row.rowType"]},
+  {"topic": "Row.split", "file": "community-types/indesign/row/split.md", "summary": "Open when looking up Row.split in Shared Adobe platform.", "keywords": ["Row.split"]},
+  {"topic": "Row.startRow", "file": "community-types/indesign/row/start-row.md", "summary": "Open when looking up Row.startRow in Shared Adobe platform.", "keywords": ["Row.startRow"]},
+  {"topic": "Row.unmerge", "file": "community-types/indesign/row/unmerge.md", "summary": "Open when looking up Row.unmerge in Shared Adobe platform.", "keywords": ["Row.unmerge"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

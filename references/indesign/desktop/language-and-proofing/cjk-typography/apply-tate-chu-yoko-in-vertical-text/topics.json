@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Apply Tate-chu-yoko to selected text", "file": "desktop/language-and-proofing/cjk-typography/apply-tate-chu-yoko-in-vertical-text/apply-tate-chu-yoko-to-selected-text.md", "summary": "Open when looking up Apply Tate-chu-yoko to selected text in InDesign.", "keywords": ["Apply Tate-chu-yoko to selected text"]},
+  {"topic": "Clear auto Tate-chu-yoko", "file": "desktop/language-and-proofing/cjk-typography/apply-tate-chu-yoko-in-vertical-text/clear-auto-tate-chu-yoko.md", "summary": "Open when looking up Clear auto Tate-chu-yoko in InDesign.", "keywords": ["Clear auto Tate-chu-yoko"]},
+  {"topic": "Remove Tate-chu-yoko formatting", "file": "desktop/language-and-proofing/cjk-typography/apply-tate-chu-yoko-in-vertical-text/remove-tate-chu-yoko-formatting.md", "summary": "Open when looking up Remove Tate-chu-yoko formatting in InDesign.", "keywords": ["Remove Tate-chu-yoko formatting"]},
+  {"topic": "Set automatic Tate-chu-yoko for paragraphs", "file": "desktop/language-and-proofing/cjk-typography/apply-tate-chu-yoko-in-vertical-text/set-automatic-tate-chu-yoko-for-paragraphs.md", "summary": "Open when looking up Set automatic Tate-chu-yoko for paragraphs in InDesign.", "keywords": ["Set automatic Tate-chu-yoko for paragraphs"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

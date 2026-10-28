@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Define a list", "file": "references/desktop/text-formatting/lists-and-numbering/define-and-manage-list-options/define-a-list.md", "summary": "Open when looking up Define a list in InDesign.", "keywords": ["Define a list"]},
-  {"topic": "Delete a defined list", "file": "references/desktop/text-formatting/lists-and-numbering/define-and-manage-list-options/delete-a-defined-list.md", "summary": "Open when looking up Delete a defined list in InDesign.", "keywords": ["Delete a defined list"]},
-  {"topic": "Edit a defined list", "file": "references/desktop/text-formatting/lists-and-numbering/define-and-manage-list-options/edit-a-defined-list.md", "summary": "Open when looking up Edit a defined list in InDesign.", "keywords": ["Edit a defined list"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

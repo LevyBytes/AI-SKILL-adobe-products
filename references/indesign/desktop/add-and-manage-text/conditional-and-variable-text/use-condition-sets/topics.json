@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Apply a condition set", "file": "desktop/add-and-manage-text/conditional-and-variable-text/use-condition-sets/apply-a-condition-set.md", "summary": "Open when looking up Apply a condition set in InDesign.", "keywords": ["Apply a condition set"]},
+  {"topic": "Delete a condition set", "file": "desktop/add-and-manage-text/conditional-and-variable-text/use-condition-sets/delete-a-condition-set.md", "summary": "Open when looking up Delete a condition set in InDesign.", "keywords": ["Delete a condition set"]},
+  {"topic": "Modify a condition set", "file": "desktop/add-and-manage-text/conditional-and-variable-text/use-condition-sets/modify-a-condition-set.md", "summary": "Open when looking up Modify a condition set in InDesign.", "keywords": ["Modify a condition set"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Projecting objects with AppleScript", "file": "scripting/bring-objects-into-perspective/projecting-objects-with-applescript.md", "summary": "Open when looking up Projecting objects with AppleScript in Illustrator.", "keywords": ["Projecting objects with AppleScript"]},
+  {"topic": "Projecting objects with JavaScript", "file": "scripting/bring-objects-into-perspective/project-objects-javascript.md", "summary": "Open when looking up Projecting objects with JavaScript in Illustrator.", "keywords": ["Projecting objects with JavaScript"]},
+  {"topic": "Projecting objects with VBScript", "file": "scripting/bring-objects-into-perspective/project-objects-vbscript.md", "summary": "Open when looking up Projecting objects with VBScript in Illustrator.", "keywords": ["Projecting objects with VBScript"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,19 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "endJoin", "file": "document-model/find-text-preference/end-join.md", "summary": "Open when looking up endJoin in InDesign.", "keywords": ["endJoin"]},
+  {"topic": "fillColor", "file": "document-model/find-text-preference/fill-color.md", "summary": "Open when looking up fillColor in InDesign.", "keywords": ["fillColor"]},
+  {"topic": "fillTint", "file": "document-model/find-text-preference/fill-tint.md", "summary": "Open when looking up fillTint in InDesign.", "keywords": ["fillTint"]},
+  {"topic": "gradientFillAngle", "file": "document-model/find-text-preference/gradient-fill-angle.md", "summary": "Open when looking up gradientFillAngle in InDesign.", "keywords": ["gradientFillAngle"]},
+  {"topic": "gradientFillLength", "file": "document-model/find-text-preference/gradient-fill-length.md", "summary": "Open when looking up gradientFillLength in InDesign.", "keywords": ["gradientFillLength"]},
+  {"topic": "gradientFillStart", "file": "document-model/find-text-preference/gradient-fill-start.md", "summary": "Open when looking up gradientFillStart in InDesign.", "keywords": ["gradientFillStart"]},
+  {"topic": "gradientStrokeAngle", "file": "document-model/find-text-preference/gradient-stroke-angle.md", "summary": "Open when looking up gradientStrokeAngle in InDesign.", "keywords": ["gradientStrokeAngle"]},
+  {"topic": "gradientStrokeLength", "file": "document-model/find-text-preference/gradient-stroke-length.md", "summary": "Open when looking up gradientStrokeLength in InDesign.", "keywords": ["gradientStrokeLength"]},
+  {"topic": "gradientStrokeStart", "file": "document-model/find-text-preference/gradient-stroke-start.md", "summary": "Open when looking up gradientStrokeStart in InDesign.", "keywords": ["gradientStrokeStart"]},
+  {"topic": "miterLimit", "file": "document-model/find-text-preference/miter-limit.md", "summary": "Open when looking up miterLimit in InDesign.", "keywords": ["miterLimit"]},
+  {"topic": "overprintFill", "file": "document-model/find-text-preference/overprint-fill.md", "summary": "Open when looking up overprintFill in InDesign.", "keywords": ["overprintFill"]},
+  {"topic": "overprintStroke", "file": "document-model/find-text-preference/overprint-stroke.md", "summary": "Open when looking up overprintStroke in InDesign.", "keywords": ["overprintStroke"]},
+  {"topic": "strokeAlignment", "file": "document-model/find-text-preference/stroke-alignment.md", "summary": "Open when looking up strokeAlignment in InDesign.", "keywords": ["strokeAlignment"]},
+  {"topic": "strokeColor", "file": "document-model/find-text-preference/stroke-color.md", "summary": "Open when looking up strokeColor in InDesign.", "keywords": ["strokeColor"]},
+  {"topic": "strokeTint", "file": "document-model/find-text-preference/stroke-tint.md", "summary": "Open when looking up strokeTint in InDesign.", "keywords": ["strokeTint"]},
+  {"topic": "strokeWeight", "file": "document-model/find-text-preference/stroke-weight.md", "summary": "Open when looking up strokeWeight in InDesign.", "keywords": ["strokeWeight"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

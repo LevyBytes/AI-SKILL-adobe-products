@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/audition", "topics": [
+  {"topic": "Coloration options", "file": "desktop/effects/reverb-effects/coloration-options.md", "summary": "Open when looking up Coloration options in Audition.", "keywords": ["Coloration options"]},
+  {"topic": "Convolution Reverb effect", "file": "desktop/effects/reverb-effects/convolution-reverb-effect.md", "summary": "Open when looking up Convolution Reverb effect in Audition.", "keywords": ["Convolution Reverb effect"]},
+  {"topic": "Full Reverb effect", "file": "desktop/effects/reverb-effects/full-reverb-effect.md", "summary": "Open when looking up Full Reverb effect in Audition.", "keywords": ["Full Reverb effect"]},
+  {"topic": "Output Level options", "file": "desktop/effects/reverb-effects/output-level-options.md", "summary": "Open when looking up Output Level options in Audition.", "keywords": ["Output Level options"]},
+  {"topic": "Reverb effect", "file": "desktop/effects/reverb-effects/reverb-effect.md", "summary": "Open when looking up Reverb effect in Audition.", "keywords": ["Reverb effect"]},
+  {"topic": "Reverb Settings", "file": "desktop/effects/reverb-effects/reverb-settings.md", "summary": "Open when looking up Reverb Settings in Audition.", "keywords": ["Reverb Settings"]},
+  {"topic": "Studio Reverb effect", "file": "desktop/effects/reverb-effects/studio-reverb-effect.md", "summary": "Open when looking up Studio Reverb effect in Audition.", "keywords": ["Studio Reverb effect"]},
+  {"topic": "Surround Reverb effect", "file": "desktop/effects/reverb-effects/surround-reverb-effect.md", "summary": "Open when looking up Surround Reverb effect in Audition.", "keywords": ["Surround Reverb effect"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

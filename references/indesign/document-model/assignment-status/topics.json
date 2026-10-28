@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "ASSIGNMENT_FILE_MISSING", "file": "document-model/assignment-status/assignmentfilemissing.md", "summary": "Open when looking up ASSIGNMENT_FILE_MISSING in InDesign.", "keywords": ["ASSIGNMENT_FILE_MISSING"]},
+  {"topic": "ASSIGNMENT_OUT_OF_DATE", "file": "document-model/assignment-status/assignmentoutofdate.md", "summary": "Open when looking up ASSIGNMENT_OUT_OF_DATE in InDesign.", "keywords": ["ASSIGNMENT_OUT_OF_DATE"]},
+  {"topic": "ASSIGNMENT_UP_TO_DATE", "file": "document-model/assignment-status/assignmentuptodate.md", "summary": "Open when looking up ASSIGNMENT_UP_TO_DATE in InDesign.", "keywords": ["ASSIGNMENT_UP_TO_DATE"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "AddArc", "file": "references/plugin-sdk/drawbot-path-suite1/add-arc.md", "summary": "Open when looking up AddArc in After Effects.", "keywords": ["AddArc"]},
-  {"topic": "AddRect", "file": "references/plugin-sdk/drawbot-path-suite1/add-rect.md", "summary": "Open when looking up AddRect in After Effects.", "keywords": ["AddRect"]},
-  {"topic": "BezierTo", "file": "references/plugin-sdk/drawbot-path-suite1/bezier-to.md", "summary": "Open when looking up BezierTo in After Effects.", "keywords": ["BezierTo"]},
-  {"topic": "Close", "file": "references/plugin-sdk/drawbot-path-suite1/close.md", "summary": "Open when looking up Close in After Effects.", "keywords": ["Close"]},
-  {"topic": "LineTo", "file": "references/plugin-sdk/drawbot-path-suite1/line-to.md", "summary": "Open when looking up LineTo in After Effects.", "keywords": ["LineTo"]},
-  {"topic": "MoveTo", "file": "references/plugin-sdk/drawbot-path-suite1/move-to.md", "summary": "Open when looking up MoveTo in After Effects.", "keywords": ["MoveTo"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

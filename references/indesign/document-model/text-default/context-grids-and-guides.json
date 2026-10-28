@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "appliedNamedGrid", "file": "document-model/text-default/applied-named-grid.md", "summary": "Open when looking up appliedNamedGrid in InDesign.", "keywords": ["appliedNamedGrid"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

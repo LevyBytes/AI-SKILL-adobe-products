@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Relink clips automatically when opening a project", "file": "references/desktop/organize-media/ingest-proxy-workflow/relink-offline-clips/relink-clips-automatically-when-opening-a-project.md", "summary": "Open when looking up Relink clips automatically when opening a project in Premiere Pro.", "keywords": ["Relink clips automatically when opening a project"]},
-  {"topic": "Relink clips from the Project panel", "file": "references/desktop/organize-media/ingest-proxy-workflow/relink-offline-clips/relink-clips-from-the-project-panel.md", "summary": "Open when looking up Relink clips from the Project panel in Premiere Pro.", "keywords": ["Relink clips from the Project panel"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

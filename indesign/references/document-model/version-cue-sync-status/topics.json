@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "FILE_DOWNLOADED", "file": "references/document-model/version-cue-sync-status/filedownloaded.md", "summary": "Open when looking up FILE_DOWNLOADED in InDesign.", "keywords": ["FILE_DOWNLOADED"]},
-  {"topic": "FILE_NO_CHANGE", "file": "references/document-model/version-cue-sync-status/filenochange.md", "summary": "Open when looking up FILE_NO_CHANGE in InDesign.", "keywords": ["FILE_NO_CHANGE"]},
-  {"topic": "FILE_SKIPPED", "file": "references/document-model/version-cue-sync-status/fileskipped.md", "summary": "Open when looking up FILE_SKIPPED in InDesign.", "keywords": ["FILE_SKIPPED"]},
-  {"topic": "FILE_UNLOCKED", "file": "references/document-model/version-cue-sync-status/fileunlocked.md", "summary": "Open when looking up FILE_UNLOCKED in InDesign.", "keywords": ["FILE_UNLOCKED"]},
-  {"topic": "FILE_UPLOADED", "file": "references/document-model/version-cue-sync-status/fileuploaded.md", "summary": "Open when looking up FILE_UPLOADED in InDesign.", "keywords": ["FILE_UPLOADED"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

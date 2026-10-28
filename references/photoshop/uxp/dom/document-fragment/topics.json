@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "append(...args)", "file": "uxp/dom/document-fragment/append.md", "summary": "Open when looking up append(...args) in Photoshop.", "keywords": ["append(...args)"]},
+  {"topic": "childElementCount : number", "file": "uxp/dom/document-fragment/child-element-count-number.md", "summary": "Open when looking up childElementCount : number in Photoshop.", "keywords": ["childElementCount : number"]},
+  {"topic": "querySelector(selector)", "file": "uxp/dom/document-fragment/query-selector.md", "summary": "Open when looking up querySelector(selector) in Photoshop.", "keywords": ["querySelector(selector)"]},
+  {"topic": "querySelectorAll(selector)", "file": "uxp/dom/document-fragment/query-selector-all.md", "summary": "Open when looking up querySelectorAll(selector) in Photoshop.", "keywords": ["querySelectorAll(selector)"]},
+  {"topic": "window.DocumentFragment", "file": "uxp/dom/document-fragment/overview.md", "summary": "Open when looking up window.DocumentFragment in Photoshop.", "keywords": ["window.DocumentFragment"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

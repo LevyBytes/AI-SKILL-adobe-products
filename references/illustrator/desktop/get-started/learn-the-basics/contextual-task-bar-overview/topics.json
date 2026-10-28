@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Basic shape tools", "file": "desktop/get-started/learn-the-basics/contextual-task-bar-overview/basic-shape-tools.md", "summary": "Open when looking up Basic shape tools in Illustrator.", "keywords": ["Basic shape tools"]},
+  {"topic": "Blank canvas", "file": "desktop/get-started/learn-the-basics/contextual-task-bar-overview/blank-canvas.md", "summary": "Open when looking up Blank canvas in Illustrator.", "keywords": ["Blank canvas"]},
+  {"topic": "Clipping Mask", "file": "desktop/get-started/learn-the-basics/contextual-task-bar-overview/clipping-mask.md", "summary": "Open when looking up Clipping Mask in Illustrator.", "keywords": ["Clipping Mask"]},
+  {"topic": "Contextual Task Bar", "file": "desktop/get-started/learn-the-basics/contextual-task-bar-overview/contextual-task-bar.md", "summary": "Open when looking up Contextual Task Bar in Illustrator.", "keywords": ["Contextual Task Bar"]},
+  {"topic": "Direct Selection tool and paths", "file": "desktop/get-started/learn-the-basics/contextual-task-bar-overview/direct-selection-tool-and-paths.md", "summary": "Open when looking up Direct Selection tool and paths in Illustrator.", "keywords": ["Direct Selection tool and paths"]},
+  {"topic": "Images", "file": "desktop/get-started/learn-the-basics/contextual-task-bar-overview/images.md", "summary": "Open when looking up Images in Illustrator.", "keywords": ["Images"]},
+  {"topic": "Images and vectors", "file": "desktop/get-started/learn-the-basics/contextual-task-bar-overview/images-and-vectors.md", "summary": "Open when looking up Images and vectors in Illustrator.", "keywords": ["Images and vectors"]},
+  {"topic": "Mockup", "file": "desktop/get-started/learn-the-basics/contextual-task-bar-overview/mockup.md", "summary": "Open when looking up Mockup in Illustrator.", "keywords": ["Mockup"]},
+  {"topic": "Other tools", "file": "desktop/get-started/learn-the-basics/contextual-task-bar-overview/other-tools.md", "summary": "Open when looking up Other tools in Illustrator.", "keywords": ["Other tools"]},
+  {"topic": "Selection tool and Compound Path", "file": "desktop/get-started/learn-the-basics/contextual-task-bar-overview/selection-tool-and-compound-path.md", "summary": "Open when looking up Selection tool and Compound Path in Illustrator.", "keywords": ["Selection tool and Compound Path"]},
+  {"topic": "Selection tool and paths", "file": "desktop/get-started/learn-the-basics/contextual-task-bar-overview/selection-tool-and-paths.md", "summary": "Open when looking up Selection tool and paths in Illustrator.", "keywords": ["Selection tool and paths"]},
+  {"topic": "Text", "file": "desktop/get-started/learn-the-basics/contextual-task-bar-overview/text.md", "summary": "Open when looking up Text in Illustrator.", "keywords": ["Text"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Domain tokens", "file": "references/uxp/working-with-local-file-system/domain-tokens.md", "summary": "Open when looking up Domain tokens in Premiere Pro.", "keywords": ["Domain tokens"]},
-  {"topic": "Example 1: Accessing the Sandbox", "file": "references/uxp/working-with-local-file-system/example-1-accessing-the-sandbox.md", "summary": "Open when looking up Example 1: Accessing the Sandbox in Premiere Pro.", "keywords": ["Example 1: Accessing the Sandbox"]},
-  {"topic": "Example 2: Accessing Arbitrary Locations", "file": "references/uxp/working-with-local-file-system/example-2-accessing-arbitrary-locations.md", "summary": "Open when looking up Example 2: Accessing Arbitrary Locations in Premiere Pro.", "keywords": ["Example 2: Accessing Arbitrary Locations"]},
-  {"topic": "Example 3: User-Selected Locations", "file": "references/uxp/working-with-local-file-system/example-3-user-selected-locations.md", "summary": "Open when looking up Example 3: User-Selected Locations in Premiere Pro.", "keywords": ["Example 3: User-Selected Locations"]},
-  {"topic": "Example 4: Remembering User Selections with Tokens", "file": "references/uxp/working-with-local-file-system/example-4-remembering-user-selections-with-tokens.md", "summary": "Open when looking up Example 4: Remembering User Selections with Tokens in Premiere Pro.", "keywords": ["Example 4: Remembering User Selections with Tokens"]},
-  {"topic": "LocalFileSystem API Reference", "file": "references/uxp/working-with-local-file-system/local-file-system-api-reference.md", "summary": "Open when looking up LocalFileSystem API Reference in Premiere Pro.", "keywords": ["LocalFileSystem API Reference"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Apply an existing query", "file": "desktop/language-and-proofing/glyphs-and-expressions/find-and-replace-items-using-queries/apply-an-existing-query.md", "summary": "Open when looking up Apply an existing query in InDesign.", "keywords": ["Apply an existing query"]},
+  {"topic": "Convert phone numbers with a preset query", "file": "desktop/language-and-proofing/glyphs-and-expressions/find-and-replace-items-using-queries/convert-phone-numbers-with-a-preset-query.md", "summary": "Open when looking up Convert phone numbers with a preset query in InDesign.", "keywords": ["Convert phone numbers with a preset query"]},
+  {"topic": "Delete a saved query", "file": "desktop/language-and-proofing/glyphs-and-expressions/find-and-replace-items-using-queries/delete-a-saved-query.md", "summary": "Open when looking up Delete a saved query in InDesign.", "keywords": ["Delete a saved query"]},
+  {"topic": "Run a saved GREP query", "file": "desktop/language-and-proofing/glyphs-and-expressions/find-and-replace-items-using-queries/run-a-saved-grep-query.md", "summary": "Open when looking up Run a saved GREP query in InDesign.", "keywords": ["Run a saved GREP query"]},
+  {"topic": "Save a custom GREP query", "file": "desktop/language-and-proofing/glyphs-and-expressions/find-and-replace-items-using-queries/save-a-custom-grep-query.md", "summary": "Open when looking up Save a custom GREP query in InDesign.", "keywords": ["Save a custom GREP query"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

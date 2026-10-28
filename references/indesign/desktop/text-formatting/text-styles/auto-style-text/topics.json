@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Apply Auto Style to any text frame", "file": "desktop/text-formatting/text-styles/auto-style-text/apply-auto-style-to-any-text-frame.md", "summary": "Open when looking up Apply Auto Style to any text frame in InDesign.", "keywords": ["Apply Auto Style to any text frame"]},
+  {"topic": "Auto Style copied text", "file": "desktop/text-formatting/text-styles/auto-style-text/auto-style-copied-text.md", "summary": "Open when looking up Auto Style copied text in InDesign.", "keywords": ["Auto Style copied text"]},
+  {"topic": "Clipboard Handling", "file": "desktop/text-formatting/text-styles/auto-style-text/clipboard-handling.md", "summary": "Open when looking up Clipboard Handling in InDesign.", "keywords": ["Clipboard Handling"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

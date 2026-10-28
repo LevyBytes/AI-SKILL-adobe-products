@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "appliedCharacterStyle", "file": "references/document-model/text-default/applied-character-style.md", "summary": "Open when looking up appliedCharacterStyle in InDesign.", "keywords": ["appliedCharacterStyle"]},
-  {"topic": "appliedParagraphStyle", "file": "references/document-model/text-default/applied-paragraph-style.md", "summary": "Open when looking up appliedParagraphStyle in InDesign.", "keywords": ["appliedParagraphStyle"]},
-  {"topic": "nestedGrepStyles", "file": "references/document-model/text-default/nested-grep-styles.md", "summary": "Open when looking up nestedGrepStyles in InDesign.", "keywords": ["nestedGrepStyles"]},
-  {"topic": "nestedLineStyles", "file": "references/document-model/text-default/nested-line-styles.md", "summary": "Open when looking up nestedLineStyles in InDesign.", "keywords": ["nestedLineStyles"]},
-  {"topic": "nestedStyles", "file": "references/document-model/text-default/nested-styles.md", "summary": "Open when looking up nestedStyles in InDesign.", "keywords": ["nestedStyles"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

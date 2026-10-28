@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "XMLTag declaration", "file": "community-types/indesign/xml-tag/declaration.md", "summary": "Open when looking up XMLTag declaration in Shared Adobe platform.", "keywords": ["XMLTag declaration"]},
+  {"topic": "XMLTag identity and parent", "file": "community-types/indesign/xml-tag/identity-and-parent.md", "summary": "Open when looking up XMLTag identity and parent in Shared Adobe platform.", "keywords": ["XMLTag identity and parent"]},
+  {"topic": "XMLTag.properties", "file": "community-types/indesign/xml-tag/properties.md", "summary": "Open when looking up XMLTag.properties in Shared Adobe platform.", "keywords": ["XMLTag.properties"]},
+  {"topic": "XMLTag.tagColor", "file": "community-types/indesign/xml-tag/tag-color.md", "summary": "Open when looking up XMLTag.tagColor in Shared Adobe platform.", "keywords": ["XMLTag.tagColor"]},
+  {"topic": "XMLTag labels and metadata", "file": "community-types/indesign/xml-tag/labels-and-metadata.md", "summary": "Open when looking up XMLTag labels and metadata in Shared Adobe platform.", "keywords": ["XMLTag labels and metadata"]},
+  {"topic": "XMLTag object resolution", "file": "community-types/indesign/xml-tag/object-resolution.md", "summary": "Open when looking up XMLTag object resolution in Shared Adobe platform.", "keywords": ["XMLTag object resolution"]},
+  {"topic": "XMLTag.remove", "file": "community-types/indesign/xml-tag/remove.md", "summary": "Open when looking up XMLTag.remove in Shared Adobe platform.", "keywords": ["XMLTag.remove"]},
+  {"topic": "XMLTag event listeners", "file": "community-types/indesign/xml-tag/event-listeners.md", "summary": "Open when looking up XMLTag event listeners in Shared Adobe platform.", "keywords": ["XMLTag event listeners"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

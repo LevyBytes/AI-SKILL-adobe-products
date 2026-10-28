@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Paint Tools Brush Clone Stamp", "file": "desktop/drawing-and-paths/paint-tools/paint-tools-brush-clone-stamp.md", "summary": "Open when looking up Paint Tools Brush Clone Stamp in After Effects.", "keywords": ["Paint Tools Brush Clone Stamp"]},
+  {"topic": "Paint Tools Brush Clone Stamp references", "file": "desktop/drawing-and-paths/paint-tools/paint-tools-brush-clone-stamp/reference-index.md", "summary": "Open when looking up Paint Tools Brush Clone Stamp in After Effects.", "keywords": ["Paint Tools Brush Clone Stamp references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "OPEN_STATUS", "file": "document-model/comment-status-enum/openstatus.md", "summary": "Open when looking up OPEN_STATUS in InDesign.", "keywords": ["OPEN_STATUS"]},
+  {"topic": "RESOLVED_STATUS", "file": "document-model/comment-status-enum/resolvedstatus.md", "summary": "Open when looking up RESOLVED_STATUS in InDesign.", "keywords": ["RESOLVED_STATUS"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

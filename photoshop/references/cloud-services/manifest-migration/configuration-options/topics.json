@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Export options", "file": "references/cloud-services/manifest-migration/configuration-options/export-options.md", "summary": "Open when looking up Export options in Photoshop.", "keywords": ["Export options"]},
-  {"topic": "Include layer thumbnails", "file": "references/cloud-services/manifest-migration/configuration-options/include-layer-thumbnails.md", "summary": "Open when looking up Include layer thumbnails in Photoshop.", "keywords": ["Include layer thumbnails"]},
-  {"topic": "Include XMP metadata", "file": "references/cloud-services/manifest-migration/configuration-options/include-xmp-metadata.md", "summary": "Open when looking up Include XMP metadata in Photoshop.", "keywords": ["Include XMP metadata"]},
-  {"topic": "Maximum thumbnail depth", "file": "references/cloud-services/manifest-migration/configuration-options/maximum-thumbnail-depth.md", "summary": "Open when looking up Maximum thumbnail depth in Photoshop.", "keywords": ["Maximum thumbnail depth"]},
-  {"topic": "Thumbnail format migration", "file": "references/cloud-services/manifest-migration/configuration-options/thumbnail-format-migration.md", "summary": "Open when looking up Thumbnail format migration in Photoshop.", "keywords": ["Thumbnail format migration"]},
-  {"topic": "Trim to transparency", "file": "references/cloud-services/manifest-migration/configuration-options/trim-to-transparency.md", "summary": "Open when looking up Trim to transparency in Photoshop.", "keywords": ["Trim to transparency"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

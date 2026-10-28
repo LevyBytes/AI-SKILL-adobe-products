@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Learn about artboards in Adobe Illustrator.", "file": "desktop/introduction-to-artboards/learn-about-artboards-in-adobe-illustrator.md", "summary": "Open when looking up Learn about artboards in Adobe Illustrator. in Illustrator.", "keywords": ["Learn about artboards in Adobe Illustrator."]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

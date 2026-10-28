@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Document.accurateLABSpots", "file": "community-types/indesign/document/accurate-lab-spots.md", "summary": "Open when looking up Document.accurateLABSpots in Shared Adobe platform.", "keywords": ["Document.accurateLABSpots"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

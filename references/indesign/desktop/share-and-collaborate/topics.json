@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Projects references", "file": "desktop/share-and-collaborate/projects/reference-index.md", "summary": "Open when looking up Projects in InDesign.", "keywords": ["Projects references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

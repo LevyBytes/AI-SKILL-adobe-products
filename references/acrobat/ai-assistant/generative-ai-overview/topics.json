@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "About generative AI in Acrobat apps", "file": "ai-assistant/generative-ai-overview/about-generative-ai-in-acrobat-apps.md", "summary": "Open when looking up About generative AI in Acrobat apps in Acrobat.", "keywords": ["About generative AI in Acrobat apps"]},
+  {"topic": "AI Assistant", "file": "ai-assistant/generative-ai-overview/ai-assistant.md", "summary": "Open when looking up AI Assistant in Acrobat.", "keywords": ["AI Assistant"]},
+  {"topic": "Availability and access", "file": "ai-assistant/generative-ai-overview/availability-and-access.md", "summary": "Open when looking up Availability and access in Acrobat.", "keywords": ["Availability and access"]},
+  {"topic": "Generate podcast", "file": "ai-assistant/generative-ai-overview/generate-podcast.md", "summary": "Open when looking up Generate podcast in Acrobat.", "keywords": ["Generate podcast"]},
+  {"topic": "Generate presentation", "file": "ai-assistant/generative-ai-overview/generate-presentation.md", "summary": "Open when looking up Generate presentation in Acrobat.", "keywords": ["Generate presentation"]},
+  {"topic": "Generative summary", "file": "ai-assistant/generative-ai-overview/generative-summary.md", "summary": "Open when looking up Generative summary in Acrobat.", "keywords": ["Generative summary"]},
+  {"topic": "Image generation", "file": "ai-assistant/generative-ai-overview/image-generation.md", "summary": "Open when looking up Image generation in Acrobat.", "keywords": ["Image generation"]},
+  {"topic": "Key benefits of generative AI in Acrobat", "file": "ai-assistant/generative-ai-overview/key-benefits-of-generative-ai-in-acrobat.md", "summary": "Open when looking up Key benefits of generative AI in Acrobat in Acrobat.", "keywords": ["Key benefits of generative AI in Acrobat"]},
+  {"topic": "Key generative AI features", "file": "ai-assistant/generative-ai-overview/key-generative-ai-features.md", "summary": "Open when looking up Key generative AI features in Acrobat.", "keywords": ["Key generative AI features"]},
+  {"topic": "PDF Spaces", "file": "ai-assistant/generative-ai-overview/pdf-spaces.md", "summary": "Open when looking up PDF Spaces in Acrobat.", "keywords": ["PDF Spaces"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

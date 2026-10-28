@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "PSD to Cloud PSD", "file": "cloud-services/format-conversion-migration/basic-format-conversion/psd-to-cloud-psd.md", "summary": "Open when looking up PSD to Cloud PSD in Photoshop.", "keywords": ["PSD to Cloud PSD"]},
+  {"topic": "PSD to JPEG", "file": "cloud-services/format-conversion-migration/basic-format-conversion/psd-to-jpeg.md", "summary": "Open when looking up PSD to JPEG in Photoshop.", "keywords": ["PSD to JPEG"]},
+  {"topic": "PSD to PNG", "file": "cloud-services/format-conversion-migration/basic-format-conversion/psd-to-png.md", "summary": "Open when looking up PSD to PNG in Photoshop.", "keywords": ["PSD to PNG"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

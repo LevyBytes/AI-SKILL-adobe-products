@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Preferences", "file": "desktop/get-started/preferences-and-settings/preferences.md", "summary": "Open when looking up Preferences in After Effects.", "keywords": ["Preferences"]},
+  {"topic": "Preferences references", "file": "desktop/get-started/preferences-and-settings/preferences/reference-index.md", "summary": "Open when looking up Preferences in After Effects.", "keywords": ["Preferences references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

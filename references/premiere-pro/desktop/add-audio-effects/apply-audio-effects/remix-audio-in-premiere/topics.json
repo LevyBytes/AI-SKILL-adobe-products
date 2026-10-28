@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Apply Remix to adjust music duration", "file": "desktop/add-audio-effects/apply-audio-effects/remix-audio-in-premiere/apply-remix-to-adjust-music-duration.md", "summary": "Open when looking up Apply Remix to adjust music duration in Premiere Pro.", "keywords": ["Apply Remix to adjust music duration"]},
+  {"topic": "Customize Remix parameters", "file": "desktop/add-audio-effects/apply-audio-effects/remix-audio-in-premiere/customize-remix-parameters.md", "summary": "Open when looking up Customize Remix parameters in Premiere Pro.", "keywords": ["Customize Remix parameters"]},
+  {"topic": "Work with specific song sections", "file": "desktop/add-audio-effects/apply-audio-effects/remix-audio-in-premiere/work-with-specific-song-sections.md", "summary": "Open when looking up Work with specific song sections in Premiere Pro.", "keywords": ["Work with specific song sections"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

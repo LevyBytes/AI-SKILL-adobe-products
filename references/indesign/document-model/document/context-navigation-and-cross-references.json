@@ -1,0 +1,22 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "articles", "file": "document-model/document/articles.md", "summary": "Open when looking up articles in InDesign.", "keywords": ["articles"]},
+  {"topic": "bookmarks", "file": "document-model/document/bookmarks.md", "summary": "Open when looking up bookmarks in InDesign.", "keywords": ["bookmarks"]},
+  {"topic": "chapterNumberPreferences", "file": "document-model/document/chapter-number-preferences.md", "summary": "Open when looking up chapterNumberPreferences in InDesign.", "keywords": ["chapterNumberPreferences"]},
+  {"topic": "createTOC", "file": "document-model/document/create-toc.md", "summary": "Open when looking up createTOC in InDesign.", "keywords": ["createTOC"]},
+  {"topic": "crossReferenceFormats", "file": "document-model/document/cross-reference-formats.md", "summary": "Open when looking up crossReferenceFormats in InDesign.", "keywords": ["crossReferenceFormats"]},
+  {"topic": "crossReferenceSources", "file": "document-model/document/cross-reference-sources.md", "summary": "Open when looking up crossReferenceSources in InDesign.", "keywords": ["crossReferenceSources"]},
+  {"topic": "hyperlinkExternalPageDestinations", "file": "document-model/document/hyperlink-external-page-destinations.md", "summary": "Open when looking up hyperlinkExternalPageDestinations in InDesign.", "keywords": ["hyperlinkExternalPageDestinations"]},
+  {"topic": "hyperlinkPageDestinations", "file": "document-model/document/hyperlink-page-destinations.md", "summary": "Open when looking up hyperlinkPageDestinations in InDesign.", "keywords": ["hyperlinkPageDestinations"]},
+  {"topic": "hyperlinkPageItemSources", "file": "document-model/document/hyperlink-page-item-sources.md", "summary": "Open when looking up hyperlinkPageItemSources in InDesign.", "keywords": ["hyperlinkPageItemSources"]},
+  {"topic": "hyperlinks", "file": "document-model/document/hyperlinks.md", "summary": "Open when looking up hyperlinks in InDesign.", "keywords": ["hyperlinks"]},
+  {"topic": "hyperlinkTextDestinations", "file": "document-model/document/hyperlink-text-destinations.md", "summary": "Open when looking up hyperlinkTextDestinations in InDesign.", "keywords": ["hyperlinkTextDestinations"]},
+  {"topic": "hyperlinkTextSources", "file": "document-model/document/hyperlink-text-sources.md", "summary": "Open when looking up hyperlinkTextSources in InDesign.", "keywords": ["hyperlinkTextSources"]},
+  {"topic": "hyperlinkURLDestinations", "file": "document-model/document/hyperlink-url-destinations.md", "summary": "Open when looking up hyperlinkURLDestinations in InDesign.", "keywords": ["hyperlinkURLDestinations"]},
+  {"topic": "indexes", "file": "document-model/document/indexes.md", "summary": "Open when looking up indexes in InDesign.", "keywords": ["indexes"]},
+  {"topic": "indexGenerationOptions", "file": "document-model/document/index-generation-options.md", "summary": "Open when looking up indexGenerationOptions in InDesign.", "keywords": ["indexGenerationOptions"]},
+  {"topic": "indexingSortOptions", "file": "document-model/document/indexing-sort-options.md", "summary": "Open when looking up indexingSortOptions in InDesign.", "keywords": ["indexingSortOptions"]},
+  {"topic": "paragraphDestinations", "file": "document-model/document/paragraph-destinations.md", "summary": "Open when looking up paragraphDestinations in InDesign.", "keywords": ["paragraphDestinations"]},
+  {"topic": "tocStyles", "file": "document-model/document/toc-styles.md", "summary": "Open when looking up tocStyles in InDesign.", "keywords": ["tocStyles"]},
+  {"topic": "updateCrossReferences", "file": "document-model/document/update-cross-references.md", "summary": "Open when looking up updateCrossReferences in InDesign.", "keywords": ["updateCrossReferences"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

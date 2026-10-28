@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Edit guide position numerically", "file": "references/desktop/grids-and-measurement/alignment-grids-and-guides/move-guides/edit-guide-position-numerically.md", "summary": "Open when looking up Edit guide position numerically in Photoshop.", "keywords": ["Edit guide position numerically"]},
-  {"topic": "Move a guide", "file": "references/desktop/grids-and-measurement/alignment-grids-and-guides/move-guides/move-a-guide.md", "summary": "Open when looking up Move a guide in Photoshop.", "keywords": ["Move a guide"]},
-  {"topic": "Move multiple guides", "file": "references/desktop/grids-and-measurement/alignment-grids-and-guides/move-guides/move-multiple-guides.md", "summary": "Open when looking up Move multiple guides in Photoshop.", "keywords": ["Move multiple guides"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Stabilize shaky footage using warp stabilizer references", "file": "desktop/stabilize-shaky-footage-using-warp-stabilizer/reference-index.md", "summary": "Open when looking up Stabilize shaky footage using warp stabilizer in Premiere Pro.", "keywords": ["Stabilize shaky footage using warp stabilizer references"]},
+  {"topic": "Warp stabilizer settings references", "file": "desktop/warp-stabilizer-settings/reference-index.md", "summary": "Open when looking up Warp stabilizer settings in Premiere Pro.", "keywords": ["Warp stabilizer settings references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

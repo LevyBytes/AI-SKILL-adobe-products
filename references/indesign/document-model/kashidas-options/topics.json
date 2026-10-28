@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "DEFAULT_KASHIDAS", "file": "document-model/kashidas-options/defaultkashidas.md", "summary": "Open when looking up DEFAULT_KASHIDAS in InDesign.", "keywords": ["DEFAULT_KASHIDAS"]},
+  {"topic": "KASHIDAS_OFF", "file": "document-model/kashidas-options/kashidasoff.md", "summary": "Open when looking up KASHIDAS_OFF in InDesign.", "keywords": ["KASHIDAS_OFF"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Development Workflow", "file": "uxp/type-script-support/development-workflow.md", "summary": "Open when looking up Development Workflow in Premiere Pro.", "keywords": ["Development Workflow"]},
+  {"topic": "JavaScript Intellisense", "file": "uxp/type-script-support/java-script-intellisense.md", "summary": "Open when looking up JavaScript Intellisense in Premiere Pro.", "keywords": ["JavaScript Intellisense"]},
+  {"topic": "JSDoc Patterns", "file": "uxp/type-script-support/js-doc-patterns.md", "summary": "Open when looking up JSDoc Patterns in Premiere Pro.", "keywords": ["JSDoc Patterns"]},
+  {"topic": "Pros and Cons of the JSDoc Approach", "file": "uxp/type-script-support/pros-and-cons-of-the-js-doc-approach.md", "summary": "Open when looking up Pros and Cons of the JSDoc Approach in Premiere Pro.", "keywords": ["Pros and Cons of the JSDoc Approach"]},
+  {"topic": "Pros and Cons of TypeScript", "file": "uxp/type-script-support/pros-and-cons-of-type-script.md", "summary": "Open when looking up Pros and Cons of TypeScript in Premiere Pro.", "keywords": ["Pros and Cons of TypeScript"]},
+  {"topic": "Type Definitions", "file": "uxp/type-script-support/type-definitions.md", "summary": "Open when looking up Type Definitions in Premiere Pro.", "keywords": ["Type Definitions"]},
+  {"topic": "TypeScript Projects", "file": "uxp/type-script-support/type-script-projects.md", "summary": "Open when looking up TypeScript Projects in Premiere Pro.", "keywords": ["TypeScript Projects"]},
+  {"topic": "TypeScript Syntax", "file": "uxp/type-script-support/type-script-syntax.md", "summary": "Open when looking up TypeScript Syntax in Premiere Pro.", "keywords": ["TypeScript Syntax"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

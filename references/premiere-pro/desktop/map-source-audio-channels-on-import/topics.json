@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Configure Premiere to map source audio channels automatically.", "file": "desktop/map-source-audio-channels-on-import/configure-premiere-to-map-source-audio-channels-automatically.md", "summary": "Open when looking up Configure Premiere to map source audio channels automatically. in Premiere Pro.", "keywords": ["Configure Premiere to map source audio channels automatically."]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

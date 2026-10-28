@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Create a new Character style", "file": "references/desktop/text-formatting/text-styles/create-and-edit-text-styles/create-a-new-character-style.md", "summary": "Open when looking up Create a new Character style in InDesign.", "keywords": ["Create a new Character style"]},
-  {"topic": "Create a new Paragraph style", "file": "references/desktop/text-formatting/text-styles/create-and-edit-text-styles/create-a-new-paragraph-style.md", "summary": "Open when looking up Create a new Paragraph style in InDesign.", "keywords": ["Create a new Paragraph style"]},
-  {"topic": "Edit Styles", "file": "references/desktop/text-formatting/text-styles/create-and-edit-text-styles/edit-styles.md", "summary": "Open when looking up Edit Styles in InDesign.", "keywords": ["Edit Styles"]},
-  {"topic": "Load styles from another document", "file": "references/desktop/text-formatting/text-styles/create-and-edit-text-styles/load-styles-from-another-document.md", "summary": "Open when looking up Load styles from another document in InDesign.", "keywords": ["Load styles from another document"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

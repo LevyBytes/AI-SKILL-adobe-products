@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Input Document", "file": "pdf-services/input-documents-required/input-document.md", "summary": "Open when looking up Input Document in Acrobat.", "keywords": ["Input Document"]},
+  {"topic": "Watermark Document", "file": "pdf-services/input-documents-required/watermark-document.md", "summary": "Open when looking up Watermark Document in Acrobat.", "keywords": ["Watermark Document"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

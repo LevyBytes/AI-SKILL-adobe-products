@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Detach parent items", "file": "references/desktop/pages-and-books/create-and-manage-parent-pages/manage-parent-items/detach-parent-items.md", "summary": "Open when looking up Detach parent items in InDesign.", "keywords": ["Detach parent items"]},
-  {"topic": "Hide parent items", "file": "references/desktop/pages-and-books/create-and-manage-parent-pages/manage-parent-items/hide-parent-items.md", "summary": "Open when looking up Hide parent items in InDesign.", "keywords": ["Hide parent items"]},
-  {"topic": "Override all parent items on a spread", "file": "references/desktop/pages-and-books/create-and-manage-parent-pages/manage-parent-items/override-all-parent-items-on-a-spread.md", "summary": "Open when looking up Override all parent items on a spread in InDesign.", "keywords": ["Override all parent items on a spread"]},
-  {"topic": "Override specific parent items on a page", "file": "references/desktop/pages-and-books/create-and-manage-parent-pages/manage-parent-items/override-specific-parent-items-on-a-page.md", "summary": "Open when looking up Override specific parent items on a page in InDesign.", "keywords": ["Override specific parent items on a page"]},
-  {"topic": "Restore overridden items", "file": "references/desktop/pages-and-books/create-and-manage-parent-pages/manage-parent-items/restore-overridden-items.md", "summary": "Open when looking up Restore overridden items in InDesign.", "keywords": ["Restore overridden items"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

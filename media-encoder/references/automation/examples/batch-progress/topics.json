@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "media-encoder", "topics": [
-  {"topic": "Batch progress event versions", "file": "references/automation/examples/batch-progress/event-versions.md", "summary": "Open when looking up Batch progress event versions in Media Encoder.", "keywords": ["Batch progress event versions"]},
-  {"topic": "legacy-exporter-progress.jsx", "file": "references/automation/examples/batch-progress/legacy-exporter-progress.jsx", "summary": "Open when looking up legacy-exporter-progress.jsx in Media Encoder.", "keywords": ["legacy-exporter-progress.jsx"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

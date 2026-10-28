@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Apply and modify layer effects", "file": "references/desktop/manage-layers/apply-and-modify-layer-effects.md", "summary": "Open when looking up Apply and modify layer effects in Illustrator.", "keywords": ["Apply and modify layer effects"]},
-  {"topic": "Apply and modify layer effects references", "file": "references/desktop/manage-layers/apply-and-modify-layer-effects/reference-index.md", "summary": "Open when looking up Apply and modify layer effects in Illustrator.", "keywords": ["Apply and modify layer effects references"]},
-  {"topic": "Create and organize layers", "file": "references/desktop/manage-layers/create-and-organize-layers.md", "summary": "Open when looking up Create and organize layers in Illustrator.", "keywords": ["Create and organize layers"]},
-  {"topic": "Create and organize layers references", "file": "references/desktop/manage-layers/create-and-organize-layers/reference-index.md", "summary": "Open when looking up Create and organize layers in Illustrator.", "keywords": ["Create and organize layers references"]},
-  {"topic": "Lock and hide layers", "file": "references/desktop/manage-layers/lock-and-hide-layers.md", "summary": "Open when looking up Lock and hide layers in Illustrator.", "keywords": ["Lock and hide layers"]},
-  {"topic": "Lock and hide layers references", "file": "references/desktop/manage-layers/lock-and-hide-layers/reference-index.md", "summary": "Open when looking up Lock and hide layers in Illustrator.", "keywords": ["Lock and hide layers references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "CharacterAlignment", "file": "references/community-types/indesign/character-alignment.md", "summary": "Open when looking up CharacterAlignment in Shared Adobe platform.", "keywords": ["CharacterAlignment"]},
-  {"topic": "Leading", "file": "references/community-types/indesign/leading.md", "summary": "Open when looking up Leading in Shared Adobe platform.", "keywords": ["Leading"]},
-  {"topic": "LeadingModel", "file": "references/community-types/indesign/leading-model.md", "summary": "Open when looking up LeadingModel in Shared Adobe platform.", "keywords": ["LeadingModel"]},
-  {"topic": "LineSpacingType", "file": "references/community-types/indesign/line-spacing-type.md", "summary": "Open when looking up LineSpacingType in Shared Adobe platform.", "keywords": ["LineSpacingType"]},
-  {"topic": "Position", "file": "references/community-types/indesign/position.md", "summary": "Open when looking up Position in Shared Adobe platform.", "keywords": ["Position"]},
-  {"topic": "Spacing", "file": "references/community-types/indesign/spacing.md", "summary": "Open when looking up Spacing in Shared Adobe platform.", "keywords": ["Spacing"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

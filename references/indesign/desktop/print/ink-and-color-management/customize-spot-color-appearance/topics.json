@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Configure spot color display using Lab values", "file": "desktop/print/ink-and-color-management/customize-spot-color-appearance/configure-spot-color-display-using-lab-values.md", "summary": "Open when looking up Configure spot color display using Lab values in InDesign.", "keywords": ["Configure spot color display using Lab values"]},
+  {"topic": "For workflows requiring CMYK-based display and output", "file": "desktop/print/ink-and-color-management/customize-spot-color-appearance/for-workflows-requiring-cmyk-based-display-and-output.md", "summary": "Open when looking up For workflows requiring CMYK-based display and output in InDesign.", "keywords": ["For workflows requiring CMYK-based display and output"]},
+  {"topic": "Preview spot color output", "file": "desktop/print/ink-and-color-management/customize-spot-color-appearance/preview-spot-color-output.md", "summary": "Open when looking up Preview spot color output in InDesign.", "keywords": ["Preview spot color output"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

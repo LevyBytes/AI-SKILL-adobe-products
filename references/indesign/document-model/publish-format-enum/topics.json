@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "PUBLISH_BY_PAGES", "file": "document-model/publish-format-enum/publishbypages.md", "summary": "Open when looking up PUBLISH_BY_PAGES in InDesign.", "keywords": ["PUBLISH_BY_PAGES"]},
+  {"topic": "PUBLISH_BY_SPREAD", "file": "document-model/publish-format-enum/publishbyspread.md", "summary": "Open when looking up PUBLISH_BY_SPREAD in InDesign.", "keywords": ["PUBLISH_BY_SPREAD"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

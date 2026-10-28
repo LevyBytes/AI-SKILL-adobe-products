@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "exportForWebPreferences", "file": "references/document-model/application/export-for-web-preferences.md", "summary": "Open when looking up exportForWebPreferences in InDesign.", "keywords": ["exportForWebPreferences"]},
-  {"topic": "imageIOPreferences", "file": "references/document-model/application/image-io-preferences.md", "summary": "Open when looking up imageIOPreferences in InDesign.", "keywords": ["imageIOPreferences"]},
-  {"topic": "imagePreferences", "file": "references/document-model/application/image-preferences.md", "summary": "Open when looking up imagePreferences in InDesign.", "keywords": ["imagePreferences"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

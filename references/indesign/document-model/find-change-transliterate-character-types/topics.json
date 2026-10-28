@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "ARABIC_INDIC_DIGITS", "file": "document-model/find-change-transliterate-character-types/arabicindicdigits.md", "summary": "Open when looking up ARABIC_INDIC_DIGITS in InDesign.", "keywords": ["ARABIC_INDIC_DIGITS"]},
+  {"topic": "FARSI_DIGITS", "file": "document-model/find-change-transliterate-character-types/farsidigits.md", "summary": "Open when looking up FARSI_DIGITS in InDesign.", "keywords": ["FARSI_DIGITS"]},
+  {"topic": "FULL_WIDTH_HIRAGANA", "file": "document-model/find-change-transliterate-character-types/fullwidthhiragana.md", "summary": "Open when looking up FULL_WIDTH_HIRAGANA in InDesign.", "keywords": ["FULL_WIDTH_HIRAGANA"]},
+  {"topic": "FULL_WIDTH_KATAKANA", "file": "document-model/find-change-transliterate-character-types/fullwidthkatakana.md", "summary": "Open when looking up FULL_WIDTH_KATAKANA in InDesign.", "keywords": ["FULL_WIDTH_KATAKANA"]},
+  {"topic": "FULL_WIDTH_ROMAN_SYMBOLS", "file": "document-model/find-change-transliterate-character-types/fullwidthromansymbols.md", "summary": "Open when looking up FULL_WIDTH_ROMAN_SYMBOLS in InDesign.", "keywords": ["FULL_WIDTH_ROMAN_SYMBOLS"]},
+  {"topic": "HALF_WIDTH_KATAKANA", "file": "document-model/find-change-transliterate-character-types/halfwidthkatakana.md", "summary": "Open when looking up HALF_WIDTH_KATAKANA in InDesign.", "keywords": ["HALF_WIDTH_KATAKANA"]},
+  {"topic": "HALF_WIDTH_ROMAN_SYMBOLS", "file": "document-model/find-change-transliterate-character-types/halfwidthromansymbols.md", "summary": "Open when looking up HALF_WIDTH_ROMAN_SYMBOLS in InDesign.", "keywords": ["HALF_WIDTH_ROMAN_SYMBOLS"]},
+  {"topic": "WESTERN_ARABIC_DIGITS", "file": "document-model/find-change-transliterate-character-types/westernarabicdigits.md", "summary": "Open when looking up WESTERN_ARABIC_DIGITS in InDesign.", "keywords": ["WESTERN_ARABIC_DIGITS"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

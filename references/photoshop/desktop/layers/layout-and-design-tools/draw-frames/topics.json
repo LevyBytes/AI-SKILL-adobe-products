@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Draw empty frames", "file": "desktop/layers/layout-and-design-tools/draw-frames/draw-empty-frames.md", "summary": "Open when looking up Draw empty frames in Photoshop.", "keywords": ["Draw empty frames"]},
+  {"topic": "Draw frames in existing images", "file": "desktop/layers/layout-and-design-tools/draw-frames/draw-frames-in-existing-images.md", "summary": "Open when looking up Draw frames in existing images in Photoshop.", "keywords": ["Draw frames in existing images"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

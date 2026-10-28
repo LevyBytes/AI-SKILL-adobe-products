@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "incopy", "topics": [
-  {"topic": "Desktop workflows references", "file": "references/desktop/reference-index.md", "summary": "Open when looking up Desktop workflows in InCopy.", "keywords": ["Desktop workflows references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

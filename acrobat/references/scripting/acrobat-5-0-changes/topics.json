@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Deprecated in Acrobat 5.0", "file": "references/scripting/acrobat-5-0-changes/deprecated-in-acrobat-5-0.md", "summary": "Open when looking up Deprecated in Acrobat 5.0 in Acrobat.", "keywords": ["Deprecated in Acrobat 5.0"]},
-  {"topic": "Modified in Acrobat 5.0", "file": "references/scripting/acrobat-5-0-changes/modified-in-acrobat-5-0.md", "summary": "Open when looking up Modified in Acrobat 5.0 in Acrobat.", "keywords": ["Modified in Acrobat 5.0"]},
-  {"topic": "Modified in Acrobat 5.05", "file": "references/scripting/acrobat-5-0-changes/modified-in-acrobat-5-05.md", "summary": "Open when looking up Modified in Acrobat 5.05 in Acrobat.", "keywords": ["Modified in Acrobat 5.05"]},
-  {"topic": "Modified in Adobe Reader 5.1", "file": "references/scripting/acrobat-5-0-changes/modified-in-adobe-reader-5-1.md", "summary": "Open when looking up Modified in Adobe Reader 5.1 in Acrobat.", "keywords": ["Modified in Adobe Reader 5.1"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

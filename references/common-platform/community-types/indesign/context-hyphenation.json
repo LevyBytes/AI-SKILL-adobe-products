@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "DictionaryPreference", "file": "community-types/indesign/dictionary-preference.md", "summary": "Open when looking up DictionaryPreference in Shared Adobe platform.", "keywords": ["DictionaryPreference"]},
+  {"topic": "HyphenationException references", "file": "community-types/indesign/hyphenation-exception/reference-index.md", "summary": "Open when looking up HyphenationException in Shared Adobe platform.", "keywords": ["HyphenationException references"]},
+  {"topic": "HyphenationExceptions", "file": "community-types/indesign/hyphenation-exceptions.md", "summary": "Open when looking up HyphenationExceptions in Shared Adobe platform.", "keywords": ["HyphenationExceptions"]},
+  {"topic": "HyphenationStyleEnum", "file": "community-types/indesign/hyphenation-style-enum.md", "summary": "Open when looking up HyphenationStyleEnum in Shared Adobe platform.", "keywords": ["HyphenationStyleEnum"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

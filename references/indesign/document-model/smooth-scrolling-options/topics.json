@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "HORIZONTAL", "file": "document-model/smooth-scrolling-options/horizontal.md", "summary": "Open when looking up HORIZONTAL in InDesign.", "keywords": ["HORIZONTAL"]},
+  {"topic": "NO_SMOOTH_SCROLL", "file": "document-model/smooth-scrolling-options/nosmoothscroll.md", "summary": "Open when looking up NO_SMOOTH_SCROLL in InDesign.", "keywords": ["NO_SMOOTH_SCROLL"]},
+  {"topic": "VERTICAL", "file": "document-model/smooth-scrolling-options/vertical.md", "summary": "Open when looking up VERTICAL in InDesign.", "keywords": ["VERTICAL"]},
+  {"topic": "VERTICAL_AND_HORIZONTAL", "file": "document-model/smooth-scrolling-options/verticalandhorizontal.md", "summary": "Open when looking up VERTICAL_AND_HORIZONTAL in InDesign.", "keywords": ["VERTICAL_AND_HORIZONTAL"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "AEGP_DisposeTextOutlines", "file": "plugin-sdk/aegp-text-layer-suite1/aegp-dispose-text-outlines.md", "summary": "Open when looking up AEGP_DisposeTextOutlines in After Effects.", "keywords": ["AEGP_DisposeTextOutlines"]},
+  {"topic": "AEGP_GetIndexedTextOutline", "file": "plugin-sdk/aegp-text-layer-suite1/aegp-get-indexed-text-outline.md", "summary": "Open when looking up AEGP_GetIndexedTextOutline in After Effects.", "keywords": ["AEGP_GetIndexedTextOutline"]},
+  {"topic": "AEGP_GetNewTextOutlines", "file": "plugin-sdk/aegp-text-layer-suite1/aegp-get-new-text-outlines.md", "summary": "Open when looking up AEGP_GetNewTextOutlines in After Effects.", "keywords": ["AEGP_GetNewTextOutlines"]},
+  {"topic": "AEGP_GetNumTextOutlines", "file": "plugin-sdk/aegp-text-layer-suite1/aegp-get-num-text-outlines.md", "summary": "Open when looking up AEGP_GetNumTextOutlines in After Effects.", "keywords": ["AEGP_GetNumTextOutlines"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

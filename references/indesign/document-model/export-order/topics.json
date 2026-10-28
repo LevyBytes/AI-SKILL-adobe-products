@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "ARTICLE_PANEL_ORDER", "file": "document-model/export-order/articlepanelorder.md", "summary": "Open when looking up ARTICLE_PANEL_ORDER in InDesign.", "keywords": ["ARTICLE_PANEL_ORDER"]},
+  {"topic": "LAYOUT_ORDER", "file": "document-model/export-order/layoutorder.md", "summary": "Open when looking up LAYOUT_ORDER in InDesign.", "keywords": ["LAYOUT_ORDER"]},
+  {"topic": "XML_STRUCTURE_ORDER", "file": "document-model/export-order/xmlstructureorder.md", "summary": "Open when looking up XML_STRUCTURE_ORDER in InDesign.", "keywords": ["XML_STRUCTURE_ORDER"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

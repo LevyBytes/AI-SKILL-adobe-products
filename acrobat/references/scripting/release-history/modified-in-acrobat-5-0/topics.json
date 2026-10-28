@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "app", "file": "references/scripting/release-history/modified-in-acrobat-5-0/app.md", "summary": "Open when looking up app in Acrobat.", "keywords": ["app"]},
-  {"topic": "Doc", "file": "references/scripting/release-history/modified-in-acrobat-5-0/doc.md", "summary": "Open when looking up Doc in Acrobat.", "keywords": ["Doc"]},
-  {"topic": "event", "file": "references/scripting/release-history/modified-in-acrobat-5-0/event.md", "summary": "Open when looking up event in Acrobat.", "keywords": ["event"]},
-  {"topic": "Field", "file": "references/scripting/release-history/modified-in-acrobat-5-0/field.md", "summary": "Open when looking up Field in Acrobat.", "keywords": ["Field"]},
-  {"topic": "util", "file": "references/scripting/release-history/modified-in-acrobat-5-0/util.md", "summary": "Open when looking up util in Acrobat.", "keywords": ["util"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

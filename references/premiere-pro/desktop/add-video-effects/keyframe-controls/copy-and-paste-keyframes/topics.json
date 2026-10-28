@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Copy and paste keyframes in a Timeline panel", "file": "desktop/add-video-effects/keyframe-controls/copy-and-paste-keyframes/copy-and-paste-keyframes-in-a-timeline-panel.md", "summary": "Open when looking up Copy and paste keyframes in a Timeline panel in Premiere Pro.", "keywords": ["Copy and paste keyframes in a Timeline panel"]},
+  {"topic": "Copy and paste keyframes in the Effect Controls panel", "file": "desktop/add-video-effects/keyframe-controls/copy-and-paste-keyframes/copy-and-paste-keyframes-in-the-effect-controls-panel.md", "summary": "Open when looking up Copy and paste keyframes in the Effect Controls panel in Premiere Pro.", "keywords": ["Copy and paste keyframes in the Effect Controls panel"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

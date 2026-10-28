@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Artboard Migration", "file": "cloud-services/artboard-migration.md", "summary": "Open when looking up Artboard Migration in Photoshop.", "keywords": ["Artboard Migration"]},
+  {"topic": "Artboard Migration references", "file": "cloud-services/artboard-migration/reference-index.md", "summary": "Open when looking up Artboard Migration in Photoshop.", "keywords": ["Artboard Migration references"]},
+  {"topic": "Artboard structure", "file": "cloud-services/artboard-structure.md", "summary": "Open when looking up Artboard structure in Photoshop.", "keywords": ["Artboard structure"]},
+  {"topic": "Artboard structure references", "file": "cloud-services/artboard-structure/reference-index.md", "summary": "Open when looking up Artboard structure in Photoshop.", "keywords": ["Artboard structure references"]},
+  {"topic": "Artboards", "file": "cloud-services/artboards.md", "summary": "Open when looking up Artboards in Photoshop.", "keywords": ["Artboards"]},
+  {"topic": "Artboards references", "file": "cloud-services/artboards/reference-index.md", "summary": "Open when looking up Artboards in Photoshop.", "keywords": ["Artboards references"]},
+  {"topic": "Create artboard v1 reference references", "file": "cloud-services/create-artboard-v1-reference/reference-index.md", "summary": "Open when looking up Create artboard v1 reference in Photoshop.", "keywords": ["Create artboard v1 reference references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

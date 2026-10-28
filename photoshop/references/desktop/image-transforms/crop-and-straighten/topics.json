@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Apply Content-Aware Fill while cropping images", "file": "references/desktop/image-transforms/crop-and-straighten/apply-content-aware-fill-while-cropping-images.md", "summary": "Open when looking up Apply Content-Aware Fill while cropping images in Photoshop.", "keywords": ["Apply Content-Aware Fill while cropping images"]},
-  {"topic": "Crop photos", "file": "references/desktop/image-transforms/crop-and-straighten/crop-photos.md", "summary": "Open when looking up Crop photos in Photoshop.", "keywords": ["Crop photos"]},
-  {"topic": "Crop tool options", "file": "references/desktop/image-transforms/crop-and-straighten/crop-tool-options.md", "summary": "Open when looking up Crop tool options in Photoshop.", "keywords": ["Crop tool options"]},
-  {"topic": "Resize the canvas using the crop tool", "file": "references/desktop/image-transforms/crop-and-straighten/resize-the-canvas-using-the-crop-tool.md", "summary": "Open when looking up Resize the canvas using the crop tool in Photoshop.", "keywords": ["Resize the canvas using the crop tool"]},
-  {"topic": "Straighten tilted photos", "file": "references/desktop/image-transforms/crop-and-straighten/straighten-tilted-photos.md", "summary": "Open when looking up Straighten tilted photos in Photoshop.", "keywords": ["Straighten tilted photos"]},
-  {"topic": "Transform perspective while cropping", "file": "references/desktop/image-transforms/crop-and-straighten/transform-perspective-while-cropping.md", "summary": "Open when looking up Transform perspective while cropping in Photoshop.", "keywords": ["Transform perspective while cropping"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

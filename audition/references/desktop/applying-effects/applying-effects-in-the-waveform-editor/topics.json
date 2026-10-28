@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "audition", "topics": [
-  {"topic": "About process effects", "file": "references/desktop/applying-effects/applying-effects-in-the-waveform-editor/about-process-effects.md", "summary": "Open when looking up About process effects in Audition.", "keywords": ["About process effects"]},
-  {"topic": "Apply groups of effects in the Waveform Editor", "file": "references/desktop/applying-effects/applying-effects-in-the-waveform-editor/apply-groups-of-effects-in-the-waveform-editor.md", "summary": "Open when looking up Apply groups of effects in the Waveform Editor in Audition.", "keywords": ["Apply groups of effects in the Waveform Editor"]},
-  {"topic": "Apply individual effects in the Waveform Editor", "file": "references/desktop/applying-effects/applying-effects-in-the-waveform-editor/apply-individual-effects-in-the-waveform-editor.md", "summary": "Open when looking up Apply individual effects in the Waveform Editor in Audition.", "keywords": ["Apply individual effects in the Waveform Editor"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

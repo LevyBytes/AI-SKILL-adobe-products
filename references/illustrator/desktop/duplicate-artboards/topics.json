@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Duplicate artboards instantly", "file": "desktop/duplicate-artboards/duplicate-artboards-instantly.md", "summary": "Open when looking up Duplicate artboards instantly in Illustrator.", "keywords": ["Duplicate artboards instantly"]},
+  {"topic": "Learn how to duplicate artboards.", "file": "desktop/duplicate-artboards/learn-how-to-duplicate-artboards.md", "summary": "Open when looking up Learn how to duplicate artboards. in Illustrator.", "keywords": ["Learn how to duplicate artboards."]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

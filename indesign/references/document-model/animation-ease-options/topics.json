@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "CUSTOM_EASE", "file": "references/document-model/animation-ease-options/customease.md", "summary": "Open when looking up CUSTOM_EASE in InDesign.", "keywords": ["CUSTOM_EASE"]},
-  {"topic": "EASE_IN", "file": "references/document-model/animation-ease-options/easein.md", "summary": "Open when looking up EASE_IN in InDesign.", "keywords": ["EASE_IN"]},
-  {"topic": "EASE_IN_OUT", "file": "references/document-model/animation-ease-options/easeinout.md", "summary": "Open when looking up EASE_IN_OUT in InDesign.", "keywords": ["EASE_IN_OUT"]},
-  {"topic": "EASE_OUT", "file": "references/document-model/animation-ease-options/easeout.md", "summary": "Open when looking up EASE_OUT in InDesign.", "keywords": ["EASE_OUT"]},
-  {"topic": "NO_EASE", "file": "references/document-model/animation-ease-options/noease.md", "summary": "Open when looking up NO_EASE in InDesign.", "keywords": ["NO_EASE"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

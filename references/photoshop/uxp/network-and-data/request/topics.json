@@ -1,0 +1,17 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "arrayBuffer()", "file": "uxp/network-and-data/request/array-buffer.md", "summary": "Open when looking up arrayBuffer() in Photoshop.", "keywords": ["arrayBuffer()"]},
+  {"topic": "blob()", "file": "uxp/network-and-data/request/blob.md", "summary": "Open when looking up blob() in Photoshop.", "keywords": ["blob()"]},
+  {"topic": "body : ReadableStream", "file": "uxp/network-and-data/request/body-readable-stream.md", "summary": "Open when looking up body : ReadableStream in Photoshop.", "keywords": ["body : ReadableStream"]},
+  {"topic": "bodyUsed : boolean", "file": "uxp/network-and-data/request/body-used-boolean.md", "summary": "Open when looking up bodyUsed : boolean in Photoshop.", "keywords": ["bodyUsed : boolean"]},
+  {"topic": "clone()", "file": "uxp/network-and-data/request/clone.md", "summary": "Open when looking up clone() in Photoshop.", "keywords": ["clone()"]},
+  {"topic": "credentials : string", "file": "uxp/network-and-data/request/credentials-string.md", "summary": "Open when looking up credentials : string in Photoshop.", "keywords": ["credentials : string"]},
+  {"topic": "formData()", "file": "uxp/network-and-data/request/form-data.md", "summary": "Open when looking up formData() in Photoshop.", "keywords": ["formData()"]},
+  {"topic": "headers : Headers", "file": "uxp/network-and-data/request/headers-headers.md", "summary": "Open when looking up headers : Headers in Photoshop.", "keywords": ["headers : Headers"]},
+  {"topic": "json()", "file": "uxp/network-and-data/request/json.md", "summary": "Open when looking up json() in Photoshop.", "keywords": ["json()"]},
+  {"topic": "method : string", "file": "uxp/network-and-data/request/method-string.md", "summary": "Open when looking up method : string in Photoshop.", "keywords": ["method : string"]},
+  {"topic": "Request(input, options)", "file": "uxp/network-and-data/request/request.md", "summary": "Open when looking up Request(input, options) in Photoshop.", "keywords": ["Request(input, options)"]},
+  {"topic": "text()", "file": "uxp/network-and-data/request/text.md", "summary": "Open when looking up text() in Photoshop.", "keywords": ["text()"]},
+  {"topic": "url : string", "file": "uxp/network-and-data/request/url-string.md", "summary": "Open when looking up url : string in Photoshop.", "keywords": ["url : string"]},
+  {"topic": "window.Request", "file": "uxp/network-and-data/request/overview.md", "summary": "Open when looking up window.Request in Photoshop.", "keywords": ["window.Request"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

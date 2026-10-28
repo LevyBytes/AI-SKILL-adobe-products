@@ -1,0 +1,19 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Authentication", "file": "cloud-services/authentication.md", "summary": "Open when looking up Authentication in Illustrator.", "keywords": ["Authentication"]},
+  {"topic": "Authentication references", "file": "cloud-services/authentication/reference-index.md", "summary": "Open when looking up Authentication in Illustrator.", "keywords": ["Authentication references"]},
+  {"topic": "Custom Script Guide", "file": "cloud-services/custom-script-guide.md", "summary": "Open when looking up Custom Script Guide in Illustrator.", "keywords": ["Custom Script Guide"]},
+  {"topic": "Custom Script Guide references", "file": "cloud-services/custom-script-guide/reference-index.md", "summary": "Open when looking up Custom Script Guide in Illustrator.", "keywords": ["Custom Script Guide references"]},
+  {"topic": "Illustrator API", "file": "cloud-services/illustrator-api.md", "summary": "Open when looking up Illustrator API in Illustrator.", "keywords": ["Illustrator API"]},
+  {"topic": "Illustrator API Guides", "file": "cloud-services/illustrator-api-guides.md", "summary": "Open when looking up Illustrator API Guides in Illustrator.", "keywords": ["Illustrator API Guides"]},
+  {"topic": "Illustrator API Guides references", "file": "cloud-services/illustrator-api-guides/reference-index.md", "summary": "Open when looking up Illustrator API Guides in Illustrator.", "keywords": ["Illustrator API Guides references"]},
+  {"topic": "Illustrator API Key Concepts", "file": "cloud-services/illustrator-api-key-concepts.md", "summary": "Open when looking up Illustrator API Key Concepts in Illustrator.", "keywords": ["Illustrator API Key Concepts"]},
+  {"topic": "Illustrator API Key Concepts references", "file": "cloud-services/illustrator-api-key-concepts/reference-index.md", "summary": "Open when looking up Illustrator API Key Concepts in Illustrator.", "keywords": ["Illustrator API Key Concepts references"]},
+  {"topic": "Illustrator API references", "file": "cloud-services/illustrator-api/reference-index.md", "summary": "Open when looking up Illustrator API in Illustrator.", "keywords": ["Illustrator API references"]},
+  {"topic": "Image Trace Guide", "file": "cloud-services/image-trace-guide.md", "summary": "Open when looking up Image Trace Guide in Illustrator.", "keywords": ["Image Trace Guide"]},
+  {"topic": "Image Trace Guide references", "file": "cloud-services/image-trace-guide/reference-index.md", "summary": "Open when looking up Image Trace Guide in Illustrator.", "keywords": ["Image Trace Guide references"]},
+  {"topic": "Technical usage notes", "file": "cloud-services/technical-usage-notes.md", "summary": "Open when looking up Technical usage notes in Illustrator.", "keywords": ["Technical usage notes"]},
+  {"topic": "Technical usage notes references", "file": "cloud-services/technical-usage-notes/reference-index.md", "summary": "Open when looking up Technical usage notes in Illustrator.", "keywords": ["Technical usage notes references"]},
+  {"topic": "Template setup guide for Data Merge templates", "file": "cloud-services/template-setup-guide-for-data-merge-templates.md", "summary": "Open when looking up Template setup guide for Data Merge templates in Illustrator.", "keywords": ["Template setup guide for Data Merge templates"]},
+  {"topic": "Template setup guide for Data Merge templates references", "file": "cloud-services/template-setup-guide-for-data-merge-templates/reference-index.md", "summary": "Open when looking up Template setup guide for Data Merge templates in Illustrator.", "keywords": ["Template setup guide for Data Merge templates references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

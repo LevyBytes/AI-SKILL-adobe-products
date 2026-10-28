@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Development environment", "file": "uxp/uxp-for-extend-script-developers/development-environment.md", "summary": "Open when looking up Development environment in Photoshop.", "keywords": ["Development environment"]},
+  {"topic": "Different DOM access", "file": "uxp/uxp-for-extend-script-developers/different-dom-access.md", "summary": "Open when looking up Different DOM access in Photoshop.", "keywords": ["Different DOM access"]},
+  {"topic": "Migration helper for ExtendScript developers", "file": "uxp/uxp-for-extend-script-developers/migration-helper-for-extend-script-developers.md", "summary": "Open when looking up Migration helper for ExtendScript developers in Photoshop.", "keywords": ["Migration helper for ExtendScript developers"]},
+  {"topic": "Modern JavaScript", "file": "uxp/uxp-for-extend-script-developers/modern-java-script.md", "summary": "Open when looking up Modern JavaScript in Photoshop.", "keywords": ["Modern JavaScript"]},
+  {"topic": "User interface", "file": "uxp/uxp-for-extend-script-developers/user-interface.md", "summary": "Open when looking up User interface in Photoshop.", "keywords": ["User interface"]},
+  {"topic": "What's Missing in UXP", "file": "uxp/uxp-for-extend-script-developers/what-s-missing-in-uxp.md", "summary": "Open when looking up What's Missing in UXP in Photoshop.", "keywords": ["What's Missing in UXP"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Known issues", "file": "uxp/known-issues.md", "summary": "Open when looking up Known issues in InDesign.", "keywords": ["Known issues"]},
+  {"topic": "Known issues references", "file": "uxp/known-issues/reference-index.md", "summary": "Open when looking up Known issues in InDesign.", "keywords": ["Known issues references"]},
+  {"topic": "Release history references", "file": "uxp/release-history/reference-index.md", "summary": "Open when looking up Release history in InDesign.", "keywords": ["Release history references"]},
+  {"topic": "Versions references", "file": "uxp/versions/reference-index.md", "summary": "Open when looking up Versions in InDesign.", "keywords": ["Versions references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

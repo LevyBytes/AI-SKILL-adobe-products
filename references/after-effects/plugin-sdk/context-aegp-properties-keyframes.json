@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "AEGP_DynamicStreamSuite4 references", "file": "plugin-sdk/aegp-dynamic-stream-suite4/reference-index.md", "summary": "Open when looking up AEGP_DynamicStreamSuite4 in After Effects.", "keywords": ["AEGP_DynamicStreamSuite4 references"]},
+  {"topic": "AEGP_EffectSuite4 references", "file": "plugin-sdk/aegp-effect-suite4/reference-index.md", "summary": "Open when looking up AEGP_EffectSuite4 in After Effects.", "keywords": ["AEGP_EffectSuite4 references"]},
+  {"topic": "AEGP_KeyframeSuite4 references", "file": "plugin-sdk/aegp-keyframe-suite4/reference-index.md", "summary": "Open when looking up AEGP_KeyframeSuite4 in After Effects.", "keywords": ["AEGP_KeyframeSuite4 references"]},
+  {"topic": "AEGP_MarkerSuite2 references", "file": "plugin-sdk/aegp-marker-suite2/reference-index.md", "summary": "Open when looking up AEGP_MarkerSuite2 in After Effects.", "keywords": ["AEGP_MarkerSuite2 references"]},
+  {"topic": "AEGP_MaskOutlineSuite3 references", "file": "plugin-sdk/aegp-mask-outline-suite3/reference-index.md", "summary": "Open when looking up AEGP_MaskOutlineSuite3 in After Effects.", "keywords": ["AEGP_MaskOutlineSuite3 references"]},
+  {"topic": "AEGP_MaskSuite6 references", "file": "plugin-sdk/aegp-mask-suite6/reference-index.md", "summary": "Open when looking up AEGP_MaskSuite6 in After Effects.", "keywords": ["AEGP_MaskSuite6 references"]},
+  {"topic": "AEGP_StreamSuite5 references", "file": "plugin-sdk/aegp-stream-suite5/reference-index.md", "summary": "Open when looking up AEGP_StreamSuite5 in After Effects.", "keywords": ["AEGP_StreamSuite5 references"]},
+  {"topic": "AEGP_TextDocumentSuite1 references", "file": "plugin-sdk/aegp-text-document-suite1/reference-index.md", "summary": "Open when looking up AEGP_TextDocumentSuite1 in After Effects.", "keywords": ["AEGP_TextDocumentSuite1 references"]},
+  {"topic": "AEGP_TextLayerSuite1 references", "file": "plugin-sdk/aegp-text-layer-suite1/reference-index.md", "summary": "Open when looking up AEGP_TextLayerSuite1 in After Effects.", "keywords": ["AEGP_TextLayerSuite1 references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

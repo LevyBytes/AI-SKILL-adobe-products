@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "addPropertyToProjectMetadataSchema", "file": "uxp/host-api/metadata/static-methods/add-property-to-project-metadata-schema.md", "summary": "Open when looking up addPropertyToProjectMetadataSchema in Premiere Pro.", "keywords": ["addPropertyToProjectMetadataSchema"]},
+  {"topic": "createSetProjectMetadataAction", "file": "uxp/host-api/metadata/static-methods/create-set-project-metadata-action.md", "summary": "Open when looking up createSetProjectMetadataAction in Premiere Pro.", "keywords": ["createSetProjectMetadataAction"]},
+  {"topic": "createSetXMPMetadataAction", "file": "uxp/host-api/metadata/static-methods/create-set-xmp-metadata-action.md", "summary": "Open when looking up createSetXMPMetadataAction in Premiere Pro.", "keywords": ["createSetXMPMetadataAction"]},
+  {"topic": "getProjectColumnsMetadata", "file": "uxp/host-api/metadata/static-methods/get-project-columns-metadata.md", "summary": "Open when looking up getProjectColumnsMetadata in Premiere Pro.", "keywords": ["getProjectColumnsMetadata"]},
+  {"topic": "getProjectMetadata", "file": "uxp/host-api/metadata/static-methods/get-project-metadata.md", "summary": "Open when looking up getProjectMetadata in Premiere Pro.", "keywords": ["getProjectMetadata"]},
+  {"topic": "getProjectPanelMetadata", "file": "uxp/host-api/metadata/static-methods/get-project-panel-metadata.md", "summary": "Open when looking up getProjectPanelMetadata in Premiere Pro.", "keywords": ["getProjectPanelMetadata"]},
+  {"topic": "getXMPMetadata", "file": "uxp/host-api/metadata/static-methods/get-xmp-metadata.md", "summary": "Open when looking up getXMPMetadata in Premiere Pro.", "keywords": ["getXMPMetadata"]},
+  {"topic": "setProjectPanelMetadata", "file": "uxp/host-api/metadata/static-methods/set-project-panel-metadata.md", "summary": "Open when looking up setProjectPanelMetadata in Premiere Pro.", "keywords": ["setProjectPanelMetadata"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

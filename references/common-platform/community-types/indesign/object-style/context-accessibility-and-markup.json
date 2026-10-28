@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "ObjectStyle.objectExportOptions", "file": "community-types/indesign/object-style/object-export-options.md", "summary": "Open when looking up ObjectStyle.objectExportOptions in Shared Adobe platform.", "keywords": ["ObjectStyle.objectExportOptions"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

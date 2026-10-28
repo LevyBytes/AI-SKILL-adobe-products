@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Enhance your workflows", "file": "desktop/edit-projects/edit-video-using-text-based-editing/overview-of-text-based-editing/enhance-your-workflows.md", "summary": "Open when looking up Enhance your workflows in Premiere Pro.", "keywords": ["Enhance your workflows"]},
+  {"topic": "Key features", "file": "desktop/edit-projects/edit-video-using-text-based-editing/overview-of-text-based-editing/key-features.md", "summary": "Open when looking up Key features in Premiere Pro.", "keywords": ["Key features"]},
+  {"topic": "Limitations", "file": "desktop/edit-projects/edit-video-using-text-based-editing/overview-of-text-based-editing/limitations.md", "summary": "Open when looking up Limitations in Premiere Pro.", "keywords": ["Limitations"]},
+  {"topic": "Supported languages", "file": "desktop/edit-projects/edit-video-using-text-based-editing/overview-of-text-based-editing/supported-languages.md", "summary": "Open when looking up Supported languages in Premiere Pro.", "keywords": ["Supported languages"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

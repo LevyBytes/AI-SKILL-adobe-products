@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "PNG24 export example", "file": "scripting/export-options-png24-example/png24-export-example.md", "summary": "Open when looking up PNG24 export example in Illustrator.", "keywords": ["PNG24 export example"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

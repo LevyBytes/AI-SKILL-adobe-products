@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Implementation example", "file": "references/cloud-services/product-crop/implementation-example.md", "summary": "Open when looking up Implementation example in Photoshop.", "keywords": ["Implementation example"]},
-  {"topic": "Known limitations", "file": "references/cloud-services/product-crop/known-limitations.md", "summary": "Open when looking up Known limitations in Photoshop.", "keywords": ["Known limitations"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

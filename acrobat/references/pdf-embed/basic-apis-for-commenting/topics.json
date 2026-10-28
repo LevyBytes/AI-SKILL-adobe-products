@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "addAnnotations API", "file": "references/pdf-embed/basic-apis-for-commenting/add-annotations-api.md", "summary": "Open when looking up addAnnotations API in Acrobat.", "keywords": ["addAnnotations API"]},
-  {"topic": "deleteAnnotations API", "file": "references/pdf-embed/basic-apis-for-commenting/delete-annotations-api.md", "summary": "Open when looking up deleteAnnotations API in Acrobat.", "keywords": ["deleteAnnotations API"]},
-  {"topic": "getAnnotations API", "file": "references/pdf-embed/basic-apis-for-commenting/get-annotations-api.md", "summary": "Open when looking up getAnnotations API in Acrobat.", "keywords": ["getAnnotations API"]},
-  {"topic": "updateAnnotation API", "file": "references/pdf-embed/basic-apis-for-commenting/update-annotation-api.md", "summary": "Open when looking up updateAnnotation API in Acrobat.", "keywords": ["updateAnnotation API"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

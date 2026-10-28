@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "TracingColorType", "file": "community-types/illustrator/tracing-color-type.md", "summary": "Open when looking up TracingColorType in Shared Adobe platform.", "keywords": ["TracingColorType"]},
+  {"topic": "TracingMethodType", "file": "community-types/illustrator/tracing-method-type.md", "summary": "Open when looking up TracingMethodType in Shared Adobe platform.", "keywords": ["TracingMethodType"]},
+  {"topic": "TracingModeType", "file": "community-types/illustrator/tracing-mode-type.md", "summary": "Open when looking up TracingModeType in Shared Adobe platform.", "keywords": ["TracingModeType"]},
+  {"topic": "TracingObject", "file": "community-types/illustrator/tracing-object.md", "summary": "Open when looking up TracingObject in Shared Adobe platform.", "keywords": ["TracingObject"]},
+  {"topic": "TracingOptions references", "file": "community-types/illustrator/tracing-options/reference-index.md", "summary": "Open when looking up TracingOptions in Shared Adobe platform.", "keywords": ["TracingOptions references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

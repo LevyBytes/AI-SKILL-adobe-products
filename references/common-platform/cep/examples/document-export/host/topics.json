@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "export-documents.jsx", "file": "cep/examples/document-export/host/export-documents.jsx", "summary": "Open when looking up export-documents.jsx in Shared Adobe platform.", "keywords": ["export-documents.jsx"]},
+  {"topic": "illustrator-export.jsx", "file": "cep/examples/document-export/host/illustrator-export.jsx", "summary": "Open when looking up illustrator-export.jsx in Shared Adobe platform.", "keywords": ["illustrator-export.jsx"]},
+  {"topic": "indesign-export.jsx", "file": "cep/examples/document-export/host/indesign-export.jsx", "summary": "Open when looking up indesign-export.jsx in Shared Adobe platform.", "keywords": ["indesign-export.jsx"]},
+  {"topic": "photoshop-export.jsx", "file": "cep/examples/document-export/host/photoshop-export.jsx", "summary": "Open when looking up photoshop-export.jsx in Shared Adobe platform.", "keywords": ["photoshop-export.jsx"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

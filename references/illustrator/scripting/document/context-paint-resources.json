@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Document.brushes", "file": "scripting/document/brushes.md", "summary": "Open when looking up Document.brushes in Illustrator.", "keywords": ["Document.brushes"]},
+  {"topic": "Document.gradients", "file": "scripting/document/gradients.md", "summary": "Open when looking up Document.gradients in Illustrator.", "keywords": ["Document.gradients"]},
+  {"topic": "Document.graphicStyles", "file": "scripting/document/graphic-styles.md", "summary": "Open when looking up Document.graphicStyles in Illustrator.", "keywords": ["Document.graphicStyles"]},
+  {"topic": "Document.inkList", "file": "scripting/document/ink-list.md", "summary": "Open when looking up Document.inkList in Illustrator.", "keywords": ["Document.inkList"]},
+  {"topic": "Document.patterns", "file": "scripting/document/patterns.md", "summary": "Open when looking up Document.patterns in Illustrator.", "keywords": ["Document.patterns"]},
+  {"topic": "Document.spots", "file": "scripting/document/spots.md", "summary": "Open when looking up Document.spots in Illustrator.", "keywords": ["Document.spots"]},
+  {"topic": "Document.swatches", "file": "scripting/document/swatches.md", "summary": "Open when looking up Document.swatches in Illustrator.", "keywords": ["Document.swatches"]},
+  {"topic": "Document.swatchGroups", "file": "scripting/document/swatch-groups.md", "summary": "Open when looking up Document.swatchGroups in Illustrator.", "keywords": ["Document.swatchGroups"]},
+  {"topic": "Document.symbolItems", "file": "scripting/document/symbol-items.md", "summary": "Open when looking up Document.symbolItems in Illustrator.", "keywords": ["Document.symbolItems"]},
+  {"topic": "Document.symbols", "file": "scripting/document/symbols.md", "summary": "Open when looking up Document.symbols in Illustrator.", "keywords": ["Document.symbols"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

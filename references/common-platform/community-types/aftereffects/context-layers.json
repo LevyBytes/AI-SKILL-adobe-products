@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "AVLayer references", "file": "community-types/aftereffects/av-layer/reference-index.md", "summary": "Open when looking up AVLayer in Shared Adobe platform.", "keywords": ["AVLayer references"]},
+  {"topic": "Layer references", "file": "community-types/aftereffects/layer/reference-index.md", "summary": "Open when looking up Layer in Shared Adobe platform.", "keywords": ["Layer references"]},
+  {"topic": "LayerCollection", "file": "community-types/aftereffects/layer-collection.md", "summary": "Open when looking up LayerCollection in Shared Adobe platform.", "keywords": ["LayerCollection"]},
+  {"topic": "CameraLayer", "file": "community-types/aftereffects/camera-layer.md", "summary": "Open when looking up CameraLayer in Shared Adobe platform.", "keywords": ["CameraLayer"]},
+  {"topic": "LightLayer", "file": "community-types/aftereffects/light-layer.md", "summary": "Open when looking up LightLayer in Shared Adobe platform.", "keywords": ["LightLayer"]},
+  {"topic": "ShapeLayer", "file": "community-types/aftereffects/shape-layer.md", "summary": "Open when looking up ShapeLayer in Shared Adobe platform.", "keywords": ["ShapeLayer"]},
+  {"topic": "TextLayer", "file": "community-types/aftereffects/text-layer.md", "summary": "Open when looking up TextLayer in Shared Adobe platform.", "keywords": ["TextLayer"]},
+  {"topic": "ThreeDModelLayer", "file": "community-types/aftereffects/three-d-model-layer.md", "summary": "Open when looking up ThreeDModelLayer in Shared Adobe platform.", "keywords": ["ThreeDModelLayer"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

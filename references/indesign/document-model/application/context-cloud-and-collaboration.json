@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "deleteCloudDocument", "file": "document-model/application/delete-cloud-document.md", "summary": "Open when looking up deleteCloudDocument in InDesign.", "keywords": ["deleteCloudDocument"]},
+  {"topic": "exportSelectionForCloudLibrary", "file": "document-model/application/export-selection-for-cloud-library.md", "summary": "Open when looking up exportSelectionForCloudLibrary in InDesign.", "keywords": ["exportSelectionForCloudLibrary"]},
+  {"topic": "getUserChoiceForCloudTextAddition", "file": "document-model/application/get-user-choice-for-cloud-text-addition.md", "summary": "Open when looking up getUserChoiceForCloudTextAddition in InDesign.", "keywords": ["getUserChoiceForCloudTextAddition"]},
+  {"topic": "libraries", "file": "document-model/application/libraries.md", "summary": "Open when looking up libraries in InDesign.", "keywords": ["libraries"]},
+  {"topic": "mountProject", "file": "document-model/application/mount-project.md", "summary": "Open when looking up mountProject in InDesign.", "keywords": ["mountProject"]},
+  {"topic": "openCloudAssetForEdit", "file": "document-model/application/open-cloud-asset-for-edit.md", "summary": "Open when looking up openCloudAssetForEdit in InDesign.", "keywords": ["openCloudAssetForEdit"]},
+  {"topic": "openCloudDocument", "file": "document-model/application/open-cloud-document.md", "summary": "Open when looking up openCloudDocument in InDesign.", "keywords": ["openCloudDocument"]},
+  {"topic": "setCloudLibraryCollection", "file": "document-model/application/set-cloud-library-collection.md", "summary": "Open when looking up setCloudLibraryCollection in InDesign.", "keywords": ["setCloudLibraryCollection"]},
+  {"topic": "setCloudLibraryOptions", "file": "document-model/application/set-cloud-library-options.md", "summary": "Open when looking up setCloudLibraryOptions in InDesign.", "keywords": ["setCloudLibraryOptions"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

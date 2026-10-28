@@ -1,0 +1,21 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "kentenAlignment", "file": "document-model/word/kenten-alignment.md", "summary": "Open when looking up kentenAlignment in InDesign.", "keywords": ["kentenAlignment"]},
+  {"topic": "kentenCharacterSet", "file": "document-model/word/kenten-character-set.md", "summary": "Open when looking up kentenCharacterSet in InDesign.", "keywords": ["kentenCharacterSet"]},
+  {"topic": "kentenCustomCharacter", "file": "document-model/word/kenten-custom-character.md", "summary": "Open when looking up kentenCustomCharacter in InDesign.", "keywords": ["kentenCustomCharacter"]},
+  {"topic": "kentenFillColor", "file": "document-model/word/kenten-fill-color.md", "summary": "Open when looking up kentenFillColor in InDesign.", "keywords": ["kentenFillColor"]},
+  {"topic": "kentenFont", "file": "document-model/word/kenten-font.md", "summary": "Open when looking up kentenFont in InDesign.", "keywords": ["kentenFont"]},
+  {"topic": "kentenFontSize", "file": "document-model/word/kenten-font-size.md", "summary": "Open when looking up kentenFontSize in InDesign.", "keywords": ["kentenFontSize"]},
+  {"topic": "kentenFontStyle", "file": "document-model/word/kenten-font-style.md", "summary": "Open when looking up kentenFontStyle in InDesign.", "keywords": ["kentenFontStyle"]},
+  {"topic": "kentenKind", "file": "document-model/word/kenten-kind.md", "summary": "Open when looking up kentenKind in InDesign.", "keywords": ["kentenKind"]},
+  {"topic": "kentenOverprintFill", "file": "document-model/word/kenten-overprint-fill.md", "summary": "Open when looking up kentenOverprintFill in InDesign.", "keywords": ["kentenOverprintFill"]},
+  {"topic": "kentenOverprintStroke", "file": "document-model/word/kenten-overprint-stroke.md", "summary": "Open when looking up kentenOverprintStroke in InDesign.", "keywords": ["kentenOverprintStroke"]},
+  {"topic": "kentenPlacement", "file": "document-model/word/kenten-placement.md", "summary": "Open when looking up kentenPlacement in InDesign.", "keywords": ["kentenPlacement"]},
+  {"topic": "kentenPosition", "file": "document-model/word/kenten-position.md", "summary": "Open when looking up kentenPosition in InDesign.", "keywords": ["kentenPosition"]},
+  {"topic": "kentenStrokeColor", "file": "document-model/word/kenten-stroke-color.md", "summary": "Open when looking up kentenStrokeColor in InDesign.", "keywords": ["kentenStrokeColor"]},
+  {"topic": "kentenStrokeTint", "file": "document-model/word/kenten-stroke-tint.md", "summary": "Open when looking up kentenStrokeTint in InDesign.", "keywords": ["kentenStrokeTint"]},
+  {"topic": "kentenTint", "file": "document-model/word/kenten-tint.md", "summary": "Open when looking up kentenTint in InDesign.", "keywords": ["kentenTint"]},
+  {"topic": "kentenWeight", "file": "document-model/word/kenten-weight.md", "summary": "Open when looking up kentenWeight in InDesign.", "keywords": ["kentenWeight"]},
+  {"topic": "kentenXScale", "file": "document-model/word/kenten-x-scale.md", "summary": "Open when looking up kentenXScale in InDesign.", "keywords": ["kentenXScale"]},
+  {"topic": "kentenYScale", "file": "document-model/word/kenten-y-scale.md", "summary": "Open when looking up kentenYScale in InDesign.", "keywords": ["kentenYScale"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

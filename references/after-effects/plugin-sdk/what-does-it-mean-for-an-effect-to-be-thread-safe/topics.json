@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Multi-Frame Rendering in AE - What does it mean for an effect to be thread-safe?", "file": "plugin-sdk/what-does-it-mean-for-an-effect-to-be-thread-safe/what-does-it-mean-for-an-effect-to-be-thread-safe.md", "summary": "Open when looking up Multi-Frame Rendering in AE - What does it mean for an effect to be thread-safe? in After Effects.", "keywords": ["Multi-Frame Rendering in AE - What does it mean for an effect to be thread-safe?"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

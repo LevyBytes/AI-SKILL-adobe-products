@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Accessing and referencing objects - Creating new objects", "file": "scripting/creating-new-objects/accessing-and-referencing-objects-creating-new-objects.md", "summary": "Open when looking up Accessing and referencing objects - Creating new objects in Illustrator.", "keywords": ["Accessing and referencing objects - Creating new objects"]},
+  {"topic": "Object references - Creating new objects", "file": "scripting/creating-new-objects/object-references-creating-new-objects.md", "summary": "Open when looking up Object references - Creating new objects in Illustrator.", "keywords": ["Object references - Creating new objects"]},
+  {"topic": "Working with objects - Creating new objects", "file": "scripting/creating-new-objects/working-with-objects-creating-new-objects.md", "summary": "Open when looking up Working with objects - Creating new objects in Illustrator.", "keywords": ["Working with objects - Creating new objects"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

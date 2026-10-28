@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "NINETY_SIX_PPI", "file": "document-model/raster-resolution-options/ninetysixppi.md", "summary": "Open when looking up NINETY_SIX_PPI in InDesign.", "keywords": ["NINETY_SIX_PPI"]},
+  {"topic": "ONE_HUNDRED_FORTY_FOUR_PPI", "file": "document-model/raster-resolution-options/onehundredfortyfourppi.md", "summary": "Open when looking up ONE_HUNDRED_FORTY_FOUR_PPI in InDesign.", "keywords": ["ONE_HUNDRED_FORTY_FOUR_PPI"]},
+  {"topic": "SEVENTY_TWO_PPI", "file": "document-model/raster-resolution-options/seventytwoppi.md", "summary": "Open when looking up SEVENTY_TWO_PPI in InDesign.", "keywords": ["SEVENTY_TWO_PPI"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

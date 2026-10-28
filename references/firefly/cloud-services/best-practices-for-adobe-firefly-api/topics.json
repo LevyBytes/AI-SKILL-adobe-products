@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "API Requests", "file": "cloud-services/best-practices-for-adobe-firefly-api/api-requests.md", "summary": "Open when looking up API Requests in Firefly.", "keywords": ["API Requests"]},
+  {"topic": "Authentication", "file": "cloud-services/best-practices-for-adobe-firefly-api/authentication.md", "summary": "Open when looking up Authentication in Firefly.", "keywords": ["Authentication"]},
+  {"topic": "Monitoring and Logging", "file": "cloud-services/best-practices-for-adobe-firefly-api/monitoring-and-logging.md", "summary": "Open when looking up Monitoring and Logging in Firefly.", "keywords": ["Monitoring and Logging"]},
+  {"topic": "Security", "file": "cloud-services/best-practices-for-adobe-firefly-api/security.md", "summary": "Open when looking up Security in Firefly.", "keywords": ["Security"]},
+  {"topic": "Testing", "file": "cloud-services/best-practices-for-adobe-firefly-api/testing.md", "summary": "Open when looking up Testing in Firefly.", "keywords": ["Testing"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

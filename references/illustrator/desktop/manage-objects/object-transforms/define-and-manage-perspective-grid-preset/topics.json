@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Define grid presets", "file": "desktop/manage-objects/object-transforms/define-and-manage-perspective-grid-preset/define-grid-presets.md", "summary": "Open when looking up Define grid presets in Illustrator.", "keywords": ["Define grid presets"]},
+  {"topic": "Manage grid presets", "file": "desktop/manage-objects/object-transforms/define-and-manage-perspective-grid-preset/manage-grid-presets.md", "summary": "Open when looking up Manage grid presets in Illustrator.", "keywords": ["Manage grid presets"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

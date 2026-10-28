@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Gradients collection iteration", "file": "community-types/indesign/gradients/collection-iteration.md", "summary": "Open when looking up Gradients collection iteration in Shared Adobe platform.", "keywords": ["Gradients collection iteration"]},
+  {"topic": "Gradients declaration", "file": "community-types/indesign/gradients/declaration.md", "summary": "Open when looking up Gradients declaration in Shared Adobe platform.", "keywords": ["Gradients declaration"]},
+  {"topic": "Gradients named and indexed items", "file": "community-types/indesign/gradients/named-and-indexed-items.md", "summary": "Open when looking up Gradients named and indexed items in Shared Adobe platform.", "keywords": ["Gradients named and indexed items"]},
+  {"topic": "Gradients.add", "file": "community-types/indesign/gradients/add.md", "summary": "Open when looking up Gradients.add in Shared Adobe platform.", "keywords": ["Gradients.add"]},
+  {"topic": "Gradients.count", "file": "community-types/indesign/gradients/count.md", "summary": "Open when looking up Gradients.count in Shared Adobe platform.", "keywords": ["Gradients.count"]},
+  {"topic": "Gradients.IndexSignature", "file": "community-types/indesign/gradients/index-signature.md", "summary": "Open when looking up Gradients.IndexSignature in Shared Adobe platform.", "keywords": ["Gradients.IndexSignature"]},
+  {"topic": "Gradients.itemByRange", "file": "community-types/indesign/gradients/item-by-range.md", "summary": "Open when looking up Gradients.itemByRange in Shared Adobe platform.", "keywords": ["Gradients.itemByRange"]},
+  {"topic": "Gradients.length", "file": "community-types/indesign/gradients/length.md", "summary": "Open when looking up Gradients.length in Shared Adobe platform.", "keywords": ["Gradients.length"]},
+  {"topic": "Gradients.toSource", "file": "community-types/indesign/gradients/to-source.md", "summary": "Open when looking up Gradients.toSource in Shared Adobe platform.", "keywords": ["Gradients.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

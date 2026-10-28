@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Build Process", "file": "plugin-samples/js-zip-sample/build-process.md", "summary": "Open when looking up Build Process in Photoshop.", "keywords": ["Build Process"]},
+  {"topic": "Launching in Photoshop", "file": "plugin-samples/js-zip-sample/launching-in-photoshop.md", "summary": "Open when looking up Launching in Photoshop in Photoshop.", "keywords": ["Launching in Photoshop"]},
+  {"topic": "What this plugin does", "file": "plugin-samples/js-zip-sample/what-this-plugin-does.md", "summary": "Open when looking up What this plugin does in Photoshop.", "keywords": ["What this plugin does"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

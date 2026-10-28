@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Customized workflow", "file": "references/cloud-services/remove-background/customized-workflow.md", "summary": "Open when looking up Customized workflow in Photoshop.", "keywords": ["Customized workflow"]},
-  {"topic": "Implementation steps", "file": "references/cloud-services/remove-background/implementation-steps.md", "summary": "Open when looking up Implementation steps in Photoshop.", "keywords": ["Implementation steps"]},
-  {"topic": "Optional parameters", "file": "references/cloud-services/remove-background/optional-parameters.md", "summary": "Open when looking up Optional parameters in Photoshop.", "keywords": ["Optional parameters"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

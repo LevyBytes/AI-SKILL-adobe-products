@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "TextDefault.appliedCharacterStyle", "file": "references/community-types/indesign/text-default/applied-character-style.md", "summary": "Open when looking up TextDefault.appliedCharacterStyle in Shared Adobe platform.", "keywords": ["TextDefault.appliedCharacterStyle"]},
-  {"topic": "TextDefault.appliedParagraphStyle", "file": "references/community-types/indesign/text-default/applied-paragraph-style.md", "summary": "Open when looking up TextDefault.appliedParagraphStyle in Shared Adobe platform.", "keywords": ["TextDefault.appliedParagraphStyle"]},
-  {"topic": "TextDefault.nestedGrepStyles", "file": "references/community-types/indesign/text-default/nested-grep-styles.md", "summary": "Open when looking up TextDefault.nestedGrepStyles in Shared Adobe platform.", "keywords": ["TextDefault.nestedGrepStyles"]},
-  {"topic": "TextDefault.nestedLineStyles", "file": "references/community-types/indesign/text-default/nested-line-styles.md", "summary": "Open when looking up TextDefault.nestedLineStyles in Shared Adobe platform.", "keywords": ["TextDefault.nestedLineStyles"]},
-  {"topic": "TextDefault.nestedStyles", "file": "references/community-types/indesign/text-default/nested-styles.md", "summary": "Open when looking up TextDefault.nestedStyles in Shared Adobe platform.", "keywords": ["TextDefault.nestedStyles"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

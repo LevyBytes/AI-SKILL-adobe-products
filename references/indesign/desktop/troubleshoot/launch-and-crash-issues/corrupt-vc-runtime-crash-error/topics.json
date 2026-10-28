@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Corrupted Visual C++ runtime files prevent InDesign from launching", "file": "desktop/troubleshoot/launch-and-crash-issues/corrupt-vc-runtime-crash-error/visual-cpp-runtime-launch-failure.md", "summary": "Open when looking up Corrupted Visual C++ runtime files prevent InDesign from launching in InDesign.", "keywords": ["Corrupted Visual C++ runtime files prevent InDesign from launching"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

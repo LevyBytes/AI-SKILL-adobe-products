@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "border-bottom-left-radius", "file": "references/uxp/css/properties/border-bottom-left-radius.md", "summary": "Open when looking up border-bottom-left-radius in InDesign.", "keywords": ["border-bottom-left-radius"]},
-  {"topic": "border-bottom-left-radius references", "file": "references/uxp/css/properties/border-bottom-left-radius/reference-index.md", "summary": "Open when looking up border-bottom-left-radius in InDesign.", "keywords": ["border-bottom-left-radius references"]},
-  {"topic": "border-bottom-right-radius", "file": "references/uxp/css/properties/border-bottom-right-radius.md", "summary": "Open when looking up border-bottom-right-radius in InDesign.", "keywords": ["border-bottom-right-radius"]},
-  {"topic": "border-radius", "file": "references/uxp/css/properties/border-radius.md", "summary": "Open when looking up border-radius in InDesign.", "keywords": ["border-radius"]},
-  {"topic": "border-top-left-radius", "file": "references/uxp/css/properties/border-top-left-radius.md", "summary": "Open when looking up border-top-left-radius in InDesign.", "keywords": ["border-top-left-radius"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

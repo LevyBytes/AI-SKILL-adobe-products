@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Application.kinsokuTables", "file": "community-types/indesign/application/kinsoku-tables.md", "summary": "Open when looking up Application.kinsokuTables in Shared Adobe platform.", "keywords": ["Application.kinsokuTables"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

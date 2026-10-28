@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "DEFAULT_VALUE", "file": "references/document-model/mark-types/defaultvalue.md", "summary": "Open when looking up DEFAULT_VALUE in InDesign.", "keywords": ["DEFAULT_VALUE"]},
-  {"topic": "J_MARK_WITH_CIRCLE", "file": "references/document-model/mark-types/jmarkwithcircle.md", "summary": "Open when looking up J_MARK_WITH_CIRCLE in InDesign.", "keywords": ["J_MARK_WITH_CIRCLE"]},
-  {"topic": "J_MARK_WITHOUT_CIRCLE", "file": "references/document-model/mark-types/jmarkwithoutcircle.md", "summary": "Open when looking up J_MARK_WITHOUT_CIRCLE in InDesign.", "keywords": ["J_MARK_WITHOUT_CIRCLE"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

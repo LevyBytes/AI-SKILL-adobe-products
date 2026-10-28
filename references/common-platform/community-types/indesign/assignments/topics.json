@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Assignments collection iteration", "file": "community-types/indesign/assignments/collection-iteration.md", "summary": "Open when looking up Assignments collection iteration in Shared Adobe platform.", "keywords": ["Assignments collection iteration"]},
+  {"topic": "Assignments declaration", "file": "community-types/indesign/assignments/declaration.md", "summary": "Open when looking up Assignments declaration in Shared Adobe platform.", "keywords": ["Assignments declaration"]},
+  {"topic": "Assignments named and indexed items", "file": "community-types/indesign/assignments/named-and-indexed-items.md", "summary": "Open when looking up Assignments named and indexed items in Shared Adobe platform.", "keywords": ["Assignments named and indexed items"]},
+  {"topic": "Assignments.add", "file": "community-types/indesign/assignments/add.md", "summary": "Open when looking up Assignments.add in Shared Adobe platform.", "keywords": ["Assignments.add"]},
+  {"topic": "Assignments.count", "file": "community-types/indesign/assignments/count.md", "summary": "Open when looking up Assignments.count in Shared Adobe platform.", "keywords": ["Assignments.count"]},
+  {"topic": "Assignments.IndexSignature", "file": "community-types/indesign/assignments/index-signature.md", "summary": "Open when looking up Assignments.IndexSignature in Shared Adobe platform.", "keywords": ["Assignments.IndexSignature"]},
+  {"topic": "Assignments.itemByRange", "file": "community-types/indesign/assignments/item-by-range.md", "summary": "Open when looking up Assignments.itemByRange in Shared Adobe platform.", "keywords": ["Assignments.itemByRange"]},
+  {"topic": "Assignments.length", "file": "community-types/indesign/assignments/length.md", "summary": "Open when looking up Assignments.length in Shared Adobe platform.", "keywords": ["Assignments.length"]},
+  {"topic": "Assignments.toSource", "file": "community-types/indesign/assignments/to-source.md", "summary": "Open when looking up Assignments.toSource in Shared Adobe platform.", "keywords": ["Assignments.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

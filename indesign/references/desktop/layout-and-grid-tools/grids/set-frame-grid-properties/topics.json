@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Configure display and grid structure", "file": "references/desktop/layout-and-grid-tools/grids/set-frame-grid-properties/configure-display-and-grid-structure.md", "summary": "Open when looking up Configure display and grid structure in InDesign.", "keywords": ["Configure display and grid structure"]},
-  {"topic": "Configure font and character properties", "file": "references/desktop/layout-and-grid-tools/grids/set-frame-grid-properties/configure-font-and-character-properties.md", "summary": "Open when looking up Configure font and character properties in InDesign.", "keywords": ["Configure font and character properties"]},
-  {"topic": "Set line spacing and alignment", "file": "references/desktop/layout-and-grid-tools/grids/set-frame-grid-properties/set-line-spacing-and-alignment.md", "summary": "Open when looking up Set line spacing and alignment in InDesign.", "keywords": ["Set line spacing and alignment"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

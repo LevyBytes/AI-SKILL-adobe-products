@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "CENTER", "file": "document-model/floating-window-position/center.md", "summary": "Open when looking up CENTER in InDesign.", "keywords": ["CENTER"]},
+  {"topic": "CENTER_LEFT", "file": "document-model/floating-window-position/centerleft.md", "summary": "Open when looking up CENTER_LEFT in InDesign.", "keywords": ["CENTER_LEFT"]},
+  {"topic": "CENTER_RIGHT", "file": "document-model/floating-window-position/centerright.md", "summary": "Open when looking up CENTER_RIGHT in InDesign.", "keywords": ["CENTER_RIGHT"]},
+  {"topic": "LOWER_LEFT", "file": "document-model/floating-window-position/lowerleft.md", "summary": "Open when looking up LOWER_LEFT in InDesign.", "keywords": ["LOWER_LEFT"]},
+  {"topic": "LOWER_MIDDLE", "file": "document-model/floating-window-position/lowermiddle.md", "summary": "Open when looking up LOWER_MIDDLE in InDesign.", "keywords": ["LOWER_MIDDLE"]},
+  {"topic": "LOWER_RIGHT", "file": "document-model/floating-window-position/lowerright.md", "summary": "Open when looking up LOWER_RIGHT in InDesign.", "keywords": ["LOWER_RIGHT"]},
+  {"topic": "UPPER_LEFT", "file": "document-model/floating-window-position/upperleft.md", "summary": "Open when looking up UPPER_LEFT in InDesign.", "keywords": ["UPPER_LEFT"]},
+  {"topic": "UPPER_MIDDLE", "file": "document-model/floating-window-position/uppermiddle.md", "summary": "Open when looking up UPPER_MIDDLE in InDesign.", "keywords": ["UPPER_MIDDLE"]},
+  {"topic": "UPPER_RIGHT", "file": "document-model/floating-window-position/upperright.md", "summary": "Open when looking up UPPER_RIGHT in InDesign.", "keywords": ["UPPER_RIGHT"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

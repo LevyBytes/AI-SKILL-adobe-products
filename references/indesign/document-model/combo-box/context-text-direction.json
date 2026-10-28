@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "rightToLeftField", "file": "document-model/combo-box/right-to-left-field.md", "summary": "Open when looking up rightToLeftField in InDesign.", "keywords": ["rightToLeftField"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

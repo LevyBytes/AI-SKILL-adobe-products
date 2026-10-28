@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Check Windows build number", "file": "desktop/troubleshooting/crash-issues/premiere-is-crashing/check-windows-build-number.md", "summary": "Open when looking up Check Windows build number in Premiere Pro.", "keywords": ["Check Windows build number"]},
+  {"topic": "Common issues", "file": "desktop/troubleshooting/crash-issues/premiere-is-crashing/common-issues.md", "summary": "Open when looking up Common issues in Premiere Pro.", "keywords": ["Common issues"]},
+  {"topic": "Reset preferences", "file": "desktop/troubleshooting/crash-issues/premiere-is-crashing/reset-preferences.md", "summary": "Open when looking up Reset preferences in Premiere Pro.", "keywords": ["Reset preferences"]},
+  {"topic": "Restart Premiere", "file": "desktop/troubleshooting/crash-issues/premiere-is-crashing/restart-premiere.md", "summary": "Open when looking up Restart Premiere in Premiere Pro.", "keywords": ["Restart Premiere"]},
+  {"topic": "Update Premiere", "file": "desktop/troubleshooting/crash-issues/premiere-is-crashing/update-premiere.md", "summary": "Open when looking up Update Premiere in Premiere Pro.", "keywords": ["Update Premiere"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

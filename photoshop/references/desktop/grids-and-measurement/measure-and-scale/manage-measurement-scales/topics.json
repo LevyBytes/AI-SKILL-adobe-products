@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Create a measurement scale preset", "file": "references/desktop/grids-and-measurement/measure-and-scale/manage-measurement-scales/create-a-measurement-scale-preset.md", "summary": "Open when looking up Create a measurement scale preset in Photoshop.", "keywords": ["Create a measurement scale preset"]},
-  {"topic": "Delete a measurement scale preset", "file": "references/desktop/grids-and-measurement/measure-and-scale/manage-measurement-scales/delete-a-measurement-scale-preset.md", "summary": "Open when looking up Delete a measurement scale preset in Photoshop.", "keywords": ["Delete a measurement scale preset"]},
-  {"topic": "Set measurement scale", "file": "references/desktop/grids-and-measurement/measure-and-scale/manage-measurement-scales/set-measurement-scale.md", "summary": "Open when looking up Set measurement scale in Photoshop.", "keywords": ["Set measurement scale"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

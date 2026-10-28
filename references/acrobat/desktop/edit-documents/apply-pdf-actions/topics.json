@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Add actions to page thumbnails", "file": "desktop/edit-documents/apply-pdf-actions/add-actions-to-page-thumbnails.md", "summary": "Open when looking up Add actions to page thumbnails in Acrobat.", "keywords": ["Add actions to page thumbnails"]},
+  {"topic": "Add actions to PDF elements", "file": "desktop/edit-documents/apply-pdf-actions/add-actions-to-pdf-elements.md", "summary": "Open when looking up Add actions to PDF elements in Acrobat.", "keywords": ["Add actions to PDF elements"]},
+  {"topic": "Add actions to PDF elements references", "file": "desktop/edit-documents/apply-pdf-actions/add-actions-to-pdf-elements/reference-index.md", "summary": "Open when looking up Add actions to PDF elements in Acrobat.", "keywords": ["Add actions to PDF elements references"]},
+  {"topic": "PDF actions overview", "file": "desktop/edit-documents/apply-pdf-actions/pdf-actions-overview.md", "summary": "Open when looking up PDF actions overview in Acrobat.", "keywords": ["PDF actions overview"]},
+  {"topic": "PDF actions overview references", "file": "desktop/edit-documents/apply-pdf-actions/pdf-actions-overview/reference-index.md", "summary": "Open when looking up PDF actions overview in Acrobat.", "keywords": ["PDF actions overview references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

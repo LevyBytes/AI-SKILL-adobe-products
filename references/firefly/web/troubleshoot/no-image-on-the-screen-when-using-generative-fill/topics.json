@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Browser isn’t updated", "file": "web/troubleshoot/no-image-on-the-screen-when-using-generative-fill/browser-isn-t-updated.md", "summary": "Open when looking up Browser isn’t updated in Firefly.", "keywords": ["Browser isn’t updated"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

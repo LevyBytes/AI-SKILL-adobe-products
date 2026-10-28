@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Functionality", "file": "references/cep/plugin-functionality-and-ui-user-interface/functionality.md", "summary": "Open when looking up Functionality in Shared Adobe platform.", "keywords": ["Functionality"]},
-  {"topic": "User Interface", "file": "references/cep/plugin-functionality-and-ui-user-interface/user-interface.md", "summary": "Open when looking up User Interface in Shared Adobe platform.", "keywords": ["User Interface"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

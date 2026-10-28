@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "placeXML", "file": "references/document-model/text-frame/place-xml.md", "summary": "Open when looking up placeXML in InDesign.", "keywords": ["placeXML"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

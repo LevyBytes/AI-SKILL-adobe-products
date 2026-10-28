@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Custom Script Guide", "file": "references/cloud-services/illustrator-api-guides/custom-script-guide.md", "summary": "Open when looking up Custom Script Guide in Illustrator.", "keywords": ["Custom Script Guide"]},
-  {"topic": "Image Trace guide", "file": "references/cloud-services/illustrator-api-guides/image-trace-guide.md", "summary": "Open when looking up Image Trace guide in Illustrator.", "keywords": ["Image Trace guide"]},
-  {"topic": "Template setup for Data Merge", "file": "references/cloud-services/illustrator-api-guides/template-setup-for-data-merge.md", "summary": "Open when looking up Template setup for Data Merge in Illustrator.", "keywords": ["Template setup for Data Merge"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

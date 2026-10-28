@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Changes Across Versions - Acrobat XI changes", "file": "scripting/acrobat-xi-changes/changes-across-versions-acrobat-xi-changes.md", "summary": "Open when looking up Changes Across Versions - Acrobat XI changes in Acrobat.", "keywords": ["Changes Across Versions - Acrobat XI changes"]},
+  {"topic": "Changes to PrintParams object", "file": "scripting/acrobat-xi-changes/changes-to-print-params-object.md", "summary": "Open when looking up Changes to PrintParams object in Acrobat.", "keywords": ["Changes to PrintParams object"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

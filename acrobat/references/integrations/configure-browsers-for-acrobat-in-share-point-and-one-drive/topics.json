@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Configure chromium-based Microsoft Edge", "file": "references/integrations/configure-browsers-for-acrobat-in-share-point-and-one-drive/configure-chromium-based-microsoft-edge.md", "summary": "Open when looking up Configure chromium-based Microsoft Edge in Acrobat.", "keywords": ["Configure chromium-based Microsoft Edge"]},
-  {"topic": "Configure Microsoft Edge Legacy", "file": "references/integrations/configure-browsers-for-acrobat-in-share-point-and-one-drive/configure-microsoft-edge-legacy.md", "summary": "Open when looking up Configure Microsoft Edge Legacy in Acrobat.", "keywords": ["Configure Microsoft Edge Legacy"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

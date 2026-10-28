@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Adjustments", "file": "desktop/correct-color/add-color-effects/apply-lumetri-looks/adjustments.md", "summary": "Open when looking up Adjustments in Premiere Pro.", "keywords": ["Adjustments"]},
+  {"topic": "Looks", "file": "desktop/correct-color/add-color-effects/apply-lumetri-looks/looks.md", "summary": "Open when looking up Looks in Premiere Pro.", "keywords": ["Looks"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

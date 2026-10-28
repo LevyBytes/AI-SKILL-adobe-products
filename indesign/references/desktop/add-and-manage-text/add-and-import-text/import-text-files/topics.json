@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Import text", "file": "references/desktop/add-and-manage-text/add-and-import-text/import-text-files/import-text.md", "summary": "Open when looking up Import text in InDesign.", "keywords": ["Import text"]},
-  {"topic": "Link or embed imported text files", "file": "references/desktop/add-and-manage-text/add-and-import-text/import-text-files/link-or-embed-imported-text-files.md", "summary": "Open when looking up Link or embed imported text files in InDesign.", "keywords": ["Link or embed imported text files"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

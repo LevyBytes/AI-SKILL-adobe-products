@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Change from one workspace to another", "file": "references/desktop/get-started/workflows-workspaces-and-panels/change-create-and-reset-workspaces/change-from-one-workspace-to-another.md", "summary": "Open when looking up Change from one workspace to another in Premiere Pro.", "keywords": ["Change from one workspace to another"]},
-  {"topic": "Create and save a custom workspace", "file": "references/desktop/get-started/workflows-workspaces-and-panels/change-create-and-reset-workspaces/create-and-save-a-custom-workspace.md", "summary": "Open when looking up Create and save a custom workspace in Premiere Pro.", "keywords": ["Create and save a custom workspace"]},
-  {"topic": "Reset a Workspace", "file": "references/desktop/get-started/workflows-workspaces-and-panels/change-create-and-reset-workspaces/reset-a-workspace.md", "summary": "Open when looking up Reset a Workspace in Premiere Pro.", "keywords": ["Reset a Workspace"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Move pages between two documents", "file": "references/desktop/pages-and-books/arrange-and-order-pages/move-pages/move-pages-between-two-documents.md", "summary": "Open when looking up Move pages between two documents in InDesign.", "keywords": ["Move pages between two documents"]},
-  {"topic": "Move pages within a single document", "file": "references/desktop/pages-and-books/arrange-and-order-pages/move-pages/move-pages-within-a-single-document.md", "summary": "Open when looking up Move pages within a single document in InDesign.", "keywords": ["Move pages within a single document"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

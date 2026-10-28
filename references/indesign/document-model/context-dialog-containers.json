@@ -1,0 +1,22 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "BorderPanel", "file": "document-model/border-panel.md", "summary": "Open when looking up BorderPanel in InDesign.", "keywords": ["BorderPanel"]},
+  {"topic": "BorderPanel references", "file": "document-model/border-panel/reference-index.md", "summary": "Open when looking up BorderPanel in InDesign.", "keywords": ["BorderPanel references"]},
+  {"topic": "BorderPanels", "file": "document-model/border-panels.md", "summary": "Open when looking up BorderPanels in InDesign.", "keywords": ["BorderPanels"]},
+  {"topic": "BorderPanels references", "file": "document-model/border-panels/reference-index.md", "summary": "Open when looking up BorderPanels in InDesign.", "keywords": ["BorderPanels references"]},
+  {"topic": "Dialog references", "file": "document-model/dialog/reference-index.md", "summary": "Open when looking up Dialog in InDesign.", "keywords": ["Dialog references"]},
+  {"topic": "DialogColumn", "file": "document-model/dialog-column.md", "summary": "Open when looking up DialogColumn in InDesign.", "keywords": ["DialogColumn"]},
+  {"topic": "DialogColumn references", "file": "document-model/dialog-column/reference-index.md", "summary": "Open when looking up DialogColumn in InDesign.", "keywords": ["DialogColumn references"]},
+  {"topic": "DialogColumns", "file": "document-model/dialog-columns.md", "summary": "Open when looking up DialogColumns in InDesign.", "keywords": ["DialogColumns"]},
+  {"topic": "DialogColumns references", "file": "document-model/dialog-columns/reference-index.md", "summary": "Open when looking up DialogColumns in InDesign.", "keywords": ["DialogColumns references"]},
+  {"topic": "DialogRow", "file": "document-model/dialog-row.md", "summary": "Open when looking up DialogRow in InDesign.", "keywords": ["DialogRow"]},
+  {"topic": "DialogRow references", "file": "document-model/dialog-row/reference-index.md", "summary": "Open when looking up DialogRow in InDesign.", "keywords": ["DialogRow references"]},
+  {"topic": "DialogRows", "file": "document-model/dialog-rows.md", "summary": "Open when looking up DialogRows in InDesign.", "keywords": ["DialogRows"]},
+  {"topic": "DialogRows references", "file": "document-model/dialog-rows/reference-index.md", "summary": "Open when looking up DialogRows in InDesign.", "keywords": ["DialogRows references"]},
+  {"topic": "Dialogs", "file": "document-model/dialogs.md", "summary": "Open when looking up Dialogs in InDesign.", "keywords": ["Dialogs"]},
+  {"topic": "Dialogs references", "file": "document-model/dialogs/reference-index.md", "summary": "Open when looking up Dialogs in InDesign.", "keywords": ["Dialogs references"]},
+  {"topic": "EnablingGroup", "file": "document-model/enabling-group.md", "summary": "Open when looking up EnablingGroup in InDesign.", "keywords": ["EnablingGroup"]},
+  {"topic": "EnablingGroup references", "file": "document-model/enabling-group/reference-index.md", "summary": "Open when looking up EnablingGroup in InDesign.", "keywords": ["EnablingGroup references"]},
+  {"topic": "EnablingGroups", "file": "document-model/enabling-groups.md", "summary": "Open when looking up EnablingGroups in InDesign.", "keywords": ["EnablingGroups"]},
+  {"topic": "EnablingGroups references", "file": "document-model/enabling-groups/reference-index.md", "summary": "Open when looking up EnablingGroups in InDesign.", "keywords": ["EnablingGroups references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

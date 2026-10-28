@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Hyperlink support", "file": "references/desktop/save-export-and-publish/export-to-epub/epub-export-support-and-limitations/hyperlink-support.md", "summary": "Open when looking up Hyperlink support in InDesign.", "keywords": ["Hyperlink support"]},
-  {"topic": "Japanese text support", "file": "references/desktop/save-export-and-publish/export-to-epub/epub-export-support-and-limitations/japanese-text-support.md", "summary": "Open when looking up Japanese text support in InDesign.", "keywords": ["Japanese text support"]},
-  {"topic": "Limitations", "file": "references/desktop/save-export-and-publish/export-to-epub/epub-export-support-and-limitations/limitations.md", "summary": "Open when looking up Limitations in InDesign.", "keywords": ["Limitations"]},
-  {"topic": "Navigation support", "file": "references/desktop/save-export-and-publish/export-to-epub/epub-export-support-and-limitations/navigation-support.md", "summary": "Open when looking up Navigation support in InDesign.", "keywords": ["Navigation support"]},
-  {"topic": "Nested list support", "file": "references/desktop/save-export-and-publish/export-to-epub/epub-export-support-and-limitations/nested-list-support.md", "summary": "Open when looking up Nested list support in InDesign.", "keywords": ["Nested list support"]},
-  {"topic": "Text support", "file": "references/desktop/save-export-and-publish/export-to-epub/epub-export-support-and-limitations/text-support.md", "summary": "Open when looking up Text support in InDesign.", "keywords": ["Text support"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

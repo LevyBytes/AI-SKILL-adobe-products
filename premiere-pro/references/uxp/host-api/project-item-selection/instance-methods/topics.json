@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "getItems", "file": "references/uxp/host-api/project-item-selection/instance-methods/get-items.md", "summary": "Open when looking up getItems in Premiere Pro.", "keywords": ["getItems"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

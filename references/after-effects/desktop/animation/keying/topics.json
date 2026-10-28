@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "About keying: color keys, luminance keys, and difference keys", "file": "desktop/animation/keying/about-keying-color-keys-luminance-keys-and-difference-keys.md", "summary": "Open when looking up About keying: color keys, luminance keys, and difference keys in After Effects.", "keywords": ["About keying: color keys, luminance keys, and difference keys"]},
+  {"topic": "Keying effects, including Keylight", "file": "desktop/animation/keying/keying-effects-including-keylight.md", "summary": "Open when looking up Keying effects, including Keylight in After Effects.", "keywords": ["Keying effects, including Keylight"]},
+  {"topic": "Keying introduction and resources", "file": "desktop/animation/keying/keying-introduction-and-resources.md", "summary": "Open when looking up Keying introduction and resources in After Effects.", "keywords": ["Keying introduction and resources"]},
+  {"topic": "Shooting and acquiring footage for keying", "file": "desktop/animation/keying/shooting-and-acquiring-footage-for-keying.md", "summary": "Open when looking up Shooting and acquiring footage for keying in After Effects.", "keywords": ["Shooting and acquiring footage for keying"]},
+  {"topic": "Tips for keying with After Effects", "file": "desktop/animation/keying/tips-for-keying-with-after-effects.md", "summary": "Open when looking up Tips for keying with After Effects in After Effects.", "keywords": ["Tips for keying with After Effects"]},
+  {"topic": "Use a garbage matte", "file": "desktop/animation/keying/use-a-garbage-matte.md", "summary": "Open when looking up Use a garbage matte in After Effects.", "keywords": ["Use a garbage matte"]},
+  {"topic": "Use a hold-out matte", "file": "desktop/animation/keying/use-a-hold-out-matte.md", "summary": "Open when looking up Use a hold-out matte in After Effects.", "keywords": ["Use a hold-out matte"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

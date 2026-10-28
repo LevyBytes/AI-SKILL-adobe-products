@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Adjust document setup", "file": "desktop/pages-and-books/create-documents/change-document-setup-margins-and-columns/adjust-document-setup.md", "summary": "Open when looking up Adjust document setup in InDesign.", "keywords": ["Adjust document setup"]},
+  {"topic": "Create unequal column widths", "file": "desktop/pages-and-books/create-documents/change-document-setup-margins-and-columns/create-unequal-column-widths.md", "summary": "Open when looking up Create unequal column widths in InDesign.", "keywords": ["Create unequal column widths"]},
+  {"topic": "Customize pasteboard and guides", "file": "desktop/pages-and-books/create-documents/change-document-setup-margins-and-columns/customize-pasteboard-and-guides.md", "summary": "Open when looking up Customize pasteboard and guides in InDesign.", "keywords": ["Customize pasteboard and guides"]},
+  {"topic": "Modify margins and columns for pages or spreads", "file": "desktop/pages-and-books/create-documents/change-document-setup-margins-and-columns/modify-margins-and-columns-for-pages-or-spreads.md", "summary": "Open when looking up Modify margins and columns for pages or spreads in InDesign.", "keywords": ["Modify margins and columns for pages or spreads"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

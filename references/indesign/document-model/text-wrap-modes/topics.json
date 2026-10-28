@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "BOUNDING_BOX_TEXT_WRAP", "file": "document-model/text-wrap-modes/boundingboxtextwrap.md", "summary": "Open when looking up BOUNDING_BOX_TEXT_WRAP in InDesign.", "keywords": ["BOUNDING_BOX_TEXT_WRAP"]},
+  {"topic": "CONTOUR", "file": "document-model/text-wrap-modes/contour.md", "summary": "Open when looking up CONTOUR in InDesign.", "keywords": ["CONTOUR"]},
+  {"topic": "JUMP_OBJECT_TEXT_WRAP", "file": "document-model/text-wrap-modes/jumpobjecttextwrap.md", "summary": "Open when looking up JUMP_OBJECT_TEXT_WRAP in InDesign.", "keywords": ["JUMP_OBJECT_TEXT_WRAP"]},
+  {"topic": "NEXT_COLUMN_TEXT_WRAP", "file": "document-model/text-wrap-modes/nextcolumntextwrap.md", "summary": "Open when looking up NEXT_COLUMN_TEXT_WRAP in InDesign.", "keywords": ["NEXT_COLUMN_TEXT_WRAP"]},
+  {"topic": "NONE", "file": "document-model/text-wrap-modes/none.md", "summary": "Open when looking up NONE in InDesign.", "keywords": ["NONE"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

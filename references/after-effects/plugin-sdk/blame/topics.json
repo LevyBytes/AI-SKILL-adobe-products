@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "How To Start Creating Plug-ins - Blame!", "file": "plugin-sdk/blame/how-to-start-creating-plug-ins-blame.md", "summary": "Open when looking up How To Start Creating Plug-ins - Blame! in After Effects.", "keywords": ["How To Start Creating Plug-ins - Blame!"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

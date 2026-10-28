@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Add channels to layouts", "file": "web/firefly-design-intelligence/illustrator-design-workflows/assign-channels-to-layouts/add-channels-to-layouts.md", "summary": "Open when looking up Add channels to layouts in Firefly.", "keywords": ["Add channels to layouts"]},
+  {"topic": "Remove channels from layouts", "file": "web/firefly-design-intelligence/illustrator-design-workflows/assign-channels-to-layouts/remove-channels-from-layouts.md", "summary": "Open when looking up Remove channels from layouts in Firefly.", "keywords": ["Remove channels from layouts"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "BODY_ROW", "file": "references/document-model/row-types/bodyrow.md", "summary": "Open when looking up BODY_ROW in InDesign.", "keywords": ["BODY_ROW"]},
-  {"topic": "FOOTER_ROW", "file": "references/document-model/row-types/footerrow.md", "summary": "Open when looking up FOOTER_ROW in InDesign.", "keywords": ["FOOTER_ROW"]},
-  {"topic": "HEADER_ROW", "file": "references/document-model/row-types/headerrow.md", "summary": "Open when looking up HEADER_ROW in InDesign.", "keywords": ["HEADER_ROW"]},
-  {"topic": "MIXED_STATE", "file": "references/document-model/row-types/mixedstate.md", "summary": "Open when looking up MIXED_STATE in InDesign.", "keywords": ["MIXED_STATE"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

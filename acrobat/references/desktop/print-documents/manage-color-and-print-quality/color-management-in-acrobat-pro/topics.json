@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Color management", "file": "references/desktop/print-documents/manage-color-and-print-quality/color-management-in-acrobat-pro/color-management.md", "summary": "Open when looking up Color management in Acrobat.", "keywords": ["Color management"]},
-  {"topic": "Color separation", "file": "references/desktop/print-documents/manage-color-and-print-quality/color-management-in-acrobat-pro/color-separation.md", "summary": "Open when looking up Color separation in Acrobat.", "keywords": ["Color separation"]},
-  {"topic": "Composite printing", "file": "references/desktop/print-documents/manage-color-and-print-quality/color-management-in-acrobat-pro/composite-printing.md", "summary": "Open when looking up Composite printing in Acrobat.", "keywords": ["Composite printing"]},
-  {"topic": "Key considerations when printing composites", "file": "references/desktop/print-documents/manage-color-and-print-quality/color-management-in-acrobat-pro/key-considerations-when-printing-composites.md", "summary": "Open when looking up Key considerations when printing composites in Acrobat.", "keywords": ["Key considerations when printing composites"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

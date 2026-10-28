@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Additional notes", "file": "uxp/file-operations/additional-notes.md", "summary": "Open when looking up Additional notes in InDesign.", "keywords": ["Additional notes"]},
+  {"topic": "CSS", "file": "uxp/file-operations/css.md", "summary": "Open when looking up CSS in InDesign.", "keywords": ["CSS"]},
+  {"topic": "HTML", "file": "uxp/file-operations/html.md", "summary": "Open when looking up HTML in InDesign.", "keywords": ["HTML"]},
+  {"topic": "JavaScript", "file": "uxp/file-operations/java-script.md", "summary": "Open when looking up JavaScript in InDesign.", "keywords": ["JavaScript"]},
+  {"topic": "Manifest permission", "file": "uxp/file-operations/manifest-permission.md", "summary": "Open when looking up Manifest permission in InDesign.", "keywords": ["Manifest permission"]},
+  {"topic": "Reference material", "file": "uxp/file-operations/reference-material.md", "summary": "Open when looking up Reference material in InDesign.", "keywords": ["Reference material"]},
+  {"topic": "Sandbox and other locations", "file": "uxp/file-operations/sandbox-and-other-locations.md", "summary": "Open when looking up Sandbox and other locations in InDesign.", "keywords": ["Sandbox and other locations"]},
+  {"topic": "Schemes", "file": "uxp/file-operations/schemes.md", "summary": "Open when looking up Schemes in InDesign.", "keywords": ["Schemes"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

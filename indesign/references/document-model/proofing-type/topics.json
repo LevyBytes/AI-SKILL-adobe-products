@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "CUSTOM", "file": "references/document-model/proofing-type/custom.md", "summary": "Open when looking up CUSTOM in InDesign.", "keywords": ["CUSTOM"]},
-  {"topic": "DOCUMENT_CMYK", "file": "references/document-model/proofing-type/documentcmyk.md", "summary": "Open when looking up DOCUMENT_CMYK in InDesign.", "keywords": ["DOCUMENT_CMYK"]},
-  {"topic": "PROOF_OFF", "file": "references/document-model/proofing-type/proofoff.md", "summary": "Open when looking up PROOF_OFF in InDesign.", "keywords": ["PROOF_OFF"]},
-  {"topic": "WORKING_CMYK", "file": "references/document-model/proofing-type/workingcmyk.md", "summary": "Open when looking up WORKING_CMYK in InDesign.", "keywords": ["WORKING_CMYK"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

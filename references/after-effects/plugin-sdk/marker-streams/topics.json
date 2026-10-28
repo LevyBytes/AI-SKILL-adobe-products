@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "AEGP Suites - Marker Streams", "file": "plugin-sdk/marker-streams/aegp-suites-marker-streams.md", "summary": "Open when looking up AEGP Suites - Marker Streams in After Effects.", "keywords": ["AEGP Suites - Marker Streams"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

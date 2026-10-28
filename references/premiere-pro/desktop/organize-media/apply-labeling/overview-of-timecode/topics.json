@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Importance of timecode", "file": "desktop/organize-media/apply-labeling/overview-of-timecode/importance-of-timecode.md", "summary": "Open when looking up Importance of timecode in Premiere Pro.", "keywords": ["Importance of timecode"]},
+  {"topic": "Tips to shoot with unbroken timecode", "file": "desktop/organize-media/apply-labeling/overview-of-timecode/tips-to-shoot-with-unbroken-timecode.md", "summary": "Open when looking up Tips to shoot with unbroken timecode in Premiere Pro.", "keywords": ["Tips to shoot with unbroken timecode"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Access projects in other apps", "file": "desktop/share-and-collaborate/projects/project-access/access-projects-in-other-apps.md", "summary": "Open when looking up Access projects in other apps in Illustrator.", "keywords": ["Access projects in other apps"]},
+  {"topic": "Access projects in the Illustrator workspace", "file": "desktop/share-and-collaborate/projects/project-access/access-projects-in-the-illustrator-workspace.md", "summary": "Open when looking up Access projects in the Illustrator workspace in Illustrator.", "keywords": ["Access projects in the Illustrator workspace"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

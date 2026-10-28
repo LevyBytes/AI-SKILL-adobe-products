@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "JavaScript APIs - CatalogJob", "file": "scripting/catalog-job/java-script-apis-catalog-job.md", "summary": "Open when looking up JavaScript APIs - CatalogJob in Acrobat.", "keywords": ["JavaScript APIs - CatalogJob"]},
+  {"topic": "path", "file": "scripting/catalog-job/path.md", "summary": "Open when looking up path in Acrobat.", "keywords": ["path"]},
+  {"topic": "status", "file": "scripting/catalog-job/status.md", "summary": "Open when looking up status in Acrobat.", "keywords": ["status"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

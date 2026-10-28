@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "AI Denoise", "file": "references/desktop/effects-and-filters/artistic-and-stylize-filters/enhance-images-with-generative-ai-filters/ai-denoise.md", "summary": "Open when looking up AI Denoise in Photoshop.", "keywords": ["AI Denoise"]},
-  {"topic": "AI Sharpen", "file": "references/desktop/effects-and-filters/artistic-and-stylize-filters/enhance-images-with-generative-ai-filters/ai-sharpen.md", "summary": "Open when looking up AI Sharpen in Photoshop.", "keywords": ["AI Sharpen"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

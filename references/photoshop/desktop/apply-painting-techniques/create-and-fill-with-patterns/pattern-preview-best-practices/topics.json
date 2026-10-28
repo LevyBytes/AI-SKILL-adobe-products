@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Limitations", "file": "desktop/apply-painting-techniques/create-and-fill-with-patterns/pattern-preview-best-practices/limitations.md", "summary": "Open when looking up Limitations in Photoshop.", "keywords": ["Limitations"]},
+  {"topic": "Performance tips", "file": "desktop/apply-painting-techniques/create-and-fill-with-patterns/pattern-preview-best-practices/performance-tips.md", "summary": "Open when looking up Performance tips in Photoshop.", "keywords": ["Performance tips"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

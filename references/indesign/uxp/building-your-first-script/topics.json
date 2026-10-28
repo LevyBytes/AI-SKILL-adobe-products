@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Next steps", "file": "uxp/building-your-first-script/next-steps.md", "summary": "Open when looking up Next steps in InDesign.", "keywords": ["Next steps"]},
+  {"topic": "Prerequisites", "file": "uxp/building-your-first-script/prerequisites.md", "summary": "Open when looking up Prerequisites in InDesign.", "keywords": ["Prerequisites"]},
+  {"topic": "Step 1: Create a script", "file": "uxp/building-your-first-script/step-1-create-a-script.md", "summary": "Open when looking up Step 1: Create a script in InDesign.", "keywords": ["Step 1: Create a script"]},
+  {"topic": "Step 2: Put the file where the Scripts panel can find it", "file": "uxp/building-your-first-script/step-2-put-the-file-where-the-scripts-panel-can-find-it.md", "summary": "Open when looking up Step 2: Put the file where the Scripts panel can find it in InDesign.", "keywords": ["Step 2: Put the file where the Scripts panel can find it"]},
+  {"topic": "Step 3: Run the script", "file": "uxp/building-your-first-script/step-3-run-the-script.md", "summary": "Open when looking up Step 3: Run the script in InDesign.", "keywords": ["Step 3: Run the script"]},
+  {"topic": "Step 4: Make a change", "file": "uxp/building-your-first-script/step-4-make-a-change.md", "summary": "Open when looking up Step 4: Make a change in InDesign.", "keywords": ["Step 4: Make a change"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

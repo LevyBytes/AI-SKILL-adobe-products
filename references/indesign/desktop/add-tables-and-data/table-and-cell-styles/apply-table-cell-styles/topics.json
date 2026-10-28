@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Apply a cell style to selected cells", "file": "desktop/add-tables-and-data/table-and-cell-styles/apply-table-cell-styles/apply-a-cell-style-to-selected-cells.md", "summary": "Open when looking up Apply a cell style to selected cells in InDesign.", "keywords": ["Apply a cell style to selected cells"]},
+  {"topic": "Assign cell styles within a table style", "file": "desktop/add-tables-and-data/table-and-cell-styles/apply-table-cell-styles/assign-cell-styles-within-a-table-style.md", "summary": "Open when looking up Assign cell styles within a table style in InDesign.", "keywords": ["Assign cell styles within a table style"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

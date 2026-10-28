@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "plugin ⇒ string", "file": "uxp/versions/plugin-string.md", "summary": "Open when looking up plugin ⇒ string in InDesign.", "keywords": ["plugin ⇒ string"]},
+  {"topic": "require('uxp').versions", "file": "uxp/versions/require-uxp-versions.md", "summary": "Open when looking up require('uxp').versions in InDesign.", "keywords": ["require('uxp').versions"]},
+  {"topic": "uxp ⇒ string", "file": "uxp/versions/uxp-string.md", "summary": "Open when looking up uxp ⇒ string in InDesign.", "keywords": ["uxp ⇒ string"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

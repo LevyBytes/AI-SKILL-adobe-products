@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "API example modules references", "file": "api-examples/reference-index.md", "summary": "Open when looking up API example modules in Firefly.", "keywords": ["API example modules references"]},
+  {"topic": "Cloud service APIs references", "file": "cloud-services/reference-index.md", "summary": "Open when looking up Cloud service APIs in Firefly.", "keywords": ["Cloud service APIs references"]},
+  {"topic": "Mobile workflows references", "file": "mobile/reference-index.md", "summary": "Open when looking up Mobile workflows in Firefly.", "keywords": ["Mobile workflows references"]},
+  {"topic": "Web workflows references", "file": "web/reference-index.md", "summary": "Open when looking up Web workflows in Firefly.", "keywords": ["Web workflows references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

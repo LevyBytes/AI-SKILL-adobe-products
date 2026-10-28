@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "BMP Save Options", "file": "references/uxp/bmp-save-options.md", "summary": "Open when looking up BMP Save Options in Photoshop.", "keywords": ["BMP Save Options"]},
-  {"topic": "Gif save options references", "file": "references/uxp/gif-save-options/reference-index.md", "summary": "Open when looking up Gif save options in Photoshop.", "keywords": ["Gif save options references"]},
-  {"topic": "Jpeg save options references", "file": "references/uxp/jpeg-save-options/reference-index.md", "summary": "Open when looking up Jpeg save options in Photoshop.", "keywords": ["Jpeg save options references"]},
-  {"topic": "Photoshop save options references", "file": "references/uxp/photoshop-save-options/reference-index.md", "summary": "Open when looking up Photoshop save options in Photoshop.", "keywords": ["Photoshop save options references"]},
-  {"topic": "Png save options references", "file": "references/uxp/png-save-options/reference-index.md", "summary": "Open when looking up Png save options in Photoshop.", "keywords": ["Png save options references"]},
-  {"topic": "Save Options", "file": "references/uxp/save-options.md", "summary": "Open when looking up Save Options in Photoshop.", "keywords": ["Save Options"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

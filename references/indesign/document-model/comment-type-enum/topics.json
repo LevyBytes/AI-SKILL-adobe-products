@@ -1,0 +1,23 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "ARROW_TYPE", "file": "document-model/comment-type-enum/arrowtype.md", "summary": "Open when looking up ARROW_TYPE in InDesign.", "keywords": ["ARROW_TYPE"]},
+  {"topic": "CLOUD_TYPE", "file": "document-model/comment-type-enum/cloudtype.md", "summary": "Open when looking up CLOUD_TYPE in InDesign.", "keywords": ["CLOUD_TYPE"]},
+  {"topic": "CONNECTED_LINES_TYPE", "file": "document-model/comment-type-enum/connectedlinestype.md", "summary": "Open when looking up CONNECTED_LINES_TYPE in InDesign.", "keywords": ["CONNECTED_LINES_TYPE"]},
+  {"topic": "FREEFORM_DRAWING_TYPE", "file": "document-model/comment-type-enum/freeformdrawingtype.md", "summary": "Open when looking up FREEFORM_DRAWING_TYPE in InDesign.", "keywords": ["FREEFORM_DRAWING_TYPE"]},
+  {"topic": "HIGHLIGHT_TEXT_TYPE", "file": "document-model/comment-type-enum/highlighttexttype.md", "summary": "Open when looking up HIGHLIGHT_TEXT_TYPE in InDesign.", "keywords": ["HIGHLIGHT_TEXT_TYPE"]},
+  {"topic": "INSERT_TEXT_TYPE", "file": "document-model/comment-type-enum/inserttexttype.md", "summary": "Open when looking up INSERT_TEXT_TYPE in InDesign.", "keywords": ["INSERT_TEXT_TYPE"]},
+  {"topic": "INVALID_COMMENT_TYPE", "file": "document-model/comment-type-enum/invalidcommenttype.md", "summary": "Open when looking up INVALID_COMMENT_TYPE in InDesign.", "keywords": ["INVALID_COMMENT_TYPE"]},
+  {"topic": "LINE_SEGMENT_TYPE", "file": "document-model/comment-type-enum/linesegmenttype.md", "summary": "Open when looking up LINE_SEGMENT_TYPE in InDesign.", "keywords": ["LINE_SEGMENT_TYPE"]},
+  {"topic": "OVAL_TYPE", "file": "document-model/comment-type-enum/ovaltype.md", "summary": "Open when looking up OVAL_TYPE in InDesign.", "keywords": ["OVAL_TYPE"]},
+  {"topic": "POLYGON_TYPE", "file": "document-model/comment-type-enum/polygontype.md", "summary": "Open when looking up POLYGON_TYPE in InDesign.", "keywords": ["POLYGON_TYPE"]},
+  {"topic": "RECTANGLE_TYPE", "file": "document-model/comment-type-enum/rectangletype.md", "summary": "Open when looking up RECTANGLE_TYPE in InDesign.", "keywords": ["RECTANGLE_TYPE"]},
+  {"topic": "REPLACE_TEXT_TYPE", "file": "document-model/comment-type-enum/replacetexttype.md", "summary": "Open when looking up REPLACE_TEXT_TYPE in InDesign.", "keywords": ["REPLACE_TEXT_TYPE"]},
+  {"topic": "SQUIGGLY_TEXT_TYPE", "file": "document-model/comment-type-enum/squigglytexttype.md", "summary": "Open when looking up SQUIGGLY_TEXT_TYPE in InDesign.", "keywords": ["SQUIGGLY_TEXT_TYPE"]},
+  {"topic": "STAMP_TYPE", "file": "document-model/comment-type-enum/stamptype.md", "summary": "Open when looking up STAMP_TYPE in InDesign.", "keywords": ["STAMP_TYPE"]},
+  {"topic": "STICKY_NOTE_TYPE", "file": "document-model/comment-type-enum/stickynotetype.md", "summary": "Open when looking up STICKY_NOTE_TYPE in InDesign.", "keywords": ["STICKY_NOTE_TYPE"]},
+  {"topic": "STRIKETHROUGH_TEXT_TYPE", "file": "document-model/comment-type-enum/strikethroughtexttype.md", "summary": "Open when looking up STRIKETHROUGH_TEXT_TYPE in InDesign.", "keywords": ["STRIKETHROUGH_TEXT_TYPE"]},
+  {"topic": "TEXT_BOX_TYPE", "file": "document-model/comment-type-enum/textboxtype.md", "summary": "Open when looking up TEXT_BOX_TYPE in InDesign.", "keywords": ["TEXT_BOX_TYPE"]},
+  {"topic": "TEXT_CALLOUT_TYPE", "file": "document-model/comment-type-enum/textcallouttype.md", "summary": "Open when looking up TEXT_CALLOUT_TYPE in InDesign.", "keywords": ["TEXT_CALLOUT_TYPE"]},
+  {"topic": "TEXT_TYPEWRITER_TYPE", "file": "document-model/comment-type-enum/texttypewritertype.md", "summary": "Open when looking up TEXT_TYPEWRITER_TYPE in InDesign.", "keywords": ["TEXT_TYPEWRITER_TYPE"]},
+  {"topic": "UNDERLINE_TEXT_TYPE", "file": "document-model/comment-type-enum/underlinetexttype.md", "summary": "Open when looking up UNDERLINE_TEXT_TYPE in InDesign.", "keywords": ["UNDERLINE_TEXT_TYPE"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

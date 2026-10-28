@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Create online and offline activation for the InDesign Server package", "file": "desktop/get-started/system-and-product-info/create-and-deploy-in-design-server-packages/indesign-server-online-offline-activation.md", "summary": "Open when looking up Create online and offline activation for the InDesign Server package in InDesign.", "keywords": ["Create online and offline activation for the InDesign Server package"]},
+  {"topic": "Deploy packages", "file": "desktop/get-started/system-and-product-info/create-and-deploy-in-design-server-packages/deploy-packages.md", "summary": "Open when looking up Deploy packages in InDesign.", "keywords": ["Deploy packages"]},
+  {"topic": "Install licenses for license-only packages", "file": "desktop/get-started/system-and-product-info/create-and-deploy-in-design-server-packages/install-licenses-for-license-only-packages.md", "summary": "Open when looking up Install licenses for license-only packages in InDesign.", "keywords": ["Install licenses for license-only packages"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

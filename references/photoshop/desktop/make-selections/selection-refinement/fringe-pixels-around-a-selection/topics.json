@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Matting commands for removing fringe pixels", "file": "desktop/make-selections/selection-refinement/fringe-pixels-around-a-selection/matting-commands-for-removing-fringe-pixels.md", "summary": "Open when looking up Matting commands for removing fringe pixels in Photoshop.", "keywords": ["Matting commands for removing fringe pixels"]},
+  {"topic": "What are fringe pixels?", "file": "desktop/make-selections/selection-refinement/fringe-pixels-around-a-selection/what-are-fringe-pixels.md", "summary": "Open when looking up What are fringe pixels? in Photoshop.", "keywords": ["What are fringe pixels?"]},
+  {"topic": "Why fringe pixels occur", "file": "desktop/make-selections/selection-refinement/fringe-pixels-around-a-selection/why-fringe-pixels-occur.md", "summary": "Open when looking up Why fringe pixels occur in Photoshop.", "keywords": ["Why fringe pixels occur"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

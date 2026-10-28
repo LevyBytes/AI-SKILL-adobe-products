@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "authentication.py", "file": "api-examples/authentication.py", "summary": "Open when looking up authentication.py in Firefly.", "keywords": ["authentication.py"]},
+  {"topic": "custom-model-request.cjs", "file": "api-examples/custom-model-request.cjs", "summary": "Open when looking up custom-model-request.cjs in Firefly.", "keywords": ["custom-model-request.cjs"]},
+  {"topic": "custom_model_example.py", "file": "api-examples/custom_model_example.py", "summary": "Open when looking up custom_model_example.py in Firefly.", "keywords": ["custom_model_example.py"]},
+  {"topic": "custom_model_request.py", "file": "api-examples/custom_model_request.py", "summary": "Open when looking up custom_model_request.py in Firefly.", "keywords": ["custom_model_request.py"]},
+  {"topic": "custom_models.py", "file": "api-examples/custom_models.py", "summary": "Open when looking up custom_models.py in Firefly.", "keywords": ["custom_models.py"]},
+  {"topic": "generate_image_example.py", "file": "api-examples/generate_image_example.py", "summary": "Open when looking up generate_image_example.py in Firefly.", "keywords": ["generate_image_example.py"]},
+  {"topic": "image_jobs.py", "file": "api-examples/image_jobs.py", "summary": "Open when looking up image_jobs.py in Firefly.", "keywords": ["image_jobs.py"]},
+  {"topic": "job_status.py", "file": "api-examples/job_status.py", "summary": "Open when looking up job_status.py in Firefly.", "keywords": ["job_status.py"]},
+  {"topic": "Node references", "file": "api-examples/node/reference-index.md", "summary": "Open when looking up Node in Firefly.", "keywords": ["Node references"]},
+  {"topic": "Python references", "file": "api-examples/python/reference-index.md", "summary": "Open when looking up Python in Firefly.", "keywords": ["Python references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

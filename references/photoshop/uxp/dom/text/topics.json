@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "window.Text - nodeName : string", "file": "uxp/dom/text/node-name.md", "summary": "Open when looking up window.Text - nodeName : string in Photoshop.", "keywords": ["window.Text - nodeName : string"]},
+  {"topic": "window.Text - nodeType : number", "file": "uxp/dom/text/node-type.md", "summary": "Open when looking up window.Text - nodeType : number in Photoshop.", "keywords": ["window.Text - nodeType : number"]},
+  {"topic": "window.Text - Text(document, textContent)", "file": "uxp/dom/text/constructor.md", "summary": "Open when looking up window.Text - Text(document, textContent) in Photoshop.", "keywords": ["window.Text - Text(document, textContent)"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

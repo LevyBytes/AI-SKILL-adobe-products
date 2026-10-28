@@ -1,0 +1,16 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "allowArbitraryHyphenation", "file": "document-model/change-text-preference/allow-arbitrary-hyphenation.md", "summary": "Open when looking up allowArbitraryHyphenation in InDesign.", "keywords": ["allowArbitraryHyphenation"]},
+  {"topic": "hyphenateAcrossColumns", "file": "document-model/change-text-preference/hyphenate-across-columns.md", "summary": "Open when looking up hyphenateAcrossColumns in InDesign.", "keywords": ["hyphenateAcrossColumns"]},
+  {"topic": "hyphenateLastWord", "file": "document-model/change-text-preference/hyphenate-last-word.md", "summary": "Open when looking up hyphenateLastWord in InDesign.", "keywords": ["hyphenateLastWord"]},
+  {"topic": "ignoreEdgeAlignment", "file": "document-model/change-text-preference/ignore-edge-alignment.md", "summary": "Open when looking up ignoreEdgeAlignment in InDesign.", "keywords": ["ignoreEdgeAlignment"]},
+  {"topic": "keepAllLinesTogether", "file": "document-model/change-text-preference/keep-all-lines-together.md", "summary": "Open when looking up keepAllLinesTogether in InDesign.", "keywords": ["keepAllLinesTogether"]},
+  {"topic": "keepFirstLines", "file": "document-model/change-text-preference/keep-first-lines.md", "summary": "Open when looking up keepFirstLines in InDesign.", "keywords": ["keepFirstLines"]},
+  {"topic": "keepLastLines", "file": "document-model/change-text-preference/keep-last-lines.md", "summary": "Open when looking up keepLastLines in InDesign.", "keywords": ["keepLastLines"]},
+  {"topic": "keepLinesTogether", "file": "document-model/change-text-preference/keep-lines-together.md", "summary": "Open when looking up keepLinesTogether in InDesign.", "keywords": ["keepLinesTogether"]},
+  {"topic": "keepRuleAboveInFrame", "file": "document-model/change-text-preference/keep-rule-above-in-frame.md", "summary": "Open when looking up keepRuleAboveInFrame in InDesign.", "keywords": ["keepRuleAboveInFrame"]},
+  {"topic": "keepWithNext", "file": "document-model/change-text-preference/keep-with-next.md", "summary": "Open when looking up keepWithNext in InDesign.", "keywords": ["keepWithNext"]},
+  {"topic": "keepWithPrevious", "file": "document-model/change-text-preference/keep-with-previous.md", "summary": "Open when looking up keepWithPrevious in InDesign.", "keywords": ["keepWithPrevious"]},
+  {"topic": "noBreak", "file": "document-model/change-text-preference/no-break.md", "summary": "Open when looking up noBreak in InDesign.", "keywords": ["noBreak"]},
+  {"topic": "startParagraph", "file": "document-model/change-text-preference/start-paragraph.md", "summary": "Open when looking up startParagraph in InDesign.", "keywords": ["startParagraph"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

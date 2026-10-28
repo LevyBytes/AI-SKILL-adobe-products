@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Access the upscale tool and configure upscale settings", "file": "web/work-with-audio-and-video/work-with-video/upscale-videos/access-the-upscale-tool-and-configure-upscale-settings.md", "summary": "Open when looking up Access the upscale tool and configure upscale settings in Firefly.", "keywords": ["Access the upscale tool and configure upscale settings"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Adjust graphics and marks settings", "file": "desktop/print/color-output-and-separations/print-a-composite/adjust-graphics-and-marks-settings.md", "summary": "Open when looking up Adjust graphics and marks settings in InDesign.", "keywords": ["Adjust graphics and marks settings"]},
+  {"topic": "Configure composite print settings", "file": "desktop/print/color-output-and-separations/print-a-composite/configure-composite-print-settings.md", "summary": "Open when looking up Configure composite print settings in InDesign.", "keywords": ["Configure composite print settings"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

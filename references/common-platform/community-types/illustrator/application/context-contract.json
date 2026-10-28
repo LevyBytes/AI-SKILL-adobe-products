@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Application declaration", "file": "community-types/illustrator/application/declaration.md", "summary": "Open when looking up Application declaration in Shared Adobe platform.", "keywords": ["Application declaration"]},
+  {"topic": "Application identity and parent", "file": "community-types/illustrator/application/identity-and-parent.md", "summary": "Open when looking up Application identity and parent in Shared Adobe platform.", "keywords": ["Application identity and parent"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

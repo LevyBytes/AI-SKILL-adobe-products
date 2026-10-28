@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Apply frame styling", "file": "desktop/interactive-elements-and-forms/qr-codes/modify-and-style-qr-codes/apply-frame-styling.md", "summary": "Open when looking up Apply frame styling in InDesign.", "keywords": ["Apply frame styling"]},
+  {"topic": "Change QR code content and colors", "file": "desktop/interactive-elements-and-forms/qr-codes/modify-and-style-qr-codes/change-qr-code-content-and-colors.md", "summary": "Open when looking up Change QR code content and colors in InDesign.", "keywords": ["Change QR code content and colors"]},
+  {"topic": "Scale and transform QR codes", "file": "desktop/interactive-elements-and-forms/qr-codes/modify-and-style-qr-codes/scale-and-transform-qr-codes.md", "summary": "Open when looking up Scale and transform QR codes in InDesign.", "keywords": ["Scale and transform QR codes"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

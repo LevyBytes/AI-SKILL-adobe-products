@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/audition", "topics": [
+  {"topic": "FFT Filter effect", "file": "desktop/filter-and-equalizer-effects/fft-filter-effect.md", "summary": "Open when looking up FFT Filter effect in Audition.", "keywords": ["FFT Filter effect"]},
+  {"topic": "Graphic Equalizer effect", "file": "desktop/filter-and-equalizer-effects/graphic-equalizer-effect.md", "summary": "Open when looking up Graphic Equalizer effect in Audition.", "keywords": ["Graphic Equalizer effect"]},
+  {"topic": "Notch Filter effect", "file": "desktop/filter-and-equalizer-effects/notch-filter-effect.md", "summary": "Open when looking up Notch Filter effect in Audition.", "keywords": ["Notch Filter effect"]},
+  {"topic": "Parametric Equalizer effect", "file": "desktop/filter-and-equalizer-effects/parametric-equalizer-effect.md", "summary": "Open when looking up Parametric Equalizer effect in Audition.", "keywords": ["Parametric Equalizer effect"]},
+  {"topic": "Scientific Filter effect", "file": "desktop/filter-and-equalizer-effects/scientific-filter-effect.md", "summary": "Open when looking up Scientific Filter effect in Audition.", "keywords": ["Scientific Filter effect"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

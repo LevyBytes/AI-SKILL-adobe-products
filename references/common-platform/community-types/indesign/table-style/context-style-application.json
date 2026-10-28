@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "TableStyle.basedOn", "file": "community-types/indesign/table-style/based-on.md", "summary": "Open when looking up TableStyle.basedOn in Shared Adobe platform.", "keywords": ["TableStyle.basedOn"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

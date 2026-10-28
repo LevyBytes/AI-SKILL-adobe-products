@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Load and run scripts", "file": "desktop/automation/automate-animation/scripts/load-and-run-scripts.md", "summary": "Open when looking up Load and run scripts in After Effects.", "keywords": ["Load and run scripts"]},
+  {"topic": "Motion Graphics templates scripting access", "file": "desktop/automation/automate-animation/scripts/motion-graphics-templates-scripting-access.md", "summary": "Open when looking up Motion Graphics templates scripting access in After Effects.", "keywords": ["Motion Graphics templates scripting access"]},
+  {"topic": "Scripts included with After Effects", "file": "desktop/automation/automate-animation/scripts/scripts-included-with-after-effects.md", "summary": "Open when looking up Scripts included with After Effects in After Effects.", "keywords": ["Scripts included with After Effects"]},
+  {"topic": "Where to find additional useful scripts", "file": "desktop/automation/automate-animation/scripts/where-to-find-additional-useful-scripts.md", "summary": "Open when looking up Where to find additional useful scripts in After Effects.", "keywords": ["Where to find additional useful scripts"]},
+  {"topic": "Write and modify scripts", "file": "desktop/automation/automate-animation/scripts/write-and-modify-scripts.md", "summary": "Open when looking up Write and modify scripts in After Effects.", "keywords": ["Write and modify scripts"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

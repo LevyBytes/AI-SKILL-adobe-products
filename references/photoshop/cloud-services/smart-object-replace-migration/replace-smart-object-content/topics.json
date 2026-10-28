@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "V1 Request", "file": "cloud-services/smart-object-replace-migration/replace-smart-object-content/v1-request.md", "summary": "Open when looking up V1 Request in Photoshop.", "keywords": ["V1 Request"]},
+  {"topic": "V2 Request", "file": "cloud-services/smart-object-replace-migration/replace-smart-object-content/v2-request.md", "summary": "Open when looking up V2 Request in Photoshop.", "keywords": ["V2 Request"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "About CICP", "file": "references/desktop/adjust-colors/hdr-import-and-export/import-and-export-hdr-content/about-cicp.md", "summary": "Open when looking up About CICP in After Effects.", "keywords": ["About CICP"]},
-  {"topic": "Export HDR content", "file": "references/desktop/adjust-colors/hdr-import-and-export/import-and-export-hdr-content/export-hdr-content.md", "summary": "Open when looking up Export HDR content in After Effects.", "keywords": ["Export HDR content"]},
-  {"topic": "HDR10 metadata on PNG export", "file": "references/desktop/adjust-colors/hdr-import-and-export/import-and-export-hdr-content/hdr10-metadata-on-png-export.md", "summary": "Open when looking up HDR10 metadata on PNG export in After Effects.", "keywords": ["HDR10 metadata on PNG export"]},
-  {"topic": "Import HDR content", "file": "references/desktop/adjust-colors/hdr-import-and-export/import-and-export-hdr-content/import-hdr-content.md", "summary": "Open when looking up Import HDR content in After Effects.", "keywords": ["Import HDR content"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

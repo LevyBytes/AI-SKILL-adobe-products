@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Faqs references", "file": "uxp/faqs/reference-index.md", "summary": "Open when looking up Faqs in InDesign.", "keywords": ["Faqs references"]},
+  {"topic": "Recipes", "file": "uxp/recipes.md", "summary": "Open when looking up Recipes in InDesign.", "keywords": ["Recipes"]},
+  {"topic": "Resources", "file": "uxp/resources.md", "summary": "Open when looking up Resources in InDesign.", "keywords": ["Resources"]},
+  {"topic": "Resources references", "file": "uxp/resources/reference-index.md", "summary": "Open when looking up Resources in InDesign.", "keywords": ["Resources references"]},
+  {"topic": "Starters and samples", "file": "uxp/starters-and-samples.md", "summary": "Open when looking up Starters and samples in InDesign.", "keywords": ["Starters and samples"]},
+  {"topic": "Starters and samples references", "file": "uxp/starters-and-samples/reference-index.md", "summary": "Open when looking up Starters and samples in InDesign.", "keywords": ["Starters and samples references"]},
+  {"topic": "Tutorials", "file": "uxp/tutorials.md", "summary": "Open when looking up Tutorials in InDesign.", "keywords": ["Tutorials"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

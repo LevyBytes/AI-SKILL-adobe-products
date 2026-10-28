@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Antivirus software causes performance issues", "file": "desktop/troubleshoot/performance-issues/acro-cef-and-rdr-cef-process-error/antivirus-software-causes-performance-issues.md", "summary": "Open when looking up Antivirus software causes performance issues in Acrobat.", "keywords": ["Antivirus software causes performance issues"]},
+  {"topic": "For Acrobat Reader", "file": "desktop/troubleshoot/performance-issues/acro-cef-and-rdr-cef-process-error/for-acrobat-reader.md", "summary": "Open when looking up For Acrobat Reader in Acrobat.", "keywords": ["For Acrobat Reader"]},
+  {"topic": "For Adobe Acrobat", "file": "desktop/troubleshoot/performance-issues/acro-cef-and-rdr-cef-process-error/for-adobe-acrobat.md", "summary": "Open when looking up For Adobe Acrobat in Acrobat.", "keywords": ["For Adobe Acrobat"]},
+  {"topic": "Insufficient folder permissions", "file": "desktop/troubleshoot/performance-issues/acro-cef-and-rdr-cef-process-error/insufficient-folder-permissions.md", "summary": "Open when looking up Insufficient folder permissions in Acrobat.", "keywords": ["Insufficient folder permissions"]},
+  {"topic": "macOS", "file": "desktop/troubleshoot/performance-issues/acro-cef-and-rdr-cef-process-error/mac-os.md", "summary": "Open when looking up macOS in Acrobat.", "keywords": ["macOS"]},
+  {"topic": "Windows", "file": "desktop/troubleshoot/performance-issues/acro-cef-and-rdr-cef-process-error/windows.md", "summary": "Open when looking up Windows in Acrobat.", "keywords": ["Windows"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

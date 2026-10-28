@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "LINK_TO_SERVER", "file": "document-model/image-export-option/linktoserver.md", "summary": "Open when looking up LINK_TO_SERVER in InDesign.", "keywords": ["LINK_TO_SERVER"]},
+  {"topic": "OPTIMIZED_IMAGE", "file": "document-model/image-export-option/optimizedimage.md", "summary": "Open when looking up OPTIMIZED_IMAGE in InDesign.", "keywords": ["OPTIMIZED_IMAGE"]},
+  {"topic": "ORIGINAL_IMAGE", "file": "document-model/image-export-option/originalimage.md", "summary": "Open when looking up ORIGINAL_IMAGE in InDesign.", "keywords": ["ORIGINAL_IMAGE"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

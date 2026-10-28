@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Key changes", "file": "references/cloud-services/convenience-apis-migration/key-changes.md", "summary": "Open when looking up Key changes in Photoshop.", "keywords": ["Key changes"]},
-  {"topic": "Migration guides", "file": "references/cloud-services/convenience-apis-migration/migration-guides.md", "summary": "Open when looking up Migration guides in Photoshop.", "keywords": ["Migration guides"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

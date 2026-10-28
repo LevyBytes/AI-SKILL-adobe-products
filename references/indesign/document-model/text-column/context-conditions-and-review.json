@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "appliedConditions", "file": "document-model/text-column/applied-conditions.md", "summary": "Open when looking up appliedConditions in InDesign.", "keywords": ["appliedConditions"]},
+  {"topic": "applyConditions", "file": "document-model/text-column/apply-conditions.md", "summary": "Open when looking up applyConditions in InDesign.", "keywords": ["applyConditions"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

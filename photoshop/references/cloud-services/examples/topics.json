@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Additional image actions references", "file": "references/cloud-services/examples/additional-image-actions/reference-index.md", "summary": "Open when looking up Additional image actions in Photoshop.", "keywords": ["Additional image actions references"]},
-  {"topic": "Document manifest response references", "file": "references/cloud-services/examples/document-manifest-response/reference-index.md", "summary": "Open when looking up Document manifest response in Photoshop.", "keywords": ["Document manifest response references"]},
-  {"topic": "Masking references", "file": "references/cloud-services/examples/masking/reference-index.md", "summary": "Open when looking up Masking in Photoshop.", "keywords": ["Masking references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

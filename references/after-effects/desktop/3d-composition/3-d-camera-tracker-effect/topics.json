@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Tracking 3D camera movement", "file": "desktop/3d-composition/3-d-camera-tracker-effect/tracking-3-d-camera-movement.md", "summary": "Open when looking up Tracking 3D camera movement in After Effects.", "keywords": ["Tracking 3D camera movement"]},
+  {"topic": "Tracking 3D camera movement references", "file": "desktop/3d-composition/3-d-camera-tracker-effect/camera-motion-tracking/reference-index.md", "summary": "Open when looking up Tracking 3D camera movement in After Effects.", "keywords": ["Tracking 3D camera movement references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

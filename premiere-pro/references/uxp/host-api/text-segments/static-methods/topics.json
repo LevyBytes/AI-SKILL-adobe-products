@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "importFromJSON", "file": "references/uxp/host-api/text-segments/static-methods/import-from-json.md", "summary": "Open when looking up importFromJSON in Premiere Pro.", "keywords": ["importFromJSON"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

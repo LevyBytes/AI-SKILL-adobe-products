@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "FormFields collection iteration", "file": "community-types/indesign/form-fields/collection-iteration.md", "summary": "Open when looking up FormFields collection iteration in Shared Adobe platform.", "keywords": ["FormFields collection iteration"]},
+  {"topic": "FormFields declaration", "file": "community-types/indesign/form-fields/declaration.md", "summary": "Open when looking up FormFields declaration in Shared Adobe platform.", "keywords": ["FormFields declaration"]},
+  {"topic": "FormFields named and indexed items", "file": "community-types/indesign/form-fields/named-and-indexed-items.md", "summary": "Open when looking up FormFields named and indexed items in Shared Adobe platform.", "keywords": ["FormFields named and indexed items"]},
+  {"topic": "FormFields.add", "file": "community-types/indesign/form-fields/add.md", "summary": "Open when looking up FormFields.add in Shared Adobe platform.", "keywords": ["FormFields.add"]},
+  {"topic": "FormFields.count", "file": "community-types/indesign/form-fields/count.md", "summary": "Open when looking up FormFields.count in Shared Adobe platform.", "keywords": ["FormFields.count"]},
+  {"topic": "FormFields.IndexSignature", "file": "community-types/indesign/form-fields/index-signature.md", "summary": "Open when looking up FormFields.IndexSignature in Shared Adobe platform.", "keywords": ["FormFields.IndexSignature"]},
+  {"topic": "FormFields.itemByRange", "file": "community-types/indesign/form-fields/item-by-range.md", "summary": "Open when looking up FormFields.itemByRange in Shared Adobe platform.", "keywords": ["FormFields.itemByRange"]},
+  {"topic": "FormFields.length", "file": "community-types/indesign/form-fields/length.md", "summary": "Open when looking up FormFields.length in Shared Adobe platform.", "keywords": ["FormFields.length"]},
+  {"topic": "FormFields.toSource", "file": "community-types/indesign/form-fields/to-source.md", "summary": "Open when looking up FormFields.toSource in Shared Adobe platform.", "keywords": ["FormFields.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

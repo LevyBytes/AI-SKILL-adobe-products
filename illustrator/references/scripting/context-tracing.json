@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Tracing mode type references", "file": "references/scripting/tracing-mode-type/reference-index.md", "summary": "Open when looking up Tracing mode type in Illustrator.", "keywords": ["Tracing mode type references"]},
-  {"topic": "TracingObject", "file": "references/scripting/tracing-object.md", "summary": "Open when looking up TracingObject in Illustrator.", "keywords": ["TracingObject"]},
-  {"topic": "TracingObject references", "file": "references/scripting/tracing-object/reference-index.md", "summary": "Open when looking up TracingObject in Illustrator.", "keywords": ["TracingObject references"]},
-  {"topic": "TracingOptions", "file": "references/scripting/tracing-options.md", "summary": "Open when looking up TracingOptions in Illustrator.", "keywords": ["TracingOptions"]},
-  {"topic": "TracingOptions references", "file": "references/scripting/tracing-options/reference-index.md", "summary": "Open when looking up TracingOptions in Illustrator.", "keywords": ["TracingOptions references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

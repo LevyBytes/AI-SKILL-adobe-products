@@ -1,0 +1,17 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "AEGP_GetIndProject", "file": "plugin-sdk/aegp-proj-suite6/aegp-get-ind-project.md", "summary": "Open when looking up AEGP_GetIndProject in After Effects.", "keywords": ["AEGP_GetIndProject"]},
+  {"topic": "AEGP_GetProjectBitDepth", "file": "plugin-sdk/aegp-proj-suite6/aegp-get-project-bit-depth.md", "summary": "Open when looking up AEGP_GetProjectBitDepth in After Effects.", "keywords": ["AEGP_GetProjectBitDepth"]},
+  {"topic": "AEGP_GetProjectName", "file": "plugin-sdk/aegp-proj-suite6/aegp-get-project-name.md", "summary": "Open when looking up AEGP_GetProjectName in After Effects.", "keywords": ["AEGP_GetProjectName"]},
+  {"topic": "AEGP_GetProjectPath", "file": "plugin-sdk/aegp-proj-suite6/aegp-get-project-path.md", "summary": "Open when looking up AEGP_GetProjectPath in After Effects.", "keywords": ["AEGP_GetProjectPath"]},
+  {"topic": "AEGP_GetProjectRootFolder", "file": "plugin-sdk/aegp-proj-suite6/aegp-get-project-root-folder.md", "summary": "Open when looking up AEGP_GetProjectRootFolder in After Effects.", "keywords": ["AEGP_GetProjectRootFolder"]},
+  {"topic": "AEGP_GetProjectTimeDisplay", "file": "plugin-sdk/aegp-proj-suite6/aegp-get-project-time-display.md", "summary": "Open when looking up AEGP_GetProjectTimeDisplay in After Effects.", "keywords": ["AEGP_GetProjectTimeDisplay"]},
+  {"topic": "AEGP_NewProject", "file": "plugin-sdk/aegp-proj-suite6/aegp-new-project.md", "summary": "Open when looking up AEGP_NewProject in After Effects.", "keywords": ["AEGP_NewProject"]},
+  {"topic": "AEGP_NumProjects", "file": "plugin-sdk/aegp-proj-suite6/aegp-num-projects.md", "summary": "Open when looking up AEGP_NumProjects in After Effects.", "keywords": ["AEGP_NumProjects"]},
+  {"topic": "AEGP_OpenProjectFromPath", "file": "plugin-sdk/aegp-proj-suite6/aegp-open-project-from-path.md", "summary": "Open when looking up AEGP_OpenProjectFromPath in After Effects.", "keywords": ["AEGP_OpenProjectFromPath"]},
+  {"topic": "AEGP_ProjectIsDirty", "file": "plugin-sdk/aegp-proj-suite6/aegp-project-is-dirty.md", "summary": "Open when looking up AEGP_ProjectIsDirty in After Effects.", "keywords": ["AEGP_ProjectIsDirty"]},
+  {"topic": "AEGP_SaveProjectAs", "file": "plugin-sdk/aegp-proj-suite6/aegp-save-project-as.md", "summary": "Open when looking up AEGP_SaveProjectAs in After Effects.", "keywords": ["AEGP_SaveProjectAs"]},
+  {"topic": "AEGP_SaveProjectToPath", "file": "plugin-sdk/aegp-proj-suite6/aegp-save-project-to-path.md", "summary": "Open when looking up AEGP_SaveProjectToPath in After Effects.", "keywords": ["AEGP_SaveProjectToPath"]},
+  {"topic": "AEGP_SetProjectBitDepth", "file": "plugin-sdk/aegp-proj-suite6/aegp-set-project-bit-depth.md", "summary": "Open when looking up AEGP_SetProjectBitDepth in After Effects.", "keywords": ["AEGP_SetProjectBitDepth"]},
+  {"topic": "AEGP_SetProjectTimeDisplay", "file": "plugin-sdk/aegp-proj-suite6/aegp-set-project-time-display.md", "summary": "Open when looking up AEGP_SetProjectTimeDisplay in After Effects.", "keywords": ["AEGP_SetProjectTimeDisplay"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

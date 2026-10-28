@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "About color profiles", "file": "desktop/adjust-color/color-profiles/about-color-profiles.md", "summary": "Open when looking up About color profiles in Photoshop.", "keywords": ["About color profiles"]},
+  {"topic": "About color profiles references", "file": "desktop/adjust-color/color-profiles/about-color-profiles/reference-index.md", "summary": "Open when looking up About color profiles in Photoshop.", "keywords": ["About color profiles references"]},
+  {"topic": "Change color profile for documents", "file": "desktop/adjust-color/color-profiles/change-color-profile-for-documents.md", "summary": "Open when looking up Change color profile for documents in Photoshop.", "keywords": ["Change color profile for documents"]},
+  {"topic": "Change color profile for documents references", "file": "desktop/adjust-color/color-profiles/change-color-profile-for-documents/reference-index.md", "summary": "Open when looking up Change color profile for documents in Photoshop.", "keywords": ["Change color profile for documents references"]},
+  {"topic": "Embed color profiles", "file": "desktop/adjust-color/color-profiles/embed-color-profiles.md", "summary": "Open when looking up Embed color profiles in Photoshop.", "keywords": ["Embed color profiles"]},
+  {"topic": "Embed color profiles references", "file": "desktop/adjust-color/color-profiles/embed-color-profiles/reference-index.md", "summary": "Open when looking up Embed color profiles in Photoshop.", "keywords": ["Embed color profiles references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "GrayColor.gray", "file": "scripting/gray-color/gray.md", "summary": "Open when looking up GrayColor.gray in Illustrator.", "keywords": ["GrayColor.gray"]},
+  {"topic": "GrayColor.typename", "file": "scripting/gray-color/typename.md", "summary": "Open when looking up GrayColor.typename in Illustrator.", "keywords": ["GrayColor.typename"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

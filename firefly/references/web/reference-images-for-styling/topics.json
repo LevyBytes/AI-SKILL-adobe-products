@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "firefly", "topics": [
-  {"topic": "Art and creative industries", "file": "references/web/reference-images-for-styling/art-and-creative-industries.md", "summary": "Open when looking up Art and creative industries in Firefly.", "keywords": ["Art and creative industries"]},
-  {"topic": "Content creation", "file": "references/web/reference-images-for-styling/content-creation.md", "summary": "Open when looking up Content creation in Firefly.", "keywords": ["Content creation"]},
-  {"topic": "Fashion and apparel", "file": "references/web/reference-images-for-styling/fashion-and-apparel.md", "summary": "Open when looking up Fashion and apparel in Firefly.", "keywords": ["Fashion and apparel"]},
-  {"topic": "Graphic design and branding", "file": "references/web/reference-images-for-styling/graphic-design-and-branding.md", "summary": "Open when looking up Graphic design and branding in Firefly.", "keywords": ["Graphic design and branding"]},
-  {"topic": "Product design", "file": "references/web/reference-images-for-styling/product-design.md", "summary": "Open when looking up Product design in Firefly.", "keywords": ["Product design"]},
-  {"topic": "Steer image variations with personal or curated style images in Adobe Firefly", "file": "references/web/reference-images-for-styling/reference-image-styling.md", "summary": "Open when looking up Steer image variations with personal or curated style images in Adobe Firefly in Firefly.", "keywords": ["Steer image variations with personal or curated style images in Adobe Firefly"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

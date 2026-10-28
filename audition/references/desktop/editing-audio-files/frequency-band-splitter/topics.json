@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "audition", "topics": [
-  {"topic": "Frequency Splitter options", "file": "references/desktop/editing-audio-files/frequency-band-splitter/frequency-splitter-options.md", "summary": "Open when looking up Frequency Splitter options in Audition.", "keywords": ["Frequency Splitter options"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

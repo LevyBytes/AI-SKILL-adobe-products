@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Batch-process files in nested folders into different formats", "file": "desktop/automate-tasks/process-a-batch-of-files/batch-process-files/batch-process-files-in-nested-folders-into-different-formats.md", "summary": "Open when looking up Batch-process files in nested folders into different formats in Photoshop.", "keywords": ["Batch-process files in nested folders into different formats"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

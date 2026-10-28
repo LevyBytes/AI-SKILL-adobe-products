@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "galleyPreferences", "file": "references/document-model/document/galley-preferences.md", "summary": "Open when looking up galleyPreferences in InDesign.", "keywords": ["galleyPreferences"]},
-  {"topic": "stories", "file": "references/document-model/document/stories.md", "summary": "Open when looking up stories in InDesign.", "keywords": ["stories"]},
-  {"topic": "storyPreferences", "file": "references/document-model/document/story-preferences.md", "summary": "Open when looking up storyPreferences in InDesign.", "keywords": ["storyPreferences"]},
-  {"topic": "textDefaults", "file": "references/document-model/document/text-defaults.md", "summary": "Open when looking up textDefaults in InDesign.", "keywords": ["textDefaults"]},
-  {"topic": "textPreferences", "file": "references/document-model/document/text-preferences.md", "summary": "Open when looking up textPreferences in InDesign.", "keywords": ["textPreferences"]},
-  {"topic": "textVariables", "file": "references/document-model/document/text-variables.md", "summary": "Open when looking up textVariables in InDesign.", "keywords": ["textVariables"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "CONTENT_TO_FRAME", "file": "references/document-model/empty-frame-fitting-options/contenttoframe.md", "summary": "Open when looking up CONTENT_TO_FRAME in InDesign.", "keywords": ["CONTENT_TO_FRAME"]},
-  {"topic": "FILL_PROPORTIONALLY", "file": "references/document-model/empty-frame-fitting-options/fillproportionally.md", "summary": "Open when looking up FILL_PROPORTIONALLY in InDesign.", "keywords": ["FILL_PROPORTIONALLY"]},
-  {"topic": "NONE", "file": "references/document-model/empty-frame-fitting-options/none.md", "summary": "Open when looking up NONE in InDesign.", "keywords": ["NONE"]},
-  {"topic": "PROPORTIONALLY", "file": "references/document-model/empty-frame-fitting-options/proportionally.md", "summary": "Open when looking up PROPORTIONALLY in InDesign.", "keywords": ["PROPORTIONALLY"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

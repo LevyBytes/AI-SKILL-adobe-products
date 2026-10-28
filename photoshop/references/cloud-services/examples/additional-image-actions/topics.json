@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Additional-image Action JSON request", "file": "references/cloud-services/examples/additional-image-actions/request-setup.md", "summary": "Open when looking up Additional-image Action JSON request in Photoshop.", "keywords": ["Additional-image Action JSON request"]},
-  {"topic": "build-request.cjs", "file": "references/cloud-services/examples/additional-image-actions/build-request.cjs", "summary": "Open when looking up build-request.cjs in Photoshop.", "keywords": ["build-request.cjs"]},
-  {"topic": "create-selection-mask-actions.json", "file": "references/cloud-services/examples/additional-image-actions/create-selection-mask-actions.json", "summary": "Open when looking up create-selection-mask-actions.json in Photoshop.", "keywords": ["create-selection-mask-actions.json"]},
-  {"topic": "place-image-action.json", "file": "references/cloud-services/examples/additional-image-actions/place-image-action.json", "summary": "Open when looking up place-image-action.json in Photoshop.", "keywords": ["place-image-action.json"]},
-  {"topic": "request-settings.json", "file": "references/cloud-services/examples/additional-image-actions/request-settings.json", "summary": "Open when looking up request-settings.json in Photoshop.", "keywords": ["request-settings.json"]},
-  {"topic": "submit-request.sh", "file": "references/cloud-services/examples/additional-image-actions/submit-request.sh", "summary": "Open when looking up submit-request.sh in Photoshop.", "keywords": ["submit-request.sh"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

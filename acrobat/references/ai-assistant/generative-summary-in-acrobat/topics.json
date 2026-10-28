@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Advantages of real-time summaries", "file": "references/ai-assistant/generative-summary-in-acrobat/advantages-of-real-time-summaries.md", "summary": "Open when looking up Advantages of real-time summaries in Acrobat.", "keywords": ["Advantages of real-time summaries"]},
-  {"topic": "Common use cases", "file": "references/ai-assistant/generative-summary-in-acrobat/common-use-cases.md", "summary": "Open when looking up Common use cases in Acrobat.", "keywords": ["Common use cases"]},
-  {"topic": "Summary generation for long PDFs", "file": "references/ai-assistant/generative-summary-in-acrobat/summary-generation-for-long-pdfs.md", "summary": "Open when looking up Summary generation for long PDFs in Acrobat.", "keywords": ["Summary generation for long PDFs"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

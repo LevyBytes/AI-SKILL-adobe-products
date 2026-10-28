@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Cloud service APIs references", "file": "references/cloud-services/reference-index.md", "summary": "Open when looking up Cloud service APIs in Photoshop.", "keywords": ["Cloud service APIs references"]},
-  {"topic": "Desktop workflows references", "file": "references/desktop/reference-index.md", "summary": "Open when looking up Desktop workflows in Photoshop.", "keywords": ["Desktop workflows references"]},
-  {"topic": "Plugin examples references", "file": "references/plugin-samples/reference-index.md", "summary": "Open when looking up Plugin examples in Photoshop.", "keywords": ["Plugin examples references"]},
-  {"topic": "UXP plugins and APIs references", "file": "references/uxp/reference-index.md", "summary": "Open when looking up UXP plugins and APIs in Photoshop.", "keywords": ["UXP plugins and APIs references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

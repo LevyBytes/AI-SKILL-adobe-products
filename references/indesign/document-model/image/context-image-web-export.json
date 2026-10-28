@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "exportForWeb", "file": "document-model/image/export-for-web.md", "summary": "Open when looking up exportForWeb in InDesign.", "keywords": ["exportForWeb"]},
+  {"topic": "imageIOPreferences", "file": "document-model/image/image-io-preferences.md", "summary": "Open when looking up imageIOPreferences in InDesign.", "keywords": ["imageIOPreferences"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

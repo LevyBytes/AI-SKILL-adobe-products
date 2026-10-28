@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "IMAGE_FIELD", "file": "document-model/source-field-type/imagefield.md", "summary": "Open when looking up IMAGE_FIELD in InDesign.", "keywords": ["IMAGE_FIELD"]},
+  {"topic": "QRCODE_FIELD", "file": "document-model/source-field-type/qrcodefield.md", "summary": "Open when looking up QRCODE_FIELD in InDesign.", "keywords": ["QRCODE_FIELD"]},
+  {"topic": "TEXT_FIELD", "file": "document-model/source-field-type/textfield.md", "summary": "Open when looking up TEXT_FIELD in InDesign.", "keywords": ["TEXT_FIELD"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Custom model image generation", "file": "cloud-services/custom-model-image-generation/custom-model-generation-overview.md", "summary": "Open when looking up Custom model image generation in Firefly.", "keywords": ["Custom model image generation"]},
+  {"topic": "Find a custom model", "file": "cloud-services/custom-model-image-generation/find-a-custom-model.md", "summary": "Open when looking up Find a custom model in Firefly.", "keywords": ["Find a custom model"]},
+  {"topic": "Generate your images", "file": "cloud-services/custom-model-image-generation/generate-your-images.md", "summary": "Open when looking up Generate your images in Firefly.", "keywords": ["Generate your images"]},
+  {"topic": "Generate your images references", "file": "cloud-services/custom-model-image-generation/generate-your-images/reference-index.md", "summary": "Open when looking up Generate your images in Firefly.", "keywords": ["Generate your images references"]},
+  {"topic": "Getting started references", "file": "cloud-services/custom-model-image-generation/getting-started/reference-index.md", "summary": "Open when looking up Getting started in Firefly.", "keywords": ["Getting started references"]},
+  {"topic": "Implementation example", "file": "cloud-services/custom-model-image-generation/implementation-example.md", "summary": "Open when looking up Implementation example in Firefly.", "keywords": ["Implementation example"]},
+  {"topic": "Introduction", "file": "cloud-services/custom-model-image-generation/introduction.md", "summary": "Open when looking up Introduction in Firefly.", "keywords": ["Introduction"]},
+  {"topic": "Step 4: Poll Job Status - Deepen your understanding", "file": "cloud-services/custom-model-image-generation/step-4-poll-job-status-deepen-your-understanding.md", "summary": "Open when looking up Step 4: Poll Job Status - Deepen your understanding in Firefly.", "keywords": ["Step 4: Poll Job Status - Deepen your understanding"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

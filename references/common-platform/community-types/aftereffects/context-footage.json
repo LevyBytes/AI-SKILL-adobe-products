@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "FileSource", "file": "community-types/aftereffects/file-source.md", "summary": "Open when looking up FileSource in Shared Adobe platform.", "keywords": ["FileSource"]},
+  {"topic": "FootageItem", "file": "community-types/aftereffects/footage-item.md", "summary": "Open when looking up FootageItem in Shared Adobe platform.", "keywords": ["FootageItem"]},
+  {"topic": "FootageSource", "file": "community-types/aftereffects/footage-source.md", "summary": "Open when looking up FootageSource in Shared Adobe platform.", "keywords": ["FootageSource"]},
+  {"topic": "ImportAsType", "file": "community-types/aftereffects/import-as-type.md", "summary": "Open when looking up ImportAsType in Shared Adobe platform.", "keywords": ["ImportAsType"]},
+  {"topic": "ImportOptions", "file": "community-types/aftereffects/import-options.md", "summary": "Open when looking up ImportOptions in Shared Adobe platform.", "keywords": ["ImportOptions"]},
+  {"topic": "PlaceholderItem", "file": "community-types/aftereffects/placeholder-item.md", "summary": "Open when looking up PlaceholderItem in Shared Adobe platform.", "keywords": ["PlaceholderItem"]},
+  {"topic": "PlaceholderSource", "file": "community-types/aftereffects/placeholder-source.md", "summary": "Open when looking up PlaceholderSource in Shared Adobe platform.", "keywords": ["PlaceholderSource"]},
+  {"topic": "SolidSource", "file": "community-types/aftereffects/solid-source.md", "summary": "Open when looking up SolidSource in Shared Adobe platform.", "keywords": ["SolidSource"]},
+  {"topic": "AlphaMode", "file": "community-types/aftereffects/alpha-mode.md", "summary": "Open when looking up AlphaMode in Shared Adobe platform.", "keywords": ["AlphaMode"]},
+  {"topic": "FieldSeparationType", "file": "community-types/aftereffects/field-separation-type.md", "summary": "Open when looking up FieldSeparationType in Shared Adobe platform.", "keywords": ["FieldSeparationType"]},
+  {"topic": "PulldownMethod", "file": "community-types/aftereffects/pulldown-method.md", "summary": "Open when looking up PulldownMethod in Shared Adobe platform.", "keywords": ["PulldownMethod"]},
+  {"topic": "PulldownPhase", "file": "community-types/aftereffects/pulldown-phase.md", "summary": "Open when looking up PulldownPhase in Shared Adobe platform.", "keywords": ["PulldownPhase"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Scripting Constants - DownsampleMethod", "file": "scripting/downsample-method/scripting-constants-downsample-method.md", "summary": "Open when looking up Scripting Constants - DownsampleMethod in Illustrator.", "keywords": ["Scripting Constants - DownsampleMethod"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

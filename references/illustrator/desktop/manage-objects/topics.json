@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Arrange objects references", "file": "desktop/manage-objects/arrange-objects/reference-index.md", "summary": "Open when looking up Arrange objects in Illustrator.", "keywords": ["Arrange objects references"]},
+  {"topic": "Create traces mockups and symbols references", "file": "desktop/manage-objects/traces-mockups-and-symbols/reference-index.md", "summary": "Open when looking up Create traces mockups and symbols in Illustrator.", "keywords": ["Create traces mockups and symbols references"]},
+  {"topic": "Edit objects references", "file": "desktop/manage-objects/edit-objects/reference-index.md", "summary": "Open when looking up Edit objects in Illustrator.", "keywords": ["Edit objects references"]},
+  {"topic": "Reshape and transform objects references", "file": "desktop/manage-objects/object-transforms/reference-index.md", "summary": "Open when looking up Reshape and transform objects in Illustrator.", "keywords": ["Reshape and transform objects references"]},
+  {"topic": "Select objects references", "file": "desktop/manage-objects/select-objects/reference-index.md", "summary": "Open when looking up Select objects in Illustrator.", "keywords": ["Select objects references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "AEGP_FIMSuite3 references", "file": "plugin-sdk/aegpfim-suite3/reference-index.md", "summary": "Open when looking up AEGP_FIMSuite3 in After Effects.", "keywords": ["AEGP_FIMSuite3 references"]},
+  {"topic": "AEGP_FootageSuite5 references", "file": "plugin-sdk/aegp-footage-suite5/reference-index.md", "summary": "Open when looking up AEGP_FootageSuite5 in After Effects.", "keywords": ["AEGP_FootageSuite5 references"]},
+  {"topic": "AEGP_SoundDataSuite1 references", "file": "plugin-sdk/aegp-sound-data-suite1/reference-index.md", "summary": "Open when looking up AEGP_SoundDataSuite1 in After Effects.", "keywords": ["AEGP_SoundDataSuite1 references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Common output fields", "file": "cloud-services/output-types-migration/output-types-migration-guide-structural-changes-all-output-types/common-output-fields.md", "summary": "Open when looking up Common output fields in Photoshop.", "keywords": ["Common output fields"]},
+  {"topic": "V1 output structure", "file": "cloud-services/output-types-migration/output-types-migration-guide-structural-changes-all-output-types/v1-output-structure.md", "summary": "Open when looking up V1 output structure in Photoshop.", "keywords": ["V1 output structure"]},
+  {"topic": "V2 output structure", "file": "cloud-services/output-types-migration/output-types-migration-guide-structural-changes-all-output-types/v2-output-structure.md", "summary": "Open when looking up V2 output structure in Photoshop.", "keywords": ["V2 output structure"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

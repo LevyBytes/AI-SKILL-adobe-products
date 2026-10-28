@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Join a Student Space shared with you", "file": "web/explore-student-spaces/collaborate-with-your-classmates-on-student-spaces/join-a-student-space-shared-with-you.md", "summary": "Open when looking up Join a Student Space shared with you in Acrobat.", "keywords": ["Join a Student Space shared with you"]},
+  {"topic": "Share a Student Space with classmates", "file": "web/explore-student-spaces/collaborate-with-your-classmates-on-student-spaces/share-a-student-space-with-classmates.md", "summary": "Open when looking up Share a Student Space with classmates in Acrobat.", "keywords": ["Share a Student Space with classmates"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,21 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "PropertyBase.active", "file": "scripting/property-base/active.md", "summary": "Open when looking up PropertyBase.active in After Effects.", "keywords": ["PropertyBase.active"]},
+  {"topic": "PropertyBase.canSetEnabled", "file": "scripting/property-base/can-set-enabled.md", "summary": "Open when looking up PropertyBase.canSetEnabled in After Effects.", "keywords": ["PropertyBase.canSetEnabled"]},
+  {"topic": "PropertyBase.duplicate()", "file": "scripting/property-base/duplicate.md", "summary": "Open when looking up PropertyBase.duplicate() in After Effects.", "keywords": ["PropertyBase.duplicate()"]},
+  {"topic": "PropertyBase.elided", "file": "scripting/property-base/elided.md", "summary": "Open when looking up PropertyBase.elided in After Effects.", "keywords": ["PropertyBase.elided"]},
+  {"topic": "PropertyBase.enabled", "file": "scripting/property-base/enabled.md", "summary": "Open when looking up PropertyBase.enabled in After Effects.", "keywords": ["PropertyBase.enabled"]},
+  {"topic": "PropertyBase.isEffect", "file": "scripting/property-base/is-effect.md", "summary": "Open when looking up PropertyBase.isEffect in After Effects.", "keywords": ["PropertyBase.isEffect"]},
+  {"topic": "PropertyBase.isMask", "file": "scripting/property-base/is-mask.md", "summary": "Open when looking up PropertyBase.isMask in After Effects.", "keywords": ["PropertyBase.isMask"]},
+  {"topic": "PropertyBase.isModified", "file": "scripting/property-base/is-modified.md", "summary": "Open when looking up PropertyBase.isModified in After Effects.", "keywords": ["PropertyBase.isModified"]},
+  {"topic": "PropertyBase.matchName", "file": "scripting/property-base/match-name.md", "summary": "Open when looking up PropertyBase.matchName in After Effects.", "keywords": ["PropertyBase.matchName"]},
+  {"topic": "PropertyBase.moveTo()", "file": "scripting/property-base/move-to.md", "summary": "Open when looking up PropertyBase.moveTo() in After Effects.", "keywords": ["PropertyBase.moveTo()"]},
+  {"topic": "PropertyBase.name", "file": "scripting/property-base/name.md", "summary": "Open when looking up PropertyBase.name in After Effects.", "keywords": ["PropertyBase.name"]},
+  {"topic": "PropertyBase.parentProperty", "file": "scripting/property-base/parent-property.md", "summary": "Open when looking up PropertyBase.parentProperty in After Effects.", "keywords": ["PropertyBase.parentProperty"]},
+  {"topic": "PropertyBase.propertyDepth", "file": "scripting/property-base/property-depth.md", "summary": "Open when looking up PropertyBase.propertyDepth in After Effects.", "keywords": ["PropertyBase.propertyDepth"]},
+  {"topic": "PropertyBase.propertyGroup()", "file": "scripting/property-base/property-group.md", "summary": "Open when looking up PropertyBase.propertyGroup() in After Effects.", "keywords": ["PropertyBase.propertyGroup()"]},
+  {"topic": "PropertyBase.propertyIndex", "file": "scripting/property-base/property-index.md", "summary": "Open when looking up PropertyBase.propertyIndex in After Effects.", "keywords": ["PropertyBase.propertyIndex"]},
+  {"topic": "PropertyBase.propertyType", "file": "scripting/property-base/property-type.md", "summary": "Open when looking up PropertyBase.propertyType in After Effects.", "keywords": ["PropertyBase.propertyType"]},
+  {"topic": "PropertyBase.remove()", "file": "scripting/property-base/remove.md", "summary": "Open when looking up PropertyBase.remove() in After Effects.", "keywords": ["PropertyBase.remove()"]},
+  {"topic": "PropertyBase.selected", "file": "scripting/property-base/selected.md", "summary": "Open when looking up PropertyBase.selected in After Effects.", "keywords": ["PropertyBase.selected"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

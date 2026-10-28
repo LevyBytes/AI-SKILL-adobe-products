@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Control layer visibility", "file": "desktop/edit-documents/work-with-pdf-layers/manage-pdf-layers/control-layer-visibility.md", "summary": "Open when looking up Control layer visibility in Acrobat.", "keywords": ["Control layer visibility"]},
+  {"topic": "View PDF layers", "file": "desktop/edit-documents/work-with-pdf-layers/manage-pdf-layers/view-pdf-layers.md", "summary": "Open when looking up View PDF layers in Acrobat.", "keywords": ["View PDF layers"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Fixed", "file": "uxp/uxp-changelog-uxp-v7-4-0/fixed.md", "summary": "Open when looking up Fixed in Photoshop.", "keywords": ["Fixed"]},
+  {"topic": "Updated", "file": "uxp/uxp-changelog-uxp-v7-4-0/updated.md", "summary": "Open when looking up Updated in Photoshop.", "keywords": ["Updated"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

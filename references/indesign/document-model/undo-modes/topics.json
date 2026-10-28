@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "AUTO_UNDO", "file": "document-model/undo-modes/autoundo.md", "summary": "Open when looking up AUTO_UNDO in InDesign.", "keywords": ["AUTO_UNDO"]},
+  {"topic": "ENTIRE_SCRIPT", "file": "document-model/undo-modes/entirescript.md", "summary": "Open when looking up ENTIRE_SCRIPT in InDesign.", "keywords": ["ENTIRE_SCRIPT"]},
+  {"topic": "FAST_ENTIRE_SCRIPT", "file": "document-model/undo-modes/fastentirescript.md", "summary": "Open when looking up FAST_ENTIRE_SCRIPT in InDesign.", "keywords": ["FAST_ENTIRE_SCRIPT"]},
+  {"topic": "SCRIPT_REQUEST", "file": "document-model/undo-modes/scriptrequest.md", "summary": "Open when looking up SCRIPT_REQUEST in InDesign.", "keywords": ["SCRIPT_REQUEST"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "entrypoints", "file": "uxp/required-properties/entrypoints.md", "summary": "Open when looking up entrypoints in Premiere Pro.", "keywords": ["entrypoints"]},
+  {"topic": "host", "file": "uxp/required-properties/host.md", "summary": "Open when looking up host in Premiere Pro.", "keywords": ["host"]},
+  {"topic": "id", "file": "uxp/required-properties/id.md", "summary": "Open when looking up id in Premiere Pro.", "keywords": ["id"]},
+  {"topic": "manifestVersion", "file": "uxp/required-properties/manifest-version.md", "summary": "Open when looking up manifestVersion in Premiere Pro.", "keywords": ["manifestVersion"]},
+  {"topic": "name", "file": "uxp/required-properties/name.md", "summary": "Open when looking up name in Premiere Pro.", "keywords": ["name"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

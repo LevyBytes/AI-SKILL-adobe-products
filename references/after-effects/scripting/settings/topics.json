@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Settings object", "file": "scripting/settings/settings-object.md", "summary": "Open when looking up Settings object in After Effects.", "keywords": ["Settings object"]},
+  {"topic": "Settings.getSetting()", "file": "scripting/settings/get-setting.md", "summary": "Open when looking up Settings.getSetting() in After Effects.", "keywords": ["Settings.getSetting()"]},
+  {"topic": "Settings.haveSetting()", "file": "scripting/settings/have-setting.md", "summary": "Open when looking up Settings.haveSetting() in After Effects.", "keywords": ["Settings.haveSetting()"]},
+  {"topic": "Settings.saveSetting()", "file": "scripting/settings/save-setting.md", "summary": "Open when looking up Settings.saveSetting() in After Effects.", "keywords": ["Settings.saveSetting()"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

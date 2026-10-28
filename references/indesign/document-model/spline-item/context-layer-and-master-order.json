@@ -1,0 +1,19 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "allowOverrides", "file": "document-model/spline-item/allow-overrides.md", "summary": "Open when looking up allowOverrides in InDesign.", "keywords": ["allowOverrides"]},
+  {"topic": "bringForward", "file": "document-model/spline-item/bring-forward.md", "summary": "Open when looking up bringForward in InDesign.", "keywords": ["bringForward"]},
+  {"topic": "bringToFront", "file": "document-model/spline-item/bring-to-front.md", "summary": "Open when looking up bringToFront in InDesign.", "keywords": ["bringToFront"]},
+  {"topic": "detach", "file": "document-model/spline-item/detach.md", "summary": "Open when looking up detach in InDesign.", "keywords": ["detach"]},
+  {"topic": "itemLayer", "file": "document-model/spline-item/item-layer.md", "summary": "Open when looking up itemLayer in InDesign.", "keywords": ["itemLayer"]},
+  {"topic": "locked", "file": "document-model/spline-item/locked.md", "summary": "Open when looking up locked in InDesign.", "keywords": ["locked"]},
+  {"topic": "nonprinting", "file": "document-model/spline-item/nonprinting.md", "summary": "Open when looking up nonprinting in InDesign.", "keywords": ["nonprinting"]},
+  {"topic": "overridden", "file": "document-model/spline-item/overridden.md", "summary": "Open when looking up overridden in InDesign.", "keywords": ["overridden"]},
+  {"topic": "overriddenMasterPageItem", "file": "document-model/spline-item/overridden-master-page-item.md", "summary": "Open when looking up overriddenMasterPageItem in InDesign.", "keywords": ["overriddenMasterPageItem"]},
+  {"topic": "override", "file": "document-model/spline-item/override.md", "summary": "Open when looking up override in InDesign.", "keywords": ["override"]},
+  {"topic": "parentPage", "file": "document-model/spline-item/parent-page.md", "summary": "Open when looking up parentPage in InDesign.", "keywords": ["parentPage"]},
+  {"topic": "removeOverride", "file": "document-model/spline-item/remove-override.md", "summary": "Open when looking up removeOverride in InDesign.", "keywords": ["removeOverride"]},
+  {"topic": "select", "file": "document-model/spline-item/select.md", "summary": "Open when looking up select in InDesign.", "keywords": ["select"]},
+  {"topic": "sendBackward", "file": "document-model/spline-item/send-backward.md", "summary": "Open when looking up sendBackward in InDesign.", "keywords": ["sendBackward"]},
+  {"topic": "sendToBack", "file": "document-model/spline-item/send-to-back.md", "summary": "Open when looking up sendToBack in InDesign.", "keywords": ["sendToBack"]},
+  {"topic": "visible", "file": "document-model/spline-item/visible.md", "summary": "Open when looking up visible in InDesign.", "keywords": ["visible"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "TabStopInfo.alignment", "file": "scripting/tab-stop-info/alignment.md", "summary": "Open when looking up TabStopInfo.alignment in Illustrator.", "keywords": ["TabStopInfo.alignment"]},
+  {"topic": "TabStopInfo.decimalCharacter", "file": "scripting/tab-stop-info/decimal-character.md", "summary": "Open when looking up TabStopInfo.decimalCharacter in Illustrator.", "keywords": ["TabStopInfo.decimalCharacter"]},
+  {"topic": "TabStopInfo.leader", "file": "scripting/tab-stop-info/leader.md", "summary": "Open when looking up TabStopInfo.leader in Illustrator.", "keywords": ["TabStopInfo.leader"]},
+  {"topic": "TabStopInfo.position", "file": "scripting/tab-stop-info/position.md", "summary": "Open when looking up TabStopInfo.position in Illustrator.", "keywords": ["TabStopInfo.position"]},
+  {"topic": "TabStopInfo.typename", "file": "scripting/tab-stop-info/typename.md", "summary": "Open when looking up TabStopInfo.typename in Illustrator.", "keywords": ["TabStopInfo.typename"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

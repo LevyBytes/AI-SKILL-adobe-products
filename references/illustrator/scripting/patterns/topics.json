@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Patterns.add()", "file": "scripting/patterns/add.md", "summary": "Open when looking up Patterns.add() in Illustrator.", "keywords": ["Patterns.add()"]},
+  {"topic": "Patterns.getByName()", "file": "scripting/patterns/get-by-name.md", "summary": "Open when looking up Patterns.getByName() in Illustrator.", "keywords": ["Patterns.getByName()"]},
+  {"topic": "Patterns.index()", "file": "scripting/patterns/index.md", "summary": "Open when looking up Patterns.index() in Illustrator.", "keywords": ["Patterns.index()"]},
+  {"topic": "Patterns.length", "file": "scripting/patterns/length.md", "summary": "Open when looking up Patterns.length in Illustrator.", "keywords": ["Patterns.length"]},
+  {"topic": "Patterns.parent", "file": "scripting/patterns/parent.md", "summary": "Open when looking up Patterns.parent in Illustrator.", "keywords": ["Patterns.parent"]},
+  {"topic": "Patterns.removeAll()", "file": "scripting/patterns/remove-all.md", "summary": "Open when looking up Patterns.removeAll() in Illustrator.", "keywords": ["Patterns.removeAll()"]},
+  {"topic": "Patterns.typename", "file": "scripting/patterns/typename.md", "summary": "Open when looking up Patterns.typename in Illustrator.", "keywords": ["Patterns.typename"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

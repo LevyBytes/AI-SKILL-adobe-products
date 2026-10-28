@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Before you share", "file": "web/edit-videos/share-projects-to-troubleshoot-timeline-issues/before-you-share.md", "summary": "Open when looking up Before you share in Firefly.", "keywords": ["Before you share"]},
+  {"topic": "Share your project with Adobe support", "file": "web/edit-videos/share-projects-to-troubleshoot-timeline-issues/share-your-project-with-adobe-support.md", "summary": "Open when looking up Share your project with Adobe support in Firefly.", "keywords": ["Share your project with Adobe support"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Color Space Conversion - Color Space Conversion Callbacks", "file": "plugin-sdk/color-space-conversion-callbacks/color-space-conversion-color-space-conversion-callbacks.md", "summary": "Open when looking up Color Space Conversion - Color Space Conversion Callbacks in After Effects.", "keywords": ["Color Space Conversion - Color Space Conversion Callbacks"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

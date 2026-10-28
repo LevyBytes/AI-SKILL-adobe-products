@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "HtmlItems collection iteration", "file": "community-types/indesign/html-items/collection-iteration.md", "summary": "Open when looking up HtmlItems collection iteration in Shared Adobe platform.", "keywords": ["HtmlItems collection iteration"]},
+  {"topic": "HtmlItems declaration", "file": "community-types/indesign/html-items/declaration.md", "summary": "Open when looking up HtmlItems declaration in Shared Adobe platform.", "keywords": ["HtmlItems declaration"]},
+  {"topic": "HtmlItems named and indexed items", "file": "community-types/indesign/html-items/named-and-indexed-items.md", "summary": "Open when looking up HtmlItems named and indexed items in Shared Adobe platform.", "keywords": ["HtmlItems named and indexed items"]},
+  {"topic": "HtmlItems.add", "file": "community-types/indesign/html-items/add.md", "summary": "Open when looking up HtmlItems.add in Shared Adobe platform.", "keywords": ["HtmlItems.add"]},
+  {"topic": "HtmlItems.count", "file": "community-types/indesign/html-items/count.md", "summary": "Open when looking up HtmlItems.count in Shared Adobe platform.", "keywords": ["HtmlItems.count"]},
+  {"topic": "HtmlItems.IndexSignature", "file": "community-types/indesign/html-items/index-signature.md", "summary": "Open when looking up HtmlItems.IndexSignature in Shared Adobe platform.", "keywords": ["HtmlItems.IndexSignature"]},
+  {"topic": "HtmlItems.itemByRange", "file": "community-types/indesign/html-items/item-by-range.md", "summary": "Open when looking up HtmlItems.itemByRange in Shared Adobe platform.", "keywords": ["HtmlItems.itemByRange"]},
+  {"topic": "HtmlItems.length", "file": "community-types/indesign/html-items/length.md", "summary": "Open when looking up HtmlItems.length in Shared Adobe platform.", "keywords": ["HtmlItems.length"]},
+  {"topic": "HtmlItems.toSource", "file": "community-types/indesign/html-items/to-source.md", "summary": "Open when looking up HtmlItems.toSource in Shared Adobe platform.", "keywords": ["HtmlItems.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

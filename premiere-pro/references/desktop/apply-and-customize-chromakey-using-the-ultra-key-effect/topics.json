@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Apply the Ultra Key effect", "file": "references/desktop/apply-and-customize-chromakey-using-the-ultra-key-effect/apply-the-ultra-key-effect.md", "summary": "Open when looking up Apply the Ultra Key effect in Premiere Pro.", "keywords": ["Apply the Ultra Key effect"]},
-  {"topic": "Refine the key", "file": "references/desktop/apply-and-customize-chromakey-using-the-ultra-key-effect/refine-the-key.md", "summary": "Open when looking up Refine the key in Premiere Pro.", "keywords": ["Refine the key"]},
-  {"topic": "Remove a solid-color background, such as green or blue screens, from video", "file": "references/desktop/apply-and-customize-chromakey-using-the-ultra-key-effect/ultra-key-background-removal.md", "summary": "Open when looking up Remove a solid-color background, such as green or blue screens, from video in Premiere Pro.", "keywords": ["Remove a solid-color background, such as green or blue screens, from video"]},
-  {"topic": "Set the key color", "file": "references/desktop/apply-and-customize-chromakey-using-the-ultra-key-effect/set-the-key-color.md", "summary": "Open when looking up Set the key color in Premiere Pro.", "keywords": ["Set the key color"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

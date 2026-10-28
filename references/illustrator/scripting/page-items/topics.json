@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "PageItems.getByName()", "file": "scripting/page-items/get-by-name.md", "summary": "Open when looking up PageItems.getByName() in Illustrator.", "keywords": ["PageItems.getByName()"]},
+  {"topic": "PageItems.index()", "file": "scripting/page-items/index.md", "summary": "Open when looking up PageItems.index() in Illustrator.", "keywords": ["PageItems.index()"]},
+  {"topic": "PageItems.length", "file": "scripting/page-items/length.md", "summary": "Open when looking up PageItems.length in Illustrator.", "keywords": ["PageItems.length"]},
+  {"topic": "PageItems.parent", "file": "scripting/page-items/parent.md", "summary": "Open when looking up PageItems.parent in Illustrator.", "keywords": ["PageItems.parent"]},
+  {"topic": "PageItems.removeAll()", "file": "scripting/page-items/remove-all.md", "summary": "Open when looking up PageItems.removeAll() in Illustrator.", "keywords": ["PageItems.removeAll()"]},
+  {"topic": "PageItems.typename", "file": "scripting/page-items/typename.md", "summary": "Open when looking up PageItems.typename in Illustrator.", "keywords": ["PageItems.typename"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

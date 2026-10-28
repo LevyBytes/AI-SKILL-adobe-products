@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Audio-Specific Float Slider Variables - Flags", "file": "plugin-sdk/flags/audio-specific-float-slider-variables-flags.md", "summary": "Open when looking up Audio-Specific Float Slider Variables - Flags in After Effects.", "keywords": ["Audio-Specific Float Slider Variables - Flags"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

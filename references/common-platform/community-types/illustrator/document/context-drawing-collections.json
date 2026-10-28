@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Document.compoundPathItems", "file": "community-types/illustrator/document/compound-path-items.md", "summary": "Open when looking up Document.compoundPathItems in Shared Adobe platform.", "keywords": ["Document.compoundPathItems"]},
+  {"topic": "Document.graphItems", "file": "community-types/illustrator/document/graph-items.md", "summary": "Open when looking up Document.graphItems in Shared Adobe platform.", "keywords": ["Document.graphItems"]},
+  {"topic": "Document.groupItems", "file": "community-types/illustrator/document/group-items.md", "summary": "Open when looking up Document.groupItems in Shared Adobe platform.", "keywords": ["Document.groupItems"]},
+  {"topic": "Document.layers", "file": "community-types/illustrator/document/layers.md", "summary": "Open when looking up Document.layers in Shared Adobe platform.", "keywords": ["Document.layers"]},
+  {"topic": "Document.meshItems", "file": "community-types/illustrator/document/mesh-items.md", "summary": "Open when looking up Document.meshItems in Shared Adobe platform.", "keywords": ["Document.meshItems"]},
+  {"topic": "Document.nonNativeItems", "file": "community-types/illustrator/document/non-native-items.md", "summary": "Open when looking up Document.nonNativeItems in Shared Adobe platform.", "keywords": ["Document.nonNativeItems"]},
+  {"topic": "Document.pageItems", "file": "community-types/illustrator/document/page-items.md", "summary": "Open when looking up Document.pageItems in Shared Adobe platform.", "keywords": ["Document.pageItems"]},
+  {"topic": "Document.pathItems", "file": "community-types/illustrator/document/path-items.md", "summary": "Open when looking up Document.pathItems in Shared Adobe platform.", "keywords": ["Document.pathItems"]},
+  {"topic": "Document.pluginItems", "file": "community-types/illustrator/document/plugin-items.md", "summary": "Open when looking up Document.pluginItems in Shared Adobe platform.", "keywords": ["Document.pluginItems"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

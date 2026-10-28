@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Add attachments to PDFs", "file": "desktop/edit-documents/use-links-and-attachments/add-attachments-to-pdfs.md", "summary": "Open when looking up Add attachments to PDFs in Acrobat.", "keywords": ["Add attachments to PDFs"]},
+  {"topic": "Add links to PDFs", "file": "desktop/edit-documents/use-links-and-attachments/add-links-to-pdfs.md", "summary": "Open when looking up Add links to PDFs in Acrobat.", "keywords": ["Add links to PDFs"]},
+  {"topic": "Change link formatting in PDFs", "file": "desktop/edit-documents/use-links-and-attachments/change-link-formatting-in-pdfs.md", "summary": "Open when looking up Change link formatting in PDFs in Acrobat.", "keywords": ["Change link formatting in PDFs"]},
+  {"topic": "Link to destinations", "file": "desktop/edit-documents/use-links-and-attachments/link-to-destinations.md", "summary": "Open when looking up Link to destinations in Acrobat.", "keywords": ["Link to destinations"]},
+  {"topic": "Manage link destinations", "file": "desktop/edit-documents/use-links-and-attachments/manage-link-destinations.md", "summary": "Open when looking up Manage link destinations in Acrobat.", "keywords": ["Manage link destinations"]},
+  {"topic": "Manage link destinations references", "file": "desktop/edit-documents/use-links-and-attachments/manage-link-destinations/reference-index.md", "summary": "Open when looking up Manage link destinations in Acrobat.", "keywords": ["Manage link destinations references"]},
+  {"topic": "Move or resize a link rectangle", "file": "desktop/edit-documents/use-links-and-attachments/move-or-resize-a-link-rectangle.md", "summary": "Open when looking up Move or resize a link rectangle in Acrobat.", "keywords": ["Move or resize a link rectangle"]},
+  {"topic": "Open attachments in PDFs", "file": "desktop/edit-documents/use-links-and-attachments/open-attachments-in-pdfs.md", "summary": "Open when looking up Open attachments in PDFs in Acrobat.", "keywords": ["Open attachments in PDFs"]},
+  {"topic": "Open attachments in PDFs references", "file": "desktop/edit-documents/use-links-and-attachments/open-attachments-in-pdfs/reference-index.md", "summary": "Open when looking up Open attachments in PDFs in Acrobat.", "keywords": ["Open attachments in PDFs references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

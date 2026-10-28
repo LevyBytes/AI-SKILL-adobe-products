@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Legacy Extensibility", "file": "references/uxp/legacy-extensibility.md", "summary": "Open when looking up Legacy Extensibility in Photoshop.", "keywords": ["Legacy Extensibility"]},
-  {"topic": "Legacy Extensibility references", "file": "references/uxp/legacy-extensibility/reference-index.md", "summary": "Open when looking up Legacy Extensibility in Photoshop.", "keywords": ["Legacy Extensibility references"]},
-  {"topic": "UXP for CEP Developers - Goodbye CEP", "file": "references/uxp/uxp-for-cep-developers-goodbye-cep.md", "summary": "Open when looking up UXP for CEP Developers - Goodbye CEP in Photoshop.", "keywords": ["UXP for CEP Developers - Goodbye CEP"]},
-  {"topic": "UXP for CEP Developers - Goodbye CEP references", "file": "references/uxp/uxp-for-cep-developers-goodbye-cep/reference-index.md", "summary": "Open when looking up UXP for CEP Developers - Goodbye CEP in Photoshop.", "keywords": ["UXP for CEP Developers - Goodbye CEP references"]},
-  {"topic": "UXP for ExtendScript Developers", "file": "references/uxp/uxp-for-extend-script-developers.md", "summary": "Open when looking up UXP for ExtendScript Developers in Photoshop.", "keywords": ["UXP for ExtendScript Developers"]},
-  {"topic": "UXP for ExtendScript Developers references", "file": "references/uxp/uxp-for-extend-script-developers/reference-index.md", "summary": "Open when looking up UXP for ExtendScript Developers in Photoshop.", "keywords": ["UXP for ExtendScript Developers references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

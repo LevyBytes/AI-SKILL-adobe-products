@@ -1,0 +1,22 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "addEventListener", "file": "document-model/mojikumi-table/add-event-listener.md", "summary": "Open when looking up addEventListener in InDesign.", "keywords": ["addEventListener"]},
+  {"topic": "basedOnMojikumiSet", "file": "document-model/mojikumi-table/based-on-mojikumi-set.md", "summary": "Open when looking up basedOnMojikumiSet in InDesign.", "keywords": ["basedOnMojikumiSet"]},
+  {"topic": "eventListeners", "file": "document-model/mojikumi-table/event-listeners.md", "summary": "Open when looking up eventListeners in InDesign.", "keywords": ["eventListeners"]},
+  {"topic": "events", "file": "document-model/mojikumi-table/events.md", "summary": "Open when looking up events in InDesign.", "keywords": ["events"]},
+  {"topic": "extractLabel", "file": "document-model/mojikumi-table/extract-label.md", "summary": "Open when looking up extractLabel in InDesign.", "keywords": ["extractLabel"]},
+  {"topic": "getElements", "file": "document-model/mojikumi-table/get-elements.md", "summary": "Open when looking up getElements in InDesign.", "keywords": ["getElements"]},
+  {"topic": "id", "file": "document-model/mojikumi-table/id.md", "summary": "Open when looking up id in InDesign.", "keywords": ["id"]},
+  {"topic": "index", "file": "document-model/mojikumi-table/index.md", "summary": "Open when looking up index in InDesign.", "keywords": ["index"]},
+  {"topic": "insertLabel", "file": "document-model/mojikumi-table/insert-label.md", "summary": "Open when looking up insertLabel in InDesign.", "keywords": ["insertLabel"]},
+  {"topic": "isValid", "file": "document-model/mojikumi-table/is-valid.md", "summary": "Open when looking up isValid in InDesign.", "keywords": ["isValid"]},
+  {"topic": "label", "file": "document-model/mojikumi-table/label.md", "summary": "Open when looking up label in InDesign.", "keywords": ["label"]},
+  {"topic": "name", "file": "document-model/mojikumi-table/name.md", "summary": "Open when looking up name in InDesign.", "keywords": ["name"]},
+  {"topic": "overrideMojikumiAkiList", "file": "document-model/mojikumi-table/override-mojikumi-aki-list.md", "summary": "Open when looking up overrideMojikumiAkiList in InDesign.", "keywords": ["overrideMojikumiAkiList"]},
+  {"topic": "parent", "file": "document-model/mojikumi-table/parent.md", "summary": "Open when looking up parent in InDesign.", "keywords": ["parent"]},
+  {"topic": "properties", "file": "document-model/mojikumi-table/properties.md", "summary": "Open when looking up properties in InDesign.", "keywords": ["properties"]},
+  {"topic": "remove", "file": "document-model/mojikumi-table/remove.md", "summary": "Open when looking up remove in InDesign.", "keywords": ["remove"]},
+  {"topic": "removeEventListener", "file": "document-model/mojikumi-table/remove-event-listener.md", "summary": "Open when looking up removeEventListener in InDesign.", "keywords": ["removeEventListener"]},
+  {"topic": "toSource", "file": "document-model/mojikumi-table/to-source.md", "summary": "Open when looking up toSource in InDesign.", "keywords": ["toSource"]},
+  {"topic": "toSpecifier", "file": "document-model/mojikumi-table/to-specifier.md", "summary": "Open when looking up toSpecifier in InDesign.", "keywords": ["toSpecifier"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

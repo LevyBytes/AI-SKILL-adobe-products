@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Ordered Lists", "file": "references/uxp/html/unsupported-elements/ordered-lists.md", "summary": "Open when looking up Ordered Lists in Premiere Pro.", "keywords": ["Ordered Lists"]},
-  {"topic": "Title", "file": "references/uxp/html/unsupported-elements/title.md", "summary": "Open when looking up Title in Premiere Pro.", "keywords": ["Title"]},
-  {"topic": "Typography", "file": "references/uxp/html/unsupported-elements/typography.md", "summary": "Open when looking up Typography in Premiere Pro.", "keywords": ["Typography"]},
-  {"topic": "Unordered Lists", "file": "references/uxp/html/unsupported-elements/unordered-lists.md", "summary": "Open when looking up Unordered Lists in Premiere Pro.", "keywords": ["Unordered Lists"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

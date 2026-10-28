@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Audio Data Structures", "file": "plugin-sdk/audio-data-structures.md", "summary": "Open when looking up Audio Data Structures in After Effects.", "keywords": ["Audio Data Structures"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

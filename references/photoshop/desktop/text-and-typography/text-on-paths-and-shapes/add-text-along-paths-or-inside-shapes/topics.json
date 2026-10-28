@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Add text along closed or open paths", "file": "desktop/text-and-typography/text-on-paths-and-shapes/add-text-along-paths-or-inside-shapes/add-text-along-closed-or-open-paths.md", "summary": "Open when looking up Add text along closed or open paths in Photoshop.", "keywords": ["Add text along closed or open paths"]},
+  {"topic": "Add text inside shapes", "file": "desktop/text-and-typography/text-on-paths-and-shapes/add-text-along-paths-or-inside-shapes/add-text-inside-shapes.md", "summary": "Open when looking up Add text inside shapes in Photoshop.", "keywords": ["Add text inside shapes"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

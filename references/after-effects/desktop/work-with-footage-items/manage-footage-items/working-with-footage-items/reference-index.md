@@ -1,0 +1,28 @@
+# After Effects - Working with footage items
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Copy items in After Effects. [Copy items](copy-items.md).
+- Open when looking up Create a folder in After Effects. [Create a folder](create-a-folder.md).
+- Open when looking up Create a proxy in After Effects. [Create a proxy](create-a-proxy.md).
+- Open when looking up Create placeholders for output in After Effects. [Create placeholders for output](create-placeholders-for-output.md).
+- Open when looking up Edit footage in its original application in After Effects. [Edit footage in its original application](edit-footage-in-its-original-application.md).
+- Open when looking up Enhanced solids folder organization in After Effects. [Enhanced solids folder organization](enhanced-solids-folder-organization.md).
+- Open when looking up Freeze on last frame in After Effects. [Freeze on last frame](freeze-on-last-frame.md).
+- Open when looking up Loop a footage item in After Effects. [Loop a footage item](loop-a-footage-item.md).
+- Open when looking up Nest the solids folder in other folders in After Effects. [Nest the solids folder in other folders](nest-the-solids-folder-in-other-folders.md).
+- Open when looking up Rename a solids folder with Enter or Return. [Rename a solids folder with Enter or Return](rename-solids-folder-with-enter.md).
+- Open when looking up Rename a solids folder from its context menu. [Rename a solids folder from its context menu](rename-solids-folder-with-context-menu.md).
+- Open when looking up Organize, view, manage, and trim footage items in After Effects. [Organize, view, manage, and trim footage items](organize-view-manage-and-trim-footage-items.md).
+- Open when looking up Placeholders and proxies in After Effects. [Placeholders and proxies](placeholders-and-proxies.md).
+- Open when looking up Refresh footage items in After Effects. [Refresh footage items](refresh-footage-items.md).
+- Open when looking up Remove items from a project in After Effects. [Remove items from a project](remove-items-from-a-project.md).
+- Open when looking up Rename and sort items in After Effects. [Rename and sort items](rename-and-sort-items.md).
+- Open when looking up Rename the solids folder in After Effects. [Rename the solids folder](rename-the-solids-folder.md).
+- Open when looking up Reveal footage items in After Effects. [Reveal footage items](reveal-footage-items.md).
+- Open when looking up Set a default name for the solids folder in After Effects. [Set a default name for the solids folder](set-a-default-name-for-the-solids-folder.md).
+- Open when looking up Set any folder as the solids folder in After Effects. [Set any folder as the solids folder](set-any-folder-as-the-solids-folder.md).
+- Open when looking up Show information for items in After Effects. [Show information for items](show-information-for-items.md).
+- Open when looking up Trim footage items in the Footage panel in After Effects. [Trim footage items in the Footage panel](trim-footage-items-in-the-footage-panel.md).
+- Open when looking up View footage items in the Footage panel or media player assigned by the operating system in After Effects. [View footage items in the Footage panel or media player assigned by the operating system](footage-panel-and-system-player.md).
+- Open when looking up Work with placeholders and missing footage items in After Effects. [Work with placeholders and missing footage items](work-with-placeholders-and-missing-footage-items.md).
+- Open when looking up Work with proxies for footage items in After Effects. [Work with proxies for footage items](work-with-proxies-for-footage-items.md).

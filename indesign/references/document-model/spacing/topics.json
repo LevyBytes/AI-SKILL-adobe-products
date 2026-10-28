@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "SETIGNORE", "file": "references/document-model/spacing/setignore.md", "summary": "Open when looking up SETIGNORE in InDesign.", "keywords": ["SETIGNORE"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

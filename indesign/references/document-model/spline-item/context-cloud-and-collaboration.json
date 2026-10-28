@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "checkIn", "file": "references/document-model/spline-item/check-in.md", "summary": "Open when looking up checkIn in InDesign.", "keywords": ["checkIn"]},
-  {"topic": "checkOut", "file": "references/document-model/spline-item/check-out.md", "summary": "Open when looking up checkOut in InDesign.", "keywords": ["checkOut"]},
-  {"topic": "lockState", "file": "references/document-model/spline-item/lock-state.md", "summary": "Open when looking up lockState in InDesign.", "keywords": ["lockState"]},
-  {"topic": "store", "file": "references/document-model/spline-item/store.md", "summary": "Open when looking up store in InDesign.", "keywords": ["store"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

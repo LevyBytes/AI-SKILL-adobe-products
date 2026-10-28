@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "JavaScript APIs - Embedded PDF", "file": "references/scripting/embedded-pdf/java-script-apis-embedded-pdf.md", "summary": "Open when looking up JavaScript APIs - Embedded PDF in Acrobat.", "keywords": ["JavaScript APIs - Embedded PDF"]},
-  {"topic": "messageHandler", "file": "references/scripting/embedded-pdf/message-handler.md", "summary": "Open when looking up messageHandler in Acrobat.", "keywords": ["messageHandler"]},
-  {"topic": "postMessage", "file": "references/scripting/embedded-pdf/post-message.md", "summary": "Open when looking up postMessage in Acrobat.", "keywords": ["postMessage"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

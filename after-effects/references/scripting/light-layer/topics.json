@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "AE Properties", "file": "references/scripting/light-layer/ae-properties.md", "summary": "Open when looking up AE Properties in After Effects.", "keywords": ["AE Properties"]},
-  {"topic": "LightLayer object", "file": "references/scripting/light-layer/light-layer-object.md", "summary": "Open when looking up LightLayer object in After Effects.", "keywords": ["LightLayer object"]},
-  {"topic": "LightLayer.lightType", "file": "references/scripting/light-layer/light-type.md", "summary": "Open when looking up LightLayer.lightType in After Effects.", "keywords": ["LightLayer.lightType"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Check the image generation status", "file": "cloud-services/custom-model-image-generation/generate-your-images/check-the-image-generation-status.md", "summary": "Open when looking up Check the image generation status in Firefly.", "keywords": ["Check the image generation status"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

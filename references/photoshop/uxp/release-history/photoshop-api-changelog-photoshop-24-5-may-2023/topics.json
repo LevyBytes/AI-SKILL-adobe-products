@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Calculations and Apply Image", "file": "uxp/release-history/photoshop-api-changelog-photoshop-24-5-may-2023/calculations-and-apply-image.md", "summary": "Open when looking up Calculations and Apply Image in Photoshop.", "keywords": ["Calculations and Apply Image"]},
+  {"topic": "Other updates", "file": "uxp/release-history/photoshop-api-changelog-photoshop-24-5-may-2023/other-updates.md", "summary": "Open when looking up Other updates in Photoshop.", "keywords": ["Other updates"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

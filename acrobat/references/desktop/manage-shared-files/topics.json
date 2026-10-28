@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "How to handle shared files inside Adobe Acrobat.", "file": "references/desktop/manage-shared-files/how-to-handle-shared-files-inside-adobe-acrobat.md", "summary": "Open when looking up How to handle shared files inside Adobe Acrobat. in Acrobat.", "keywords": ["How to handle shared files inside Adobe Acrobat."]},
-  {"topic": "Manage files shared by others", "file": "references/desktop/manage-shared-files/manage-files-shared-by-others.md", "summary": "Open when looking up Manage files shared by others in Acrobat.", "keywords": ["Manage files shared by others"]},
-  {"topic": "Manage files shared by you", "file": "references/desktop/manage-shared-files/manage-files-shared-by-you.md", "summary": "Open when looking up Manage files shared by you in Acrobat.", "keywords": ["Manage files shared by you"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

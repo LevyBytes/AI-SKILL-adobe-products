@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "firefly", "topics": [
-  {"topic": "JavaScript", "file": "references/cloud-services/image-generation-quickstart/full-example/java-script.md", "summary": "Open when looking up JavaScript in Firefly.", "keywords": ["JavaScript"]},
-  {"topic": "Python", "file": "references/cloud-services/image-generation-quickstart/full-example/python.md", "summary": "Open when looking up Python in Firefly.", "keywords": ["Python"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

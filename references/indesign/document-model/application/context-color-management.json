@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "colorSettings", "file": "document-model/application/color-settings.md", "summary": "Open when looking up colorSettings in InDesign.", "keywords": ["colorSettings"]},
+  {"topic": "colorTransform", "file": "document-model/application/color-transform.md", "summary": "Open when looking up colorTransform in InDesign.", "keywords": ["colorTransform"]},
+  {"topic": "transparencyPreferences", "file": "document-model/application/transparency-preferences.md", "summary": "Open when looking up transparencyPreferences in InDesign.", "keywords": ["transparencyPreferences"]},
+  {"topic": "trapPresets", "file": "document-model/application/trap-presets.md", "summary": "Open when looking up trapPresets in InDesign.", "keywords": ["trapPresets"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

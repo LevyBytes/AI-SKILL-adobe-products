@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Shape Layer Match Names - Pucker & Bloat", "file": "scripting/pucker-bloat/shape-layer-match-names-pucker-bloat.md", "summary": "Open when looking up Shape Layer Match Names - Pucker & Bloat in After Effects.", "keywords": ["Shape Layer Match Names - Pucker & Bloat"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

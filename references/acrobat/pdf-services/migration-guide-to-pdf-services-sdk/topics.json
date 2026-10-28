@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": ".NET changes", "file": "pdf-services/migration-guide-to-pdf-services-sdk/net-changes.md", "summary": "Open when looking up .NET changes in Acrobat.", "keywords": [".NET changes"]},
+  {"topic": "Java changes", "file": "pdf-services/migration-guide-to-pdf-services-sdk/java-changes.md", "summary": "Open when looking up Java changes in Acrobat.", "keywords": ["Java changes"]},
+  {"topic": "Node JS changes", "file": "pdf-services/migration-guide-to-pdf-services-sdk/node-js-changes.md", "summary": "Open when looking up Node JS changes in Acrobat.", "keywords": ["Node JS changes"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

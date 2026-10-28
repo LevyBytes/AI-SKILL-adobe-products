@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "plugins ⇒ Set", "file": "uxp/plugin-manager/plugins-set.md", "summary": "Open when looking up plugins ⇒ Set in Photoshop.", "keywords": ["plugins ⇒ Set"]},
+  {"topic": "require('uxp').pluginManager", "file": "uxp/plugin-manager/require-uxp-plugin-manager.md", "summary": "Open when looking up require('uxp').pluginManager in Photoshop.", "keywords": ["require('uxp').pluginManager"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

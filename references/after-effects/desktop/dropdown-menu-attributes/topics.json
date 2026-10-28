@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "items", "file": "desktop/dropdown-menu-attributes/items.md", "summary": "Open when looking up items in After Effects.", "keywords": ["items"]},
+  {"topic": "text", "file": "desktop/dropdown-menu-attributes/text.md", "summary": "Open when looking up text in After Effects.", "keywords": ["text"]},
+  {"topic": "textAtTime(time)", "file": "desktop/dropdown-menu-attributes/text-at-time.md", "summary": "Open when looking up textAtTime(time) in After Effects.", "keywords": ["textAtTime(time)"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

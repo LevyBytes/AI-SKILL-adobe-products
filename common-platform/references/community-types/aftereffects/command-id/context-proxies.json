@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "_CommandID.CreateProxyMovie", "file": "references/community-types/aftereffects/command-id/create-proxy-movie.md", "summary": "Open when looking up _CommandID.CreateProxyMovie in Shared Adobe platform.", "keywords": ["_CommandID.CreateProxyMovie"]},
-  {"topic": "_CommandID.CreateProxyStill", "file": "references/community-types/aftereffects/command-id/create-proxy-still.md", "summary": "Open when looking up _CommandID.CreateProxyStill in Shared Adobe platform.", "keywords": ["_CommandID.CreateProxyStill"]},
-  {"topic": "_CommandID.SetProxyFile", "file": "references/community-types/aftereffects/command-id/set-proxy-file.md", "summary": "Open when looking up _CommandID.SetProxyFile in Shared Adobe platform.", "keywords": ["_CommandID.SetProxyFile"]},
-  {"topic": "_CommandID.SetProxyNone", "file": "references/community-types/aftereffects/command-id/set-proxy-none.md", "summary": "Open when looking up _CommandID.SetProxyNone in Shared Adobe platform.", "keywords": ["_CommandID.SetProxyNone"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

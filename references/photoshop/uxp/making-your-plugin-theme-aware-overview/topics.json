@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Making your Plugin Theme-aware - Built-in Theme Colors", "file": "uxp/making-your-plugin-theme-aware-overview/making-your-plugin-theme-aware-built-in-theme-colors.md", "summary": "Open when looking up Making your Plugin Theme-aware - Built-in Theme Colors in Photoshop.", "keywords": ["Making your Plugin Theme-aware - Built-in Theme Colors"]},
+  {"topic": "Making your Plugin Theme-aware - How Do They Look?", "file": "uxp/making-your-plugin-theme-aware-overview/making-your-plugin-theme-aware-how-do-they-look.md", "summary": "Open when looking up Making your Plugin Theme-aware - How Do They Look? in Photoshop.", "keywords": ["Making your Plugin Theme-aware - How Do They Look?"]},
+  {"topic": "Making your Plugin Theme-aware - How to Use CSS Variables", "file": "uxp/making-your-plugin-theme-aware-overview/making-your-plugin-theme-aware-how-to-use-css-variables.md", "summary": "Open when looking up Making your Plugin Theme-aware - How to Use CSS Variables in Photoshop.", "keywords": ["Making your Plugin Theme-aware - How to Use CSS Variables"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

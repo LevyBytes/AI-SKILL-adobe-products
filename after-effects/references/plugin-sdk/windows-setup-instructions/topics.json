@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "CUDA Runtime API vs. Driver API:", "file": "references/plugin-sdk/windows-setup-instructions/cuda-runtime-api-vs-driver-api.md", "summary": "Open when looking up CUDA Runtime API vs. Driver API: in After Effects.", "keywords": ["CUDA Runtime API vs. Driver API:"]},
-  {"topic": "Deployment instructions (DirectX):", "file": "references/plugin-sdk/windows-setup-instructions/deployment-instructions-direct-x.md", "summary": "Open when looking up Deployment instructions (DirectX): in After Effects.", "keywords": ["Deployment instructions (DirectX):"]},
-  {"topic": "GPU-Accelerated Effect Build Instructions - Windows Setup Instructions", "file": "references/plugin-sdk/windows-setup-instructions/windows-setup-instructions.md", "summary": "Open when looking up GPU-Accelerated Effect Build Instructions - Windows Setup Instructions in After Effects.", "keywords": ["GPU-Accelerated Effect Build Instructions - Windows Setup Instructions"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

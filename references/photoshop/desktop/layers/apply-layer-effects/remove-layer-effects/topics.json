@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Remove all layer effects at once", "file": "desktop/layers/apply-layer-effects/remove-layer-effects/remove-all-layer-effects-at-once.md", "summary": "Open when looking up Remove all layer effects at once in Photoshop.", "keywords": ["Remove all layer effects at once"]},
+  {"topic": "Remove effects from multiple layers", "file": "desktop/layers/apply-layer-effects/remove-layer-effects/remove-effects-from-multiple-layers.md", "summary": "Open when looking up Remove effects from multiple layers in Photoshop.", "keywords": ["Remove effects from multiple layers"]},
+  {"topic": "Remove individual layer effects", "file": "desktop/layers/apply-layer-effects/remove-layer-effects/remove-individual-layer-effects.md", "summary": "Open when looking up Remove individual layer effects in Photoshop.", "keywords": ["Remove individual layer effects"]},
+  {"topic": "Temporarily hide layer effects", "file": "desktop/layers/apply-layer-effects/remove-layer-effects/temporarily-hide-layer-effects.md", "summary": "Open when looking up Temporarily hide layer effects in Photoshop.", "keywords": ["Temporarily hide layer effects"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

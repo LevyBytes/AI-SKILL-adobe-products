@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "appliedParagraphStyle", "file": "references/document-model/cell-style/applied-paragraph-style.md", "summary": "Open when looking up appliedParagraphStyle in InDesign.", "keywords": ["appliedParagraphStyle"]},
-  {"topic": "basedOn", "file": "references/document-model/cell-style/based-on.md", "summary": "Open when looking up basedOn in InDesign.", "keywords": ["basedOn"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

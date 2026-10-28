@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Productions", "file": "references/desktop/collaborate-with-others/collaborate-using-team-projects/when-to-use-team-projects-and-when-to-use-productions/productions.md", "summary": "Open when looking up Productions in Premiere Pro.", "keywords": ["Productions"]},
-  {"topic": "Team Projects", "file": "references/desktop/collaborate-with-others/collaborate-using-team-projects/when-to-use-team-projects-and-when-to-use-productions/team-projects.md", "summary": "Open when looking up Team Projects in Premiere Pro.", "keywords": ["Team Projects"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

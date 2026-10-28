@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Disclosure on Chinese models in Adobe products", "file": "web/get-started/partner-models-in-adobe-products/disclosure-on-chinese-models-in-adobe-products.md", "summary": "Open when looking up Disclosure on Chinese models in Adobe products in Firefly.", "keywords": ["Disclosure on Chinese models in Adobe products"]},
+  {"topic": "Enterprise FAQs", "file": "web/get-started/partner-models-in-adobe-products/enterprise-faqs.md", "summary": "Open when looking up Enterprise FAQs in Firefly.", "keywords": ["Enterprise FAQs"]},
+  {"topic": "Generative credit usage for video models", "file": "web/get-started/partner-models-in-adobe-products/generative-credit-usage-for-video-models.md", "summary": "Open when looking up Generative credit usage for video models in Firefly.", "keywords": ["Generative credit usage for video models"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

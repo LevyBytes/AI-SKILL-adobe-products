@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Select a web-safe color using the Color panel", "file": "references/desktop/adjust-color/choose-colors/choose-web-safe-colors/select-a-web-safe-color-using-the-color-panel.md", "summary": "Open when looking up Select a web-safe color using the Color panel in Photoshop.", "keywords": ["Select a web-safe color using the Color panel"]},
-  {"topic": "Select web-safe colors in the Adobe Color Picker", "file": "references/desktop/adjust-color/choose-colors/choose-web-safe-colors/select-web-safe-colors-in-the-adobe-color-picker.md", "summary": "Open when looking up Select web-safe colors in the Adobe Color Picker in Photoshop.", "keywords": ["Select web-safe colors in the Adobe Color Picker"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

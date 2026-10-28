@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Change start or end position of type on a path", "file": "references/desktop/add-and-manage-text/type-on-a-path/edit-type-on-path/change-start-or-end-position-of-type-on-a-path.md", "summary": "Open when looking up Change start or end position of type on a path in InDesign.", "keywords": ["Change start or end position of type on a path"]},
-  {"topic": "Edit and format text", "file": "references/desktop/add-and-manage-text/type-on-a-path/edit-type-on-path/edit-and-format-text.md", "summary": "Open when looking up Edit and format text in InDesign.", "keywords": ["Edit and format text"]},
-  {"topic": "Flip type on a path", "file": "references/desktop/add-and-manage-text/type-on-a-path/edit-type-on-path/flip-type-on-a-path.md", "summary": "Open when looking up Flip type on a path in InDesign.", "keywords": ["Flip type on a path"]},
-  {"topic": "Slide type along a path", "file": "references/desktop/add-and-manage-text/type-on-a-path/edit-type-on-path/slide-type-along-a-path.md", "summary": "Open when looking up Slide type along a path in InDesign.", "keywords": ["Slide type along a path"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

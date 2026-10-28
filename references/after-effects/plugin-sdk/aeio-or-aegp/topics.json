@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "AEIOs - AEIO, or AEGP?", "file": "plugin-sdk/aeio-or-aegp/aeios-aeio-or-aegp.md", "summary": "Open when looking up AEIOs - AEIO, or AEGP? in After Effects.", "keywords": ["AEIOs - AEIO, or AEGP?"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

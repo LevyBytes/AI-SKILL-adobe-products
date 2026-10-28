@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "addItem", "file": "references/uxp/host-api/track-item-selection/static-methods/add-item.md", "summary": "Open when looking up addItem in Premiere Pro.", "keywords": ["addItem"]},
-  {"topic": "createEmptySelection", "file": "references/uxp/host-api/track-item-selection/static-methods/create-empty-selection.md", "summary": "Open when looking up createEmptySelection in Premiere Pro.", "keywords": ["createEmptySelection"]},
-  {"topic": "getTrackItems", "file": "references/uxp/host-api/track-item-selection/static-methods/get-track-items.md", "summary": "Open when looking up getTrackItems in Premiere Pro.", "keywords": ["getTrackItems"]},
-  {"topic": "removeItem", "file": "references/uxp/host-api/track-item-selection/static-methods/remove-item.md", "summary": "Open when looking up removeItem in Premiere Pro.", "keywords": ["removeItem"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

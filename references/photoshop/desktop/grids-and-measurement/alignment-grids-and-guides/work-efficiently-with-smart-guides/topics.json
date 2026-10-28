@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Align objects using Smart Guides", "file": "desktop/grids-and-measurement/alignment-grids-and-guides/work-efficiently-with-smart-guides/align-objects-using-smart-guides.md", "summary": "Open when looking up Align objects using Smart Guides in Photoshop.", "keywords": ["Align objects using Smart Guides"]},
+  {"topic": "Enable Smart Guides", "file": "desktop/grids-and-measurement/alignment-grids-and-guides/work-efficiently-with-smart-guides/enable-smart-guides.md", "summary": "Open when looking up Enable Smart Guides in Photoshop.", "keywords": ["Enable Smart Guides"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Prompt may not be aligned with Adobe generative AI user guidelines", "file": "web/troubleshoot/prompts-can-t-be-processed/prompt-guideline-restrictions.md", "summary": "Open when looking up Prompt may not be aligned with Adobe generative AI user guidelines in Firefly.", "keywords": ["Prompt may not be aligned with Adobe generative AI user guidelines"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

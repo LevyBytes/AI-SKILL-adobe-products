@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "ATC", "file": "document-model/font-types/atc.md", "summary": "Open when looking up ATC in InDesign.", "keywords": ["ATC"]},
+  {"topic": "BITMAP", "file": "document-model/font-types/bitmap.md", "summary": "Open when looking up BITMAP in InDesign.", "keywords": ["BITMAP"]},
+  {"topic": "CID", "file": "document-model/font-types/cid.md", "summary": "Open when looking up CID in InDesign.", "keywords": ["CID"]},
+  {"topic": "OCF", "file": "document-model/font-types/ocf.md", "summary": "Open when looking up OCF in InDesign.", "keywords": ["OCF"]},
+  {"topic": "OPENTYPE_CFF", "file": "document-model/font-types/opentypecff.md", "summary": "Open when looking up OPENTYPE_CFF in InDesign.", "keywords": ["OPENTYPE_CFF"]},
+  {"topic": "OPENTYPE_CID", "file": "document-model/font-types/opentypecid.md", "summary": "Open when looking up OPENTYPE_CID in InDesign.", "keywords": ["OPENTYPE_CID"]},
+  {"topic": "OPENTYPE_TT", "file": "document-model/font-types/opentypett.md", "summary": "Open when looking up OPENTYPE_TT in InDesign.", "keywords": ["OPENTYPE_TT"]},
+  {"topic": "TRUETYPE", "file": "document-model/font-types/truetype.md", "summary": "Open when looking up TRUETYPE in InDesign.", "keywords": ["TRUETYPE"]},
+  {"topic": "TYPE_1", "file": "document-model/font-types/type1.md", "summary": "Open when looking up TYPE_1 in InDesign.", "keywords": ["TYPE_1"]},
+  {"topic": "UNKNOWN", "file": "document-model/font-types/unknown.md", "summary": "Open when looking up UNKNOWN in InDesign.", "keywords": ["UNKNOWN"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

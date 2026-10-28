@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Pdf Settings Overview", "file": "desktop/create-documents/conversion-settings/pdf-settings-overview.md", "summary": "Open when looking up Pdf Settings Overview in Acrobat.", "keywords": ["Pdf Settings Overview"]},
+  {"topic": "Pdf Settings Overview references", "file": "desktop/create-documents/conversion-settings/pdf-settings-overview/reference-index.md", "summary": "Open when looking up Pdf Settings Overview in Acrobat.", "keywords": ["Pdf Settings Overview references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

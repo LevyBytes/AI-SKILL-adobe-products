@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "NamedGrid declaration", "file": "community-types/indesign/named-grid/declaration.md", "summary": "Open when looking up NamedGrid declaration in Shared Adobe platform.", "keywords": ["NamedGrid declaration"]},
+  {"topic": "NamedGrid event listeners", "file": "community-types/indesign/named-grid/event-listeners.md", "summary": "Open when looking up NamedGrid event listeners in Shared Adobe platform.", "keywords": ["NamedGrid event listeners"]},
+  {"topic": "NamedGrid identity and parent", "file": "community-types/indesign/named-grid/identity-and-parent.md", "summary": "Open when looking up NamedGrid identity and parent in Shared Adobe platform.", "keywords": ["NamedGrid identity and parent"]},
+  {"topic": "NamedGrid labels and metadata", "file": "community-types/indesign/named-grid/labels-and-metadata.md", "summary": "Open when looking up NamedGrid labels and metadata in Shared Adobe platform.", "keywords": ["NamedGrid labels and metadata"]},
+  {"topic": "NamedGrid object resolution", "file": "community-types/indesign/named-grid/object-resolution.md", "summary": "Open when looking up NamedGrid object resolution in Shared Adobe platform.", "keywords": ["NamedGrid object resolution"]},
+  {"topic": "NamedGrid.gridData", "file": "community-types/indesign/named-grid/grid-data.md", "summary": "Open when looking up NamedGrid.gridData in Shared Adobe platform.", "keywords": ["NamedGrid.gridData"]},
+  {"topic": "NamedGrid.preferences", "file": "community-types/indesign/named-grid/preferences.md", "summary": "Open when looking up NamedGrid.preferences in Shared Adobe platform.", "keywords": ["NamedGrid.preferences"]},
+  {"topic": "NamedGrid.properties", "file": "community-types/indesign/named-grid/properties.md", "summary": "Open when looking up NamedGrid.properties in Shared Adobe platform.", "keywords": ["NamedGrid.properties"]},
+  {"topic": "NamedGrid.remove", "file": "community-types/indesign/named-grid/remove.md", "summary": "Open when looking up NamedGrid.remove in Shared Adobe platform.", "keywords": ["NamedGrid.remove"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

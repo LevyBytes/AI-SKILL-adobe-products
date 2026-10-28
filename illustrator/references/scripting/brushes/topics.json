@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Brushes.getByName()", "file": "references/scripting/brushes/get-by-name.md", "summary": "Open when looking up Brushes.getByName() in Illustrator.", "keywords": ["Brushes.getByName()"]},
-  {"topic": "Brushes.index()", "file": "references/scripting/brushes/index.md", "summary": "Open when looking up Brushes.index() in Illustrator.", "keywords": ["Brushes.index()"]},
-  {"topic": "Brushes.length", "file": "references/scripting/brushes/length.md", "summary": "Open when looking up Brushes.length in Illustrator.", "keywords": ["Brushes.length"]},
-  {"topic": "Brushes.parent", "file": "references/scripting/brushes/parent.md", "summary": "Open when looking up Brushes.parent in Illustrator.", "keywords": ["Brushes.parent"]},
-  {"topic": "Brushes.typename", "file": "references/scripting/brushes/typename.md", "summary": "Open when looking up Brushes.typename in Illustrator.", "keywords": ["Brushes.typename"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

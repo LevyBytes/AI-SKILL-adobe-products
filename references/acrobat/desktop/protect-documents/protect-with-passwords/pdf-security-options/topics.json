@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Additional security options", "file": "desktop/protect-documents/protect-with-passwords/pdf-security-options/additional-security-options.md", "summary": "Open when looking up Additional security options in Acrobat.", "keywords": ["Additional security options"]},
+  {"topic": "Certificate security", "file": "desktop/protect-documents/protect-with-passwords/pdf-security-options/certificate-security.md", "summary": "Open when looking up Certificate security in Acrobat.", "keywords": ["Certificate security"]},
+  {"topic": "Password security options", "file": "desktop/protect-documents/protect-with-passwords/pdf-security-options/password-security-options.md", "summary": "Open when looking up Password security options in Acrobat.", "keywords": ["Password security options"]},
+  {"topic": "Security policies", "file": "desktop/protect-documents/protect-with-passwords/pdf-security-options/security-policies.md", "summary": "Open when looking up Security policies in Acrobat.", "keywords": ["Security policies"]},
+  {"topic": "Types of PDF security options", "file": "desktop/protect-documents/protect-with-passwords/pdf-security-options/types-of-pdf-security-options.md", "summary": "Open when looking up Types of PDF security options in Acrobat.", "keywords": ["Types of PDF security options"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

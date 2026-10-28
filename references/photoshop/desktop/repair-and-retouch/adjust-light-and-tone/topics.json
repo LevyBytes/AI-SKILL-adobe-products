@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Blending mode descriptions", "file": "desktop/repair-and-retouch/adjust-light-and-tone/blending-mode-descriptions.md", "summary": "Open when looking up Blending mode descriptions in Photoshop.", "keywords": ["Blending mode descriptions"]},
+  {"topic": "Blending mode descriptions references", "file": "desktop/repair-and-retouch/adjust-light-and-tone/blending-mode-descriptions/reference-index.md", "summary": "Open when looking up Blending mode descriptions in Photoshop.", "keywords": ["Blending mode descriptions references"]},
+  {"topic": "Darken the edges of your image to bring focus to the center", "file": "desktop/repair-and-retouch/adjust-light-and-tone/darken-the-edges-of-your-image-to-bring-focus-to-the-center.md", "summary": "Open when looking up Darken the edges of your image to bring focus to the center in Photoshop.", "keywords": ["Darken the edges of your image to bring focus to the center"]},
+  {"topic": "Dodge or burn image areas", "file": "desktop/repair-and-retouch/adjust-light-and-tone/dodge-or-burn-image-areas.md", "summary": "Open when looking up Dodge or burn image areas in Photoshop.", "keywords": ["Dodge or burn image areas"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

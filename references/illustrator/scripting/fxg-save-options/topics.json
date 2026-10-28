@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "FXGSaveOptions.artboardRange", "file": "scripting/fxg-save-options/artboard-range.md", "summary": "Open when looking up FXGSaveOptions.artboardRange in Illustrator.", "keywords": ["FXGSaveOptions.artboardRange"]},
+  {"topic": "FXGSaveOptions.blendsPolicy", "file": "scripting/fxg-save-options/blends-policy.md", "summary": "Open when looking up FXGSaveOptions.blendsPolicy in Illustrator.", "keywords": ["FXGSaveOptions.blendsPolicy"]},
+  {"topic": "FXGSaveOptions.downsampleLinkedImages", "file": "scripting/fxg-save-options/downsample-linked-images.md", "summary": "Open when looking up FXGSaveOptions.downsampleLinkedImages in Illustrator.", "keywords": ["FXGSaveOptions.downsampleLinkedImages"]},
+  {"topic": "FXGSaveOptions.filtersPolicy", "file": "scripting/fxg-save-options/filters-policy.md", "summary": "Open when looking up FXGSaveOptions.filtersPolicy in Illustrator.", "keywords": ["FXGSaveOptions.filtersPolicy"]},
+  {"topic": "FXGSaveOptions.gradientsPolicy", "file": "scripting/fxg-save-options/gradients-policy.md", "summary": "Open when looking up FXGSaveOptions.gradientsPolicy in Illustrator.", "keywords": ["FXGSaveOptions.gradientsPolicy"]},
+  {"topic": "FXGSaveOptions.includeUnusedSymbols", "file": "scripting/fxg-save-options/include-unused-symbols.md", "summary": "Open when looking up FXGSaveOptions.includeUnusedSymbols in Illustrator.", "keywords": ["FXGSaveOptions.includeUnusedSymbols"]},
+  {"topic": "FXGSaveOptions.preserveEditingCapabilities", "file": "scripting/fxg-save-options/preserve-editing-capabilities.md", "summary": "Open when looking up FXGSaveOptions.preserveEditingCapabilities in Illustrator.", "keywords": ["FXGSaveOptions.preserveEditingCapabilities"]},
+  {"topic": "FXGSaveOptions.saveMultipleArtboards", "file": "scripting/fxg-save-options/save-multiple-artboards.md", "summary": "Open when looking up FXGSaveOptions.saveMultipleArtboards in Illustrator.", "keywords": ["FXGSaveOptions.saveMultipleArtboards"]},
+  {"topic": "FXGSaveOptions.textPolicy", "file": "scripting/fxg-save-options/text-policy.md", "summary": "Open when looking up FXGSaveOptions.textPolicy in Illustrator.", "keywords": ["FXGSaveOptions.textPolicy"]},
+  {"topic": "FXGSaveOptions.version", "file": "scripting/fxg-save-options/version.md", "summary": "Open when looking up FXGSaveOptions.version in Illustrator.", "keywords": ["FXGSaveOptions.version"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Learn how to share your filled and signed documents with others.", "file": "web/share-filled-and-signed-documents/share-filled-and-signed-documents.md", "summary": "Open when looking up Learn how to share your filled and signed documents with others. in Acrobat.", "keywords": ["Learn how to share your filled and signed documents with others."]},
+  {"topic": "Send to get signatures from others", "file": "web/share-filled-and-signed-documents/send-to-get-signatures-from-others.md", "summary": "Open when looking up Send to get signatures from others in Acrobat.", "keywords": ["Send to get signatures from others"]},
+  {"topic": "Share via email", "file": "web/share-filled-and-signed-documents/share-via-email.md", "summary": "Open when looking up Share via email in Acrobat.", "keywords": ["Share via email"]},
+  {"topic": "Share via link", "file": "web/share-filled-and-signed-documents/share-via-link.md", "summary": "Open when looking up Share via link in Acrobat.", "keywords": ["Share via link"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

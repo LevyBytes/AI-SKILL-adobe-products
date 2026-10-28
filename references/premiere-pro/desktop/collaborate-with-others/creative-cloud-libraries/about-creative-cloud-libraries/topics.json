@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Across apps", "file": "desktop/collaborate-with-others/creative-cloud-libraries/about-creative-cloud-libraries/across-apps.md", "summary": "Open when looking up Across apps in Premiere Pro.", "keywords": ["Across apps"]},
+  {"topic": "Across computers", "file": "desktop/collaborate-with-others/creative-cloud-libraries/about-creative-cloud-libraries/across-computers.md", "summary": "Open when looking up Across computers in Premiere Pro.", "keywords": ["Across computers"]},
+  {"topic": "Across projects", "file": "desktop/collaborate-with-others/creative-cloud-libraries/about-creative-cloud-libraries/across-projects.md", "summary": "Open when looking up Across projects in Premiere Pro.", "keywords": ["Across projects"]},
+  {"topic": "The Libraries panel", "file": "desktop/collaborate-with-others/creative-cloud-libraries/about-creative-cloud-libraries/the-libraries-panel.md", "summary": "Open when looking up The Libraries panel in Premiere Pro.", "keywords": ["The Libraries panel"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Expand a nested list", "file": "desktop/get-started/preferences-and-settings/keyboard-shortcuts/expand-a-nested-list.md", "summary": "Open when looking up Expand a nested list in Acrobat.", "keywords": ["Expand a nested list"]},
+  {"topic": "Keys for working with forms", "file": "desktop/get-started/preferences-and-settings/keyboard-shortcuts/keys-for-working-with-forms.md", "summary": "Open when looking up Keys for working with forms in Acrobat.", "keywords": ["Keys for working with forms"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

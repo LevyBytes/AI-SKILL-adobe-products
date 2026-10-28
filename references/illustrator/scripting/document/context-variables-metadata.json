@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Document.activeDataset", "file": "scripting/document/active-dataset.md", "summary": "Open when looking up Document.activeDataset in Illustrator.", "keywords": ["Document.activeDataset"]},
+  {"topic": "Document.dataSets", "file": "scripting/document/data-sets.md", "summary": "Open when looking up Document.dataSets in Illustrator.", "keywords": ["Document.dataSets"]},
+  {"topic": "Document.exportVariables()", "file": "scripting/document/export-variables.md", "summary": "Open when looking up Document.exportVariables() in Illustrator.", "keywords": ["Document.exportVariables()"]},
+  {"topic": "Document.importVariables()", "file": "scripting/document/import-variables.md", "summary": "Open when looking up Document.importVariables() in Illustrator.", "keywords": ["Document.importVariables()"]},
+  {"topic": "Document.tags", "file": "scripting/document/tags.md", "summary": "Open when looking up Document.tags in Illustrator.", "keywords": ["Document.tags"]},
+  {"topic": "Document.variables", "file": "scripting/document/variables.md", "summary": "Open when looking up Document.variables in Illustrator.", "keywords": ["Document.variables"]},
+  {"topic": "Document.variablesLocked", "file": "scripting/document/variables-locked.md", "summary": "Open when looking up Document.variablesLocked in Illustrator.", "keywords": ["Document.variablesLocked"]},
+  {"topic": "Document.XMPString", "file": "scripting/document/xmp-string.md", "summary": "Open when looking up Document.XMPString in Illustrator.", "keywords": ["Document.XMPString"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

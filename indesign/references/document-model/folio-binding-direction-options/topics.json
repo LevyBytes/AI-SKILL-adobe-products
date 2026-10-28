@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "LEFT", "file": "references/document-model/folio-binding-direction-options/left.md", "summary": "Open when looking up LEFT in InDesign.", "keywords": ["LEFT"]},
-  {"topic": "RIGHT", "file": "references/document-model/folio-binding-direction-options/right.md", "summary": "Open when looking up RIGHT in InDesign.", "keywords": ["RIGHT"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

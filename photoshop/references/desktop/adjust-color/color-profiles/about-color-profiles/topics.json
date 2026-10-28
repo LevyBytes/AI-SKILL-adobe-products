@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Document profiles", "file": "references/desktop/adjust-color/color-profiles/about-color-profiles/document-profiles.md", "summary": "Open when looking up Document profiles in Photoshop.", "keywords": ["Document profiles"]},
-  {"topic": "Input device profiles", "file": "references/desktop/adjust-color/color-profiles/about-color-profiles/input-device-profiles.md", "summary": "Open when looking up Input device profiles in Photoshop.", "keywords": ["Input device profiles"]},
-  {"topic": "Monitor profiles", "file": "references/desktop/adjust-color/color-profiles/about-color-profiles/monitor-profiles.md", "summary": "Open when looking up Monitor profiles in Photoshop.", "keywords": ["Monitor profiles"]},
-  {"topic": "Output device profiles", "file": "references/desktop/adjust-color/color-profiles/about-color-profiles/output-device-profiles.md", "summary": "Open when looking up Output device profiles in Photoshop.", "keywords": ["Output device profiles"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

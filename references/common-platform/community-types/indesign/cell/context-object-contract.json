@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Cell declaration", "file": "community-types/indesign/cell/declaration.md", "summary": "Open when looking up Cell declaration in Shared Adobe platform.", "keywords": ["Cell declaration"]},
+  {"topic": "Cell identity and parent", "file": "community-types/indesign/cell/identity-and-parent.md", "summary": "Open when looking up Cell identity and parent in Shared Adobe platform.", "keywords": ["Cell identity and parent"]},
+  {"topic": "Cell labels and metadata", "file": "community-types/indesign/cell/labels-and-metadata.md", "summary": "Open when looking up Cell labels and metadata in Shared Adobe platform.", "keywords": ["Cell labels and metadata"]},
+  {"topic": "Cell object resolution", "file": "community-types/indesign/cell/object-resolution.md", "summary": "Open when looking up Cell object resolution in Shared Adobe platform.", "keywords": ["Cell object resolution"]},
+  {"topic": "Cell.properties", "file": "community-types/indesign/cell/properties.md", "summary": "Open when looking up Cell.properties in Shared Adobe platform.", "keywords": ["Cell.properties"]},
+  {"topic": "Cell.remove", "file": "community-types/indesign/cell/remove.md", "summary": "Open when looking up Cell.remove in Shared Adobe platform.", "keywords": ["Cell.remove"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

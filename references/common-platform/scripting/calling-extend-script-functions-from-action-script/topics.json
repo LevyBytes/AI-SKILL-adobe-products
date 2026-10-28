@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Communicating with the Flash application - Calling ExtendScript functions from ActionScript", "file": "scripting/calling-extend-script-functions-from-action-script/calling-extendscript-functions-from-actionscript.md", "summary": "Open when looking up Communicating with the Flash application - Calling ExtendScript functions from ActionScript in Shared Adobe platform.", "keywords": ["Communicating with the Flash application - Calling ExtendScript functions from ActionScript"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

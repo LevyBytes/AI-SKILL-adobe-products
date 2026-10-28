@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "getURL", "file": "references/scripting/doc/get-url.md", "summary": "Open when looking up getURL in Acrobat.", "keywords": ["getURL"]},
-  {"topic": "mailDoc", "file": "references/scripting/doc/mail-doc.md", "summary": "Open when looking up mailDoc in Acrobat.", "keywords": ["mailDoc"]},
-  {"topic": "mailForm", "file": "references/scripting/doc/mail-form.md", "summary": "Open when looking up mailForm in Acrobat.", "keywords": ["mailForm"]},
-  {"topic": "Doc.submitForm", "file": "references/scripting/doc/submit-form.md", "summary": "Open when looking up Doc.submitForm in Acrobat.", "keywords": ["Doc.submitForm"]},
-  {"topic": "Form submission examples", "file": "references/scripting/doc/submit-form-examples.md", "summary": "Open when looking up Form submission examples in Acrobat.", "keywords": ["Form submission examples"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

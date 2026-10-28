@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Create agreement templates", "file": "web/create-pdfs/create-pdfs-with-templates/create-agreement-templates.md", "summary": "Open when looking up Create agreement templates in Acrobat.", "keywords": ["Create agreement templates"]},
+  {"topic": "Create PDFs using legal templates", "file": "web/create-pdfs/create-pdfs-with-templates/create-pdfs-using-legal-templates.md", "summary": "Open when looking up Create PDFs using legal templates in Acrobat.", "keywords": ["Create PDFs using legal templates"]},
+  {"topic": "Design documents using Express templates", "file": "web/create-pdfs/create-pdfs-with-templates/design-documents-using-express-templates.md", "summary": "Open when looking up Design documents using Express templates in Acrobat.", "keywords": ["Design documents using Express templates"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

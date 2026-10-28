@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "EDITING_CONFLICT", "file": "document-model/editing-state/editingconflict.md", "summary": "Open when looking up EDITING_CONFLICT in InDesign.", "keywords": ["EDITING_CONFLICT"]},
+  {"topic": "EDITING_LOCALLY", "file": "document-model/editing-state/editinglocally.md", "summary": "Open when looking up EDITING_LOCALLY in InDesign.", "keywords": ["EDITING_LOCALLY"]},
+  {"topic": "EDITING_LOCALLY_LOCKED", "file": "document-model/editing-state/editinglocallylocked.md", "summary": "Open when looking up EDITING_LOCALLY_LOCKED in InDesign.", "keywords": ["EDITING_LOCALLY_LOCKED"]},
+  {"topic": "EDITING_NOWHERE", "file": "document-model/editing-state/editingnowhere.md", "summary": "Open when looking up EDITING_NOWHERE in InDesign.", "keywords": ["EDITING_NOWHERE"]},
+  {"topic": "EDITING_REMOTELY", "file": "document-model/editing-state/editingremotely.md", "summary": "Open when looking up EDITING_REMOTELY in InDesign.", "keywords": ["EDITING_REMOTELY"]},
+  {"topic": "EDITING_UNKNOWN", "file": "document-model/editing-state/editingunknown.md", "summary": "Open when looking up EDITING_UNKNOWN in InDesign.", "keywords": ["EDITING_UNKNOWN"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "JPEG output (seconds)", "file": "cloud-services/jpeg-output-seconds.md", "summary": "Open when looking up JPEG output (seconds) in Photoshop.", "keywords": ["JPEG output (seconds)"]},
+  {"topic": "JPEG output (seconds) references", "file": "cloud-services/jpeg-output-seconds/reference-index.md", "summary": "Open when looking up JPEG output (seconds) in Photoshop.", "keywords": ["JPEG output (seconds) references"]},
+  {"topic": "PNG output (seconds)", "file": "cloud-services/png-output-seconds.md", "summary": "Open when looking up PNG output (seconds) in Photoshop.", "keywords": ["PNG output (seconds)"]},
+  {"topic": "PNG output (seconds) references", "file": "cloud-services/png-output-seconds/reference-index.md", "summary": "Open when looking up PNG output (seconds) in Photoshop.", "keywords": ["PNG output (seconds) references"]},
+  {"topic": "Reading the numbers", "file": "cloud-services/reading-the-numbers.md", "summary": "Open when looking up Reading the numbers in Photoshop.", "keywords": ["Reading the numbers"]},
+  {"topic": "V2 Edit Api Benchmarking", "file": "cloud-services/v2-edit-api-benchmarking.md", "summary": "Open when looking up V2 Edit Api Benchmarking in Photoshop.", "keywords": ["V2 Edit Api Benchmarking"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

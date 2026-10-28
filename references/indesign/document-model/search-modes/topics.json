@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "COLOR_SEARCH", "file": "document-model/search-modes/colorsearch.md", "summary": "Open when looking up COLOR_SEARCH in InDesign.", "keywords": ["COLOR_SEARCH"]},
+  {"topic": "GLYPH_SEARCH", "file": "document-model/search-modes/glyphsearch.md", "summary": "Open when looking up GLYPH_SEARCH in InDesign.", "keywords": ["GLYPH_SEARCH"]},
+  {"topic": "GREP_SEARCH", "file": "document-model/search-modes/grepsearch.md", "summary": "Open when looking up GREP_SEARCH in InDesign.", "keywords": ["GREP_SEARCH"]},
+  {"topic": "OBJECT_SEARCH", "file": "document-model/search-modes/objectsearch.md", "summary": "Open when looking up OBJECT_SEARCH in InDesign.", "keywords": ["OBJECT_SEARCH"]},
+  {"topic": "TEXT_SEARCH", "file": "document-model/search-modes/textsearch.md", "summary": "Open when looking up TEXT_SEARCH in InDesign.", "keywords": ["TEXT_SEARCH"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

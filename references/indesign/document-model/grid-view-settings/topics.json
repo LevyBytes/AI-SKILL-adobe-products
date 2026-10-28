@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "ALIGN_VIEW_ENUM", "file": "document-model/grid-view-settings/alignviewenum.md", "summary": "Open when looking up ALIGN_VIEW_ENUM in InDesign.", "keywords": ["ALIGN_VIEW_ENUM"]},
+  {"topic": "GRID_AND_ZN_VIEW_ENUM", "file": "document-model/grid-view-settings/gridandznviewenum.md", "summary": "Open when looking up GRID_AND_ZN_VIEW_ENUM in InDesign.", "keywords": ["GRID_AND_ZN_VIEW_ENUM"]},
+  {"topic": "GRID_VIEW_ENUM", "file": "document-model/grid-view-settings/gridviewenum.md", "summary": "Open when looking up GRID_VIEW_ENUM in InDesign.", "keywords": ["GRID_VIEW_ENUM"]},
+  {"topic": "ZN_VIEW_ENUM", "file": "document-model/grid-view-settings/znviewenum.md", "summary": "Open when looking up ZN_VIEW_ENUM in InDesign.", "keywords": ["ZN_VIEW_ENUM"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

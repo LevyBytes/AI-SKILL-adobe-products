@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Quick Start", "file": "uxp/icons-for-your-plugins/quick-start.md", "summary": "Open when looking up Quick Start in Photoshop.", "keywords": ["Quick Start"]},
+  {"topic": "Supporting multiple panels", "file": "uxp/icons-for-your-plugins/supporting-multiple-panels.md", "summary": "Open when looking up Supporting multiple panels in Photoshop.", "keywords": ["Supporting multiple panels"]},
+  {"topic": "Supporting Themes", "file": "uxp/icons-for-your-plugins/supporting-themes.md", "summary": "Open when looking up Supporting Themes in Photoshop.", "keywords": ["Supporting Themes"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

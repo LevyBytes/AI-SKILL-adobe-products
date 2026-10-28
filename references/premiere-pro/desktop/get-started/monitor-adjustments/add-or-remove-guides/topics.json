@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Add guides", "file": "desktop/get-started/monitor-adjustments/add-or-remove-guides/add-guides.md", "summary": "Open when looking up Add guides in Premiere Pro.", "keywords": ["Add guides"]},
+  {"topic": "Remove guides", "file": "desktop/get-started/monitor-adjustments/add-or-remove-guides/remove-guides.md", "summary": "Open when looking up Remove guides in Premiere Pro.", "keywords": ["Remove guides"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Set form fields for calculations", "file": "references/desktop/work-with-pdf-forms/customize-pdf-form-fields/configure-form-fields-for-calculations/set-form-fields-for-calculations.md", "summary": "Open when looking up Set form fields for calculations in Acrobat.", "keywords": ["Set form fields for calculations"]},
-  {"topic": "Set the calculation order of form fields", "file": "references/desktop/work-with-pdf-forms/customize-pdf-form-fields/configure-form-fields-for-calculations/set-the-calculation-order-of-form-fields.md", "summary": "Open when looking up Set the calculation order of form fields in Acrobat.", "keywords": ["Set the calculation order of form fields"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

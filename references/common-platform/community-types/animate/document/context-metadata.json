@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Document.addDataToDocument", "file": "community-types/animate/document/add-data-to-document.md", "summary": "Open when looking up Document.addDataToDocument in Shared Adobe platform.", "keywords": ["Document.addDataToDocument"]},
+  {"topic": "Document.addDataToSelection", "file": "community-types/animate/document/add-data-to-selection.md", "summary": "Open when looking up Document.addDataToSelection in Shared Adobe platform.", "keywords": ["Document.addDataToSelection"]},
+  {"topic": "Document.documentHasData", "file": "community-types/animate/document/document-has-data.md", "summary": "Open when looking up Document.documentHasData in Shared Adobe platform.", "keywords": ["Document.documentHasData"]},
+  {"topic": "Document.getDataFromDocument", "file": "community-types/animate/document/get-data-from-document.md", "summary": "Open when looking up Document.getDataFromDocument in Shared Adobe platform.", "keywords": ["Document.getDataFromDocument"]},
+  {"topic": "Document.getMetadata", "file": "community-types/animate/document/get-metadata.md", "summary": "Open when looking up Document.getMetadata in Shared Adobe platform.", "keywords": ["Document.getMetadata"]},
+  {"topic": "Document.removeDataFromDocument", "file": "community-types/animate/document/remove-data-from-document.md", "summary": "Open when looking up Document.removeDataFromDocument in Shared Adobe platform.", "keywords": ["Document.removeDataFromDocument"]},
+  {"topic": "Document.removeDataFromSelection", "file": "community-types/animate/document/remove-data-from-selection.md", "summary": "Open when looking up Document.removeDataFromSelection in Shared Adobe platform.", "keywords": ["Document.removeDataFromSelection"]},
+  {"topic": "Document.setMetadata", "file": "community-types/animate/document/set-metadata.md", "summary": "Open when looking up Document.setMetadata in Shared Adobe platform.", "keywords": ["Document.setMetadata"]},
+  {"topic": "Document.xmlPanel", "file": "community-types/animate/document/xml-panel.md", "summary": "Open when looking up Document.xmlPanel in Shared Adobe platform.", "keywords": ["Document.xmlPanel"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

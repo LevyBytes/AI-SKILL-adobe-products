@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Row.contents", "file": "community-types/indesign/row/contents.md", "summary": "Open when looking up Row.contents in Shared Adobe platform.", "keywords": ["Row.contents"]},
+  {"topic": "Row.recompose", "file": "community-types/indesign/row/recompose.md", "summary": "Open when looking up Row.recompose in Shared Adobe platform.", "keywords": ["Row.recompose"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

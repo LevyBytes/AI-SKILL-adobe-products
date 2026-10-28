@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Application.loadMotionPreset", "file": "community-types/indesign/application/load-motion-preset.md", "summary": "Open when looking up Application.loadMotionPreset in Shared Adobe platform.", "keywords": ["Application.loadMotionPreset"]},
+  {"topic": "Application.motionPresets", "file": "community-types/indesign/application/motion-presets.md", "summary": "Open when looking up Application.motionPresets in Shared Adobe platform.", "keywords": ["Application.motionPresets"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

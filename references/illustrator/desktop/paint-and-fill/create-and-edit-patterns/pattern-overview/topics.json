@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "About patterns in Illustrator", "file": "desktop/paint-and-fill/create-and-edit-patterns/pattern-overview/about-patterns-in-illustrator.md", "summary": "Open when looking up About patterns in Illustrator in Illustrator.", "keywords": ["About patterns in Illustrator"]},
+  {"topic": "Types of patterns", "file": "desktop/paint-and-fill/create-and-edit-patterns/pattern-overview/types-of-patterns.md", "summary": "Open when looking up Types of patterns in Illustrator.", "keywords": ["Types of patterns"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

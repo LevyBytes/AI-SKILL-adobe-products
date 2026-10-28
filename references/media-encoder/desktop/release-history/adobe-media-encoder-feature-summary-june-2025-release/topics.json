@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/media-encoder", "topics": [
+  {"topic": "Support for NVIDIA Blackwell Architecture GPUs", "file": "desktop/release-history/adobe-media-encoder-feature-summary-june-2025-release/support-for-nvidia-blackwell-architecture-gpus.md", "summary": "Open when looking up Support for NVIDIA Blackwell Architecture GPUs in Media Encoder.", "keywords": ["Support for NVIDIA Blackwell Architecture GPUs"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "ExtendScript overview - External communication", "file": "references/scripting/external-communication/extend-script-overview-external-communication.md", "summary": "Open when looking up ExtendScript overview - External communication in Shared Adobe platform.", "keywords": ["ExtendScript overview - External communication"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

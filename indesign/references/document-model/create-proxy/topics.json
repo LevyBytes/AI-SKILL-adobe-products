@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "ALWAYS", "file": "references/document-model/create-proxy/always.md", "summary": "Open when looking up ALWAYS in InDesign.", "keywords": ["ALWAYS"]},
-  {"topic": "AS_NEEDED", "file": "references/document-model/create-proxy/asneeded.md", "summary": "Open when looking up AS_NEEDED in InDesign.", "keywords": ["AS_NEEDED"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Example: Launch Application with URL Scheme", "file": "uxp/using-the-shell-api/example-launch-application-with-url-scheme.md", "summary": "Open when looking up Example: Launch Application with URL Scheme in Premiere Pro.", "keywords": ["Example: Launch Application with URL Scheme"]},
+  {"topic": "Example: Open with Default Application", "file": "uxp/using-the-shell-api/example-open-with-default-application.md", "summary": "Open when looking up Example: Open with Default Application in Premiere Pro.", "keywords": ["Example: Open with Default Application"]},
+  {"topic": "Platform-specific Schemes", "file": "uxp/using-the-shell-api/platform-specific-schemes.md", "summary": "Open when looking up Platform-specific Schemes in Premiere Pro.", "keywords": ["Platform-specific Schemes"]},
+  {"topic": "Run CLI commands", "file": "uxp/using-the-shell-api/run-cli-commands.md", "summary": "Open when looking up Run CLI commands in Premiere Pro.", "keywords": ["Run CLI commands"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

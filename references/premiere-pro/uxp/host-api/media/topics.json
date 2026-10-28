@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "createSetStartAction", "file": "uxp/host-api/media/create-set-start-action.md", "summary": "Open when looking up createSetStartAction in Premiere Pro.", "keywords": ["createSetStartAction"]},
+  {"topic": "Media - Properties", "file": "uxp/host-api/media/media-properties.md", "summary": "Open when looking up Media - Properties in Premiere Pro.", "keywords": ["Media - Properties"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

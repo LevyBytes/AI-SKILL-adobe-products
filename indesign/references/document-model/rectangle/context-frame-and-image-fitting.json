@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "clearFrameFittingOptions", "file": "references/document-model/rectangle/clear-frame-fitting-options.md", "summary": "Open when looking up clearFrameFittingOptions in InDesign.", "keywords": ["clearFrameFittingOptions"]},
-  {"topic": "contentType", "file": "references/document-model/rectangle/content-type.md", "summary": "Open when looking up contentType in InDesign.", "keywords": ["contentType"]},
-  {"topic": "frameFittingOptions", "file": "references/document-model/rectangle/frame-fitting-options.md", "summary": "Open when looking up frameFittingOptions in InDesign.", "keywords": ["frameFittingOptions"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

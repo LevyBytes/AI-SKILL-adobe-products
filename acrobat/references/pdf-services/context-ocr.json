@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Ocr Pdf", "file": "references/pdf-services/ocr-pdf.md", "summary": "Open when looking up Ocr Pdf in Acrobat.", "keywords": ["Ocr Pdf"]},
-  {"topic": "OCR with specific language", "file": "references/pdf-services/ocr-with-specific-language.md", "summary": "Open when looking up OCR with specific language in Acrobat.", "keywords": ["OCR with specific language"]},
-  {"topic": "OCR with specific language references", "file": "references/pdf-services/ocr-with-specific-language/reference-index.md", "summary": "Open when looking up OCR with specific language in Acrobat.", "keywords": ["OCR with specific language references"]},
-  {"topic": "Text recognition (OCR)", "file": "references/pdf-services/text-recognition-ocr.md", "summary": "Open when looking up Text recognition (OCR) in Acrobat.", "keywords": ["Text recognition (OCR)"]},
-  {"topic": "Text recognition (OCR) references", "file": "references/pdf-services/text-recognition-ocr/reference-index.md", "summary": "Open when looking up Text recognition (OCR) in Acrobat.", "keywords": ["Text recognition (OCR) references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

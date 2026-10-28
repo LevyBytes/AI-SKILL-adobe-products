@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Count queuing strategy references", "file": "uxp/count-queuing-strategy/reference-index.md", "summary": "Open when looking up Count queuing strategy in Photoshop.", "keywords": ["Count queuing strategy references"]},
+  {"topic": "Network and data references", "file": "uxp/network-and-data/reference-index.md", "summary": "Open when looking up Network and data in Photoshop.", "keywords": ["Network and data references"]},
+  {"topic": "Network I/O", "file": "uxp/network-i-o.md", "summary": "Open when looking up Network I/O in Photoshop.", "keywords": ["Network I/O"]},
+  {"topic": "Readable stream default controller references", "file": "uxp/readable-stream-default-controller/reference-index.md", "summary": "Open when looking up Readable stream default controller in Photoshop.", "keywords": ["Readable stream default controller references"]},
+  {"topic": "Streams", "file": "uxp/streams.md", "summary": "Open when looking up Streams in Photoshop.", "keywords": ["Streams"]},
+  {"topic": "Transform stream default controller references", "file": "uxp/transform-stream-default-controller/reference-index.md", "summary": "Open when looking up Transform stream default controller in Photoshop.", "keywords": ["Transform stream default controller references"]},
+  {"topic": "Window crypto references", "file": "uxp/window-crypto/reference-index.md", "summary": "Open when looking up Window crypto in Photoshop.", "keywords": ["Window crypto references"]},
+  {"topic": "Writable stream default controller references", "file": "uxp/writable-stream-default-controller/reference-index.md", "summary": "Open when looking up Writable stream default controller in Photoshop.", "keywords": ["Writable stream default controller references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

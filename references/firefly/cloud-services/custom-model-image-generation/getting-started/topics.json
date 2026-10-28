@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Credentials", "file": "cloud-services/custom-model-image-generation/getting-started/credentials.md", "summary": "Open when looking up Credentials in Firefly.", "keywords": ["Credentials"]},
+  {"topic": "cURL", "file": "cloud-services/custom-model-image-generation/getting-started/c-url.md", "summary": "Open when looking up cURL in Firefly.", "keywords": ["cURL"]},
+  {"topic": "JavaScript", "file": "cloud-services/custom-model-image-generation/getting-started/java-script.md", "summary": "Open when looking up JavaScript in Firefly.", "keywords": ["JavaScript"]},
+  {"topic": "Python", "file": "cloud-services/custom-model-image-generation/getting-started/python.md", "summary": "Open when looking up Python in Firefly.", "keywords": ["Python"]},
+  {"topic": "Retrieve an access token", "file": "cloud-services/custom-model-image-generation/getting-started/retrieve-an-access-token.md", "summary": "Open when looking up Retrieve an access token in Firefly.", "keywords": ["Retrieve an access token"]},
+  {"topic": "Set up your environment", "file": "cloud-services/custom-model-image-generation/getting-started/set-up-your-environment.md", "summary": "Open when looking up Set up your environment in Firefly.", "keywords": ["Set up your environment"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

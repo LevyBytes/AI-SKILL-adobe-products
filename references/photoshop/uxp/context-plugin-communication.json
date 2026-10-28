@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Messaging", "file": "uxp/messaging.md", "summary": "Open when looking up Messaging in Photoshop.", "keywords": ["Messaging"]},
+  {"topic": "Messaging references", "file": "uxp/messaging/reference-index.md", "summary": "Open when looking up Messaging in Photoshop.", "keywords": ["Messaging references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Export files to different formats references", "file": "desktop/save-and-export/file-formats/reference-index.md", "summary": "Open when looking up Export files to different formats in Photoshop.", "keywords": ["Export files to different formats references"]},
+  {"topic": "Export To Cloud", "file": "desktop/save-and-export/export-to-cloud.md", "summary": "Open when looking up Export To Cloud in Photoshop.", "keywords": ["Export To Cloud"]},
+  {"topic": "Export To Cloud references", "file": "desktop/save-and-export/export-to-cloud/reference-index.md", "summary": "Open when looking up Export To Cloud in Photoshop.", "keywords": ["Export To Cloud references"]},
+  {"topic": "Metadata css and content credentials references", "file": "desktop/save-and-export/metadata-css-and-content-credentials/reference-index.md", "summary": "Open when looking up Metadata css and content credentials in Photoshop.", "keywords": ["Metadata css and content credentials references"]},
+  {"topic": "Save files references", "file": "desktop/save-and-export/save-files/reference-index.md", "summary": "Open when looking up Save files in Photoshop.", "keywords": ["Save files references"]},
+  {"topic": "Use Content Credentials", "file": "desktop/save-and-export/use-content-credentials.md", "summary": "Open when looking up Use Content Credentials in Photoshop.", "keywords": ["Use Content Credentials"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Appearance (_appearance_)", "file": "references/pdf-services/watermark-parameters/appearance-appearance.md", "summary": "Open when looking up Appearance (_appearance_) in Acrobat.", "keywords": ["Appearance (_appearance_)"]},
-  {"topic": "Page ranges (_pageRanges_)", "file": "references/pdf-services/watermark-parameters/page-ranges-page-ranges.md", "summary": "Open when looking up Page ranges (_pageRanges_) in Acrobat.", "keywords": ["Page ranges (_pageRanges_)"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

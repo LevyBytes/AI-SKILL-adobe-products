@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Polygons collection iteration", "file": "community-types/indesign/polygons/collection-iteration.md", "summary": "Open when looking up Polygons collection iteration in Shared Adobe platform.", "keywords": ["Polygons collection iteration"]},
+  {"topic": "Polygons declaration", "file": "community-types/indesign/polygons/declaration.md", "summary": "Open when looking up Polygons declaration in Shared Adobe platform.", "keywords": ["Polygons declaration"]},
+  {"topic": "Polygons named and indexed items", "file": "community-types/indesign/polygons/named-and-indexed-items.md", "summary": "Open when looking up Polygons named and indexed items in Shared Adobe platform.", "keywords": ["Polygons named and indexed items"]},
+  {"topic": "Polygons.add", "file": "community-types/indesign/polygons/add.md", "summary": "Open when looking up Polygons.add in Shared Adobe platform.", "keywords": ["Polygons.add"]},
+  {"topic": "Polygons.count", "file": "community-types/indesign/polygons/count.md", "summary": "Open when looking up Polygons.count in Shared Adobe platform.", "keywords": ["Polygons.count"]},
+  {"topic": "Polygons.IndexSignature", "file": "community-types/indesign/polygons/index-signature.md", "summary": "Open when looking up Polygons.IndexSignature in Shared Adobe platform.", "keywords": ["Polygons.IndexSignature"]},
+  {"topic": "Polygons.itemByRange", "file": "community-types/indesign/polygons/item-by-range.md", "summary": "Open when looking up Polygons.itemByRange in Shared Adobe platform.", "keywords": ["Polygons.itemByRange"]},
+  {"topic": "Polygons.length", "file": "community-types/indesign/polygons/length.md", "summary": "Open when looking up Polygons.length in Shared Adobe platform.", "keywords": ["Polygons.length"]},
+  {"topic": "Polygons.toSource", "file": "community-types/indesign/polygons/to-source.md", "summary": "Open when looking up Polygons.toSource in Shared Adobe platform.", "keywords": ["Polygons.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

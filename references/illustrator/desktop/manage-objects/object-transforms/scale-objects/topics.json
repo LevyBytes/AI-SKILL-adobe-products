@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Scale objects by a specific percentage", "file": "desktop/manage-objects/object-transforms/scale-objects/scale-objects-by-a-specific-percentage.md", "summary": "Open when looking up Scale objects by a specific percentage in Illustrator.", "keywords": ["Scale objects by a specific percentage"]},
+  {"topic": "Scale objects to a specific width and height", "file": "desktop/manage-objects/object-transforms/scale-objects/scale-objects-to-a-specific-width-and-height.md", "summary": "Open when looking up Scale objects to a specific width and height in Illustrator.", "keywords": ["Scale objects to a specific width and height"]},
+  {"topic": "Scale objects with the bounding box", "file": "desktop/manage-objects/object-transforms/scale-objects/scale-objects-with-the-bounding-box.md", "summary": "Open when looking up Scale objects with the bounding box in Illustrator.", "keywords": ["Scale objects with the bounding box"]},
+  {"topic": "Scale objects with the Scale tool", "file": "desktop/manage-objects/object-transforms/scale-objects/scale-objects-with-the-scale-tool.md", "summary": "Open when looking up Scale objects with the Scale tool in Illustrator.", "keywords": ["Scale objects with the Scale tool"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

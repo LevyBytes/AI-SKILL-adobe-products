@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "app.fonts and TextFont classes", "file": "references/uxp/release-history/beta-23-0-build-65-2021-09-03/app-fonts-and-text-font-classes.md", "summary": "Open when looking up app.fonts and TextFont classes in Photoshop.", "keywords": ["app.fonts and TextFont classes"]},
-  {"topic": "Document Color Profile APIs", "file": "references/uxp/release-history/beta-23-0-build-65-2021-09-03/document-color-profile-apis.md", "summary": "Open when looking up Document Color Profile APIs in Photoshop.", "keywords": ["Document Color Profile APIs"]},
-  {"topic": "Document Properties", "file": "references/uxp/release-history/beta-23-0-build-65-2021-09-03/document-properties.md", "summary": "Open when looking up Document Properties in Photoshop.", "keywords": ["Document Properties"]},
-  {"topic": "Layer Transformations", "file": "references/uxp/release-history/beta-23-0-build-65-2021-09-03/layer-transformations.md", "summary": "Open when looking up Layer Transformations in Photoshop.", "keywords": ["Layer Transformations"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

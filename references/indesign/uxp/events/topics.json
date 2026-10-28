@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Understanding Event Scripting", "file": "uxp/events/understanding-event-scripting.md", "summary": "Open when looking up Understanding Event Scripting in InDesign.", "keywords": ["Understanding Event Scripting"]},
+  {"topic": "Working with Event Listeners", "file": "uxp/events/working-with-event-listeners.md", "summary": "Open when looking up Working with Event Listeners in InDesign.", "keywords": ["Working with Event Listeners"]},
+  {"topic": "Writing events script to run throughout the session", "file": "uxp/events/writing-events-script-to-run-throughout-the-session.md", "summary": "Open when looking up Writing events script to run throughout the session in InDesign.", "keywords": ["Writing events script to run throughout the session"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

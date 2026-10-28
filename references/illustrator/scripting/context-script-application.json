@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Launching and activating illustrator references", "file": "scripting/launching-and-activating-illustrator/reference-index.md", "summary": "Open when looking up Launching and activating illustrator in Illustrator.", "keywords": ["Launching and activating illustrator references"]},
+  {"topic": "Launching and quitting Illustrator from a script", "file": "scripting/launching-and-quitting-illustrator-from-a-script.md", "summary": "Open when looking up Launching and quitting Illustrator from a script in Illustrator.", "keywords": ["Launching and quitting Illustrator from a script"]},
+  {"topic": "Quitting illustrator references", "file": "scripting/quitting-illustrator/reference-index.md", "summary": "Open when looking up Quitting illustrator in Illustrator.", "keywords": ["Quitting illustrator references"]},
+  {"topic": "Selected objects references", "file": "scripting/selected-objects/reference-index.md", "summary": "Open when looking up Selected objects in Illustrator.", "keywords": ["Selected objects references"]},
+  {"topic": "Working with selections", "file": "scripting/working-with-selections.md", "summary": "Open when looking up Working with selections in Illustrator.", "keywords": ["Working with selections"]},
+  {"topic": "Working with selections references", "file": "scripting/working-with-selections/reference-index.md", "summary": "Open when looking up Working with selections in Illustrator.", "keywords": ["Working with selections references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

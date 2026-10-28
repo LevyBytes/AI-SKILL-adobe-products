@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Localizing ExtendScript strings - Testing localization", "file": "references/scripting/testing-localization/localizing-extend-script-strings-testing-localization.md", "summary": "Open when looking up Localizing ExtendScript strings - Testing localization in Shared Adobe platform.", "keywords": ["Localizing ExtendScript strings - Testing localization"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

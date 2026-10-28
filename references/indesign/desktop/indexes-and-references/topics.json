@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Add a Table of Contents", "file": "desktop/indexes-and-references/add-a-table-of-contents.md", "summary": "Open when looking up Add a Table of Contents in InDesign.", "keywords": ["Add a Table of Contents"]},
+  {"topic": "Add a Table of Contents references", "file": "desktop/indexes-and-references/add-a-table-of-contents/reference-index.md", "summary": "Open when looking up Add a Table of Contents in InDesign.", "keywords": ["Add a Table of Contents references"]},
+  {"topic": "Create an Index", "file": "desktop/indexes-and-references/create-an-index.md", "summary": "Open when looking up Create an Index in InDesign.", "keywords": ["Create an Index"]},
+  {"topic": "Create an Index references", "file": "desktop/indexes-and-references/create-an-index/reference-index.md", "summary": "Open when looking up Create an Index in InDesign.", "keywords": ["Create an Index references"]},
+  {"topic": "Footnotes and endnotes", "file": "desktop/indexes-and-references/footnotes-and-endnotes.md", "summary": "Open when looking up Footnotes and endnotes in InDesign.", "keywords": ["Footnotes and endnotes"]},
+  {"topic": "Footnotes and endnotes references", "file": "desktop/indexes-and-references/footnotes-and-endnotes/reference-index.md", "summary": "Open when looking up Footnotes and endnotes in InDesign.", "keywords": ["Footnotes and endnotes references"]},
+  {"topic": "References and bookmarks", "file": "desktop/indexes-and-references/references-and-bookmarks.md", "summary": "Open when looking up References and bookmarks in InDesign.", "keywords": ["References and bookmarks"]},
+  {"topic": "References and bookmarks references", "file": "desktop/indexes-and-references/references-and-bookmarks/reference-index.md", "summary": "Open when looking up References and bookmarks in InDesign.", "keywords": ["References and bookmarks references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

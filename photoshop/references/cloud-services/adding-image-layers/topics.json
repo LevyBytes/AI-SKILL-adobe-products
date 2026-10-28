@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "V1 request", "file": "references/cloud-services/adding-image-layers/v1-request.md", "summary": "Open when looking up V1 request in Photoshop.", "keywords": ["V1 request"]},
-  {"topic": "V2 request", "file": "references/cloud-services/adding-image-layers/v2-request.md", "summary": "Open when looking up V2 request in Photoshop.", "keywords": ["V2 request"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

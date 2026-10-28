@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "AEGP Suites - Persistent Data Suite", "file": "plugin-sdk/persistent-data-suite/aegp-suites-persistent-data-suite.md", "summary": "Open when looking up AEGP Suites - Persistent Data Suite in After Effects.", "keywords": ["AEGP Suites - Persistent Data Suite"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

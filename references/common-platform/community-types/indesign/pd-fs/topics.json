@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "PDFs collection iteration", "file": "community-types/indesign/pd-fs/collection-iteration.md", "summary": "Open when looking up PDFs collection iteration in Shared Adobe platform.", "keywords": ["PDFs collection iteration"]},
+  {"topic": "PDFs declaration", "file": "community-types/indesign/pd-fs/declaration.md", "summary": "Open when looking up PDFs declaration in Shared Adobe platform.", "keywords": ["PDFs declaration"]},
+  {"topic": "PDFs named and indexed items", "file": "community-types/indesign/pd-fs/named-and-indexed-items.md", "summary": "Open when looking up PDFs named and indexed items in Shared Adobe platform.", "keywords": ["PDFs named and indexed items"]},
+  {"topic": "PDFs.count", "file": "community-types/indesign/pd-fs/count.md", "summary": "Open when looking up PDFs.count in Shared Adobe platform.", "keywords": ["PDFs.count"]},
+  {"topic": "PDFs.IndexSignature", "file": "community-types/indesign/pd-fs/index-signature.md", "summary": "Open when looking up PDFs.IndexSignature in Shared Adobe platform.", "keywords": ["PDFs.IndexSignature"]},
+  {"topic": "PDFs.itemByRange", "file": "community-types/indesign/pd-fs/item-by-range.md", "summary": "Open when looking up PDFs.itemByRange in Shared Adobe platform.", "keywords": ["PDFs.itemByRange"]},
+  {"topic": "PDFs.length", "file": "community-types/indesign/pd-fs/length.md", "summary": "Open when looking up PDFs.length in Shared Adobe platform.", "keywords": ["PDFs.length"]},
+  {"topic": "PDFs.toSource", "file": "community-types/indesign/pd-fs/to-source.md", "summary": "Open when looking up PDFs.toSource in Shared Adobe platform.", "keywords": ["PDFs.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Fixed", "file": "uxp/release-history/uxp-v7-1/fixed.md", "summary": "Open when looking up Fixed in InDesign.", "keywords": ["Fixed"]},
+  {"topic": "New", "file": "uxp/release-history/uxp-v7-1/new.md", "summary": "Open when looking up New in InDesign.", "keywords": ["New"]},
+  {"topic": "Updated", "file": "uxp/release-history/uxp-v7-1/updated.md", "summary": "Open when looking up Updated in InDesign.", "keywords": ["Updated"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

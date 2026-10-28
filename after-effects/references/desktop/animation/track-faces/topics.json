@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "Face Tracking", "file": "references/desktop/animation/track-faces/face-tracking.md", "summary": "Open when looking up Face Tracking in After Effects.", "keywords": ["Face Tracking"]},
-  {"topic": "Face Tracking references", "file": "references/desktop/animation/track-faces/face-tracking/reference-index.md", "summary": "Open when looking up Face Tracking in After Effects.", "keywords": ["Face Tracking references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

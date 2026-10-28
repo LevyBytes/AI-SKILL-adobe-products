@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Object Matte Tool", "file": "desktop/roto-brush-and-mattes/roto-brush/ai-powered-object-matte/object-matte-tool.md", "summary": "Open when looking up Object Matte Tool in After Effects.", "keywords": ["Object Matte Tool"]},
+  {"topic": "Quick Selection Tool", "file": "desktop/roto-brush-and-mattes/roto-brush/ai-powered-object-matte/quick-selection-tool.md", "summary": "Open when looking up Quick Selection Tool in After Effects.", "keywords": ["Quick Selection Tool"]},
+  {"topic": "Refine Edge Tool", "file": "desktop/roto-brush-and-mattes/roto-brush/ai-powered-object-matte/refine-edge-tool.md", "summary": "Open when looking up Refine Edge Tool in After Effects.", "keywords": ["Refine Edge Tool"]},
+  {"topic": "Selection Brush Tool", "file": "desktop/roto-brush-and-mattes/roto-brush/ai-powered-object-matte/selection-brush-tool.md", "summary": "Open when looking up Selection Brush Tool in After Effects.", "keywords": ["Selection Brush Tool"]},
+  {"topic": "Use Object Matte in your composition", "file": "desktop/roto-brush-and-mattes/roto-brush/ai-powered-object-matte/use-object-matte-in-your-composition.md", "summary": "Open when looking up Use Object Matte in your composition in After Effects.", "keywords": ["Use Object Matte in your composition"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

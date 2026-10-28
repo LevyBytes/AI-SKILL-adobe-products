@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "ExtendScript overview - Interapplication communication and messaging", "file": "references/scripting/interapplication-communication-and-messaging/interapplication-communication-and-messaging.md", "summary": "Open when looking up ExtendScript overview - Interapplication communication and messaging in Shared Adobe platform.", "keywords": ["ExtendScript overview - Interapplication communication and messaging"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

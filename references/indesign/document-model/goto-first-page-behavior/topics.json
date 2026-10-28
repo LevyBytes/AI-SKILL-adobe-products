@@ -1,0 +1,23 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "addEventListener", "file": "document-model/goto-first-page-behavior/add-event-listener.md", "summary": "Open when looking up addEventListener in InDesign.", "keywords": ["addEventListener"]},
+  {"topic": "behaviorEvent", "file": "document-model/goto-first-page-behavior/behavior-event.md", "summary": "Open when looking up behaviorEvent in InDesign.", "keywords": ["behaviorEvent"]},
+  {"topic": "enableBehavior", "file": "document-model/goto-first-page-behavior/enable-behavior.md", "summary": "Open when looking up enableBehavior in InDesign.", "keywords": ["enableBehavior"]},
+  {"topic": "eventListeners", "file": "document-model/goto-first-page-behavior/event-listeners.md", "summary": "Open when looking up eventListeners in InDesign.", "keywords": ["eventListeners"]},
+  {"topic": "events", "file": "document-model/goto-first-page-behavior/events.md", "summary": "Open when looking up events in InDesign.", "keywords": ["events"]},
+  {"topic": "extractLabel", "file": "document-model/goto-first-page-behavior/extract-label.md", "summary": "Open when looking up extractLabel in InDesign.", "keywords": ["extractLabel"]},
+  {"topic": "getElements", "file": "document-model/goto-first-page-behavior/get-elements.md", "summary": "Open when looking up getElements in InDesign.", "keywords": ["getElements"]},
+  {"topic": "id", "file": "document-model/goto-first-page-behavior/id.md", "summary": "Open when looking up id in InDesign.", "keywords": ["id"]},
+  {"topic": "index", "file": "document-model/goto-first-page-behavior/index.md", "summary": "Open when looking up index in InDesign.", "keywords": ["index"]},
+  {"topic": "insertLabel", "file": "document-model/goto-first-page-behavior/insert-label.md", "summary": "Open when looking up insertLabel in InDesign.", "keywords": ["insertLabel"]},
+  {"topic": "isValid", "file": "document-model/goto-first-page-behavior/is-valid.md", "summary": "Open when looking up isValid in InDesign.", "keywords": ["isValid"]},
+  {"topic": "label", "file": "document-model/goto-first-page-behavior/label.md", "summary": "Open when looking up label in InDesign.", "keywords": ["label"]},
+  {"topic": "name", "file": "document-model/goto-first-page-behavior/name.md", "summary": "Open when looking up name in InDesign.", "keywords": ["name"]},
+  {"topic": "parent", "file": "document-model/goto-first-page-behavior/parent.md", "summary": "Open when looking up parent in InDesign.", "keywords": ["parent"]},
+  {"topic": "properties", "file": "document-model/goto-first-page-behavior/properties.md", "summary": "Open when looking up properties in InDesign.", "keywords": ["properties"]},
+  {"topic": "remove", "file": "document-model/goto-first-page-behavior/remove.md", "summary": "Open when looking up remove in InDesign.", "keywords": ["remove"]},
+  {"topic": "removeEventListener", "file": "document-model/goto-first-page-behavior/remove-event-listener.md", "summary": "Open when looking up removeEventListener in InDesign.", "keywords": ["removeEventListener"]},
+  {"topic": "toSource", "file": "document-model/goto-first-page-behavior/to-source.md", "summary": "Open when looking up toSource in InDesign.", "keywords": ["toSource"]},
+  {"topic": "toSpecifier", "file": "document-model/goto-first-page-behavior/to-specifier.md", "summary": "Open when looking up toSpecifier in InDesign.", "keywords": ["toSpecifier"]},
+  {"topic": "zoomSetting", "file": "document-model/goto-first-page-behavior/zoom-setting.md", "summary": "Open when looking up zoomSetting in InDesign.", "keywords": ["zoomSetting"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Dock or group panels", "file": "references/desktop/get-started/workflows-workspaces-and-panels/dock-group-or-undock-panels/dock-or-group-panels.md", "summary": "Open when looking up Dock or group panels in Premiere Pro.", "keywords": ["Dock or group panels"]},
-  {"topic": "Undock a panel in a floating window", "file": "references/desktop/get-started/workflows-workspaces-and-panels/dock-group-or-undock-panels/undock-a-panel-in-a-floating-window.md", "summary": "Open when looking up Undock a panel in a floating window in Premiere Pro.", "keywords": ["Undock a panel in a floating window"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Check if any app instance is running in background", "file": "desktop/troubleshooting/crash-issues/no-splash-screen-appears-on-app-launch/check-if-any-app-instance-is-running-in-background.md", "summary": "Open when looking up Check if any app instance is running in background in Premiere Pro.", "keywords": ["Check if any app instance is running in background"]},
+  {"topic": "Clearing media cache", "file": "desktop/troubleshooting/crash-issues/no-splash-screen-appears-on-app-launch/clearing-media-cache.md", "summary": "Open when looking up Clearing media cache in Premiere Pro.", "keywords": ["Clearing media cache"]},
+  {"topic": "Resetting preferences", "file": "desktop/troubleshooting/crash-issues/no-splash-screen-appears-on-app-launch/resetting-preferences.md", "summary": "Open when looking up Resetting preferences in Premiere Pro.", "keywords": ["Resetting preferences"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

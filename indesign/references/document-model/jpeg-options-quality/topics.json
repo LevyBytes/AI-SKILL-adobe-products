@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "HIGH", "file": "references/document-model/jpeg-options-quality/high.md", "summary": "Open when looking up HIGH in InDesign.", "keywords": ["HIGH"]},
-  {"topic": "LOW", "file": "references/document-model/jpeg-options-quality/low.md", "summary": "Open when looking up LOW in InDesign.", "keywords": ["LOW"]},
-  {"topic": "MAXIMUM", "file": "references/document-model/jpeg-options-quality/maximum.md", "summary": "Open when looking up MAXIMUM in InDesign.", "keywords": ["MAXIMUM"]},
-  {"topic": "MEDIUM", "file": "references/document-model/jpeg-options-quality/medium.md", "summary": "Open when looking up MEDIUM in InDesign.", "keywords": ["MEDIUM"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Generate the TOC", "file": "desktop/indexes-and-references/add-a-table-of-contents/generate-and-maintain-a-table-of-contents/generate-the-toc.md", "summary": "Open when looking up Generate the TOC in InDesign.", "keywords": ["Generate the TOC"]},
+  {"topic": "Update the table of contents", "file": "desktop/indexes-and-references/add-a-table-of-contents/generate-and-maintain-a-table-of-contents/update-the-table-of-contents.md", "summary": "Open when looking up Update the table of contents in InDesign.", "keywords": ["Update the table of contents"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

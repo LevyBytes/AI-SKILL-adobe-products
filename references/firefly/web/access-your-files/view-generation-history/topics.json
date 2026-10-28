@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Access your generation history", "file": "web/access-your-files/view-generation-history/access-your-generation-history.md", "summary": "Open when looking up Access your generation history in Firefly.", "keywords": ["Access your generation history"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

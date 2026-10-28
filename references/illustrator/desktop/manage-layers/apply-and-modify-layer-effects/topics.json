@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Apply and modify effects to the layers", "file": "desktop/manage-layers/apply-and-modify-layer-effects/apply-and-modify-effects-to-the-layers.md", "summary": "Open when looking up Apply and modify effects to the layers in Illustrator.", "keywords": ["Apply and modify effects to the layers"]},
+  {"topic": "Delete effects in layers", "file": "desktop/manage-layers/apply-and-modify-layer-effects/delete-effects-in-layers.md", "summary": "Open when looking up Delete effects in layers in Illustrator.", "keywords": ["Delete effects in layers"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

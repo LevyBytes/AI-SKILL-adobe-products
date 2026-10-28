@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Import a layered Photoshop file", "file": "references/desktop/import-photoshop-and-illustrator-files/import-a-layered-photoshop-file.md", "summary": "Open when looking up Import a layered Photoshop file in Premiere Pro.", "keywords": ["Import a layered Photoshop file"]},
-  {"topic": "Import Illustrator images", "file": "references/desktop/import-photoshop-and-illustrator-files/import-illustrator-images.md", "summary": "Open when looking up Import Illustrator images in Premiere Pro.", "keywords": ["Import Illustrator images"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

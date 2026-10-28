@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Apply a print preset", "file": "references/desktop/print/print-production-and-file-creation/create-and-manage-print-presets/apply-a-print-preset.md", "summary": "Open when looking up Apply a print preset in InDesign.", "keywords": ["Apply a print preset"]},
-  {"topic": "Create a print preset", "file": "references/desktop/print/print-production-and-file-creation/create-and-manage-print-presets/create-a-print-preset.md", "summary": "Open when looking up Create a print preset in InDesign.", "keywords": ["Create a print preset"]},
-  {"topic": "Delete print presets", "file": "references/desktop/print/print-production-and-file-creation/create-and-manage-print-presets/delete-print-presets.md", "summary": "Open when looking up Delete print presets in InDesign.", "keywords": ["Delete print presets"]},
-  {"topic": "Edit a print preset", "file": "references/desktop/print/print-production-and-file-creation/create-and-manage-print-presets/edit-a-print-preset.md", "summary": "Open when looking up Edit a print preset in InDesign.", "keywords": ["Edit a print preset"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

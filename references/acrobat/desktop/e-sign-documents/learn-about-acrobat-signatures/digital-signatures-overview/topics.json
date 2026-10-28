@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Alternatives for organizations without certificate-based signatures", "file": "desktop/e-sign-documents/learn-about-acrobat-signatures/digital-signatures-overview/alternatives-to-certificate-signatures.md", "summary": "Open when looking up Alternatives for organizations without certificate-based signatures in Acrobat.", "keywords": ["Alternatives for organizations without certificate-based signatures"]},
+  {"topic": "Key features and capabilities", "file": "desktop/e-sign-documents/learn-about-acrobat-signatures/digital-signatures-overview/key-features-and-capabilities.md", "summary": "Open when looking up Key features and capabilities in Acrobat.", "keywords": ["Key features and capabilities"]},
+  {"topic": "Resources", "file": "desktop/e-sign-documents/learn-about-acrobat-signatures/digital-signatures-overview/resources.md", "summary": "Open when looking up Resources in Acrobat.", "keywords": ["Resources"]},
+  {"topic": "Security and compliance standards", "file": "desktop/e-sign-documents/learn-about-acrobat-signatures/digital-signatures-overview/security-and-compliance-standards.md", "summary": "Open when looking up Security and compliance standards in Acrobat.", "keywords": ["Security and compliance standards"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

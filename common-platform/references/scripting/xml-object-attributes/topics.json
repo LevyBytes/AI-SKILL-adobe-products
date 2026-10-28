@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "XML Object Reference - XML Object Attributes", "file": "references/scripting/xml-object-attributes/xml-object-reference-xml-object-attributes.md", "summary": "Open when looking up XML Object Reference - XML Object Attributes in Shared Adobe platform.", "keywords": ["XML Object Reference - XML Object Attributes"]},
-  {"topic": "xmlObj.@attributeName", "file": "references/scripting/xml-object-attributes/xml-obj-attribute-name.md", "summary": "Open when looking up xmlObj.@attributeName in Shared Adobe platform.", "keywords": ["xmlObj.@attributeName"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

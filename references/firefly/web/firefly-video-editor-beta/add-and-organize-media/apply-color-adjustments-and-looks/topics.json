@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Adjust color settings manually", "file": "web/firefly-video-editor-beta/add-and-organize-media/apply-color-adjustments-and-looks/adjust-color-settings-manually.md", "summary": "Open when looking up Adjust color settings manually in Firefly.", "keywords": ["Adjust color settings manually"]},
+  {"topic": "Apply a predefined Looks preset", "file": "web/firefly-video-editor-beta/add-and-organize-media/apply-color-adjustments-and-looks/apply-a-predefined-looks-preset.md", "summary": "Open when looking up Apply a predefined Looks preset in Firefly.", "keywords": ["Apply a predefined Looks preset"]},
+  {"topic": "Before you begin", "file": "web/firefly-video-editor-beta/add-and-organize-media/apply-color-adjustments-and-looks/before-you-begin.md", "summary": "Open when looking up Before you begin in Firefly.", "keywords": ["Before you begin"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

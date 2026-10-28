@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Cut clips accurately in a timeline with the Razor tool.", "file": "desktop/cut-clips/cut-clips-accurately-in-a-timeline-with-the-razor-tool.md", "summary": "Open when looking up Cut clips accurately in a timeline with the Razor tool. in Premiere Pro.", "keywords": ["Cut clips accurately in a timeline with the Razor tool."]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

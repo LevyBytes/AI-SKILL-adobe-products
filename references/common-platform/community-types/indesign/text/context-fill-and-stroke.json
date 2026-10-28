@@ -1,0 +1,19 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Text.endJoin", "file": "community-types/indesign/text/end-join.md", "summary": "Open when looking up Text.endJoin in Shared Adobe platform.", "keywords": ["Text.endJoin"]},
+  {"topic": "Text.fillColor", "file": "community-types/indesign/text/fill-color.md", "summary": "Open when looking up Text.fillColor in Shared Adobe platform.", "keywords": ["Text.fillColor"]},
+  {"topic": "Text.fillTint", "file": "community-types/indesign/text/fill-tint.md", "summary": "Open when looking up Text.fillTint in Shared Adobe platform.", "keywords": ["Text.fillTint"]},
+  {"topic": "Text.gradientFillAngle", "file": "community-types/indesign/text/gradient-fill-angle.md", "summary": "Open when looking up Text.gradientFillAngle in Shared Adobe platform.", "keywords": ["Text.gradientFillAngle"]},
+  {"topic": "Text.gradientFillLength", "file": "community-types/indesign/text/gradient-fill-length.md", "summary": "Open when looking up Text.gradientFillLength in Shared Adobe platform.", "keywords": ["Text.gradientFillLength"]},
+  {"topic": "Text.gradientFillStart", "file": "community-types/indesign/text/gradient-fill-start.md", "summary": "Open when looking up Text.gradientFillStart in Shared Adobe platform.", "keywords": ["Text.gradientFillStart"]},
+  {"topic": "Text.gradientStrokeAngle", "file": "community-types/indesign/text/gradient-stroke-angle.md", "summary": "Open when looking up Text.gradientStrokeAngle in Shared Adobe platform.", "keywords": ["Text.gradientStrokeAngle"]},
+  {"topic": "Text.gradientStrokeLength", "file": "community-types/indesign/text/gradient-stroke-length.md", "summary": "Open when looking up Text.gradientStrokeLength in Shared Adobe platform.", "keywords": ["Text.gradientStrokeLength"]},
+  {"topic": "Text.gradientStrokeStart", "file": "community-types/indesign/text/gradient-stroke-start.md", "summary": "Open when looking up Text.gradientStrokeStart in Shared Adobe platform.", "keywords": ["Text.gradientStrokeStart"]},
+  {"topic": "Text.miterLimit", "file": "community-types/indesign/text/miter-limit.md", "summary": "Open when looking up Text.miterLimit in Shared Adobe platform.", "keywords": ["Text.miterLimit"]},
+  {"topic": "Text.overprintFill", "file": "community-types/indesign/text/overprint-fill.md", "summary": "Open when looking up Text.overprintFill in Shared Adobe platform.", "keywords": ["Text.overprintFill"]},
+  {"topic": "Text.overprintStroke", "file": "community-types/indesign/text/overprint-stroke.md", "summary": "Open when looking up Text.overprintStroke in Shared Adobe platform.", "keywords": ["Text.overprintStroke"]},
+  {"topic": "Text.strokeAlignment", "file": "community-types/indesign/text/stroke-alignment.md", "summary": "Open when looking up Text.strokeAlignment in Shared Adobe platform.", "keywords": ["Text.strokeAlignment"]},
+  {"topic": "Text.strokeColor", "file": "community-types/indesign/text/stroke-color.md", "summary": "Open when looking up Text.strokeColor in Shared Adobe platform.", "keywords": ["Text.strokeColor"]},
+  {"topic": "Text.strokeTint", "file": "community-types/indesign/text/stroke-tint.md", "summary": "Open when looking up Text.strokeTint in Shared Adobe platform.", "keywords": ["Text.strokeTint"]},
+  {"topic": "Text.strokeWeight", "file": "community-types/indesign/text/stroke-weight.md", "summary": "Open when looking up Text.strokeWeight in Shared Adobe platform.", "keywords": ["Text.strokeWeight"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

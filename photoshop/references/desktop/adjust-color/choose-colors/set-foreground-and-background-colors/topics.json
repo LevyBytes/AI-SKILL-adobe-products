@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Set colors with the Eyedropper tool", "file": "references/desktop/adjust-color/choose-colors/set-foreground-and-background-colors/set-colors-with-the-eyedropper-tool.md", "summary": "Open when looking up Set colors with the Eyedropper tool in Photoshop.", "keywords": ["Set colors with the Eyedropper tool"]},
-  {"topic": "Set colors with the toolbar", "file": "references/desktop/adjust-color/choose-colors/set-foreground-and-background-colors/set-colors-with-the-toolbar.md", "summary": "Open when looking up Set colors with the toolbar in Photoshop.", "keywords": ["Set colors with the toolbar"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

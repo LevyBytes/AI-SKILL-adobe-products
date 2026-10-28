@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "DocumentPresets collection iteration", "file": "community-types/indesign/document-presets/collection-iteration.md", "summary": "Open when looking up DocumentPresets collection iteration in Shared Adobe platform.", "keywords": ["DocumentPresets collection iteration"]},
+  {"topic": "DocumentPresets declaration", "file": "community-types/indesign/document-presets/declaration.md", "summary": "Open when looking up DocumentPresets declaration in Shared Adobe platform.", "keywords": ["DocumentPresets declaration"]},
+  {"topic": "DocumentPresets named and indexed items", "file": "community-types/indesign/document-presets/named-and-indexed-items.md", "summary": "Open when looking up DocumentPresets named and indexed items in Shared Adobe platform.", "keywords": ["DocumentPresets named and indexed items"]},
+  {"topic": "DocumentPresets.add", "file": "community-types/indesign/document-presets/add.md", "summary": "Open when looking up DocumentPresets.add in Shared Adobe platform.", "keywords": ["DocumentPresets.add"]},
+  {"topic": "DocumentPresets.count", "file": "community-types/indesign/document-presets/count.md", "summary": "Open when looking up DocumentPresets.count in Shared Adobe platform.", "keywords": ["DocumentPresets.count"]},
+  {"topic": "DocumentPresets.IndexSignature", "file": "community-types/indesign/document-presets/index-signature.md", "summary": "Open when looking up DocumentPresets.IndexSignature in Shared Adobe platform.", "keywords": ["DocumentPresets.IndexSignature"]},
+  {"topic": "DocumentPresets.itemByRange", "file": "community-types/indesign/document-presets/item-by-range.md", "summary": "Open when looking up DocumentPresets.itemByRange in Shared Adobe platform.", "keywords": ["DocumentPresets.itemByRange"]},
+  {"topic": "DocumentPresets.length", "file": "community-types/indesign/document-presets/length.md", "summary": "Open when looking up DocumentPresets.length in Shared Adobe platform.", "keywords": ["DocumentPresets.length"]},
+  {"topic": "DocumentPresets.toSource", "file": "community-types/indesign/document-presets/to-source.md", "summary": "Open when looking up DocumentPresets.toSource in Shared Adobe platform.", "keywords": ["DocumentPresets.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

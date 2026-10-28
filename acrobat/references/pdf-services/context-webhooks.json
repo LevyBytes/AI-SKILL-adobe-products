@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Callback Webhook Usage", "file": "references/pdf-services/callback-webhook-usage.md", "summary": "Open when looking up Callback Webhook Usage in Acrobat.", "keywords": ["Callback Webhook Usage"]},
-  {"topic": "Callback Webhook Usage references", "file": "references/pdf-services/callback-webhook-usage/reference-index.md", "summary": "Open when looking up Callback Webhook Usage in Acrobat.", "keywords": ["Callback Webhook Usage references"]},
-  {"topic": "Expected Response from the Client", "file": "references/pdf-services/expected-response-from-the-client.md", "summary": "Open when looking up Expected Response from the Client in Acrobat.", "keywords": ["Expected Response from the Client"]},
-  {"topic": "Sample Request Body", "file": "references/pdf-services/sample-request-body.md", "summary": "Open when looking up Sample Request Body in Acrobat.", "keywords": ["Sample Request Body"]},
-  {"topic": "Webhook Notification", "file": "references/pdf-services/webhook-notification.md", "summary": "Open when looking up Webhook Notification in Acrobat.", "keywords": ["Webhook Notification"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

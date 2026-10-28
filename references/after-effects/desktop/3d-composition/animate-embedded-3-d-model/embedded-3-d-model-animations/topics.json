@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Result", "file": "desktop/3d-composition/animate-embedded-3-d-model/embedded-3-d-model-animations/result.md", "summary": "Open when looking up Result in After Effects.", "keywords": ["Result"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

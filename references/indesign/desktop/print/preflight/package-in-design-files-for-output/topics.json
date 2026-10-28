@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Configure printing instructions", "file": "desktop/print/preflight/package-in-design-files-for-output/configure-printing-instructions.md", "summary": "Open when looking up Configure printing instructions in InDesign.", "keywords": ["Configure printing instructions"]},
+  {"topic": "Create and save a package", "file": "desktop/print/preflight/package-in-design-files-for-output/create-and-save-a-package.md", "summary": "Open when looking up Create and save a package in InDesign.", "keywords": ["Create and save a package"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

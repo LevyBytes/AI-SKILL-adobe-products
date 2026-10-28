@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "TimeDisplay - Properties", "file": "uxp/host-api/time-display/time-display-properties.md", "summary": "Open when looking up TimeDisplay - Properties in Premiere Pro.", "keywords": ["TimeDisplay - Properties"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

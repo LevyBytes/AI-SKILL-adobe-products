@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "How it works", "file": "web/firefly-ai-assistant/firefly-ai-assistant-overview/how-it-works.md", "summary": "Open when looking up How it works in Firefly.", "keywords": ["How it works"]},
+  {"topic": "Key capabilities", "file": "web/firefly-ai-assistant/firefly-ai-assistant-overview/key-capabilities.md", "summary": "Open when looking up Key capabilities in Firefly.", "keywords": ["Key capabilities"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

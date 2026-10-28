@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Extract text info from pdf example setup", "file": "pdf-services/examples/java/extract-text-info-from-pdf/extract-text-info-from-pdf-setup.md", "summary": "Open when looking up Extract text info from pdf example setup in Acrobat.", "keywords": ["Extract text info from pdf example setup"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

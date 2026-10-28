@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Array constraints", "file": "references/cloud-services/create-artboard-v1-reference/input-image-fields/array-constraints.md", "summary": "Open when looking up Array constraints in Photoshop.", "keywords": ["Array constraints"]},
-  {"topic": "Field mapping", "file": "references/cloud-services/create-artboard-v1-reference/input-image-fields/field-mapping.md", "summary": "Open when looking up Field mapping in Photoshop.", "keywords": ["Field mapping"]},
-  {"topic": "Storage to source mapping examples", "file": "references/cloud-services/create-artboard-v1-reference/input-image-fields/storage-to-source-mapping-examples.md", "summary": "Open when looking up Storage to source mapping examples in Photoshop.", "keywords": ["Storage to source mapping examples"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Plugins Dialog (blocking UI)", "file": "uxp/designing-for-photoshop/plugins-dialog-blocking-ui.md", "summary": "Open when looking up Plugins Dialog (blocking UI) in Photoshop.", "keywords": ["Plugins Dialog (blocking UI)"]},
+  {"topic": "Plugins Panel (non-blocking UI)", "file": "uxp/designing-for-photoshop/plugins-panel-non-blocking-ui.md", "summary": "Open when looking up Plugins Panel (non-blocking UI) in Photoshop.", "keywords": ["Plugins Panel (non-blocking UI)"]},
+  {"topic": "Themes and Icons", "file": "uxp/designing-for-photoshop/themes-and-icons.md", "summary": "Open when looking up Themes and Icons in Photoshop.", "keywords": ["Themes and Icons"]},
+  {"topic": "UX Best Practices", "file": "uxp/designing-for-photoshop/ux-best-practices.md", "summary": "Open when looking up UX Best Practices in Photoshop.", "keywords": ["UX Best Practices"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

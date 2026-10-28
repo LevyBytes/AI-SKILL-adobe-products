@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Delete an overlay preset", "file": "desktop/organize-media/edit-metadata/import-export-or-delete-overlay-settings/delete-an-overlay-preset.md", "summary": "Open when looking up Delete an overlay preset in Premiere Pro.", "keywords": ["Delete an overlay preset"]},
+  {"topic": "Export an overlay preset", "file": "desktop/organize-media/edit-metadata/import-export-or-delete-overlay-settings/export-an-overlay-preset.md", "summary": "Open when looking up Export an overlay preset in Premiere Pro.", "keywords": ["Export an overlay preset"]},
+  {"topic": "Import an overlay preset", "file": "desktop/organize-media/edit-metadata/import-export-or-delete-overlay-settings/import-an-overlay-preset.md", "summary": "Open when looking up Import an overlay preset in Premiere Pro.", "keywords": ["Import an overlay preset"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

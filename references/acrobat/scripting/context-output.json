@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Color convert action references", "file": "scripting/color-convert-action/reference-index.md", "summary": "Open when looking up Color convert action in Acrobat.", "keywords": ["Color convert action references"]},
+  {"topic": "Color references", "file": "scripting/color/reference-index.md", "summary": "Open when looking up Color in Acrobat.", "keywords": ["Color references"]},
+  {"topic": "Preflight audit trail references", "file": "scripting/preflight-audit-trail/reference-index.md", "summary": "Open when looking up Preflight audit trail in Acrobat.", "keywords": ["Preflight audit trail references"]},
+  {"topic": "Preflight profile references", "file": "scripting/preflight-profile/reference-index.md", "summary": "Open when looking up Preflight profile in Acrobat.", "keywords": ["Preflight profile references"]},
+  {"topic": "Preflight references", "file": "scripting/preflight/reference-index.md", "summary": "Open when looking up Preflight in Acrobat.", "keywords": ["Preflight references"]},
+  {"topic": "Preflight result references", "file": "scripting/preflight-result/reference-index.md", "summary": "Open when looking up Preflight result in Acrobat.", "keywords": ["Preflight result references"]},
+  {"topic": "Print params references", "file": "scripting/print-params/reference-index.md", "summary": "Open when looking up Print params in Acrobat.", "keywords": ["Print params references"]},
+  {"topic": "Report", "file": "scripting/report.md", "summary": "Open when looking up Report in Acrobat.", "keywords": ["Report"]},
+  {"topic": "Report references", "file": "scripting/report/reference-index.md", "summary": "Open when looking up Report in Acrobat.", "keywords": ["Report references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "Accessing the After Effects Function Suites", "file": "references/plugin-sdk/accessing-the-after-effects-function-suites.md", "summary": "Open when looking up Accessing the After Effects Function Suites in After Effects.", "keywords": ["Accessing the After Effects Function Suites"]},
-  {"topic": "Suite versions references", "file": "references/plugin-sdk/suite-versions/reference-index.md", "summary": "Open when looking up Suite versions in After Effects.", "keywords": ["Suite versions references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

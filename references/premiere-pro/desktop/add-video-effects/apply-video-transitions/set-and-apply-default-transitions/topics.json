@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Apply default transitions between selected clips", "file": "desktop/add-video-effects/apply-video-transitions/set-and-apply-default-transitions/apply-default-transitions-between-selected-clips.md", "summary": "Open when looking up Apply default transitions between selected clips in Premiere Pro.", "keywords": ["Apply default transitions between selected clips"]},
+  {"topic": "Set a default transition", "file": "desktop/add-video-effects/apply-video-transitions/set-and-apply-default-transitions/set-a-default-transition.md", "summary": "Open when looking up Set a default transition in Premiere Pro.", "keywords": ["Set a default transition"]},
+  {"topic": "Set the duration of the default transition", "file": "desktop/add-video-effects/apply-video-transitions/set-and-apply-default-transitions/set-the-duration-of-the-default-transition.md", "summary": "Open when looking up Set the duration of the default transition in Premiere Pro.", "keywords": ["Set the duration of the default transition"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

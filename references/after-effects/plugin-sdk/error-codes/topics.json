@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Errors - Error Codes", "file": "plugin-sdk/error-codes/errors-error-codes.md", "summary": "Open when looking up Errors - Error Codes in After Effects.", "keywords": ["Errors - Error Codes"]},
+  {"topic": "PF_Err_BAD_CALLBACK_PARAM", "file": "plugin-sdk/error-codes/pf-err-badcallbackparam.md", "summary": "Open when looking up PF_Err_BAD_CALLBACK_PARAM in After Effects.", "keywords": ["PF_Err_BAD_CALLBACK_PARAM"]},
+  {"topic": "PF_Err_CANNOT_PARSE_KEYFRAME_TEXT", "file": "plugin-sdk/error-codes/pf-err-cannotparsekeyframetext.md", "summary": "Open when looking up PF_Err_CANNOT_PARSE_KEYFRAME_TEXT in After Effects.", "keywords": ["PF_Err_CANNOT_PARSE_KEYFRAME_TEXT"]},
+  {"topic": "PF_Err_INTERNAL_STRUCT_DAMAGED", "file": "plugin-sdk/error-codes/pf-err-internalstructdamaged.md", "summary": "Open when looking up PF_Err_INTERNAL_STRUCT_DAMAGED in After Effects.", "keywords": ["PF_Err_INTERNAL_STRUCT_DAMAGED"]},
+  {"topic": "PF_Err_INVALID_CALLBACK", "file": "plugin-sdk/error-codes/pf-err-invalidcallback.md", "summary": "Open when looking up PF_Err_INVALID_CALLBACK in After Effects.", "keywords": ["PF_Err_INVALID_CALLBACK"]},
+  {"topic": "PF_Err_INVALID_INDEX", "file": "plugin-sdk/error-codes/pf-err-invalidindex.md", "summary": "Open when looking up PF_Err_INVALID_INDEX in After Effects.", "keywords": ["PF_Err_INVALID_INDEX"]},
+  {"topic": "PF_Err_NONE", "file": "plugin-sdk/error-codes/pf-err-none.md", "summary": "Open when looking up PF_Err_NONE in After Effects.", "keywords": ["PF_Err_NONE"]},
+  {"topic": "PF_Err_OUT_OF_MEMORY", "file": "plugin-sdk/error-codes/pf-err-outofmemory.md", "summary": "Open when looking up PF_Err_OUT_OF_MEMORY in After Effects.", "keywords": ["PF_Err_OUT_OF_MEMORY"]},
+  {"topic": "PF_Err_UNRECOGNIZED_PARAM_TYPE", "file": "plugin-sdk/error-codes/pf-err-unrecognizedparamtype.md", "summary": "Open when looking up PF_Err_UNRECOGNIZED_PARAM_TYPE in After Effects.", "keywords": ["PF_Err_UNRECOGNIZED_PARAM_TYPE"]},
+  {"topic": "PF_Interrupt_CANCEL", "file": "plugin-sdk/error-codes/pf-interrupt-cancel.md", "summary": "Open when looking up PF_Interrupt_CANCEL in After Effects.", "keywords": ["PF_Interrupt_CANCEL"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

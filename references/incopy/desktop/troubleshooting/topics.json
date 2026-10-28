@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/incopy", "topics": [
+  {"topic": "Troubleshoot corrupt InCopy documents", "file": "desktop/troubleshooting/troubleshoot-corrupt-in-copy-documents.md", "summary": "Open when looking up Troubleshoot corrupt InCopy documents in InCopy.", "keywords": ["Troubleshoot corrupt InCopy documents"]},
+  {"topic": "Troubleshoot corrupt InCopy documents references", "file": "desktop/troubleshooting/troubleshoot-corrupt-in-copy-documents/reference-index.md", "summary": "Open when looking up Troubleshoot corrupt InCopy documents in InCopy.", "keywords": ["Troubleshoot corrupt InCopy documents references"]},
+  {"topic": "Unable to open .icap files - Issue", "file": "desktop/troubleshooting/unable-to-open-icap-files-issue.md", "summary": "Open when looking up Unable to open .icap files - Issue in InCopy.", "keywords": ["Unable to open .icap files - Issue"]},
+  {"topic": "Unable to open .icap files - Issue references", "file": "desktop/troubleshooting/unable-to-open-icap-files-issue/reference-index.md", "summary": "Open when looking up Unable to open .icap files - Issue in InCopy.", "keywords": ["Unable to open .icap files - Issue references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

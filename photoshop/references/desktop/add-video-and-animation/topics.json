@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Create animation frames", "file": "references/desktop/add-video-and-animation/create-animation-frames.md", "summary": "Open when looking up Create animation frames in Photoshop.", "keywords": ["Create animation frames"]},
-  {"topic": "Create animation frames references", "file": "references/desktop/add-video-and-animation/create-animation-frames/reference-index.md", "summary": "Open when looking up Create animation frames in Photoshop.", "keywords": ["Create animation frames references"]},
-  {"topic": "Use keyframes", "file": "references/desktop/add-video-and-animation/use-keyframes.md", "summary": "Open when looking up Use keyframes in Photoshop.", "keywords": ["Use keyframes"]},
-  {"topic": "Use keyframes references", "file": "references/desktop/add-video-and-animation/use-keyframes/reference-index.md", "summary": "Open when looking up Use keyframes in Photoshop.", "keywords": ["Use keyframes references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

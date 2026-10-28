@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "SmartFX - preserve_rgb_of_zero_alpha", "file": "references/plugin-sdk/preservergbofzeroalpha/smart-fx-preservergbofzeroalpha.md", "summary": "Open when looking up SmartFX - preserve_rgb_of_zero_alpha in After Effects.", "keywords": ["SmartFX - preserve_rgb_of_zero_alpha"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

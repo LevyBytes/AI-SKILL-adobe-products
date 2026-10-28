@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "alignDistributePreferences", "file": "document-model/application/align-distribute-preferences.md", "summary": "Open when looking up alignDistributePreferences in InDesign.", "keywords": ["alignDistributePreferences"]},
+  {"topic": "documentPreferences", "file": "document-model/application/document-preferences.md", "summary": "Open when looking up documentPreferences in InDesign.", "keywords": ["documentPreferences"]},
+  {"topic": "documentPresets", "file": "document-model/application/document-presets.md", "summary": "Open when looking up documentPresets in InDesign.", "keywords": ["documentPresets"]},
+  {"topic": "pageItemDefaults", "file": "document-model/application/page-item-defaults.md", "summary": "Open when looking up pageItemDefaults in InDesign.", "keywords": ["pageItemDefaults"]},
+  {"topic": "watermarkPreferences", "file": "document-model/application/watermark-preferences.md", "summary": "Open when looking up watermarkPreferences in InDesign.", "keywords": ["watermarkPreferences"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

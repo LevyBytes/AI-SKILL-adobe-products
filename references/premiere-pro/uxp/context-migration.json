@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "CEP Migration Guide", "file": "uxp/cep-migration-guide.md", "summary": "Open when looking up CEP Migration Guide in Premiere Pro.", "keywords": ["CEP Migration Guide"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

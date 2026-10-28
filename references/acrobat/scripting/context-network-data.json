@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Column info references", "file": "scripting/column-info/reference-index.md", "summary": "Open when looking up Column info in Acrobat.", "keywords": ["Column info references"]},
+  {"topic": "Column references", "file": "scripting/column/reference-index.md", "summary": "Open when looking up Column in Acrobat.", "keywords": ["Column references"]},
+  {"topic": "Data references", "file": "scripting/data/reference-index.md", "summary": "Open when looking up Data in Acrobat.", "keywords": ["Data references"]},
+  {"topic": "Data source info references", "file": "scripting/data-source-info/reference-index.md", "summary": "Open when looking up Data source info in Acrobat.", "keywords": ["Data source info references"]},
+  {"topic": "Dir connection references", "file": "scripting/dir-connection/reference-index.md", "summary": "Open when looking up Dir connection in Acrobat.", "keywords": ["Dir connection references"]},
+  {"topic": "Directory references", "file": "scripting/directory/reference-index.md", "summary": "Open when looking up Directory in Acrobat.", "keywords": ["Directory references"]},
+  {"topic": "Net http references", "file": "scripting/net-http/reference-index.md", "summary": "Open when looking up Net http in Acrobat.", "keywords": ["Net http references"]},
+  {"topic": "Net references", "file": "scripting/net/reference-index.md", "summary": "Open when looking up Net in Acrobat.", "keywords": ["Net references"]},
+  {"topic": "Read stream references", "file": "scripting/read-stream/reference-index.md", "summary": "Open when looking up Read stream in Acrobat.", "keywords": ["Read stream references"]},
+  {"topic": "Row references", "file": "scripting/row/reference-index.md", "summary": "Open when looking up Row in Acrobat.", "keywords": ["Row references"]},
+  {"topic": "Soap references", "file": "scripting/soap/reference-index.md", "summary": "Open when looking up Soap in Acrobat.", "keywords": ["Soap references"]},
+  {"topic": "Table info references", "file": "scripting/table-info/reference-index.md", "summary": "Open when looking up Table info in Acrobat.", "keywords": ["Table info references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

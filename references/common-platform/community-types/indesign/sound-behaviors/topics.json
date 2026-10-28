@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "SoundBehaviors collection iteration", "file": "community-types/indesign/sound-behaviors/collection-iteration.md", "summary": "Open when looking up SoundBehaviors collection iteration in Shared Adobe platform.", "keywords": ["SoundBehaviors collection iteration"]},
+  {"topic": "SoundBehaviors declaration", "file": "community-types/indesign/sound-behaviors/declaration.md", "summary": "Open when looking up SoundBehaviors declaration in Shared Adobe platform.", "keywords": ["SoundBehaviors declaration"]},
+  {"topic": "SoundBehaviors named and indexed items", "file": "community-types/indesign/sound-behaviors/named-and-indexed-items.md", "summary": "Open when looking up SoundBehaviors named and indexed items in Shared Adobe platform.", "keywords": ["SoundBehaviors named and indexed items"]},
+  {"topic": "SoundBehaviors.add", "file": "community-types/indesign/sound-behaviors/add.md", "summary": "Open when looking up SoundBehaviors.add in Shared Adobe platform.", "keywords": ["SoundBehaviors.add"]},
+  {"topic": "SoundBehaviors.count", "file": "community-types/indesign/sound-behaviors/count.md", "summary": "Open when looking up SoundBehaviors.count in Shared Adobe platform.", "keywords": ["SoundBehaviors.count"]},
+  {"topic": "SoundBehaviors.IndexSignature", "file": "community-types/indesign/sound-behaviors/index-signature.md", "summary": "Open when looking up SoundBehaviors.IndexSignature in Shared Adobe platform.", "keywords": ["SoundBehaviors.IndexSignature"]},
+  {"topic": "SoundBehaviors.itemByRange", "file": "community-types/indesign/sound-behaviors/item-by-range.md", "summary": "Open when looking up SoundBehaviors.itemByRange in Shared Adobe platform.", "keywords": ["SoundBehaviors.itemByRange"]},
+  {"topic": "SoundBehaviors.length", "file": "community-types/indesign/sound-behaviors/length.md", "summary": "Open when looking up SoundBehaviors.length in Shared Adobe platform.", "keywords": ["SoundBehaviors.length"]},
+  {"topic": "SoundBehaviors.toSource", "file": "community-types/indesign/sound-behaviors/to-source.md", "summary": "Open when looking up SoundBehaviors.toSource in Shared Adobe platform.", "keywords": ["SoundBehaviors.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

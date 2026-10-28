@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "DISPLAY_DOCUMENT_TITLE", "file": "document-model/pdf-display-title-options/displaydocumenttitle.md", "summary": "Open when looking up DISPLAY_DOCUMENT_TITLE in InDesign.", "keywords": ["DISPLAY_DOCUMENT_TITLE"]},
+  {"topic": "DISPLAY_FILE_NAME", "file": "document-model/pdf-display-title-options/displayfilename.md", "summary": "Open when looking up DISPLAY_FILE_NAME in InDesign.", "keywords": ["DISPLAY_FILE_NAME"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

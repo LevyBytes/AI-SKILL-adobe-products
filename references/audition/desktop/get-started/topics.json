@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/audition", "topics": [
+  {"topic": "Keyboard shortcuts references", "file": "desktop/get-started/keyboard-shortcuts/reference-index.md", "summary": "Open when looking up Keyboard shortcuts in Audition.", "keywords": ["Keyboard shortcuts references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Effects of rasterization", "file": "desktop/layers/smart-objects/rasterize-smart-objects/effects-of-rasterization.md", "summary": "Open when looking up Effects of rasterization in Photoshop.", "keywords": ["Effects of rasterization"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

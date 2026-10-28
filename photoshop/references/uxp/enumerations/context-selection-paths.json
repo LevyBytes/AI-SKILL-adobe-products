@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "PathKind", "file": "references/uxp/enumerations/path-kind.md", "summary": "Open when looking up PathKind in Photoshop.", "keywords": ["PathKind"]},
-  {"topic": "PointKind", "file": "references/uxp/enumerations/point-kind.md", "summary": "Open when looking up PointKind in Photoshop.", "keywords": ["PointKind"]},
-  {"topic": "PointType", "file": "references/uxp/enumerations/point-type.md", "summary": "Open when looking up PointType in Photoshop.", "keywords": ["PointType"]},
-  {"topic": "SelectionType", "file": "references/uxp/enumerations/selection-type.md", "summary": "Open when looking up SelectionType in Photoshop.", "keywords": ["SelectionType"]},
-  {"topic": "ShapeOperation", "file": "references/uxp/enumerations/shape-operation.md", "summary": "Open when looking up ShapeOperation in Photoshop.", "keywords": ["ShapeOperation"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

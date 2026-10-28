@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "ObjectStyle.preferences", "file": "references/community-types/indesign/object-style/preferences.md", "summary": "Open when looking up ObjectStyle.preferences in Shared Adobe platform.", "keywords": ["ObjectStyle.preferences"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

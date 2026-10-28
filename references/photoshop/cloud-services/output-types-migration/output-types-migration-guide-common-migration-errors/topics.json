@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Invalid PNG compression", "file": "cloud-services/output-types-migration/output-types-migration-guide-common-migration-errors/invalid-png-compression.md", "summary": "Open when looking up Invalid PNG compression in Photoshop.", "keywords": ["Invalid PNG compression"]},
+  {"topic": "Missing storage type for Azure", "file": "cloud-services/output-types-migration/output-types-migration-guide-common-migration-errors/missing-storage-type-for-azure.md", "summary": "Open when looking up Missing storage type for Azure in Photoshop.", "keywords": ["Missing storage type for Azure"]},
+  {"topic": "Numeric JPEG quality", "file": "cloud-services/output-types-migration/output-types-migration-guide-common-migration-errors/numeric-jpeg-quality.md", "summary": "Open when looking up Numeric JPEG quality in Photoshop.", "keywords": ["Numeric JPEG quality"]},
+  {"topic": "Using JPEG quality for PNG", "file": "cloud-services/output-types-migration/output-types-migration-guide-common-migration-errors/using-jpeg-quality-for-png.md", "summary": "Open when looking up Using JPEG quality for PNG in Photoshop.", "keywords": ["Using JPEG quality for PNG"]},
+  {"topic": "Using V1 field names", "file": "cloud-services/output-types-migration/output-types-migration-guide-common-migration-errors/using-v1-field-names.md", "summary": "Open when looking up Using V1 field names in Photoshop.", "keywords": ["Using V1 field names"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

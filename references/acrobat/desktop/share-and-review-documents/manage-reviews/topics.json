@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Find comments", "file": "desktop/share-and-review-documents/manage-reviews/find-comments.md", "summary": "Open when looking up Find comments in Acrobat.", "keywords": ["Find comments"]},
+  {"topic": "Mark comments as unread or resolved", "file": "desktop/share-and-review-documents/manage-reviews/mark-comments-as-unread-or-resolved.md", "summary": "Open when looking up Mark comments as unread or resolved in Acrobat.", "keywords": ["Mark comments as unread or resolved"]},
+  {"topic": "Publish comments from other reviewers", "file": "desktop/share-and-review-documents/manage-reviews/publish-comments-from-other-reviewers.md", "summary": "Open when looking up Publish comments from other reviewers in Acrobat.", "keywords": ["Publish comments from other reviewers"]},
+  {"topic": "View comments", "file": "desktop/share-and-review-documents/manage-reviews/view-comments.md", "summary": "Open when looking up View comments in Acrobat.", "keywords": ["View comments"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

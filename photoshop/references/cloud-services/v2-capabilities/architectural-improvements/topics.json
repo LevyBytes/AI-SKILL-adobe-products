@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Better error handling and job timeouts", "file": "references/cloud-services/v2-capabilities/architectural-improvements/better-error-handling-and-job-timeouts.md", "summary": "Open when looking up Better error handling and job timeouts in Photoshop.", "keywords": ["Better error handling and job timeouts"]},
-  {"topic": "Large file support", "file": "references/cloud-services/v2-capabilities/architectural-improvements/large-file-support.md", "summary": "Open when looking up Large file support in Photoshop.", "keywords": ["Large file support"]},
-  {"topic": "Long running process support", "file": "references/cloud-services/v2-capabilities/architectural-improvements/long-running-process-support.md", "summary": "Open when looking up Long running process support in Photoshop.", "keywords": ["Long running process support"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

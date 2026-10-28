@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "AEGP_GetLightType", "file": "references/plugin-sdk/aegp-light-suite2/aegp-get-light-type.md", "summary": "Open when looking up AEGP_GetLightType in After Effects.", "keywords": ["AEGP_GetLightType"]},
-  {"topic": "AEGP_SetLightType", "file": "references/plugin-sdk/aegp-light-suite2/aegp-set-light-type.md", "summary": "Open when looking up AEGP_SetLightType in After Effects.", "keywords": ["AEGP_SetLightType"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

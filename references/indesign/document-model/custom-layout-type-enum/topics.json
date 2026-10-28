@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "ALIGNMENT_AND_SPACING", "file": "document-model/custom-layout-type-enum/alignmentandspacing.md", "summary": "Open when looking up ALIGNMENT_AND_SPACING in InDesign.", "keywords": ["ALIGNMENT_AND_SPACING"]},
+  {"topic": "FLOAT_LEFT", "file": "document-model/custom-layout-type-enum/floatleft.md", "summary": "Open when looking up FLOAT_LEFT in InDesign.", "keywords": ["FLOAT_LEFT"]},
+  {"topic": "FLOAT_RIGHT", "file": "document-model/custom-layout-type-enum/floatright.md", "summary": "Open when looking up FLOAT_RIGHT in InDesign.", "keywords": ["FLOAT_RIGHT"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

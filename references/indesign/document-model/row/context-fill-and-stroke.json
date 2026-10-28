@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "fillColor", "file": "document-model/row/fill-color.md", "summary": "Open when looking up fillColor in InDesign.", "keywords": ["fillColor"]},
+  {"topic": "fillTint", "file": "document-model/row/fill-tint.md", "summary": "Open when looking up fillTint in InDesign.", "keywords": ["fillTint"]},
+  {"topic": "gradientFillAngle", "file": "document-model/row/gradient-fill-angle.md", "summary": "Open when looking up gradientFillAngle in InDesign.", "keywords": ["gradientFillAngle"]},
+  {"topic": "gradientFillLength", "file": "document-model/row/gradient-fill-length.md", "summary": "Open when looking up gradientFillLength in InDesign.", "keywords": ["gradientFillLength"]},
+  {"topic": "gradientFillStart", "file": "document-model/row/gradient-fill-start.md", "summary": "Open when looking up gradientFillStart in InDesign.", "keywords": ["gradientFillStart"]},
+  {"topic": "overprintFill", "file": "document-model/row/overprint-fill.md", "summary": "Open when looking up overprintFill in InDesign.", "keywords": ["overprintFill"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

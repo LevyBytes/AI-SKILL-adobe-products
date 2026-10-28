@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Custom UI & Drawbot - HiDPI and Retina Display Support", "file": "plugin-sdk/hi-dpi-and-retina-display-support/custom-ui-drawbot-hi-dpi-and-retina-display-support.md", "summary": "Open when looking up Custom UI & Drawbot - HiDPI and Retina Display Support in After Effects.", "keywords": ["Custom UI & Drawbot - HiDPI and Retina Display Support"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

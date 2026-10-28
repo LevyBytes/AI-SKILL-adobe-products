@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Common Event Types", "file": "uxp/html-events-and-listeners/common-event-types.md", "summary": "Open when looking up Common Event Types in Premiere Pro.", "keywords": ["Common Event Types"]},
+  {"topic": "Example: Inline Event Handlers", "file": "uxp/html-events-and-listeners/example-inline-event-handlers.md", "summary": "Open when looking up Example: Inline Event Handlers in Premiere Pro.", "keywords": ["Example: Inline Event Handlers"]},
+  {"topic": "Example: JavaScript Event Listeners (Recommended)", "file": "uxp/html-events-and-listeners/example-java-script-event-listeners-recommended.md", "summary": "Open when looking up Example: JavaScript Event Listeners (Recommended) in Premiere Pro.", "keywords": ["Example: JavaScript Event Listeners (Recommended)"]},
+  {"topic": "index.html", "file": "uxp/html-events-and-listeners/index-html.md", "summary": "Open when looking up index.html in Premiere Pro.", "keywords": ["index.html"]},
+  {"topic": "index.js", "file": "uxp/html-events-and-listeners/index-js.md", "summary": "Open when looking up index.js in Premiere Pro.", "keywords": ["index.js"]},
+  {"topic": "manifest.json", "file": "uxp/html-events-and-listeners/manifest-json.md", "summary": "Open when looking up manifest.json in Premiere Pro.", "keywords": ["manifest.json"]},
+  {"topic": "Reference Material", "file": "uxp/html-events-and-listeners/reference-material.md", "summary": "Open when looking up Reference Material in Premiere Pro.", "keywords": ["Reference Material"]},
+  {"topic": "Working with Spectrum Components", "file": "uxp/html-events-and-listeners/working-with-spectrum-components.md", "summary": "Open when looking up Working with Spectrum Components in Premiere Pro.", "keywords": ["Working with Spectrum Components"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "View sequence timecode references", "file": "references/desktop/view-sequence-timecode/reference-index.md", "summary": "Open when looking up View sequence timecode in Premiere Pro.", "keywords": ["View sequence timecode references"]},
-  {"topic": "Timecode display options references", "file": "references/desktop/timecode-display-options/reference-index.md", "summary": "Open when looking up Timecode display options in Premiere Pro.", "keywords": ["Timecode display options references"]},
-  {"topic": "Change timecode display format references", "file": "references/desktop/change-timecode-display-format/reference-index.md", "summary": "Open when looking up Change timecode display format in Premiere Pro.", "keywords": ["Change timecode display format references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Scripting Constants - FXGVersion", "file": "scripting/fxg-version/scripting-constants-fxg-version.md", "summary": "Open when looking up Scripting Constants - FXGVersion in Illustrator.", "keywords": ["Scripting Constants - FXGVersion"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

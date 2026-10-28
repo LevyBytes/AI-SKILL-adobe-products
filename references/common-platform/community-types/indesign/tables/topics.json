@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Tables collection iteration", "file": "community-types/indesign/tables/collection-iteration.md", "summary": "Open when looking up Tables collection iteration in Shared Adobe platform.", "keywords": ["Tables collection iteration"]},
+  {"topic": "Tables declaration", "file": "community-types/indesign/tables/declaration.md", "summary": "Open when looking up Tables declaration in Shared Adobe platform.", "keywords": ["Tables declaration"]},
+  {"topic": "Tables named and indexed items", "file": "community-types/indesign/tables/named-and-indexed-items.md", "summary": "Open when looking up Tables named and indexed items in Shared Adobe platform.", "keywords": ["Tables named and indexed items"]},
+  {"topic": "Tables.add", "file": "community-types/indesign/tables/add.md", "summary": "Open when looking up Tables.add in Shared Adobe platform.", "keywords": ["Tables.add"]},
+  {"topic": "Tables.count", "file": "community-types/indesign/tables/count.md", "summary": "Open when looking up Tables.count in Shared Adobe platform.", "keywords": ["Tables.count"]},
+  {"topic": "Tables.IndexSignature", "file": "community-types/indesign/tables/index-signature.md", "summary": "Open when looking up Tables.IndexSignature in Shared Adobe platform.", "keywords": ["Tables.IndexSignature"]},
+  {"topic": "Tables.itemByRange", "file": "community-types/indesign/tables/item-by-range.md", "summary": "Open when looking up Tables.itemByRange in Shared Adobe platform.", "keywords": ["Tables.itemByRange"]},
+  {"topic": "Tables.length", "file": "community-types/indesign/tables/length.md", "summary": "Open when looking up Tables.length in Shared Adobe platform.", "keywords": ["Tables.length"]},
+  {"topic": "Tables.toSource", "file": "community-types/indesign/tables/to-source.md", "summary": "Open when looking up Tables.toSource in Shared Adobe platform.", "keywords": ["Tables.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

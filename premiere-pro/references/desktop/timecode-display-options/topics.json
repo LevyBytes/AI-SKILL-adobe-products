@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Compact display", "file": "references/desktop/timecode-display-options/compact-display.md", "summary": "Open when looking up Compact display in Premiere Pro.", "keywords": ["Compact display"]},
-  {"topic": "Format display", "file": "references/desktop/timecode-display-options/format-display.md", "summary": "Open when looking up Format display in Premiere Pro.", "keywords": ["Format display"]},
-  {"topic": "Full Size", "file": "references/desktop/timecode-display-options/full-size.md", "summary": "Open when looking up Full Size in Premiere Pro.", "keywords": ["Full Size"]},
-  {"topic": "Other display options", "file": "references/desktop/timecode-display-options/other-display-options.md", "summary": "Open when looking up Other display options in Premiere Pro.", "keywords": ["Other display options"]},
-  {"topic": "Sequence display", "file": "references/desktop/timecode-display-options/sequence-display.md", "summary": "Open when looking up Sequence display in Premiere Pro.", "keywords": ["Sequence display"]},
-  {"topic": "Source Tracks display", "file": "references/desktop/timecode-display-options/source-tracks-display.md", "summary": "Open when looking up Source Tracks display in Premiere Pro.", "keywords": ["Source Tracks display"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

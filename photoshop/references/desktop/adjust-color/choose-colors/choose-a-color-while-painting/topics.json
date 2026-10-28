@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Choose a color from the HUD color picker", "file": "references/desktop/adjust-color/choose-colors/choose-a-color-while-painting/choose-a-color-from-the-hud-color-picker.md", "summary": "Open when looking up Choose a color from the HUD color picker in Photoshop.", "keywords": ["Choose a color from the HUD color picker"]},
-  {"topic": "Choose the type of HUD color picker", "file": "references/desktop/adjust-color/choose-colors/choose-a-color-while-painting/choose-the-type-of-hud-color-picker.md", "summary": "Open when looking up Choose the type of HUD color picker in Photoshop.", "keywords": ["Choose the type of HUD color picker"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

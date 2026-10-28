@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Bookmarks", "file": "scripting/the-script-editor/bookmarks.md", "summary": "Open when looking up Bookmarks in Shared Adobe platform.", "keywords": ["Bookmarks"]},
+  {"topic": "Function finders", "file": "scripting/the-script-editor/function-finders.md", "summary": "Open when looking up Function finders in Shared Adobe platform.", "keywords": ["Function finders"]},
+  {"topic": "View options", "file": "scripting/the-script-editor/view-options.md", "summary": "Open when looking up View options in Shared Adobe platform.", "keywords": ["View options"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

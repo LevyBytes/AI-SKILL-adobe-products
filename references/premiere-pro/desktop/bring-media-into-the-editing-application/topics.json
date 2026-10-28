@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Ingest, organize, and prepare media for broadcast editing", "file": "desktop/bring-media-into-the-editing-application/ingest-organize-and-prepare-media-for-broadcast-editing.md", "summary": "Open when looking up Ingest, organize, and prepare media for broadcast editing in Premiere Pro.", "keywords": ["Ingest, organize, and prepare media for broadcast editing"]},
+  {"topic": "Too many formats", "file": "desktop/bring-media-into-the-editing-application/too-many-formats.md", "summary": "Open when looking up Too many formats in Premiere Pro.", "keywords": ["Too many formats"]},
+  {"topic": "Too much media", "file": "desktop/bring-media-into-the-editing-application/too-much-media.md", "summary": "Open when looking up Too much media in Premiere Pro.", "keywords": ["Too much media"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

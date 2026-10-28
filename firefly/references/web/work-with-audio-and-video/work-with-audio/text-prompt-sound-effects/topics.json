@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "firefly", "topics": [
-  {"topic": "Generate and add sound effects to a video or audio file", "file": "references/web/work-with-audio-and-video/work-with-audio/text-prompt-sound-effects/generate-and-add-sound-effects-to-a-video-or-audio-file.md", "summary": "Open when looking up Generate and add sound effects to a video or audio file in Firefly.", "keywords": ["Generate and add sound effects to a video or audio file"]},
-  {"topic": "Generate sound effects", "file": "references/web/work-with-audio-and-video/work-with-audio/text-prompt-sound-effects/generate-sound-effects.md", "summary": "Open when looking up Generate sound effects in Firefly.", "keywords": ["Generate sound effects"]},
-  {"topic": "Generate sound effects using the Firefly mobile web app", "file": "references/web/work-with-audio-and-video/work-with-audio/text-prompt-sound-effects/generate-sound-effects-using-the-firefly-mobile-web-app.md", "summary": "Open when looking up Generate sound effects using the Firefly mobile web app in Firefly.", "keywords": ["Generate sound effects using the Firefly mobile web app"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

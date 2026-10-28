@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Reduce colors with a preset", "file": "desktop/manage-colors/modify-colors/limit-colors-in-artworks/reduce-colors-with-a-preset.md", "summary": "Open when looking up Reduce colors with a preset in Illustrator.", "keywords": ["Reduce colors with a preset"]},
+  {"topic": "Reduce colors with custom options", "file": "desktop/manage-colors/modify-colors/limit-colors-in-artworks/reduce-colors-with-custom-options.md", "summary": "Open when looking up Reduce colors with custom options in Illustrator.", "keywords": ["Reduce colors with custom options"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

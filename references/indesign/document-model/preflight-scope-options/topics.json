@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "PREFLIGHT_ALL_DOCUMENTS", "file": "document-model/preflight-scope-options/preflightalldocuments.md", "summary": "Open when looking up PREFLIGHT_ALL_DOCUMENTS in InDesign.", "keywords": ["PREFLIGHT_ALL_DOCUMENTS"]},
+  {"topic": "PREFLIGHT_ALL_PAGES", "file": "document-model/preflight-scope-options/preflightallpages.md", "summary": "Open when looking up PREFLIGHT_ALL_PAGES in InDesign.", "keywords": ["PREFLIGHT_ALL_PAGES"]},
+  {"topic": "PREFLIGHT_SELECTED_DOCUMENTS", "file": "document-model/preflight-scope-options/preflightselecteddocuments.md", "summary": "Open when looking up PREFLIGHT_SELECTED_DOCUMENTS in InDesign.", "keywords": ["PREFLIGHT_SELECTED_DOCUMENTS"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

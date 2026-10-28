@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Discovery", "file": "scripting/net/discovery.md", "summary": "Open when looking up Discovery in Acrobat.", "keywords": ["Discovery"]},
+  {"topic": "HTTP", "file": "scripting/net/http.md", "summary": "Open when looking up HTTP in Acrobat.", "keywords": ["HTTP"]},
+  {"topic": "JavaScript APIs - Net", "file": "scripting/net/java-script-apis-net.md", "summary": "Open when looking up JavaScript APIs - Net in Acrobat.", "keywords": ["JavaScript APIs - Net"]},
+  {"topic": "Net methods", "file": "scripting/net/net-methods.md", "summary": "Open when looking up Net methods in Acrobat.", "keywords": ["Net methods"]},
+  {"topic": "Net.SOAP methods", "file": "scripting/net/net-soap-methods.md", "summary": "Open when looking up Net.SOAP methods in Acrobat.", "keywords": ["Net.SOAP methods"]},
+  {"topic": "Net.SOAP properties", "file": "scripting/net/net-soap-properties.md", "summary": "Open when looking up Net.SOAP properties in Acrobat.", "keywords": ["Net.SOAP properties"]},
+  {"topic": "SOAP", "file": "scripting/net/soap.md", "summary": "Open when looking up SOAP in Acrobat.", "keywords": ["SOAP"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

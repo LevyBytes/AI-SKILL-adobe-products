@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Image blob references", "file": "references/uxp/examples/image-blob/reference-index.md", "summary": "Open when looking up Image blob in Premiere Pro.", "keywords": ["Image blob references"]},
-  {"topic": "Pointer capture references", "file": "references/uxp/examples/pointer-capture/reference-index.md", "summary": "Open when looking up Pointer capture in Premiere Pro.", "keywords": ["Pointer capture references"]},
-  {"topic": "Sequence dimensions dialog references", "file": "references/uxp/examples/sequence-dimensions-dialog/reference-index.md", "summary": "Open when looking up Sequence dimensions dialog in Premiere Pro.", "keywords": ["Sequence dimensions dialog references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

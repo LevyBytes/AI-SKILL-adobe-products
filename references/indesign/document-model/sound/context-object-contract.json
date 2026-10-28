@@ -1,0 +1,18 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "duplicate", "file": "document-model/sound/duplicate.md", "summary": "Open when looking up duplicate in InDesign.", "keywords": ["duplicate"]},
+  {"topic": "extractLabel", "file": "document-model/sound/extract-label.md", "summary": "Open when looking up extractLabel in InDesign.", "keywords": ["extractLabel"]},
+  {"topic": "getElements", "file": "document-model/sound/get-elements.md", "summary": "Open when looking up getElements in InDesign.", "keywords": ["getElements"]},
+  {"topic": "id", "file": "document-model/sound/id.md", "summary": "Open when looking up id in InDesign.", "keywords": ["id"]},
+  {"topic": "index", "file": "document-model/sound/index.md", "summary": "Open when looking up index in InDesign.", "keywords": ["index"]},
+  {"topic": "insertLabel", "file": "document-model/sound/insert-label.md", "summary": "Open when looking up insertLabel in InDesign.", "keywords": ["insertLabel"]},
+  {"topic": "isValid", "file": "document-model/sound/is-valid.md", "summary": "Open when looking up isValid in InDesign.", "keywords": ["isValid"]},
+  {"topic": "label", "file": "document-model/sound/label.md", "summary": "Open when looking up label in InDesign.", "keywords": ["label"]},
+  {"topic": "move", "file": "document-model/sound/move.md", "summary": "Open when looking up move in InDesign.", "keywords": ["move"]},
+  {"topic": "name", "file": "document-model/sound/name.md", "summary": "Open when looking up name in InDesign.", "keywords": ["name"]},
+  {"topic": "parent", "file": "document-model/sound/parent.md", "summary": "Open when looking up parent in InDesign.", "keywords": ["parent"]},
+  {"topic": "properties", "file": "document-model/sound/properties.md", "summary": "Open when looking up properties in InDesign.", "keywords": ["properties"]},
+  {"topic": "remove", "file": "document-model/sound/remove.md", "summary": "Open when looking up remove in InDesign.", "keywords": ["remove"]},
+  {"topic": "toSource", "file": "document-model/sound/to-source.md", "summary": "Open when looking up toSource in InDesign.", "keywords": ["toSource"]},
+  {"topic": "toSpecifier", "file": "document-model/sound/to-specifier.md", "summary": "Open when looking up toSpecifier in InDesign.", "keywords": ["toSpecifier"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

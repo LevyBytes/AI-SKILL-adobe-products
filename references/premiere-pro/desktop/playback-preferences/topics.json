@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Playback preferences for devices, timing, and capture hardware", "file": "desktop/playback-preferences/playback-preferences-for-devices-timing-and-capture-hardware.md", "summary": "Open when looking up Playback preferences for devices, timing, and capture hardware in Premiere Pro.", "keywords": ["Playback preferences for devices, timing, and capture hardware"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "DialogColumns collection iteration", "file": "community-types/indesign/dialog-columns/collection-iteration.md", "summary": "Open when looking up DialogColumns collection iteration in Shared Adobe platform.", "keywords": ["DialogColumns collection iteration"]},
+  {"topic": "DialogColumns declaration", "file": "community-types/indesign/dialog-columns/declaration.md", "summary": "Open when looking up DialogColumns declaration in Shared Adobe platform.", "keywords": ["DialogColumns declaration"]},
+  {"topic": "DialogColumns named and indexed items", "file": "community-types/indesign/dialog-columns/named-and-indexed-items.md", "summary": "Open when looking up DialogColumns named and indexed items in Shared Adobe platform.", "keywords": ["DialogColumns named and indexed items"]},
+  {"topic": "DialogColumns.add", "file": "community-types/indesign/dialog-columns/add.md", "summary": "Open when looking up DialogColumns.add in Shared Adobe platform.", "keywords": ["DialogColumns.add"]},
+  {"topic": "DialogColumns.count", "file": "community-types/indesign/dialog-columns/count.md", "summary": "Open when looking up DialogColumns.count in Shared Adobe platform.", "keywords": ["DialogColumns.count"]},
+  {"topic": "DialogColumns.IndexSignature", "file": "community-types/indesign/dialog-columns/index-signature.md", "summary": "Open when looking up DialogColumns.IndexSignature in Shared Adobe platform.", "keywords": ["DialogColumns.IndexSignature"]},
+  {"topic": "DialogColumns.itemByRange", "file": "community-types/indesign/dialog-columns/item-by-range.md", "summary": "Open when looking up DialogColumns.itemByRange in Shared Adobe platform.", "keywords": ["DialogColumns.itemByRange"]},
+  {"topic": "DialogColumns.length", "file": "community-types/indesign/dialog-columns/length.md", "summary": "Open when looking up DialogColumns.length in Shared Adobe platform.", "keywords": ["DialogColumns.length"]},
+  {"topic": "DialogColumns.toSource", "file": "community-types/indesign/dialog-columns/to-source.md", "summary": "Open when looking up DialogColumns.toSource in Shared Adobe platform.", "keywords": ["DialogColumns.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

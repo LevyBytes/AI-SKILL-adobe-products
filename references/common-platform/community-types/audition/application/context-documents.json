@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Application.activeDocument", "file": "community-types/audition/application/active-document.md", "summary": "Open when looking up Application.activeDocument in Shared Adobe platform.", "keywords": ["Application.activeDocument"]},
+  {"topic": "Application.documents", "file": "community-types/audition/application/documents.md", "summary": "Open when looking up Application.documents in Shared Adobe platform.", "keywords": ["Application.documents"]},
+  {"topic": "Application.openDocument", "file": "community-types/audition/application/open-document.md", "summary": "Open when looking up Application.openDocument in Shared Adobe platform.", "keywords": ["Application.openDocument"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

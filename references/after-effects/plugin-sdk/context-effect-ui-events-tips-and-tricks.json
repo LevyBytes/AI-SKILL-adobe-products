@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Arbitrary data references", "file": "plugin-sdk/arbitrary-data/reference-index.md", "summary": "Open when looking up Arbitrary data in After Effects.", "keywords": ["Arbitrary data references"]},
+  {"topic": "Custom ui implementation for color sampling using keyframes references", "file": "plugin-sdk/custom-ui-implementation-for-color-sampling-using-keyframes/reference-index.md", "summary": "Open when looking up Custom ui implementation for color sampling using keyframes in After Effects.", "keywords": ["Custom ui implementation for color sampling using keyframes references"]},
+  {"topic": "How deep are my pixels references", "file": "plugin-sdk/how-deep-are-my-pixels/reference-index.md", "summary": "Open when looking up How deep are my pixels in After Effects.", "keywords": ["How deep are my pixels references"]},
+  {"topic": "Ui performance references", "file": "plugin-sdk/ui-performance/reference-index.md", "summary": "Open when looking up Ui performance in After Effects.", "keywords": ["Ui performance references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

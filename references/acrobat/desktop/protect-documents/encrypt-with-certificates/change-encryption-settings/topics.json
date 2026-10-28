@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Remove encryption settings", "file": "desktop/protect-documents/encrypt-with-certificates/change-encryption-settings/remove-encryption-settings.md", "summary": "Open when looking up Remove encryption settings in Acrobat.", "keywords": ["Remove encryption settings"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

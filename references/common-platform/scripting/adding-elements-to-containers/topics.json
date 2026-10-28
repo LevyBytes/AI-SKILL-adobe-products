@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Accessing child elements", "file": "scripting/adding-elements-to-containers/accessing-child-elements.md", "summary": "Open when looking up Accessing child elements in Shared Adobe platform.", "keywords": ["Accessing child elements"]},
+  {"topic": "ScriptUI programming model - Adding elements to containers", "file": "scripting/adding-elements-to-containers/script-ui-programming-model-adding-elements-to-containers.md", "summary": "Open when looking up ScriptUI programming model - Adding elements to containers in Shared Adobe platform.", "keywords": ["ScriptUI programming model - Adding elements to containers"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

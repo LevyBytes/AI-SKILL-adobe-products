@@ -1,0 +1,18 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Content bounds references", "file": "plugin-sdk/content-bounds/reference-index.md", "summary": "Open when looking up Content bounds in After Effects.", "keywords": ["Content bounds references"]},
+  {"topic": "Flag on the play references", "file": "plugin-sdk/flag-on-the-play/reference-index.md", "summary": "Open when looking up Flag on the play in After Effects.", "keywords": ["Flag on the play references"]},
+  {"topic": "How to smartify references", "file": "plugin-sdk/how-to-smartify/reference-index.md", "summary": "Open when looking up How to smartify in After Effects.", "keywords": ["How to smartify references"]},
+  {"topic": "Pf cmd smartprerender references", "file": "plugin-sdk/pf-cmd-smartprerender/reference-index.md", "summary": "Open when looking up Pf cmd smartprerender in After Effects.", "keywords": ["Pf cmd smartprerender references"]},
+  {"topic": "Pf cmd smartrender references", "file": "plugin-sdk/pf-cmd-smartrender/reference-index.md", "summary": "Open when looking up Pf cmd smartrender in After Effects.", "keywords": ["Pf cmd smartrender references"]},
+  {"topic": "Pf pre render extra references", "file": "plugin-sdk/pf-pre-render-extra/reference-index.md", "summary": "Open when looking up Pf pre render extra in After Effects.", "keywords": ["Pf pre render extra references"]},
+  {"topic": "Pf smart render extra references", "file": "plugin-sdk/pf-smart-render-extra/reference-index.md", "summary": "Open when looking up Pf smart render extra in After Effects.", "keywords": ["Pf smart render extra references"]},
+  {"topic": "Preservergbofzeroalpha references", "file": "plugin-sdk/preservergbofzeroalpha/reference-index.md", "summary": "Open when looking up Preservergbofzeroalpha in After Effects.", "keywords": ["Preservergbofzeroalpha references"]},
+  {"topic": "Rectangles references", "file": "plugin-sdk/rectangles/reference-index.md", "summary": "Open when looking up Rectangles in After Effects.", "keywords": ["Rectangles references"]},
+  {"topic": "SmartFX", "file": "plugin-sdk/smart-fx.md", "summary": "Open when looking up SmartFX in After Effects.", "keywords": ["SmartFX"]},
+  {"topic": "The size of a layer references", "file": "plugin-sdk/the-size-of-a-layer/reference-index.md", "summary": "Open when looking up The size of a layer in After Effects.", "keywords": ["The size of a layer references"]},
+  {"topic": "The way things are now references", "file": "plugin-sdk/the-way-things-are-now/reference-index.md", "summary": "Open when looking up The way things are now in After Effects.", "keywords": ["The way things are now references"]},
+  {"topic": "The way things were references", "file": "plugin-sdk/the-way-things-were/reference-index.md", "summary": "Open when looking up The way things were in After Effects.", "keywords": ["The way things were references"]},
+  {"topic": "Wait gimme that layer back references", "file": "plugin-sdk/wait-gimme-that-layer-back/reference-index.md", "summary": "Open when looking up Wait gimme that layer back in After Effects.", "keywords": ["Wait gimme that layer back references"]},
+  {"topic": "When to access layer parameters references", "file": "plugin-sdk/when-to-access-layer-parameters/reference-index.md", "summary": "Open when looking up When to access layer parameters in After Effects.", "keywords": ["When to access layer parameters references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

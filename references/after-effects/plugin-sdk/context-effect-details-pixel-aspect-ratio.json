@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Applying user input in pixels references", "file": "plugin-sdk/applying-user-input-in-pixels/reference-index.md", "summary": "Open when looking up Applying user input in pixels in After Effects.", "keywords": ["Applying user input in pixels references"]},
+  {"topic": "Don t assume pixels are square or 1 to 1 references", "file": "plugin-sdk/don-t-assume-pixels-are-square-or-1-to-1/reference-index.md", "summary": "Open when looking up Don t assume pixels are square or 1 to 1 in After Effects.", "keywords": ["Don t assume pixels are square or 1 to 1 references"]},
+  {"topic": "Pixel Aspect Ratio", "file": "plugin-sdk/pixel-aspect-ratio.md", "summary": "Open when looking up Pixel Aspect Ratio in After Effects.", "keywords": ["Pixel Aspect Ratio"]},
+  {"topic": "Suggested approach references", "file": "plugin-sdk/suggested-approach/reference-index.md", "summary": "Open when looking up Suggested approach in After Effects.", "keywords": ["Suggested approach references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

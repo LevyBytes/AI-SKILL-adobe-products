@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Access hidden tools", "file": "references/desktop/get-started/toolbox/view-and-select-tools/access-hidden-tools.md", "summary": "Open when looking up Access hidden tools in InDesign.", "keywords": ["Access hidden tools"]},
-  {"topic": "Switch tools temporarily", "file": "references/desktop/get-started/toolbox/view-and-select-tools/switch-tools-temporarily.md", "summary": "Open when looking up Switch tools temporarily in InDesign.", "keywords": ["Switch tools temporarily"]},
-  {"topic": "View and select visible tools from the toolbox", "file": "references/desktop/get-started/toolbox/view-and-select-tools/view-and-select-visible-tools-from-the-toolbox.md", "summary": "Open when looking up View and select visible tools from the toolbox in InDesign.", "keywords": ["View and select visible tools from the toolbox"]},
-  {"topic": "View tool hints", "file": "references/desktop/get-started/toolbox/view-and-select-tools/view-tool-hints.md", "summary": "Open when looking up View tool hints in InDesign.", "keywords": ["View tool hints"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

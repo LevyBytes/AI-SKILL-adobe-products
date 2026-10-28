@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Control numbering flow", "file": "desktop/text-formatting/lists-and-numbering/change-numbered-list-options/control-numbering-flow.md", "summary": "Open when looking up Control numbering flow in InDesign.", "keywords": ["Control numbering flow"]},
+  {"topic": "Customize numbering styles", "file": "desktop/text-formatting/lists-and-numbering/change-numbered-list-options/customize-numbering-styles.md", "summary": "Open when looking up Customize numbering styles in InDesign.", "keywords": ["Customize numbering styles"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

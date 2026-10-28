@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "CTScript.CT_ADLAM_SCRIPT", "file": "community-types/aftereffects/ct-script/ctadlamscript.md", "summary": "Open when looking up CTScript.CT_ADLAM_SCRIPT in Shared Adobe platform.", "keywords": ["CTScript.CT_ADLAM_SCRIPT"]},
+  {"topic": "CTScript.CT_BAMUM_SCRIPT", "file": "community-types/aftereffects/ct-script/ctbamumscript.md", "summary": "Open when looking up CTScript.CT_BAMUM_SCRIPT in Shared Adobe platform.", "keywords": ["CTScript.CT_BAMUM_SCRIPT"]},
+  {"topic": "CTScript.CT_BASSAVAH_SCRIPT", "file": "community-types/aftereffects/ct-script/ctbassavahscript.md", "summary": "Open when looking up CTScript.CT_BASSAVAH_SCRIPT in Shared Adobe platform.", "keywords": ["CTScript.CT_BASSAVAH_SCRIPT"]},
+  {"topic": "CTScript.CT_GEEZ_SCRIPT", "file": "community-types/aftereffects/ct-script/ctgeezscript.md", "summary": "Open when looking up CTScript.CT_GEEZ_SCRIPT in Shared Adobe platform.", "keywords": ["CTScript.CT_GEEZ_SCRIPT"]},
+  {"topic": "CTScript.CT_NKO_SCRIPT", "file": "community-types/aftereffects/ct-script/ctnkoscript.md", "summary": "Open when looking up CTScript.CT_NKO_SCRIPT in Shared Adobe platform.", "keywords": ["CTScript.CT_NKO_SCRIPT"]},
+  {"topic": "CTScript.CT_TIFINAGH_SCRIPT", "file": "community-types/aftereffects/ct-script/cttifinaghscript.md", "summary": "Open when looking up CTScript.CT_TIFINAGH_SCRIPT in Shared Adobe platform.", "keywords": ["CTScript.CT_TIFINAGH_SCRIPT"]},
+  {"topic": "CTScript.CT_VAI_SCRIPT", "file": "community-types/aftereffects/ct-script/ctvaiscript.md", "summary": "Open when looking up CTScript.CT_VAI_SCRIPT in Shared Adobe platform.", "keywords": ["CTScript.CT_VAI_SCRIPT"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Enable Full Screen Mode to view transitions", "file": "desktop/graphics-and-media/page-transitions/view-page-transitions-in-pdfs/enable-full-screen-mode-to-view-transitions.md", "summary": "Open when looking up Enable Full Screen Mode to view transitions in InDesign.", "keywords": ["Enable Full Screen Mode to view transitions"]},
+  {"topic": "Include page transitions during export", "file": "desktop/graphics-and-media/page-transitions/view-page-transitions-in-pdfs/include-page-transitions-during-export.md", "summary": "Open when looking up Include page transitions during export in InDesign.", "keywords": ["Include page transitions during export"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

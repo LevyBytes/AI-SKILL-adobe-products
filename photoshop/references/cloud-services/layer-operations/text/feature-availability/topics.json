@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Available in V2 now", "file": "references/cloud-services/layer-operations/text/feature-availability/available-in-v2-now.md", "summary": "Open when looking up Available in V2 now in Photoshop.", "keywords": ["Available in V2 now"]},
-  {"topic": "V1 capabilities still absent from V2", "file": "references/cloud-services/layer-operations/text/feature-availability/v1-capabilities-still-absent-from-v2.md", "summary": "Open when looking up V1 capabilities still absent from V2 in Photoshop.", "keywords": ["V1 capabilities still absent from V2"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

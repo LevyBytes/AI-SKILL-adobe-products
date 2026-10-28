@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "addScript", "file": "scripting/doc/add-script.md", "summary": "Open when looking up addScript in Acrobat.", "keywords": ["addScript"]},
+  {"topic": "removeScript", "file": "scripting/doc/remove-script.md", "summary": "Open when looking up removeScript in Acrobat.", "keywords": ["removeScript"]},
+  {"topic": "setAction", "file": "scripting/doc/set-action.md", "summary": "Open when looking up setAction in Acrobat.", "keywords": ["setAction"]},
+  {"topic": "setPageAction", "file": "scripting/doc/set-page-action.md", "summary": "Open when looking up setPageAction in Acrobat.", "keywords": ["setPageAction"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

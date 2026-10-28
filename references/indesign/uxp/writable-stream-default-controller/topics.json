@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "error(message)", "file": "uxp/writable-stream-default-controller/error.md", "summary": "Open when looking up error(message) in InDesign.", "keywords": ["error(message)"]},
+  {"topic": "signal : AbortSignal", "file": "uxp/writable-stream-default-controller/signal-abort-signal.md", "summary": "Open when looking up signal : AbortSignal in InDesign.", "keywords": ["signal : AbortSignal"]},
+  {"topic": "window.WritableStreamDefaultController", "file": "uxp/writable-stream-default-controller/overview.md", "summary": "Open when looking up window.WritableStreamDefaultController in InDesign.", "keywords": ["window.WritableStreamDefaultController"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

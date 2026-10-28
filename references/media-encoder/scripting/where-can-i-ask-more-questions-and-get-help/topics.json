@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/media-encoder", "topics": [
+  {"topic": "AME Scripting Guide - Where can I ask more questions and get help?", "file": "scripting/where-can-i-ask-more-questions-and-get-help/scripting-support-resources.md", "summary": "Open when looking up AME Scripting Guide - Where can I ask more questions and get help? in Media Encoder.", "keywords": ["AME Scripting Guide - Where can I ask more questions and get help?"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,5 +1,0 @@
-# color methods
-
-convert
-
-equal

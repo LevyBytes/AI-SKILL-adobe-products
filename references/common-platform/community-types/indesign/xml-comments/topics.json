@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "XMLComments collection iteration", "file": "community-types/indesign/xml-comments/collection-iteration.md", "summary": "Open when looking up XMLComments collection iteration in Shared Adobe platform.", "keywords": ["XMLComments collection iteration"]},
+  {"topic": "XMLComments declaration", "file": "community-types/indesign/xml-comments/declaration.md", "summary": "Open when looking up XMLComments declaration in Shared Adobe platform.", "keywords": ["XMLComments declaration"]},
+  {"topic": "XMLComments named and indexed items", "file": "community-types/indesign/xml-comments/named-and-indexed-items.md", "summary": "Open when looking up XMLComments named and indexed items in Shared Adobe platform.", "keywords": ["XMLComments named and indexed items"]},
+  {"topic": "XMLComments.add", "file": "community-types/indesign/xml-comments/add.md", "summary": "Open when looking up XMLComments.add in Shared Adobe platform.", "keywords": ["XMLComments.add"]},
+  {"topic": "XMLComments.count", "file": "community-types/indesign/xml-comments/count.md", "summary": "Open when looking up XMLComments.count in Shared Adobe platform.", "keywords": ["XMLComments.count"]},
+  {"topic": "XMLComments.IndexSignature", "file": "community-types/indesign/xml-comments/index-signature.md", "summary": "Open when looking up XMLComments.IndexSignature in Shared Adobe platform.", "keywords": ["XMLComments.IndexSignature"]},
+  {"topic": "XMLComments.itemByRange", "file": "community-types/indesign/xml-comments/item-by-range.md", "summary": "Open when looking up XMLComments.itemByRange in Shared Adobe platform.", "keywords": ["XMLComments.itemByRange"]},
+  {"topic": "XMLComments.length", "file": "community-types/indesign/xml-comments/length.md", "summary": "Open when looking up XMLComments.length in Shared Adobe platform.", "keywords": ["XMLComments.length"]},
+  {"topic": "XMLComments.toSource", "file": "community-types/indesign/xml-comments/to-source.md", "summary": "Open when looking up XMLComments.toSource in Shared Adobe platform.", "keywords": ["XMLComments.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

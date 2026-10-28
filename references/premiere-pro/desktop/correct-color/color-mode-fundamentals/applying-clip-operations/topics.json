@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Editing the first Adjust Operation in Edit mode", "file": "desktop/correct-color/color-mode-fundamentals/applying-clip-operations/editing-the-first-adjust-operation-in-edit-mode.md", "summary": "Open when looking up Editing the first Adjust Operation in Edit mode in Premiere Pro.", "keywords": ["Editing the first Adjust Operation in Edit mode"]},
+  {"topic": "Why add clip specific operations?", "file": "desktop/correct-color/color-mode-fundamentals/applying-clip-operations/why-add-clip-specific-operations.md", "summary": "Open when looking up Why add clip specific operations? in Premiere Pro.", "keywords": ["Why add clip specific operations?"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,18 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "_AdvBlendGroup", "file": "community-types/aftereffects/adv-blend-group.md", "summary": "Open when looking up _AdvBlendGroup in Shared Adobe platform.", "keywords": ["_AdvBlendGroup"]},
+  {"topic": "_BevelAndEmboss", "file": "community-types/aftereffects/bevel-and-emboss.md", "summary": "Open when looking up _BevelAndEmboss in Shared Adobe platform.", "keywords": ["_BevelAndEmboss"]},
+  {"topic": "_BlendOptionsGroup", "file": "community-types/aftereffects/blend-options-group.md", "summary": "Open when looking up _BlendOptionsGroup in Shared Adobe platform.", "keywords": ["_BlendOptionsGroup"]},
+  {"topic": "BlendingMode", "file": "community-types/aftereffects/blending-mode.md", "summary": "Open when looking up BlendingMode in Shared Adobe platform.", "keywords": ["BlendingMode"]},
+  {"topic": "_ColorOverlay", "file": "community-types/aftereffects/color-overlay.md", "summary": "Open when looking up _ColorOverlay in Shared Adobe platform.", "keywords": ["_ColorOverlay"]},
+  {"topic": "_DropShadow", "file": "community-types/aftereffects/drop-shadow.md", "summary": "Open when looking up _DropShadow in Shared Adobe platform.", "keywords": ["_DropShadow"]},
+  {"topic": "_GradientOverlay", "file": "community-types/aftereffects/gradient-overlay.md", "summary": "Open when looking up _GradientOverlay in Shared Adobe platform.", "keywords": ["_GradientOverlay"]},
+  {"topic": "_InnerGlow", "file": "community-types/aftereffects/inner-glow.md", "summary": "Open when looking up _InnerGlow in Shared Adobe platform.", "keywords": ["_InnerGlow"]},
+  {"topic": "_InnerShadow", "file": "community-types/aftereffects/inner-shadow.md", "summary": "Open when looking up _InnerShadow in Shared Adobe platform.", "keywords": ["_InnerShadow"]},
+  {"topic": "_LayerStyles", "file": "community-types/aftereffects/layer-styles.md", "summary": "Open when looking up _LayerStyles in Shared Adobe platform.", "keywords": ["_LayerStyles"]},
+  {"topic": "_OuterGlow", "file": "community-types/aftereffects/outer-glow.md", "summary": "Open when looking up _OuterGlow in Shared Adobe platform.", "keywords": ["_OuterGlow"]},
+  {"topic": "_Satin", "file": "community-types/aftereffects/satin.md", "summary": "Open when looking up _Satin in Shared Adobe platform.", "keywords": ["_Satin"]},
+  {"topic": "_Stroke", "file": "community-types/aftereffects/stroke.md", "summary": "Open when looking up _Stroke in Shared Adobe platform.", "keywords": ["_Stroke"]},
+  {"topic": "_Swatch", "file": "community-types/aftereffects/swatch.md", "summary": "Open when looking up _Swatch in Shared Adobe platform.", "keywords": ["_Swatch"]},
+  {"topic": "_SwatchValue", "file": "community-types/aftereffects/swatch-value.md", "summary": "Open when looking up _SwatchValue in Shared Adobe platform.", "keywords": ["_SwatchValue"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

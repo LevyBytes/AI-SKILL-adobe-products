@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Impact of resetting preferences", "file": "desktop/troubleshooting/preferences-and-settings/why-reset-preferences/impact-of-resetting-preferences.md", "summary": "Open when looking up Impact of resetting preferences in Premiere Pro.", "keywords": ["Impact of resetting preferences"]},
+  {"topic": "Purpose of resetting preferences", "file": "desktop/troubleshooting/preferences-and-settings/why-reset-preferences/purpose-of-resetting-preferences.md", "summary": "Open when looking up Purpose of resetting preferences in Premiere Pro.", "keywords": ["Purpose of resetting preferences"]},
+  {"topic": "Scratch disk settings and project files", "file": "desktop/troubleshooting/preferences-and-settings/why-reset-preferences/scratch-disk-settings-and-project-files.md", "summary": "Open when looking up Scratch disk settings and project files in Premiere Pro.", "keywords": ["Scratch disk settings and project files"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Story.cellStyleMappings", "file": "community-types/indesign/story/cell-style-mappings.md", "summary": "Open when looking up Story.cellStyleMappings in Shared Adobe platform.", "keywords": ["Story.cellStyleMappings"]},
+  {"topic": "Story.tableStyleMappings", "file": "community-types/indesign/story/table-style-mappings.md", "summary": "Open when looking up Story.tableStyleMappings in Shared Adobe platform.", "keywords": ["Story.tableStyleMappings"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

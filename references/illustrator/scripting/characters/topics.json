@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Characters.add()", "file": "scripting/characters/add.md", "summary": "Open when looking up Characters.add() in Illustrator.", "keywords": ["Characters.add()"]},
+  {"topic": "Characters.addBefore()", "file": "scripting/characters/add-before.md", "summary": "Open when looking up Characters.addBefore() in Illustrator.", "keywords": ["Characters.addBefore()"]},
+  {"topic": "Characters.index()", "file": "scripting/characters/index.md", "summary": "Open when looking up Characters.index() in Illustrator.", "keywords": ["Characters.index()"]},
+  {"topic": "Characters.length", "file": "scripting/characters/length.md", "summary": "Open when looking up Characters.length in Illustrator.", "keywords": ["Characters.length"]},
+  {"topic": "Characters.parent", "file": "scripting/characters/parent.md", "summary": "Open when looking up Characters.parent in Illustrator.", "keywords": ["Characters.parent"]},
+  {"topic": "Characters.removeAll()", "file": "scripting/characters/remove-all.md", "summary": "Open when looking up Characters.removeAll() in Illustrator.", "keywords": ["Characters.removeAll()"]},
+  {"topic": "Characters.typename", "file": "scripting/characters/typename.md", "summary": "Open when looking up Characters.typename in Illustrator.", "keywords": ["Characters.typename"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

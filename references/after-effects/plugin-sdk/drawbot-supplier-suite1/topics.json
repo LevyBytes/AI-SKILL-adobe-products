@@ -1,0 +1,16 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "GetDefaultFontSize", "file": "plugin-sdk/drawbot-supplier-suite1/get-default-font-size.md", "summary": "Open when looking up GetDefaultFontSize in After Effects.", "keywords": ["GetDefaultFontSize"]},
+  {"topic": "NewBrush", "file": "plugin-sdk/drawbot-supplier-suite1/new-brush.md", "summary": "Open when looking up NewBrush in After Effects.", "keywords": ["NewBrush"]},
+  {"topic": "NewDefaultFont", "file": "plugin-sdk/drawbot-supplier-suite1/new-default-font.md", "summary": "Open when looking up NewDefaultFont in After Effects.", "keywords": ["NewDefaultFont"]},
+  {"topic": "NewImageFromBuffer", "file": "plugin-sdk/drawbot-supplier-suite1/new-image-from-buffer.md", "summary": "Open when looking up NewImageFromBuffer in After Effects.", "keywords": ["NewImageFromBuffer"]},
+  {"topic": "NewPath", "file": "plugin-sdk/drawbot-supplier-suite1/new-path.md", "summary": "Open when looking up NewPath in After Effects.", "keywords": ["NewPath"]},
+  {"topic": "NewPen", "file": "plugin-sdk/drawbot-supplier-suite1/new-pen.md", "summary": "Open when looking up NewPen in After Effects.", "keywords": ["NewPen"]},
+  {"topic": "PrefersPixelLayoutARGB", "file": "plugin-sdk/drawbot-supplier-suite1/prefers-pixel-layout-argb.md", "summary": "Open when looking up PrefersPixelLayoutARGB in After Effects.", "keywords": ["PrefersPixelLayoutARGB"]},
+  {"topic": "PrefersPixelLayoutBGRA", "file": "plugin-sdk/drawbot-supplier-suite1/prefers-pixel-layout-bgra.md", "summary": "Open when looking up PrefersPixelLayoutBGRA in After Effects.", "keywords": ["PrefersPixelLayoutBGRA"]},
+  {"topic": "ReleaseObject", "file": "plugin-sdk/drawbot-supplier-suite1/release-object.md", "summary": "Open when looking up ReleaseObject in After Effects.", "keywords": ["ReleaseObject"]},
+  {"topic": "RetainObject", "file": "plugin-sdk/drawbot-supplier-suite1/retain-object.md", "summary": "Open when looking up RetainObject in After Effects.", "keywords": ["RetainObject"]},
+  {"topic": "SupportsPixelLayoutARGB", "file": "plugin-sdk/drawbot-supplier-suite1/supports-pixel-layout-argb.md", "summary": "Open when looking up SupportsPixelLayoutARGB in After Effects.", "keywords": ["SupportsPixelLayoutARGB"]},
+  {"topic": "SupportsPixelLayoutBGRA", "file": "plugin-sdk/drawbot-supplier-suite1/supports-pixel-layout-bgra.md", "summary": "Open when looking up SupportsPixelLayoutBGRA in After Effects.", "keywords": ["SupportsPixelLayoutBGRA"]},
+  {"topic": "SupportsText", "file": "plugin-sdk/drawbot-supplier-suite1/supports-text.md", "summary": "Open when looking up SupportsText in After Effects.", "keywords": ["SupportsText"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

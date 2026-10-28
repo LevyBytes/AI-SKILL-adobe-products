@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "exportForWeb", "file": "document-model/wmf/export-for-web.md", "summary": "Open when looking up exportForWeb in InDesign.", "keywords": ["exportForWeb"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

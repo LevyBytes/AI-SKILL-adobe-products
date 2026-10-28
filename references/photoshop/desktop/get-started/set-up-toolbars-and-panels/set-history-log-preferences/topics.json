@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Configure History Log settings", "file": "desktop/get-started/set-up-toolbars-and-panels/set-history-log-preferences/configure-history-log-settings.md", "summary": "Open when looking up Configure History Log settings in Photoshop.", "keywords": ["Configure History Log settings"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

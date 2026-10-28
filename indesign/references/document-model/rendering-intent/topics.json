@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "ABSOLUTE_COLORIMETRIC", "file": "references/document-model/rendering-intent/absolutecolorimetric.md", "summary": "Open when looking up ABSOLUTE_COLORIMETRIC in InDesign.", "keywords": ["ABSOLUTE_COLORIMETRIC"]},
-  {"topic": "PERCEPTUAL", "file": "references/document-model/rendering-intent/perceptual.md", "summary": "Open when looking up PERCEPTUAL in InDesign.", "keywords": ["PERCEPTUAL"]},
-  {"topic": "RELATIVE_COLORIMETRIC", "file": "references/document-model/rendering-intent/relativecolorimetric.md", "summary": "Open when looking up RELATIVE_COLORIMETRIC in InDesign.", "keywords": ["RELATIVE_COLORIMETRIC"]},
-  {"topic": "SATURATION", "file": "references/document-model/rendering-intent/saturation.md", "summary": "Open when looking up SATURATION in InDesign.", "keywords": ["SATURATION"]},
-  {"topic": "USE_COLOR_SETTINGS", "file": "references/document-model/rendering-intent/usecolorsettings.md", "summary": "Open when looking up USE_COLOR_SETTINGS in InDesign.", "keywords": ["USE_COLOR_SETTINGS"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Animating Text", "file": "desktop/text/animation/animating-text.md", "summary": "Open when looking up Animating Text in After Effects.", "keywords": ["Animating Text"]},
+  {"topic": "Animating Text references", "file": "desktop/text/animation/animating-text/reference-index.md", "summary": "Open when looking up Animating Text in After Effects.", "keywords": ["Animating Text references"]},
+  {"topic": "Examples Resources Text Animation", "file": "desktop/text/animation/examples-resources-text-animation.md", "summary": "Open when looking up Examples Resources Text Animation in After Effects.", "keywords": ["Examples Resources Text Animation"]},
+  {"topic": "Examples Resources Text Animation references", "file": "desktop/text/animation/examples-resources-text-animation/reference-index.md", "summary": "Open when looking up Examples Resources Text Animation in After Effects.", "keywords": ["Examples Resources Text Animation references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

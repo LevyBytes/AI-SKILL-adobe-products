@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "External Communication", "file": "references/scripting/the-extend-script-language/external-communication.md", "summary": "Open when looking up External Communication in After Effects.", "keywords": ["External Communication"]},
-  {"topic": "File and Folder Objects", "file": "references/scripting/the-extend-script-language/file-and-folder-objects.md", "summary": "Open when looking up File and Folder Objects in After Effects.", "keywords": ["File and Folder Objects"]},
-  {"topic": "Interapplication Communication", "file": "references/scripting/the-extend-script-language/interapplication-communication.md", "summary": "Open when looking up Interapplication Communication in After Effects.", "keywords": ["Interapplication Communication"]},
-  {"topic": "Overview - The ExtendScript language", "file": "references/scripting/the-extend-script-language/overview-the-extend-script-language.md", "summary": "Open when looking up Overview - The ExtendScript language in After Effects.", "keywords": ["Overview - The ExtendScript language"]},
-  {"topic": "ScriptUI User Interface Module", "file": "references/scripting/the-extend-script-language/script-ui-user-interface-module.md", "summary": "Open when looking up ScriptUI User Interface Module in After Effects.", "keywords": ["ScriptUI User Interface Module"]},
-  {"topic": "Tools and Utilities", "file": "references/scripting/the-extend-script-language/tools-and-utilities.md", "summary": "Open when looking up Tools and Utilities in After Effects.", "keywords": ["Tools and Utilities"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "GROUP_MAPPING_RULE", "file": "document-model/map-type/groupmappingrule.md", "summary": "Open when looking up GROUP_MAPPING_RULE in InDesign.", "keywords": ["GROUP_MAPPING_RULE"]},
+  {"topic": "GROUP_TO_STYLE_MAPPING_RULE", "file": "document-model/map-type/grouptostylemappingrule.md", "summary": "Open when looking up GROUP_TO_STYLE_MAPPING_RULE in InDesign.", "keywords": ["GROUP_TO_STYLE_MAPPING_RULE"]},
+  {"topic": "STYLE_MAPPING_RULE", "file": "document-model/map-type/stylemappingrule.md", "summary": "Open when looking up STYLE_MAPPING_RULE in InDesign.", "keywords": ["STYLE_MAPPING_RULE"]},
+  {"topic": "STYLE_TO_GROUP_MAPPING_RULE", "file": "document-model/map-type/styletogroupmappingrule.md", "summary": "Open when looking up STYLE_TO_GROUP_MAPPING_RULE in InDesign.", "keywords": ["STYLE_TO_GROUP_MAPPING_RULE"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

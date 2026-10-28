@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "RuleDataObjects collection iteration", "file": "community-types/indesign/rule-data-objects/collection-iteration.md", "summary": "Open when looking up RuleDataObjects collection iteration in Shared Adobe platform.", "keywords": ["RuleDataObjects collection iteration"]},
+  {"topic": "RuleDataObjects declaration", "file": "community-types/indesign/rule-data-objects/declaration.md", "summary": "Open when looking up RuleDataObjects declaration in Shared Adobe platform.", "keywords": ["RuleDataObjects declaration"]},
+  {"topic": "RuleDataObjects named and indexed items", "file": "community-types/indesign/rule-data-objects/named-and-indexed-items.md", "summary": "Open when looking up RuleDataObjects named and indexed items in Shared Adobe platform.", "keywords": ["RuleDataObjects named and indexed items"]},
+  {"topic": "RuleDataObjects.add", "file": "community-types/indesign/rule-data-objects/add.md", "summary": "Open when looking up RuleDataObjects.add in Shared Adobe platform.", "keywords": ["RuleDataObjects.add"]},
+  {"topic": "RuleDataObjects.count", "file": "community-types/indesign/rule-data-objects/count.md", "summary": "Open when looking up RuleDataObjects.count in Shared Adobe platform.", "keywords": ["RuleDataObjects.count"]},
+  {"topic": "RuleDataObjects.IndexSignature", "file": "community-types/indesign/rule-data-objects/index-signature.md", "summary": "Open when looking up RuleDataObjects.IndexSignature in Shared Adobe platform.", "keywords": ["RuleDataObjects.IndexSignature"]},
+  {"topic": "RuleDataObjects.itemByRange", "file": "community-types/indesign/rule-data-objects/item-by-range.md", "summary": "Open when looking up RuleDataObjects.itemByRange in Shared Adobe platform.", "keywords": ["RuleDataObjects.itemByRange"]},
+  {"topic": "RuleDataObjects.length", "file": "community-types/indesign/rule-data-objects/length.md", "summary": "Open when looking up RuleDataObjects.length in Shared Adobe platform.", "keywords": ["RuleDataObjects.length"]},
+  {"topic": "RuleDataObjects.toSource", "file": "community-types/indesign/rule-data-objects/to-source.md", "summary": "Open when looking up RuleDataObjects.toSource in Shared Adobe platform.", "keywords": ["RuleDataObjects.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

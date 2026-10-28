@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Change the frame rate of a clip in the Project panel", "file": "desktop/edit-projects/modify-clip-properties/change-the-frame-rate-of-a-clip/change-the-frame-rate-of-a-clip-in-the-project-panel.md", "summary": "Open when looking up Change the frame rate of a clip in the Project panel in Premiere Pro.", "keywords": ["Change the frame rate of a clip in the Project panel"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

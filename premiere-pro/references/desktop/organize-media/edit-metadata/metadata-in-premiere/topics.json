@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "File metadata versus clip metadata", "file": "references/desktop/organize-media/edit-metadata/metadata-in-premiere/file-metadata-versus-clip-metadata.md", "summary": "Open when looking up File metadata versus clip metadata in Premiere Pro.", "keywords": ["File metadata versus clip metadata"]},
-  {"topic": "Metadata in production workflows", "file": "references/desktop/organize-media/edit-metadata/metadata-in-premiere/metadata-in-production-workflows.md", "summary": "Open when looking up Metadata in production workflows in Premiere Pro.", "keywords": ["Metadata in production workflows"]},
-  {"topic": "Metadata schemas", "file": "references/desktop/organize-media/edit-metadata/metadata-in-premiere/metadata-schemas.md", "summary": "Open when looking up Metadata schemas in Premiere Pro.", "keywords": ["Metadata schemas"]},
-  {"topic": "The Metadata panel", "file": "references/desktop/organize-media/edit-metadata/metadata-in-premiere/the-metadata-panel.md", "summary": "Open when looking up The Metadata panel in Premiere Pro.", "keywords": ["The Metadata panel"]},
-  {"topic": "The XMP standard", "file": "references/desktop/organize-media/edit-metadata/metadata-in-premiere/the-xmp-standard.md", "summary": "Open when looking up The XMP standard in Premiere Pro.", "keywords": ["The XMP standard"]},
-  {"topic": "What metadata contains", "file": "references/desktop/organize-media/edit-metadata/metadata-in-premiere/what-metadata-contains.md", "summary": "Open when looking up What metadata contains in Premiere Pro.", "keywords": ["What metadata contains"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

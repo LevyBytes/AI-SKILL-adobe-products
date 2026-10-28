@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Apply a named grid format to frame grids", "file": "desktop/layout-and-grid-tools/grids/create-and-apply-named-grids-to-frames/apply-a-named-grid-format-to-frame-grids.md", "summary": "Open when looking up Apply a named grid format to frame grids in InDesign.", "keywords": ["Apply a named grid format to frame grids"]},
+  {"topic": "Create a named grid format", "file": "desktop/layout-and-grid-tools/grids/create-and-apply-named-grids-to-frames/create-a-named-grid-format.md", "summary": "Open when looking up Create a named grid format in InDesign.", "keywords": ["Create a named grid format"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

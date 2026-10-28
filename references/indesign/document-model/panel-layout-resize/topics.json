@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "MASTERS_FIXED", "file": "document-model/panel-layout-resize/mastersfixed.md", "summary": "Open when looking up MASTERS_FIXED in InDesign.", "keywords": ["MASTERS_FIXED"]},
+  {"topic": "PAGES_FIXED", "file": "document-model/panel-layout-resize/pagesfixed.md", "summary": "Open when looking up PAGES_FIXED in InDesign.", "keywords": ["PAGES_FIXED"]},
+  {"topic": "PROPORTIONAL_RESIZE", "file": "document-model/panel-layout-resize/proportionalresize.md", "summary": "Open when looking up PROPORTIONAL_RESIZE in InDesign.", "keywords": ["PROPORTIONAL_RESIZE"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Topic declaration", "file": "community-types/indesign/topic/declaration.md", "summary": "Open when looking up Topic declaration in Shared Adobe platform.", "keywords": ["Topic declaration"]},
+  {"topic": "Topic event listeners", "file": "community-types/indesign/topic/event-listeners.md", "summary": "Open when looking up Topic event listeners in Shared Adobe platform.", "keywords": ["Topic event listeners"]},
+  {"topic": "Topic identity and parent", "file": "community-types/indesign/topic/identity-and-parent.md", "summary": "Open when looking up Topic identity and parent in Shared Adobe platform.", "keywords": ["Topic identity and parent"]},
+  {"topic": "Topic object resolution", "file": "community-types/indesign/topic/object-resolution.md", "summary": "Open when looking up Topic object resolution in Shared Adobe platform.", "keywords": ["Topic object resolution"]},
+  {"topic": "Topic.capitalize", "file": "community-types/indesign/topic/capitalize.md", "summary": "Open when looking up Topic.capitalize in Shared Adobe platform.", "keywords": ["Topic.capitalize"]},
+  {"topic": "Topic.crossReferences", "file": "community-types/indesign/topic/cross-references.md", "summary": "Open when looking up Topic.crossReferences in Shared Adobe platform.", "keywords": ["Topic.crossReferences"]},
+  {"topic": "Topic.pageReferences", "file": "community-types/indesign/topic/page-references.md", "summary": "Open when looking up Topic.pageReferences in Shared Adobe platform.", "keywords": ["Topic.pageReferences"]},
+  {"topic": "Topic.properties", "file": "community-types/indesign/topic/properties.md", "summary": "Open when looking up Topic.properties in Shared Adobe platform.", "keywords": ["Topic.properties"]},
+  {"topic": "Topic.remove", "file": "community-types/indesign/topic/remove.md", "summary": "Open when looking up Topic.remove in Shared Adobe platform.", "keywords": ["Topic.remove"]},
+  {"topic": "Topic.sortOrder", "file": "community-types/indesign/topic/sort-order.md", "summary": "Open when looking up Topic.sortOrder in Shared Adobe platform.", "keywords": ["Topic.sortOrder"]},
+  {"topic": "Topic.topics", "file": "community-types/indesign/topic/topics.md", "summary": "Open when looking up Topic.topics in Shared Adobe platform.", "keywords": ["Topic.topics"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

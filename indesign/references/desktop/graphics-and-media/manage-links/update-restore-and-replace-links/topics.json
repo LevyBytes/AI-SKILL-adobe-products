@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Replace a link with a different source file", "file": "references/desktop/graphics-and-media/manage-links/update-restore-and-replace-links/replace-a-link-with-a-different-source-file.md", "summary": "Open when looking up Replace a link with a different source file in InDesign.", "keywords": ["Replace a link with a different source file"]},
-  {"topic": "Restore missing links", "file": "references/desktop/graphics-and-media/manage-links/update-restore-and-replace-links/restore-missing-links.md", "summary": "Open when looking up Restore missing links in InDesign.", "keywords": ["Restore missing links"]},
-  {"topic": "Update modified links", "file": "references/desktop/graphics-and-media/manage-links/update-restore-and-replace-links/update-modified-links.md", "summary": "Open when looking up Update modified links in InDesign.", "keywords": ["Update modified links"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

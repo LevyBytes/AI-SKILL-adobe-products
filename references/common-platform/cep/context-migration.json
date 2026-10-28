@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Migrating CEP JavaScript Libraries", "file": "cep/migrating-cep-java-script-libraries.md", "summary": "Open when looking up Migrating CEP JavaScript Libraries in Shared Adobe platform.", "keywords": ["Migrating CEP JavaScript Libraries"]},
+  {"topic": "Migrating CEP JavaScript Libraries references", "file": "cep/migrating-cep-java-script-libraries/reference-index.md", "summary": "Open when looking up Migrating CEP JavaScript Libraries in Shared Adobe platform.", "keywords": ["Migrating CEP JavaScript Libraries references"]},
+  {"topic": "Migrating ExtendScript/EvalScript to the Photoshop DOM API", "file": "cep/migrating-extend-script-eval-script-to-the-photoshop-dom-api.md", "summary": "Open when looking up Migrating ExtendScript/EvalScript to the Photoshop DOM API in Shared Adobe platform.", "keywords": ["Migrating ExtendScript/EvalScript to the Photoshop DOM API"]},
+  {"topic": "Migrating Native CEP Functions", "file": "cep/migrating-native-cep-functions.md", "summary": "Open when looking up Migrating Native CEP Functions in Shared Adobe platform.", "keywords": ["Migrating Native CEP Functions"]},
+  {"topic": "Migrating Native CEP Functions references", "file": "cep/migrating-native-cep-functions/reference-index.md", "summary": "Open when looking up Migrating Native CEP Functions in Shared Adobe platform.", "keywords": ["Migrating Native CEP Functions references"]},
+  {"topic": "Uxp Migration Guide", "file": "cep/uxp-migration-guide.md", "summary": "Open when looking up Uxp Migration Guide in Shared Adobe platform.", "keywords": ["Uxp Migration Guide"]},
+  {"topic": "Uxp plugin development references", "file": "cep/uxp-plugin-development/reference-index.md", "summary": "Open when looking up Uxp plugin development in Shared Adobe platform.", "keywords": ["Uxp plugin development references"]},
+  {"topic": "Why migrate to UXP?", "file": "cep/why-migrate-to-uxp.md", "summary": "Open when looking up Why migrate to UXP? in Shared Adobe platform.", "keywords": ["Why migrate to UXP?"]},
+  {"topic": "Why migrate to UXP? references", "file": "cep/why-migrate-to-uxp/reference-index.md", "summary": "Open when looking up Why migrate to UXP? in Shared Adobe platform.", "keywords": ["Why migrate to UXP? references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

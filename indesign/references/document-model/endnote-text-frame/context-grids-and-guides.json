@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "baselineFrameGridOptions", "file": "references/document-model/endnote-text-frame/baseline-frame-grid-options.md", "summary": "Open when looking up baselineFrameGridOptions in InDesign.", "keywords": ["baselineFrameGridOptions"]},
-  {"topic": "gridData", "file": "references/document-model/endnote-text-frame/grid-data.md", "summary": "Open when looking up gridData in InDesign.", "keywords": ["gridData"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

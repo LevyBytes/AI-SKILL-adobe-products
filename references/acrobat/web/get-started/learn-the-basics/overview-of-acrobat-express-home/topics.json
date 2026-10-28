@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Availability and access", "file": "web/get-started/learn-the-basics/overview-of-acrobat-express-home/availability-and-access.md", "summary": "Open when looking up Availability and access in Acrobat.", "keywords": ["Availability and access"]},
+  {"topic": "Get started with Acrobat Express home", "file": "web/get-started/learn-the-basics/overview-of-acrobat-express-home/get-started-with-acrobat-express-home.md", "summary": "Open when looking up Get started with Acrobat Express home in Acrobat.", "keywords": ["Get started with Acrobat Express home"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

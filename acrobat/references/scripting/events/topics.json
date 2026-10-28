@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "add", "file": "references/scripting/events/add.md", "summary": "Open when looking up add in Acrobat.", "keywords": ["add"]},
-  {"topic": "dispatch", "file": "references/scripting/events/dispatch.md", "summary": "Open when looking up dispatch in Acrobat.", "keywords": ["dispatch"]},
-  {"topic": "JavaScript APIs - Events", "file": "references/scripting/events/java-script-apis-events.md", "summary": "Open when looking up JavaScript APIs - Events in Acrobat.", "keywords": ["JavaScript APIs - Events"]},
-  {"topic": "remove", "file": "references/scripting/events/remove.md", "summary": "Open when looking up remove in Acrobat.", "keywords": ["remove"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

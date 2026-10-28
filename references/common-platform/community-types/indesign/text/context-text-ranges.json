@@ -1,0 +1,18 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Text.characters", "file": "community-types/indesign/text/characters.md", "summary": "Open when looking up Text.characters in Shared Adobe platform.", "keywords": ["Text.characters"]},
+  {"topic": "Text.endnoteRanges", "file": "community-types/indesign/text/endnote-ranges.md", "summary": "Open when looking up Text.endnoteRanges in Shared Adobe platform.", "keywords": ["Text.endnoteRanges"]},
+  {"topic": "Text.endnoteTextFrames", "file": "community-types/indesign/text/endnote-text-frames.md", "summary": "Open when looking up Text.endnoteTextFrames in Shared Adobe platform.", "keywords": ["Text.endnoteTextFrames"]},
+  {"topic": "Text.footnotes", "file": "community-types/indesign/text/footnotes.md", "summary": "Open when looking up Text.footnotes in Shared Adobe platform.", "keywords": ["Text.footnotes"]},
+  {"topic": "Text.insertionPoints", "file": "community-types/indesign/text/insertion-points.md", "summary": "Open when looking up Text.insertionPoints in Shared Adobe platform.", "keywords": ["Text.insertionPoints"]},
+  {"topic": "Text.lines", "file": "community-types/indesign/text/lines.md", "summary": "Open when looking up Text.lines in Shared Adobe platform.", "keywords": ["Text.lines"]},
+  {"topic": "Text.notes", "file": "community-types/indesign/text/notes.md", "summary": "Open when looking up Text.notes in Shared Adobe platform.", "keywords": ["Text.notes"]},
+  {"topic": "Text.paragraphs", "file": "community-types/indesign/text/paragraphs.md", "summary": "Open when looking up Text.paragraphs in Shared Adobe platform.", "keywords": ["Text.paragraphs"]},
+  {"topic": "Text.parentStory", "file": "community-types/indesign/text/parent-story.md", "summary": "Open when looking up Text.parentStory in Shared Adobe platform.", "keywords": ["Text.parentStory"]},
+  {"topic": "Text.parentTextFrames", "file": "community-types/indesign/text/parent-text-frames.md", "summary": "Open when looking up Text.parentTextFrames in Shared Adobe platform.", "keywords": ["Text.parentTextFrames"]},
+  {"topic": "Text.textColumns", "file": "community-types/indesign/text/text-columns.md", "summary": "Open when looking up Text.textColumns in Shared Adobe platform.", "keywords": ["Text.textColumns"]},
+  {"topic": "Text.textFrames", "file": "community-types/indesign/text/text-frames.md", "summary": "Open when looking up Text.textFrames in Shared Adobe platform.", "keywords": ["Text.textFrames"]},
+  {"topic": "Text.texts", "file": "community-types/indesign/text/texts.md", "summary": "Open when looking up Text.texts in Shared Adobe platform.", "keywords": ["Text.texts"]},
+  {"topic": "Text.textStyleRanges", "file": "community-types/indesign/text/text-style-ranges.md", "summary": "Open when looking up Text.textStyleRanges in Shared Adobe platform.", "keywords": ["Text.textStyleRanges"]},
+  {"topic": "Text.words", "file": "community-types/indesign/text/words.md", "summary": "Open when looking up Text.words in Shared Adobe platform.", "keywords": ["Text.words"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "firefly", "topics": [
-  {"topic": "Display pauses in a transcript for easier Firefly video edits", "file": "references/web/show-pauses-in-transcript/display-pauses-in-a-transcript-for-easier-firefly-video-edits.md", "summary": "Open when looking up Display pauses in a transcript for easier Firefly video edits in Firefly.", "keywords": ["Display pauses in a transcript for easier Firefly video edits"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

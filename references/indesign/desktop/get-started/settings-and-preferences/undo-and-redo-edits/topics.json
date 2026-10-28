@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Reverse or reapply your most recent change", "file": "desktop/get-started/settings-and-preferences/undo-and-redo-edits/reverse-or-reapply-your-most-recent-change.md", "summary": "Open when looking up Reverse or reapply your most recent change in InDesign.", "keywords": ["Reverse or reapply your most recent change"]},
+  {"topic": "Revert to the last saved version", "file": "desktop/get-started/settings-and-preferences/undo-and-redo-edits/revert-to-the-last-saved-version.md", "summary": "Open when looking up Revert to the last saved version in InDesign.", "keywords": ["Revert to the last saved version"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

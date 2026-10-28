@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Footnotes collection iteration", "file": "community-types/indesign/footnotes/collection-iteration.md", "summary": "Open when looking up Footnotes collection iteration in Shared Adobe platform.", "keywords": ["Footnotes collection iteration"]},
+  {"topic": "Footnotes declaration", "file": "community-types/indesign/footnotes/declaration.md", "summary": "Open when looking up Footnotes declaration in Shared Adobe platform.", "keywords": ["Footnotes declaration"]},
+  {"topic": "Footnotes named and indexed items", "file": "community-types/indesign/footnotes/named-and-indexed-items.md", "summary": "Open when looking up Footnotes named and indexed items in Shared Adobe platform.", "keywords": ["Footnotes named and indexed items"]},
+  {"topic": "Footnotes.add", "file": "community-types/indesign/footnotes/add.md", "summary": "Open when looking up Footnotes.add in Shared Adobe platform.", "keywords": ["Footnotes.add"]},
+  {"topic": "Footnotes.count", "file": "community-types/indesign/footnotes/count.md", "summary": "Open when looking up Footnotes.count in Shared Adobe platform.", "keywords": ["Footnotes.count"]},
+  {"topic": "Footnotes.IndexSignature", "file": "community-types/indesign/footnotes/index-signature.md", "summary": "Open when looking up Footnotes.IndexSignature in Shared Adobe platform.", "keywords": ["Footnotes.IndexSignature"]},
+  {"topic": "Footnotes.itemByRange", "file": "community-types/indesign/footnotes/item-by-range.md", "summary": "Open when looking up Footnotes.itemByRange in Shared Adobe platform.", "keywords": ["Footnotes.itemByRange"]},
+  {"topic": "Footnotes.length", "file": "community-types/indesign/footnotes/length.md", "summary": "Open when looking up Footnotes.length in Shared Adobe platform.", "keywords": ["Footnotes.length"]},
+  {"topic": "Footnotes.toSource", "file": "community-types/indesign/footnotes/to-source.md", "summary": "Open when looking up Footnotes.toSource in Shared Adobe platform.", "keywords": ["Footnotes.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

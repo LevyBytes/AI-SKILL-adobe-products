@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "audition", "topics": [
-  {"topic": "Audio file contents and size", "file": "references/desktop/digital-audio-fundamentals/digitizing-audio/audio-file-contents-and-size.md", "summary": "Open when looking up Audio file contents and size in Audition.", "keywords": ["Audio file contents and size"]},
-  {"topic": "How Adobe Audition digitizes audio", "file": "references/desktop/digital-audio-fundamentals/digitizing-audio/how-adobe-audition-digitizes-audio.md", "summary": "Open when looking up How Adobe Audition digitizes audio in Audition.", "keywords": ["How Adobe Audition digitizes audio"]},
-  {"topic": "Measuring amplitude in dBFS", "file": "references/desktop/digital-audio-fundamentals/digitizing-audio/measuring-amplitude-in-d-bfs.md", "summary": "Open when looking up Measuring amplitude in dBFS in Audition.", "keywords": ["Measuring amplitude in dBFS"]},
-  {"topic": "Understanding bit depth", "file": "references/desktop/digital-audio-fundamentals/digitizing-audio/understanding-bit-depth.md", "summary": "Open when looking up Understanding bit depth in Audition.", "keywords": ["Understanding bit depth"]},
-  {"topic": "Understanding sample rate", "file": "references/desktop/digital-audio-fundamentals/digitizing-audio/understanding-sample-rate.md", "summary": "Open when looking up Understanding sample rate in Audition.", "keywords": ["Understanding sample rate"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

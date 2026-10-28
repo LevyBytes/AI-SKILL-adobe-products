@@ -1,0 +1,18 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "TextItem references", "file": "community-types/photoshop/text-item/reference-index.md", "summary": "Open when looking up TextItem in Shared Adobe platform.", "keywords": ["TextItem references"]},
+  {"topic": "TextFont", "file": "community-types/photoshop/text-font.md", "summary": "Open when looking up TextFont in Shared Adobe platform.", "keywords": ["TextFont"]},
+  {"topic": "TextFonts", "file": "community-types/photoshop/text-fonts.md", "summary": "Open when looking up TextFonts in Shared Adobe platform.", "keywords": ["TextFonts"]},
+  {"topic": "TextType", "file": "community-types/photoshop/text-type.md", "summary": "Open when looking up TextType in Shared Adobe platform.", "keywords": ["TextType"]},
+  {"topic": "TextComposer", "file": "community-types/photoshop/text-composer.md", "summary": "Open when looking up TextComposer in Shared Adobe platform.", "keywords": ["TextComposer"]},
+  {"topic": "AntiAlias", "file": "community-types/photoshop/anti-alias.md", "summary": "Open when looking up AntiAlias in Shared Adobe platform.", "keywords": ["AntiAlias"]},
+  {"topic": "AutoKernType", "file": "community-types/photoshop/auto-kern-type.md", "summary": "Open when looking up AutoKernType in Shared Adobe platform.", "keywords": ["AutoKernType"]},
+  {"topic": "Case", "file": "community-types/photoshop/case.md", "summary": "Open when looking up Case in Shared Adobe platform.", "keywords": ["Case"]},
+  {"topic": "FontPreviewType", "file": "community-types/photoshop/font-preview-type.md", "summary": "Open when looking up FontPreviewType in Shared Adobe platform.", "keywords": ["FontPreviewType"]},
+  {"topic": "FontSize", "file": "community-types/photoshop/font-size.md", "summary": "Open when looking up FontSize in Shared Adobe platform.", "keywords": ["FontSize"]},
+  {"topic": "Justification", "file": "community-types/photoshop/justification.md", "summary": "Open when looking up Justification in Shared Adobe platform.", "keywords": ["Justification"]},
+  {"topic": "Language references", "file": "community-types/photoshop/language/reference-index.md", "summary": "Open when looking up Language in Shared Adobe platform.", "keywords": ["Language references"]},
+  {"topic": "StrikeThruType", "file": "community-types/photoshop/strike-thru-type.md", "summary": "Open when looking up StrikeThruType in Shared Adobe platform.", "keywords": ["StrikeThruType"]},
+  {"topic": "UnderlineType", "file": "community-types/photoshop/underline-type.md", "summary": "Open when looking up UnderlineType in Shared Adobe platform.", "keywords": ["UnderlineType"]},
+  {"topic": "TypeUnits", "file": "community-types/photoshop/type-units.md", "summary": "Open when looking up TypeUnits in Shared Adobe platform.", "keywords": ["TypeUnits"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

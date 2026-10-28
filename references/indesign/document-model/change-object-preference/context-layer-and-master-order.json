@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "applyToMasterPageOnly", "file": "document-model/change-object-preference/apply-to-master-page-only.md", "summary": "Open when looking up applyToMasterPageOnly in InDesign.", "keywords": ["applyToMasterPageOnly"]},
+  {"topic": "nonprinting", "file": "document-model/change-object-preference/nonprinting.md", "summary": "Open when looking up nonprinting in InDesign.", "keywords": ["nonprinting"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

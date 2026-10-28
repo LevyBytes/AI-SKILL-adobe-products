@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Copy a single form field", "file": "desktop/work-with-pdf-forms/create-pdf-forms/copy-form-fields/copy-a-single-form-field.md", "summary": "Open when looking up Copy a single form field in Acrobat.", "keywords": ["Copy a single form field"]},
+  {"topic": "Create multiple copies of a form field", "file": "desktop/work-with-pdf-forms/create-pdf-forms/copy-form-fields/create-multiple-copies-of-a-form-field.md", "summary": "Open when looking up Create multiple copies of a form field in Acrobat.", "keywords": ["Create multiple copies of a form field"]},
+  {"topic": "Duplicate a form field across multiple pages", "file": "desktop/work-with-pdf-forms/create-pdf-forms/copy-form-fields/duplicate-a-form-field-across-multiple-pages.md", "summary": "Open when looking up Duplicate a form field across multiple pages in Acrobat.", "keywords": ["Duplicate a form field across multiple pages"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

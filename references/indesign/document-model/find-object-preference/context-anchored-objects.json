@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "anchoredPosition", "file": "document-model/find-object-preference/anchored-position.md", "summary": "Open when looking up anchoredPosition in InDesign.", "keywords": ["anchoredPosition"]},
+  {"topic": "anchorPoint", "file": "document-model/find-object-preference/anchor-point.md", "summary": "Open when looking up anchorPoint in InDesign.", "keywords": ["anchorPoint"]},
+  {"topic": "anchorSpaceAbove", "file": "document-model/find-object-preference/anchor-space-above.md", "summary": "Open when looking up anchorSpaceAbove in InDesign.", "keywords": ["anchorSpaceAbove"]},
+  {"topic": "anchorXoffset", "file": "document-model/find-object-preference/anchor-xoffset.md", "summary": "Open when looking up anchorXoffset in InDesign.", "keywords": ["anchorXoffset"]},
+  {"topic": "anchorYoffset", "file": "document-model/find-object-preference/anchor-yoffset.md", "summary": "Open when looking up anchorYoffset in InDesign.", "keywords": ["anchorYoffset"]},
+  {"topic": "horizontalReferencePoint", "file": "document-model/find-object-preference/horizontal-reference-point.md", "summary": "Open when looking up horizontalReferencePoint in InDesign.", "keywords": ["horizontalReferencePoint"]},
+  {"topic": "lockPosition", "file": "document-model/find-object-preference/lock-position.md", "summary": "Open when looking up lockPosition in InDesign.", "keywords": ["lockPosition"]},
+  {"topic": "pinPosition", "file": "document-model/find-object-preference/pin-position.md", "summary": "Open when looking up pinPosition in InDesign.", "keywords": ["pinPosition"]},
+  {"topic": "positionReferencePoint", "file": "document-model/find-object-preference/position-reference-point.md", "summary": "Open when looking up positionReferencePoint in InDesign.", "keywords": ["positionReferencePoint"]},
+  {"topic": "spineRelative", "file": "document-model/find-object-preference/spine-relative.md", "summary": "Open when looking up spineRelative in InDesign.", "keywords": ["spineRelative"]},
+  {"topic": "verticalReferencePoint", "file": "document-model/find-object-preference/vertical-reference-point.md", "summary": "Open when looking up verticalReferencePoint in InDesign.", "keywords": ["verticalReferencePoint"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

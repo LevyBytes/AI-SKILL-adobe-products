@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "AnchorPosition", "file": "uxp/enumerations/anchor-position.md", "summary": "Open when looking up AnchorPosition in Photoshop.", "keywords": ["AnchorPosition"]},
+  {"topic": "FlipAxis", "file": "uxp/enumerations/flip-axis.md", "summary": "Open when looking up FlipAxis in Photoshop.", "keywords": ["FlipAxis"]},
+  {"topic": "Geometry", "file": "uxp/enumerations/geometry.md", "summary": "Open when looking up Geometry in Photoshop.", "keywords": ["Geometry"]},
+  {"topic": "InterpolationMethod", "file": "uxp/enumerations/interpolation-method.md", "summary": "Open when looking up InterpolationMethod in Photoshop.", "keywords": ["InterpolationMethod"]},
+  {"topic": "Orientation", "file": "uxp/enumerations/orientation.md", "summary": "Open when looking up Orientation in Photoshop.", "keywords": ["Orientation"]},
+  {"topic": "Direction", "file": "uxp/enumerations/direction.md", "summary": "Open when looking up Direction in Photoshop.", "keywords": ["Direction"]},
+  {"topic": "PreserveShape", "file": "uxp/enumerations/preserve-shape.md", "summary": "Open when looking up PreserveShape in Photoshop.", "keywords": ["PreserveShape"]},
+  {"topic": "ResampleMethod", "file": "uxp/enumerations/resample-method.md", "summary": "Open when looking up ResampleMethod in Photoshop.", "keywords": ["ResampleMethod"]},
+  {"topic": "TrimType", "file": "uxp/enumerations/trim-type.md", "summary": "Open when looking up TrimType in Photoshop.", "keywords": ["TrimType"]},
+  {"topic": "WarpStyle", "file": "uxp/enumerations/warp-style.md", "summary": "Open when looking up WarpStyle in Photoshop.", "keywords": ["WarpStyle"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

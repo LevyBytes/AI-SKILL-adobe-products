@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Choose how generative AI is used", "file": "desktop/repair-and-retouch/remove-objects-and-fill-space/remove-objects/choose-how-generative-ai-is-used.md", "summary": "Open when looking up Choose how generative AI is used in Photoshop.", "keywords": ["Choose how generative AI is used"]},
+  {"topic": "Use the generative AI on-device model in Photoshop", "file": "desktop/repair-and-retouch/remove-objects-and-fill-space/remove-objects/use-the-generative-ai-on-device-model-in-photoshop.md", "summary": "Open when looking up Use the generative AI on-device model in Photoshop in Photoshop.", "keywords": ["Use the generative AI on-device model in Photoshop"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

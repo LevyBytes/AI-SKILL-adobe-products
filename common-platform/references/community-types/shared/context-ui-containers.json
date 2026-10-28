@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Group", "file": "references/community-types/shared/group.md", "summary": "Open when looking up Group in Shared Adobe platform.", "keywords": ["Group"]},
-  {"topic": "Panel", "file": "references/community-types/shared/panel.md", "summary": "Open when looking up Panel in Shared Adobe platform.", "keywords": ["Panel"]},
-  {"topic": "Tab", "file": "references/community-types/shared/tab.md", "summary": "Open when looking up Tab in Shared Adobe platform.", "keywords": ["Tab"]},
-  {"topic": "TabbedPanel", "file": "references/community-types/shared/tabbed-panel.md", "summary": "Open when looking up TabbedPanel in Shared Adobe platform.", "keywords": ["TabbedPanel"]},
-  {"topic": "Window references", "file": "references/community-types/shared/window/reference-index.md", "summary": "Open when looking up Window in Shared Adobe platform.", "keywords": ["Window references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

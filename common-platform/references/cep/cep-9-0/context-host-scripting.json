@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Access Application DOM from Html Extension", "file": "references/cep/cep-9-0/access-application-dom-from-html-extension.md", "summary": "Open when looking up Access Application DOM from Html Extension in Shared Adobe platform.", "keywords": ["Access Application DOM from Html Extension"]},
-  {"topic": "Access HTML DOM from extend script", "file": "references/cep/cep-9-0/access-html-dom-from-extend-script.md", "summary": "Open when looking up Access HTML DOM from extend script in Shared Adobe platform.", "keywords": ["Access HTML DOM from extend script"]},
-  {"topic": "Invoke point product's scripts from html extension", "file": "references/cep/cep-9-0/invoke-point-product-s-scripts-from-html-extension.md", "summary": "Open when looking up Invoke point product's scripts from html extension in Shared Adobe platform.", "keywords": ["Invoke point product's scripts from html extension"]},
-  {"topic": "Load Multiple JSX files", "file": "references/cep/cep-9-0/load-multiple-jsx-files.md", "summary": "Open when looking up Load Multiple JSX files in Shared Adobe platform.", "keywords": ["Load Multiple JSX files"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

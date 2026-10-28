@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "_CommandID.Audio", "file": "community-types/aftereffects/command-id/audio.md", "summary": "Open when looking up _CommandID.Audio in Shared Adobe platform.", "keywords": ["_CommandID.Audio"]},
+  {"topic": "_CommandID.Brushed", "file": "community-types/aftereffects/command-id/brushed.md", "summary": "Open when looking up _CommandID.Brushed in Shared Adobe platform.", "keywords": ["_CommandID.Brushed"]},
+  {"topic": "_CommandID.Character", "file": "community-types/aftereffects/command-id/character.md", "summary": "Open when looking up _CommandID.Character in Shared Adobe platform.", "keywords": ["_CommandID.Character"]},
+  {"topic": "_CommandID.EffectsAndPresets", "file": "community-types/aftereffects/command-id/effects-and-presets.md", "summary": "Open when looking up _CommandID.EffectsAndPresets in Shared Adobe platform.", "keywords": ["_CommandID.EffectsAndPresets"]},
+  {"topic": "_CommandID.Info", "file": "community-types/aftereffects/command-id/info.md", "summary": "Open when looking up _CommandID.Info in Shared Adobe platform.", "keywords": ["_CommandID.Info"]},
+  {"topic": "_CommandID.MediaBrowser", "file": "community-types/aftereffects/command-id/media-browser.md", "summary": "Open when looking up _CommandID.MediaBrowser in Shared Adobe platform.", "keywords": ["_CommandID.MediaBrowser"]},
+  {"topic": "_CommandID.Metadata", "file": "community-types/aftereffects/command-id/metadata.md", "summary": "Open when looking up _CommandID.Metadata in Shared Adobe platform.", "keywords": ["_CommandID.Metadata"]},
+  {"topic": "_CommandID.Paint", "file": "community-types/aftereffects/command-id/paint.md", "summary": "Open when looking up _CommandID.Paint in Shared Adobe platform.", "keywords": ["_CommandID.Paint"]},
+  {"topic": "_CommandID.Paragraph", "file": "community-types/aftereffects/command-id/paragraph.md", "summary": "Open when looking up _CommandID.Paragraph in Shared Adobe platform.", "keywords": ["_CommandID.Paragraph"]},
+  {"topic": "_CommandID.Preview", "file": "community-types/aftereffects/command-id/preview.md", "summary": "Open when looking up _CommandID.Preview in Shared Adobe platform.", "keywords": ["_CommandID.Preview"]},
+  {"topic": "_CommandID.Progress", "file": "community-types/aftereffects/command-id/progress.md", "summary": "Open when looking up _CommandID.Progress in Shared Adobe platform.", "keywords": ["_CommandID.Progress"]},
+  {"topic": "_CommandID.Tools", "file": "community-types/aftereffects/command-id/tools.md", "summary": "Open when looking up _CommandID.Tools in Shared Adobe platform.", "keywords": ["_CommandID.Tools"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

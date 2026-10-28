@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Create a custom preset", "file": "references/desktop/layers/adjustment-and-fill/create-custom-presets/create-a-custom-preset.md", "summary": "Open when looking up Create a custom preset in Photoshop.", "keywords": ["Create a custom preset"]},
-  {"topic": "Export or import presets", "file": "references/desktop/layers/adjustment-and-fill/create-custom-presets/export-or-import-presets.md", "summary": "Open when looking up Export or import presets in Photoshop.", "keywords": ["Export or import presets"]},
-  {"topic": "Manage presets", "file": "references/desktop/layers/adjustment-and-fill/create-custom-presets/manage-presets.md", "summary": "Open when looking up Manage presets in Photoshop.", "keywords": ["Manage presets"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

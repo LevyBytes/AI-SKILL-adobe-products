@@ -1,0 +1,19 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Accessing the XMP scripting API", "file": "scripting/accessing-the-xmp-scripting-api.md", "summary": "Open when looking up Accessing the XMP scripting API in Shared Adobe platform.", "keywords": ["Accessing the XMP scripting API"]},
+  {"topic": "Scripting Access to XMP Metadata", "file": "scripting/scripting-access-to-xmp-metadata.md", "summary": "Open when looking up Scripting Access to XMP Metadata in Shared Adobe platform.", "keywords": ["Scripting Access to XMP Metadata"]},
+  {"topic": "Using the xmp scripting api references", "file": "scripting/using-the-xmp-scripting-api/reference-index.md", "summary": "Open when looking up Using the xmp scripting api in Shared Adobe platform.", "keywords": ["Using the xmp scripting api references"]},
+  {"topic": "Xmp alias info references", "file": "scripting/xmp-alias-info/reference-index.md", "summary": "Open when looking up Xmp alias info in Shared Adobe platform.", "keywords": ["Xmp alias info references"]},
+  {"topic": "Xmp const references", "file": "scripting/xmp-const/reference-index.md", "summary": "Open when looking up Xmp const in Shared Adobe platform.", "keywords": ["Xmp const references"]},
+  {"topic": "Xmp date time references", "file": "scripting/xmp-date-time/reference-index.md", "summary": "Open when looking up Xmp date time in Shared Adobe platform.", "keywords": ["Xmp date time references"]},
+  {"topic": "Xmp file info references", "file": "scripting/xmp-file-info/reference-index.md", "summary": "Open when looking up Xmp file info in Shared Adobe platform.", "keywords": ["Xmp file info references"]},
+  {"topic": "Xmp file references", "file": "scripting/xmp-file/reference-index.md", "summary": "Open when looking up Xmp file in Shared Adobe platform.", "keywords": ["Xmp file references"]},
+  {"topic": "Xmp iterator references", "file": "scripting/xmp-iterator/reference-index.md", "summary": "Open when looking up Xmp iterator in Shared Adobe platform.", "keywords": ["Xmp iterator references"]},
+  {"topic": "Xmp meta references", "file": "scripting/xmp-meta/reference-index.md", "summary": "Open when looking up Xmp meta in Shared Adobe platform.", "keywords": ["Xmp meta references"]},
+  {"topic": "Xmp packet info references", "file": "scripting/xmp-packet-info/reference-index.md", "summary": "Open when looking up Xmp packet info in Shared Adobe platform.", "keywords": ["Xmp packet info references"]},
+  {"topic": "Xmp property references", "file": "scripting/xmp-property/reference-index.md", "summary": "Open when looking up Xmp property in Shared Adobe platform.", "keywords": ["Xmp property references"]},
+  {"topic": "Xmp utils references", "file": "scripting/xmp-utils/reference-index.md", "summary": "Open when looking up Xmp utils in Shared Adobe platform.", "keywords": ["Xmp utils references"]},
+  {"topic": "XMPScript object reference", "file": "scripting/xmp-script-object-reference.md", "summary": "Open when looking up XMPScript object reference in Shared Adobe platform.", "keywords": ["XMPScript object reference"]},
+  {"topic": "XMPScript object reference - XMPMeta object", "file": "scripting/xmp-script-object-reference-xmp-meta-object.md", "summary": "Open when looking up XMPScript object reference - XMPMeta object in Shared Adobe platform.", "keywords": ["XMPScript object reference - XMPMeta object"]},
+  {"topic": "XMPScript object reference - XMPMeta object references", "file": "scripting/xmp-script-object-reference-xmp-meta-object/reference-index.md", "summary": "Open when looking up XMPScript object reference - XMPMeta object in Shared Adobe platform.", "keywords": ["XMPScript object reference - XMPMeta object references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

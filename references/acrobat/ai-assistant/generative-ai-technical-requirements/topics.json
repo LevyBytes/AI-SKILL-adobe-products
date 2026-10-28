@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Account and login requirements", "file": "ai-assistant/generative-ai-technical-requirements/account-and-login-requirements.md", "summary": "Open when looking up Account and login requirements in Acrobat.", "keywords": ["Account and login requirements"]},
+  {"topic": "Additional resources", "file": "ai-assistant/generative-ai-technical-requirements/additional-resources.md", "summary": "Open when looking up Additional resources in Acrobat.", "keywords": ["Additional resources"]},
+  {"topic": "App settings", "file": "ai-assistant/generative-ai-technical-requirements/app-settings.md", "summary": "Open when looking up App settings in Acrobat.", "keywords": ["App settings"]},
+  {"topic": "File requirements", "file": "ai-assistant/generative-ai-technical-requirements/file-requirements.md", "summary": "Open when looking up File requirements in Acrobat.", "keywords": ["File requirements"]},
+  {"topic": "Supported devices and browsers", "file": "ai-assistant/generative-ai-technical-requirements/supported-devices-and-browsers.md", "summary": "Open when looking up Supported devices and browsers in Acrobat.", "keywords": ["Supported devices and browsers"]},
+  {"topic": "Supported file languages", "file": "ai-assistant/generative-ai-technical-requirements/supported-file-languages.md", "summary": "Open when looking up Supported file languages in Acrobat.", "keywords": ["Supported file languages"]},
+  {"topic": "Supported languages for GenAI features", "file": "ai-assistant/generative-ai-technical-requirements/supported-languages-for-gen-ai-features.md", "summary": "Open when looking up Supported languages for GenAI features in Acrobat.", "keywords": ["Supported languages for GenAI features"]},
+  {"topic": "Usage limitations", "file": "ai-assistant/generative-ai-technical-requirements/usage-limitations.md", "summary": "Open when looking up Usage limitations in Acrobat.", "keywords": ["Usage limitations"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

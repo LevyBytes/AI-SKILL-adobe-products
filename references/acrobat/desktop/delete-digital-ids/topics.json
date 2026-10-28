@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "How to clear out digital IDs you no longer use in Adobe Acrobat.", "file": "desktop/delete-digital-ids/remove-unused-digital-ids.md", "summary": "Open when looking up How to clear out digital IDs you no longer use in Adobe Acrobat. in Acrobat.", "keywords": ["How to clear out digital IDs you no longer use in Adobe Acrobat."]},
+  {"topic": "macOS", "file": "desktop/delete-digital-ids/mac-os.md", "summary": "Open when looking up macOS in Acrobat.", "keywords": ["macOS"]},
+  {"topic": "Windows", "file": "desktop/delete-digital-ids/windows.md", "summary": "Open when looking up Windows in Acrobat.", "keywords": ["Windows"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "ANYWHERE", "file": "document-model/start-paragraph/anywhere.md", "summary": "Open when looking up ANYWHERE in InDesign.", "keywords": ["ANYWHERE"]},
+  {"topic": "NEXT_COLUMN", "file": "document-model/start-paragraph/nextcolumn.md", "summary": "Open when looking up NEXT_COLUMN in InDesign.", "keywords": ["NEXT_COLUMN"]},
+  {"topic": "NEXT_EVEN_PAGE", "file": "document-model/start-paragraph/nextevenpage.md", "summary": "Open when looking up NEXT_EVEN_PAGE in InDesign.", "keywords": ["NEXT_EVEN_PAGE"]},
+  {"topic": "NEXT_FRAME", "file": "document-model/start-paragraph/nextframe.md", "summary": "Open when looking up NEXT_FRAME in InDesign.", "keywords": ["NEXT_FRAME"]},
+  {"topic": "NEXT_ODD_PAGE", "file": "document-model/start-paragraph/nextoddpage.md", "summary": "Open when looking up NEXT_ODD_PAGE in InDesign.", "keywords": ["NEXT_ODD_PAGE"]},
+  {"topic": "NEXT_PAGE", "file": "document-model/start-paragraph/nextpage.md", "summary": "Open when looking up NEXT_PAGE in InDesign.", "keywords": ["NEXT_PAGE"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

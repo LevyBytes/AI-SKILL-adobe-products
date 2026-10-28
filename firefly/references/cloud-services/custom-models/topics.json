@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "firefly", "topics": [
-  {"topic": "Asset IDs", "file": "references/cloud-services/custom-models/asset-ids.md", "summary": "Open when looking up Asset IDs in Firefly.", "keywords": ["Asset IDs"]},
-  {"topic": "cURL", "file": "references/cloud-services/custom-models/c-url.md", "summary": "Open when looking up cURL in Firefly.", "keywords": ["cURL"]},
-  {"topic": "Image generation with a custom model", "file": "references/cloud-services/custom-models/image-generation-with-a-custom-model.md", "summary": "Open when looking up Image generation with a custom model in Firefly.", "keywords": ["Image generation with a custom model"]},
-  {"topic": "JavaScript", "file": "references/cloud-services/custom-models/java-script.md", "summary": "Open when looking up JavaScript in Firefly.", "keywords": ["JavaScript"]},
-  {"topic": "Python", "file": "references/cloud-services/custom-models/python.md", "summary": "Open when looking up Python in Firefly.", "keywords": ["Python"]},
-  {"topic": "Training modes", "file": "references/cloud-services/custom-models/training-modes.md", "summary": "Open when looking up Training modes in Firefly.", "keywords": ["Training modes"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

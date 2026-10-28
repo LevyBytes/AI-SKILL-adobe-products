@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "audition", "topics": [
-  {"topic": "Assign audio inputs and outputs to tracks", "file": "references/desktop/mixing-multitrack-sessions/multitrack-routing-and-eq-controls/assign-audio-inputs-and-outputs-to-tracks.md", "summary": "Open when looking up Assign audio inputs and outputs to tracks in Audition.", "keywords": ["Assign audio inputs and outputs to tracks"]},
-  {"topic": "Equalize tracks", "file": "references/desktop/mixing-multitrack-sessions/multitrack-routing-and-eq-controls/equalize-tracks.md", "summary": "Open when looking up Equalize tracks in Audition.", "keywords": ["Equalize tracks"]},
-  {"topic": "Invert the polarity of an input", "file": "references/desktop/mixing-multitrack-sessions/multitrack-routing-and-eq-controls/invert-the-polarity-of-an-input.md", "summary": "Open when looking up Invert the polarity of an input in Audition.", "keywords": ["Invert the polarity of an input"]},
-  {"topic": "Routing audio to buses, sends ,and the Mix Track", "file": "references/desktop/mixing-multitrack-sessions/multitrack-routing-and-eq-controls/routing-audio-to-buses-sends-and-the-mix-track.md", "summary": "Open when looking up Routing audio to buses, sends ,and the Mix Track in Audition.", "keywords": ["Routing audio to buses, sends ,and the Mix Track"]},
-  {"topic": "Set up a send", "file": "references/desktop/mixing-multitrack-sessions/multitrack-routing-and-eq-controls/set-up-a-send.md", "summary": "Open when looking up Set up a send in Audition.", "keywords": ["Set up a send"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

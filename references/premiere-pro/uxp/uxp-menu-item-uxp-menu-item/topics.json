@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "UxpMenuItem - id : string", "file": "uxp/uxp-menu-item-uxp-menu-item/uxp-menu-item-id-string.md", "summary": "Open when looking up UxpMenuItem - id : string in Premiere Pro.", "keywords": ["UxpMenuItem - id : string"]},
+  {"topic": "UxpMenuItem - parent ⇒ UxpMenuItems", "file": "uxp/uxp-menu-item-uxp-menu-item/uxp-menu-item-parent-uxp-menu-items.md", "summary": "Open when looking up UxpMenuItem - parent ⇒ UxpMenuItems in Premiere Pro.", "keywords": ["UxpMenuItem - parent ⇒ UxpMenuItems"]},
+  {"topic": "UxpMenuItem - submenu ⇒ UxpMenuItems", "file": "uxp/uxp-menu-item-uxp-menu-item/uxp-menu-item-submenu-uxp-menu-items.md", "summary": "Open when looking up UxpMenuItem - submenu ⇒ UxpMenuItems in Premiere Pro.", "keywords": ["UxpMenuItem - submenu ⇒ UxpMenuItems"]},
+  {"topic": "UxpMenuItem - label", "file": "uxp/uxp-menu-item-uxp-menu-item/uxp-menu-item-label.md", "summary": "Open when looking up UxpMenuItem - label in Premiere Pro.", "keywords": ["UxpMenuItem - label"]},
+  {"topic": "UxpMenuItem - label ⇒ string", "file": "uxp/uxp-menu-item-uxp-menu-item/uxp-menu-item-label-string.md", "summary": "Open when looking up UxpMenuItem - label ⇒ string in Premiere Pro.", "keywords": ["UxpMenuItem - label ⇒ string"]},
+  {"topic": "UxpMenuItem - enabled", "file": "uxp/uxp-menu-item-uxp-menu-item/uxp-menu-item-enabled.md", "summary": "Open when looking up UxpMenuItem - enabled in Premiere Pro.", "keywords": ["UxpMenuItem - enabled"]},
+  {"topic": "UxpMenuItem - enabled ⇒ boolean", "file": "uxp/uxp-menu-item-uxp-menu-item/uxp-menu-item-enabled-boolean.md", "summary": "Open when looking up UxpMenuItem - enabled ⇒ boolean in Premiere Pro.", "keywords": ["UxpMenuItem - enabled ⇒ boolean"]},
+  {"topic": "UxpMenuItem - checked", "file": "uxp/uxp-menu-item-uxp-menu-item/uxp-menu-item-checked.md", "summary": "Open when looking up UxpMenuItem - checked in Premiere Pro.", "keywords": ["UxpMenuItem - checked"]},
+  {"topic": "UxpMenuItem - checked ⇒ boolean", "file": "uxp/uxp-menu-item-uxp-menu-item/uxp-menu-item-checked-boolean.md", "summary": "Open when looking up UxpMenuItem - checked ⇒ boolean in Premiere Pro.", "keywords": ["UxpMenuItem - checked ⇒ boolean"]},
+  {"topic": "UxpMenuItem - remove()", "file": "uxp/uxp-menu-item-uxp-menu-item/uxp-menu-item-remove.md", "summary": "Open when looking up UxpMenuItem - remove() in Premiere Pro.", "keywords": ["UxpMenuItem - remove()"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

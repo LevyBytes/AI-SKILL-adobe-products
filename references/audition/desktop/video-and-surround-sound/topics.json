@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/audition", "topics": [
+  {"topic": "Importing video and working with video clips", "file": "desktop/video-and-surround-sound/importing-video-and-working-with-video-clips.md", "summary": "Open when looking up Importing video and working with video clips in Audition.", "keywords": ["Importing video and working with video clips"]},
+  {"topic": "Importing video and working with video clips references", "file": "desktop/video-and-surround-sound/importing-video-and-working-with-video-clips/reference-index.md", "summary": "Open when looking up Importing video and working with video clips in Audition.", "keywords": ["Importing video and working with video clips references"]},
+  {"topic": "Working with video applications", "file": "desktop/video-and-surround-sound/working-with-video-applications.md", "summary": "Open when looking up Working with video applications in Audition.", "keywords": ["Working with video applications"]},
+  {"topic": "Working with video applications references", "file": "desktop/video-and-surround-sound/working-with-video-applications/reference-index.md", "summary": "Open when looking up Working with video applications in Audition.", "keywords": ["Working with video applications references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

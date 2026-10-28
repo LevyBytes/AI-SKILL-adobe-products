@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Ray Tracing settings", "file": "references/desktop/effects-and-styles/create-3-d-graphics/render-3-d-vector-artwork/ray-tracing-settings.md", "summary": "Open when looking up Ray Tracing settings in Illustrator.", "keywords": ["Ray Tracing settings"]},
-  {"topic": "Render or expand 3D as wireframes", "file": "references/desktop/effects-and-styles/create-3-d-graphics/render-3-d-vector-artwork/render-or-expand-3-d-as-wireframes.md", "summary": "Open when looking up Render or expand 3D as wireframes in Illustrator.", "keywords": ["Render or expand 3D as wireframes"]},
-  {"topic": "Render with Ray Tracing", "file": "references/desktop/effects-and-styles/create-3-d-graphics/render-3-d-vector-artwork/render-with-ray-tracing.md", "summary": "Open when looking up Render with Ray Tracing in Illustrator.", "keywords": ["Render with Ray Tracing"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

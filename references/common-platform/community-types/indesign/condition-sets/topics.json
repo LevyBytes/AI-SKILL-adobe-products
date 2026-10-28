@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "ConditionSets collection iteration", "file": "community-types/indesign/condition-sets/collection-iteration.md", "summary": "Open when looking up ConditionSets collection iteration in Shared Adobe platform.", "keywords": ["ConditionSets collection iteration"]},
+  {"topic": "ConditionSets declaration", "file": "community-types/indesign/condition-sets/declaration.md", "summary": "Open when looking up ConditionSets declaration in Shared Adobe platform.", "keywords": ["ConditionSets declaration"]},
+  {"topic": "ConditionSets named and indexed items", "file": "community-types/indesign/condition-sets/named-and-indexed-items.md", "summary": "Open when looking up ConditionSets named and indexed items in Shared Adobe platform.", "keywords": ["ConditionSets named and indexed items"]},
+  {"topic": "ConditionSets.add", "file": "community-types/indesign/condition-sets/add.md", "summary": "Open when looking up ConditionSets.add in Shared Adobe platform.", "keywords": ["ConditionSets.add"]},
+  {"topic": "ConditionSets.count", "file": "community-types/indesign/condition-sets/count.md", "summary": "Open when looking up ConditionSets.count in Shared Adobe platform.", "keywords": ["ConditionSets.count"]},
+  {"topic": "ConditionSets.IndexSignature", "file": "community-types/indesign/condition-sets/index-signature.md", "summary": "Open when looking up ConditionSets.IndexSignature in Shared Adobe platform.", "keywords": ["ConditionSets.IndexSignature"]},
+  {"topic": "ConditionSets.itemByRange", "file": "community-types/indesign/condition-sets/item-by-range.md", "summary": "Open when looking up ConditionSets.itemByRange in Shared Adobe platform.", "keywords": ["ConditionSets.itemByRange"]},
+  {"topic": "ConditionSets.length", "file": "community-types/indesign/condition-sets/length.md", "summary": "Open when looking up ConditionSets.length in Shared Adobe platform.", "keywords": ["ConditionSets.length"]},
+  {"topic": "ConditionSets.toSource", "file": "community-types/indesign/condition-sets/to-source.md", "summary": "Open when looking up ConditionSets.toSource in Shared Adobe platform.", "keywords": ["ConditionSets.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

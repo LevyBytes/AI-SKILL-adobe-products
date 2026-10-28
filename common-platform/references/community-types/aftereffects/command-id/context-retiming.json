@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "_CommandID.EnableTimeRemapping", "file": "references/community-types/aftereffects/command-id/enable-time-remapping.md", "summary": "Open when looking up _CommandID.EnableTimeRemapping in Shared Adobe platform.", "keywords": ["_CommandID.EnableTimeRemapping"]},
-  {"topic": "_CommandID.FreezeFrame", "file": "references/community-types/aftereffects/command-id/freeze-frame.md", "summary": "Open when looking up _CommandID.FreezeFrame in Shared Adobe platform.", "keywords": ["_CommandID.FreezeFrame"]},
-  {"topic": "_CommandID.SetPosterTime", "file": "references/community-types/aftereffects/command-id/set-poster-time.md", "summary": "Open when looking up _CommandID.SetPosterTime in Shared Adobe platform.", "keywords": ["_CommandID.SetPosterTime"]},
-  {"topic": "_CommandID.TimeReverseLayer", "file": "references/community-types/aftereffects/command-id/time-reverse-layer.md", "summary": "Open when looking up _CommandID.TimeReverseLayer in Shared Adobe platform.", "keywords": ["_CommandID.TimeReverseLayer"]},
-  {"topic": "_CommandID.TimeStretch", "file": "references/community-types/aftereffects/command-id/time-stretch.md", "summary": "Open when looking up _CommandID.TimeStretch in Shared Adobe platform.", "keywords": ["_CommandID.TimeStretch"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Media and Marker APIs - MediaReject", "file": "scripting/media-reject/media-and-marker-apis-media-reject.md", "summary": "Open when looking up Media and Marker APIs - MediaReject in Acrobat.", "keywords": ["Media and Marker APIs - MediaReject"]},
+  {"topic": "rendition", "file": "scripting/media-reject/rendition.md", "summary": "Open when looking up rendition in Acrobat.", "keywords": ["rendition"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Loading and using shared libraries - Direct access to library calls through the ExternalObject instance", "file": "scripting/externalobject-direct-calls/externalobject-direct-library-calls.md", "summary": "Open when looking up Loading and using shared libraries - Direct access to library calls through the ExternalObject instance in Shared Adobe platform.", "keywords": ["Loading and using shared libraries - Direct access to library calls through the ExternalObject instance"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

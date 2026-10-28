@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "COLUMNS_FIRST", "file": "document-model/arrange-by/columnsfirst.md", "summary": "Open when looking up COLUMNS_FIRST in InDesign.", "keywords": ["COLUMNS_FIRST"]},
+  {"topic": "ROWS_FIRST", "file": "document-model/arrange-by/rowsfirst.md", "summary": "Open when looking up ROWS_FIRST in InDesign.", "keywords": ["ROWS_FIRST"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

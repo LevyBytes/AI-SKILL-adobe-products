@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "TASK_ERROR", "file": "document-model/task-alert-type/taskerror.md", "summary": "Open when looking up TASK_ERROR in InDesign.", "keywords": ["TASK_ERROR"]},
+  {"topic": "TASK_INFORMATION", "file": "document-model/task-alert-type/taskinformation.md", "summary": "Open when looking up TASK_INFORMATION in InDesign.", "keywords": ["TASK_INFORMATION"]},
+  {"topic": "TASK_WARNING", "file": "document-model/task-alert-type/taskwarning.md", "summary": "Open when looking up TASK_WARNING in InDesign.", "keywords": ["TASK_WARNING"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

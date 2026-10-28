@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "ignoreSpreadOverrides", "file": "references/document-model/pdf-export-preset/ignore-spread-overrides.md", "summary": "Open when looking up ignoreSpreadOverrides in InDesign.", "keywords": ["ignoreSpreadOverrides"]},
-  {"topic": "omitBitmaps", "file": "references/document-model/pdf-export-preset/omit-bitmaps.md", "summary": "Open when looking up omitBitmaps in InDesign.", "keywords": ["omitBitmaps"]},
-  {"topic": "omitEPS", "file": "references/document-model/pdf-export-preset/omit-eps.md", "summary": "Open when looking up omitEPS in InDesign.", "keywords": ["omitEPS"]},
-  {"topic": "omitPDF", "file": "references/document-model/pdf-export-preset/omit-pdf.md", "summary": "Open when looking up omitPDF in InDesign.", "keywords": ["omitPDF"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

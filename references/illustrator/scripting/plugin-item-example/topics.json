@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Copying plug-in art", "file": "scripting/plugin-item-example/copying-plug-in-art.md", "summary": "Open when looking up Copying plug-in art in Illustrator.", "keywords": ["Copying plug-in art"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

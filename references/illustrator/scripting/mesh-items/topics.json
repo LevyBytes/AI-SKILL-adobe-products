@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "MeshItems.getByName()", "file": "scripting/mesh-items/get-by-name.md", "summary": "Open when looking up MeshItems.getByName() in Illustrator.", "keywords": ["MeshItems.getByName()"]},
+  {"topic": "MeshItems.index()", "file": "scripting/mesh-items/index.md", "summary": "Open when looking up MeshItems.index() in Illustrator.", "keywords": ["MeshItems.index()"]},
+  {"topic": "MeshItems.length", "file": "scripting/mesh-items/length.md", "summary": "Open when looking up MeshItems.length in Illustrator.", "keywords": ["MeshItems.length"]},
+  {"topic": "MeshItems.parent", "file": "scripting/mesh-items/parent.md", "summary": "Open when looking up MeshItems.parent in Illustrator.", "keywords": ["MeshItems.parent"]},
+  {"topic": "MeshItems.removeAll()", "file": "scripting/mesh-items/remove-all.md", "summary": "Open when looking up MeshItems.removeAll() in Illustrator.", "keywords": ["MeshItems.removeAll()"]},
+  {"topic": "MeshItems.typename", "file": "scripting/mesh-items/typename.md", "summary": "Open when looking up MeshItems.typename in Illustrator.", "keywords": ["MeshItems.typename"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

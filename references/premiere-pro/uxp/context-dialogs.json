@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Add Modal Dialogs", "file": "uxp/add-modal-dialogs.md", "summary": "Open when looking up Add Modal Dialogs in Premiere Pro.", "keywords": ["Add Modal Dialogs"]},
+  {"topic": "Dialog Lifecycle and Event Handling", "file": "uxp/dialog-lifecycle-and-event-handling.md", "summary": "Open when looking up Dialog Lifecycle and Event Handling in Premiere Pro.", "keywords": ["Dialog Lifecycle and Event Handling"]},
+  {"topic": "Dialog Lifecycle and Event Handling references", "file": "uxp/dialog-lifecycle-and-event-handling/reference-index.md", "summary": "Open when looking up Dialog Lifecycle and Event Handling in Premiere Pro.", "keywords": ["Dialog Lifecycle and Event Handling references"]},
+  {"topic": "Modal Dialogs", "file": "uxp/modal-dialogs.md", "summary": "Open when looking up Modal Dialogs in Premiere Pro.", "keywords": ["Modal Dialogs"]},
+  {"topic": "Modal Dialogs as Command UIs", "file": "uxp/modal-dialogs-as-command-uis.md", "summary": "Open when looking up Modal Dialogs as Command UIs in Premiere Pro.", "keywords": ["Modal Dialogs as Command UIs"]},
+  {"topic": "Modal Dialogs as Command UIs references", "file": "uxp/modal-dialogs-as-command-uis/reference-index.md", "summary": "Open when looking up Modal Dialogs as Command UIs in Premiere Pro.", "keywords": ["Modal Dialogs as Command UIs references"]},
+  {"topic": "Modal Dialogs references", "file": "uxp/modal-dialogs/reference-index.md", "summary": "Open when looking up Modal Dialogs in Premiere Pro.", "keywords": ["Modal Dialogs references"]},
+  {"topic": "Singleton pattern for Modal Dialogs", "file": "uxp/singleton-pattern-for-modal-dialogs.md", "summary": "Open when looking up Singleton pattern for Modal Dialogs in Premiere Pro.", "keywords": ["Singleton pattern for Modal Dialogs"]},
+  {"topic": "Singleton pattern for Modal Dialogs references", "file": "uxp/singleton-pattern-for-modal-dialogs/reference-index.md", "summary": "Open when looking up Singleton pattern for Modal Dialogs in Premiere Pro.", "keywords": ["Singleton pattern for Modal Dialogs references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

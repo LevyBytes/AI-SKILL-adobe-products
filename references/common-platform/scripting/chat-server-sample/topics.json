@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Socket Object - Chat server sample", "file": "scripting/chat-server-sample/socket-object-chat-server-sample.md", "summary": "Open when looking up Socket Object - Chat server sample in Shared Adobe platform.", "keywords": ["Socket Object - Chat server sample"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

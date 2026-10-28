@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Available printer example", "file": "scripting/printer-info-example/available-printer-example.md", "summary": "Open when looking up Available printer example in Illustrator.", "keywords": ["Available printer example"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

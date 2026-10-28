@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Example 7: Artboard create", "file": "cloud-services/v1-v2-migration-reference/code-transformations/artboard-create.md", "summary": "Open when looking up Example 7: Artboard create in Photoshop.", "keywords": ["Example 7: Artboard create"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

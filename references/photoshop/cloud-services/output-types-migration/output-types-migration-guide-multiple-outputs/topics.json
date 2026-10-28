@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Example with multiple outputs", "file": "cloud-services/output-types-migration/output-types-migration-guide-multiple-outputs/example-with-multiple-outputs.md", "summary": "Open when looking up Example with multiple outputs in Photoshop.", "keywords": ["Example with multiple outputs"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

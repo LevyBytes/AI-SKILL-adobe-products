@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Perform bulk actions", "file": "web/perform-bulk-actions/perform-bulk-actions.md", "summary": "Open when looking up Perform bulk actions in Firefly.", "keywords": ["Perform bulk actions"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

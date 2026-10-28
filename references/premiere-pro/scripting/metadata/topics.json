@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Metadata object", "file": "scripting/metadata/metadata-object.md", "summary": "Open when looking up Metadata object in Premiere Pro.", "keywords": ["Metadata object"]},
+  {"topic": "Metadata.addMarker()", "file": "scripting/metadata/add-marker.md", "summary": "Open when looking up Metadata.addMarker() in Premiere Pro.", "keywords": ["Metadata.addMarker()"]},
+  {"topic": "Metadata.deleteMarker()", "file": "scripting/metadata/delete-marker.md", "summary": "Open when looking up Metadata.deleteMarker() in Premiere Pro.", "keywords": ["Metadata.deleteMarker()"]},
+  {"topic": "Metadata.getMetadata", "file": "scripting/metadata/get-metadata.md", "summary": "Open when looking up Metadata.getMetadata in Premiere Pro.", "keywords": ["Metadata.getMetadata"]},
+  {"topic": "Metadata.setMarkerData()", "file": "scripting/metadata/set-marker-data.md", "summary": "Open when looking up Metadata.setMarkerData() in Premiere Pro.", "keywords": ["Metadata.setMarkerData()"]},
+  {"topic": "Metadata.setMetadataValue()", "file": "scripting/metadata/set-metadata-value.md", "summary": "Open when looking up Metadata.setMetadataValue() in Premiere Pro.", "keywords": ["Metadata.setMetadataValue()"]},
+  {"topic": "Metadata.updateMarker()", "file": "scripting/metadata/update-marker.md", "summary": "Open when looking up Metadata.updateMarker() in Premiere Pro.", "keywords": ["Metadata.updateMarker()"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

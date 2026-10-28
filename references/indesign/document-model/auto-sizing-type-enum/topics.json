@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "HEIGHT_AND_WIDTH", "file": "document-model/auto-sizing-type-enum/heightandwidth.md", "summary": "Open when looking up HEIGHT_AND_WIDTH in InDesign.", "keywords": ["HEIGHT_AND_WIDTH"]},
+  {"topic": "HEIGHT_AND_WIDTH_PROPORTIONALLY", "file": "document-model/auto-sizing-type-enum/heightandwidthproportionally.md", "summary": "Open when looking up HEIGHT_AND_WIDTH_PROPORTIONALLY in InDesign.", "keywords": ["HEIGHT_AND_WIDTH_PROPORTIONALLY"]},
+  {"topic": "HEIGHT_ONLY", "file": "document-model/auto-sizing-type-enum/heightonly.md", "summary": "Open when looking up HEIGHT_ONLY in InDesign.", "keywords": ["HEIGHT_ONLY"]},
+  {"topic": "OFF", "file": "document-model/auto-sizing-type-enum/off.md", "summary": "Open when looking up OFF in InDesign.", "keywords": ["OFF"]},
+  {"topic": "WIDTH_ONLY", "file": "document-model/auto-sizing-type-enum/widthonly.md", "summary": "Open when looking up WIDTH_ONLY in InDesign.", "keywords": ["WIDTH_ONLY"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

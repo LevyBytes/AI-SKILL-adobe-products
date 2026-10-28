@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "ALL_IMAGE_DATA", "file": "references/document-model/eps-image-data/allimagedata.md", "summary": "Open when looking up ALL_IMAGE_DATA in InDesign.", "keywords": ["ALL_IMAGE_DATA"]},
-  {"topic": "PROXY_IMAGE_DATA", "file": "references/document-model/eps-image-data/proxyimagedata.md", "summary": "Open when looking up PROXY_IMAGE_DATA in InDesign.", "keywords": ["PROXY_IMAGE_DATA"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

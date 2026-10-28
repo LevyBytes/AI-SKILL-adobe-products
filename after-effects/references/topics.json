@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "C++ plugin SDK references", "file": "references/plugin-sdk/reference-index.md", "summary": "Open when looking up C++ plugin SDK in After Effects.", "keywords": ["C++ plugin SDK references"]},
-  {"topic": "Desktop workflows references", "file": "references/desktop/reference-index.md", "summary": "Open when looking up Desktop workflows in After Effects.", "keywords": ["Desktop workflows references"]},
-  {"topic": "Scripting APIs references", "file": "references/scripting/reference-index.md", "summary": "Open when looking up Scripting APIs in After Effects.", "keywords": ["Scripting APIs references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

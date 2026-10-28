@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "AFTER", "file": "document-model/location-options/after.md", "summary": "Open when looking up AFTER in InDesign.", "keywords": ["AFTER"]},
+  {"topic": "AT_BEGINNING", "file": "document-model/location-options/atbeginning.md", "summary": "Open when looking up AT_BEGINNING in InDesign.", "keywords": ["AT_BEGINNING"]},
+  {"topic": "AT_END", "file": "document-model/location-options/atend.md", "summary": "Open when looking up AT_END in InDesign.", "keywords": ["AT_END"]},
+  {"topic": "BEFORE", "file": "document-model/location-options/before.md", "summary": "Open when looking up BEFORE in InDesign.", "keywords": ["BEFORE"]},
+  {"topic": "UNKNOWN", "file": "document-model/location-options/unknown.md", "summary": "Open when looking up UNKNOWN in InDesign.", "keywords": ["UNKNOWN"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

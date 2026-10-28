@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "textFramePreferences", "file": "references/document-model/text-frame/text-frame-preferences.md", "summary": "Open when looking up textFramePreferences in InDesign.", "keywords": ["textFramePreferences"]},
-  {"topic": "textWrapPreferences", "file": "references/document-model/text-frame/text-wrap-preferences.md", "summary": "Open when looking up textWrapPreferences in InDesign.", "keywords": ["textWrapPreferences"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

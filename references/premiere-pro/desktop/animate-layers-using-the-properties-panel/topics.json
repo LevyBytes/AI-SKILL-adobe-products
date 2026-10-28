@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Animate text, shape, and path layers with keyframes in Adobe Premiere.", "file": "desktop/animate-layers-using-the-properties-panel/text-shape-and-path-keyframes.md", "summary": "Open when looking up Animate text, shape, and path layers with keyframes in Adobe Premiere. in Premiere Pro.", "keywords": ["Animate text, shape, and path layers with keyframes in Adobe Premiere."]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

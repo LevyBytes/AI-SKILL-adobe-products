@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Shared-storage practices for Adobe Premiere Productions", "file": "desktop/general-best-practices-for-using-productions-on-shared-storage/shared-storage-practices-for-adobe-premiere-productions.md", "summary": "Open when looking up Shared-storage practices for Adobe Premiere Productions in Premiere Pro.", "keywords": ["Shared-storage practices for Adobe Premiere Productions"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

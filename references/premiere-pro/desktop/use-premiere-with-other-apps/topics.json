@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Working with other Adobe applications", "file": "desktop/use-premiere-with-other-apps/working-with-other-adobe-applications.md", "summary": "Open when looking up Working with other Adobe applications in Premiere Pro.", "keywords": ["Working with other Adobe applications"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

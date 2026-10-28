@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Failed job response", "file": "cloud-services/status-migration/response-format/failed-job-response.md", "summary": "Open when looking up Failed job response in Photoshop.", "keywords": ["Failed job response"]},
+  {"topic": "Job status values", "file": "cloud-services/status-migration/response-format/job-status-values.md", "summary": "Open when looking up Job status values in Photoshop.", "keywords": ["Job status values"]},
+  {"topic": "Running job response", "file": "cloud-services/status-migration/response-format/running-job-response.md", "summary": "Open when looking up Running job response in Photoshop.", "keywords": ["Running job response"]},
+  {"topic": "Successful job response", "file": "cloud-services/status-migration/response-format/successful-job-response.md", "summary": "Open when looking up Successful job response in Photoshop.", "keywords": ["Successful job response"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Aspect ratio distortion in sequences", "file": "references/desktop/aspect-ratio-preservation/aspect-ratio-distortion-in-sequences.md", "summary": "Open when looking up Aspect ratio distortion in sequences in Premiere Pro.", "keywords": ["Aspect ratio distortion in sequences"]},
-  {"topic": "Assets in a sequence", "file": "references/desktop/aspect-ratio-preservation/assets-in-a-sequence.md", "summary": "Open when looking up Assets in a sequence in Premiere Pro.", "keywords": ["Assets in a sequence"]},
-  {"topic": "How Adobe Premiere preserves aspect ratios", "file": "references/desktop/aspect-ratio-preservation/how-adobe-premiere-preserves-aspect-ratios.md", "summary": "Open when looking up How Adobe Premiere preserves aspect ratios in Premiere Pro.", "keywords": ["How Adobe Premiere preserves aspect ratios"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

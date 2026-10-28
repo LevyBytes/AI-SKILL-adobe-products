@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Convert documents within the book", "file": "references/desktop/pages-and-books/create-and-manage-book-files/legacy-book-conversion/convert-documents-within-the-book.md", "summary": "Open when looking up Convert documents within the book in InDesign.", "keywords": ["Convert documents within the book"]},
-  {"topic": "Open and save the legacy book file", "file": "references/desktop/pages-and-books/create-and-manage-book-files/legacy-book-conversion/open-and-save-the-legacy-book-file.md", "summary": "Open when looking up Open and save the legacy book file in InDesign.", "keywords": ["Open and save the legacy book file"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

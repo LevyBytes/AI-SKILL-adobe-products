@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Audio conforming behavior", "file": "desktop/organize-media/import-files/audio-sample-rates-in-premiere/audio-conforming-behavior.md", "summary": "Open when looking up Audio conforming behavior in Premiere Pro.", "keywords": ["Audio conforming behavior"]},
+  {"topic": "Compressed audio", "file": "desktop/organize-media/import-files/audio-sample-rates-in-premiere/compressed-audio.md", "summary": "Open when looking up Compressed audio in Premiere Pro.", "keywords": ["Compressed audio"]},
+  {"topic": "How Premiere processes audio", "file": "desktop/organize-media/import-files/audio-sample-rates-in-premiere/how-premiere-processes-audio.md", "summary": "Open when looking up How Premiere processes audio in Premiere Pro.", "keywords": ["How Premiere processes audio"]},
+  {"topic": "Natively supported sample rates", "file": "desktop/organize-media/import-files/audio-sample-rates-in-premiere/natively-supported-sample-rates.md", "summary": "Open when looking up Natively supported sample rates in Premiere Pro.", "keywords": ["Natively supported sample rates"]},
+  {"topic": "Uncompressed audio", "file": "desktop/organize-media/import-files/audio-sample-rates-in-premiere/uncompressed-audio.md", "summary": "Open when looking up Uncompressed audio in Premiere Pro.", "keywords": ["Uncompressed audio"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

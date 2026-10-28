@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Story.AFTER_PLACE", "file": "references/community-types/indesign/story/afterplace.md", "summary": "Open when looking up Story.AFTER_PLACE in Shared Adobe platform.", "keywords": ["Story.AFTER_PLACE"]},
-  {"topic": "Story.BEFORE_PLACE", "file": "references/community-types/indesign/story/beforeplace.md", "summary": "Open when looking up Story.BEFORE_PLACE in Shared Adobe platform.", "keywords": ["Story.BEFORE_PLACE"]},
-  {"topic": "Story event listeners", "file": "references/community-types/indesign/story/event-listeners.md", "summary": "Open when looking up Story event listeners in Shared Adobe platform.", "keywords": ["Story event listeners"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

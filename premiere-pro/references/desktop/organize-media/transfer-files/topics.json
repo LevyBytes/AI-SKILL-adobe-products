@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Copy, transcode, or archive project", "file": "references/desktop/organize-media/transfer-files/copy-transcode-or-archive-project.md", "summary": "Open when looking up Copy, transcode, or archive project in Premiere Pro.", "keywords": ["Copy, transcode, or archive project"]},
-  {"topic": "Supported elements for Final Cut Pro X", "file": "references/desktop/organize-media/transfer-files/supported-elements-for-final-cut-pro-x.md", "summary": "Open when looking up Supported elements for Final Cut Pro X in Premiere Pro.", "keywords": ["Supported elements for Final Cut Pro X"]},
-  {"topic": "Transfer assets from file-based media", "file": "references/desktop/organize-media/transfer-files/transfer-assets-from-file-based-media.md", "summary": "Open when looking up Transfer assets from file-based media in Premiere Pro.", "keywords": ["Transfer assets from file-based media"]},
-  {"topic": "Transfer projects from one computer to another", "file": "references/desktop/organize-media/transfer-files/transfer-projects-from-one-computer-to-another.md", "summary": "Open when looking up Transfer projects from one computer to another in Premiere Pro.", "keywords": ["Transfer projects from one computer to another"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

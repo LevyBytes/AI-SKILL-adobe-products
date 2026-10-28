@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Extract first level headings example setup", "file": "pdf-services/examples/dotnet/extract-first-level-headings/extract-first-level-headings-setup.md", "summary": "Open when looking up Extract first level headings example setup in Acrobat.", "keywords": ["Extract first level headings example setup"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

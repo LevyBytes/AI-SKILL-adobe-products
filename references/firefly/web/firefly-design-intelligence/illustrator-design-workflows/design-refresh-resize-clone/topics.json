@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Before you begin", "file": "web/firefly-design-intelligence/illustrator-design-workflows/design-refresh-resize-clone/before-you-begin.md", "summary": "Open when looking up Before you begin in Firefly.", "keywords": ["Before you begin"]},
+  {"topic": "Clone generated designs", "file": "web/firefly-design-intelligence/illustrator-design-workflows/design-refresh-resize-clone/clone-generated-designs.md", "summary": "Open when looking up Clone generated designs in Firefly.", "keywords": ["Clone generated designs"]},
+  {"topic": "Refresh generated layout variations", "file": "web/firefly-design-intelligence/illustrator-design-workflows/design-refresh-resize-clone/refresh-generated-layout-variations.md", "summary": "Open when looking up Refresh generated layout variations in Firefly.", "keywords": ["Refresh generated layout variations"]},
+  {"topic": "Resize generated designs", "file": "web/firefly-design-intelligence/illustrator-design-workflows/design-refresh-resize-clone/resize-generated-designs.md", "summary": "Open when looking up Resize generated designs in Firefly.", "keywords": ["Resize generated designs"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

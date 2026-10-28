@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "PhotoshopFileOptions.parent", "file": "references/scripting/photoshop-file-options/parent.md", "summary": "Open when looking up PhotoshopFileOptions.parent in Illustrator.", "keywords": ["PhotoshopFileOptions.parent"]},
-  {"topic": "PhotoshopFileOptions.pixelAspectRatioCorrection", "file": "references/scripting/photoshop-file-options/pixel-aspect-ratio-correction.md", "summary": "Open when looking up PhotoshopFileOptions.pixelAspectRatioCorrection in Illustrator.", "keywords": ["PhotoshopFileOptions.pixelAspectRatioCorrection"]},
-  {"topic": "PhotoshopFileOptions.preserveImageMaps", "file": "references/scripting/photoshop-file-options/preserve-image-maps.md", "summary": "Open when looking up PhotoshopFileOptions.preserveImageMaps in Illustrator.", "keywords": ["PhotoshopFileOptions.preserveImageMaps"]},
-  {"topic": "PhotoshopFileOptions.preserveLayers", "file": "references/scripting/photoshop-file-options/preserve-layers.md", "summary": "Open when looking up PhotoshopFileOptions.preserveLayers in Illustrator.", "keywords": ["PhotoshopFileOptions.preserveLayers"]},
-  {"topic": "PhotoshopFileOptions.preserveSlices", "file": "references/scripting/photoshop-file-options/preserve-slices.md", "summary": "Open when looking up PhotoshopFileOptions.preserveSlices in Illustrator.", "keywords": ["PhotoshopFileOptions.preserveSlices"]},
-  {"topic": "PhotoshopFileOptions.typename", "file": "references/scripting/photoshop-file-options/typename.md", "summary": "Open when looking up PhotoshopFileOptions.typename in Illustrator.", "keywords": ["PhotoshopFileOptions.typename"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

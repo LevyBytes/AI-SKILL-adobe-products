@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Import compositions from After Effects", "file": "desktop/interoperability/after-effects/import-after-effects-compositions/import-compositions-from-after-effects.md", "summary": "Open when looking up Import compositions from After Effects in Premiere Pro.", "keywords": ["Import compositions from After Effects"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

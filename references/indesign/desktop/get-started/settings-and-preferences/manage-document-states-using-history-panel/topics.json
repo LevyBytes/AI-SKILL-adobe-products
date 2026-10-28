@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Create a new document from a selected state", "file": "desktop/get-started/settings-and-preferences/manage-document-states-using-history-panel/create-a-new-document-from-a-selected-state.md", "summary": "Open when looking up Create a new document from a selected state in InDesign.", "keywords": ["Create a new document from a selected state"]},
+  {"topic": "Delete specific states", "file": "desktop/get-started/settings-and-preferences/manage-document-states-using-history-panel/delete-specific-states.md", "summary": "Open when looking up Delete specific states in InDesign.", "keywords": ["Delete specific states"]},
+  {"topic": "Open and navigate the History panel", "file": "desktop/get-started/settings-and-preferences/manage-document-states-using-history-panel/open-and-navigate-the-history-panel.md", "summary": "Open when looking up Open and navigate the History panel in InDesign.", "keywords": ["Open and navigate the History panel"]},
+  {"topic": "Things to keep in mind", "file": "desktop/get-started/settings-and-preferences/manage-document-states-using-history-panel/things-to-keep-in-mind.md", "summary": "Open when looking up Things to keep in mind in InDesign.", "keywords": ["Things to keep in mind"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

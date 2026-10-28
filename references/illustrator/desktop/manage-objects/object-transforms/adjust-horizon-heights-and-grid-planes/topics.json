@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Adjust grid planes", "file": "desktop/manage-objects/object-transforms/adjust-horizon-heights-and-grid-planes/adjust-grid-planes.md", "summary": "Open when looking up Adjust grid planes in Illustrator.", "keywords": ["Adjust grid planes"]},
+  {"topic": "Adjust horizon height", "file": "desktop/manage-objects/object-transforms/adjust-horizon-heights-and-grid-planes/adjust-horizon-height.md", "summary": "Open when looking up Adjust horizon height in Illustrator.", "keywords": ["Adjust horizon height"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Computing with unit values references", "file": "references/scripting/computing-with-unit-values/reference-index.md", "summary": "Open when looking up Computing with unit values in Shared Adobe platform.", "keywords": ["Computing with unit values references"]},
-  {"topic": "Converting pixel and percentage values references", "file": "references/scripting/converting-pixel-and-percentage-values/reference-index.md", "summary": "Open when looking up Converting pixel and percentage values in Shared Adobe platform.", "keywords": ["Converting pixel and percentage values references"]},
-  {"topic": "Specifying measurement values", "file": "references/scripting/specifying-measurement-values.md", "summary": "Open when looking up Specifying measurement values in Shared Adobe platform.", "keywords": ["Specifying measurement values"]},
-  {"topic": "Unit value references", "file": "references/scripting/unit-value/reference-index.md", "summary": "Open when looking up Unit value in Shared Adobe platform.", "keywords": ["Unit value references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

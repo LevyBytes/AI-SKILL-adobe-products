@@ -1,3 +1,0 @@
-# How It Works
-
-Behind the scenes, PDF Extract leans on AI/ML to spot and sort the different objects that make up a document — paragraphs, lists, headings, tables, and images among them — then pulls out the text, the formatting, and the document's structural relationships, handing all of it back inside a JSON file. If you want the table data on its own, it can additionally be supplied as .CSV or .XLSX files, while any extracted imagery comes back as .PNG files. More detail lives in the [PDF Extract API white paper](https://www.adobe.com/cc-shared/assets/pdf/trust-center/ungated/whitepapers/doc-cloud/adobe-document-services-security-overview.pdf).

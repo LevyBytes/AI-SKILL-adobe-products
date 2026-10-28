@@ -1,0 +1,16 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "children", "file": "scripting/bookmark/children.md", "summary": "Open when looking up children in Acrobat.", "keywords": ["children"]},
+  {"topic": "color", "file": "scripting/bookmark/color.md", "summary": "Open when looking up color in Acrobat.", "keywords": ["color"]},
+  {"topic": "createChild", "file": "scripting/bookmark/create-child.md", "summary": "Open when looking up createChild in Acrobat.", "keywords": ["createChild"]},
+  {"topic": "doc", "file": "scripting/bookmark/doc.md", "summary": "Open when looking up doc in Acrobat.", "keywords": ["doc"]},
+  {"topic": "execute", "file": "scripting/bookmark/execute.md", "summary": "Open when looking up execute in Acrobat.", "keywords": ["execute"]},
+  {"topic": "insertChild", "file": "scripting/bookmark/insert-child.md", "summary": "Open when looking up insertChild in Acrobat.", "keywords": ["insertChild"]},
+  {"topic": "JavaScript APIs - Bookmark", "file": "scripting/bookmark/java-script-apis-bookmark.md", "summary": "Open when looking up JavaScript APIs - Bookmark in Acrobat.", "keywords": ["JavaScript APIs - Bookmark"]},
+  {"topic": "name", "file": "scripting/bookmark/name.md", "summary": "Open when looking up name in Acrobat.", "keywords": ["name"]},
+  {"topic": "open", "file": "scripting/bookmark/open.md", "summary": "Open when looking up open in Acrobat.", "keywords": ["open"]},
+  {"topic": "parent", "file": "scripting/bookmark/parent.md", "summary": "Open when looking up parent in Acrobat.", "keywords": ["parent"]},
+  {"topic": "remove", "file": "scripting/bookmark/remove.md", "summary": "Open when looking up remove in Acrobat.", "keywords": ["remove"]},
+  {"topic": "setAction", "file": "scripting/bookmark/set-action.md", "summary": "Open when looking up setAction in Acrobat.", "keywords": ["setAction"]},
+  {"topic": "style", "file": "scripting/bookmark/style.md", "summary": "Open when looking up style in Acrobat.", "keywords": ["style"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

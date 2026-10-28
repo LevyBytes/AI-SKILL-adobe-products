@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Create a 3D object by extruding", "file": "desktop/effects-and-styles/create-3-d-graphics/create-3-d-objects/create-a-3-d-object-by-extruding.md", "summary": "Open when looking up Create a 3D object by extruding in Illustrator.", "keywords": ["Create a 3D object by extruding"]},
+  {"topic": "Create a 3D object by revolving", "file": "desktop/effects-and-styles/create-3-d-graphics/create-3-d-objects/create-a-3-d-object-by-revolving.md", "summary": "Open when looking up Create a 3D object by revolving in Illustrator.", "keywords": ["Create a 3D object by revolving"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

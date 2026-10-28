@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "SIGNATURE_SIZE_12", "file": "references/document-model/signature-size-options/signaturesize12.md", "summary": "Open when looking up SIGNATURE_SIZE_12 in InDesign.", "keywords": ["SIGNATURE_SIZE_12"]},
-  {"topic": "SIGNATURE_SIZE_16", "file": "references/document-model/signature-size-options/signaturesize16.md", "summary": "Open when looking up SIGNATURE_SIZE_16 in InDesign.", "keywords": ["SIGNATURE_SIZE_16"]},
-  {"topic": "SIGNATURE_SIZE_32", "file": "references/document-model/signature-size-options/signaturesize32.md", "summary": "Open when looking up SIGNATURE_SIZE_32 in InDesign.", "keywords": ["SIGNATURE_SIZE_32"]},
-  {"topic": "SIGNATURE_SIZE_4", "file": "references/document-model/signature-size-options/signaturesize4.md", "summary": "Open when looking up SIGNATURE_SIZE_4 in InDesign.", "keywords": ["SIGNATURE_SIZE_4"]},
-  {"topic": "SIGNATURE_SIZE_8", "file": "references/document-model/signature-size-options/signaturesize8.md", "summary": "Open when looking up SIGNATURE_SIZE_8 in InDesign.", "keywords": ["SIGNATURE_SIZE_8"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "AEGP_CheckinComputeReceipt", "file": "plugin-sdk/compute-cache-api-aegp-compute-cache-suite1/aegp-checkin-compute-receipt.md", "summary": "Open when looking up AEGP_CheckinComputeReceipt in After Effects.", "keywords": ["AEGP_CheckinComputeReceipt"]},
+  {"topic": "AEGP_CheckoutCached", "file": "plugin-sdk/compute-cache-api-aegp-compute-cache-suite1/aegp-checkout-cached.md", "summary": "Open when looking up AEGP_CheckoutCached in After Effects.", "keywords": ["AEGP_CheckoutCached"]},
+  {"topic": "AEGP_ClassRegister", "file": "plugin-sdk/compute-cache-api-aegp-compute-cache-suite1/aegp-class-register.md", "summary": "Open when looking up AEGP_ClassRegister in After Effects.", "keywords": ["AEGP_ClassRegister"]},
+  {"topic": "AEGP_ClassUnRegister", "file": "plugin-sdk/compute-cache-api-aegp-compute-cache-suite1/aegp-class-un-register.md", "summary": "Open when looking up AEGP_ClassUnRegister in After Effects.", "keywords": ["AEGP_ClassUnRegister"]},
+  {"topic": "AEGP_ComputeIfNeededAndCheckout", "file": "plugin-sdk/compute-cache-api-aegp-compute-cache-suite1/aegp-compute-if-needed-and-checkout.md", "summary": "Open when looking up AEGP_ComputeIfNeededAndCheckout in After Effects.", "keywords": ["AEGP_ComputeIfNeededAndCheckout"]},
+  {"topic": "AEGP_GetReceiptComputeValue", "file": "plugin-sdk/compute-cache-api-aegp-compute-cache-suite1/aegp-get-receipt-compute-value.md", "summary": "Open when looking up AEGP_GetReceiptComputeValue in After Effects.", "keywords": ["AEGP_GetReceiptComputeValue"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

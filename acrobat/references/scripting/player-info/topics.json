@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "canPlay", "file": "references/scripting/player-info/can-play.md", "summary": "Open when looking up canPlay in Acrobat.", "keywords": ["canPlay"]},
-  {"topic": "canUseData", "file": "references/scripting/player-info/can-use-data.md", "summary": "Open when looking up canUseData in Acrobat.", "keywords": ["canUseData"]},
-  {"topic": "honors", "file": "references/scripting/player-info/honors.md", "summary": "Open when looking up honors in Acrobat.", "keywords": ["honors"]},
-  {"topic": "id", "file": "references/scripting/player-info/id.md", "summary": "Open when looking up id in Acrobat.", "keywords": ["id"]},
-  {"topic": "mimeTypes", "file": "references/scripting/player-info/mime-types.md", "summary": "Open when looking up mimeTypes in Acrobat.", "keywords": ["mimeTypes"]},
-  {"topic": "name", "file": "references/scripting/player-info/name.md", "summary": "Open when looking up name in Acrobat.", "keywords": ["name"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

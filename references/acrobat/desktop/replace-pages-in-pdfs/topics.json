@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "How to swap out pages in PDFs with Acrobat on the desktop.", "file": "desktop/replace-pages-in-pdfs/how-to-swap-out-pages-in-pdfs-with-acrobat-on-the-desktop.md", "summary": "Open when looking up How to swap out pages in PDFs with Acrobat on the desktop. in Acrobat.", "keywords": ["How to swap out pages in PDFs with Acrobat on the desktop."]},
+  {"topic": "Replace pages between multiple PDFs", "file": "desktop/replace-pages-in-pdfs/replace-pages-between-multiple-pdfs.md", "summary": "Open when looking up Replace pages between multiple PDFs in Acrobat.", "keywords": ["Replace pages between multiple PDFs"]},
+  {"topic": "Replace pages in a single PDF", "file": "desktop/replace-pages-in-pdfs/replace-pages-in-a-single-pdf.md", "summary": "Open when looking up Replace pages in a single PDF in Acrobat.", "keywords": ["Replace pages in a single PDF"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Export to epub references", "file": "references/desktop/save-export-and-publish/export-to-epub/reference-index.md", "summary": "Open when looking up Export to epub in InDesign.", "keywords": ["Export to epub references"]},
-  {"topic": "Export to html and web references", "file": "references/desktop/save-export-and-publish/export-to-html-and-web/reference-index.md", "summary": "Open when looking up Export to html and web in InDesign.", "keywords": ["Export to html and web references"]},
-  {"topic": "Publish work online references", "file": "references/desktop/save-export-and-publish/publish-work-online/reference-index.md", "summary": "Open when looking up Publish work online in InDesign.", "keywords": ["Publish work online references"]},
-  {"topic": "Save and export references", "file": "references/desktop/save-export-and-publish/save-and-export/reference-index.md", "summary": "Open when looking up Save and export in InDesign.", "keywords": ["Save and export references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

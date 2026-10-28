@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Simplify paths manually to reduce anchor points and smooth curves.", "file": "desktop/manually-simplify-paths/manual-path-simplification.md", "summary": "Open when looking up Simplify paths manually to reduce anchor points and smooth curves. in Illustrator.", "keywords": ["Simplify paths manually to reduce anchor points and smooth curves."]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

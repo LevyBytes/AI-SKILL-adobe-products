@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Advantages of interlaced video", "file": "desktop/edit-projects/modify-clip-properties/interlaced-video-overview/advantages-of-interlaced-video.md", "summary": "Open when looking up Advantages of interlaced video in Premiere Pro.", "keywords": ["Advantages of interlaced video"]},
+  {"topic": "Challenges with interlaced video", "file": "desktop/edit-projects/modify-clip-properties/interlaced-video-overview/challenges-with-interlaced-video.md", "summary": "Open when looking up Challenges with interlaced video in Premiere Pro.", "keywords": ["Challenges with interlaced video"]},
+  {"topic": "Interlaced vs. progressive video", "file": "desktop/edit-projects/modify-clip-properties/interlaced-video-overview/interlaced-vs-progressive-video.md", "summary": "Open when looking up Interlaced vs. progressive video in Premiere Pro.", "keywords": ["Interlaced vs. progressive video"]},
+  {"topic": "When and where interlaced video is used", "file": "desktop/edit-projects/modify-clip-properties/interlaced-video-overview/when-and-where-interlaced-video-is-used.md", "summary": "Open when looking up When and where interlaced video is used in Premiere Pro.", "keywords": ["When and where interlaced video is used"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Deprecated docs - past versions", "file": "references/pdf-services/version-support-policy/deprecated-docs-past-versions.md", "summary": "Open when looking up Deprecated docs - past versions in Acrobat.", "keywords": ["Deprecated docs - past versions"]},
-  {"topic": "Support", "file": "references/pdf-services/version-support-policy/support.md", "summary": "Open when looking up Support in Acrobat.", "keywords": ["Support"]},
-  {"topic": "Versioning", "file": "references/pdf-services/version-support-policy/versioning.md", "summary": "Open when looking up Versioning in Acrobat.", "keywords": ["Versioning"]},
-  {"topic": "Versioning scheme", "file": "references/pdf-services/version-support-policy/versioning-scheme.md", "summary": "Open when looking up Versioning scheme in Acrobat.", "keywords": ["Versioning scheme"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

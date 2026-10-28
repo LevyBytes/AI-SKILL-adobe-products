@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Modify metadata properties", "file": "desktop/organize-media/edit-metadata/edit-xmp-metadata/modify-metadata-properties.md", "summary": "Open when looking up Modify metadata properties in Premiere Pro.", "keywords": ["Modify metadata properties"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Create image variations that look more illustrative or realistic", "file": "web/set-content-type/illustrative-and-realistic-content-types.md", "summary": "Open when looking up Create image variations that look more illustrative or realistic in Firefly.", "keywords": ["Create image variations that look more illustrative or realistic"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

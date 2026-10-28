@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Custom models overview", "file": "web/custom-models/custom-models-overview.md", "summary": "Open when looking up Custom models overview in Firefly.", "keywords": ["Custom models overview"]},
+  {"topic": "Share custom models", "file": "web/custom-models/share-custom-models.md", "summary": "Open when looking up Share custom models in Firefly.", "keywords": ["Share custom models"]},
+  {"topic": "Share custom models references", "file": "web/custom-models/share-custom-models/reference-index.md", "summary": "Open when looking up Share custom models in Firefly.", "keywords": ["Share custom models references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

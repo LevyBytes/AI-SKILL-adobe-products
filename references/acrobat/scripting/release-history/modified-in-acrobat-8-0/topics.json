@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "app", "file": "scripting/release-history/modified-in-acrobat-8-0/app.md", "summary": "Open when looking up app in Acrobat.", "keywords": ["app"]},
+  {"topic": "Doc", "file": "scripting/release-history/modified-in-acrobat-8-0/doc.md", "summary": "Open when looking up Doc in Acrobat.", "keywords": ["Doc"]},
+  {"topic": "FDF", "file": "scripting/release-history/modified-in-acrobat-8-0/fdf.md", "summary": "Open when looking up FDF in Acrobat.", "keywords": ["FDF"]},
+  {"topic": "Field", "file": "scripting/release-history/modified-in-acrobat-8-0/field.md", "summary": "Open when looking up Field in Acrobat.", "keywords": ["Field"]},
+  {"topic": "FullScreen", "file": "scripting/release-history/modified-in-acrobat-8-0/full-screen.md", "summary": "Open when looking up FullScreen in Acrobat.", "keywords": ["FullScreen"]},
+  {"topic": "LoginParameters", "file": "scripting/release-history/modified-in-acrobat-8-0/login-parameters.md", "summary": "Open when looking up LoginParameters in Acrobat.", "keywords": ["LoginParameters"]},
+  {"topic": "submitForm method", "file": "scripting/release-history/modified-in-acrobat-8-0/submit-form-method.md", "summary": "Open when looking up submitForm method in Acrobat.", "keywords": ["submitForm method"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

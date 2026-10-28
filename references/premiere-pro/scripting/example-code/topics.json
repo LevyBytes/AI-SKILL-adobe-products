@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Overview - Example code", "file": "scripting/example-code/overview-example-code.md", "summary": "Open when looking up Overview - Example code in Premiere Pro.", "keywords": ["Overview - Example code"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

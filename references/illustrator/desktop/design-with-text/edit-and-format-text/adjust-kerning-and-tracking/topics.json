@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Adjust kerning", "file": "desktop/design-with-text/edit-and-format-text/adjust-kerning-and-tracking/adjust-kerning.md", "summary": "Open when looking up Adjust kerning in Illustrator.", "keywords": ["Adjust kerning"]},
+  {"topic": "Adjust tracking", "file": "desktop/design-with-text/edit-and-format-text/adjust-kerning-and-tracking/adjust-tracking.md", "summary": "Open when looking up Adjust tracking in Illustrator.", "keywords": ["Adjust tracking"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "canDoCustomSearch", "file": "scripting/dir-connection/can-do-custom-search.md", "summary": "Open when looking up canDoCustomSearch in Acrobat.", "keywords": ["canDoCustomSearch"]},
+  {"topic": "canDoCustomUISearch", "file": "scripting/dir-connection/can-do-custom-ui-search.md", "summary": "Open when looking up canDoCustomUISearch in Acrobat.", "keywords": ["canDoCustomUISearch"]},
+  {"topic": "canDoStandardSearch", "file": "scripting/dir-connection/can-do-standard-search.md", "summary": "Open when looking up canDoStandardSearch in Acrobat.", "keywords": ["canDoStandardSearch"]},
+  {"topic": "canList", "file": "scripting/dir-connection/can-list.md", "summary": "Open when looking up canList in Acrobat.", "keywords": ["canList"]},
+  {"topic": "groups", "file": "scripting/dir-connection/groups.md", "summary": "Open when looking up groups in Acrobat.", "keywords": ["groups"]},
+  {"topic": "JavaScript APIs - DirConnection", "file": "scripting/dir-connection/java-script-apis-dir-connection.md", "summary": "Open when looking up JavaScript APIs - DirConnection in Acrobat.", "keywords": ["JavaScript APIs - DirConnection"]},
+  {"topic": "name", "file": "scripting/dir-connection/name.md", "summary": "Open when looking up name in Acrobat.", "keywords": ["name"]},
+  {"topic": "search", "file": "scripting/dir-connection/search.md", "summary": "Open when looking up search in Acrobat.", "keywords": ["search"]},
+  {"topic": "setOutputFields", "file": "scripting/dir-connection/set-output-fields.md", "summary": "Open when looking up setOutputFields in Acrobat.", "keywords": ["setOutputFields"]},
+  {"topic": "uiName", "file": "scripting/dir-connection/ui-name.md", "summary": "Open when looking up uiName in Acrobat.", "keywords": ["uiName"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

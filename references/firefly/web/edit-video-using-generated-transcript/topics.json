@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Edit video by changing the generated transcript", "file": "web/edit-video-using-generated-transcript/edit-video-by-changing-the-generated-transcript.md", "summary": "Open when looking up Edit video by changing the generated transcript in Firefly.", "keywords": ["Edit video by changing the generated transcript"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "animationSettings", "file": "document-model/check-box/animation-settings.md", "summary": "Open when looking up animationSettings in InDesign.", "keywords": ["animationSettings"]},
+  {"topic": "timingSettings", "file": "document-model/check-box/timing-settings.md", "summary": "Open when looking up timingSettings in InDesign.", "keywords": ["timingSettings"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

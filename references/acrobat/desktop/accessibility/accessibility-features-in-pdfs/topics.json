@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "About accessible PDFs", "file": "desktop/accessibility/accessibility-features-in-pdfs/about-accessible-pdfs.md", "summary": "Open when looking up About accessible PDFs in Acrobat.", "keywords": ["About accessible PDFs"]},
+  {"topic": "About tags, accessibility, reading order, and reflow", "file": "desktop/accessibility/accessibility-features-in-pdfs/about-tags-accessibility-reading-order-and-reflow.md", "summary": "Open when looking up About tags, accessibility, reading order, and reflow in Acrobat.", "keywords": ["About tags, accessibility, reading order, and reflow"]},
+  {"topic": "Accessible PDF creation features", "file": "desktop/accessibility/accessibility-features-in-pdfs/accessible-pdf-creation-features.md", "summary": "Open when looking up Accessible PDF creation features in Acrobat.", "keywords": ["Accessible PDF creation features"]},
+  {"topic": "Additional resources", "file": "desktop/accessibility/accessibility-features-in-pdfs/additional-resources.md", "summary": "Open when looking up Additional resources in Acrobat.", "keywords": ["Additional resources"]},
+  {"topic": "PDF accessibility features", "file": "desktop/accessibility/accessibility-features-in-pdfs/pdf-accessibility-features.md", "summary": "Open when looking up PDF accessibility features in Acrobat.", "keywords": ["PDF accessibility features"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

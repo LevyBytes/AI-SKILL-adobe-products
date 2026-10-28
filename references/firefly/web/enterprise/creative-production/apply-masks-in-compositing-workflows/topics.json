@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Binary mask interpretation", "file": "web/enterprise/creative-production/apply-masks-in-compositing-workflows/binary-mask-interpretation.md", "summary": "Open when looking up Binary mask interpretation in Firefly.", "keywords": ["Binary mask interpretation"]},
+  {"topic": "Connect masks in the graph", "file": "web/enterprise/creative-production/apply-masks-in-compositing-workflows/connect-masks-in-the-graph.md", "summary": "Open when looking up Connect masks in the graph in Firefly.", "keywords": ["Connect masks in the graph"]},
+  {"topic": "Create masks in external apps", "file": "web/enterprise/creative-production/apply-masks-in-compositing-workflows/create-masks-in-external-apps.md", "summary": "Open when looking up Create masks in external apps in Firefly.", "keywords": ["Create masks in external apps"]},
+  {"topic": "Generate masks inside workflows", "file": "web/enterprise/creative-production/apply-masks-in-compositing-workflows/generate-masks-inside-workflows.md", "summary": "Open when looking up Generate masks inside workflows in Firefly.", "keywords": ["Generate masks inside workflows"]},
+  {"topic": "Use cases", "file": "web/enterprise/creative-production/apply-masks-in-compositing-workflows/use-cases.md", "summary": "Open when looking up Use cases in Firefly.", "keywords": ["Use cases"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

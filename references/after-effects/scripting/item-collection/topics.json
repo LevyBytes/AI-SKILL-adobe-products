@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "ItemCollection object", "file": "scripting/item-collection/item-collection-object.md", "summary": "Open when looking up ItemCollection object in After Effects.", "keywords": ["ItemCollection object"]},
+  {"topic": "ItemCollection.addComp()", "file": "scripting/item-collection/add-comp.md", "summary": "Open when looking up ItemCollection.addComp() in After Effects.", "keywords": ["ItemCollection.addComp()"]},
+  {"topic": "ItemCollection.addFolder()", "file": "scripting/item-collection/add-folder.md", "summary": "Open when looking up ItemCollection.addFolder() in After Effects.", "keywords": ["ItemCollection.addFolder()"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

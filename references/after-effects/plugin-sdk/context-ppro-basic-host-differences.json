@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "A special suite for ae effects running in premiere pro references", "file": "plugin-sdk/a-special-suite-for-ae-effects-running-in-premiere-pro/reference-index.md", "summary": "Open when looking up A special suite for ae effects running in premiere pro in After Effects.", "keywords": ["A special suite for ae effects running in premiere pro references"]},
+  {"topic": "Basic Host Differences", "file": "plugin-sdk/basic-host-differences.md", "summary": "Open when looking up Basic Host Differences in After Effects.", "keywords": ["Basic Host Differences"]},
+  {"topic": "Frame dimensions references", "file": "plugin-sdk/frame-dimensions/reference-index.md", "summary": "Open when looking up Frame dimensions in After Effects.", "keywords": ["Frame dimensions references"]},
+  {"topic": "Missing suites references", "file": "plugin-sdk/missing-suites/reference-index.md", "summary": "Open when looking up Missing suites in After Effects.", "keywords": ["Missing suites references"]},
+  {"topic": "Parameter ui references", "file": "plugin-sdk/parameter-ui/reference-index.md", "summary": "Open when looking up Parameter ui in After Effects.", "keywords": ["Parameter ui references"]},
+  {"topic": "PF_InData references", "file": "plugin-sdk/pf-in-data/reference-index.md", "summary": "Open when looking up PF_InData in After Effects.", "keywords": ["PF_InData references"]},
+  {"topic": "Render order references", "file": "plugin-sdk/render-order/reference-index.md", "summary": "Open when looking up Render order in After Effects.", "keywords": ["Render order references"]},
+  {"topic": "Rendering frames references", "file": "plugin-sdk/rendering-frames/reference-index.md", "summary": "Open when looking up Rendering frames in After Effects.", "keywords": ["Rendering frames references"]},
+  {"topic": "Time values references", "file": "plugin-sdk/time-values/reference-index.md", "summary": "Open when looking up Time values in After Effects.", "keywords": ["Time values references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

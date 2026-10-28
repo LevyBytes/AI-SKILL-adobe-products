@@ -1,0 +1,19 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Artboard", "file": "scripting/artboard.md", "summary": "Open when looking up Artboard in Illustrator.", "keywords": ["Artboard"]},
+  {"topic": "Artboard references", "file": "scripting/artboard/reference-index.md", "summary": "Open when looking up Artboard in Illustrator.", "keywords": ["Artboard references"]},
+  {"topic": "Artboards", "file": "scripting/artboards.md", "summary": "Open when looking up Artboards in Illustrator.", "keywords": ["Artboards"]},
+  {"topic": "Artboards references", "file": "scripting/artboards/reference-index.md", "summary": "Open when looking up Artboards in Illustrator.", "keywords": ["Artboards references"]},
+  {"topic": "Art item bounds references", "file": "scripting/art-item-bounds/reference-index.md", "summary": "Open when looking up Art item bounds in Illustrator.", "keywords": ["Art item bounds references"]},
+  {"topic": "Art clipping option references", "file": "scripting/art-clipping-option/reference-index.md", "summary": "Open when looking up Art clipping option in Illustrator.", "keywords": ["Art clipping option references"]},
+  {"topic": "Coordinate system references", "file": "scripting/coordinate-system/reference-index.md", "summary": "Open when looking up Coordinate system in Illustrator.", "keywords": ["Coordinate system references"]},
+  {"topic": "Crop options references", "file": "scripting/crop-options/reference-index.md", "summary": "Open when looking up Crop options in Illustrator.", "keywords": ["Crop options references"]},
+  {"topic": "Document artboard layout references", "file": "scripting/document-artboard-layout/reference-index.md", "summary": "Open when looking up Document artboard layout in Illustrator.", "keywords": ["Document artboard layout references"]},
+  {"topic": "Document layout style references", "file": "scripting/document-layout-style/reference-index.md", "summary": "Open when looking up Document layout style in Illustrator.", "keywords": ["Document layout style references"]},
+  {"topic": "Ruler units references", "file": "scripting/ruler-units/reference-index.md", "summary": "Open when looking up Ruler units in Illustrator.", "keywords": ["Ruler units references"]},
+  {"topic": "Transformation references", "file": "scripting/transformation/reference-index.md", "summary": "Open when looking up Transformation in Illustrator.", "keywords": ["Transformation references"]},
+  {"topic": "Transformations", "file": "scripting/transformations.md", "summary": "Open when looking up Transformations in Illustrator.", "keywords": ["Transformations"]},
+  {"topic": "Matrix", "file": "scripting/matrix.md", "summary": "Open when looking up Matrix in Illustrator.", "keywords": ["Matrix"]},
+  {"topic": "Matrix example references", "file": "scripting/matrix-example/reference-index.md", "summary": "Open when looking up Matrix example in Illustrator.", "keywords": ["Matrix example references"]},
+  {"topic": "Matrix references", "file": "scripting/matrix/reference-index.md", "summary": "Open when looking up Matrix in Illustrator.", "keywords": ["Matrix references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

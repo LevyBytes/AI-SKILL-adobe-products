@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Example prompts", "file": "references/desktop/effects/apply-effects-to-text-and-shapes/example-prompts.md", "summary": "Open when looking up Example prompts in InDesign.", "keywords": ["Example prompts"]},
-  {"topic": "Known issues", "file": "references/desktop/effects/apply-effects-to-text-and-shapes/known-issues.md", "summary": "Open when looking up Known issues in InDesign.", "keywords": ["Known issues"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

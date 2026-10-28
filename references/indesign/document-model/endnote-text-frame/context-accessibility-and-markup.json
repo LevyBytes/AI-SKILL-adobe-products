@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "associatedXMLElement", "file": "document-model/endnote-text-frame/associated-xml-element.md", "summary": "Open when looking up associatedXMLElement in InDesign.", "keywords": ["associatedXMLElement"]},
+  {"topic": "autoTag", "file": "document-model/endnote-text-frame/auto-tag.md", "summary": "Open when looking up autoTag in InDesign.", "keywords": ["autoTag"]},
+  {"topic": "markup", "file": "document-model/endnote-text-frame/markup.md", "summary": "Open when looking up markup in InDesign.", "keywords": ["markup"]},
+  {"topic": "objectExportOptions", "file": "document-model/endnote-text-frame/object-export-options.md", "summary": "Open when looking up objectExportOptions in InDesign.", "keywords": ["objectExportOptions"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

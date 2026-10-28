@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "compositeFonts", "file": "document-model/application/composite-fonts.md", "summary": "Open when looking up compositeFonts in InDesign.", "keywords": ["compositeFonts"]},
+  {"topic": "fontLockingPreferences", "file": "document-model/application/font-locking-preferences.md", "summary": "Open when looking up fontLockingPreferences in InDesign.", "keywords": ["fontLockingPreferences"]},
+  {"topic": "fonts", "file": "document-model/application/fonts.md", "summary": "Open when looking up fonts in InDesign.", "keywords": ["fonts"]},
+  {"topic": "fontSyncPreferences", "file": "document-model/application/font-sync-preferences.md", "summary": "Open when looking up fontSyncPreferences in InDesign.", "keywords": ["fontSyncPreferences"]},
+  {"topic": "updateFonts", "file": "document-model/application/update-fonts.md", "summary": "Open when looking up updateFonts in InDesign.", "keywords": ["updateFonts"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Breaking changes", "file": "references/uxp/release-history/prerelease-22-5-build-60-2021-06-10/breaking-changes.md", "summary": "Open when looking up Breaking changes in Photoshop.", "keywords": ["Breaking changes"]},
-  {"topic": "Photoshop Core updates", "file": "references/uxp/release-history/prerelease-22-5-build-60-2021-06-10/photoshop-core-updates.md", "summary": "Open when looking up Photoshop Core updates in Photoshop.", "keywords": ["Photoshop Core updates"]},
-  {"topic": "Updated DOM API", "file": "references/uxp/release-history/prerelease-22-5-build-60-2021-06-10/updated-dom-api.md", "summary": "Open when looking up Updated DOM API in Photoshop.", "keywords": ["Updated DOM API"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

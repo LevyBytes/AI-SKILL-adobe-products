@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Are legacy versions compatible?", "file": "desktop/common-issues-in-premiere-on-apple-silicon-macs/are-legacy-versions-compatible.md", "summary": "Open when looking up Are legacy versions compatible? in Premiere Pro.", "keywords": ["Are legacy versions compatible?"]},
+  {"topic": "Known differences and limitations", "file": "desktop/common-issues-in-premiere-on-apple-silicon-macs/known-differences-and-limitations.md", "summary": "Open when looking up Known differences and limitations in Premiere Pro.", "keywords": ["Known differences and limitations"]},
+  {"topic": "Plugins and Integrations", "file": "desktop/common-issues-in-premiere-on-apple-silicon-macs/plugins-and-integrations.md", "summary": "Open when looking up Plugins and Integrations in Premiere Pro.", "keywords": ["Plugins and Integrations"]},
+  {"topic": "Premiere on Apple silicon Macs: common issues", "file": "desktop/common-issues-in-premiere-on-apple-silicon-macs/premiere-on-apple-silicon-macs-common-issues.md", "summary": "Open when looking up Premiere on Apple silicon Macs: common issues in Premiere Pro.", "keywords": ["Premiere on Apple silicon Macs: common issues"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

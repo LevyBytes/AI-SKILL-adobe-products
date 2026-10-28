@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Like or dislike a response", "file": "ai-assistant/react-to-ai-responses-in-acrobat/like-or-dislike-a-response.md", "summary": "Open when looking up Like or dislike a response in Acrobat.", "keywords": ["Like or dislike a response"]},
+  {"topic": "Rate your experience", "file": "ai-assistant/react-to-ai-responses-in-acrobat/rate-your-experience.md", "summary": "Open when looking up Rate your experience in Acrobat.", "keywords": ["Rate your experience"]},
+  {"topic": "Report inappropriate content", "file": "ai-assistant/react-to-ai-responses-in-acrobat/report-inappropriate-content.md", "summary": "Open when looking up Report inappropriate content in Acrobat.", "keywords": ["Report inappropriate content"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

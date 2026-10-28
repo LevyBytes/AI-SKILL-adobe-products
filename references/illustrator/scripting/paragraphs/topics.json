@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Paragraphs.add()", "file": "scripting/paragraphs/add.md", "summary": "Open when looking up Paragraphs.add() in Illustrator.", "keywords": ["Paragraphs.add()"]},
+  {"topic": "Paragraphs.addBefore()", "file": "scripting/paragraphs/add-before.md", "summary": "Open when looking up Paragraphs.addBefore() in Illustrator.", "keywords": ["Paragraphs.addBefore()"]},
+  {"topic": "Paragraphs.index()", "file": "scripting/paragraphs/index.md", "summary": "Open when looking up Paragraphs.index() in Illustrator.", "keywords": ["Paragraphs.index()"]},
+  {"topic": "Paragraphs.length", "file": "scripting/paragraphs/length.md", "summary": "Open when looking up Paragraphs.length in Illustrator.", "keywords": ["Paragraphs.length"]},
+  {"topic": "Paragraphs.parent", "file": "scripting/paragraphs/parent.md", "summary": "Open when looking up Paragraphs.parent in Illustrator.", "keywords": ["Paragraphs.parent"]},
+  {"topic": "Paragraphs.removeAll()", "file": "scripting/paragraphs/remove-all.md", "summary": "Open when looking up Paragraphs.removeAll() in Illustrator.", "keywords": ["Paragraphs.removeAll()"]},
+  {"topic": "Paragraphs.typename", "file": "scripting/paragraphs/typename.md", "summary": "Open when looking up Paragraphs.typename in Illustrator.", "keywords": ["Paragraphs.typename"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

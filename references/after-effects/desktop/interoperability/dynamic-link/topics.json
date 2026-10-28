@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Dynamic Link and After Effects", "file": "desktop/interoperability/dynamic-link/dynamic-link-and-after-effects.md", "summary": "Open when looking up Dynamic Link and After Effects in After Effects.", "keywords": ["Dynamic Link and After Effects"]},
+  {"topic": "Dynamic Link and After Effects references", "file": "desktop/interoperability/dynamic-link/dynamic-link-and-after-effects/reference-index.md", "summary": "Open when looking up Dynamic Link and After Effects in After Effects.", "keywords": ["Dynamic Link and After Effects references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

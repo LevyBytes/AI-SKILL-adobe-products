@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Best Practices", "file": "uxp/additional-considerations/best-practices.md", "summary": "Open when looking up Best Practices in Premiere Pro.", "keywords": ["Best Practices"]},
+  {"topic": "Operating System Limitations", "file": "uxp/additional-considerations/operating-system-limitations.md", "summary": "Open when looking up Operating System Limitations in Premiere Pro.", "keywords": ["Operating System Limitations"]},
+  {"topic": "When to Use Each API", "file": "uxp/additional-considerations/when-to-use-each-api.md", "summary": "Open when looking up When to Use Each API in Premiere Pro.", "keywords": ["When to Use Each API"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

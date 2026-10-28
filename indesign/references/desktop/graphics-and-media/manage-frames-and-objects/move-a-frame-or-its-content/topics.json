@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Move content only", "file": "references/desktop/graphics-and-media/manage-frames-and-objects/move-a-frame-or-its-content/move-content-only.md", "summary": "Open when looking up Move content only in InDesign.", "keywords": ["Move content only"]},
-  {"topic": "Move frame only", "file": "references/desktop/graphics-and-media/manage-frames-and-objects/move-a-frame-or-its-content/move-frame-only.md", "summary": "Open when looking up Move frame only in InDesign.", "keywords": ["Move frame only"]},
-  {"topic": "Move the frame and the content together", "file": "references/desktop/graphics-and-media/manage-frames-and-objects/move-a-frame-or-its-content/move-the-frame-and-the-content-together.md", "summary": "Open when looking up Move the frame and the content together in InDesign.", "keywords": ["Move the frame and the content together"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

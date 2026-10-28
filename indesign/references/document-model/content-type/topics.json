@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "GRAPHIC_TYPE", "file": "references/document-model/content-type/graphictype.md", "summary": "Open when looking up GRAPHIC_TYPE in InDesign.", "keywords": ["GRAPHIC_TYPE"]},
-  {"topic": "TEXT_TYPE", "file": "references/document-model/content-type/texttype.md", "summary": "Open when looking up TEXT_TYPE in InDesign.", "keywords": ["TEXT_TYPE"]},
-  {"topic": "UNASSIGNED", "file": "references/document-model/content-type/unassigned.md", "summary": "Open when looking up UNASSIGNED in InDesign.", "keywords": ["UNASSIGNED"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

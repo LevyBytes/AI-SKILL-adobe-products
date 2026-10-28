@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Coordinates", "file": "references/uxp/measurements-and-positioning/coordinates.md", "summary": "Open when looking up Coordinates in InDesign.", "keywords": ["Coordinates"]},
-  {"topic": "Working with measurement units", "file": "references/uxp/measurements-and-positioning/working-with-measurement-units.md", "summary": "Open when looking up Working with measurement units in InDesign.", "keywords": ["Working with measurement units"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

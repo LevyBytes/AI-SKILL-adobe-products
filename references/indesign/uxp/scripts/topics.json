@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Advanced topics", "file": "uxp/scripts/advanced-topics.md", "summary": "Open when looking up Advanced topics in InDesign.", "keywords": ["Advanced topics"]},
+  {"topic": "Advanced topics references", "file": "uxp/scripts/advanced-topics/reference-index.md", "summary": "Open when looking up Advanced topics in InDesign.", "keywords": ["Advanced topics references"]},
+  {"topic": "Concepts", "file": "uxp/scripts/concepts.md", "summary": "Open when looking up Concepts in InDesign.", "keywords": ["Concepts"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

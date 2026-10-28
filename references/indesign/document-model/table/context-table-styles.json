@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "appliedTableStyle", "file": "document-model/table/applied-table-style.md", "summary": "Open when looking up appliedTableStyle in InDesign.", "keywords": ["appliedTableStyle"]},
+  {"topic": "clearTableStyleOverrides", "file": "document-model/table/clear-table-style-overrides.md", "summary": "Open when looking up clearTableStyleOverrides in InDesign.", "keywords": ["clearTableStyleOverrides"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

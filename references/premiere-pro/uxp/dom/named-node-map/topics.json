@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "window.NamedNodeMap - getNamedItem(name)", "file": "uxp/dom/named-node-map/get-named-item.md", "summary": "Open when looking up window.NamedNodeMap - getNamedItem(name) in Premiere Pro.", "keywords": ["window.NamedNodeMap - getNamedItem(name)"]},
+  {"topic": "window.NamedNodeMap - item(index)", "file": "uxp/dom/named-node-map/item.md", "summary": "Open when looking up window.NamedNodeMap - item(index) in Premiere Pro.", "keywords": ["window.NamedNodeMap - item(index)"]},
+  {"topic": "window.NamedNodeMap - NamedNodeMap(node)", "file": "uxp/dom/named-node-map/constructor.md", "summary": "Open when looking up window.NamedNodeMap - NamedNodeMap(node) in Premiere Pro.", "keywords": ["window.NamedNodeMap - NamedNodeMap(node)"]},
+  {"topic": "window.NamedNodeMap - removeNamedItem(name)", "file": "uxp/dom/named-node-map/remove-named-item.md", "summary": "Open when looking up window.NamedNodeMap - removeNamedItem(name) in Premiere Pro.", "keywords": ["window.NamedNodeMap - removeNamedItem(name)"]},
+  {"topic": "window.NamedNodeMap - setNamedItem(attr)", "file": "uxp/dom/named-node-map/set-named-item.md", "summary": "Open when looking up window.NamedNodeMap - setNamedItem(attr) in Premiere Pro.", "keywords": ["window.NamedNodeMap - setNamedItem(attr)"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

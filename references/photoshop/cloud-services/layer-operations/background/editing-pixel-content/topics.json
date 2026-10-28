@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "V1 internal form", "file": "cloud-services/layer-operations/background/editing-pixel-content/v1-internal-form.md", "summary": "Open when looking up V1 internal form in Photoshop.", "keywords": ["V1 internal form"]},
+  {"topic": "V2 explicit form", "file": "cloud-services/layer-operations/background/editing-pixel-content/v2-explicit-form.md", "summary": "Open when looking up V2 explicit form in Photoshop.", "keywords": ["V2 explicit form"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

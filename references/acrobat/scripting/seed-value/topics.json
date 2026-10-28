@@ -1,0 +1,16 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "SeedValue.appearanceFilter", "file": "scripting/seed-value/appearance-filter.md", "summary": "Open when looking up SeedValue.appearanceFilter in Acrobat.", "keywords": ["SeedValue.appearanceFilter"]},
+  {"topic": "SeedValue.certspec", "file": "scripting/seed-value/certspec.md", "summary": "Open when looking up SeedValue.certspec in Acrobat.", "keywords": ["SeedValue.certspec"]},
+  {"topic": "SeedValue.digestMethod", "file": "scripting/seed-value/digest-method.md", "summary": "Open when looking up SeedValue.digestMethod in Acrobat.", "keywords": ["SeedValue.digestMethod"]},
+  {"topic": "SeedValue.filter", "file": "scripting/seed-value/filter.md", "summary": "Open when looking up SeedValue.filter in Acrobat.", "keywords": ["SeedValue.filter"]},
+  {"topic": "SeedValue.flags", "file": "scripting/seed-value/flags.md", "summary": "Open when looking up SeedValue.flags in Acrobat.", "keywords": ["SeedValue.flags"]},
+  {"topic": "SeedValue.legalAttestations", "file": "scripting/seed-value/legal-attestations.md", "summary": "Open when looking up SeedValue.legalAttestations in Acrobat.", "keywords": ["SeedValue.legalAttestations"]},
+  {"topic": "SeedValue.lockDocument", "file": "scripting/seed-value/lock-document.md", "summary": "Open when looking up SeedValue.lockDocument in Acrobat.", "keywords": ["SeedValue.lockDocument"]},
+  {"topic": "SeedValue.mdp", "file": "scripting/seed-value/mdp.md", "summary": "Open when looking up SeedValue.mdp in Acrobat.", "keywords": ["SeedValue.mdp"]},
+  {"topic": "SeedValue.reasons", "file": "scripting/seed-value/reasons.md", "summary": "Open when looking up SeedValue.reasons in Acrobat.", "keywords": ["SeedValue.reasons"]},
+  {"topic": "SeedValue.shouldAddRevInfo", "file": "scripting/seed-value/should-add-rev-info.md", "summary": "Open when looking up SeedValue.shouldAddRevInfo in Acrobat.", "keywords": ["SeedValue.shouldAddRevInfo"]},
+  {"topic": "SeedValue.subFilter", "file": "scripting/seed-value/sub-filter.md", "summary": "Open when looking up SeedValue.subFilter in Acrobat.", "keywords": ["SeedValue.subFilter"]},
+  {"topic": "SeedValue.timeStampspec", "file": "scripting/seed-value/time-stampspec.md", "summary": "Open when looking up SeedValue.timeStampspec in Acrobat.", "keywords": ["SeedValue.timeStampspec"]},
+  {"topic": "SeedValue.version", "file": "scripting/seed-value/version.md", "summary": "Open when looking up SeedValue.version in Acrobat.", "keywords": ["SeedValue.version"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,16 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "PageItem references", "file": "community-types/illustrator/page-item/reference-index.md", "summary": "Open when looking up PageItem in Shared Adobe platform.", "keywords": ["PageItem references"]},
+  {"topic": "PageItems", "file": "community-types/illustrator/page-items.md", "summary": "Open when looking up PageItems in Shared Adobe platform.", "keywords": ["PageItems"]},
+  {"topic": "GraphItem", "file": "community-types/illustrator/graph-item.md", "summary": "Open when looking up GraphItem in Shared Adobe platform.", "keywords": ["GraphItem"]},
+  {"topic": "GraphItems", "file": "community-types/illustrator/graph-items.md", "summary": "Open when looking up GraphItems in Shared Adobe platform.", "keywords": ["GraphItems"]},
+  {"topic": "GroupItem", "file": "community-types/illustrator/group-item.md", "summary": "Open when looking up GroupItem in Shared Adobe platform.", "keywords": ["GroupItem"]},
+  {"topic": "GroupItems", "file": "community-types/illustrator/group-items.md", "summary": "Open when looking up GroupItems in Shared Adobe platform.", "keywords": ["GroupItems"]},
+  {"topic": "Layer references", "file": "community-types/illustrator/layer/reference-index.md", "summary": "Open when looking up Layer in Shared Adobe platform.", "keywords": ["Layer references"]},
+  {"topic": "Layers", "file": "community-types/illustrator/layers.md", "summary": "Open when looking up Layers in Shared Adobe platform.", "keywords": ["Layers"]},
+  {"topic": "NonNativeItem", "file": "community-types/illustrator/non-native-item.md", "summary": "Open when looking up NonNativeItem in Shared Adobe platform.", "keywords": ["NonNativeItem"]},
+  {"topic": "NonNativeItems", "file": "community-types/illustrator/non-native-items.md", "summary": "Open when looking up NonNativeItems in Shared Adobe platform.", "keywords": ["NonNativeItems"]},
+  {"topic": "PluginItem", "file": "community-types/illustrator/plugin-item.md", "summary": "Open when looking up PluginItem in Shared Adobe platform.", "keywords": ["PluginItem"]},
+  {"topic": "PluginItems", "file": "community-types/illustrator/plugin-items.md", "summary": "Open when looking up PluginItems in Shared Adobe platform.", "keywords": ["PluginItems"]},
+  {"topic": "ZOrderMethod", "file": "community-types/illustrator/z-order-method.md", "summary": "Open when looking up ZOrderMethod in Shared Adobe platform.", "keywords": ["ZOrderMethod"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Work with audio", "file": "web/work-with-audio-and-video/work-with-audio.md", "summary": "Open when looking up Work with audio in Firefly.", "keywords": ["Work with audio"]},
+  {"topic": "Work with audio references", "file": "web/work-with-audio-and-video/work-with-audio/reference-index.md", "summary": "Open when looking up Work with audio in Firefly.", "keywords": ["Work with audio references"]},
+  {"topic": "Work with video", "file": "web/work-with-audio-and-video/work-with-video.md", "summary": "Open when looking up Work with video in Firefly.", "keywords": ["Work with video"]},
+  {"topic": "Work with video references", "file": "web/work-with-audio-and-video/work-with-video/reference-index.md", "summary": "Open when looking up Work with video in Firefly.", "keywords": ["Work with video references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

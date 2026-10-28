@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/audition", "topics": [
+  {"topic": "How sound waves interact", "file": "desktop/digital-audio-fundamentals/understanding-sound/how-sound-waves-interact.md", "summary": "Open when looking up How sound waves interact in Audition.", "keywords": ["How sound waves interact"]},
+  {"topic": "Waveform measurements", "file": "desktop/digital-audio-fundamentals/understanding-sound/waveform-measurements.md", "summary": "Open when looking up Waveform measurements in Audition.", "keywords": ["Waveform measurements"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

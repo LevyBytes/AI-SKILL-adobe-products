@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Expand and modify a symbol instance", "file": "desktop/manage-objects/traces-mockups-and-symbols/transform-symbols/expand-and-modify-a-symbol-instance.md", "summary": "Open when looking up Expand and modify a symbol instance in Illustrator.", "keywords": ["Expand and modify a symbol instance"]},
+  {"topic": "Reset transformations", "file": "desktop/manage-objects/traces-mockups-and-symbols/transform-symbols/reset-transformations.md", "summary": "Open when looking up Reset transformations in Illustrator.", "keywords": ["Reset transformations"]},
+  {"topic": "Use the registration point as a reference to transform symbol instances", "file": "desktop/manage-objects/traces-mockups-and-symbols/transform-symbols/symbol-registration-point-transforms.md", "summary": "Open when looking up Use the registration point as a reference to transform symbol instances in Illustrator.", "keywords": ["Use the registration point as a reference to transform symbol instances"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

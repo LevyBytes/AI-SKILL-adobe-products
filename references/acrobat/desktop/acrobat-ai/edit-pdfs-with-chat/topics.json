@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Ask Acrobat to perform PDF tasks", "file": "desktop/acrobat-ai/edit-pdfs-with-chat/ask-acrobat-to-perform-pdf-tasks.md", "summary": "Open when looking up Ask Acrobat to perform PDF tasks in Acrobat.", "keywords": ["Ask Acrobat to perform PDF tasks"]},
+  {"topic": "Ask questions related to Acrobat tools", "file": "desktop/acrobat-ai/edit-pdfs-with-chat/ask-questions-related-to-acrobat-tools.md", "summary": "Open when looking up Ask questions related to Acrobat tools in Acrobat.", "keywords": ["Ask questions related to Acrobat tools"]},
+  {"topic": "Learn how to perform tasks in PDF with chat in Adobe Acrobat.", "file": "desktop/acrobat-ai/edit-pdfs-with-chat/learn-how-to-perform-tasks-in-pdf-with-chat-in-adobe-acrobat.md", "summary": "Open when looking up Learn how to perform tasks in PDF with chat in Adobe Acrobat. in Acrobat.", "keywords": ["Learn how to perform tasks in PDF with chat in Adobe Acrobat."]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

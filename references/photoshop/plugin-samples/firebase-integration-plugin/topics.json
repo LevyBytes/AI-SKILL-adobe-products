@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Build Process", "file": "plugin-samples/firebase-integration-plugin/build-process.md", "summary": "Open when looking up Build Process in Photoshop.", "keywords": ["Build Process"]},
+  {"topic": "Firestore Setup", "file": "plugin-samples/firebase-integration-plugin/firestore-setup.md", "summary": "Open when looking up Firestore Setup in Photoshop.", "keywords": ["Firestore Setup"]},
+  {"topic": "Launching in Photoshop", "file": "plugin-samples/firebase-integration-plugin/launching-in-photoshop.md", "summary": "Open when looking up Launching in Photoshop in Photoshop.", "keywords": ["Launching in Photoshop"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

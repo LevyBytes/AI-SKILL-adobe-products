@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Accessing and referencing objects - Obtaining objects from collections", "file": "scripting/obtaining-objects-from-collections/obtaining-objects-from-collections.md", "summary": "Open when looking up Accessing and referencing objects - Obtaining objects from collections in Illustrator.", "keywords": ["Accessing and referencing objects - Obtaining objects from collections"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Next steps", "file": "uxp/writing-a-file-with-uxp/next-steps.md", "summary": "Open when looking up Next steps in Photoshop.", "keywords": ["Next steps"]},
+  {"topic": "Prerequisites", "file": "uxp/writing-a-file-with-uxp/prerequisites.md", "summary": "Open when looking up Prerequisites in Photoshop.", "keywords": ["Prerequisites"]},
+  {"topic": "Step 1: Adjust the index.html", "file": "uxp/writing-a-file-with-uxp/step-1-adjust-the-index-html.md", "summary": "Open when looking up Step 1: Adjust the index.html in Photoshop.", "keywords": ["Step 1: Adjust the index.html"]},
+  {"topic": "Step 2: Add the new function to the index.js", "file": "uxp/writing-a-file-with-uxp/step-2-add-the-new-function-to-the-index-js.md", "summary": "Open when looking up Step 2: Add the new function to the index.js in Photoshop.", "keywords": ["Step 2: Add the new function to the index.js"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

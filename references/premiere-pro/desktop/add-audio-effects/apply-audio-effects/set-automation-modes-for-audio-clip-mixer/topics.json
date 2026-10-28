@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Select an automation mode", "file": "desktop/add-audio-effects/apply-audio-effects/set-automation-modes-for-audio-clip-mixer/select-an-automation-mode.md", "summary": "Open when looking up Select an automation mode in Premiere Pro.", "keywords": ["Select an automation mode"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

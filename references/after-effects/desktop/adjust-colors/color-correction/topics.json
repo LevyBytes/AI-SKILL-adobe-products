@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Color Correction Effects", "file": "desktop/adjust-colors/color-correction/color-correction-effects.md", "summary": "Open when looking up Color Correction Effects in After Effects.", "keywords": ["Color Correction Effects"]},
+  {"topic": "Color Correction Effects references", "file": "desktop/adjust-colors/color-correction/color-correction-effects/reference-index.md", "summary": "Open when looking up Color Correction Effects in After Effects.", "keywords": ["Color Correction Effects references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

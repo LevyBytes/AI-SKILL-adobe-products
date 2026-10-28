@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Filter and organize fonts", "file": "references/desktop/fonts/preview-and-explore-fonts/filter-and-organize-fonts.md", "summary": "Open when looking up Filter and organize fonts in InDesign.", "keywords": ["Filter and organize fonts"]},
-  {"topic": "Preview font styles within a family", "file": "references/desktop/fonts/preview-and-explore-fonts/preview-font-styles-within-a-family.md", "summary": "Open when looking up Preview font styles within a family in InDesign.", "keywords": ["Preview font styles within a family"]},
-  {"topic": "Preview fonts on selected text", "file": "references/desktop/fonts/preview-and-explore-fonts/preview-fonts-on-selected-text.md", "summary": "Open when looking up Preview fonts on selected text in InDesign.", "keywords": ["Preview fonts on selected text"]},
-  {"topic": "Preview Japanese fonts from Adobe Fonts", "file": "references/desktop/fonts/preview-and-explore-fonts/preview-japanese-fonts-from-adobe-fonts.md", "summary": "Open when looking up Preview Japanese fonts from Adobe Fonts in InDesign.", "keywords": ["Preview Japanese fonts from Adobe Fonts"]},
-  {"topic": "Turn off font preview", "file": "references/desktop/fonts/preview-and-explore-fonts/turn-off-font-preview.md", "summary": "Open when looking up Turn off font preview in InDesign.", "keywords": ["Turn off font preview"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

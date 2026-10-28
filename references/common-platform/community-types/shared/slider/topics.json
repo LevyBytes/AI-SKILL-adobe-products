@@ -1,0 +1,18 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Slider declaration", "file": "community-types/shared/slider/declaration.md", "summary": "Open when looking up Slider declaration in Shared Adobe platform.", "keywords": ["Slider declaration"]},
+  {"topic": "Slider.active", "file": "community-types/shared/slider/active.md", "summary": "Open when looking up Slider.active in Shared Adobe platform.", "keywords": ["Slider.active"]},
+  {"topic": "Slider.children", "file": "community-types/shared/slider/children.md", "summary": "Open when looking up Slider.children in Shared Adobe platform.", "keywords": ["Slider.children"]},
+  {"topic": "Slider.graphics", "file": "community-types/shared/slider/graphics.md", "summary": "Open when looking up Slider.graphics in Shared Adobe platform.", "keywords": ["Slider.graphics"]},
+  {"topic": "Slider.maxvalue", "file": "community-types/shared/slider/maxvalue.md", "summary": "Open when looking up Slider.maxvalue in Shared Adobe platform.", "keywords": ["Slider.maxvalue"]},
+  {"topic": "Slider.minvalue", "file": "community-types/shared/slider/minvalue.md", "summary": "Open when looking up Slider.minvalue in Shared Adobe platform.", "keywords": ["Slider.minvalue"]},
+  {"topic": "Slider.notify", "file": "community-types/shared/slider/notify.md", "summary": "Open when looking up Slider.notify in Shared Adobe platform.", "keywords": ["Slider.notify"]},
+  {"topic": "Slider.onActivate", "file": "community-types/shared/slider/on-activate.md", "summary": "Open when looking up Slider.onActivate in Shared Adobe platform.", "keywords": ["Slider.onActivate"]},
+  {"topic": "Slider.onChange", "file": "community-types/shared/slider/on-change.md", "summary": "Open when looking up Slider.onChange in Shared Adobe platform.", "keywords": ["Slider.onChange"]},
+  {"topic": "Slider.onChanging", "file": "community-types/shared/slider/on-changing.md", "summary": "Open when looking up Slider.onChanging in Shared Adobe platform.", "keywords": ["Slider.onChanging"]},
+  {"topic": "Slider.onDeactivate", "file": "community-types/shared/slider/on-deactivate.md", "summary": "Open when looking up Slider.onDeactivate in Shared Adobe platform.", "keywords": ["Slider.onDeactivate"]},
+  {"topic": "Slider.onDraw", "file": "community-types/shared/slider/on-draw.md", "summary": "Open when looking up Slider.onDraw in Shared Adobe platform.", "keywords": ["Slider.onDraw"]},
+  {"topic": "Slider.onShortcutKey", "file": "community-types/shared/slider/on-shortcut-key.md", "summary": "Open when looking up Slider.onShortcutKey in Shared Adobe platform.", "keywords": ["Slider.onShortcutKey"]},
+  {"topic": "Slider.shortcutKey", "file": "community-types/shared/slider/shortcut-key.md", "summary": "Open when looking up Slider.shortcutKey in Shared Adobe platform.", "keywords": ["Slider.shortcutKey"]},
+  {"topic": "Slider.value", "file": "community-types/shared/slider/value.md", "summary": "Open when looking up Slider.value in Shared Adobe platform.", "keywords": ["Slider.value"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

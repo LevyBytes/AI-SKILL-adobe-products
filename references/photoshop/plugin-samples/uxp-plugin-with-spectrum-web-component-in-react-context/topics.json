@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "**src/App.js**", "file": "plugin-samples/uxp-plugin-with-spectrum-web-component-in-react-context/src-app-js.md", "summary": "Open when looking up **src/App.js** in Photoshop.", "keywords": ["**src/App.js**"]},
+  {"topic": "**src/index.html**", "file": "plugin-samples/uxp-plugin-with-spectrum-web-component-in-react-context/src-index-html.md", "summary": "Open when looking up **src/index.html** in Photoshop.", "keywords": ["**src/index.html**"]},
+  {"topic": ".babelrc", "file": "plugin-samples/uxp-plugin-with-spectrum-web-component-in-react-context/babelrc.md", "summary": "Open when looking up .babelrc in Photoshop.", "keywords": [".babelrc"]},
+  {"topic": "Add a new component", "file": "plugin-samples/uxp-plugin-with-spectrum-web-component-in-react-context/add-a-new-component.md", "summary": "Open when looking up Add a new component in Photoshop.", "keywords": ["Add a new component"]},
+  {"topic": "Deep dive", "file": "plugin-samples/uxp-plugin-with-spectrum-web-component-in-react-context/deep-dive.md", "summary": "Open when looking up Deep dive in Photoshop.", "keywords": ["Deep dive"]},
+  {"topic": "Documentation", "file": "plugin-samples/uxp-plugin-with-spectrum-web-component-in-react-context/documentation.md", "summary": "Open when looking up Documentation in Photoshop.", "keywords": ["Documentation"]},
+  {"topic": "Getting started", "file": "plugin-samples/uxp-plugin-with-spectrum-web-component-in-react-context/getting-started.md", "summary": "Open when looking up Getting started in Photoshop.", "keywords": ["Getting started"]},
+  {"topic": "manifest.json", "file": "plugin-samples/uxp-plugin-with-spectrum-web-component-in-react-context/manifest-json.md", "summary": "Open when looking up manifest.json in Photoshop.", "keywords": ["manifest.json"]},
+  {"topic": "package.json", "file": "plugin-samples/uxp-plugin-with-spectrum-web-component-in-react-context/package-json.md", "summary": "Open when looking up package.json in Photoshop.", "keywords": ["package.json"]},
+  {"topic": "src/index.js", "file": "plugin-samples/uxp-plugin-with-spectrum-web-component-in-react-context/src-index-js.md", "summary": "Open when looking up src/index.js in Photoshop.", "keywords": ["src/index.js"]},
+  {"topic": "webpack.config.js", "file": "plugin-samples/uxp-plugin-with-spectrum-web-component-in-react-context/webpack-config-js.md", "summary": "Open when looking up webpack.config.js in Photoshop.", "keywords": ["webpack.config.js"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

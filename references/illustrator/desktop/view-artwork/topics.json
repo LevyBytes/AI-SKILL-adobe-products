@@ -1,0 +1,18 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "About print tiling", "file": "desktop/view-artwork/about-print-tiling.md", "summary": "Open when looking up About print tiling in Illustrator.", "keywords": ["About print tiling"]},
+  {"topic": "Actual size preview", "file": "desktop/view-artwork/actual-size-preview.md", "summary": "Open when looking up Actual size preview in Illustrator.", "keywords": ["Actual size preview"]},
+  {"topic": "Change the view area", "file": "desktop/view-artwork/change-the-view-area.md", "summary": "Open when looking up Change the view area in Illustrator.", "keywords": ["Change the view area"]},
+  {"topic": "Create a new view", "file": "desktop/view-artwork/create-a-new-view.md", "summary": "Open when looking up Create a new view in Illustrator.", "keywords": ["Create a new view"]},
+  {"topic": "Create a new window", "file": "desktop/view-artwork/create-a-new-window.md", "summary": "Open when looking up Create a new window in Illustrator.", "keywords": ["Create a new window"]},
+  {"topic": "Navigator panel overview", "file": "desktop/view-artwork/navigator-panel-overview.md", "summary": "Open when looking up Navigator panel overview in Illustrator.", "keywords": ["Navigator panel overview"]},
+  {"topic": "Preview artwork as outlines", "file": "desktop/view-artwork/preview-artwork-as-outlines.md", "summary": "Open when looking up Preview artwork as outlines in Illustrator.", "keywords": ["Preview artwork as outlines"]},
+  {"topic": "Previewing artwork in final output medium", "file": "desktop/view-artwork/previewing-artwork-in-final-output-medium.md", "summary": "Open when looking up Previewing artwork in final output medium in Illustrator.", "keywords": ["Previewing artwork in final output medium"]},
+  {"topic": "Rename or delete a view", "file": "desktop/view-artwork/rename-or-delete-a-view.md", "summary": "Open when looking up Rename or delete a view in Illustrator.", "keywords": ["Rename or delete a view"]},
+  {"topic": "Specify Document Setup options", "file": "desktop/view-artwork/specify-document-setup-options.md", "summary": "Open when looking up Specify Document Setup options in Illustrator.", "keywords": ["Specify Document Setup options"]},
+  {"topic": "Switch between views", "file": "desktop/view-artwork/switch-between-views.md", "summary": "Open when looking up Switch between views in Illustrator.", "keywords": ["Switch between views"]},
+  {"topic": "Use multiple windows and views", "file": "desktop/view-artwork/use-multiple-windows-and-views.md", "summary": "Open when looking up Use multiple windows and views in Illustrator.", "keywords": ["Use multiple windows and views"]},
+  {"topic": "View artwork", "file": "desktop/view-artwork/view-artwork.md", "summary": "Open when looking up View artwork in Illustrator.", "keywords": ["View artwork"]},
+  {"topic": "View artwork in presentation mode", "file": "desktop/view-artwork/view-artwork-in-presentation-mode.md", "summary": "Open when looking up View artwork in presentation mode in Illustrator.", "keywords": ["View artwork in presentation mode"]},
+  {"topic": "Zoom in or out the artwork", "file": "desktop/view-artwork/zoom-in-or-out-the-artwork.md", "summary": "Open when looking up Zoom in or out the artwork in Illustrator.", "keywords": ["Zoom in or out the artwork"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

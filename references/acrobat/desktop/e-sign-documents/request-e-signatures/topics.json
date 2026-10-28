@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Manage agreements sent in bulk", "file": "desktop/e-sign-documents/request-e-signatures/manage-agreements-sent-in-bulk.md", "summary": "Open when looking up Manage agreements sent in bulk in Acrobat.", "keywords": ["Manage agreements sent in bulk"]},
+  {"topic": "Request e-signatures in bulk", "file": "desktop/e-sign-documents/request-e-signatures/request-e-signatures-in-bulk.md", "summary": "Open when looking up Request e-signatures in bulk in Acrobat.", "keywords": ["Request e-signatures in bulk"]},
+  {"topic": "Send documents for e-signature", "file": "desktop/e-sign-documents/request-e-signatures/send-documents-for-e-signature.md", "summary": "Open when looking up Send documents for e-signature in Acrobat.", "keywords": ["Send documents for e-signature"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

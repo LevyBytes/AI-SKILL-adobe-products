@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Project format updated in v25.6.0", "file": "references/desktop/troubleshooting/known-issues/project-25-6-0-compatibility/project-format-updated-in-v25-6-0.md", "summary": "Open when looking up Project format updated in v25.6.0 in Premiere Pro.", "keywords": ["Project format updated in v25.6.0"]},
-  {"topic": "Team Projects support", "file": "references/desktop/troubleshooting/known-issues/project-25-6-0-compatibility/team-projects-support.md", "summary": "Open when looking up Team Projects support in Premiere Pro.", "keywords": ["Team Projects support"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

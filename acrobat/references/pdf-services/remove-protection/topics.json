@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": ".NET", "file": "references/pdf-services/remove-protection/net.md", "summary": "Open when looking up .NET in Acrobat.", "keywords": [".NET"]},
-  {"topic": "Java", "file": "references/pdf-services/remove-protection/java.md", "summary": "Open when looking up Java in Acrobat.", "keywords": ["Java"]},
-  {"topic": "Node JS", "file": "references/pdf-services/remove-protection/node-js.md", "summary": "Open when looking up Node JS in Acrobat.", "keywords": ["Node JS"]},
-  {"topic": "Python", "file": "references/pdf-services/remove-protection/python.md", "summary": "Open when looking up Python in Acrobat.", "keywords": ["Python"]},
-  {"topic": "Remove security from PDFs", "file": "references/pdf-services/remove-protection/remove-security-from-pdfs.md", "summary": "Open when looking up Remove security from PDFs in Acrobat.", "keywords": ["Remove security from PDFs"]},
-  {"topic": "REST API", "file": "references/pdf-services/remove-protection/rest-api.md", "summary": "Open when looking up REST API in Acrobat.", "keywords": ["REST API"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

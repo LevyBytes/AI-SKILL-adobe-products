@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Apply formatting to entire expressions", "file": "references/desktop/language-and-proofing/glyphs-and-expressions/stylize-math-expressions/apply-formatting-to-entire-expressions.md", "summary": "Open when looking up Apply formatting to entire expressions in InDesign.", "keywords": ["Apply formatting to entire expressions"]},
-  {"topic": "Apply formatting to selected portions", "file": "references/desktop/language-and-proofing/glyphs-and-expressions/stylize-math-expressions/apply-formatting-to-selected-portions.md", "summary": "Open when looking up Apply formatting to selected portions in InDesign.", "keywords": ["Apply formatting to selected portions"]},
-  {"topic": "Limitations", "file": "references/desktop/language-and-proofing/glyphs-and-expressions/stylize-math-expressions/limitations.md", "summary": "Open when looking up Limitations in InDesign.", "keywords": ["Limitations"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

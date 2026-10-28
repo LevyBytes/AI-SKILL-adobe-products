@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "BridgeTalk message object - BridgeTalk message object constructor", "file": "references/scripting/bridge-talk-message-object-constructor/bridgetalk-message-object-constructor.md", "summary": "Open when looking up BridgeTalk message object - BridgeTalk message object constructor in Shared Adobe platform.", "keywords": ["BridgeTalk message object - BridgeTalk message object constructor"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

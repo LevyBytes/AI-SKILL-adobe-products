@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Frequently asked questions", "file": "references/desktop/generative-ai/assistant/ai-assistant-capabilities/frequently-asked-questions.md", "summary": "Open when looking up Frequently asked questions in InDesign.", "keywords": ["Frequently asked questions"]},
-  {"topic": "Write effective prompts", "file": "references/desktop/generative-ai/assistant/ai-assistant-capabilities/write-effective-prompts.md", "summary": "Open when looking up Write effective prompts in InDesign.", "keywords": ["Write effective prompts"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "ExtendScript overview - Cross-platform file-system access", "file": "scripting/cross-platform-file-system-access/extend-script-overview-cross-platform-file-system-access.md", "summary": "Open when looking up ExtendScript overview - Cross-platform file-system access in Shared Adobe platform.", "keywords": ["ExtendScript overview - Cross-platform file-system access"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

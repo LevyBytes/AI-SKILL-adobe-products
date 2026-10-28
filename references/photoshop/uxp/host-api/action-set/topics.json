@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "delete", "file": "uxp/host-api/action-set/delete.md", "summary": "Open when looking up delete in Photoshop.", "keywords": ["delete"]},
+  {"topic": "duplicate", "file": "uxp/host-api/action-set/duplicate.md", "summary": "Open when looking up duplicate in Photoshop.", "keywords": ["duplicate"]},
+  {"topic": "play", "file": "uxp/host-api/action-set/play.md", "summary": "Open when looking up play in Photoshop.", "keywords": ["play"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

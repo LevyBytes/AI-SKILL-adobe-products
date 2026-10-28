@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "extMessage", "file": "scripting/error/ext-message.md", "summary": "Open when looking up extMessage in Acrobat.", "keywords": ["extMessage"]},
+  {"topic": "fileName", "file": "scripting/error/file-name.md", "summary": "Open when looking up fileName in Acrobat.", "keywords": ["fileName"]},
+  {"topic": "JavaScript APIs - Error", "file": "scripting/error/java-script-apis-error.md", "summary": "Open when looking up JavaScript APIs - Error in Acrobat.", "keywords": ["JavaScript APIs - Error"]},
+  {"topic": "lineNumber", "file": "scripting/error/line-number.md", "summary": "Open when looking up lineNumber in Acrobat.", "keywords": ["lineNumber"]},
+  {"topic": "message", "file": "scripting/error/message.md", "summary": "Open when looking up message in Acrobat.", "keywords": ["message"]},
+  {"topic": "name", "file": "scripting/error/name.md", "summary": "Open when looking up name in Acrobat.", "keywords": ["name"]},
+  {"topic": "toString", "file": "scripting/error/to-string.md", "summary": "Open when looking up toString in Acrobat.", "keywords": ["toString"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

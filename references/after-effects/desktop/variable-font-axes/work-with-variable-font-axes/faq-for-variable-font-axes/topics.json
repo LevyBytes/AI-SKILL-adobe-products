@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Best practices", "file": "desktop/variable-font-axes/work-with-variable-font-axes/faq-for-variable-font-axes/best-practices.md", "summary": "Open when looking up Best practices in After Effects.", "keywords": ["Best practices"]},
+  {"topic": "Helpful resources", "file": "desktop/variable-font-axes/work-with-variable-font-axes/faq-for-variable-font-axes/helpful-resources.md", "summary": "Open when looking up Helpful resources in After Effects.", "keywords": ["Helpful resources"]},
+  {"topic": "Troubleshooting", "file": "desktop/variable-font-axes/work-with-variable-font-axes/faq-for-variable-font-axes/troubleshooting.md", "summary": "Open when looking up Troubleshooting in After Effects.", "keywords": ["Troubleshooting"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

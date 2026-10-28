@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "DIFFUSION", "file": "document-model/feather-corner-type/diffusion.md", "summary": "Open when looking up DIFFUSION in InDesign.", "keywords": ["DIFFUSION"]},
+  {"topic": "ROUNDED", "file": "document-model/feather-corner-type/rounded.md", "summary": "Open when looking up ROUNDED in InDesign.", "keywords": ["ROUNDED"]},
+  {"topic": "SHARP", "file": "document-model/feather-corner-type/sharp.md", "summary": "Open when looking up SHARP in InDesign.", "keywords": ["SHARP"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Create a hanging indent", "file": "desktop/text-formatting/tabs-indents-and-spacing/set-indents/create-a-hanging-indent.md", "summary": "Open when looking up Create a hanging indent in InDesign.", "keywords": ["Create a hanging indent"]},
+  {"topic": "Reset indents to zero", "file": "desktop/text-formatting/tabs-indents-and-spacing/set-indents/reset-indents-to-zero.md", "summary": "Open when looking up Reset indents to zero in InDesign.", "keywords": ["Reset indents to zero"]},
+  {"topic": "Set an indent using the Tabs dialog box", "file": "desktop/text-formatting/tabs-indents-and-spacing/set-indents/set-an-indent-using-the-tabs-dialog-box.md", "summary": "Open when looking up Set an indent using the Tabs dialog box in InDesign.", "keywords": ["Set an indent using the Tabs dialog box"]},
+  {"topic": "Set indents using the Paragraph or Control panel", "file": "desktop/text-formatting/tabs-indents-and-spacing/set-indents/set-indents-using-the-paragraph-or-control-panel.md", "summary": "Open when looking up Set indents using the Paragraph or Control panel in InDesign.", "keywords": ["Set indents using the Paragraph or Control panel"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

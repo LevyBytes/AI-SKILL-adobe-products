@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Alternatives to using the Numbers effect", "file": "desktop/text/text-effects/alternatives-to-using-the-numbers-effect.md", "summary": "Open when looking up Alternatives to using the Numbers effect in After Effects.", "keywords": ["Alternatives to using the Numbers effect"]},
+  {"topic": "Alternatives to using the Timecode effect", "file": "desktop/text/text-effects/alternatives-to-using-the-timecode-effect.md", "summary": "Open when looking up Alternatives to using the Timecode effect in After Effects.", "keywords": ["Alternatives to using the Timecode effect"]},
+  {"topic": "Numbers effect", "file": "desktop/text/text-effects/numbers-effect.md", "summary": "Open when looking up Numbers effect in After Effects.", "keywords": ["Numbers effect"]},
+  {"topic": "Timecode effect", "file": "desktop/text/text-effects/timecode-effect.md", "summary": "Open when looking up Timecode effect in After Effects.", "keywords": ["Timecode effect"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

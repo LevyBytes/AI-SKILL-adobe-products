@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Apply video effects references", "file": "desktop/add-video-effects/apply-video-effects/reference-index.md", "summary": "Open when looking up Apply video effects in Premiere Pro.", "keywords": ["Apply video effects references"]},
+  {"topic": "Apply video transitions references", "file": "desktop/add-video-effects/apply-video-transitions/reference-index.md", "summary": "Open when looking up Apply video transitions in Premiere Pro.", "keywords": ["Apply video transitions references"]},
+  {"topic": "Commonly used effects references", "file": "desktop/add-video-effects/commonly-used-effects/reference-index.md", "summary": "Open when looking up Commonly used effects in Premiere Pro.", "keywords": ["Commonly used effects references"]},
+  {"topic": "Control effects and transitions using keyframes references", "file": "desktop/add-video-effects/keyframe-controls/reference-index.md", "summary": "Open when looking up Control effects and transitions using keyframes in Premiere Pro.", "keywords": ["Control effects and transitions using keyframes references"]},
+  {"topic": "Effects and transitions library references", "file": "desktop/add-video-effects/effects-and-transitions-library/reference-index.md", "summary": "Open when looking up Effects and transitions library in Premiere Pro.", "keywords": ["Effects and transitions library references"]},
+  {"topic": "Types of effects references", "file": "desktop/add-video-effects/types-of-effects/reference-index.md", "summary": "Open when looking up Types of effects in Premiere Pro.", "keywords": ["Types of effects references"]},
+  {"topic": "Work with masks references", "file": "desktop/add-video-effects/work-with-masks/reference-index.md", "summary": "Open when looking up Work with masks in Premiere Pro.", "keywords": ["Work with masks references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

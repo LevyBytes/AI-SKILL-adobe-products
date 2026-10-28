@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "UserDictionary declaration", "file": "community-types/indesign/user-dictionary/declaration.md", "summary": "Open when looking up UserDictionary declaration in Shared Adobe platform.", "keywords": ["UserDictionary declaration"]},
+  {"topic": "UserDictionary event listeners", "file": "community-types/indesign/user-dictionary/event-listeners.md", "summary": "Open when looking up UserDictionary event listeners in Shared Adobe platform.", "keywords": ["UserDictionary event listeners"]},
+  {"topic": "UserDictionary identity and parent", "file": "community-types/indesign/user-dictionary/identity-and-parent.md", "summary": "Open when looking up UserDictionary identity and parent in Shared Adobe platform.", "keywords": ["UserDictionary identity and parent"]},
+  {"topic": "UserDictionary object resolution", "file": "community-types/indesign/user-dictionary/object-resolution.md", "summary": "Open when looking up UserDictionary object resolution in Shared Adobe platform.", "keywords": ["UserDictionary object resolution"]},
+  {"topic": "UserDictionary.addedWords", "file": "community-types/indesign/user-dictionary/added-words.md", "summary": "Open when looking up UserDictionary.addedWords in Shared Adobe platform.", "keywords": ["UserDictionary.addedWords"]},
+  {"topic": "UserDictionary.addWord", "file": "community-types/indesign/user-dictionary/add-word.md", "summary": "Open when looking up UserDictionary.addWord in Shared Adobe platform.", "keywords": ["UserDictionary.addWord"]},
+  {"topic": "UserDictionary.properties", "file": "community-types/indesign/user-dictionary/properties.md", "summary": "Open when looking up UserDictionary.properties in Shared Adobe platform.", "keywords": ["UserDictionary.properties"]},
+  {"topic": "UserDictionary.removedWords", "file": "community-types/indesign/user-dictionary/removed-words.md", "summary": "Open when looking up UserDictionary.removedWords in Shared Adobe platform.", "keywords": ["UserDictionary.removedWords"]},
+  {"topic": "UserDictionary.removeWord", "file": "community-types/indesign/user-dictionary/remove-word.md", "summary": "Open when looking up UserDictionary.removeWord in Shared Adobe platform.", "keywords": ["UserDictionary.removeWord"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

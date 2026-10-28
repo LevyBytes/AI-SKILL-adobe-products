@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Building the plugin", "file": "references/plugin-samples/photoshop-type-script-webpack-sample/building-the-plugin.md", "summary": "Open when looking up Building the plugin in Photoshop.", "keywords": ["Building the plugin"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

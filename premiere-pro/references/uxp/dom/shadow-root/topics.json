@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "activeElement : Element", "file": "references/uxp/dom/shadow-root/active-element-element.md", "summary": "Open when looking up activeElement : Element in Premiere Pro.", "keywords": ["activeElement : Element"]},
-  {"topic": "cloneNode(deep)", "file": "references/uxp/dom/shadow-root/clone-node.md", "summary": "Open when looking up cloneNode(deep) in Premiere Pro.", "keywords": ["cloneNode(deep)"]},
-  {"topic": "host : Element", "file": "references/uxp/dom/shadow-root/host-element.md", "summary": "Open when looking up host : Element in Premiere Pro.", "keywords": ["host : Element"]},
-  {"topic": "innerHTML : string", "file": "references/uxp/dom/shadow-root/inner-html-string.md", "summary": "Open when looking up innerHTML : string in Premiere Pro.", "keywords": ["innerHTML : string"]},
-  {"topic": "mode : Element", "file": "references/uxp/dom/shadow-root/mode-element.md", "summary": "Open when looking up mode : Element in Premiere Pro.", "keywords": ["mode : Element"]},
-  {"topic": "window.ShadowRoot", "file": "references/uxp/dom/shadow-root/overview.md", "summary": "Open when looking up window.ShadowRoot in Premiere Pro.", "keywords": ["window.ShadowRoot"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "CopyrightStatus", "file": "community-types/indesign/copyright-status.md", "summary": "Open when looking up CopyrightStatus in Shared Adobe platform.", "keywords": ["CopyrightStatus"]},
+  {"topic": "MetadataPreference references", "file": "community-types/indesign/metadata-preference/reference-index.md", "summary": "Open when looking up MetadataPreference in Shared Adobe platform.", "keywords": ["MetadataPreference references"]},
+  {"topic": "ObjectExportOption references", "file": "community-types/indesign/object-export-option/reference-index.md", "summary": "Open when looking up ObjectExportOption in Shared Adobe platform.", "keywords": ["ObjectExportOption references"]},
+  {"topic": "SourceType", "file": "community-types/indesign/source-type.md", "summary": "Open when looking up SourceType in Shared Adobe platform.", "keywords": ["SourceType"]},
+  {"topic": "TaggedPDFPreference", "file": "community-types/indesign/tagged-pdf-preference.md", "summary": "Open when looking up TaggedPDFPreference in Shared Adobe platform.", "keywords": ["TaggedPDFPreference"]},
+  {"topic": "TaggedPDFStructureOrderOptions", "file": "community-types/indesign/tagged-pdf-structure-order-options.md", "summary": "Open when looking up TaggedPDFStructureOrderOptions in Shared Adobe platform.", "keywords": ["TaggedPDFStructureOrderOptions"]},
+  {"topic": "TagType", "file": "community-types/indesign/tag-type.md", "summary": "Open when looking up TagType in Shared Adobe platform.", "keywords": ["TagType"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "CMYKColor.black", "file": "scripting/cmyk-color/black.md", "summary": "Open when looking up CMYKColor.black in Illustrator.", "keywords": ["CMYKColor.black"]},
+  {"topic": "CMYKColor.cyan", "file": "scripting/cmyk-color/cyan.md", "summary": "Open when looking up CMYKColor.cyan in Illustrator.", "keywords": ["CMYKColor.cyan"]},
+  {"topic": "CMYKColor.magenta", "file": "scripting/cmyk-color/magenta.md", "summary": "Open when looking up CMYKColor.magenta in Illustrator.", "keywords": ["CMYKColor.magenta"]},
+  {"topic": "CMYKColor.typename", "file": "scripting/cmyk-color/typename.md", "summary": "Open when looking up CMYKColor.typename in Illustrator.", "keywords": ["CMYKColor.typename"]},
+  {"topic": "CMYKColor.yellow", "file": "scripting/cmyk-color/yellow.md", "summary": "Open when looking up CMYKColor.yellow in Illustrator.", "keywords": ["CMYKColor.yellow"]},
+  {"topic": "Color - Description", "file": "scripting/cmyk-color/color-description.md", "summary": "Open when looking up Color - Description in Illustrator.", "keywords": ["Color - Description"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

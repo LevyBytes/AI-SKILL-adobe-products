@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Clearing fills with NoColor", "file": "scripting/no-color-example/clearing-fills-with-no-color.md", "summary": "Open when looking up Clearing fills with NoColor in Illustrator.", "keywords": ["Clearing fills with NoColor"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

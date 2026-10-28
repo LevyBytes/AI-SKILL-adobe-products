@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "AEGP Suites - Layer Creation Notes", "file": "plugin-sdk/layer-creation-notes/aegp-suites-layer-creation-notes.md", "summary": "Open when looking up AEGP Suites - Layer Creation Notes in After Effects.", "keywords": ["AEGP Suites - Layer Creation Notes"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

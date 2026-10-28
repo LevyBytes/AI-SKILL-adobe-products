@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Adobe Code of Conduct - Enforcement", "file": "cep/adobe-code-of-conduct-our-pledge/adobe-code-of-conduct-enforcement.md", "summary": "Open when looking up Adobe Code of Conduct - Enforcement in Shared Adobe platform.", "keywords": ["Adobe Code of Conduct - Enforcement"]},
+  {"topic": "Adobe Code of Conduct - Our Responsibilities", "file": "cep/adobe-code-of-conduct-our-pledge/adobe-code-of-conduct-our-responsibilities.md", "summary": "Open when looking up Adobe Code of Conduct - Our Responsibilities in Shared Adobe platform.", "keywords": ["Adobe Code of Conduct - Our Responsibilities"]},
+  {"topic": "Adobe Code of Conduct - Our Standards", "file": "cep/adobe-code-of-conduct-our-pledge/adobe-code-of-conduct-our-standards.md", "summary": "Open when looking up Adobe Code of Conduct - Our Standards in Shared Adobe platform.", "keywords": ["Adobe Code of Conduct - Our Standards"]},
+  {"topic": "Adobe Code of Conduct - Scope", "file": "cep/adobe-code-of-conduct-our-pledge/adobe-code-of-conduct-scope.md", "summary": "Open when looking up Adobe Code of Conduct - Scope in Shared Adobe platform.", "keywords": ["Adobe Code of Conduct - Scope"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

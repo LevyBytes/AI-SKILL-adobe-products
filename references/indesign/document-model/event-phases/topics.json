@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "AT_TARGET", "file": "document-model/event-phases/attarget.md", "summary": "Open when looking up AT_TARGET in InDesign.", "keywords": ["AT_TARGET"]},
+  {"topic": "BUBBLING_PHASE", "file": "document-model/event-phases/bubblingphase.md", "summary": "Open when looking up BUBBLING_PHASE in InDesign.", "keywords": ["BUBBLING_PHASE"]},
+  {"topic": "DONE", "file": "document-model/event-phases/done.md", "summary": "Open when looking up DONE in InDesign.", "keywords": ["DONE"]},
+  {"topic": "NOT_DISPATCHING", "file": "document-model/event-phases/notdispatching.md", "summary": "Open when looking up NOT_DISPATCHING in InDesign.", "keywords": ["NOT_DISPATCHING"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

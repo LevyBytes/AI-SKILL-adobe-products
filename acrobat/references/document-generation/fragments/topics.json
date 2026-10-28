@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Conditionals", "file": "references/document-generation/fragments/conditionals.md", "summary": "Open when looking up Conditionals in Acrobat.", "keywords": ["Conditionals"]},
-  {"topic": "How to use ?", "file": "references/document-generation/fragments/how-to-use.md", "summary": "Open when looking up How to use ? in Acrobat.", "keywords": ["How to use ?"]},
-  {"topic": "Limitations", "file": "references/document-generation/fragments/limitations.md", "summary": "Open when looking up Limitations in Acrobat.", "keywords": ["Limitations"]},
-  {"topic": "Optional", "file": "references/document-generation/fragments/optional.md", "summary": "Open when looking up Optional in Acrobat.", "keywords": ["Optional"]},
-  {"topic": "Other supported constructs", "file": "references/document-generation/fragments/other-supported-constructs.md", "summary": "Open when looking up Other supported constructs in Acrobat.", "keywords": ["Other supported constructs"]},
-  {"topic": "Prefix", "file": "references/document-generation/fragments/prefix.md", "summary": "Open when looking up Prefix in Acrobat.", "keywords": ["Prefix"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

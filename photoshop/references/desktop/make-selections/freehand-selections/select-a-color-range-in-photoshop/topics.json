@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Preview the selection", "file": "references/desktop/make-selections/freehand-selections/select-a-color-range-in-photoshop/preview-the-selection.md", "summary": "Open when looking up Preview the selection in Photoshop.", "keywords": ["Preview the selection"]},
-  {"topic": "Refine the selection", "file": "references/desktop/make-selections/freehand-selections/select-a-color-range-in-photoshop/refine-the-selection.md", "summary": "Open when looking up Refine the selection in Photoshop.", "keywords": ["Refine the selection"]},
-  {"topic": "Sample and adjust colors", "file": "references/desktop/make-selections/freehand-selections/select-a-color-range-in-photoshop/sample-and-adjust-colors.md", "summary": "Open when looking up Sample and adjust colors in Photoshop.", "keywords": ["Sample and adjust colors"]},
-  {"topic": "Save and load settings", "file": "references/desktop/make-selections/freehand-selections/select-a-color-range-in-photoshop/save-and-load-settings.md", "summary": "Open when looking up Save and load settings in Photoshop.", "keywords": ["Save and load settings"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

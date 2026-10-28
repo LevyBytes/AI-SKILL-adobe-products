@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Best practices", "file": "uxp/branding/best-practices.md", "summary": "Open when looking up Best practices in Photoshop.", "keywords": ["Best practices"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

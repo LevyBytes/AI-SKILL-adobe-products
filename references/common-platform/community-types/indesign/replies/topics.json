@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Replies collection iteration", "file": "community-types/indesign/replies/collection-iteration.md", "summary": "Open when looking up Replies collection iteration in Shared Adobe platform.", "keywords": ["Replies collection iteration"]},
+  {"topic": "Replies declaration", "file": "community-types/indesign/replies/declaration.md", "summary": "Open when looking up Replies declaration in Shared Adobe platform.", "keywords": ["Replies declaration"]},
+  {"topic": "Replies named and indexed items", "file": "community-types/indesign/replies/named-and-indexed-items.md", "summary": "Open when looking up Replies named and indexed items in Shared Adobe platform.", "keywords": ["Replies named and indexed items"]},
+  {"topic": "Replies.count", "file": "community-types/indesign/replies/count.md", "summary": "Open when looking up Replies.count in Shared Adobe platform.", "keywords": ["Replies.count"]},
+  {"topic": "Replies.IndexSignature", "file": "community-types/indesign/replies/index-signature.md", "summary": "Open when looking up Replies.IndexSignature in Shared Adobe platform.", "keywords": ["Replies.IndexSignature"]},
+  {"topic": "Replies.itemByRange", "file": "community-types/indesign/replies/item-by-range.md", "summary": "Open when looking up Replies.itemByRange in Shared Adobe platform.", "keywords": ["Replies.itemByRange"]},
+  {"topic": "Replies.length", "file": "community-types/indesign/replies/length.md", "summary": "Open when looking up Replies.length in Shared Adobe platform.", "keywords": ["Replies.length"]},
+  {"topic": "Replies.toSource", "file": "community-types/indesign/replies/to-source.md", "summary": "Open when looking up Replies.toSource in Shared Adobe platform.", "keywords": ["Replies.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Complex documents with linked assets, or specific content elements", "file": "references/desktop/troubleshoot/files-and-output/can-t-open-pdf-files-created-in-in-design/complex-document-pdf-export-failure.md", "summary": "Open when looking up Complex documents with linked assets, or specific content elements in InDesign.", "keywords": ["Complex documents with linked assets, or specific content elements"]},
-  {"topic": "macOS", "file": "references/desktop/troubleshoot/files-and-output/can-t-open-pdf-files-created-in-in-design/mac-os.md", "summary": "Open when looking up macOS in InDesign.", "keywords": ["macOS"]},
-  {"topic": "Using the macOS Print dialog box creates an incompatible file", "file": "references/desktop/troubleshoot/files-and-output/can-t-open-pdf-files-created-in-in-design/macos-print-dialog-pdf-incompatibility.md", "summary": "Open when looking up Using the macOS Print dialog box creates an incompatible file in InDesign.", "keywords": ["Using the macOS Print dialog box creates an incompatible file"]},
-  {"topic": "Windows", "file": "references/desktop/troubleshoot/files-and-output/can-t-open-pdf-files-created-in-in-design/windows.md", "summary": "Open when looking up Windows in InDesign.", "keywords": ["Windows"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

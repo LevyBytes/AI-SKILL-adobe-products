@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "CELL_STYLES_FORMAT", "file": "document-model/import-format/cellstylesformat.md", "summary": "Open when looking up CELL_STYLES_FORMAT in InDesign.", "keywords": ["CELL_STYLES_FORMAT"]},
+  {"topic": "CHARACTER_STYLES_FORMAT", "file": "document-model/import-format/characterstylesformat.md", "summary": "Open when looking up CHARACTER_STYLES_FORMAT in InDesign.", "keywords": ["CHARACTER_STYLES_FORMAT"]},
+  {"topic": "OBJECT_STYLES_FORMAT", "file": "document-model/import-format/objectstylesformat.md", "summary": "Open when looking up OBJECT_STYLES_FORMAT in InDesign.", "keywords": ["OBJECT_STYLES_FORMAT"]},
+  {"topic": "PARAGRAPH_STYLES_FORMAT", "file": "document-model/import-format/paragraphstylesformat.md", "summary": "Open when looking up PARAGRAPH_STYLES_FORMAT in InDesign.", "keywords": ["PARAGRAPH_STYLES_FORMAT"]},
+  {"topic": "STROKE_STYLES_FORMAT", "file": "document-model/import-format/strokestylesformat.md", "summary": "Open when looking up STROKE_STYLES_FORMAT in InDesign.", "keywords": ["STROKE_STYLES_FORMAT"]},
+  {"topic": "TABLE_AND_CELL_STYLES_FORMAT", "file": "document-model/import-format/tableandcellstylesformat.md", "summary": "Open when looking up TABLE_AND_CELL_STYLES_FORMAT in InDesign.", "keywords": ["TABLE_AND_CELL_STYLES_FORMAT"]},
+  {"topic": "TABLE_STYLES_FORMAT", "file": "document-model/import-format/tablestylesformat.md", "summary": "Open when looking up TABLE_STYLES_FORMAT in InDesign.", "keywords": ["TABLE_STYLES_FORMAT"]},
+  {"topic": "TEXT_STYLES_FORMAT", "file": "document-model/import-format/textstylesformat.md", "summary": "Open when looking up TEXT_STYLES_FORMAT in InDesign.", "keywords": ["TEXT_STYLES_FORMAT"]},
+  {"topic": "TOC_STYLES_FORMAT", "file": "document-model/import-format/tocstylesformat.md", "summary": "Open when looking up TOC_STYLES_FORMAT in InDesign.", "keywords": ["TOC_STYLES_FORMAT"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

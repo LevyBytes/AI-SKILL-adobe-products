@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/media-encoder", "topics": [
+  {"topic": "AME Scripting Guide - What is a good starting point to understand the scripting objects?", "file": "scripting/scripting-object-overview/scripting-object-overview.md", "summary": "Open when looking up AME Scripting Guide - What is a good starting point to understand the scripting objects? in Media Encoder.", "keywords": ["AME Scripting Guide - What is a good starting point to understand the scripting objects?"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

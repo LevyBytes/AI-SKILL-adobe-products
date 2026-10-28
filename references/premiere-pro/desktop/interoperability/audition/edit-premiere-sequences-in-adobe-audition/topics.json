@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Editing Sequences in Adobe Audition", "file": "desktop/interoperability/audition/edit-premiere-sequences-in-adobe-audition/editing-sequences-in-adobe-audition.md", "summary": "Open when looking up Editing Sequences in Adobe Audition in Premiere Pro.", "keywords": ["Editing Sequences in Adobe Audition"]},
+  {"topic": "Working with Adobe Audition", "file": "desktop/interoperability/audition/edit-premiere-sequences-in-adobe-audition/working-with-adobe-audition.md", "summary": "Open when looking up Working with Adobe Audition in Premiere Pro.", "keywords": ["Working with Adobe Audition"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Cut, copy, or paste artboards", "file": "desktop/cut-copy-and-paste-artboards/cut-copy-or-paste-artboards.md", "summary": "Open when looking up Cut, copy, or paste artboards in Illustrator.", "keywords": ["Cut, copy, or paste artboards"]},
+  {"topic": "Paste on selected artboards", "file": "desktop/cut-copy-and-paste-artboards/paste-on-selected-artboards.md", "summary": "Open when looking up Paste on selected artboards in Illustrator.", "keywords": ["Paste on selected artboards"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

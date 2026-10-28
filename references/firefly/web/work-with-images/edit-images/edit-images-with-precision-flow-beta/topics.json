@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Generate images with precision", "file": "web/work-with-images/edit-images/edit-images-with-precision-flow-beta/generate-images-with-precision.md", "summary": "Open when looking up Generate images with precision in Firefly.", "keywords": ["Generate images with precision"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

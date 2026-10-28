@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Children key difference", "file": "references/cloud-services/artboard-structure/children-key-difference.md", "summary": "Open when looking up Children key difference in Photoshop.", "keywords": ["Children key difference"]},
-  {"topic": "New artboard-specific fields", "file": "references/cloud-services/artboard-structure/new-artboard-specific-fields.md", "summary": "Open when looking up New artboard-specific fields in Photoshop.", "keywords": ["New artboard-specific fields"]},
-  {"topic": "New format - distinct artboard type with rich metadata", "file": "references/cloud-services/artboard-structure/new-format-distinct-artboard-type-with-rich-metadata.md", "summary": "Open when looking up New format - distinct artboard type with rich metadata in Photoshop.", "keywords": ["New format - distinct artboard type with rich metadata"]},
-  {"topic": "Old format - no distinct artboard type", "file": "references/cloud-services/artboard-structure/old-format-no-distinct-artboard-type.md", "summary": "Open when looking up Old format - no distinct artboard type in Photoshop.", "keywords": ["Old format - no distinct artboard type"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

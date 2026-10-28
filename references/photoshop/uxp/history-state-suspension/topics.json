@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "resumeHistory", "file": "uxp/history-state-suspension/resume-history.md", "summary": "Open when looking up resumeHistory in Photoshop.", "keywords": ["resumeHistory"]},
+  {"topic": "suspendHistory", "file": "uxp/history-state-suspension/suspend-history.md", "summary": "Open when looking up suspendHistory in Photoshop.", "keywords": ["suspendHistory"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

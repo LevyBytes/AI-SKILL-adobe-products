@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Apply and adjust the vignette effect", "file": "desktop/create-vignettes-using-lumetri-color/apply-and-adjust-the-vignette-effect.md", "summary": "Open when looking up Apply and adjust the vignette effect in Premiere Pro.", "keywords": ["Apply and adjust the vignette effect"]},
+  {"topic": "Using Vignette controls in Adobe Premiere to guide viewer focus", "file": "desktop/create-vignettes-using-lumetri-color/lumetri-vignette-controls.md", "summary": "Open when looking up Using Vignette controls in Adobe Premiere to guide viewer focus in Premiere Pro.", "keywords": ["Using Vignette controls in Adobe Premiere to guide viewer focus"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

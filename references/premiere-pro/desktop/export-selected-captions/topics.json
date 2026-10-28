@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Export captions from a timeline sequence as TXT, CSV, or SRT files.", "file": "desktop/export-selected-captions/txt-csv-and-srt-caption-export.md", "summary": "Open when looking up Export captions from a timeline sequence as TXT, CSV, or SRT files. in Premiere Pro.", "keywords": ["Export captions from a timeline sequence as TXT, CSV, or SRT files."]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

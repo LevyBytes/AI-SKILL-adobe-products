@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Span references", "file": "scripting/span/reference-index.md", "summary": "Open when looking up Span in Acrobat.", "keywords": ["Span references"]},
+  {"topic": "Spell references", "file": "scripting/spell/reference-index.md", "summary": "Open when looking up Spell in Acrobat.", "keywords": ["Spell references"]},
+  {"topic": "Tts references", "file": "scripting/tts/reference-index.md", "summary": "Open when looking up Tts in Acrobat.", "keywords": ["Tts references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

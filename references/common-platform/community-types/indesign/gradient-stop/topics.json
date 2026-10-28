@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "GradientStop declaration", "file": "community-types/indesign/gradient-stop/declaration.md", "summary": "Open when looking up GradientStop declaration in Shared Adobe platform.", "keywords": ["GradientStop declaration"]},
+  {"topic": "GradientStop event listeners", "file": "community-types/indesign/gradient-stop/event-listeners.md", "summary": "Open when looking up GradientStop event listeners in Shared Adobe platform.", "keywords": ["GradientStop event listeners"]},
+  {"topic": "GradientStop identity and parent", "file": "community-types/indesign/gradient-stop/identity-and-parent.md", "summary": "Open when looking up GradientStop identity and parent in Shared Adobe platform.", "keywords": ["GradientStop identity and parent"]},
+  {"topic": "GradientStop object resolution", "file": "community-types/indesign/gradient-stop/object-resolution.md", "summary": "Open when looking up GradientStop object resolution in Shared Adobe platform.", "keywords": ["GradientStop object resolution"]},
+  {"topic": "GradientStop.location", "file": "community-types/indesign/gradient-stop/location.md", "summary": "Open when looking up GradientStop.location in Shared Adobe platform.", "keywords": ["GradientStop.location"]},
+  {"topic": "GradientStop.midpoint", "file": "community-types/indesign/gradient-stop/midpoint.md", "summary": "Open when looking up GradientStop.midpoint in Shared Adobe platform.", "keywords": ["GradientStop.midpoint"]},
+  {"topic": "GradientStop.properties", "file": "community-types/indesign/gradient-stop/properties.md", "summary": "Open when looking up GradientStop.properties in Shared Adobe platform.", "keywords": ["GradientStop.properties"]},
+  {"topic": "GradientStop.remove", "file": "community-types/indesign/gradient-stop/remove.md", "summary": "Open when looking up GradientStop.remove in Shared Adobe platform.", "keywords": ["GradientStop.remove"]},
+  {"topic": "GradientStop.stopColor", "file": "community-types/indesign/gradient-stop/stop-color.md", "summary": "Open when looking up GradientStop.stopColor in Shared Adobe platform.", "keywords": ["GradientStop.stopColor"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

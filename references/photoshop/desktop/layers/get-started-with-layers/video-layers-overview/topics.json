@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "How video layers work", "file": "desktop/layers/get-started-with-layers/video-layers-overview/how-video-layers-work.md", "summary": "Open when looking up How video layers work in Photoshop.", "keywords": ["How video layers work"]},
+  {"topic": "Types of video layers", "file": "desktop/layers/get-started-with-layers/video-layers-overview/types-of-video-layers.md", "summary": "Open when looking up Types of video layers in Photoshop.", "keywords": ["Types of video layers"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Edit and Debug the code", "file": "references/uxp/the-playground/edit-and-debug-the-code.md", "summary": "Open when looking up Edit and Debug the code in Premiere Pro.", "keywords": ["Edit and Debug the code"]},
-  {"topic": "Export the code", "file": "references/uxp/the-playground/export-the-code.md", "summary": "Open when looking up Export the code in Premiere Pro.", "keywords": ["Export the code"]},
-  {"topic": "Launch the plugin", "file": "references/uxp/the-playground/launch-the-plugin.md", "summary": "Open when looking up Launch the plugin in Premiere Pro.", "keywords": ["Launch the plugin"]},
-  {"topic": "Select the host application", "file": "references/uxp/the-playground/select-the-host-application.md", "summary": "Open when looking up Select the host application in Premiere Pro.", "keywords": ["Select the host application"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

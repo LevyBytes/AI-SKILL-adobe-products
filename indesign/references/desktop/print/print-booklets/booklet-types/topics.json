@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "2-up Perfect Bound", "file": "references/desktop/print/print-booklets/booklet-types/2-up-perfect-bound.md", "summary": "Open when looking up 2-up Perfect Bound in InDesign.", "keywords": ["2-up Perfect Bound"]},
-  {"topic": "2-up Saddle Stitch", "file": "references/desktop/print/print-booklets/booklet-types/2-up-saddle-stitch.md", "summary": "Open when looking up 2-up Saddle Stitch in InDesign.", "keywords": ["2-up Saddle Stitch"]},
-  {"topic": "Consecutive", "file": "references/desktop/print/print-booklets/booklet-types/consecutive.md", "summary": "Open when looking up Consecutive in InDesign.", "keywords": ["Consecutive"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

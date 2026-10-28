@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Track object", "file": "scripting/track/track-object.md", "summary": "Open when looking up Track object in Premiere Pro.", "keywords": ["Track object"]},
+  {"topic": "Track.clips", "file": "scripting/track/clips.md", "summary": "Open when looking up Track.clips in Premiere Pro.", "keywords": ["Track.clips"]},
+  {"topic": "Track.id", "file": "scripting/track/id.md", "summary": "Open when looking up Track.id in Premiere Pro.", "keywords": ["Track.id"]},
+  {"topic": "Track.insertClip()", "file": "scripting/track/insert-clip.md", "summary": "Open when looking up Track.insertClip() in Premiere Pro.", "keywords": ["Track.insertClip()"]},
+  {"topic": "Track.isMuted()", "file": "scripting/track/is-muted.md", "summary": "Open when looking up Track.isMuted() in Premiere Pro.", "keywords": ["Track.isMuted()"]},
+  {"topic": "Track.mediaType", "file": "scripting/track/media-type.md", "summary": "Open when looking up Track.mediaType in Premiere Pro.", "keywords": ["Track.mediaType"]},
+  {"topic": "Track.name", "file": "scripting/track/name.md", "summary": "Open when looking up Track.name in Premiere Pro.", "keywords": ["Track.name"]},
+  {"topic": "Track.overwriteClip()", "file": "scripting/track/overwrite-clip.md", "summary": "Open when looking up Track.overwriteClip() in Premiere Pro.", "keywords": ["Track.overwriteClip()"]},
+  {"topic": "Track.setMute()", "file": "scripting/track/set-mute.md", "summary": "Open when looking up Track.setMute() in Premiere Pro.", "keywords": ["Track.setMute()"]},
+  {"topic": "Track.transitions", "file": "scripting/track/transitions.md", "summary": "Open when looking up Track.transitions in Premiere Pro.", "keywords": ["Track.transitions"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

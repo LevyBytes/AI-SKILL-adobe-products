@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Drawing on a perspective grid with AppleScript", "file": "scripting/draw-on-a-perspective-grid/working-with-the-perspective-grid-draw-on-a-perspective-grid.md", "summary": "Open when looking up Drawing on a perspective grid with AppleScript in Illustrator.", "keywords": ["Drawing on a perspective grid with AppleScript"]},
+  {"topic": "Drawing on a perspective grid with JavaScript", "file": "scripting/draw-on-a-perspective-grid/draw-perspective-grid-javascript.md", "summary": "Open when looking up Drawing on a perspective grid with JavaScript in Illustrator.", "keywords": ["Drawing on a perspective grid with JavaScript"]},
+  {"topic": "Drawing on a perspective grid with VBScript", "file": "scripting/draw-on-a-perspective-grid/draw-perspective-grid-vbscript.md", "summary": "Open when looking up Drawing on a perspective grid with VBScript in Illustrator.", "keywords": ["Drawing on a perspective grid with VBScript"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

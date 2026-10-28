@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "FULLY_BALANCED", "file": "document-model/balance-lines-style/fullybalanced.md", "summary": "Open when looking up FULLY_BALANCED in InDesign.", "keywords": ["FULLY_BALANCED"]},
+  {"topic": "NO_BALANCING", "file": "document-model/balance-lines-style/nobalancing.md", "summary": "Open when looking up NO_BALANCING in InDesign.", "keywords": ["NO_BALANCING"]},
+  {"topic": "PYRAMID_SHAPE", "file": "document-model/balance-lines-style/pyramidshape.md", "summary": "Open when looking up PYRAMID_SHAPE in InDesign.", "keywords": ["PYRAMID_SHAPE"]},
+  {"topic": "VEE_SHAPE", "file": "document-model/balance-lines-style/veeshape.md", "summary": "Open when looking up VEE_SHAPE in InDesign.", "keywords": ["VEE_SHAPE"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

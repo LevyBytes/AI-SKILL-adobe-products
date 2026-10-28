@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Application.beep", "file": "community-types/illustrator/application/beep.md", "summary": "Open when looking up Application.beep in Shared Adobe platform.", "keywords": ["Application.beep"]},
+  {"topic": "Application.doScript", "file": "community-types/illustrator/application/do-script.md", "summary": "Open when looking up Application.doScript in Shared Adobe platform.", "keywords": ["Application.doScript"]},
+  {"topic": "Application.executeMenuCommand", "file": "community-types/illustrator/application/execute-menu-command.md", "summary": "Open when looking up Application.executeMenuCommand in Shared Adobe platform.", "keywords": ["Application.executeMenuCommand"]},
+  {"topic": "Application.getExecutionOutput", "file": "community-types/illustrator/application/get-execution-output.md", "summary": "Open when looking up Application.getExecutionOutput in Shared Adobe platform.", "keywords": ["Application.getExecutionOutput"]},
+  {"topic": "Application.getScriptableHelpGroup", "file": "community-types/illustrator/application/get-scriptable-help-group.md", "summary": "Open when looking up Application.getScriptableHelpGroup in Shared Adobe platform.", "keywords": ["Application.getScriptableHelpGroup"]},
+  {"topic": "Application.launchExtension", "file": "community-types/illustrator/application/launch-extension.md", "summary": "Open when looking up Application.launchExtension in Shared Adobe platform.", "keywords": ["Application.launchExtension"]},
+  {"topic": "Application.loadAction", "file": "community-types/illustrator/application/load-action.md", "summary": "Open when looking up Application.loadAction in Shared Adobe platform.", "keywords": ["Application.loadAction"]},
+  {"topic": "Application.reflectCSAW", "file": "community-types/illustrator/application/reflect-csaw.md", "summary": "Open when looking up Application.reflectCSAW in Shared Adobe platform.", "keywords": ["Application.reflectCSAW"]},
+  {"topic": "Application.sendScriptMessage", "file": "community-types/illustrator/application/send-script-message.md", "summary": "Open when looking up Application.sendScriptMessage in Shared Adobe platform.", "keywords": ["Application.sendScriptMessage"]},
+  {"topic": "Application.unloadAction", "file": "community-types/illustrator/application/unload-action.md", "summary": "Open when looking up Application.unloadAction in Shared Adobe platform.", "keywords": ["Application.unloadAction"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Bounding Box Mode", "file": "references/desktop/add-video-effects/work-with-masks/redesigned-rectangle-ellipse-and-pen-tools/bounding-box-mode.md", "summary": "Open when looking up Bounding Box Mode in Premiere Pro.", "keywords": ["Bounding Box Mode"]},
-  {"topic": "Ellipse Mask Tool", "file": "references/desktop/add-video-effects/work-with-masks/redesigned-rectangle-ellipse-and-pen-tools/ellipse-mask-tool.md", "summary": "Open when looking up Ellipse Mask Tool in Premiere Pro.", "keywords": ["Ellipse Mask Tool"]},
-  {"topic": "Horizontal and vertical constrain", "file": "references/desktop/add-video-effects/work-with-masks/redesigned-rectangle-ellipse-and-pen-tools/horizontal-and-vertical-constrain.md", "summary": "Open when looking up Horizontal and vertical constrain in Premiere Pro.", "keywords": ["Horizontal and vertical constrain"]},
-  {"topic": "Pen Mask Tool", "file": "references/desktop/add-video-effects/work-with-masks/redesigned-rectangle-ellipse-and-pen-tools/pen-mask-tool.md", "summary": "Open when looking up Pen Mask Tool in Premiere Pro.", "keywords": ["Pen Mask Tool"]},
-  {"topic": "Rectangle Mask Tool", "file": "references/desktop/add-video-effects/work-with-masks/redesigned-rectangle-ellipse-and-pen-tools/rectangle-mask-tool.md", "summary": "Open when looking up Rectangle Mask Tool in Premiere Pro.", "keywords": ["Rectangle Mask Tool"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

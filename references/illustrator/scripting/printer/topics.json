@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Printer.name", "file": "scripting/printer/name.md", "summary": "Open when looking up Printer.name in Illustrator.", "keywords": ["Printer.name"]},
+  {"topic": "Printer.printerInfo", "file": "scripting/printer/printer-info.md", "summary": "Open when looking up Printer.printerInfo in Illustrator.", "keywords": ["Printer.printerInfo"]},
+  {"topic": "Printer.typename", "file": "scripting/printer/typename.md", "summary": "Open when looking up Printer.typename in Illustrator.", "keywords": ["Printer.typename"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

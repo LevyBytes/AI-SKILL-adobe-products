@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Text.characterDirection", "file": "community-types/indesign/text/character-direction.md", "summary": "Open when looking up Text.characterDirection in Shared Adobe platform.", "keywords": ["Text.characterDirection"]},
+  {"topic": "Text.diacriticPosition", "file": "community-types/indesign/text/diacritic-position.md", "summary": "Open when looking up Text.diacriticPosition in Shared Adobe platform.", "keywords": ["Text.diacriticPosition"]},
+  {"topic": "Text.digitsType", "file": "community-types/indesign/text/digits-type.md", "summary": "Open when looking up Text.digitsType in Shared Adobe platform.", "keywords": ["Text.digitsType"]},
+  {"topic": "Text.kashidas", "file": "community-types/indesign/text/kashidas.md", "summary": "Open when looking up Text.kashidas in Shared Adobe platform.", "keywords": ["Text.kashidas"]},
+  {"topic": "Text.keyboardDirection", "file": "community-types/indesign/text/keyboard-direction.md", "summary": "Open when looking up Text.keyboardDirection in Shared Adobe platform.", "keywords": ["Text.keyboardDirection"]},
+  {"topic": "Text.paragraphDirection", "file": "community-types/indesign/text/paragraph-direction.md", "summary": "Open when looking up Text.paragraphDirection in Shared Adobe platform.", "keywords": ["Text.paragraphDirection"]},
+  {"topic": "Text.paragraphKashidaWidth", "file": "community-types/indesign/text/paragraph-kashida-width.md", "summary": "Open when looking up Text.paragraphKashidaWidth in Shared Adobe platform.", "keywords": ["Text.paragraphKashidaWidth"]},
+  {"topic": "Text.xOffsetDiacritic", "file": "community-types/indesign/text/x-offset-diacritic.md", "summary": "Open when looking up Text.xOffsetDiacritic in Shared Adobe platform.", "keywords": ["Text.xOffsetDiacritic"]},
+  {"topic": "Text.yOffsetDiacritic", "file": "community-types/indesign/text/y-offset-diacritic.md", "summary": "Open when looking up Text.yOffsetDiacritic in Shared Adobe platform.", "keywords": ["Text.yOffsetDiacritic"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

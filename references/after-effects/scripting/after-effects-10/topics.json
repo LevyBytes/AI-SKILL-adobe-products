@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "After Effects 10.5 (CS5.5) (April 2011)", "file": "scripting/after-effects-10/after-effects-10-5-cs5-5-april-2011.md", "summary": "Open when looking up After Effects 10.5 (CS5.5) (April 2011) in After Effects.", "keywords": ["After Effects 10.5 (CS5.5) (April 2011)"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

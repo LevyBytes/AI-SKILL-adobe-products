@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "CENTER_ALIGN", "file": "document-model/tab-stop-alignment/centeralign.md", "summary": "Open when looking up CENTER_ALIGN in InDesign.", "keywords": ["CENTER_ALIGN"]},
+  {"topic": "CHARACTER_ALIGN", "file": "document-model/tab-stop-alignment/characteralign.md", "summary": "Open when looking up CHARACTER_ALIGN in InDesign.", "keywords": ["CHARACTER_ALIGN"]},
+  {"topic": "LEFT_ALIGN", "file": "document-model/tab-stop-alignment/leftalign.md", "summary": "Open when looking up LEFT_ALIGN in InDesign.", "keywords": ["LEFT_ALIGN"]},
+  {"topic": "RIGHT_ALIGN", "file": "document-model/tab-stop-alignment/rightalign.md", "summary": "Open when looking up RIGHT_ALIGN in InDesign.", "keywords": ["RIGHT_ALIGN"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

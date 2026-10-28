@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Collaborate using Style Kits", "file": "web/enterprise/collaborate-using-style-kits.md", "summary": "Open when looking up Collaborate using Style Kits in Firefly.", "keywords": ["Collaborate using Style Kits"]},
+  {"topic": "Collaborate using Style Kits references", "file": "web/enterprise/collaborate-using-style-kits/reference-index.md", "summary": "Open when looking up Collaborate using Style Kits in Firefly.", "keywords": ["Collaborate using Style Kits references"]},
+  {"topic": "Create object composites", "file": "web/enterprise/create-object-composites.md", "summary": "Open when looking up Create object composites in Firefly.", "keywords": ["Create object composites"]},
+  {"topic": "Create object composites references", "file": "web/enterprise/create-object-composites/reference-index.md", "summary": "Open when looking up Create object composites in Firefly.", "keywords": ["Create object composites references"]},
+  {"topic": "Creative Production", "file": "web/enterprise/creative-production.md", "summary": "Open when looking up Creative Production in Firefly.", "keywords": ["Creative Production"]},
+  {"topic": "Creative Production references", "file": "web/enterprise/creative-production/reference-index.md", "summary": "Open when looking up Creative Production in Firefly.", "keywords": ["Creative Production references"]},
+  {"topic": "Train custom models", "file": "web/enterprise/train-custom-models.md", "summary": "Open when looking up Train custom models in Firefly.", "keywords": ["Train custom models"]},
+  {"topic": "Train custom models references", "file": "web/enterprise/train-custom-models/reference-index.md", "summary": "Open when looking up Train custom models in Firefly.", "keywords": ["Train custom models references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

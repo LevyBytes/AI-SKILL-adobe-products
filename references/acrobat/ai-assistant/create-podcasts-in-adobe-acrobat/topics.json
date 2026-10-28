@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Turn documents into podcasts", "file": "ai-assistant/create-podcasts-in-adobe-acrobat/turn-documents-into-podcasts.md", "summary": "Open when looking up Turn documents into podcasts in Acrobat.", "keywords": ["Turn documents into podcasts"]},
+  {"topic": "Turn PDF Spaces into podcasts", "file": "ai-assistant/create-podcasts-in-adobe-acrobat/turn-pdf-spaces-into-podcasts.md", "summary": "Open when looking up Turn PDF Spaces into podcasts in Acrobat.", "keywords": ["Turn PDF Spaces into podcasts"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

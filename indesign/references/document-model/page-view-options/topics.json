@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "BY_ALTERNATE_LAYOUT", "file": "references/document-model/page-view-options/byalternatelayout.md", "summary": "Open when looking up BY_ALTERNATE_LAYOUT in InDesign.", "keywords": ["BY_ALTERNATE_LAYOUT"]},
-  {"topic": "HORIZONTALLY", "file": "references/document-model/page-view-options/horizontally.md", "summary": "Open when looking up HORIZONTALLY in InDesign.", "keywords": ["HORIZONTALLY"]},
-  {"topic": "VERTICALLY", "file": "references/document-model/page-view-options/vertically.md", "summary": "Open when looking up VERTICALLY in InDesign.", "keywords": ["VERTICALLY"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

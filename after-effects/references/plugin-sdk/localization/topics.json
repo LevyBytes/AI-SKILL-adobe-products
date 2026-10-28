@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "MacOS", "file": "references/plugin-sdk/localization/mac-os.md", "summary": "Open when looking up MacOS in After Effects.", "keywords": ["MacOS"]},
-  {"topic": "Windows", "file": "references/plugin-sdk/localization/windows.md", "summary": "Open when looking up Windows in After Effects.", "keywords": ["Windows"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

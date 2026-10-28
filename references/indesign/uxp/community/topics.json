@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Developer forums", "file": "uxp/community/developer-forums.md", "summary": "Open when looking up Developer forums in InDesign.", "keywords": ["Developer forums"]},
+  {"topic": "InDesign Developers Prerelease", "file": "uxp/community/in-design-developers-prerelease.md", "summary": "Open when looking up InDesign Developers Prerelease in InDesign.", "keywords": ["InDesign Developers Prerelease"]},
+  {"topic": "InDesign Prerelease", "file": "uxp/community/in-design-prerelease.md", "summary": "Open when looking up InDesign Prerelease in InDesign.", "keywords": ["InDesign Prerelease"]},
+  {"topic": "InDesign Server Forum", "file": "uxp/community/in-design-server-forum.md", "summary": "Open when looking up InDesign Server Forum in InDesign.", "keywords": ["InDesign Server Forum"]},
+  {"topic": "Product Bugs and Feedback", "file": "uxp/community/product-bugs-and-feedback.md", "summary": "Open when looking up Product Bugs and Feedback in InDesign.", "keywords": ["Product Bugs and Feedback"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

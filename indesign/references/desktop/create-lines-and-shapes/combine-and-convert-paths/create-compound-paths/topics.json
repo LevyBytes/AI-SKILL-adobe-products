@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Create a compound path", "file": "references/desktop/create-lines-and-shapes/combine-and-convert-paths/create-compound-paths/create-a-compound-path.md", "summary": "Open when looking up Create a compound path in InDesign.", "keywords": ["Create a compound path"]},
-  {"topic": "Modify a subpath in a compound path", "file": "references/desktop/create-lines-and-shapes/combine-and-convert-paths/create-compound-paths/modify-a-subpath-in-a-compound-path.md", "summary": "Open when looking up Modify a subpath in a compound path in InDesign.", "keywords": ["Modify a subpath in a compound path"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

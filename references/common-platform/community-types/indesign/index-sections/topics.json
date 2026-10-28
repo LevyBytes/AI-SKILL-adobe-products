@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "IndexSections collection iteration", "file": "community-types/indesign/index-sections/collection-iteration.md", "summary": "Open when looking up IndexSections collection iteration in Shared Adobe platform.", "keywords": ["IndexSections collection iteration"]},
+  {"topic": "IndexSections declaration", "file": "community-types/indesign/index-sections/declaration.md", "summary": "Open when looking up IndexSections declaration in Shared Adobe platform.", "keywords": ["IndexSections declaration"]},
+  {"topic": "IndexSections named and indexed items", "file": "community-types/indesign/index-sections/named-and-indexed-items.md", "summary": "Open when looking up IndexSections named and indexed items in Shared Adobe platform.", "keywords": ["IndexSections named and indexed items"]},
+  {"topic": "IndexSections.count", "file": "community-types/indesign/index-sections/count.md", "summary": "Open when looking up IndexSections.count in Shared Adobe platform.", "keywords": ["IndexSections.count"]},
+  {"topic": "IndexSections.IndexSignature", "file": "community-types/indesign/index-sections/index-signature.md", "summary": "Open when looking up IndexSections.IndexSignature in Shared Adobe platform.", "keywords": ["IndexSections.IndexSignature"]},
+  {"topic": "IndexSections.itemByRange", "file": "community-types/indesign/index-sections/item-by-range.md", "summary": "Open when looking up IndexSections.itemByRange in Shared Adobe platform.", "keywords": ["IndexSections.itemByRange"]},
+  {"topic": "IndexSections.length", "file": "community-types/indesign/index-sections/length.md", "summary": "Open when looking up IndexSections.length in Shared Adobe platform.", "keywords": ["IndexSections.length"]},
+  {"topic": "IndexSections.toSource", "file": "community-types/indesign/index-sections/to-source.md", "summary": "Open when looking up IndexSections.toSource in Shared Adobe platform.", "keywords": ["IndexSections.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

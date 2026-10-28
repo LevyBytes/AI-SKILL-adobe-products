@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "CHOSEN_PAGE", "file": "document-model/publish-cover-enum/chosenpage.md", "summary": "Open when looking up CHOSEN_PAGE in InDesign.", "keywords": ["CHOSEN_PAGE"]},
+  {"topic": "EXTERNAL_IMAGE", "file": "document-model/publish-cover-enum/externalimage.md", "summary": "Open when looking up EXTERNAL_IMAGE in InDesign.", "keywords": ["EXTERNAL_IMAGE"]},
+  {"topic": "FIRST_PAGE", "file": "document-model/publish-cover-enum/firstpage.md", "summary": "Open when looking up FIRST_PAGE in InDesign.", "keywords": ["FIRST_PAGE"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

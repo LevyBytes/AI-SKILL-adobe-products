@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Importing from certificate stores", "file": "references/desktop/protect-documents/encrypt-with-certificates/import-certificates-overview/importing-from-certificate-stores.md", "summary": "Open when looking up Importing from certificate stores in Acrobat.", "keywords": ["Importing from certificate stores"]},
-  {"topic": "Third-party security providers", "file": "references/desktop/protect-documents/encrypt-with-certificates/import-certificates-overview/third-party-security-providers.md", "summary": "Open when looking up Third-party security providers in Acrobat.", "keywords": ["Third-party security providers"]},
-  {"topic": "Trust settings", "file": "references/desktop/protect-documents/encrypt-with-certificates/import-certificates-overview/trust-settings.md", "summary": "Open when looking up Trust settings in Acrobat.", "keywords": ["Trust settings"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

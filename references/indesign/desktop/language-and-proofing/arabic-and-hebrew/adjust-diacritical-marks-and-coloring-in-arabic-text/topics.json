@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Adjust diacritical mark position", "file": "desktop/language-and-proofing/arabic-and-hebrew/adjust-diacritical-marks-and-coloring-in-arabic-text/adjust-diacritical-mark-position.md", "summary": "Open when looking up Adjust diacritical mark position in InDesign.", "keywords": ["Adjust diacritical mark position"]},
+  {"topic": "Change diacritical mark colors", "file": "desktop/language-and-proofing/arabic-and-hebrew/adjust-diacritical-marks-and-coloring-in-arabic-text/change-diacritical-mark-colors.md", "summary": "Open when looking up Change diacritical mark colors in InDesign.", "keywords": ["Change diacritical mark colors"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Missing font error", "file": "desktop/troubleshoot/font-and-plugin-issues/missing-font-error.md", "summary": "Open when looking up Missing font error in InDesign.", "keywords": ["Missing font error"]},
+  {"topic": "Missing font error references", "file": "desktop/troubleshoot/font-and-plugin-issues/missing-font-error/reference-index.md", "summary": "Open when looking up Missing font error in InDesign.", "keywords": ["Missing font error references"]},
+  {"topic": "Third-party plugin issues", "file": "desktop/troubleshoot/font-and-plugin-issues/third-party-plugin-issues.md", "summary": "Open when looking up Third-party plugin issues in InDesign.", "keywords": ["Third-party plugin issues"]},
+  {"topic": "Third-party plugin issues references", "file": "desktop/troubleshoot/font-and-plugin-issues/third-party-plugin-issues/reference-index.md", "summary": "Open when looking up Third-party plugin issues in InDesign.", "keywords": ["Third-party plugin issues references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

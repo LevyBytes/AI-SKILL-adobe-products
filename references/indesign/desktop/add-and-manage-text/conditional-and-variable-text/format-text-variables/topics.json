@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Control numbering style for numbered variables", "file": "desktop/add-and-manage-text/conditional-and-variable-text/format-text-variables/control-numbering-style-for-numbered-variables.md", "summary": "Open when looking up Control numbering style for numbered variables in InDesign.", "keywords": ["Control numbering style for numbered variables"]},
+  {"topic": "Remove end punctuation from variables", "file": "desktop/add-and-manage-text/conditional-and-variable-text/format-text-variables/remove-end-punctuation-from-variables.md", "summary": "Open when looking up Remove end punctuation from variables in InDesign.", "keywords": ["Remove end punctuation from variables"]},
+  {"topic": "Use styles with text variables", "file": "desktop/add-and-manage-text/conditional-and-variable-text/format-text-variables/use-styles-with-text-variables.md", "summary": "Open when looking up Use styles with text variables in InDesign.", "keywords": ["Use styles with text variables"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Graphs in the Effect Controls and Timeline panels", "file": "desktop/add-video-effects/keyframe-controls/keyframes-and-graphs-in-panels/graphs-in-the-effect-controls-and-timeline-panels.md", "summary": "Open when looking up Graphs in the Effect Controls and Timeline panels in Premiere Pro.", "keywords": ["Graphs in the Effect Controls and Timeline panels"]},
+  {"topic": "Keyframes in the Effect Controls and Timeline panels", "file": "desktop/add-video-effects/keyframe-controls/keyframes-and-graphs-in-panels/keyframes-in-the-effect-controls-and-timeline-panels.md", "summary": "Open when looking up Keyframes in the Effect Controls and Timeline panels in Premiere Pro.", "keywords": ["Keyframes in the Effect Controls and Timeline panels"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

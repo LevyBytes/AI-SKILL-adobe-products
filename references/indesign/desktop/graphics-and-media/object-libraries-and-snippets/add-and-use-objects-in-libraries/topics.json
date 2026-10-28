@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Add an object from a library to a document", "file": "desktop/graphics-and-media/object-libraries-and-snippets/add-and-use-objects-in-libraries/add-an-object-from-a-library-to-a-document.md", "summary": "Open when looking up Add an object from a library to a document in InDesign.", "keywords": ["Add an object from a library to a document"]},
+  {"topic": "Add an object or page to a library", "file": "desktop/graphics-and-media/object-libraries-and-snippets/add-and-use-objects-in-libraries/add-an-object-or-page-to-a-library.md", "summary": "Open when looking up Add an object or page to a library in InDesign.", "keywords": ["Add an object or page to a library"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

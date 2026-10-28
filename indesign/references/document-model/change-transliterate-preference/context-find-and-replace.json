@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "changeCharacterType", "file": "references/document-model/change-transliterate-preference/change-character-type.md", "summary": "Open when looking up changeCharacterType in InDesign.", "keywords": ["changeCharacterType"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

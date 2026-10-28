@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Artboard behaviors", "file": "desktop/layers/layout-and-design-tools/artboard-properties-and-behaviors/artboard-behaviors.md", "summary": "Open when looking up Artboard behaviors in Photoshop.", "keywords": ["Artboard behaviors"]},
+  {"topic": "Artboard properties", "file": "desktop/layers/layout-and-design-tools/artboard-properties-and-behaviors/artboard-properties.md", "summary": "Open when looking up Artboard properties in Photoshop.", "keywords": ["Artboard properties"]},
+  {"topic": "Artboard use cases", "file": "desktop/layers/layout-and-design-tools/artboard-properties-and-behaviors/artboard-use-cases.md", "summary": "Open when looking up Artboard use cases in Photoshop.", "keywords": ["Artboard use cases"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

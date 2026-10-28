@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Provide feedback on the output", "file": "references/desktop/use-generative-ai/recolor-artwork-with-text-prompts/provide-feedback-on-the-output.md", "summary": "Open when looking up Provide feedback on the output in Illustrator.", "keywords": ["Provide feedback on the output"]},
-  {"topic": "Refine the output", "file": "references/desktop/use-generative-ai/recolor-artwork-with-text-prompts/refine-the-output.md", "summary": "Open when looking up Refine the output in Illustrator.", "keywords": ["Refine the output"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Tag.name", "file": "scripting/tag/name.md", "summary": "Open when looking up Tag.name in Illustrator.", "keywords": ["Tag.name"]},
+  {"topic": "Tag.parent", "file": "scripting/tag/parent.md", "summary": "Open when looking up Tag.parent in Illustrator.", "keywords": ["Tag.parent"]},
+  {"topic": "Tag.remove()", "file": "scripting/tag/remove.md", "summary": "Open when looking up Tag.remove() in Illustrator.", "keywords": ["Tag.remove()"]},
+  {"topic": "Tag.typename", "file": "scripting/tag/typename.md", "summary": "Open when looking up Tag.typename in Illustrator.", "keywords": ["Tag.typename"]},
+  {"topic": "Tag.value", "file": "scripting/tag/value.md", "summary": "Open when looking up Tag.value in Illustrator.", "keywords": ["Tag.value"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "What's new", "file": "references/web/what-s-new/what-s-new.md", "summary": "Open when looking up What's new in Acrobat.", "keywords": ["What's new"]},
-  {"topic": "What’s new in Acrobat on the web", "file": "references/web/what-s-new/what-s-new-in-acrobat-on-the-web.md", "summary": "Open when looking up What’s new in Acrobat on the web in Acrobat.", "keywords": ["What’s new in Acrobat on the web"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

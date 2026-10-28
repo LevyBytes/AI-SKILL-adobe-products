@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "USE_NOTE_PREF_COLOR", "file": "references/document-model/note-color-choices/usenoteprefcolor.md", "summary": "Open when looking up USE_NOTE_PREF_COLOR in InDesign.", "keywords": ["USE_NOTE_PREF_COLOR"]},
-  {"topic": "USE_USER_COLOR", "file": "references/document-model/note-color-choices/useusercolor.md", "summary": "Open when looking up USE_USER_COLOR in InDesign.", "keywords": ["USE_USER_COLOR"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

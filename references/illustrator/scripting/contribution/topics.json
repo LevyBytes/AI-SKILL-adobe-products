@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Adobe Illustrator Scripting Guide - Contribution", "file": "scripting/contribution/adobe-illustrator-scripting-guide-contribution.md", "summary": "Open when looking up Adobe Illustrator Scripting Guide - Contribution in Illustrator.", "keywords": ["Adobe Illustrator Scripting Guide - Contribution"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

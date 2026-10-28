@@ -1,0 +1,17 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "createSetColorByIndexAction", "file": "uxp/host-api/marker/instance-methods/create-set-color-by-index-action.md", "summary": "Open when looking up createSetColorByIndexAction in Premiere Pro.", "keywords": ["createSetColorByIndexAction"]},
+  {"topic": "createSetCommentsAction", "file": "uxp/host-api/marker/instance-methods/create-set-comments-action.md", "summary": "Open when looking up createSetCommentsAction in Premiere Pro.", "keywords": ["createSetCommentsAction"]},
+  {"topic": "createSetDurationAction", "file": "uxp/host-api/marker/instance-methods/create-set-duration-action.md", "summary": "Open when looking up createSetDurationAction in Premiere Pro.", "keywords": ["createSetDurationAction"]},
+  {"topic": "createSetNameAction", "file": "uxp/host-api/marker/instance-methods/create-set-name-action.md", "summary": "Open when looking up createSetNameAction in Premiere Pro.", "keywords": ["createSetNameAction"]},
+  {"topic": "createSetTypeAction", "file": "uxp/host-api/marker/instance-methods/create-set-type-action.md", "summary": "Open when looking up createSetTypeAction in Premiere Pro.", "keywords": ["createSetTypeAction"]},
+  {"topic": "getColor", "file": "uxp/host-api/marker/instance-methods/get-color.md", "summary": "Open when looking up getColor in Premiere Pro.", "keywords": ["getColor"]},
+  {"topic": "getColorIndex", "file": "uxp/host-api/marker/instance-methods/get-color-index.md", "summary": "Open when looking up getColorIndex in Premiere Pro.", "keywords": ["getColorIndex"]},
+  {"topic": "getComments", "file": "uxp/host-api/marker/instance-methods/get-comments.md", "summary": "Open when looking up getComments in Premiere Pro.", "keywords": ["getComments"]},
+  {"topic": "getDuration", "file": "uxp/host-api/marker/instance-methods/get-duration.md", "summary": "Open when looking up getDuration in Premiere Pro.", "keywords": ["getDuration"]},
+  {"topic": "getName", "file": "uxp/host-api/marker/instance-methods/get-name.md", "summary": "Open when looking up getName in Premiere Pro.", "keywords": ["getName"]},
+  {"topic": "getStart", "file": "uxp/host-api/marker/instance-methods/get-start.md", "summary": "Open when looking up getStart in Premiere Pro.", "keywords": ["getStart"]},
+  {"topic": "getTarget", "file": "uxp/host-api/marker/instance-methods/get-target.md", "summary": "Open when looking up getTarget in Premiere Pro.", "keywords": ["getTarget"]},
+  {"topic": "getType", "file": "uxp/host-api/marker/instance-methods/get-type.md", "summary": "Open when looking up getType in Premiere Pro.", "keywords": ["getType"]},
+  {"topic": "getUrl", "file": "uxp/host-api/marker/instance-methods/get-url.md", "summary": "Open when looking up getUrl in Premiere Pro.", "keywords": ["getUrl"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

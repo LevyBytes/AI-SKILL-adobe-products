@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "NONE", "file": "references/document-model/ruby-overhang/none.md", "summary": "Open when looking up NONE in InDesign.", "keywords": ["NONE"]},
-  {"topic": "RUBY_OVERHANG_HALF_CHAR", "file": "references/document-model/ruby-overhang/rubyoverhanghalfchar.md", "summary": "Open when looking up RUBY_OVERHANG_HALF_CHAR in InDesign.", "keywords": ["RUBY_OVERHANG_HALF_CHAR"]},
-  {"topic": "RUBY_OVERHANG_HALF_RUBY", "file": "references/document-model/ruby-overhang/rubyoverhanghalfruby.md", "summary": "Open when looking up RUBY_OVERHANG_HALF_RUBY in InDesign.", "keywords": ["RUBY_OVERHANG_HALF_RUBY"]},
-  {"topic": "RUBY_OVERHANG_NO_LIMIT", "file": "references/document-model/ruby-overhang/rubyoverhangnolimit.md", "summary": "Open when looking up RUBY_OVERHANG_NO_LIMIT in InDesign.", "keywords": ["RUBY_OVERHANG_NO_LIMIT"]},
-  {"topic": "RUBY_OVERHANG_ONE_CHAR", "file": "references/document-model/ruby-overhang/rubyoverhangonechar.md", "summary": "Open when looking up RUBY_OVERHANG_ONE_CHAR in InDesign.", "keywords": ["RUBY_OVERHANG_ONE_CHAR"]},
-  {"topic": "RUBY_OVERHANG_ONE_RUBY", "file": "references/document-model/ruby-overhang/rubyoverhangoneruby.md", "summary": "Open when looking up RUBY_OVERHANG_ONE_RUBY in InDesign.", "keywords": ["RUBY_OVERHANG_ONE_RUBY"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "abort(reason)", "file": "uxp/dom/abort-controller/abort.md", "summary": "Open when looking up abort(reason) in Photoshop.", "keywords": ["abort(reason)"]},
+  {"topic": "signal : AbortSignal", "file": "uxp/dom/abort-controller/signal-abort-signal.md", "summary": "Open when looking up signal : AbortSignal in Photoshop.", "keywords": ["signal : AbortSignal"]},
+  {"topic": "window.AbortController", "file": "uxp/dom/abort-controller/overview.md", "summary": "Open when looking up window.AbortController in Photoshop.", "keywords": ["window.AbortController"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

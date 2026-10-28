@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "SpotColor.spot", "file": "scripting/spot-color/spot.md", "summary": "Open when looking up SpotColor.spot in Illustrator.", "keywords": ["SpotColor.spot"]},
+  {"topic": "SpotColor.tint", "file": "scripting/spot-color/tint.md", "summary": "Open when looking up SpotColor.tint in Illustrator.", "keywords": ["SpotColor.tint"]},
+  {"topic": "SpotColor.typename", "file": "scripting/spot-color/typename.md", "summary": "Open when looking up SpotColor.typename in Illustrator.", "keywords": ["SpotColor.typename"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

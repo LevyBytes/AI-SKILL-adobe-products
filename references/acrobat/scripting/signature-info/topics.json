@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "JavaScript APIs - SignatureInfo", "file": "scripting/signature-info/java-script-apis-signature-info.md", "summary": "Open when looking up JavaScript APIs - SignatureInfo in Acrobat.", "keywords": ["JavaScript APIs - SignatureInfo"]},
+  {"topic": "Modification Detection and Prevention (MDP) Values", "file": "scripting/signature-info/modification-detection-and-prevention-mdp-values.md", "summary": "Open when looking up Modification Detection and Prevention (MDP) Values in Acrobat.", "keywords": ["Modification Detection and Prevention (MDP) Values"]},
+  {"topic": "Private Validity Values", "file": "scripting/signature-info/private-validity-values.md", "summary": "Open when looking up Private Validity Values in Acrobat.", "keywords": ["Private Validity Values"]},
+  {"topic": "SignatureInfo object public key security handler properties", "file": "scripting/signature-info/signature-info-object-public-key-security-handler-properties.md", "summary": "Open when looking up SignatureInfo object public key security handler properties in Acrobat.", "keywords": ["SignatureInfo object public key security handler properties"]},
+  {"topic": "SignatureInfo properties", "file": "scripting/signature-info/signature-info-properties.md", "summary": "Open when looking up SignatureInfo properties in Acrobat.", "keywords": ["SignatureInfo properties"]},
+  {"topic": "status and idValidity properties", "file": "scripting/signature-info/status-and-id-validity-properties.md", "summary": "Open when looking up status and idValidity properties in Acrobat.", "keywords": ["status and idValidity properties"]},
+  {"topic": "Validity Values", "file": "scripting/signature-info/validity-values.md", "summary": "Open when looking up Validity Values in Acrobat.", "keywords": ["Validity Values"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Media and Marker APIs - MediaSelection", "file": "scripting/media-selection/media-and-marker-apis-media-selection.md", "summary": "Open when looking up Media and Marker APIs - MediaSelection in Acrobat.", "keywords": ["Media and Marker APIs - MediaSelection"]},
+  {"topic": "players", "file": "scripting/media-selection/players.md", "summary": "Open when looking up players in Acrobat.", "keywords": ["players"]},
+  {"topic": "rejects", "file": "scripting/media-selection/rejects.md", "summary": "Open when looking up rejects in Acrobat.", "keywords": ["rejects"]},
+  {"topic": "rendition", "file": "scripting/media-selection/rendition.md", "summary": "Open when looking up rendition in Acrobat.", "keywords": ["rendition"]},
+  {"topic": "selectContext", "file": "scripting/media-selection/select-context.md", "summary": "Open when looking up selectContext in Acrobat.", "keywords": ["selectContext"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

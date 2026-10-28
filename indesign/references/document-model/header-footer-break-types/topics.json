@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "IN_ALL_TEXT_COLUMNS", "file": "references/document-model/header-footer-break-types/inalltextcolumns.md", "summary": "Open when looking up IN_ALL_TEXT_COLUMNS in InDesign.", "keywords": ["IN_ALL_TEXT_COLUMNS"]},
-  {"topic": "ONCE_PER_PAGE", "file": "references/document-model/header-footer-break-types/onceperpage.md", "summary": "Open when looking up ONCE_PER_PAGE in InDesign.", "keywords": ["ONCE_PER_PAGE"]},
-  {"topic": "ONCE_PER_TEXT_FRAME", "file": "references/document-model/header-footer-break-types/oncepertextframe.md", "summary": "Open when looking up ONCE_PER_TEXT_FRAME in InDesign.", "keywords": ["ONCE_PER_TEXT_FRAME"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

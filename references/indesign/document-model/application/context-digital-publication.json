@@ -1,0 +1,17 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "createCustomMiniFolio", "file": "document-model/application/create-custom-mini-folio.md", "summary": "Open when looking up createCustomMiniFolio in InDesign.", "keywords": ["createCustomMiniFolio"]},
+  {"topic": "exportArticleFolio", "file": "document-model/application/export-article-folio.md", "summary": "Open when looking up exportArticleFolio in InDesign.", "keywords": ["exportArticleFolio"]},
+  {"topic": "exportDpsArticle", "file": "document-model/application/export-dps-article.md", "summary": "Open when looking up exportDpsArticle in InDesign.", "keywords": ["exportDpsArticle"]},
+  {"topic": "exportFolioToDirectory", "file": "document-model/application/export-folio-to-directory.md", "summary": "Open when looking up exportFolioToDirectory in InDesign.", "keywords": ["exportFolioToDirectory"]},
+  {"topic": "exportFolioToDirectoryPackage", "file": "document-model/application/export-folio-to-directory-package.md", "summary": "Open when looking up exportFolioToDirectoryPackage in InDesign.", "keywords": ["exportFolioToDirectoryPackage"]},
+  {"topic": "exportFolioToPackage", "file": "document-model/application/export-folio-to-package.md", "summary": "Open when looking up exportFolioToPackage in InDesign.", "keywords": ["exportFolioToPackage"]},
+  {"topic": "exportMiniFolio", "file": "document-model/application/export-mini-folio.md", "summary": "Open when looking up exportMiniFolio in InDesign.", "keywords": ["exportMiniFolio"]},
+  {"topic": "getAllOverlays", "file": "document-model/application/get-all-overlays.md", "summary": "Open when looking up getAllOverlays in InDesign.", "keywords": ["getAllOverlays"]},
+  {"topic": "getDigpubArticleVersion", "file": "document-model/application/get-digpub-article-version.md", "summary": "Open when looking up getDigpubArticleVersion in InDesign.", "keywords": ["getDigpubArticleVersion"]},
+  {"topic": "getDigpubVersion", "file": "document-model/application/get-digpub-version.md", "summary": "Open when looking up getDigpubVersion in InDesign.", "keywords": ["getDigpubVersion"]},
+  {"topic": "getSupportedArticleViewerVersions", "file": "document-model/application/get-supported-article-viewer-versions.md", "summary": "Open when looking up getSupportedArticleViewerVersions in InDesign.", "keywords": ["getSupportedArticleViewerVersions"]},
+  {"topic": "getSupportedViewerVersions", "file": "document-model/application/get-supported-viewer-versions.md", "summary": "Open when looking up getSupportedViewerVersions in InDesign.", "keywords": ["getSupportedViewerVersions"]},
+  {"topic": "packageUCF", "file": "document-model/application/package-ucf.md", "summary": "Open when looking up packageUCF in InDesign.", "keywords": ["packageUCF"]},
+  {"topic": "unpackageUCF", "file": "document-model/application/unpackage-ucf.md", "summary": "Open when looking up unpackageUCF in InDesign.", "keywords": ["unpackageUCF"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,20 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "close", "file": "document-model/document/close.md", "summary": "Open when looking up close in InDesign.", "keywords": ["close"]},
+  {"topic": "converted", "file": "document-model/document/converted.md", "summary": "Open when looking up converted in InDesign.", "keywords": ["converted"]},
+  {"topic": "editingState", "file": "document-model/document/editing-state.md", "summary": "Open when looking up editingState in InDesign.", "keywords": ["editingState"]},
+  {"topic": "modified", "file": "document-model/document/modified.md", "summary": "Open when looking up modified in InDesign.", "keywords": ["modified"]},
+  {"topic": "readOnly", "file": "document-model/document/read-only.md", "summary": "Open when looking up readOnly in InDesign.", "keywords": ["readOnly"]},
+  {"topic": "recovered", "file": "document-model/document/recovered.md", "summary": "Open when looking up recovered in InDesign.", "keywords": ["recovered"]},
+  {"topic": "redo", "file": "document-model/document/redo.md", "summary": "Open when looking up redo in InDesign.", "keywords": ["redo"]},
+  {"topic": "redoHistory", "file": "document-model/document/redo-history.md", "summary": "Open when looking up redoHistory in InDesign.", "keywords": ["redoHistory"]},
+  {"topic": "redoName", "file": "document-model/document/redo-name.md", "summary": "Open when looking up redoName in InDesign.", "keywords": ["redoName"]},
+  {"topic": "revert", "file": "document-model/document/revert.md", "summary": "Open when looking up revert in InDesign.", "keywords": ["revert"]},
+  {"topic": "save", "file": "document-model/document/save.md", "summary": "Open when looking up save in InDesign.", "keywords": ["save"]},
+  {"topic": "saveACopy", "file": "document-model/document/save-a-copy.md", "summary": "Open when looking up saveACopy in InDesign.", "keywords": ["saveACopy"]},
+  {"topic": "saved", "file": "document-model/document/saved.md", "summary": "Open when looking up saved in InDesign.", "keywords": ["saved"]},
+  {"topic": "undo", "file": "document-model/document/undo.md", "summary": "Open when looking up undo in InDesign.", "keywords": ["undo"]},
+  {"topic": "undoHistory", "file": "document-model/document/undo-history.md", "summary": "Open when looking up undoHistory in InDesign.", "keywords": ["undoHistory"]},
+  {"topic": "undoName", "file": "document-model/document/undo-name.md", "summary": "Open when looking up undoName in InDesign.", "keywords": ["undoName"]},
+  {"topic": "versionState", "file": "document-model/document/version-state.md", "summary": "Open when looking up versionState in InDesign.", "keywords": ["versionState"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

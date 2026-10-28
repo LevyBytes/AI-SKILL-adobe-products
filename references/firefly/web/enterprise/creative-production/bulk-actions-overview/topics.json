@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Creative Production preset workflows", "file": "web/enterprise/creative-production/bulk-actions-overview/creative-production-preset-workflows.md", "summary": "Open when looking up Creative Production preset workflows in Firefly.", "keywords": ["Creative Production preset workflows"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

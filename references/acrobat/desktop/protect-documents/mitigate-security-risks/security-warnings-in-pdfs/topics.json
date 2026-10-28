@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Common causes for security warnings", "file": "desktop/protect-documents/mitigate-security-risks/security-warnings-in-pdfs/common-causes-for-security-warnings.md", "summary": "Open when looking up Common causes for security warnings in Acrobat.", "keywords": ["Common causes for security warnings"]},
+  {"topic": "Types of security warnings", "file": "desktop/protect-documents/mitigate-security-risks/security-warnings-in-pdfs/types-of-security-warnings.md", "summary": "Open when looking up Types of security warnings in Acrobat.", "keywords": ["Types of security warnings"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

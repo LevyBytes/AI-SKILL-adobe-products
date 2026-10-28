@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Artboard.artboardRect", "file": "scripting/artboard/artboard-rect.md", "summary": "Open when looking up Artboard.artboardRect in Illustrator.", "keywords": ["Artboard.artboardRect"]},
+  {"topic": "Artboard.name", "file": "scripting/artboard/name.md", "summary": "Open when looking up Artboard.name in Illustrator.", "keywords": ["Artboard.name"]},
+  {"topic": "Artboard.parent", "file": "scripting/artboard/parent.md", "summary": "Open when looking up Artboard.parent in Illustrator.", "keywords": ["Artboard.parent"]},
+  {"topic": "Artboard.remove()", "file": "scripting/artboard/remove.md", "summary": "Open when looking up Artboard.remove() in Illustrator.", "keywords": ["Artboard.remove()"]},
+  {"topic": "Artboard.rulerOrigin", "file": "scripting/artboard/ruler-origin.md", "summary": "Open when looking up Artboard.rulerOrigin in Illustrator.", "keywords": ["Artboard.rulerOrigin"]},
+  {"topic": "Artboard.rulerPAR", "file": "scripting/artboard/ruler-par.md", "summary": "Open when looking up Artboard.rulerPAR in Illustrator.", "keywords": ["Artboard.rulerPAR"]},
+  {"topic": "Artboard.showCenter", "file": "scripting/artboard/show-center.md", "summary": "Open when looking up Artboard.showCenter in Illustrator.", "keywords": ["Artboard.showCenter"]},
+  {"topic": "Artboard.showCrossHairs", "file": "scripting/artboard/show-cross-hairs.md", "summary": "Open when looking up Artboard.showCrossHairs in Illustrator.", "keywords": ["Artboard.showCrossHairs"]},
+  {"topic": "Artboard.showSafeAreas", "file": "scripting/artboard/show-safe-areas.md", "summary": "Open when looking up Artboard.showSafeAreas in Illustrator.", "keywords": ["Artboard.showSafeAreas"]},
+  {"topic": "Artboard.typename", "file": "scripting/artboard/typename.md", "summary": "Open when looking up Artboard.typename in Illustrator.", "keywords": ["Artboard.typename"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

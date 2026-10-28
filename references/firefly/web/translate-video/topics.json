@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Translate video clips quickly and effectively into multiple languages.", "file": "web/translate-video/multilingual-video-translation.md", "summary": "Open when looking up Translate video clips quickly and effectively into multiple languages. in Firefly.", "keywords": ["Translate video clips quickly and effectively into multiple languages."]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

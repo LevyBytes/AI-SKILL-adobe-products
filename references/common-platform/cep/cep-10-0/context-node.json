@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Accessing nodejs APIs in iframe", "file": "cep/cep-10-0/accessing-nodejs-apis-in-iframe.md", "summary": "Open when looking up Accessing nodejs APIs in iframe in Shared Adobe platform.", "keywords": ["Accessing nodejs APIs in iframe"]},
+  {"topic": "External JavaScript Libraries", "file": "cep/cep-10-0/external-java-script-libraries.md", "summary": "Open when looking up External JavaScript Libraries in Shared Adobe platform.", "keywords": ["External JavaScript Libraries"]},
+  {"topic": "JavaScript Modules", "file": "cep/cep-10-0/java-script-modules.md", "summary": "Open when looking up JavaScript Modules in Shared Adobe platform.", "keywords": ["JavaScript Modules"]},
+  {"topic": "JS Lib Break due to node symbols (possible for many other libraries)", "file": "cep/cep-10-0/node-symbol-library-conflicts.md", "summary": "Open when looking up JS Lib Break due to node symbols (possible for many other libraries) in Shared Adobe platform.", "keywords": ["JS Lib Break due to node symbols (possible for many other libraries)"]},
+  {"topic": "Native Modules", "file": "cep/cep-10-0/native-modules.md", "summary": "Open when looking up Native Modules in Shared Adobe platform.", "keywords": ["Native Modules"]},
+  {"topic": "New Symbols in the global context", "file": "cep/cep-10-0/new-symbols-in-the-global-context.md", "summary": "Open when looking up New Symbols in the global context in Shared Adobe platform.", "keywords": ["New Symbols in the global context"]},
+  {"topic": "Node.js Support", "file": "cep/cep-10-0/node-js-support.md", "summary": "Open when looking up Node.js Support in Shared Adobe platform.", "keywords": ["Node.js Support"]},
+  {"topic": "Node.js support details", "file": "cep/cep-10-0/node-js-support-details.md", "summary": "Open when looking up Node.js support details in Shared Adobe platform.", "keywords": ["Node.js support details"]},
+  {"topic": "NodeJS", "file": "cep/cep-10-0/node-js.md", "summary": "Open when looking up NodeJS in Shared Adobe platform.", "keywords": ["NodeJS"]},
+  {"topic": "require path is absolute instead of relative", "file": "cep/cep-10-0/require-path-is-absolute-instead-of-relative.md", "summary": "Open when looking up require path is absolute instead of relative in Shared Adobe platform.", "keywords": ["require path is absolute instead of relative"]},
+  {"topic": "Using Node.js APIs (since CEP 10.0)", "file": "cep/cep-10-0/using-node-js-apis-since-cep-10-0.md", "summary": "Open when looking up Using Node.js APIs (since CEP 10.0) in Shared Adobe platform.", "keywords": ["Using Node.js APIs (since CEP 10.0)"]},
+  {"topic": "Using Node.js APIs (since CEP 7.0)", "file": "cep/cep-10-0/using-node-js-apis-since-cep-7-0.md", "summary": "Open when looking up Using Node.js APIs (since CEP 7.0) in Shared Adobe platform.", "keywords": ["Using Node.js APIs (since CEP 7.0)"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Minimum Version Requirements", "file": "uxp/uxp-hybrid-plugin/minimum-version-requirements.md", "summary": "Open when looking up Minimum Version Requirements in Photoshop.", "keywords": ["Minimum Version Requirements"]},
+  {"topic": "Releases", "file": "uxp/uxp-hybrid-plugin/releases.md", "summary": "Open when looking up Releases in Photoshop.", "keywords": ["Releases"]},
+  {"topic": "UXP Hybrid plugin vs Photoshop C++ plugins", "file": "uxp/uxp-hybrid-plugin/uxp-hybrid-plugin-vs-photoshop-c-plugins.md", "summary": "Open when looking up UXP Hybrid plugin vs Photoshop C++ plugins in Photoshop.", "keywords": ["UXP Hybrid plugin vs Photoshop C++ plugins"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,19 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "ExportFormat references", "file": "community-types/indesign/export-format/reference-index.md", "summary": "Open when looking up ExportFormat in Shared Adobe platform.", "keywords": ["ExportFormat references"]},
+  {"topic": "ExportForWebPreference", "file": "community-types/indesign/export-for-web-preference.md", "summary": "Open when looking up ExportForWebPreference in Shared Adobe platform.", "keywords": ["ExportForWebPreference"]},
+  {"topic": "ExportLayerOptions", "file": "community-types/indesign/export-layer-options.md", "summary": "Open when looking up ExportLayerOptions in Shared Adobe platform.", "keywords": ["ExportLayerOptions"]},
+  {"topic": "ExportOrder", "file": "community-types/indesign/export-order.md", "summary": "Open when looking up ExportOrder in Shared Adobe platform.", "keywords": ["ExportOrder"]},
+  {"topic": "ExportPresetFormat", "file": "community-types/indesign/export-preset-format.md", "summary": "Open when looking up ExportPresetFormat in Shared Adobe platform.", "keywords": ["ExportPresetFormat"]},
+  {"topic": "ExportRangeOrAllPages", "file": "community-types/indesign/export-range-or-all-pages.md", "summary": "Open when looking up ExportRangeOrAllPages in Shared Adobe platform.", "keywords": ["ExportRangeOrAllPages"]},
+  {"topic": "ImageExportOption", "file": "community-types/indesign/image-export-option.md", "summary": "Open when looking up ImageExportOption in Shared Adobe platform.", "keywords": ["ImageExportOption"]},
+  {"topic": "ImportFormat", "file": "community-types/indesign/import-format.md", "summary": "Open when looking up ImportFormat in Shared Adobe platform.", "keywords": ["ImportFormat"]},
+  {"topic": "ImportPlatform", "file": "community-types/indesign/import-platform.md", "summary": "Open when looking up ImportPlatform in Shared Adobe platform.", "keywords": ["ImportPlatform"]},
+  {"topic": "PreserveAppearanceFromLayoutEnum", "file": "community-types/indesign/preserve-appearance-from-layout-enum.md", "summary": "Open when looking up PreserveAppearanceFromLayoutEnum in Shared Adobe platform.", "keywords": ["PreserveAppearanceFromLayoutEnum"]},
+  {"topic": "PreviewPagesOptions", "file": "community-types/indesign/preview-pages-options.md", "summary": "Open when looking up PreviewPagesOptions in Shared Adobe platform.", "keywords": ["PreviewPagesOptions"]},
+  {"topic": "PreviewSizeOptions", "file": "community-types/indesign/preview-size-options.md", "summary": "Open when looking up PreviewSizeOptions in Shared Adobe platform.", "keywords": ["PreviewSizeOptions"]},
+  {"topic": "PreviewTypes", "file": "community-types/indesign/preview-types.md", "summary": "Open when looking up PreviewTypes in Shared Adobe platform.", "keywords": ["PreviewTypes"]},
+  {"topic": "TagRaster", "file": "community-types/indesign/tag-raster.md", "summary": "Open when looking up TagRaster in Shared Adobe platform.", "keywords": ["TagRaster"]},
+  {"topic": "TagTransparency", "file": "community-types/indesign/tag-transparency.md", "summary": "Open when looking up TagTransparency in Shared Adobe platform.", "keywords": ["TagTransparency"]},
+  {"topic": "TagVector", "file": "community-types/indesign/tag-vector.md", "summary": "Open when looking up TagVector in Shared Adobe platform.", "keywords": ["TagVector"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

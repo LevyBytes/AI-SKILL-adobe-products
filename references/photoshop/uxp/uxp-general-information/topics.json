@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Applications Integrated with UXP", "file": "uxp/uxp-general-information/applications-integrated-with-uxp.md", "summary": "Open when looking up Applications Integrated with UXP in Photoshop.", "keywords": ["Applications Integrated with UXP"]},
+  {"topic": "UXP Features Supported in Applications", "file": "uxp/uxp-general-information/uxp-features-supported-in-applications.md", "summary": "Open when looking up UXP Features Supported in Applications in Photoshop.", "keywords": ["UXP Features Supported in Applications"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

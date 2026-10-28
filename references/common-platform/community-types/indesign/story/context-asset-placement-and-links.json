@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Story.itemLink", "file": "community-types/indesign/story/item-link.md", "summary": "Open when looking up Story.itemLink in Shared Adobe platform.", "keywords": ["Story.itemLink"]},
+  {"topic": "Story.linkedStoryOptions", "file": "community-types/indesign/story/linked-story-options.md", "summary": "Open when looking up Story.linkedStoryOptions in Shared Adobe platform.", "keywords": ["Story.linkedStoryOptions"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

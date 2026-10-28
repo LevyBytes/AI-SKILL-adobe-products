@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "HORIZONTAL", "file": "document-model/horizontal-or-vertical/horizontal.md", "summary": "Open when looking up HORIZONTAL in InDesign.", "keywords": ["HORIZONTAL"]},
+  {"topic": "VERTICAL", "file": "document-model/horizontal-or-vertical/vertical.md", "summary": "Open when looking up VERTICAL in InDesign.", "keywords": ["VERTICAL"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

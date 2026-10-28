@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "PPI_150", "file": "references/document-model/image-resolution/ppi150.md", "summary": "Open when looking up PPI_150 in InDesign.", "keywords": ["PPI_150"]},
-  {"topic": "PPI_300", "file": "references/document-model/image-resolution/ppi300.md", "summary": "Open when looking up PPI_300 in InDesign.", "keywords": ["PPI_300"]},
-  {"topic": "PPI_72", "file": "references/document-model/image-resolution/ppi72.md", "summary": "Open when looking up PPI_72 in InDesign.", "keywords": ["PPI_72"]},
-  {"topic": "PPI_96", "file": "references/document-model/image-resolution/ppi96.md", "summary": "Open when looking up PPI_96 in InDesign.", "keywords": ["PPI_96"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

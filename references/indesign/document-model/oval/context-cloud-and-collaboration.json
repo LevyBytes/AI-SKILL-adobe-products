@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "checkIn", "file": "document-model/oval/check-in.md", "summary": "Open when looking up checkIn in InDesign.", "keywords": ["checkIn"]},
+  {"topic": "checkOut", "file": "document-model/oval/check-out.md", "summary": "Open when looking up checkOut in InDesign.", "keywords": ["checkOut"]},
+  {"topic": "lockState", "file": "document-model/oval/lock-state.md", "summary": "Open when looking up lockState in InDesign.", "keywords": ["lockState"]},
+  {"topic": "store", "file": "document-model/oval/store.md", "summary": "Open when looking up store in InDesign.", "keywords": ["store"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

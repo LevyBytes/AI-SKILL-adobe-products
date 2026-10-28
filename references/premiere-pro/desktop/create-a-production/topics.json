@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Create a Production and begin collaborating in Adobe Premiere.", "file": "desktop/create-a-production/create-a-production-and-begin-collaborating-in-adobe-premiere.md", "summary": "Open when looking up Create a Production and begin collaborating in Adobe Premiere. in Premiere Pro.", "keywords": ["Create a Production and begin collaborating in Adobe Premiere."]},
+  {"topic": "Open a Production", "file": "desktop/create-a-production/open-a-production.md", "summary": "Open when looking up Open a Production in Premiere Pro.", "keywords": ["Open a Production"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

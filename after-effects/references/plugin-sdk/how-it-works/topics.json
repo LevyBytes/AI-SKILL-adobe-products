@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "AEIOs - How It Works", "file": "references/plugin-sdk/how-it-works/aeios-how-it-works.md", "summary": "Open when looking up AEIOs - How It Works in After Effects.", "keywords": ["AEIOs - How It Works"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

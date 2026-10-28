@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Certificate references", "file": "scripting/certificate/reference-index.md", "summary": "Open when looking up Certificate in Acrobat.", "keywords": ["Certificate references"]},
+  {"topic": "Certificate specifier references", "file": "scripting/certificate-specifier/reference-index.md", "summary": "Open when looking up Certificate specifier in Acrobat.", "keywords": ["Certificate specifier references"]},
+  {"topic": "Rdn references", "file": "scripting/rdn/reference-index.md", "summary": "Open when looking up Rdn in Acrobat.", "keywords": ["Rdn references"]},
+  {"topic": "Security handler references", "file": "scripting/security-handler/reference-index.md", "summary": "Open when looking up Security handler in Acrobat.", "keywords": ["Security handler references"]},
+  {"topic": "Security policy references", "file": "scripting/security-policy/reference-index.md", "summary": "Open when looking up Security policy in Acrobat.", "keywords": ["Security policy references"]},
+  {"topic": "Security references", "file": "scripting/security/reference-index.md", "summary": "Open when looking up Security in Acrobat.", "keywords": ["Security references"]},
+  {"topic": "Seed value references", "file": "scripting/seed-value/reference-index.md", "summary": "Open when looking up Seed value in Acrobat.", "keywords": ["Seed value references"]},
+  {"topic": "Signature info references", "file": "scripting/signature-info/reference-index.md", "summary": "Open when looking up Signature info in Acrobat.", "keywords": ["Signature info references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

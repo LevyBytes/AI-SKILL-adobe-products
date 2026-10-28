@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Embed a PDF from the OLE container application", "file": "desktop/edit-documents/combine-files/embed-pdfs-in-ole-container-documents/embed-a-pdf-from-the-ole-container-application.md", "summary": "Open when looking up Embed a PDF from the OLE container application in Acrobat.", "keywords": ["Embed a PDF from the OLE container application"]},
+  {"topic": "macOS", "file": "desktop/edit-documents/combine-files/embed-pdfs-in-ole-container-documents/mac-os.md", "summary": "Open when looking up macOS in Acrobat.", "keywords": ["macOS"]},
+  {"topic": "Windows", "file": "desktop/edit-documents/combine-files/embed-pdfs-in-ole-container-documents/windows.md", "summary": "Open when looking up Windows in Acrobat.", "keywords": ["Windows"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

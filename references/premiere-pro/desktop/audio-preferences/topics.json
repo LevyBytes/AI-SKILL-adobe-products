@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Audio preferences in Premiere", "file": "desktop/audio-preferences/audio-preferences-in-premiere.md", "summary": "Open when looking up Audio preferences in Premiere in Premiere Pro.", "keywords": ["Audio preferences in Premiere"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

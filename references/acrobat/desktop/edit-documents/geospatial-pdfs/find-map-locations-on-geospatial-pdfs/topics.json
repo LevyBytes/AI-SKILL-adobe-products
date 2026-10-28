@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Copy location coordinates for web mapping", "file": "desktop/edit-documents/geospatial-pdfs/find-map-locations-on-geospatial-pdfs/copy-location-coordinates-for-web-mapping.md", "summary": "Open when looking up Copy location coordinates for web mapping in Acrobat.", "keywords": ["Copy location coordinates for web mapping"]},
+  {"topic": "Search for coordinates and mark locations", "file": "desktop/edit-documents/geospatial-pdfs/find-map-locations-on-geospatial-pdfs/search-for-coordinates-and-mark-locations.md", "summary": "Open when looking up Search for coordinates and mark locations in Acrobat.", "keywords": ["Search for coordinates and mark locations"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

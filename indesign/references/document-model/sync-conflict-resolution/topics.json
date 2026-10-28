@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "ASK_ABOUT_CONFLICTS", "file": "references/document-model/sync-conflict-resolution/askaboutconflicts.md", "summary": "Open when looking up ASK_ABOUT_CONFLICTS in InDesign.", "keywords": ["ASK_ABOUT_CONFLICTS"]},
-  {"topic": "PREFER_LOCAL", "file": "references/document-model/sync-conflict-resolution/preferlocal.md", "summary": "Open when looking up PREFER_LOCAL in InDesign.", "keywords": ["PREFER_LOCAL"]},
-  {"topic": "PREFER_PROJECT", "file": "references/document-model/sync-conflict-resolution/preferproject.md", "summary": "Open when looking up PREFER_PROJECT in InDesign.", "keywords": ["PREFER_PROJECT"]},
-  {"topic": "SKIP_CONFLICTS", "file": "references/document-model/sync-conflict-resolution/skipconflicts.md", "summary": "Open when looking up SKIP_CONFLICTS in InDesign.", "keywords": ["SKIP_CONFLICTS"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

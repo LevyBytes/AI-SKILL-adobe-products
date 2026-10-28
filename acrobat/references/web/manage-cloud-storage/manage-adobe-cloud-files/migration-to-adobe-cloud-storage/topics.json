@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Impact of migration to Adobe cloud storage", "file": "references/web/manage-cloud-storage/manage-adobe-cloud-files/migration-to-adobe-cloud-storage/impact-of-migration-to-adobe-cloud-storage.md", "summary": "Open when looking up Impact of migration to Adobe cloud storage in Acrobat.", "keywords": ["Impact of migration to Adobe cloud storage"]},
-  {"topic": "Network endpoint updates for enterprise admin usage", "file": "references/web/manage-cloud-storage/manage-adobe-cloud-files/migration-to-adobe-cloud-storage/network-endpoint-updates-for-enterprise-admin-usage.md", "summary": "Open when looking up Network endpoint updates for enterprise admin usage in Acrobat.", "keywords": ["Network endpoint updates for enterprise admin usage"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

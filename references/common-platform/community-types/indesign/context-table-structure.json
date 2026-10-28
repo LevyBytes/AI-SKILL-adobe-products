@@ -1,0 +1,18 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Cell references", "file": "community-types/indesign/cell/reference-index.md", "summary": "Open when looking up Cell in Shared Adobe platform.", "keywords": ["Cell references"]},
+  {"topic": "Cells references", "file": "community-types/indesign/cells/reference-index.md", "summary": "Open when looking up Cells in Shared Adobe platform.", "keywords": ["Cells references"]},
+  {"topic": "CellTypeEnum", "file": "community-types/indesign/cell-type-enum.md", "summary": "Open when looking up CellTypeEnum in Shared Adobe platform.", "keywords": ["CellTypeEnum"]},
+  {"topic": "Column references", "file": "community-types/indesign/column/reference-index.md", "summary": "Open when looking up Column in Shared Adobe platform.", "keywords": ["Column references"]},
+  {"topic": "Columns references", "file": "community-types/indesign/columns/reference-index.md", "summary": "Open when looking up Columns in Shared Adobe platform.", "keywords": ["Columns references"]},
+  {"topic": "DisplayOrderOptions", "file": "community-types/indesign/display-order-options.md", "summary": "Open when looking up DisplayOrderOptions in Shared Adobe platform.", "keywords": ["DisplayOrderOptions"]},
+  {"topic": "HeaderFooterBreakTypes", "file": "community-types/indesign/header-footer-break-types.md", "summary": "Open when looking up HeaderFooterBreakTypes in Shared Adobe platform.", "keywords": ["HeaderFooterBreakTypes"]},
+  {"topic": "HeaderTypes references", "file": "community-types/indesign/header-types/reference-index.md", "summary": "Open when looking up HeaderTypes in Shared Adobe platform.", "keywords": ["HeaderTypes references"]},
+  {"topic": "Row references", "file": "community-types/indesign/row/reference-index.md", "summary": "Open when looking up Row in Shared Adobe platform.", "keywords": ["Row references"]},
+  {"topic": "Rows references", "file": "community-types/indesign/rows/reference-index.md", "summary": "Open when looking up Rows in Shared Adobe platform.", "keywords": ["Rows references"]},
+  {"topic": "RowTypes", "file": "community-types/indesign/row-types.md", "summary": "Open when looking up RowTypes in Shared Adobe platform.", "keywords": ["RowTypes"]},
+  {"topic": "Table references", "file": "community-types/indesign/table/reference-index.md", "summary": "Open when looking up Table in Shared Adobe platform.", "keywords": ["Table references"]},
+  {"topic": "TableDirectionOptions", "file": "community-types/indesign/table-direction-options.md", "summary": "Open when looking up TableDirectionOptions in Shared Adobe platform.", "keywords": ["TableDirectionOptions"]},
+  {"topic": "TableFormattingOptions", "file": "community-types/indesign/table-formatting-options.md", "summary": "Open when looking up TableFormattingOptions in Shared Adobe platform.", "keywords": ["TableFormattingOptions"]},
+  {"topic": "Tables references", "file": "community-types/indesign/tables/reference-index.md", "summary": "Open when looking up Tables in Shared Adobe platform.", "keywords": ["Tables references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

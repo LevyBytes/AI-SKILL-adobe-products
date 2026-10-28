@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Export directory server settings", "file": "desktop/e-sign-documents/fill-and-sign-documents/manage-certificates-on-directory-servers/export-directory-server-settings.md", "summary": "Open when looking up Export directory server settings in Acrobat.", "keywords": ["Export directory server settings"]},
+  {"topic": "Import directory server settings", "file": "desktop/e-sign-documents/fill-and-sign-documents/manage-certificates-on-directory-servers/import-directory-server-settings.md", "summary": "Open when looking up Import directory server settings in Acrobat.", "keywords": ["Import directory server settings"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

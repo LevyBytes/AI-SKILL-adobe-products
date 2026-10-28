@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Apply style to the content", "file": "desktop/text-formatting/lists-and-numbering/create-a-running-list-with-paragraph-styles/apply-style-to-the-content.md", "summary": "Open when looking up Apply style to the content in InDesign.", "keywords": ["Apply style to the content"]},
+  {"topic": "Create the paragraph list", "file": "desktop/text-formatting/lists-and-numbering/create-a-running-list-with-paragraph-styles/create-the-paragraph-list.md", "summary": "Open when looking up Create the paragraph list in InDesign.", "keywords": ["Create the paragraph list"]},
+  {"topic": "Define the list", "file": "desktop/text-formatting/lists-and-numbering/create-a-running-list-with-paragraph-styles/define-the-list.md", "summary": "Open when looking up Define the list in InDesign.", "keywords": ["Define the list"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

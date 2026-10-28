@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "NEXT_EVEN_PAGE", "file": "references/document-model/repaginate-option/nextevenpage.md", "summary": "Open when looking up NEXT_EVEN_PAGE in InDesign.", "keywords": ["NEXT_EVEN_PAGE"]},
-  {"topic": "NEXT_ODD_PAGE", "file": "references/document-model/repaginate-option/nextoddpage.md", "summary": "Open when looking up NEXT_ODD_PAGE in InDesign.", "keywords": ["NEXT_ODD_PAGE"]},
-  {"topic": "NEXT_PAGE", "file": "references/document-model/repaginate-option/nextpage.md", "summary": "Open when looking up NEXT_PAGE in InDesign.", "keywords": ["NEXT_PAGE"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

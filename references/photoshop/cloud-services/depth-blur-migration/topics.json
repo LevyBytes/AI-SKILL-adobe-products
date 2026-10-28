@@ -1,0 +1,21 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "ActionJSON definition", "file": "cloud-services/depth-blur-migration/action-json-definition.md", "summary": "Open when looking up ActionJSON definition in Photoshop.", "keywords": ["ActionJSON definition"]},
+  {"topic": "Additional resources", "file": "cloud-services/depth-blur-migration/additional-resources.md", "summary": "Open when looking up Additional resources in Photoshop.", "keywords": ["Additional resources"]},
+  {"topic": "Basic migration", "file": "cloud-services/depth-blur-migration/basic-migration.md", "summary": "Open when looking up Basic migration in Photoshop.", "keywords": ["Basic migration"]},
+  {"topic": "Blur intensity", "file": "cloud-services/depth-blur-migration/blur-intensity.md", "summary": "Open when looking up Blur intensity in Photoshop.", "keywords": ["Blur intensity"]},
+  {"topic": "Cinematic look with warm tint", "file": "cloud-services/depth-blur-migration/cinematic-look-with-warm-tint.md", "summary": "Open when looking up Cinematic look with warm tint in Photoshop.", "keywords": ["Cinematic look with warm tint"]},
+  {"topic": "Color and atmosphere", "file": "cloud-services/depth-blur-migration/color-and-atmosphere.md", "summary": "Open when looking up Color and atmosphere in Photoshop.", "keywords": ["Color and atmosphere"]},
+  {"topic": "Customizable parameters", "file": "cloud-services/depth-blur-migration/customizable-parameters.md", "summary": "Open when looking up Customizable parameters in Photoshop.", "keywords": ["Customizable parameters"]},
+  {"topic": "Focus control", "file": "cloud-services/depth-blur-migration/focus-control.md", "summary": "Open when looking up Focus control in Photoshop.", "keywords": ["Focus control"]},
+  {"topic": "Landscape/tilt-shift", "file": "cloud-services/depth-blur-migration/landscape-tilt-shift.md", "summary": "Open when looking up Landscape/tilt-shift in Photoshop.", "keywords": ["Landscape/tilt-shift"]},
+  {"topic": "Migration checklist", "file": "cloud-services/depth-blur-migration/migration-checklist.md", "summary": "Open when looking up Migration checklist in Photoshop.", "keywords": ["Migration checklist"]},
+  {"topic": "Portrait mode effect", "file": "cloud-services/depth-blur-migration/portrait-mode-effect.md", "summary": "Open when looking up Portrait mode effect in Photoshop.", "keywords": ["Portrait mode effect"]},
+  {"topic": "Portrait photography", "file": "cloud-services/depth-blur-migration/portrait-photography.md", "summary": "Open when looking up Portrait photography in Photoshop.", "keywords": ["Portrait photography"]},
+  {"topic": "Product photography", "file": "cloud-services/depth-blur-migration/product-photography.md", "summary": "Open when looking up Product photography in Photoshop.", "keywords": ["Product photography"]},
+  {"topic": "Strong blur effect", "file": "cloud-services/depth-blur-migration/strong-blur-effect.md", "summary": "Open when looking up Strong blur effect in Photoshop.", "keywords": ["Strong blur effect"]},
+  {"topic": "Using default settings", "file": "cloud-services/depth-blur-migration/using-default-settings.md", "summary": "Open when looking up Using default settings in Photoshop.", "keywords": ["Using default settings"]},
+  {"topic": "V1 API (deprecated)", "file": "cloud-services/depth-blur-migration/v1-api-deprecated.md", "summary": "Open when looking up V1 API (deprecated) in Photoshop.", "keywords": ["V1 API (deprecated)"]},
+  {"topic": "V2 API (current)", "file": "cloud-services/depth-blur-migration/v2-api-current.md", "summary": "Open when looking up V2 API (current) in Photoshop.", "keywords": ["V2 API (current)"]},
+  {"topic": "With custom blur strength", "file": "cloud-services/depth-blur-migration/with-custom-blur-strength.md", "summary": "Open when looking up With custom blur strength in Photoshop.", "keywords": ["With custom blur strength"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

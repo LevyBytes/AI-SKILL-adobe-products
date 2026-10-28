@@ -1,0 +1,16 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "anyItem", "file": "document-model/indexing-sort-options/any-item.md", "summary": "Open when looking up anyItem in InDesign.", "keywords": ["anyItem"]},
+  {"topic": "count", "file": "document-model/indexing-sort-options/count.md", "summary": "Open when looking up count in InDesign.", "keywords": ["count"]},
+  {"topic": "everyItem", "file": "document-model/indexing-sort-options/every-item.md", "summary": "Open when looking up everyItem in InDesign.", "keywords": ["everyItem"]},
+  {"topic": "firstItem", "file": "document-model/indexing-sort-options/first-item.md", "summary": "Open when looking up firstItem in InDesign.", "keywords": ["firstItem"]},
+  {"topic": "item", "file": "document-model/indexing-sort-options/item.md", "summary": "Open when looking up item in InDesign.", "keywords": ["item"]},
+  {"topic": "itemByName", "file": "document-model/indexing-sort-options/item-by-name.md", "summary": "Open when looking up itemByName in InDesign.", "keywords": ["itemByName"]},
+  {"topic": "itemByRange", "file": "document-model/indexing-sort-options/item-by-range.md", "summary": "Open when looking up itemByRange in InDesign.", "keywords": ["itemByRange"]},
+  {"topic": "lastItem", "file": "document-model/indexing-sort-options/last-item.md", "summary": "Open when looking up lastItem in InDesign.", "keywords": ["lastItem"]},
+  {"topic": "length", "file": "document-model/indexing-sort-options/length.md", "summary": "Open when looking up length in InDesign.", "keywords": ["length"]},
+  {"topic": "middleItem", "file": "document-model/indexing-sort-options/middle-item.md", "summary": "Open when looking up middleItem in InDesign.", "keywords": ["middleItem"]},
+  {"topic": "nextItem", "file": "document-model/indexing-sort-options/next-item.md", "summary": "Open when looking up nextItem in InDesign.", "keywords": ["nextItem"]},
+  {"topic": "previousItem", "file": "document-model/indexing-sort-options/previous-item.md", "summary": "Open when looking up previousItem in InDesign.", "keywords": ["previousItem"]},
+  {"topic": "toSource", "file": "document-model/indexing-sort-options/to-source.md", "summary": "Open when looking up toSource in InDesign.", "keywords": ["toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,3 @@
+PDF Embed API runs its core viewer in a sandboxed HTML iframe. This limits unintended DOM access across the boundary and helps isolate the viewer from its host page. CSP directives govern iframe content and help mitigate attacks such as cross-site scripting; these controls do not guarantee that every vulnerability is contained.
+
+The host still controls document access and persistence, as described in [content storage](content-storage.md). Account for the viewer's [client-ID validation and analytics calls](authentication.md) when assessing the integration. These browser controls describe PDF Embed, not server-side PDF Services processing.

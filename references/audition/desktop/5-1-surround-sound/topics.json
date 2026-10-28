@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/audition", "topics": [
+  {"topic": "Create 5.1 surround mixes in Adobe Audition", "file": "desktop/5-1-surround-sound/create-5-1-surround-mixes-in-adobe-audition.md", "summary": "Open when looking up Create 5.1 surround mixes in Adobe Audition in Audition.", "keywords": ["Create 5.1 surround mixes in Adobe Audition"]},
+  {"topic": "Edit 5.1 surround files", "file": "desktop/5-1-surround-sound/edit-5-1-surround-files.md", "summary": "Open when looking up Edit 5.1 surround files in Audition.", "keywords": ["Edit 5.1 surround files"]},
+  {"topic": "Pan sends to a 5.1 bus track", "file": "desktop/5-1-surround-sound/pan-sends-to-a-5-1-bus-track.md", "summary": "Open when looking up Pan sends to a 5.1 bus track in Audition.", "keywords": ["Pan sends to a 5.1 bus track"]},
+  {"topic": "Pan tracks in a 5.1 surround mix", "file": "desktop/5-1-surround-sound/pan-tracks-in-a-5-1-surround-mix.md", "summary": "Open when looking up Pan tracks in a 5.1 surround mix in Audition.", "keywords": ["Pan tracks in a 5.1 surround mix"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

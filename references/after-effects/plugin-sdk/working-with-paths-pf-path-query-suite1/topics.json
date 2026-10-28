@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "PF_CheckinPath", "file": "plugin-sdk/working-with-paths-pf-path-query-suite1/pf-checkin-path.md", "summary": "Open when looking up PF_CheckinPath in After Effects.", "keywords": ["PF_CheckinPath"]},
+  {"topic": "PF_CheckoutPath", "file": "plugin-sdk/working-with-paths-pf-path-query-suite1/pf-checkout-path.md", "summary": "Open when looking up PF_CheckoutPath in After Effects.", "keywords": ["PF_CheckoutPath"]},
+  {"topic": "PF_NumPaths", "file": "plugin-sdk/working-with-paths-pf-path-query-suite1/pf-num-paths.md", "summary": "Open when looking up PF_NumPaths in After Effects.", "keywords": ["PF_NumPaths"]},
+  {"topic": "PF_PathInfo", "file": "plugin-sdk/working-with-paths-pf-path-query-suite1/pf-path-info.md", "summary": "Open when looking up PF_PathInfo in After Effects.", "keywords": ["PF_PathInfo"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

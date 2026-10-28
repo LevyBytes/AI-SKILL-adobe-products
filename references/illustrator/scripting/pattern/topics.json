@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Pattern.name", "file": "scripting/pattern/name.md", "summary": "Open when looking up Pattern.name in Illustrator.", "keywords": ["Pattern.name"]},
+  {"topic": "Pattern.parent", "file": "scripting/pattern/parent.md", "summary": "Open when looking up Pattern.parent in Illustrator.", "keywords": ["Pattern.parent"]},
+  {"topic": "Pattern.remove()", "file": "scripting/pattern/remove.md", "summary": "Open when looking up Pattern.remove() in Illustrator.", "keywords": ["Pattern.remove()"]},
+  {"topic": "Pattern.toString()", "file": "scripting/pattern/to-string.md", "summary": "Open when looking up Pattern.toString() in Illustrator.", "keywords": ["Pattern.toString()"]},
+  {"topic": "Pattern.typename", "file": "scripting/pattern/typename.md", "summary": "Open when looking up Pattern.typename in Illustrator.", "keywords": ["Pattern.typename"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

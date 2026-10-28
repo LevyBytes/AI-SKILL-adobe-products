@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "CMYK (Cyan, Magenta, Yellow, Black)", "file": "cloud-services/document-creation-migration/color-modes-explained/cmyk-cyan-magenta-yellow-black.md", "summary": "Open when looking up CMYK (Cyan, Magenta, Yellow, Black) in Photoshop.", "keywords": ["CMYK (Cyan, Magenta, Yellow, Black)"]},
+  {"topic": "Grayscale", "file": "cloud-services/document-creation-migration/color-modes-explained/grayscale.md", "summary": "Open when looking up Grayscale in Photoshop.", "keywords": ["Grayscale"]},
+  {"topic": "Lab color", "file": "cloud-services/document-creation-migration/color-modes-explained/lab-color.md", "summary": "Open when looking up Lab color in Photoshop.", "keywords": ["Lab color"]},
+  {"topic": "RGB (Red, Green, Blue)", "file": "cloud-services/document-creation-migration/color-modes-explained/rgb-red-green-blue.md", "summary": "Open when looking up RGB (Red, Green, Blue) in Photoshop.", "keywords": ["RGB (Red, Green, Blue)"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

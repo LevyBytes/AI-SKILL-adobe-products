@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Adjust spacing using the Gap tool", "file": "desktop/graphics-and-media/object-transforms/align-or-distribute-objects/adjust-spacing-using-the-gap-tool.md", "summary": "Open when looking up Adjust spacing using the Gap tool in InDesign.", "keywords": ["Adjust spacing using the Gap tool"]},
+  {"topic": "Align and distribute objects using the Align panel", "file": "desktop/graphics-and-media/object-transforms/align-or-distribute-objects/align-and-distribute-objects-using-the-align-panel.md", "summary": "Open when looking up Align and distribute objects using the Align panel in InDesign.", "keywords": ["Align and distribute objects using the Align panel"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

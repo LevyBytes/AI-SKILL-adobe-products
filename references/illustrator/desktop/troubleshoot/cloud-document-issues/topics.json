@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Cloud documents won't open and show a file access error", "file": "desktop/troubleshoot/cloud-document-issues/cloud-documents-won-t-open-and-show-a-file-access-error.md", "summary": "Open when looking up Cloud documents won't open and show a file access error in Illustrator.", "keywords": ["Cloud documents won't open and show a file access error"]},
+  {"topic": "Cloud documents won't open and show a file access error references", "file": "desktop/troubleshoot/cloud-document-issues/cloud-document-access-errors/reference-index.md", "summary": "Open when looking up Cloud documents won't open and show a file access error in Illustrator.", "keywords": ["Cloud documents won't open and show a file access error references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

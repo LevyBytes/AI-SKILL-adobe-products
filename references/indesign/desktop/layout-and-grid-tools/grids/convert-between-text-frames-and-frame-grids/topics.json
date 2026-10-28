@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Convert a frame grid to plain text frame", "file": "desktop/layout-and-grid-tools/grids/convert-between-text-frames-and-frame-grids/convert-a-frame-grid-to-plain-text-frame.md", "summary": "Open when looking up Convert a frame grid to plain text frame in InDesign.", "keywords": ["Convert a frame grid to plain text frame"]},
+  {"topic": "Convert a plain text frame to a frame grid", "file": "desktop/layout-and-grid-tools/grids/convert-between-text-frames-and-frame-grids/convert-a-plain-text-frame-to-a-frame-grid.md", "summary": "Open when looking up Convert a plain text frame to a frame grid in InDesign.", "keywords": ["Convert a plain text frame to a frame grid"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Copy a selection", "file": "desktop/make-selections/selection-refinement/copy-and-paste-selections/copy-a-selection.md", "summary": "Open when looking up Copy a selection in Photoshop.", "keywords": ["Copy a selection"]},
+  {"topic": "Copy a selection while dragging", "file": "desktop/make-selections/selection-refinement/copy-and-paste-selections/copy-a-selection-while-dragging.md", "summary": "Open when looking up Copy a selection while dragging in Photoshop.", "keywords": ["Copy a selection while dragging"]},
+  {"topic": "Paste a selection", "file": "desktop/make-selections/selection-refinement/copy-and-paste-selections/paste-a-selection.md", "summary": "Open when looking up Paste a selection in Photoshop.", "keywords": ["Paste a selection"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

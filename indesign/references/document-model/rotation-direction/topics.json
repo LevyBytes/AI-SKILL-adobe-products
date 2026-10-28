@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "BACKWARD", "file": "references/document-model/rotation-direction/backward.md", "summary": "Open when looking up BACKWARD in InDesign.", "keywords": ["BACKWARD"]},
-  {"topic": "FORWARD", "file": "references/document-model/rotation-direction/forward.md", "summary": "Open when looking up FORWARD in InDesign.", "keywords": ["FORWARD"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

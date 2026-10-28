@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "clearFrameFittingOptions", "file": "document-model/polygon/clear-frame-fitting-options.md", "summary": "Open when looking up clearFrameFittingOptions in InDesign.", "keywords": ["clearFrameFittingOptions"]},
+  {"topic": "contentType", "file": "document-model/polygon/content-type.md", "summary": "Open when looking up contentType in InDesign.", "keywords": ["contentType"]},
+  {"topic": "frameFittingOptions", "file": "document-model/polygon/frame-fitting-options.md", "summary": "Open when looking up frameFittingOptions in InDesign.", "keywords": ["frameFittingOptions"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

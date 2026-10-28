@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Passing Arguments to InDesign Server", "file": "uxp/passing-arguments/passing-arguments-to-in-design-server.md", "summary": "Open when looking up Passing Arguments to InDesign Server in InDesign.", "keywords": ["Passing Arguments to InDesign Server"]},
+  {"topic": "Passing Arguments to InDesign Server/ InDesign App Via doScript()", "file": "uxp/passing-arguments/doscript-application-and-server-arguments.md", "summary": "Open when looking up Passing Arguments to InDesign Server/ InDesign App Via doScript() in InDesign.", "keywords": ["Passing Arguments to InDesign Server/ InDesign App Via doScript()"]},
+  {"topic": "Usage", "file": "uxp/passing-arguments/usage.md", "summary": "Open when looking up Usage in InDesign.", "keywords": ["Usage"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

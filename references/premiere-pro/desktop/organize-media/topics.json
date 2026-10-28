@@ -1,0 +1,17 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Apply labeling", "file": "desktop/organize-media/apply-labeling.md", "summary": "Open when looking up Apply labeling in Premiere Pro.", "keywords": ["Apply labeling"]},
+  {"topic": "Apply labeling references", "file": "desktop/organize-media/apply-labeling/reference-index.md", "summary": "Open when looking up Apply labeling in Premiere Pro.", "keywords": ["Apply labeling references"]},
+  {"topic": "Create projects", "file": "desktop/organize-media/create-projects.md", "summary": "Open when looking up Create projects in Premiere Pro.", "keywords": ["Create projects"]},
+  {"topic": "Create projects references", "file": "desktop/organize-media/create-projects/reference-index.md", "summary": "Open when looking up Create projects in Premiere Pro.", "keywords": ["Create projects references"]},
+  {"topic": "Edit metadata", "file": "desktop/organize-media/edit-metadata.md", "summary": "Open when looking up Edit metadata in Premiere Pro.", "keywords": ["Edit metadata"]},
+  {"topic": "Edit metadata references", "file": "desktop/organize-media/edit-metadata/reference-index.md", "summary": "Open when looking up Edit metadata in Premiere Pro.", "keywords": ["Edit metadata references"]},
+  {"topic": "Import files", "file": "desktop/organize-media/import-files.md", "summary": "Open when looking up Import files in Premiere Pro.", "keywords": ["Import files"]},
+  {"topic": "Import files references", "file": "desktop/organize-media/import-files/reference-index.md", "summary": "Open when looking up Import files in Premiere Pro.", "keywords": ["Import files references"]},
+  {"topic": "Ingest proxy workflow", "file": "desktop/organize-media/ingest-proxy-workflow.md", "summary": "Open when looking up Ingest proxy workflow in Premiere Pro.", "keywords": ["Ingest proxy workflow"]},
+  {"topic": "Ingest proxy workflow references", "file": "desktop/organize-media/ingest-proxy-workflow/reference-index.md", "summary": "Open when looking up Ingest proxy workflow in Premiere Pro.", "keywords": ["Ingest proxy workflow references"]},
+  {"topic": "Organize files", "file": "desktop/organize-media/organize-files.md", "summary": "Open when looking up Organize files in Premiere Pro.", "keywords": ["Organize files"]},
+  {"topic": "Organize files references", "file": "desktop/organize-media/organize-files/reference-index.md", "summary": "Open when looking up Organize files in Premiere Pro.", "keywords": ["Organize files references"]},
+  {"topic": "Transfer files", "file": "desktop/organize-media/transfer-files.md", "summary": "Open when looking up Transfer files in Premiere Pro.", "keywords": ["Transfer files"]},
+  {"topic": "Transfer files references", "file": "desktop/organize-media/transfer-files/reference-index.md", "summary": "Open when looking up Transfer files in Premiere Pro.", "keywords": ["Transfer files references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

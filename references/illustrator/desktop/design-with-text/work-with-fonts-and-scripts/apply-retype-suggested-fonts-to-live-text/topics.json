@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Apply the suggested fonts to live text", "file": "desktop/design-with-text/work-with-fonts-and-scripts/apply-retype-suggested-fonts-to-live-text/apply-the-suggested-fonts-to-live-text.md", "summary": "Open when looking up Apply the suggested fonts to live text in Illustrator.", "keywords": ["Apply the suggested fonts to live text"]},
+  {"topic": "Provide feedback on Retype", "file": "desktop/design-with-text/work-with-fonts-and-scripts/apply-retype-suggested-fonts-to-live-text/provide-feedback-on-retype.md", "summary": "Open when looking up Provide feedback on Retype in Illustrator.", "keywords": ["Provide feedback on Retype"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

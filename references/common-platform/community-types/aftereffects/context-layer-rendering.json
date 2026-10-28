@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "AutoOrientType", "file": "community-types/aftereffects/auto-orient-type.md", "summary": "Open when looking up AutoOrientType in Shared Adobe platform.", "keywords": ["AutoOrientType"]},
+  {"topic": "FrameBlendingType", "file": "community-types/aftereffects/frame-blending-type.md", "summary": "Open when looking up FrameBlendingType in Shared Adobe platform.", "keywords": ["FrameBlendingType"]},
+  {"topic": "LayerQuality", "file": "community-types/aftereffects/layer-quality.md", "summary": "Open when looking up LayerQuality in Shared Adobe platform.", "keywords": ["LayerQuality"]},
+  {"topic": "LayerSamplingQuality", "file": "community-types/aftereffects/layer-sampling-quality.md", "summary": "Open when looking up LayerSamplingQuality in Shared Adobe platform.", "keywords": ["LayerSamplingQuality"]},
+  {"topic": "TrackMatteType", "file": "community-types/aftereffects/track-matte-type.md", "summary": "Open when looking up TrackMatteType in Shared Adobe platform.", "keywords": ["TrackMatteType"]},
+  {"topic": "_TransformGroup", "file": "community-types/aftereffects/transform-group.md", "summary": "Open when looking up _TransformGroup in Shared Adobe platform.", "keywords": ["_TransformGroup"]},
+  {"topic": "_GeometryOptionsGroup", "file": "community-types/aftereffects/geometry-options-group.md", "summary": "Open when looking up _GeometryOptionsGroup in Shared Adobe platform.", "keywords": ["_GeometryOptionsGroup"]},
+  {"topic": "_MaterialOptionsGroup", "file": "community-types/aftereffects/material-options-group.md", "summary": "Open when looking up _MaterialOptionsGroup in Shared Adobe platform.", "keywords": ["_MaterialOptionsGroup"]},
+  {"topic": "SceneEditDetectionMode", "file": "community-types/aftereffects/scene-edit-detection-mode.md", "summary": "Open when looking up SceneEditDetectionMode in Shared Adobe platform.", "keywords": ["SceneEditDetectionMode"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

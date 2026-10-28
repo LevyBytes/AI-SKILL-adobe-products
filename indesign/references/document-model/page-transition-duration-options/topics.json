@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "FAST", "file": "references/document-model/page-transition-duration-options/fast.md", "summary": "Open when looking up FAST in InDesign.", "keywords": ["FAST"]},
-  {"topic": "MEDIUM", "file": "references/document-model/page-transition-duration-options/medium.md", "summary": "Open when looking up MEDIUM in InDesign.", "keywords": ["MEDIUM"]},
-  {"topic": "SLOW", "file": "references/document-model/page-transition-duration-options/slow.md", "summary": "Open when looking up SLOW in InDesign.", "keywords": ["SLOW"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Modify headers and footers in PDFs", "file": "references/desktop/edit-documents/use-headers-and-footers/modify-headers-and-footers-in-pdfs.md", "summary": "Open when looking up Modify headers and footers in PDFs in Acrobat.", "keywords": ["Modify headers and footers in PDFs"]},
-  {"topic": "Modify headers and footers in PDFs references", "file": "references/desktop/edit-documents/use-headers-and-footers/modify-headers-and-footers-in-pdfs/reference-index.md", "summary": "Open when looking up Modify headers and footers in PDFs in Acrobat.", "keywords": ["Modify headers and footers in PDFs references"]},
-  {"topic": "Remove headers and footers", "file": "references/desktop/edit-documents/use-headers-and-footers/remove-headers-and-footers.md", "summary": "Open when looking up Remove headers and footers in Acrobat.", "keywords": ["Remove headers and footers"]},
-  {"topic": "Remove headers and footers references", "file": "references/desktop/edit-documents/use-headers-and-footers/remove-headers-and-footers/reference-index.md", "summary": "Open when looking up Remove headers and footers in Acrobat.", "keywords": ["Remove headers and footers references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

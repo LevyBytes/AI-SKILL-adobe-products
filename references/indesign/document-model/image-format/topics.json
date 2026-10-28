@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "GIF", "file": "document-model/image-format/gif.md", "summary": "Open when looking up GIF in InDesign.", "keywords": ["GIF"]},
+  {"topic": "JPEG", "file": "document-model/image-format/jpeg.md", "summary": "Open when looking up JPEG in InDesign.", "keywords": ["JPEG"]},
+  {"topic": "PNG", "file": "document-model/image-format/png.md", "summary": "Open when looking up PNG in InDesign.", "keywords": ["PNG"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

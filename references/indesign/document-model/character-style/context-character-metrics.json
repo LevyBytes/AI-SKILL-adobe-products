@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "baselineShift", "file": "document-model/character-style/baseline-shift.md", "summary": "Open when looking up baselineShift in InDesign.", "keywords": ["baselineShift"]},
+  {"topic": "characterRotation", "file": "document-model/character-style/character-rotation.md", "summary": "Open when looking up characterRotation in InDesign.", "keywords": ["characterRotation"]},
+  {"topic": "horizontalScale", "file": "document-model/character-style/horizontal-scale.md", "summary": "Open when looking up horizontalScale in InDesign.", "keywords": ["horizontalScale"]},
+  {"topic": "kerningMethod", "file": "document-model/character-style/kerning-method.md", "summary": "Open when looking up kerningMethod in InDesign.", "keywords": ["kerningMethod"]},
+  {"topic": "leading", "file": "document-model/character-style/leading.md", "summary": "Open when looking up leading in InDesign.", "keywords": ["leading"]},
+  {"topic": "position", "file": "document-model/character-style/position.md", "summary": "Open when looking up position in InDesign.", "keywords": ["position"]},
+  {"topic": "scaleAffectsLineHeight", "file": "document-model/character-style/scale-affects-line-height.md", "summary": "Open when looking up scaleAffectsLineHeight in InDesign.", "keywords": ["scaleAffectsLineHeight"]},
+  {"topic": "skew", "file": "document-model/character-style/skew.md", "summary": "Open when looking up skew in InDesign.", "keywords": ["skew"]},
+  {"topic": "tracking", "file": "document-model/character-style/tracking.md", "summary": "Open when looking up tracking in InDesign.", "keywords": ["tracking"]},
+  {"topic": "verticalScale", "file": "document-model/character-style/vertical-scale.md", "summary": "Open when looking up verticalScale in InDesign.", "keywords": ["verticalScale"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Edit text", "file": "cloud-services/edit-text.md", "summary": "Open when looking up Edit text in Photoshop.", "keywords": ["Edit text"]},
+  {"topic": "Edit text references", "file": "cloud-services/edit-text/reference-index.md", "summary": "Open when looking up Edit text in Photoshop.", "keywords": ["Edit text references"]},
+  {"topic": "Text layer detail references", "file": "cloud-services/text-layer-detail/reference-index.md", "summary": "Open when looking up Text layer detail in Photoshop.", "keywords": ["Text layer detail references"]},
+  {"topic": "Text layer operations references", "file": "cloud-services/text-layer-operations/reference-index.md", "summary": "Open when looking up Text layer operations in Photoshop.", "keywords": ["Text layer operations references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

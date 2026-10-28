@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "incopy", "topics": [
-  {"topic": "Swatches", "file": "references/desktop/color/swatches.md", "summary": "Open when looking up Swatches in InCopy.", "keywords": ["Swatches"]},
-  {"topic": "Swatches references", "file": "references/desktop/color/swatches/reference-index.md", "summary": "Open when looking up Swatches in InCopy.", "keywords": ["Swatches references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

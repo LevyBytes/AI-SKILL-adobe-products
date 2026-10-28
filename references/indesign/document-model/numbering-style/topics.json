@@ -1,0 +1,19 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "ARABIC", "file": "document-model/numbering-style/arabic.md", "summary": "Open when looking up ARABIC in InDesign.", "keywords": ["ARABIC"]},
+  {"topic": "ARABIC_ABJAD", "file": "document-model/numbering-style/arabicabjad.md", "summary": "Open when looking up ARABIC_ABJAD in InDesign.", "keywords": ["ARABIC_ABJAD"]},
+  {"topic": "ARABIC_ALIF_BA_TAH", "file": "document-model/numbering-style/arabicalifbatah.md", "summary": "Open when looking up ARABIC_ALIF_BA_TAH in InDesign.", "keywords": ["ARABIC_ALIF_BA_TAH"]},
+  {"topic": "DOUBLE_LEADING_ZEROS", "file": "document-model/numbering-style/doubleleadingzeros.md", "summary": "Open when looking up DOUBLE_LEADING_ZEROS in InDesign.", "keywords": ["DOUBLE_LEADING_ZEROS"]},
+  {"topic": "FORMAT_NONE", "file": "document-model/numbering-style/formatnone.md", "summary": "Open when looking up FORMAT_NONE in InDesign.", "keywords": ["FORMAT_NONE"]},
+  {"topic": "HEBREW_BIBLICAL", "file": "document-model/numbering-style/hebrewbiblical.md", "summary": "Open when looking up HEBREW_BIBLICAL in InDesign.", "keywords": ["HEBREW_BIBLICAL"]},
+  {"topic": "HEBREW_NON_STANDARD", "file": "document-model/numbering-style/hebrewnonstandard.md", "summary": "Open when looking up HEBREW_NON_STANDARD in InDesign.", "keywords": ["HEBREW_NON_STANDARD"]},
+  {"topic": "KANJI", "file": "document-model/numbering-style/kanji.md", "summary": "Open when looking up KANJI in InDesign.", "keywords": ["KANJI"]},
+  {"topic": "KATAKANA_MODERN", "file": "document-model/numbering-style/katakanamodern.md", "summary": "Open when looking up KATAKANA_MODERN in InDesign.", "keywords": ["KATAKANA_MODERN"]},
+  {"topic": "KATAKANA_TRADITIONAL", "file": "document-model/numbering-style/katakanatraditional.md", "summary": "Open when looking up KATAKANA_TRADITIONAL in InDesign.", "keywords": ["KATAKANA_TRADITIONAL"]},
+  {"topic": "LOWER_LETTERS", "file": "document-model/numbering-style/lowerletters.md", "summary": "Open when looking up LOWER_LETTERS in InDesign.", "keywords": ["LOWER_LETTERS"]},
+  {"topic": "LOWER_ROMAN", "file": "document-model/numbering-style/lowerroman.md", "summary": "Open when looking up LOWER_ROMAN in InDesign.", "keywords": ["LOWER_ROMAN"]},
+  {"topic": "SINGLE_LEADING_ZEROS", "file": "document-model/numbering-style/singleleadingzeros.md", "summary": "Open when looking up SINGLE_LEADING_ZEROS in InDesign.", "keywords": ["SINGLE_LEADING_ZEROS"]},
+  {"topic": "TRIPLE_LEADING_ZEROS", "file": "document-model/numbering-style/tripleleadingzeros.md", "summary": "Open when looking up TRIPLE_LEADING_ZEROS in InDesign.", "keywords": ["TRIPLE_LEADING_ZEROS"]},
+  {"topic": "UPPER_LETTERS", "file": "document-model/numbering-style/upperletters.md", "summary": "Open when looking up UPPER_LETTERS in InDesign.", "keywords": ["UPPER_LETTERS"]},
+  {"topic": "UPPER_ROMAN", "file": "document-model/numbering-style/upperroman.md", "summary": "Open when looking up UPPER_ROMAN in InDesign.", "keywords": ["UPPER_ROMAN"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

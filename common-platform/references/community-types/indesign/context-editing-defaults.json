@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "AutoCorrectPreference", "file": "references/community-types/indesign/auto-correct-preference.md", "summary": "Open when looking up AutoCorrectPreference in Shared Adobe platform.", "keywords": ["AutoCorrectPreference"]},
-  {"topic": "AutoCorrectTable", "file": "references/community-types/indesign/auto-correct-table.md", "summary": "Open when looking up AutoCorrectTable in Shared Adobe platform.", "keywords": ["AutoCorrectTable"]},
-  {"topic": "AutoCorrectTables", "file": "references/community-types/indesign/auto-correct-tables.md", "summary": "Open when looking up AutoCorrectTables in Shared Adobe platform.", "keywords": ["AutoCorrectTables"]},
-  {"topic": "ClipboardPreference", "file": "references/community-types/indesign/clipboard-preference.md", "summary": "Open when looking up ClipboardPreference in Shared Adobe platform.", "keywords": ["ClipboardPreference"]},
-  {"topic": "SpellPreference", "file": "references/community-types/indesign/spell-preference.md", "summary": "Open when looking up SpellPreference in Shared Adobe platform.", "keywords": ["SpellPreference"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

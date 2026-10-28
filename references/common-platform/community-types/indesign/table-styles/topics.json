@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "TableStyles collection iteration", "file": "community-types/indesign/table-styles/collection-iteration.md", "summary": "Open when looking up TableStyles collection iteration in Shared Adobe platform.", "keywords": ["TableStyles collection iteration"]},
+  {"topic": "TableStyles declaration", "file": "community-types/indesign/table-styles/declaration.md", "summary": "Open when looking up TableStyles declaration in Shared Adobe platform.", "keywords": ["TableStyles declaration"]},
+  {"topic": "TableStyles named and indexed items", "file": "community-types/indesign/table-styles/named-and-indexed-items.md", "summary": "Open when looking up TableStyles named and indexed items in Shared Adobe platform.", "keywords": ["TableStyles named and indexed items"]},
+  {"topic": "TableStyles.add", "file": "community-types/indesign/table-styles/add.md", "summary": "Open when looking up TableStyles.add in Shared Adobe platform.", "keywords": ["TableStyles.add"]},
+  {"topic": "TableStyles.count", "file": "community-types/indesign/table-styles/count.md", "summary": "Open when looking up TableStyles.count in Shared Adobe platform.", "keywords": ["TableStyles.count"]},
+  {"topic": "TableStyles.IndexSignature", "file": "community-types/indesign/table-styles/index-signature.md", "summary": "Open when looking up TableStyles.IndexSignature in Shared Adobe platform.", "keywords": ["TableStyles.IndexSignature"]},
+  {"topic": "TableStyles.itemByRange", "file": "community-types/indesign/table-styles/item-by-range.md", "summary": "Open when looking up TableStyles.itemByRange in Shared Adobe platform.", "keywords": ["TableStyles.itemByRange"]},
+  {"topic": "TableStyles.length", "file": "community-types/indesign/table-styles/length.md", "summary": "Open when looking up TableStyles.length in Shared Adobe platform.", "keywords": ["TableStyles.length"]},
+  {"topic": "TableStyles.toSource", "file": "community-types/indesign/table-styles/to-source.md", "summary": "Open when looking up TableStyles.toSource in Shared Adobe platform.", "keywords": ["TableStyles.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Footage references", "file": "desktop/import-files/footage/reference-index.md", "summary": "Open when looking up Footage in After Effects.", "keywords": ["Footage references"]},
+  {"topic": "Import and add 3 d models references", "file": "desktop/import-files/3d-models/reference-index.md", "summary": "Open when looking up Import and add 3 d models in After Effects.", "keywords": ["Import and add 3 d models references"]},
+  {"topic": "Import svg files references", "file": "desktop/import-files/import-svg-files/reference-index.md", "summary": "Open when looking up Import svg files in After Effects.", "keywords": ["Import svg files references"]},
+  {"topic": "Interlaced video and separating fields references", "file": "desktop/import-files/interlacing/reference-index.md", "summary": "Open when looking up Interlaced video and separating fields in After Effects.", "keywords": ["Interlaced video and separating fields references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

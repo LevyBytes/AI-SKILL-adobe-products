@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Managing control titles - Title character width and justification", "file": "scripting/title-character-width-and-justification/title-character-width-and-justification.md", "summary": "Open when looking up Managing control titles - Title character width and justification in Shared Adobe platform.", "keywords": ["Managing control titles - Title character width and justification"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

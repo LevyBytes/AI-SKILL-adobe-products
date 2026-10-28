@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "First-Party Effect Match Names - CINEMA 4D", "file": "scripting/cinema-4-d/first-party-effect-match-names-cinema-4-d.md", "summary": "Open when looking up First-Party Effect Match Names - CINEMA 4D in After Effects.", "keywords": ["First-Party Effect Match Names - CINEMA 4D"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

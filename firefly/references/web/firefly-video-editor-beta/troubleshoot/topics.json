@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "firefly", "topics": [
-  {"topic": "Can't generate videos in Firefly video editor", "file": "references/web/firefly-video-editor-beta/troubleshoot/can-t-generate-videos-in-firefly-video-editor.md", "summary": "Open when looking up Can't generate videos in Firefly video editor in Firefly.", "keywords": ["Can't generate videos in Firefly video editor"]},
-  {"topic": "Can't generate videos in Firefly video editor references", "file": "references/web/firefly-video-editor-beta/troubleshoot/video-generation-failures/reference-index.md", "summary": "Open when looking up Can't generate videos in Firefly video editor in Firefly.", "keywords": ["Can't generate videos in Firefly video editor references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

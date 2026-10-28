@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "asynchronousExportFile", "file": "document-model/multi-state-object/asynchronous-export-file.md", "summary": "Open when looking up asynchronousExportFile in InDesign.", "keywords": ["asynchronousExportFile"]},
+  {"topic": "exportFile", "file": "document-model/multi-state-object/export-file.md", "summary": "Open when looking up exportFile in InDesign.", "keywords": ["exportFile"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

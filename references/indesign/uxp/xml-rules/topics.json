@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Setting up a sample document", "file": "uxp/xml-rules/setting-up-a-sample-document.md", "summary": "Open when looking up Setting up a sample document in InDesign.", "keywords": ["Setting up a sample document"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

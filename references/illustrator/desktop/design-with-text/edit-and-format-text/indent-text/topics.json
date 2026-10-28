@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Create a hanging indent", "file": "desktop/design-with-text/edit-and-format-text/indent-text/create-a-hanging-indent.md", "summary": "Open when looking up Create a hanging indent in Illustrator.", "keywords": ["Create a hanging indent"]},
+  {"topic": "Set an indent using the Tabs panel", "file": "desktop/design-with-text/edit-and-format-text/indent-text/set-an-indent-using-the-tabs-panel.md", "summary": "Open when looking up Set an indent using the Tabs panel in Illustrator.", "keywords": ["Set an indent using the Tabs panel"]},
+  {"topic": "Set indents using the Paragraph panel", "file": "desktop/design-with-text/edit-and-format-text/indent-text/set-indents-using-the-paragraph-panel.md", "summary": "Open when looking up Set indents using the Paragraph panel in Illustrator.", "keywords": ["Set indents using the Paragraph panel"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

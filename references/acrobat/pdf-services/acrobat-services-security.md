@@ -1,0 +1,3 @@
+PDF Services processes document content on a server. Review the [asset lifecycle](acrobat-services-security/acrobat-services-data-flow-diagram.md) to distinguish credential handling, transfer, processing and result retention. Check [password and permission requirements](acrobat-services-security/pdf-document-security-and-permissions.md) before choosing an operation.
+
+Use the [security reference](acrobat-services-security/reference-index.md) for storage options, transport encryption, privacy and compliance resources. Browser viewer isolation belongs to [PDF Embed's iframe controls](../pdf-embed/acrobat-services-security/iframe-security.md).

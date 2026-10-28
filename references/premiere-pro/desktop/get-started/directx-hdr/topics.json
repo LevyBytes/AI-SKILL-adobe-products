@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Set up Premiere for Directx HDR", "file": "desktop/get-started/directx-hdr/set-up-premiere-for-directx-hdr.md", "summary": "Open when looking up Set up Premiere for Directx HDR in Premiere Pro.", "keywords": ["Set up Premiere for Directx HDR"]},
+  {"topic": "Supported and unsupported features with Directx HDR in Premiere", "file": "desktop/get-started/directx-hdr/directx-hdr-feature-support.md", "summary": "Open when looking up Supported and unsupported features with Directx HDR in Premiere in Premiere Pro.", "keywords": ["Supported and unsupported features with Directx HDR in Premiere"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

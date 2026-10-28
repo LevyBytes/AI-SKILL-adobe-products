@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "audition", "topics": [
-  {"topic": "Audition on Apple M1 ARM", "file": "references/desktop/release-history/feature-summary-adobe-audition-october-and-may-releases/audition-on-apple-m1-arm.md", "summary": "Open when looking up Audition on Apple M1 ARM in Audition.", "keywords": ["Audition on Apple M1 ARM"]},
-  {"topic": "New Loudness Meter", "file": "references/desktop/release-history/feature-summary-adobe-audition-october-and-may-releases/new-loudness-meter.md", "summary": "Open when looking up New Loudness Meter in Audition.", "keywords": ["New Loudness Meter"]},
-  {"topic": "Strip Silence", "file": "references/desktop/release-history/feature-summary-adobe-audition-october-and-may-releases/strip-silence.md", "summary": "Open when looking up Strip Silence in Audition.", "keywords": ["Strip Silence"]},
-  {"topic": "Unified Version numbers", "file": "references/desktop/release-history/feature-summary-adobe-audition-october-and-may-releases/unified-version-numbers.md", "summary": "Open when looking up Unified Version numbers in Audition.", "keywords": ["Unified Version numbers"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

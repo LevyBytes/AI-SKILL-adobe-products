@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Set language for selected text", "file": "desktop/language-and-proofing/language-settings/set-language-for-text-frames-and-styles/set-language-for-selected-text.md", "summary": "Open when looking up Set language for selected text in InDesign.", "keywords": ["Set language for selected text"]},
+  {"topic": "Set language in paragraph or character styles", "file": "desktop/language-and-proofing/language-settings/set-language-for-text-frames-and-styles/set-language-in-paragraph-or-character-styles.md", "summary": "Open when looking up Set language in paragraph or character styles in InDesign.", "keywords": ["Set language in paragraph or character styles"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

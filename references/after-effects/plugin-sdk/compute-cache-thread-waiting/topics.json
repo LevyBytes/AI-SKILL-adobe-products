@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Compute Cache API - Impact of wait_for_other_threadB on AEGP_ComputeIfNeededAndCheckout", "file": "plugin-sdk/compute-cache-thread-waiting/compute-cache-thread-waiting.md", "summary": "Open when looking up Compute Cache API - Impact of wait_for_other_threadB on AEGP_ComputeIfNeededAndCheckout in After Effects.", "keywords": ["Compute Cache API - Impact of wait_for_other_threadB on AEGP_ComputeIfNeededAndCheckout"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

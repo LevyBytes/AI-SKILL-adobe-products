@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Call isWindowVisible API", "file": "cep/cep-12/call-is-window-visible-api.md", "summary": "Open when looking up Call isWindowVisible API in Shared Adobe platform.", "keywords": ["Call isWindowVisible API"]},
+  {"topic": "Changing Extension Content Size", "file": "cep/cep-12/changing-extension-content-size.md", "summary": "Open when looking up Changing Extension Content Size in Shared Adobe platform.", "keywords": ["Changing Extension Content Size"]},
+  {"topic": "Dialog Size based on Screen Size", "file": "cep/cep-12/dialog-size-based-on-screen-size.md", "summary": "Open when looking up Dialog Size based on Screen Size in Shared Adobe platform.", "keywords": ["Dialog Size based on Screen Size"]},
+  {"topic": "Extension Size", "file": "cep/cep-12/extension-size.md", "summary": "Open when looking up Extension Size in Shared Adobe platform.", "keywords": ["Extension Size"]},
+  {"topic": "Getting Extension Content Size", "file": "cep/cep-12/getting-extension-content-size.md", "summary": "Open when looking up Getting Extension Content Size in Shared Adobe platform.", "keywords": ["Getting Extension Content Size"]},
+  {"topic": "Invisible HTML Extensions", "file": "cep/cep-12/invisible-html-extensions.md", "summary": "Open when looking up Invisible HTML Extensions in Shared Adobe platform.", "keywords": ["Invisible HTML Extensions"]},
+  {"topic": "Scroll bar tips", "file": "cep/cep-12/scroll-bar-tips.md", "summary": "Open when looking up Scroll bar tips in Shared Adobe platform.", "keywords": ["Scroll bar tips"]},
+  {"topic": "Set and Get the title of the extension windows", "file": "cep/cep-12/set-and-get-the-title-of-the-extension-windows.md", "summary": "Open when looking up Set and Get the title of the extension windows in Shared Adobe platform.", "keywords": ["Set and Get the title of the extension windows"]},
+  {"topic": "Two ways to get HTML extension window", "file": "cep/cep-12/two-ways-to-get-html-extension-window.md", "summary": "Open when looking up Two ways to get HTML extension window in Shared Adobe platform.", "keywords": ["Two ways to get HTML extension window"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

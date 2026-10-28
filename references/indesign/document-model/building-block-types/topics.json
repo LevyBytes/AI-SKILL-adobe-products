@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "BOOKMARK_NAME_BUILDING_BLOCK", "file": "document-model/building-block-types/bookmarknamebuildingblock.md", "summary": "Open when looking up BOOKMARK_NAME_BUILDING_BLOCK in InDesign.", "keywords": ["BOOKMARK_NAME_BUILDING_BLOCK"]},
+  {"topic": "CHAPTER_NUMBER_BUILDING_BLOCK", "file": "document-model/building-block-types/chapternumberbuildingblock.md", "summary": "Open when looking up CHAPTER_NUMBER_BUILDING_BLOCK in InDesign.", "keywords": ["CHAPTER_NUMBER_BUILDING_BLOCK"]},
+  {"topic": "CUSTOM_STRING_BUILDING_BLOCK", "file": "document-model/building-block-types/customstringbuildingblock.md", "summary": "Open when looking up CUSTOM_STRING_BUILDING_BLOCK in InDesign.", "keywords": ["CUSTOM_STRING_BUILDING_BLOCK"]},
+  {"topic": "FILE_NAME_BUILDING_BLOCK", "file": "document-model/building-block-types/filenamebuildingblock.md", "summary": "Open when looking up FILE_NAME_BUILDING_BLOCK in InDesign.", "keywords": ["FILE_NAME_BUILDING_BLOCK"]},
+  {"topic": "FULL_PARAGRAPH_BUILDING_BLOCK", "file": "document-model/building-block-types/fullparagraphbuildingblock.md", "summary": "Open when looking up FULL_PARAGRAPH_BUILDING_BLOCK in InDesign.", "keywords": ["FULL_PARAGRAPH_BUILDING_BLOCK"]},
+  {"topic": "PAGE_NUMBER_BUILDING_BLOCK", "file": "document-model/building-block-types/pagenumberbuildingblock.md", "summary": "Open when looking up PAGE_NUMBER_BUILDING_BLOCK in InDesign.", "keywords": ["PAGE_NUMBER_BUILDING_BLOCK"]},
+  {"topic": "PARAGRAPH_NUMBER_BUILDING_BLOCK", "file": "document-model/building-block-types/paragraphnumberbuildingblock.md", "summary": "Open when looking up PARAGRAPH_NUMBER_BUILDING_BLOCK in InDesign.", "keywords": ["PARAGRAPH_NUMBER_BUILDING_BLOCK"]},
+  {"topic": "PARAGRAPH_TEXT_BUILDING_BLOCK", "file": "document-model/building-block-types/paragraphtextbuildingblock.md", "summary": "Open when looking up PARAGRAPH_TEXT_BUILDING_BLOCK in InDesign.", "keywords": ["PARAGRAPH_TEXT_BUILDING_BLOCK"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

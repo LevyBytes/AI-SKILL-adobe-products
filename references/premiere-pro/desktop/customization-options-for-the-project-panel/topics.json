@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Freeform View", "file": "desktop/customization-options-for-the-project-panel/freeform-view.md", "summary": "Open when looking up Freeform View in Premiere Pro.", "keywords": ["Freeform View"]},
+  {"topic": "Icon View", "file": "desktop/customization-options-for-the-project-panel/icon-view.md", "summary": "Open when looking up Icon View in Premiere Pro.", "keywords": ["Icon View"]},
+  {"topic": "List View", "file": "desktop/customization-options-for-the-project-panel/list-view.md", "summary": "Open when looking up List View in Premiere Pro.", "keywords": ["List View"]},
+  {"topic": "Review Project panel views, controls, and settings.", "file": "desktop/customization-options-for-the-project-panel/review-project-panel-views-controls-and-settings.md", "summary": "Open when looking up Review Project panel views, controls, and settings. in Premiere Pro.", "keywords": ["Review Project panel views, controls, and settings."]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

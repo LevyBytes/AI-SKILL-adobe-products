@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "FindTransliteratePreference.preferences", "file": "references/community-types/indesign/find-transliterate-preference/preferences.md", "summary": "Open when looking up FindTransliteratePreference.preferences in Shared Adobe platform.", "keywords": ["FindTransliteratePreference.preferences"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

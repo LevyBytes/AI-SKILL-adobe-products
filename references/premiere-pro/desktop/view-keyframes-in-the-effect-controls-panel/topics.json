@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "View keyframes that have been added to the Effect Controls panel.", "file": "desktop/view-keyframes-in-the-effect-controls-panel/effect-controls-keyframe-display.md", "summary": "Open when looking up View keyframes that have been added to the Effect Controls panel. in Premiere Pro.", "keywords": ["View keyframes that have been added to the Effect Controls panel."]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

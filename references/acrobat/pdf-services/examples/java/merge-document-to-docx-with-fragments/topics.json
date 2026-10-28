@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Merge document to docx with fragments example setup", "file": "pdf-services/examples/java/merge-document-to-docx-with-fragments/merge-document-to-docx-with-fragments-setup.md", "summary": "Open when looking up Merge document to docx with fragments example setup in Acrobat.", "keywords": ["Merge document to docx with fragments example setup"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Control how styles affect objects", "file": "references/desktop/graphics-and-media/manage-object-styles/about-object-styles/control-how-styles-affect-objects.md", "summary": "Open when looking up Control how styles affect objects in InDesign.", "keywords": ["Control how styles affect objects"]},
-  {"topic": "Object style categories", "file": "references/desktop/graphics-and-media/manage-object-styles/about-object-styles/object-style-categories.md", "summary": "Open when looking up Object style categories in InDesign.", "keywords": ["Object style categories"]},
-  {"topic": "Use default object styles", "file": "references/desktop/graphics-and-media/manage-object-styles/about-object-styles/use-default-object-styles.md", "summary": "Open when looking up Use default object styles in InDesign.", "keywords": ["Use default object styles"]},
-  {"topic": "Use object styles with frame grids and related styles", "file": "references/desktop/graphics-and-media/manage-object-styles/about-object-styles/use-object-styles-with-frame-grids-and-related-styles.md", "summary": "Open when looking up Use object styles with frame grids and related styles in InDesign.", "keywords": ["Use object styles with frame grids and related styles"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

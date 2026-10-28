@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "View Color grade job status and details", "file": "web/enterprise/creative-production/color-grade-multiple-images-simultaneously/view-color-grade-job-status-and-details.md", "summary": "Open when looking up View Color grade job status and details in Firefly.", "keywords": ["View Color grade job status and details"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

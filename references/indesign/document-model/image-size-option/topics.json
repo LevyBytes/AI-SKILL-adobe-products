@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "SIZE_FIXED", "file": "document-model/image-size-option/sizefixed.md", "summary": "Open when looking up SIZE_FIXED in InDesign.", "keywords": ["SIZE_FIXED"]},
+  {"topic": "SIZE_RELATIVE_TO_TEXT_FLOW", "file": "document-model/image-size-option/sizerelativetotextflow.md", "summary": "Open when looking up SIZE_RELATIVE_TO_TEXT_FLOW in InDesign.", "keywords": ["SIZE_RELATIVE_TO_TEXT_FLOW"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

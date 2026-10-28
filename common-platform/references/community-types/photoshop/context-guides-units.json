@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Guide", "file": "references/community-types/photoshop/guide.md", "summary": "Open when looking up Guide in Shared Adobe platform.", "keywords": ["Guide"]},
-  {"topic": "Guides", "file": "references/community-types/photoshop/guides.md", "summary": "Open when looking up Guides in Shared Adobe platform.", "keywords": ["Guides"]},
-  {"topic": "GuideLineStyle", "file": "references/community-types/photoshop/guide-line-style.md", "summary": "Open when looking up GuideLineStyle in Shared Adobe platform.", "keywords": ["GuideLineStyle"]},
-  {"topic": "GridLineStyle", "file": "references/community-types/photoshop/grid-line-style.md", "summary": "Open when looking up GridLineStyle in Shared Adobe platform.", "keywords": ["GridLineStyle"]},
-  {"topic": "GridSize", "file": "references/community-types/photoshop/grid-size.md", "summary": "Open when looking up GridSize in Shared Adobe platform.", "keywords": ["GridSize"]},
-  {"topic": "Units", "file": "references/community-types/photoshop/units.md", "summary": "Open when looking up Units in Shared Adobe platform.", "keywords": ["Units"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

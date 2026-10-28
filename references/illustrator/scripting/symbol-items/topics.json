@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "SymbolItems.add()", "file": "scripting/symbol-items/add.md", "summary": "Open when looking up SymbolItems.add() in Illustrator.", "keywords": ["SymbolItems.add()"]},
+  {"topic": "SymbolItems.getByName()", "file": "scripting/symbol-items/get-by-name.md", "summary": "Open when looking up SymbolItems.getByName() in Illustrator.", "keywords": ["SymbolItems.getByName()"]},
+  {"topic": "SymbolItems.index()", "file": "scripting/symbol-items/index.md", "summary": "Open when looking up SymbolItems.index() in Illustrator.", "keywords": ["SymbolItems.index()"]},
+  {"topic": "SymbolItems.length", "file": "scripting/symbol-items/length.md", "summary": "Open when looking up SymbolItems.length in Illustrator.", "keywords": ["SymbolItems.length"]},
+  {"topic": "SymbolItems.parent", "file": "scripting/symbol-items/parent.md", "summary": "Open when looking up SymbolItems.parent in Illustrator.", "keywords": ["SymbolItems.parent"]},
+  {"topic": "SymbolItems.removeAll()", "file": "scripting/symbol-items/remove-all.md", "summary": "Open when looking up SymbolItems.removeAll() in Illustrator.", "keywords": ["SymbolItems.removeAll()"]},
+  {"topic": "SymbolItems.typename", "file": "scripting/symbol-items/typename.md", "summary": "Open when looking up SymbolItems.typename in Illustrator.", "keywords": ["SymbolItems.typename"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

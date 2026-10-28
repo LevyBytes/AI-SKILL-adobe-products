@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "GraphicStyle.applyTo()", "file": "references/scripting/graphic-style/apply-to.md", "summary": "Open when looking up GraphicStyle.applyTo() in Illustrator.", "keywords": ["GraphicStyle.applyTo()"]},
-  {"topic": "GraphicStyle.mergeTo()", "file": "references/scripting/graphic-style/merge-to.md", "summary": "Open when looking up GraphicStyle.mergeTo() in Illustrator.", "keywords": ["GraphicStyle.mergeTo()"]},
-  {"topic": "GraphicStyle.name", "file": "references/scripting/graphic-style/name.md", "summary": "Open when looking up GraphicStyle.name in Illustrator.", "keywords": ["GraphicStyle.name"]},
-  {"topic": "GraphicStyle.parent", "file": "references/scripting/graphic-style/parent.md", "summary": "Open when looking up GraphicStyle.parent in Illustrator.", "keywords": ["GraphicStyle.parent"]},
-  {"topic": "GraphicStyle.remove()", "file": "references/scripting/graphic-style/remove.md", "summary": "Open when looking up GraphicStyle.remove() in Illustrator.", "keywords": ["GraphicStyle.remove()"]},
-  {"topic": "GraphicStyle.typename", "file": "references/scripting/graphic-style/typename.md", "summary": "Open when looking up GraphicStyle.typename in Illustrator.", "keywords": ["GraphicStyle.typename"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

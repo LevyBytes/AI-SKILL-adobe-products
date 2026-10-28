@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "characterDirection", "file": "document-model/text-default/character-direction.md", "summary": "Open when looking up characterDirection in InDesign.", "keywords": ["characterDirection"]},
+  {"topic": "diacriticPosition", "file": "document-model/text-default/diacritic-position.md", "summary": "Open when looking up diacriticPosition in InDesign.", "keywords": ["diacriticPosition"]},
+  {"topic": "digitsType", "file": "document-model/text-default/digits-type.md", "summary": "Open when looking up digitsType in InDesign.", "keywords": ["digitsType"]},
+  {"topic": "kashidas", "file": "document-model/text-default/kashidas.md", "summary": "Open when looking up kashidas in InDesign.", "keywords": ["kashidas"]},
+  {"topic": "keyboardDirection", "file": "document-model/text-default/keyboard-direction.md", "summary": "Open when looking up keyboardDirection in InDesign.", "keywords": ["keyboardDirection"]},
+  {"topic": "paragraphDirection", "file": "document-model/text-default/paragraph-direction.md", "summary": "Open when looking up paragraphDirection in InDesign.", "keywords": ["paragraphDirection"]},
+  {"topic": "paragraphKashidaWidth", "file": "document-model/text-default/paragraph-kashida-width.md", "summary": "Open when looking up paragraphKashidaWidth in InDesign.", "keywords": ["paragraphKashidaWidth"]},
+  {"topic": "xOffsetDiacritic", "file": "document-model/text-default/x-offset-diacritic.md", "summary": "Open when looking up xOffsetDiacritic in InDesign.", "keywords": ["xOffsetDiacritic"]},
+  {"topic": "yOffsetDiacritic", "file": "document-model/text-default/y-offset-diacritic.md", "summary": "Open when looking up yOffsetDiacritic in InDesign.", "keywords": ["yOffsetDiacritic"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

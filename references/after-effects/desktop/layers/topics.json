@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "3 d layers references", "file": "desktop/layers/3-d-layers/reference-index.md", "summary": "Open when looking up 3 d layers in After Effects.", "keywords": ["3 d layers references"]},
+  {"topic": "Arrangement references", "file": "desktop/layers/arrangement/reference-index.md", "summary": "Open when looking up Arrangement in After Effects.", "keywords": ["Arrangement references"]},
+  {"topic": "Blending references", "file": "desktop/layers/blending/reference-index.md", "summary": "Open when looking up Blending in After Effects.", "keywords": ["Blending references"]},
+  {"topic": "Create layers references", "file": "desktop/layers/create-layers/reference-index.md", "summary": "Open when looking up Create layers in After Effects.", "keywords": ["Create layers references"]},
+  {"topic": "Layer properties references", "file": "desktop/layers/layer-properties/reference-index.md", "summary": "Open when looking up Layer properties in After Effects.", "keywords": ["Layer properties references"]},
+  {"topic": "Manage layers references", "file": "desktop/layers/manage-layers/reference-index.md", "summary": "Open when looking up Manage layers in After Effects.", "keywords": ["Manage layers references"]},
+  {"topic": "Work with layer and composition markers references", "file": "desktop/layers/work-with-layer-and-composition-markers/reference-index.md", "summary": "Open when looking up Work with layer and composition markers in After Effects.", "keywords": ["Work with layer and composition markers references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

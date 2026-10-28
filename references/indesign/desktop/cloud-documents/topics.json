@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Cloud document management options", "file": "desktop/cloud-documents/cloud-document-management-options.md", "summary": "Open when looking up Cloud document management options in InDesign.", "keywords": ["Cloud document management options"]},
+  {"topic": "Cloud document management options references", "file": "desktop/cloud-documents/cloud-document-management-options/reference-index.md", "summary": "Open when looking up Cloud document management options in InDesign.", "keywords": ["Cloud document management options references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Edit a clipping mask", "file": "desktop/manage-objects/edit-objects/edit-clipping-masks/edit-a-clipping-mask.md", "summary": "Open when looking up Edit a clipping mask in Illustrator.", "keywords": ["Edit a clipping mask"]},
+  {"topic": "Edit paths within a clipping set", "file": "desktop/manage-objects/edit-objects/edit-clipping-masks/edit-paths-within-a-clipping-set.md", "summary": "Open when looking up Edit paths within a clipping set in Illustrator.", "keywords": ["Edit paths within a clipping set"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

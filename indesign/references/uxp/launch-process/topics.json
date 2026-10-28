@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Additional notes", "file": "references/uxp/launch-process/additional-notes.md", "summary": "Open when looking up Additional notes in InDesign.", "keywords": ["Additional notes"]},
-  {"topic": "JavaScript", "file": "references/uxp/launch-process/java-script.md", "summary": "Open when looking up JavaScript in InDesign.", "keywords": ["JavaScript"]},
-  {"topic": "Launch a process", "file": "references/uxp/launch-process/launch-a-process.md", "summary": "Open when looking up Launch a process in InDesign.", "keywords": ["Launch a process"]},
-  {"topic": "manifest", "file": "references/uxp/launch-process/manifest.md", "summary": "Open when looking up manifest in InDesign.", "keywords": ["manifest"]},
-  {"topic": "Opening a file", "file": "references/uxp/launch-process/opening-a-file.md", "summary": "Open when looking up Opening a file in InDesign.", "keywords": ["Opening a file"]},
-  {"topic": "Reference material", "file": "references/uxp/launch-process/reference-material.md", "summary": "Open when looking up Reference material in InDesign.", "keywords": ["Reference material"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

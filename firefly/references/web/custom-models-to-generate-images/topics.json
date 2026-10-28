@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "firefly", "topics": [
-  {"topic": "Generate Firefly Boards images with Custom Models.", "file": "references/web/custom-models-to-generate-images/generate-firefly-boards-images-with-custom-models.md", "summary": "Open when looking up Generate Firefly Boards images with Custom Models. in Firefly.", "keywords": ["Generate Firefly Boards images with Custom Models."]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

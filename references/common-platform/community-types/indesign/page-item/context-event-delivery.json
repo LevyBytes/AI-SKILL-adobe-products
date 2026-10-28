@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "PageItem.AFTER_PLACE", "file": "community-types/indesign/page-item/afterplace.md", "summary": "Open when looking up PageItem.AFTER_PLACE in Shared Adobe platform.", "keywords": ["PageItem.AFTER_PLACE"]},
+  {"topic": "PageItem.BEFORE_PLACE", "file": "community-types/indesign/page-item/beforeplace.md", "summary": "Open when looking up PageItem.BEFORE_PLACE in Shared Adobe platform.", "keywords": ["PageItem.BEFORE_PLACE"]},
+  {"topic": "PageItem event listeners", "file": "community-types/indesign/page-item/event-listeners.md", "summary": "Open when looking up PageItem event listeners in Shared Adobe platform.", "keywords": ["PageItem event listeners"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

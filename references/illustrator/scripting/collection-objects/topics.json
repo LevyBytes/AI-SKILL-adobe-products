@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "AppleScript", "file": "scripting/collection-objects/apple-script.md", "summary": "Open when looking up AppleScript in Illustrator.", "keywords": ["AppleScript"]},
+  {"topic": "JavaScript", "file": "scripting/collection-objects/java-script.md", "summary": "Open when looking up JavaScript in Illustrator.", "keywords": ["JavaScript"]},
+  {"topic": "VBScript", "file": "scripting/collection-objects/vb-script.md", "summary": "Open when looking up VBScript in Illustrator.", "keywords": ["VBScript"]},
+  {"topic": "Working with objects - Collection objects", "file": "scripting/collection-objects/working-with-objects-collection-objects.md", "summary": "Open when looking up Working with objects - Collection objects in Illustrator.", "keywords": ["Working with objects - Collection objects"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

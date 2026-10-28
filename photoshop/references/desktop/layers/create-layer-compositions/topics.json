@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Align layers", "file": "references/desktop/layers/create-layer-compositions/align-layers.md", "summary": "Open when looking up Align layers in Photoshop.", "keywords": ["Align layers"]},
-  {"topic": "Auto-align image layers", "file": "references/desktop/layers/create-layer-compositions/auto-align-image-layers.md", "summary": "Open when looking up Auto-align image layers in Photoshop.", "keywords": ["Auto-align image layers"]},
-  {"topic": "Distribute layers", "file": "references/desktop/layers/create-layer-compositions/distribute-layers.md", "summary": "Open when looking up Distribute layers in Photoshop.", "keywords": ["Distribute layers"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

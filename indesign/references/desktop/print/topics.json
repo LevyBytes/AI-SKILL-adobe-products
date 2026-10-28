@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Color output and separations references", "file": "references/desktop/print/color-output-and-separations/reference-index.md", "summary": "Open when looking up Color output and separations in InDesign.", "keywords": ["Color output and separations references"]},
-  {"topic": "Ink and color management references", "file": "references/desktop/print/ink-and-color-management/reference-index.md", "summary": "Open when looking up Ink and color management in InDesign.", "keywords": ["Ink and color management references"]},
-  {"topic": "Preflight references", "file": "references/desktop/print/preflight/reference-index.md", "summary": "Open when looking up Preflight in InDesign.", "keywords": ["Preflight references"]},
-  {"topic": "Print booklets references", "file": "references/desktop/print/print-booklets/reference-index.md", "summary": "Open when looking up Print booklets in InDesign.", "keywords": ["Print booklets references"]},
-  {"topic": "Print production and file creation references", "file": "references/desktop/print/print-production-and-file-creation/reference-index.md", "summary": "Open when looking up Print production and file creation in InDesign.", "keywords": ["Print production and file creation references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

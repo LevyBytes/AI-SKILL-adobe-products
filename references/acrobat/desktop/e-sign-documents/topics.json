@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Digital signatures references", "file": "desktop/e-sign-documents/digital-signatures/reference-index.md", "summary": "Open when looking up Digital signatures in Acrobat.", "keywords": ["Digital signatures references"]},
+  {"topic": "Fill and sign documents", "file": "desktop/e-sign-documents/fill-and-sign-documents.md", "summary": "Open when looking up Fill and sign documents in Acrobat.", "keywords": ["Fill and sign documents"]},
+  {"topic": "Fill and sign documents references", "file": "desktop/e-sign-documents/fill-and-sign-documents/reference-index.md", "summary": "Open when looking up Fill and sign documents in Acrobat.", "keywords": ["Fill and sign documents references"]},
+  {"topic": "Learn about Acrobat signatures", "file": "desktop/e-sign-documents/learn-about-acrobat-signatures.md", "summary": "Open when looking up Learn about Acrobat signatures in Acrobat.", "keywords": ["Learn about Acrobat signatures"]},
+  {"topic": "Learn about Acrobat signatures references", "file": "desktop/e-sign-documents/learn-about-acrobat-signatures/reference-index.md", "summary": "Open when looking up Learn about Acrobat signatures in Acrobat.", "keywords": ["Learn about Acrobat signatures references"]},
+  {"topic": "Manage digital signatures", "file": "desktop/e-sign-documents/manage-digital-signatures.md", "summary": "Open when looking up Manage digital signatures in Acrobat.", "keywords": ["Manage digital signatures"]},
+  {"topic": "Manage digital signatures references", "file": "desktop/e-sign-documents/manage-digital-signatures/reference-index.md", "summary": "Open when looking up Manage digital signatures in Acrobat.", "keywords": ["Manage digital signatures references"]},
+  {"topic": "Request e-signatures", "file": "desktop/e-sign-documents/request-e-signatures.md", "summary": "Open when looking up Request e-signatures in Acrobat.", "keywords": ["Request e-signatures"]},
+  {"topic": "Request e-signatures references", "file": "desktop/e-sign-documents/request-e-signatures/reference-index.md", "summary": "Open when looking up Request e-signatures in Acrobat.", "keywords": ["Request e-signatures references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

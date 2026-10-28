@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Action is unavailable for the file type", "file": "ai-assistant/edit-pdfs-via-chat-not-working-in-acrobat/action-is-unavailable-for-the-file-type.md", "summary": "Open when looking up Action is unavailable for the file type in Acrobat.", "keywords": ["Action is unavailable for the file type"]},
+  {"topic": "Action is unavailable in your language", "file": "ai-assistant/edit-pdfs-via-chat-not-working-in-acrobat/action-is-unavailable-in-your-language.md", "summary": "Open when looking up Action is unavailable in your language in Acrobat.", "keywords": ["Action is unavailable in your language"]},
+  {"topic": "Prompt is not recognized or returns unexpected results", "file": "ai-assistant/edit-pdfs-via-chat-not-working-in-acrobat/prompt-is-not-recognized-or-returns-unexpected-results.md", "summary": "Open when looking up Prompt is not recognized or returns unexpected results in Acrobat.", "keywords": ["Prompt is not recognized or returns unexpected results"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

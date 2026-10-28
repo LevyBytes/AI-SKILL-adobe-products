@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Content-aware prompts", "file": "ai-assistant/prompts-to-edit-pdfs-via-chat/content-aware-prompts.md", "summary": "Open when looking up Content-aware prompts in Acrobat.", "keywords": ["Content-aware prompts"]},
+  {"topic": "Multi-tool prompts", "file": "ai-assistant/prompts-to-edit-pdfs-via-chat/multi-tool-prompts.md", "summary": "Open when looking up Multi-tool prompts in Acrobat.", "keywords": ["Multi-tool prompts"]},
+  {"topic": "Prompt phrasing tips", "file": "ai-assistant/prompts-to-edit-pdfs-via-chat/prompt-phrasing-tips.md", "summary": "Open when looking up Prompt phrasing tips in Acrobat.", "keywords": ["Prompt phrasing tips"]},
+  {"topic": "Simple prompts", "file": "ai-assistant/prompts-to-edit-pdfs-via-chat/simple-prompts.md", "summary": "Open when looking up Simple prompts in Acrobat.", "keywords": ["Simple prompts"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

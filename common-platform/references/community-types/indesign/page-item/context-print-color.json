@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "PageItem.flip", "file": "references/community-types/indesign/page-item/flip.md", "summary": "Open when looking up PageItem.flip in Shared Adobe platform.", "keywords": ["PageItem.flip"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

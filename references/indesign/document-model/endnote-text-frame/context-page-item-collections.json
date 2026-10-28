@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "allGraphics", "file": "document-model/endnote-text-frame/all-graphics.md", "summary": "Open when looking up allGraphics in InDesign.", "keywords": ["allGraphics"]},
+  {"topic": "allPageItems", "file": "document-model/endnote-text-frame/all-page-items.md", "summary": "Open when looking up allPageItems in InDesign.", "keywords": ["allPageItems"]},
+  {"topic": "epstexts", "file": "document-model/endnote-text-frame/epstexts.md", "summary": "Open when looking up epstexts in InDesign.", "keywords": ["epstexts"]},
+  {"topic": "graphicLines", "file": "document-model/endnote-text-frame/graphic-lines.md", "summary": "Open when looking up graphicLines in InDesign.", "keywords": ["graphicLines"]},
+  {"topic": "graphics", "file": "document-model/endnote-text-frame/graphics.md", "summary": "Open when looking up graphics in InDesign.", "keywords": ["graphics"]},
+  {"topic": "groups", "file": "document-model/endnote-text-frame/groups.md", "summary": "Open when looking up groups in InDesign.", "keywords": ["groups"]},
+  {"topic": "ovals", "file": "document-model/endnote-text-frame/ovals.md", "summary": "Open when looking up ovals in InDesign.", "keywords": ["ovals"]},
+  {"topic": "pageItems", "file": "document-model/endnote-text-frame/page-items.md", "summary": "Open when looking up pageItems in InDesign.", "keywords": ["pageItems"]},
+  {"topic": "polygons", "file": "document-model/endnote-text-frame/polygons.md", "summary": "Open when looking up polygons in InDesign.", "keywords": ["polygons"]},
+  {"topic": "rectangles", "file": "document-model/endnote-text-frame/rectangles.md", "summary": "Open when looking up rectangles in InDesign.", "keywords": ["rectangles"]},
+  {"topic": "splineItems", "file": "document-model/endnote-text-frame/spline-items.md", "summary": "Open when looking up splineItems in InDesign.", "keywords": ["splineItems"]},
+  {"topic": "svgs", "file": "document-model/endnote-text-frame/svgs.md", "summary": "Open when looking up svgs in InDesign.", "keywords": ["svgs"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Ask questions about a PDF", "file": "ai-assistant/use-ai-assistant-to-get-answers-in-your-pdf/ask-questions-about-a-pdf.md", "summary": "Open when looking up Ask questions about a PDF in Acrobat.", "keywords": ["Ask questions about a PDF"]},
+  {"topic": "Ask questions across multiple PDFs", "file": "ai-assistant/use-ai-assistant-to-get-answers-in-your-pdf/ask-questions-across-multiple-pdfs.md", "summary": "Open when looking up Ask questions across multiple PDFs in Acrobat.", "keywords": ["Ask questions across multiple PDFs"]},
+  {"topic": "Review or reuse responses", "file": "ai-assistant/use-ai-assistant-to-get-answers-in-your-pdf/review-or-reuse-responses.md", "summary": "Open when looking up Review or reuse responses in Acrobat.", "keywords": ["Review or reuse responses"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

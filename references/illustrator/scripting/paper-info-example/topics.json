@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Looking up paper information", "file": "scripting/paper-info-example/looking-up-paper-information.md", "summary": "Open when looking up Looking up paper information in Illustrator.", "keywords": ["Looking up paper information"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

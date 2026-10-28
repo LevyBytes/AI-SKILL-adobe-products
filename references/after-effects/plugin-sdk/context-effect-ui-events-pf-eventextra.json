@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Pf context references", "file": "plugin-sdk/pf-context/reference-index.md", "summary": "Open when looking up Pf context in After Effects.", "keywords": ["Pf context references"]},
+  {"topic": "Pf effect window info references", "file": "plugin-sdk/pf-effect-window-info/reference-index.md", "summary": "Open when looking up Pf effect window info in After Effects.", "keywords": ["Pf effect window info references"]},
+  {"topic": "PF_EventExtra", "file": "plugin-sdk/pf-event-extra.md", "summary": "Open when looking up PF_EventExtra in After Effects.", "keywords": ["PF_EventExtra"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

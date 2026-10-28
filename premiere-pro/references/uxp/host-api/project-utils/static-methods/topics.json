@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "getProjectFromViewId", "file": "references/uxp/host-api/project-utils/static-methods/get-project-from-view-id.md", "summary": "Open when looking up getProjectFromViewId in Premiere Pro.", "keywords": ["getProjectFromViewId"]},
-  {"topic": "getProjectViewIds", "file": "references/uxp/host-api/project-utils/static-methods/get-project-view-ids.md", "summary": "Open when looking up getProjectViewIds in Premiere Pro.", "keywords": ["getProjectViewIds"]},
-  {"topic": "getSelection", "file": "references/uxp/host-api/project-utils/static-methods/get-selection.md", "summary": "Open when looking up getSelection in Premiere Pro.", "keywords": ["getSelection"]},
-  {"topic": "getSelectionFromViewId", "file": "references/uxp/host-api/project-utils/static-methods/get-selection-from-view-id.md", "summary": "Open when looking up getSelectionFromViewId in Premiere Pro.", "keywords": ["getSelectionFromViewId"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

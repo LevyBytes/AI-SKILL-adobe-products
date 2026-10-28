@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Apply freeform gradients using Lines", "file": "desktop/paint-and-fill/create-and-edit-gradients/apply-freeform-gradients/apply-freeform-gradients-using-lines.md", "summary": "Open when looking up Apply freeform gradients using Lines in Illustrator.", "keywords": ["Apply freeform gradients using Lines"]},
+  {"topic": "Apply freeform gradients using Points", "file": "desktop/paint-and-fill/create-and-edit-gradients/apply-freeform-gradients/apply-freeform-gradients-using-points.md", "summary": "Open when looking up Apply freeform gradients using Points in Illustrator.", "keywords": ["Apply freeform gradients using Points"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

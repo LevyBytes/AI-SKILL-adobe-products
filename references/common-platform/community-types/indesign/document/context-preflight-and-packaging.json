@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Document.activeProcess", "file": "community-types/indesign/document/active-process.md", "summary": "Open when looking up Document.activeProcess in Shared Adobe platform.", "keywords": ["Document.activeProcess"]},
+  {"topic": "Document.packageForPrint", "file": "community-types/indesign/document/package-for-print.md", "summary": "Open when looking up Document.packageForPrint in Shared Adobe platform.", "keywords": ["Document.packageForPrint"]},
+  {"topic": "Document.preflightOptions", "file": "community-types/indesign/document/preflight-options.md", "summary": "Open when looking up Document.preflightOptions in Shared Adobe platform.", "keywords": ["Document.preflightOptions"]},
+  {"topic": "Document.preflightProfiles", "file": "community-types/indesign/document/preflight-profiles.md", "summary": "Open when looking up Document.preflightProfiles in Shared Adobe platform.", "keywords": ["Document.preflightProfiles"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

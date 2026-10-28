@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Custom UI & Drawbot - Redrawing", "file": "plugin-sdk/redrawing/custom-ui-drawbot-redrawing.md", "summary": "Open when looking up Custom UI & Drawbot - Redrawing in After Effects.", "keywords": ["Custom UI & Drawbot - Redrawing"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

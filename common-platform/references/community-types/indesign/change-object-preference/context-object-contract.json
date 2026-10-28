@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "ChangeObjectPreference declaration", "file": "references/community-types/indesign/change-object-preference/declaration.md", "summary": "Open when looking up ChangeObjectPreference declaration in Shared Adobe platform.", "keywords": ["ChangeObjectPreference declaration"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

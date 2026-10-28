@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Adjust preferences", "file": "desktop/get-started/settings-and-preferences/adjust-preferences.md", "summary": "Open when looking up Adjust preferences in Photoshop.", "keywords": ["Adjust preferences"]},
+  {"topic": "Backup and restore preferences", "file": "desktop/get-started/settings-and-preferences/backup-and-restore-preferences.md", "summary": "Open when looking up Backup and restore preferences in Photoshop.", "keywords": ["Backup and restore preferences"]},
+  {"topic": "Backup and restore preferences references", "file": "desktop/get-started/settings-and-preferences/backup-and-restore-preferences/reference-index.md", "summary": "Open when looking up Backup and restore preferences in Photoshop.", "keywords": ["Backup and restore preferences references"]},
+  {"topic": "Change tool pointers", "file": "desktop/get-started/settings-and-preferences/change-tool-pointers.md", "summary": "Open when looking up Change tool pointers in Photoshop.", "keywords": ["Change tool pointers"]},
+  {"topic": "Reset preferences", "file": "desktop/get-started/settings-and-preferences/reset-preferences.md", "summary": "Open when looking up Reset preferences in Photoshop.", "keywords": ["Reset preferences"]},
+  {"topic": "Reset preferences references", "file": "desktop/get-started/settings-and-preferences/reset-preferences/reference-index.md", "summary": "Open when looking up Reset preferences in Photoshop.", "keywords": ["Reset preferences references"]},
+  {"topic": "View keyboard shortcuts", "file": "desktop/get-started/settings-and-preferences/view-keyboard-shortcuts.md", "summary": "Open when looking up View keyboard shortcuts in Photoshop.", "keywords": ["View keyboard shortcuts"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

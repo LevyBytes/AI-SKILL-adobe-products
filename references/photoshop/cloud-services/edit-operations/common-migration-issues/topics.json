@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Invalid parameter names", "file": "cloud-services/edit-operations/common-migration-issues/invalid-parameter-names.md", "summary": "Open when looking up Invalid parameter names in Photoshop.", "keywords": ["Invalid parameter names"]},
+  {"topic": "Missing media type", "file": "cloud-services/edit-operations/common-migration-issues/missing-media-type.md", "summary": "Open when looking up Missing media type in Photoshop.", "keywords": ["Missing media type"]},
+  {"topic": "Storage parameter not recognized", "file": "cloud-services/edit-operations/common-migration-issues/storage-parameter-not-recognized.md", "summary": "Open when looking up Storage parameter not recognized in Photoshop.", "keywords": ["Storage parameter not recognized"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

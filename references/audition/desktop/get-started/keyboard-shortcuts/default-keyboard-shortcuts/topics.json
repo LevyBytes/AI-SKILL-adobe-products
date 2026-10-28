@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/audition", "topics": [
+  {"topic": "Keys for editing audio files", "file": "desktop/get-started/keyboard-shortcuts/default-keyboard-shortcuts/keys-for-editing-audio-files.md", "summary": "Open when looking up Keys for editing audio files in Audition.", "keywords": ["Keys for editing audio files"]},
+  {"topic": "Keys for mixing multitrack sessions", "file": "desktop/get-started/keyboard-shortcuts/default-keyboard-shortcuts/keys-for-mixing-multitrack-sessions.md", "summary": "Open when looking up Keys for mixing multitrack sessions in Audition.", "keywords": ["Keys for mixing multitrack sessions"]},
+  {"topic": "Keys for playing and zooming audio", "file": "desktop/get-started/keyboard-shortcuts/default-keyboard-shortcuts/keys-for-playing-and-zooming-audio.md", "summary": "Open when looking up Keys for playing and zooming audio in Audition.", "keywords": ["Keys for playing and zooming audio"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

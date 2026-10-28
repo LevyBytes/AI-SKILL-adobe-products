@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Tips & Tricks - Arbitrary Data", "file": "plugin-sdk/arbitrary-data/tips-tricks-arbitrary-data.md", "summary": "Open when looking up Tips & Tricks - Arbitrary Data in After Effects.", "keywords": ["Tips & Tricks - Arbitrary Data"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

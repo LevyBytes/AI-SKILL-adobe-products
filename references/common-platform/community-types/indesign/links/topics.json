@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Links collection iteration", "file": "community-types/indesign/links/collection-iteration.md", "summary": "Open when looking up Links collection iteration in Shared Adobe platform.", "keywords": ["Links collection iteration"]},
+  {"topic": "Links declaration", "file": "community-types/indesign/links/declaration.md", "summary": "Open when looking up Links declaration in Shared Adobe platform.", "keywords": ["Links declaration"]},
+  {"topic": "Links named and indexed items", "file": "community-types/indesign/links/named-and-indexed-items.md", "summary": "Open when looking up Links named and indexed items in Shared Adobe platform.", "keywords": ["Links named and indexed items"]},
+  {"topic": "Links.count", "file": "community-types/indesign/links/count.md", "summary": "Open when looking up Links.count in Shared Adobe platform.", "keywords": ["Links.count"]},
+  {"topic": "Links.IndexSignature", "file": "community-types/indesign/links/index-signature.md", "summary": "Open when looking up Links.IndexSignature in Shared Adobe platform.", "keywords": ["Links.IndexSignature"]},
+  {"topic": "Links.itemByRange", "file": "community-types/indesign/links/item-by-range.md", "summary": "Open when looking up Links.itemByRange in Shared Adobe platform.", "keywords": ["Links.itemByRange"]},
+  {"topic": "Links.length", "file": "community-types/indesign/links/length.md", "summary": "Open when looking up Links.length in Shared Adobe platform.", "keywords": ["Links.length"]},
+  {"topic": "Links.toSource", "file": "community-types/indesign/links/to-source.md", "summary": "Open when looking up Links.toSource in Shared Adobe platform.", "keywords": ["Links.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

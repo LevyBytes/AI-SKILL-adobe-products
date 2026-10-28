@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Document management options", "file": "desktop/cloud-documents/cloud-document-management-options/document-management-options.md", "summary": "Open when looking up Document management options in InDesign.", "keywords": ["Document management options"]},
+  {"topic": "Manage deleted files:", "file": "desktop/cloud-documents/cloud-document-management-options/manage-deleted-files.md", "summary": "Open when looking up Manage deleted files: in InDesign.", "keywords": ["Manage deleted files:"]},
+  {"topic": "Organization options", "file": "desktop/cloud-documents/cloud-document-management-options/organization-options.md", "summary": "Open when looking up Organization options in InDesign.", "keywords": ["Organization options"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

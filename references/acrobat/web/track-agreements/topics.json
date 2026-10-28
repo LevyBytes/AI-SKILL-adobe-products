@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Learn how to track agreements that are in progress.", "file": "web/track-agreements/learn-how-to-track-agreements-that-are-in-progress.md", "summary": "Open when looking up Learn how to track agreements that are in progress. in Acrobat.", "keywords": ["Learn how to track agreements that are in progress."]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

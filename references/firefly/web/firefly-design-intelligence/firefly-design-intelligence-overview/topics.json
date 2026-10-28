@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Creation of Style IDs", "file": "web/firefly-design-intelligence/firefly-design-intelligence-overview/creation-of-style-ids.md", "summary": "Open when looking up Creation of Style IDs in Firefly.", "keywords": ["Creation of Style IDs"]},
+  {"topic": "Generating content at scale", "file": "web/firefly-design-intelligence/firefly-design-intelligence-overview/generating-content-at-scale.md", "summary": "Open when looking up Generating content at scale in Firefly.", "keywords": ["Generating content at scale"]},
+  {"topic": "How Firefly Design Intelligence works", "file": "web/firefly-design-intelligence/firefly-design-intelligence-overview/how-firefly-design-intelligence-works.md", "summary": "Open when looking up How Firefly Design Intelligence works in Firefly.", "keywords": ["How Firefly Design Intelligence works"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Add type on path", "file": "references/desktop/add-and-manage-text/type-on-a-path/add-or-delete-type-on-path/add-type-on-path.md", "summary": "Open when looking up Add type on path in InDesign.", "keywords": ["Add type on path"]},
-  {"topic": "Delete type from path", "file": "references/desktop/add-and-manage-text/type-on-a-path/add-or-delete-type-on-path/delete-type-from-path.md", "summary": "Open when looking up Delete type from path in InDesign.", "keywords": ["Delete type from path"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Electronic seal with stamp authority example setup", "file": "pdf-services/examples/node/electronic-seal-with-stamp-authority/electronic-seal-with-stamp-authority-setup.md", "summary": "Open when looking up Electronic seal with stamp authority example setup in Acrobat.", "keywords": ["Electronic seal with stamp authority example setup"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

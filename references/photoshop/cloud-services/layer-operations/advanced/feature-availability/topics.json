@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Supported V2 layer capabilities", "file": "cloud-services/layer-operations/advanced/feature-availability/supported-v2-layer-capabilities.md", "summary": "Open when looking up Supported V2 layer capabilities in Photoshop.", "keywords": ["Supported V2 layer capabilities"]},
+  {"topic": "V1 feature parity still TBD", "file": "cloud-services/layer-operations/advanced/feature-availability/v1-feature-parity-still-tbd.md", "summary": "Open when looking up V1 feature parity still TBD in Photoshop.", "keywords": ["V1 feature parity still TBD"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

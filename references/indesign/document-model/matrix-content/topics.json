@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "ROTATION_VALUE", "file": "document-model/matrix-content/rotationvalue.md", "summary": "Open when looking up ROTATION_VALUE in InDesign.", "keywords": ["ROTATION_VALUE"]},
+  {"topic": "SCALE_VALUES", "file": "document-model/matrix-content/scalevalues.md", "summary": "Open when looking up SCALE_VALUES in InDesign.", "keywords": ["SCALE_VALUES"]},
+  {"topic": "SHEAR_VALUE", "file": "document-model/matrix-content/shearvalue.md", "summary": "Open when looking up SHEAR_VALUE in InDesign.", "keywords": ["SHEAR_VALUE"]},
+  {"topic": "TRANSLATION_VALUES", "file": "document-model/matrix-content/translationvalues.md", "summary": "Open when looking up TRANSLATION_VALUES in InDesign.", "keywords": ["TRANSLATION_VALUES"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

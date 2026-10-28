@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Cheating Effect Usage of AEGP Suites", "file": "plugin-sdk/cheating-effect-usage-of-aegp-suites.md", "summary": "Open when looking up Cheating Effect Usage of AEGP Suites in After Effects.", "keywords": ["Cheating Effect Usage of AEGP Suites"]},
+  {"topic": "Depending on aegp queries references", "file": "plugin-sdk/depending-on-aegp-queries/reference-index.md", "summary": "Open when looking up Depending on aegp queries in After Effects.", "keywords": ["Depending on aegp queries references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

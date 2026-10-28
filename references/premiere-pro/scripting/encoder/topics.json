@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Encoder object", "file": "scripting/encoder/encoder-object.md", "summary": "Open when looking up Encoder object in Premiere Pro.", "keywords": ["Encoder object"]},
+  {"topic": "Encoder.encodeFile()", "file": "scripting/encoder/encode-file.md", "summary": "Open when looking up Encoder.encodeFile() in Premiere Pro.", "keywords": ["Encoder.encodeFile()"]},
+  {"topic": "Encoder.encodeProjectItem()", "file": "scripting/encoder/encode-project-item.md", "summary": "Open when looking up Encoder.encodeProjectItem() in Premiere Pro.", "keywords": ["Encoder.encodeProjectItem()"]},
+  {"topic": "Encoder.encodeSequence()", "file": "scripting/encoder/encode-sequence.md", "summary": "Open when looking up Encoder.encodeSequence() in Premiere Pro.", "keywords": ["Encoder.encodeSequence()"]},
+  {"topic": "Encoder.launchEncoder()", "file": "scripting/encoder/launch-encoder.md", "summary": "Open when looking up Encoder.launchEncoder() in Premiere Pro.", "keywords": ["Encoder.launchEncoder()"]},
+  {"topic": "Encoder.setEmbeddedXMPEnabled()", "file": "scripting/encoder/set-embedded-xmp-enabled.md", "summary": "Open when looking up Encoder.setEmbeddedXMPEnabled() in Premiere Pro.", "keywords": ["Encoder.setEmbeddedXMPEnabled()"]},
+  {"topic": "Encoder.setSidecarXMPEnabled()", "file": "scripting/encoder/set-sidecar-xmp-enabled.md", "summary": "Open when looking up Encoder.setSidecarXMPEnabled() in Premiere Pro.", "keywords": ["Encoder.setSidecarXMPEnabled()"]},
+  {"topic": "Encoder.startBatch()", "file": "scripting/encoder/start-batch.md", "summary": "Open when looking up Encoder.startBatch() in Premiere Pro.", "keywords": ["Encoder.startBatch()"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

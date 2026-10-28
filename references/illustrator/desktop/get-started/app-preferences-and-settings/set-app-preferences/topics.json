@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Search within Preferences", "file": "desktop/get-started/app-preferences-and-settings/set-app-preferences/search-within-preferences.md", "summary": "Open when looking up Search within Preferences in Illustrator.", "keywords": ["Search within Preferences"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

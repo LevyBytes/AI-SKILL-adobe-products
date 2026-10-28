@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Hook Types", "file": "references/uxp/add-lifecycle-hooks/hook-types.md", "summary": "Open when looking up Hook Types in Premiere Pro.", "keywords": ["Hook Types"]},
-  {"topic": "Implementation", "file": "references/uxp/add-lifecycle-hooks/implementation.md", "summary": "Open when looking up Implementation in Premiere Pro.", "keywords": ["Implementation"]},
-  {"topic": "index.js", "file": "references/uxp/add-lifecycle-hooks/index-js.md", "summary": "Open when looking up index.js in Premiere Pro.", "keywords": ["index.js"]},
-  {"topic": "manifest.json", "file": "references/uxp/add-lifecycle-hooks/manifest-json.md", "summary": "Open when looking up manifest.json in Premiere Pro.", "keywords": ["manifest.json"]},
-  {"topic": "Summary", "file": "references/uxp/add-lifecycle-hooks/summary.md", "summary": "Open when looking up Summary in Premiere Pro.", "keywords": ["Summary"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

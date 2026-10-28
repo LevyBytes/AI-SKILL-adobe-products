@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Create a document using a preset", "file": "references/desktop/pages-and-books/create-documents/create-documents-with-presets/create-a-document-using-a-preset.md", "summary": "Open when looking up Create a document using a preset in InDesign.", "keywords": ["Create a document using a preset"]},
-  {"topic": "Create a new preset", "file": "references/desktop/pages-and-books/create-documents/create-documents-with-presets/create-a-new-preset.md", "summary": "Open when looking up Create a new preset in InDesign.", "keywords": ["Create a new preset"]},
-  {"topic": "Customize preset settings before creating a document", "file": "references/desktop/pages-and-books/create-documents/create-documents-with-presets/customize-preset-settings-before-creating-a-document.md", "summary": "Open when looking up Customize preset settings before creating a document in InDesign.", "keywords": ["Customize preset settings before creating a document"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

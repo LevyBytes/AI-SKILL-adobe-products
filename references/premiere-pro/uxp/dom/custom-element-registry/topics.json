@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "define(name, constructor, options)", "file": "uxp/dom/custom-element-registry/define.md", "summary": "Open when looking up define(name, constructor, options) in Premiere Pro.", "keywords": ["define(name, constructor, options)"]},
+  {"topic": "get(name)", "file": "uxp/dom/custom-element-registry/get.md", "summary": "Open when looking up get(name) in Premiere Pro.", "keywords": ["get(name)"]},
+  {"topic": "upgrade(root)", "file": "uxp/dom/custom-element-registry/upgrade.md", "summary": "Open when looking up upgrade(root) in Premiere Pro.", "keywords": ["upgrade(root)"]},
+  {"topic": "whenDefined(name)", "file": "uxp/dom/custom-element-registry/when-defined.md", "summary": "Open when looking up whenDefined(name) in Premiere Pro.", "keywords": ["whenDefined(name)"]},
+  {"topic": "window.CustomElementRegistry", "file": "uxp/dom/custom-element-registry/overview.md", "summary": "Open when looking up window.CustomElementRegistry in Premiere Pro.", "keywords": ["window.CustomElementRegistry"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

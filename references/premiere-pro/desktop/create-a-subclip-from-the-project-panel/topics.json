@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Creating a subclip from a source clip or a single-file subclip", "file": "desktop/create-a-subclip-from-the-project-panel/project-panel-subclip-creation.md", "summary": "Open when looking up Creating a subclip from a source clip or a single-file subclip in Premiere Pro.", "keywords": ["Creating a subclip from a source clip or a single-file subclip"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

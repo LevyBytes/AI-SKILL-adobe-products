@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Add a marker in the Effect Controls panel", "file": "references/desktop/organize-media/apply-labeling/add-a-marker-to-a-clip/add-a-marker-in-the-effect-controls-panel.md", "summary": "Open when looking up Add a marker in the Effect Controls panel in Premiere Pro.", "keywords": ["Add a marker in the Effect Controls panel"]},
-  {"topic": "Add a marker in the Source Monitor", "file": "references/desktop/organize-media/apply-labeling/add-a-marker-to-a-clip/add-a-marker-in-the-source-monitor.md", "summary": "Open when looking up Add a marker in the Source Monitor in Premiere Pro.", "keywords": ["Add a marker in the Source Monitor"]},
-  {"topic": "Add a marker in the Timeline", "file": "references/desktop/organize-media/apply-labeling/add-a-marker-to-a-clip/add-a-marker-in-the-timeline.md", "summary": "Open when looking up Add a marker in the Timeline in Premiere Pro.", "keywords": ["Add a marker in the Timeline"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

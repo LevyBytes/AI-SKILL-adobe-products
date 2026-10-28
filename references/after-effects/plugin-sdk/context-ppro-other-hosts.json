@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Other Hosts", "file": "plugin-sdk/other-hosts.md", "summary": "Open when looking up Other Hosts in After Effects.", "keywords": ["Other Hosts"]},
+  {"topic": "Reality sandwich references", "file": "plugin-sdk/reality-sandwich/reference-index.md", "summary": "Open when looking up Reality sandwich in After Effects.", "keywords": ["Reality sandwich references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

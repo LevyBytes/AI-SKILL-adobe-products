@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "changes", "file": "document-model/table/changes.md", "summary": "Open when looking up changes in InDesign.", "keywords": ["changes"]},
+  {"topic": "contents", "file": "document-model/table/contents.md", "summary": "Open when looking up contents in InDesign.", "keywords": ["contents"]},
+  {"topic": "convertToText", "file": "document-model/table/convert-to-text.md", "summary": "Open when looking up convertToText in InDesign.", "keywords": ["convertToText"]},
+  {"topic": "hiddenTexts", "file": "document-model/table/hidden-texts.md", "summary": "Open when looking up hiddenTexts in InDesign.", "keywords": ["hiddenTexts"]},
+  {"topic": "recompose", "file": "document-model/table/recompose.md", "summary": "Open when looking up recompose in InDesign.", "keywords": ["recompose"]},
+  {"topic": "textVariableInstances", "file": "document-model/table/text-variable-instances.md", "summary": "Open when looking up textVariableInstances in InDesign.", "keywords": ["textVariableInstances"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

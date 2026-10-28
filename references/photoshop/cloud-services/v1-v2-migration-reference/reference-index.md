@@ -1,0 +1,34 @@
+# Photoshop - V1 v2 migration reference
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Actions migration in Photoshop. [Actions migration references](actions-migration/reference-index.md).
+- Open when looking up All jobs use same endpoint quick command reference in Photoshop. [All jobs use same endpoint quick command reference references](all-jobs-use-same-endpoint-quick-command-reference/reference-index.md).
+- Open when looking up All jobs use same endpoint - V2 status response output patterns in Photoshop. [All jobs use same endpoint - V2 status response output patterns](job-output-destinations.md).
+- Open when looking up All jobs use same endpoint - V2 status response output patterns in Photoshop. [All jobs use same endpoint - V2 status response output patterns references](job-output-destinations/reference-index.md).
+- Open when looking up Appendix: Common error codes in Photoshop. [Appendix: Common error codes](common-error-codes.md).
+- Open when looking up Artboard API (/v2/create-artboard) - key breaking changes reference in Photoshop. [Artboard API (/v2/create-artboard) - key breaking changes reference](artboard-breaking-changes.md).
+- Open when looking up Artboard API (/v2/create-artboard) - key breaking changes reference in Photoshop. [Artboard API (/v2/create-artboard) - key breaking changes reference references](artboard-breaking-changes/reference-index.md).
+- Open when looking up Combine light and color edits. [Combine light and color edits](combine-light-and-color-edits.md).
+- Open when looking up Call 3 in Photoshop. [Call 3 references](call-3/reference-index.md).
+- Open when looking up Code transformation examples in Photoshop. [Code transformation examples references](code-transformation-examples/reference-index.md).
+- Open when looking up Code transformations in Photoshop. [Code transformations references](code-transformations/reference-index.md).
+- Open when looking up Common migration issues and solutions in Photoshop. [Common migration issues and solutions references](migration-issues/reference-index.md).
+- Open when looking up Composite API (/v2/create-composite) - key breaking changes reference in Photoshop. [Composite API (/v2/create-composite) - key breaking changes reference](composite-breaking-changes.md).
+- Open when looking up Composite API (/v2/create-composite) - key breaking changes reference in Photoshop. [Composite API (/v2/create-composite) - key breaking changes reference references](composite-breaking-changes/reference-index.md).
+- Open when looking up Core architectural changes in Photoshop. [Core architectural changes references](core-architectural-changes/reference-index.md).
+- Open when looking up Document version in Photoshop. [Document version](document-version.md).
+- Open when looking up Execute Actions API (/v2/execute-actions) - key breaking changes reference in Photoshop. [Execute Actions API (/v2/execute-actions) - key breaking changes reference](action-breaking-changes.md).
+- Open when looking up Execute Actions API (/v2/execute-actions) - key breaking changes reference in Photoshop. [Execute Actions API (/v2/execute-actions) - key breaking changes reference references](action-breaking-changes/reference-index.md).
+- Open when looking up ICC profile support (V2 new feature) in Photoshop. [ICC profile support (V2 new feature)](icc-profile-support-v2-new-feature.md).
+- Open when looking up ICC profile support (V2 new feature) in Photoshop. [ICC profile support (V2 new feature) references](icc-profile-support-v2-new-feature/reference-index.md).
+- Open when looking up Job status migration example in Photoshop. [Job status migration example](job-status-example.md).
+- Open when looking up Llm Migration Reference in Photoshop. [Llm Migration Reference](llm-migration-reference.md).
+- Open when looking up Migration patterns by operation type in Photoshop. [Migration patterns by operation type](migration-patterns-by-operation-type.md).
+- Open when looking up Migration patterns by operation type in Photoshop. [Migration patterns by operation type references](migration-patterns-by-operation-type/reference-index.md).
+- Open when looking up Output types migration in Photoshop. [Output types migration](output-types-migration.md).
+- Open when looking up Output types migration in Photoshop. [Output types migration references](output-types-migration/reference-index.md).
+- Open when looking up Quick reference and decision trees in Photoshop. [Quick reference and decision trees references](quick-reference-and-decision-trees/reference-index.md).
+- Open when looking up Storage solutions reference in Photoshop. [Storage solutions reference references](storage-solutions-reference/reference-index.md).
+- Open when looking up Table of contents in Photoshop. [Table of contents](table-of-contents.md).
+- Open when looking up Validation checklist in Photoshop. [Validation checklist](validation-checklist.md).
+- Open when looking up Validation checklist in Photoshop. [Validation checklist references](validation-checklist/reference-index.md).

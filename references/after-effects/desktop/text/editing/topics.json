@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Creating Editing Text Layers", "file": "desktop/text/editing/creating-editing-text-layers.md", "summary": "Open when looking up Creating Editing Text Layers in After Effects.", "keywords": ["Creating Editing Text Layers"]},
+  {"topic": "Creating Editing Text Layers references", "file": "desktop/text/editing/creating-editing-text-layers/reference-index.md", "summary": "Open when looking up Creating Editing Text Layers in After Effects.", "keywords": ["Creating Editing Text Layers references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

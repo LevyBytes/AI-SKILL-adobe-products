@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Apply [Registration] color to objects", "file": "desktop/print/color-output-and-separations/print-objects-on-all-color-plates/apply-registration-color-to-objects.md", "summary": "Open when looking up Apply [Registration] color to objects in InDesign.", "keywords": ["Apply [Registration] color to objects"]},
+  {"topic": "Verify [Registration] color in the Separations Preview panel", "file": "desktop/print/color-output-and-separations/print-objects-on-all-color-plates/verify-registration-color-in-the-separations-preview-panel.md", "summary": "Open when looking up Verify [Registration] color in the Separations Preview panel in InDesign.", "keywords": ["Verify [Registration] color in the Separations Preview panel"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

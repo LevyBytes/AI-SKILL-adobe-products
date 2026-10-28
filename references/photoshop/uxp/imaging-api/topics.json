@@ -1,0 +1,17 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "_PhotoshopImageData_", "file": "uxp/imaging-api/photoshop-image-data.md", "summary": "Open when looking up _PhotoshopImageData_ in Photoshop.", "keywords": ["_PhotoshopImageData_"]},
+  {"topic": "createImageDataFromBuffer", "file": "uxp/imaging-api/create-image-data-from-buffer.md", "summary": "Open when looking up createImageDataFromBuffer in Photoshop.", "keywords": ["createImageDataFromBuffer"]},
+  {"topic": "dispose", "file": "uxp/imaging-api/dispose.md", "summary": "Open when looking up dispose in Photoshop.", "keywords": ["dispose"]},
+  {"topic": "encodeImageData", "file": "uxp/imaging-api/encode-image-data.md", "summary": "Open when looking up encodeImageData in Photoshop.", "keywords": ["encodeImageData"]},
+  {"topic": "getData", "file": "uxp/imaging-api/get-data.md", "summary": "Open when looking up getData in Photoshop.", "keywords": ["getData"]},
+  {"topic": "getLayerMask", "file": "uxp/imaging-api/get-layer-mask.md", "summary": "Open when looking up getLayerMask in Photoshop.", "keywords": ["getLayerMask"]},
+  {"topic": "getPixels", "file": "uxp/imaging-api/get-pixels.md", "summary": "Open when looking up getPixels in Photoshop.", "keywords": ["getPixels"]},
+  {"topic": "getSelection", "file": "uxp/imaging-api/get-selection.md", "summary": "Open when looking up getSelection in Photoshop.", "keywords": ["getSelection"]},
+  {"topic": "Performance considerations", "file": "uxp/imaging-api/performance-considerations.md", "summary": "Open when looking up Performance considerations in Photoshop.", "keywords": ["Performance considerations"]},
+  {"topic": "putLayerMask", "file": "uxp/imaging-api/put-layer-mask.md", "summary": "Open when looking up putLayerMask in Photoshop.", "keywords": ["putLayerMask"]},
+  {"topic": "putPixels", "file": "uxp/imaging-api/put-pixels.md", "summary": "Open when looking up putPixels in Photoshop.", "keywords": ["putPixels"]},
+  {"topic": "putSelection", "file": "uxp/imaging-api/put-selection.md", "summary": "Open when looking up putSelection in Photoshop.", "keywords": ["putSelection"]},
+  {"topic": "Sample files", "file": "uxp/imaging-api/sample-files.md", "summary": "Open when looking up Sample files in Photoshop.", "keywords": ["Sample files"]},
+  {"topic": "Terminology and data types", "file": "uxp/imaging-api/terminology-and-data-types.md", "summary": "Open when looking up Terminology and data types in Photoshop.", "keywords": ["Terminology and data types"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

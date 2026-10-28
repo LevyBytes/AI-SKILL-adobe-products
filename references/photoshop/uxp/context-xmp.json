@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "XMP", "file": "uxp/xmp.md", "summary": "Open when looking up XMP in Photoshop.", "keywords": ["XMP"]},
+  {"topic": "XMP Classes", "file": "uxp/xmp-classes.md", "summary": "Open when looking up XMP Classes in Photoshop.", "keywords": ["XMP Classes"]},
+  {"topic": "XMP references", "file": "uxp/xmp/reference-index.md", "summary": "Open when looking up XMP in Photoshop.", "keywords": ["XMP references"]},
+  {"topic": "Xmp xmp const references", "file": "uxp/xmp-xmp-const/reference-index.md", "summary": "Open when looking up Xmp xmp const in Photoshop.", "keywords": ["Xmp xmp const references"]},
+  {"topic": "XMPFileInfo", "file": "uxp/xmp-file-info.md", "summary": "Open when looking up XMPFileInfo in Photoshop.", "keywords": ["XMPFileInfo"]},
+  {"topic": "XMPFileInfo references", "file": "uxp/xmp-file-info/reference-index.md", "summary": "Open when looking up XMPFileInfo in Photoshop.", "keywords": ["XMPFileInfo references"]},
+  {"topic": "XMPIterator", "file": "uxp/xmp-iterator.md", "summary": "Open when looking up XMPIterator in Photoshop.", "keywords": ["XMPIterator"]},
+  {"topic": "XMPIterator references", "file": "uxp/xmp-iterator/reference-index.md", "summary": "Open when looking up XMPIterator in Photoshop.", "keywords": ["XMPIterator references"]},
+  {"topic": "XMPPacketInfo", "file": "uxp/xmp-packet-info.md", "summary": "Open when looking up XMPPacketInfo in Photoshop.", "keywords": ["XMPPacketInfo"]},
+  {"topic": "XMPPacketInfo references", "file": "uxp/xmp-packet-info/reference-index.md", "summary": "Open when looking up XMPPacketInfo in Photoshop.", "keywords": ["XMPPacketInfo references"]},
+  {"topic": "XMPProperty - XMPProperty()", "file": "uxp/xmp-property-xmp-property.md", "summary": "Open when looking up XMPProperty - XMPProperty() in Photoshop.", "keywords": ["XMPProperty - XMPProperty()"]},
+  {"topic": "XMPProperty - XMPProperty() references", "file": "uxp/xmp-property-xmp-property/reference-index.md", "summary": "Open when looking up XMPProperty - XMPProperty() in Photoshop.", "keywords": ["XMPProperty - XMPProperty() references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

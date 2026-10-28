@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "add", "file": "references/uxp/host-api/path-items/add.md", "summary": "Open when looking up add in Photoshop.", "keywords": ["add"]},
-  {"topic": "getByName", "file": "references/uxp/host-api/path-items/get-by-name.md", "summary": "Open when looking up getByName in Photoshop.", "keywords": ["getByName"]},
-  {"topic": "Indexable", "file": "references/uxp/host-api/path-items/indexable.md", "summary": "Open when looking up Indexable in Photoshop.", "keywords": ["Indexable"]},
-  {"topic": "removeAll", "file": "references/uxp/host-api/path-items/remove-all.md", "summary": "Open when looking up removeAll in Photoshop.", "keywords": ["removeAll"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

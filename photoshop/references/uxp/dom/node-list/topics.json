@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "window.NodeList - NodeList(staticList, updater)", "file": "references/uxp/dom/node-list/constructor.md", "summary": "Open when looking up window.NodeList - NodeList(staticList, updater) in Photoshop.", "keywords": ["window.NodeList - NodeList(staticList, updater)"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

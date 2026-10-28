@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Document analysis", "file": "references/cloud-services/manifest-migration/use-cases/document-analysis.md", "summary": "Open when looking up Document analysis in Photoshop.", "keywords": ["Document analysis"]},
-  {"topic": "Layer preview generation", "file": "references/cloud-services/manifest-migration/use-cases/layer-preview-generation.md", "summary": "Open when looking up Layer preview generation in Photoshop.", "keywords": ["Layer preview generation"]},
-  {"topic": "Metadata extraction", "file": "references/cloud-services/manifest-migration/use-cases/metadata-extraction.md", "summary": "Open when looking up Metadata extraction in Photoshop.", "keywords": ["Metadata extraction"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

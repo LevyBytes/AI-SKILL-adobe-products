@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "allGraphics", "file": "document-model/group/all-graphics.md", "summary": "Open when looking up allGraphics in InDesign.", "keywords": ["allGraphics"]},
+  {"topic": "allPageItems", "file": "document-model/group/all-page-items.md", "summary": "Open when looking up allPageItems in InDesign.", "keywords": ["allPageItems"]},
+  {"topic": "epstexts", "file": "document-model/group/epstexts.md", "summary": "Open when looking up epstexts in InDesign.", "keywords": ["epstexts"]},
+  {"topic": "graphicLines", "file": "document-model/group/graphic-lines.md", "summary": "Open when looking up graphicLines in InDesign.", "keywords": ["graphicLines"]},
+  {"topic": "graphics", "file": "document-model/group/graphics.md", "summary": "Open when looking up graphics in InDesign.", "keywords": ["graphics"]},
+  {"topic": "groups", "file": "document-model/group/groups.md", "summary": "Open when looking up groups in InDesign.", "keywords": ["groups"]},
+  {"topic": "ovals", "file": "document-model/group/ovals.md", "summary": "Open when looking up ovals in InDesign.", "keywords": ["ovals"]},
+  {"topic": "pageItems", "file": "document-model/group/page-items.md", "summary": "Open when looking up pageItems in InDesign.", "keywords": ["pageItems"]},
+  {"topic": "polygons", "file": "document-model/group/polygons.md", "summary": "Open when looking up polygons in InDesign.", "keywords": ["polygons"]},
+  {"topic": "rectangles", "file": "document-model/group/rectangles.md", "summary": "Open when looking up rectangles in InDesign.", "keywords": ["rectangles"]},
+  {"topic": "splineItems", "file": "document-model/group/spline-items.md", "summary": "Open when looking up splineItems in InDesign.", "keywords": ["splineItems"]},
+  {"topic": "svgs", "file": "document-model/group/svgs.md", "summary": "Open when looking up svgs in InDesign.", "keywords": ["svgs"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

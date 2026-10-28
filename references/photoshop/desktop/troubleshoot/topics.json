@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "File and format issues", "file": "desktop/troubleshoot/file-and-format-issues.md", "summary": "Open when looking up File and format issues in Photoshop.", "keywords": ["File and format issues"]},
+  {"topic": "File and format issues references", "file": "desktop/troubleshoot/file-and-format-issues/reference-index.md", "summary": "Open when looking up File and format issues in Photoshop.", "keywords": ["File and format issues references"]},
+  {"topic": "Performance and stability issues", "file": "desktop/troubleshoot/performance-and-stability-issues.md", "summary": "Open when looking up Performance and stability issues in Photoshop.", "keywords": ["Performance and stability issues"]},
+  {"topic": "Performance and stability issues references", "file": "desktop/troubleshoot/performance-and-stability/reference-index.md", "summary": "Open when looking up Performance and stability issues in Photoshop.", "keywords": ["Performance and stability issues references"]},
+  {"topic": "Tool and feature issues", "file": "desktop/troubleshoot/tool-and-feature-issues.md", "summary": "Open when looking up Tool and feature issues in Photoshop.", "keywords": ["Tool and feature issues"]},
+  {"topic": "Tool and feature issues references", "file": "desktop/troubleshoot/tool-and-feature-issues/reference-index.md", "summary": "Open when looking up Tool and feature issues in Photoshop.", "keywords": ["Tool and feature issues references"]},
+  {"topic": "Tools and resources", "file": "desktop/troubleshoot/tools-and-resources.md", "summary": "Open when looking up Tools and resources in Photoshop.", "keywords": ["Tools and resources"]},
+  {"topic": "Tools and resources references", "file": "desktop/troubleshoot/tools-and-resources/reference-index.md", "summary": "Open when looking up Tools and resources in Photoshop.", "keywords": ["Tools and resources references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

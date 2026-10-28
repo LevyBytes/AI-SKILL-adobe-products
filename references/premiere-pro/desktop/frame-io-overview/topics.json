@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Collaborating on video edits and collecting feedback with Frame.io.", "file": "desktop/frame-io-overview/frame-io-edit-review.md", "summary": "Open when looking up Collaborating on video edits and collecting feedback with Frame.io. in Premiere Pro.", "keywords": ["Collaborating on video edits and collecting feedback with Frame.io."]},
+  {"topic": "Frame.io panel in Premiere and After Effects", "file": "desktop/frame-io-overview/frame-io-panel-in-premiere-and-after-effects.md", "summary": "Open when looking up Frame.io panel in Premiere and After Effects in Premiere Pro.", "keywords": ["Frame.io panel in Premiere and After Effects"]},
+  {"topic": "Frame.io web app", "file": "desktop/frame-io-overview/frame-io-web-app.md", "summary": "Open when looking up Frame.io web app in Premiere Pro.", "keywords": ["Frame.io web app"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Boris FX", "file": "desktop/plugins/vendors/boris-fx.md", "summary": "Open when looking up Boris FX in After Effects.", "keywords": ["Boris FX"]},
+  {"topic": "CycoreFX", "file": "desktop/plugins/vendors/cycore-fx.md", "summary": "Open when looking up CycoreFX in After Effects.", "keywords": ["CycoreFX"]},
+  {"topic": "DataClay", "file": "desktop/plugins/vendors/data-clay.md", "summary": "Open when looking up DataClay in After Effects.", "keywords": ["DataClay"]},
+  {"topic": "DataClay references", "file": "desktop/plugins/vendors/data-clay/reference-index.md", "summary": "Open when looking up DataClay in After Effects.", "keywords": ["DataClay references"]},
+  {"topic": "FxFactory", "file": "desktop/plugins/vendors/fx-factory.md", "summary": "Open when looking up FxFactory in After Effects.", "keywords": ["FxFactory"]},
+  {"topic": "Neat Video", "file": "desktop/plugins/vendors/neat-video.md", "summary": "Open when looking up Neat Video in After Effects.", "keywords": ["Neat Video"]},
+  {"topic": "RE:Vision Effects", "file": "desktop/plugins/vendors/re-vision-effects.md", "summary": "Open when looking up RE:Vision Effects in After Effects.", "keywords": ["RE:Vision Effects"]},
+  {"topic": "Red Giant", "file": "desktop/plugins/vendors/red-giant.md", "summary": "Open when looking up Red Giant in After Effects.", "keywords": ["Red Giant"]},
+  {"topic": "Red Giant references", "file": "desktop/plugins/vendors/red-giant/reference-index.md", "summary": "Open when looking up Red Giant in After Effects.", "keywords": ["Red Giant references"]},
+  {"topic": "Rowbyte", "file": "desktop/plugins/vendors/rowbyte.md", "summary": "Open when looking up Rowbyte in After Effects.", "keywords": ["Rowbyte"]},
+  {"topic": "Video Copilot", "file": "desktop/plugins/vendors/video-copilot.md", "summary": "Open when looking up Video Copilot in After Effects.", "keywords": ["Video Copilot"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

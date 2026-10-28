@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "PageItem.horizontalScale", "file": "references/community-types/indesign/page-item/horizontal-scale.md", "summary": "Open when looking up PageItem.horizontalScale in Shared Adobe platform.", "keywords": ["PageItem.horizontalScale"]},
-  {"topic": "PageItem.verticalScale", "file": "references/community-types/indesign/page-item/vertical-scale.md", "summary": "Open when looking up PageItem.verticalScale in Shared Adobe platform.", "keywords": ["PageItem.verticalScale"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

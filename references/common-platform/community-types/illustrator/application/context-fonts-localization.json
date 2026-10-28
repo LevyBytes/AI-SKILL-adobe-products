@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Application.textFonts", "file": "community-types/illustrator/application/text-fonts.md", "summary": "Open when looking up Application.textFonts in Shared Adobe platform.", "keywords": ["Application.textFonts"]},
+  {"topic": "Application.translatePlaceholderText", "file": "community-types/illustrator/application/translate-placeholder-text.md", "summary": "Open when looking up Application.translatePlaceholderText in Shared Adobe platform.", "keywords": ["Application.translatePlaceholderText"]},
+  {"topic": "Application.translateString", "file": "community-types/illustrator/application/translate-string.md", "summary": "Open when looking up Application.translateString in Shared Adobe platform.", "keywords": ["Application.translateString"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

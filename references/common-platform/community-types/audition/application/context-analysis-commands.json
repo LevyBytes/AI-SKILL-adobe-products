@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Application.COMMAND_ANALYSIS_SCANAMPLITUDESTATISTICS", "file": "community-types/audition/application/commandanalysisscanamplitudestatistics.md", "summary": "Open when looking up Application.COMMAND_ANALYSIS_SCANAMPLITUDESTATISTICS in Shared Adobe platform.", "keywords": ["Application.COMMAND_ANALYSIS_SCANAMPLITUDESTATISTICS"]},
+  {"topic": "Application.COMMAND_ANALYSIS_SCANFREQUENCYANALYSIS", "file": "community-types/audition/application/commandanalysisscanfrequencyanalysis.md", "summary": "Open when looking up Application.COMMAND_ANALYSIS_SCANFREQUENCYANALYSIS in Shared Adobe platform.", "keywords": ["Application.COMMAND_ANALYSIS_SCANFREQUENCYANALYSIS"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

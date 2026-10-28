@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Select a layer in a group", "file": "desktop/layers/transform-and-manipulate-layers/select-layers/select-a-layer-in-a-group.md", "summary": "Open when looking up Select a layer in a group in Photoshop.", "keywords": ["Select a layer in a group"]},
+  {"topic": "Select layers in the document window", "file": "desktop/layers/transform-and-manipulate-layers/select-layers/select-layers-in-the-document-window.md", "summary": "Open when looking up Select layers in the document window in Photoshop.", "keywords": ["Select layers in the document window"]},
+  {"topic": "Select layers in the Layers panel", "file": "desktop/layers/transform-and-manipulate-layers/select-layers/select-layers-in-the-layers-panel.md", "summary": "Open when looking up Select layers in the Layers panel in Photoshop.", "keywords": ["Select layers in the Layers panel"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

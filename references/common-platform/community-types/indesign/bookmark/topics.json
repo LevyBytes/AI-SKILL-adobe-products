@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Bookmark declaration", "file": "community-types/indesign/bookmark/declaration.md", "summary": "Open when looking up Bookmark declaration in Shared Adobe platform.", "keywords": ["Bookmark declaration"]},
+  {"topic": "Bookmark event listeners", "file": "community-types/indesign/bookmark/event-listeners.md", "summary": "Open when looking up Bookmark event listeners in Shared Adobe platform.", "keywords": ["Bookmark event listeners"]},
+  {"topic": "Bookmark identity and parent", "file": "community-types/indesign/bookmark/identity-and-parent.md", "summary": "Open when looking up Bookmark identity and parent in Shared Adobe platform.", "keywords": ["Bookmark identity and parent"]},
+  {"topic": "Bookmark labels and metadata", "file": "community-types/indesign/bookmark/labels-and-metadata.md", "summary": "Open when looking up Bookmark labels and metadata in Shared Adobe platform.", "keywords": ["Bookmark labels and metadata"]},
+  {"topic": "Bookmark object lifecycle", "file": "community-types/indesign/bookmark/object-lifecycle.md", "summary": "Open when looking up Bookmark object lifecycle in Shared Adobe platform.", "keywords": ["Bookmark object lifecycle"]},
+  {"topic": "Bookmark object resolution", "file": "community-types/indesign/bookmark/object-resolution.md", "summary": "Open when looking up Bookmark object resolution in Shared Adobe platform.", "keywords": ["Bookmark object resolution"]},
+  {"topic": "Bookmark.bookmarks", "file": "community-types/indesign/bookmark/bookmarks.md", "summary": "Open when looking up Bookmark.bookmarks in Shared Adobe platform.", "keywords": ["Bookmark.bookmarks"]},
+  {"topic": "Bookmark.destination", "file": "community-types/indesign/bookmark/destination.md", "summary": "Open when looking up Bookmark.destination in Shared Adobe platform.", "keywords": ["Bookmark.destination"]},
+  {"topic": "Bookmark.indent", "file": "community-types/indesign/bookmark/indent.md", "summary": "Open when looking up Bookmark.indent in Shared Adobe platform.", "keywords": ["Bookmark.indent"]},
+  {"topic": "Bookmark.properties", "file": "community-types/indesign/bookmark/properties.md", "summary": "Open when looking up Bookmark.properties in Shared Adobe platform.", "keywords": ["Bookmark.properties"]},
+  {"topic": "Bookmark.showBookmark", "file": "community-types/indesign/bookmark/show-bookmark.md", "summary": "Open when looking up Bookmark.showBookmark in Shared Adobe platform.", "keywords": ["Bookmark.showBookmark"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

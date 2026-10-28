@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Adjust Pencil tool settings", "file": "desktop/create-lines-and-shapes/drawing-tools/draw-with-the-pencil-tool/adjust-pencil-tool-settings.md", "summary": "Open when looking up Adjust Pencil tool settings in InDesign.", "keywords": ["Adjust Pencil tool settings"]},
+  {"topic": "Connect two separate paths", "file": "desktop/create-lines-and-shapes/drawing-tools/draw-with-the-pencil-tool/connect-two-separate-paths.md", "summary": "Open when looking up Connect two separate paths in InDesign.", "keywords": ["Connect two separate paths"]},
+  {"topic": "Draw a closed path", "file": "desktop/create-lines-and-shapes/drawing-tools/draw-with-the-pencil-tool/draw-a-closed-path.md", "summary": "Open when looking up Draw a closed path in InDesign.", "keywords": ["Draw a closed path"]},
+  {"topic": "Draw an open path", "file": "desktop/create-lines-and-shapes/drawing-tools/draw-with-the-pencil-tool/draw-an-open-path.md", "summary": "Open when looking up Draw an open path in InDesign.", "keywords": ["Draw an open path"]},
+  {"topic": "Edit an existing path", "file": "desktop/create-lines-and-shapes/drawing-tools/draw-with-the-pencil-tool/edit-an-existing-path.md", "summary": "Open when looking up Edit an existing path in InDesign.", "keywords": ["Edit an existing path"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

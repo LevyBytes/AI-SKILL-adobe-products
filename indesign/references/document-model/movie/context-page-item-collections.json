@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "allGraphics", "file": "references/document-model/movie/all-graphics.md", "summary": "Open when looking up allGraphics in InDesign.", "keywords": ["allGraphics"]},
-  {"topic": "allPageItems", "file": "references/document-model/movie/all-page-items.md", "summary": "Open when looking up allPageItems in InDesign.", "keywords": ["allPageItems"]},
-  {"topic": "graphics", "file": "references/document-model/movie/graphics.md", "summary": "Open when looking up graphics in InDesign.", "keywords": ["graphics"]},
-  {"topic": "images", "file": "references/document-model/movie/images.md", "summary": "Open when looking up images in InDesign.", "keywords": ["images"]},
-  {"topic": "pageItems", "file": "references/document-model/movie/page-items.md", "summary": "Open when looking up pageItems in InDesign.", "keywords": ["pageItems"]},
-  {"topic": "svgs", "file": "references/document-model/movie/svgs.md", "summary": "Open when looking up svgs in InDesign.", "keywords": ["svgs"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

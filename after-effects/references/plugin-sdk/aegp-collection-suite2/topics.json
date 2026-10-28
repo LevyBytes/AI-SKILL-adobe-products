@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "AEGP_CollectionErase", "file": "references/plugin-sdk/aegp-collection-suite2/aegp-collection-erase.md", "summary": "Open when looking up AEGP_CollectionErase in After Effects.", "keywords": ["AEGP_CollectionErase"]},
-  {"topic": "AEGP_CollectionPushBack", "file": "references/plugin-sdk/aegp-collection-suite2/aegp-collection-push-back.md", "summary": "Open when looking up AEGP_CollectionPushBack in After Effects.", "keywords": ["AEGP_CollectionPushBack"]},
-  {"topic": "AEGP_DisposeCollection", "file": "references/plugin-sdk/aegp-collection-suite2/aegp-dispose-collection.md", "summary": "Open when looking up AEGP_DisposeCollection in After Effects.", "keywords": ["AEGP_DisposeCollection"]},
-  {"topic": "AEGP_GetCollectionItemByIndex", "file": "references/plugin-sdk/aegp-collection-suite2/aegp-get-collection-item-by-index.md", "summary": "Open when looking up AEGP_GetCollectionItemByIndex in After Effects.", "keywords": ["AEGP_GetCollectionItemByIndex"]},
-  {"topic": "AEGP_GetCollectionNumItems", "file": "references/plugin-sdk/aegp-collection-suite2/aegp-get-collection-num-items.md", "summary": "Open when looking up AEGP_GetCollectionNumItems in After Effects.", "keywords": ["AEGP_GetCollectionNumItems"]},
-  {"topic": "AEGP_NewCollection", "file": "references/plugin-sdk/aegp-collection-suite2/aegp-new-collection.md", "summary": "Open when looking up AEGP_NewCollection in After Effects.", "keywords": ["AEGP_NewCollection"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

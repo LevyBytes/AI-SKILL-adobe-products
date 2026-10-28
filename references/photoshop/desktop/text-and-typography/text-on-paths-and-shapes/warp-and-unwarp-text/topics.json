@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Unwarp text", "file": "desktop/text-and-typography/text-on-paths-and-shapes/warp-and-unwarp-text/unwarp-text.md", "summary": "Open when looking up Unwarp text in Photoshop.", "keywords": ["Unwarp text"]},
+  {"topic": "Warp text", "file": "desktop/text-and-typography/text-on-paths-and-shapes/warp-and-unwarp-text/warp-text.md", "summary": "Open when looking up Warp text in Photoshop.", "keywords": ["Warp text"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/media-encoder", "topics": [
+  {"topic": "Create an encoding preset", "file": "desktop/encoding-and-exporting/match-audio-channelization-in-media-encoder/create-an-encoding-preset.md", "summary": "Open when looking up Create an encoding preset in Media Encoder.", "keywords": ["Create an encoding preset"]},
+  {"topic": "Enable match source controls in Export Settings", "file": "desktop/encoding-and-exporting/match-audio-channelization-in-media-encoder/enable-match-source-controls-in-export-settings.md", "summary": "Open when looking up Enable match source controls in Export Settings in Media Encoder.", "keywords": ["Enable match source controls in Export Settings"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

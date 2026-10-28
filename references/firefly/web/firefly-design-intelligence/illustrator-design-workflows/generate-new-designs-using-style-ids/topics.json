@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Customize generated designs", "file": "web/firefly-design-intelligence/illustrator-design-workflows/generate-new-designs-using-style-ids/customize-generated-designs.md", "summary": "Open when looking up Customize generated designs in Firefly.", "keywords": ["Customize generated designs"]},
+  {"topic": "Generate designs using text prompts", "file": "web/firefly-design-intelligence/illustrator-design-workflows/generate-new-designs-using-style-ids/generate-designs-using-text-prompts.md", "summary": "Open when looking up Generate designs using text prompts in Firefly.", "keywords": ["Generate designs using text prompts"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

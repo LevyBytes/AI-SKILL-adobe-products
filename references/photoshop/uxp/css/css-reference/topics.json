@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Pages in this section", "file": "uxp/css/css-reference/pages-in-this-section.md", "summary": "Open when looking up Pages in this section in Photoshop.", "keywords": ["Pages in this section"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

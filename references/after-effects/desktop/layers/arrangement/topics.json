@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Selecting Arranging Layers", "file": "desktop/layers/arrangement/selecting-arranging-layers.md", "summary": "Open when looking up Selecting Arranging Layers in After Effects.", "keywords": ["Selecting Arranging Layers"]},
+  {"topic": "Selecting Arranging Layers references", "file": "desktop/layers/arrangement/selecting-arranging-layers/reference-index.md", "summary": "Open when looking up Selecting Arranging Layers in After Effects.", "keywords": ["Selecting Arranging Layers references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

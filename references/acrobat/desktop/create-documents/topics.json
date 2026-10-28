@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Conversion settings references", "file": "desktop/create-documents/conversion-settings/reference-index.md", "summary": "Open when looking up Conversion settings in Acrobat.", "keywords": ["Conversion settings references"]},
+  {"topic": "Create pdfs references", "file": "desktop/create-documents/create-pdfs/reference-index.md", "summary": "Open when looking up Create pdfs in Acrobat.", "keywords": ["Create pdfs references"]},
+  {"topic": "Explore advanced conversion settings references", "file": "desktop/create-documents/advanced-conversion/reference-index.md", "summary": "Open when looking up Explore advanced conversion settings in Acrobat.", "keywords": ["Explore advanced conversion settings references"]},
+  {"topic": "Optimize pdfs references", "file": "desktop/create-documents/optimize-pdfs/reference-index.md", "summary": "Open when looking up Optimize pdfs in Acrobat.", "keywords": ["Optimize pdfs references"]},
+  {"topic": "Scan documents to pdfs references", "file": "desktop/create-documents/scan-documents-to-pdfs/reference-index.md", "summary": "Open when looking up Scan documents to pdfs in Acrobat.", "keywords": ["Scan documents to pdfs references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

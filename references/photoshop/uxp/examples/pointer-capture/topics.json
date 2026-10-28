@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "pointer-capture.html", "file": "uxp/examples/pointer-capture/pointer-capture.html", "summary": "Open when looking up pointer-capture.html in Photoshop.", "keywords": ["pointer-capture.html"]},
+  {"topic": "pointer-capture.js", "file": "uxp/examples/pointer-capture/pointer-capture.js", "summary": "Open when looking up pointer-capture.js in Photoshop.", "keywords": ["pointer-capture.js"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

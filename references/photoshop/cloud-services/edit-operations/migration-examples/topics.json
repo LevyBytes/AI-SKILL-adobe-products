@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Adjustment categories in v2", "file": "cloud-services/edit-operations/migration-examples/adjustment-categories-in-v2.md", "summary": "Open when looking up Adjustment categories in v2 in Photoshop.", "keywords": ["Adjustment categories in v2"]},
+  {"topic": "Apply presets", "file": "cloud-services/edit-operations/migration-examples/apply-presets.md", "summary": "Open when looking up Apply presets in Photoshop.", "keywords": ["Apply presets"]},
+  {"topic": "Apply XMP", "file": "cloud-services/edit-operations/migration-examples/apply-xmp.md", "summary": "Open when looking up Apply XMP in Photoshop.", "keywords": ["Apply XMP"]},
+  {"topic": "Apply XMP with masks (advanced)", "file": "cloud-services/edit-operations/migration-examples/apply-xmp-with-masks-advanced.md", "summary": "Open when looking up Apply XMP with masks (advanced) in Photoshop.", "keywords": ["Apply XMP with masks (advanced)"]},
+  {"topic": "Apply XMP with orientation override", "file": "cloud-services/edit-operations/migration-examples/apply-xmp-with-orientation-override.md", "summary": "Open when looking up Apply XMP with orientation override in Photoshop.", "keywords": ["Apply XMP with orientation override"]},
+  {"topic": "Auto straighten", "file": "cloud-services/edit-operations/migration-examples/auto-straighten.md", "summary": "Open when looking up Auto straighten in Photoshop.", "keywords": ["Auto straighten"]},
+  {"topic": "Auto tone", "file": "cloud-services/edit-operations/migration-examples/auto-tone.md", "summary": "Open when looking up Auto tone in Photoshop.", "keywords": ["Auto tone"]},
+  {"topic": "Manual adjustments", "file": "cloud-services/edit-operations/migration-examples/manual-adjustments.md", "summary": "Open when looking up Manual adjustments in Photoshop.", "keywords": ["Manual adjustments"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

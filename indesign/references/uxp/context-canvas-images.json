@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Arc to x1 y1 x2 y2 radius references", "file": "references/uxp/arc-to-x1-y1-x2-y2-radius/reference-index.md", "summary": "Open when looking up Arc to x1 y1 x2 y2 radius in InDesign.", "keywords": ["Arc to x1 y1 x2 y2 radius references"]},
-  {"topic": "Blob references", "file": "references/uxp/blob/reference-index.md", "summary": "Open when looking up Blob in InDesign.", "keywords": ["Blob references"]},
-  {"topic": "Canvas gradient references", "file": "references/uxp/canvas-gradient/reference-index.md", "summary": "Open when looking up Canvas gradient in InDesign.", "keywords": ["Canvas gradient references"]},
-  {"topic": "ImageBlob", "file": "references/uxp/image-blob.md", "summary": "Open when looking up ImageBlob in InDesign.", "keywords": ["ImageBlob"]},
-  {"topic": "Path2 d references", "file": "references/uxp/path2-d/reference-index.md", "summary": "Open when looking up Path2 d in InDesign.", "keywords": ["Path2 d references"]},
-  {"topic": "Rect x y width height references", "file": "references/uxp/rect-x-y-width-height/reference-index.md", "summary": "Open when looking up Rect x y width height in InDesign.", "keywords": ["Rect x y width height references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

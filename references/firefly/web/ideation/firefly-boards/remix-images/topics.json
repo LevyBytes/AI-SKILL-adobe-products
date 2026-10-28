@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Before you begin", "file": "web/ideation/firefly-boards/remix-images/before-you-begin.md", "summary": "Open when looking up Before you begin in Firefly.", "keywords": ["Before you begin"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

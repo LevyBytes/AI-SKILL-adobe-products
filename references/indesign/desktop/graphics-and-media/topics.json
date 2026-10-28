@@ -1,0 +1,21 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Add and edit graphics", "file": "desktop/graphics-and-media/add-and-edit-graphics.md", "summary": "Open when looking up Add and edit graphics in InDesign.", "keywords": ["Add and edit graphics"]},
+  {"topic": "Add and edit graphics references", "file": "desktop/graphics-and-media/add-and-edit-graphics/reference-index.md", "summary": "Open when looking up Add and edit graphics in InDesign.", "keywords": ["Add and edit graphics references"]},
+  {"topic": "Animation", "file": "desktop/graphics-and-media/animation.md", "summary": "Open when looking up Animation in InDesign.", "keywords": ["Animation"]},
+  {"topic": "Animation references", "file": "desktop/graphics-and-media/animation/reference-index.md", "summary": "Open when looking up Animation in InDesign.", "keywords": ["Animation references"]},
+  {"topic": "Manage frames and objects", "file": "desktop/graphics-and-media/manage-frames-and-objects.md", "summary": "Open when looking up Manage frames and objects in InDesign.", "keywords": ["Manage frames and objects"]},
+  {"topic": "Manage frames and objects references", "file": "desktop/graphics-and-media/manage-frames-and-objects/reference-index.md", "summary": "Open when looking up Manage frames and objects in InDesign.", "keywords": ["Manage frames and objects references"]},
+  {"topic": "Manage links", "file": "desktop/graphics-and-media/manage-links.md", "summary": "Open when looking up Manage links in InDesign.", "keywords": ["Manage links"]},
+  {"topic": "Manage links references", "file": "desktop/graphics-and-media/manage-links/reference-index.md", "summary": "Open when looking up Manage links in InDesign.", "keywords": ["Manage links references"]},
+  {"topic": "Manage object styles", "file": "desktop/graphics-and-media/manage-object-styles.md", "summary": "Open when looking up Manage object styles in InDesign.", "keywords": ["Manage object styles"]},
+  {"topic": "Manage object styles references", "file": "desktop/graphics-and-media/manage-object-styles/reference-index.md", "summary": "Open when looking up Manage object styles in InDesign.", "keywords": ["Manage object styles references"]},
+  {"topic": "Movies and sound", "file": "desktop/graphics-and-media/movies-and-sound.md", "summary": "Open when looking up Movies and sound in InDesign.", "keywords": ["Movies and sound"]},
+  {"topic": "Movies and sound references", "file": "desktop/graphics-and-media/movies-and-sound/reference-index.md", "summary": "Open when looking up Movies and sound in InDesign.", "keywords": ["Movies and sound references"]},
+  {"topic": "Object libraries and snippets", "file": "desktop/graphics-and-media/object-libraries-and-snippets.md", "summary": "Open when looking up Object libraries and snippets in InDesign.", "keywords": ["Object libraries and snippets"]},
+  {"topic": "Object libraries and snippets references", "file": "desktop/graphics-and-media/object-libraries-and-snippets/reference-index.md", "summary": "Open when looking up Object libraries and snippets in InDesign.", "keywords": ["Object libraries and snippets references"]},
+  {"topic": "Page transitions", "file": "desktop/graphics-and-media/page-transitions.md", "summary": "Open when looking up Page transitions in InDesign.", "keywords": ["Page transitions"]},
+  {"topic": "Page transitions references", "file": "desktop/graphics-and-media/page-transitions/reference-index.md", "summary": "Open when looking up Page transitions in InDesign.", "keywords": ["Page transitions references"]},
+  {"topic": "Transform and arrange objects", "file": "desktop/graphics-and-media/transform-and-arrange-objects.md", "summary": "Open when looking up Transform and arrange objects in InDesign.", "keywords": ["Transform and arrange objects"]},
+  {"topic": "Transform and arrange objects references", "file": "desktop/graphics-and-media/object-transforms/reference-index.md", "summary": "Open when looking up Transform and arrange objects in InDesign.", "keywords": ["Transform and arrange objects references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

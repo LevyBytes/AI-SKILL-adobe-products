@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Contribution", "file": "references/cep/cep-9-0/contribution.md", "summary": "Open when looking up Contribution in Shared Adobe platform.", "keywords": ["Contribution"]},
-  {"topic": "Miscellaneous", "file": "references/cep/cep-9-0/miscellaneous.md", "summary": "Open when looking up Miscellaneous in Shared Adobe platform.", "keywords": ["Miscellaneous"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

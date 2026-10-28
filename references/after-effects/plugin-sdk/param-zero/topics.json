@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "PF_ParamDef - Param Zero", "file": "plugin-sdk/param-zero/pf-param-def-param-zero.md", "summary": "Open when looking up PF_ParamDef - Param Zero in After Effects.", "keywords": ["PF_ParamDef - Param Zero"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Constants", "file": "uxp/constants.md", "summary": "Open when looking up Constants in Photoshop.", "keywords": ["Constants"]},
+  {"topic": "Enumerations", "file": "uxp/enumerations.md", "summary": "Open when looking up Enumerations in Photoshop.", "keywords": ["Enumerations"]},
+  {"topic": "Enumerations references", "file": "uxp/enumerations/reference-index.md", "summary": "Open when looking up Enumerations in Photoshop.", "keywords": ["Enumerations references"]},
+  {"topic": "Host api references", "file": "uxp/host-api/reference-index.md", "summary": "Open when looking up Host api in Photoshop.", "keywords": ["Host api references"]},
+  {"topic": "Other Objects", "file": "uxp/other-objects.md", "summary": "Open when looking up Other Objects in Photoshop.", "keywords": ["Other Objects"]},
+  {"topic": "Photoshop object literal types", "file": "uxp/object-literal-types.md", "summary": "Open when looking up Photoshop object literal types in Photoshop.", "keywords": ["Photoshop object literal types"]},
+  {"topic": "Photoshop API - Overview", "file": "uxp/photoshop-api-overview.md", "summary": "Open when looking up Photoshop API - Overview in Photoshop.", "keywords": ["Photoshop API - Overview"]},
+  {"topic": "Photoshop API - Overview references", "file": "uxp/photoshop-api-overview/reference-index.md", "summary": "Open when looking up Photoshop API - Overview in Photoshop.", "keywords": ["Photoshop API - Overview references"]},
+  {"topic": "Return Objects", "file": "uxp/return-objects.md", "summary": "Open when looking up Return Objects in Photoshop.", "keywords": ["Return Objects"]},
+  {"topic": "Tool", "file": "uxp/tool.md", "summary": "Open when looking up Tool in Photoshop.", "keywords": ["Tool"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

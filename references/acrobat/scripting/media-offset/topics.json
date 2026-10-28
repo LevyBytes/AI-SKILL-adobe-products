@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "frame", "file": "scripting/media-offset/frame.md", "summary": "Open when looking up frame in Acrobat.", "keywords": ["frame"]},
+  {"topic": "marker", "file": "scripting/media-offset/marker.md", "summary": "Open when looking up marker in Acrobat.", "keywords": ["marker"]},
+  {"topic": "Media and Marker APIs - MediaOffset", "file": "scripting/media-offset/media-and-marker-apis-media-offset.md", "summary": "Open when looking up Media and Marker APIs - MediaOffset in Acrobat.", "keywords": ["Media and Marker APIs - MediaOffset"]},
+  {"topic": "time", "file": "scripting/media-offset/time.md", "summary": "Open when looking up time in Acrobat.", "keywords": ["time"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

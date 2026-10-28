@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "COMPOSITE_CMYK", "file": "document-model/color-output-modes/compositecmyk.md", "summary": "Open when looking up COMPOSITE_CMYK in InDesign.", "keywords": ["COMPOSITE_CMYK"]},
+  {"topic": "COMPOSITE_GRAY", "file": "document-model/color-output-modes/compositegray.md", "summary": "Open when looking up COMPOSITE_GRAY in InDesign.", "keywords": ["COMPOSITE_GRAY"]},
+  {"topic": "COMPOSITE_LEAVE_UNCHANGED", "file": "document-model/color-output-modes/compositeleaveunchanged.md", "summary": "Open when looking up COMPOSITE_LEAVE_UNCHANGED in InDesign.", "keywords": ["COMPOSITE_LEAVE_UNCHANGED"]},
+  {"topic": "COMPOSITE_RGB", "file": "document-model/color-output-modes/compositergb.md", "summary": "Open when looking up COMPOSITE_RGB in InDesign.", "keywords": ["COMPOSITE_RGB"]},
+  {"topic": "INRIP_SEPARATIONS", "file": "document-model/color-output-modes/inripseparations.md", "summary": "Open when looking up INRIP_SEPARATIONS in InDesign.", "keywords": ["INRIP_SEPARATIONS"]},
+  {"topic": "SEPARATIONS", "file": "document-model/color-output-modes/separations.md", "summary": "Open when looking up SEPARATIONS in InDesign.", "keywords": ["SEPARATIONS"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

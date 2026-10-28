@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "ProgressEvent(typeArg, [eventInit])", "file": "uxp/progress-event/progress-event.md", "summary": "Open when looking up ProgressEvent(typeArg, [eventInit]) in Premiere Pro.", "keywords": ["ProgressEvent(typeArg, [eventInit])"]},
+  {"topic": "window.ProgressEvent", "file": "uxp/progress-event/overview.md", "summary": "Open when looking up window.ProgressEvent in Premiere Pro.", "keywords": ["window.ProgressEvent"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

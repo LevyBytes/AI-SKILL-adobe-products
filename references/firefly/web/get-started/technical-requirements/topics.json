@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Desktop requirements", "file": "web/get-started/technical-requirements/desktop-requirements.md", "summary": "Open when looking up Desktop requirements in Firefly.", "keywords": ["Desktop requirements"]},
+  {"topic": "Mobile requirements", "file": "web/get-started/technical-requirements/mobile-requirements.md", "summary": "Open when looking up Mobile requirements in Firefly.", "keywords": ["Mobile requirements"]},
+  {"topic": "Supported image formats", "file": "web/get-started/technical-requirements/supported-image-formats.md", "summary": "Open when looking up Supported image formats in Firefly.", "keywords": ["Supported image formats"]},
+  {"topic": "Supported languages", "file": "web/get-started/technical-requirements/supported-languages.md", "summary": "Open when looking up Supported languages in Firefly.", "keywords": ["Supported languages"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

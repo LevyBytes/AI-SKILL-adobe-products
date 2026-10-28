@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "ActiveScript app.activeScript", "file": "references/uxp/extend-script-to-uxp/active-script-app-active-script.md", "summary": "Open when looking up ActiveScript app.activeScript in InDesign.", "keywords": ["ActiveScript app.activeScript"]},
-  {"topic": "Comparison operators (== and ===)", "file": "references/uxp/extend-script-to-uxp/comparison-operators-and.md", "summary": "Open when looking up Comparison operators (== and ===) in InDesign.", "keywords": ["Comparison operators (== and ===)"]},
-  {"topic": "Fetching InDesign Server arguments passed to a script", "file": "references/uxp/extend-script-to-uxp/fetching-in-design-server-arguments-passed-to-a-script.md", "summary": "Open when looking up Fetching InDesign Server arguments passed to a script in InDesign.", "keywords": ["Fetching InDesign Server arguments passed to a script"]},
-  {"topic": "Global object document", "file": "references/uxp/extend-script-to-uxp/global-object-document.md", "summary": "Open when looking up Global object document in InDesign.", "keywords": ["Global object document"]},
-  {"topic": "instanceof", "file": "references/uxp/extend-script-to-uxp/instanceof.md", "summary": "Open when looking up instanceof in InDesign.", "keywords": ["instanceof"]},
-  {"topic": "subscript operator [ ]", "file": "references/uxp/extend-script-to-uxp/subscript-operator.md", "summary": "Open when looking up subscript operator [ ] in InDesign.", "keywords": ["subscript operator [ ]"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

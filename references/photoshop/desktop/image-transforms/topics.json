@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Crop and straighten", "file": "desktop/image-transforms/crop-and-straighten.md", "summary": "Open when looking up Crop and straighten in Photoshop.", "keywords": ["Crop and straighten"]},
+  {"topic": "Crop and straighten references", "file": "desktop/image-transforms/crop-and-straighten/reference-index.md", "summary": "Open when looking up Crop and straighten in Photoshop.", "keywords": ["Crop and straighten references"]},
+  {"topic": "Resize and adjust resolution", "file": "desktop/image-transforms/resize-and-adjust-resolution.md", "summary": "Open when looking up Resize and adjust resolution in Photoshop.", "keywords": ["Resize and adjust resolution"]},
+  {"topic": "Resize and adjust resolution references", "file": "desktop/image-transforms/resize-and-adjust-resolution/reference-index.md", "summary": "Open when looking up Resize and adjust resolution in Photoshop.", "keywords": ["Resize and adjust resolution references"]},
+  {"topic": "Transform, manipulate, and reshape", "file": "desktop/image-transforms/transform-manipulate-and-reshape.md", "summary": "Open when looking up Transform, manipulate, and reshape in Photoshop.", "keywords": ["Transform, manipulate, and reshape"]},
+  {"topic": "Transform, manipulate, and reshape references", "file": "desktop/image-transforms/transform-manipulate-and-reshape/reference-index.md", "summary": "Open when looking up Transform, manipulate, and reshape in Photoshop.", "keywords": ["Transform, manipulate, and reshape references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

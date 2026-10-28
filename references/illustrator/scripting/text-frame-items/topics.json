@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "TextFrameItems.add()", "file": "scripting/text-frame-items/add.md", "summary": "Open when looking up TextFrameItems.add() in Illustrator.", "keywords": ["TextFrameItems.add()"]},
+  {"topic": "TextFrameItems.areaText()", "file": "scripting/text-frame-items/area-text.md", "summary": "Open when looking up TextFrameItems.areaText() in Illustrator.", "keywords": ["TextFrameItems.areaText()"]},
+  {"topic": "TextFrameItems.getByName()", "file": "scripting/text-frame-items/get-by-name.md", "summary": "Open when looking up TextFrameItems.getByName() in Illustrator.", "keywords": ["TextFrameItems.getByName()"]},
+  {"topic": "TextFrameItems.index()", "file": "scripting/text-frame-items/index.md", "summary": "Open when looking up TextFrameItems.index() in Illustrator.", "keywords": ["TextFrameItems.index()"]},
+  {"topic": "TextFrameItems.length", "file": "scripting/text-frame-items/length.md", "summary": "Open when looking up TextFrameItems.length in Illustrator.", "keywords": ["TextFrameItems.length"]},
+  {"topic": "TextFrameItems.parent", "file": "scripting/text-frame-items/parent.md", "summary": "Open when looking up TextFrameItems.parent in Illustrator.", "keywords": ["TextFrameItems.parent"]},
+  {"topic": "TextFrameItems.pathText()", "file": "scripting/text-frame-items/path-text.md", "summary": "Open when looking up TextFrameItems.pathText() in Illustrator.", "keywords": ["TextFrameItems.pathText()"]},
+  {"topic": "TextFrameItems.pointText()", "file": "scripting/text-frame-items/point-text.md", "summary": "Open when looking up TextFrameItems.pointText() in Illustrator.", "keywords": ["TextFrameItems.pointText()"]},
+  {"topic": "TextFrameItems.removeAll()", "file": "scripting/text-frame-items/remove-all.md", "summary": "Open when looking up TextFrameItems.removeAll() in Illustrator.", "keywords": ["TextFrameItems.removeAll()"]},
+  {"topic": "TextFrameItems.typename", "file": "scripting/text-frame-items/typename.md", "summary": "Open when looking up TextFrameItems.typename in Illustrator.", "keywords": ["TextFrameItems.typename"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

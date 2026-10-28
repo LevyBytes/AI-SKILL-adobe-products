@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "File format numeric constants", "file": "scripting/xmp-const/file-format-numeric-constants.md", "summary": "Open when looking up File format numeric constants in Shared Adobe platform.", "keywords": ["File format numeric constants"]},
+  {"topic": "Schema namespace string constants", "file": "scripting/xmp-const/schema-namespace-string-constants.md", "summary": "Open when looking up Schema namespace string constants in Shared Adobe platform.", "keywords": ["Schema namespace string constants"]},
+  {"topic": "Type namespace string constants", "file": "scripting/xmp-const/type-namespace-string-constants.md", "summary": "Open when looking up Type namespace string constants in Shared Adobe platform.", "keywords": ["Type namespace string constants"]},
+  {"topic": "XMPScript object reference - XMPConst object", "file": "scripting/xmp-const/xmp-script-object-reference-xmp-const-object.md", "summary": "Open when looking up XMPScript object reference - XMPConst object in Shared Adobe platform.", "keywords": ["XMPScript object reference - XMPConst object"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

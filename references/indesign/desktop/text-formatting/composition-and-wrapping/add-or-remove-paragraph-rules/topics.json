@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Add a rule above or below a paragraph", "file": "desktop/text-formatting/composition-and-wrapping/add-or-remove-paragraph-rules/add-a-rule-above-or-below-a-paragraph.md", "summary": "Open when looking up Add a rule above or below a paragraph in InDesign.", "keywords": ["Add a rule above or below a paragraph"]},
+  {"topic": "Adjust paragraph spacing", "file": "desktop/text-formatting/composition-and-wrapping/add-or-remove-paragraph-rules/adjust-paragraph-spacing.md", "summary": "Open when looking up Adjust paragraph spacing in InDesign.", "keywords": ["Adjust paragraph spacing"]},
+  {"topic": "Remove a paragraph rule", "file": "desktop/text-formatting/composition-and-wrapping/add-or-remove-paragraph-rules/remove-a-paragraph-rule.md", "summary": "Open when looking up Remove a paragraph rule in InDesign.", "keywords": ["Remove a paragraph rule"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

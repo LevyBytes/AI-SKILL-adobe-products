@@ -1,0 +1,16 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "EntrypointDefinition", "file": "uxp/uxp-manifest/entrypoint-definition.md", "summary": "Open when looking up EntrypointDefinition in InDesign.", "keywords": ["EntrypointDefinition"]},
+  {"topic": "FeatureFlags", "file": "uxp/uxp-manifest/feature-flags.md", "summary": "Open when looking up FeatureFlags in InDesign.", "keywords": ["FeatureFlags"]},
+  {"topic": "HostDefinition", "file": "uxp/uxp-manifest/host-definition.md", "summary": "Open when looking up HostDefinition in InDesign.", "keywords": ["HostDefinition"]},
+  {"topic": "IconDefinition", "file": "uxp/uxp-manifest/icon-definition.md", "summary": "Open when looking up IconDefinition in InDesign.", "keywords": ["IconDefinition"]},
+  {"topic": "IpcPermission", "file": "uxp/uxp-manifest/ipc-permission.md", "summary": "Open when looking up IpcPermission in InDesign.", "keywords": ["IpcPermission"]},
+  {"topic": "LaunchProcessPermission", "file": "uxp/uxp-manifest/launch-process-permission.md", "summary": "Open when looking up LaunchProcessPermission in InDesign.", "keywords": ["LaunchProcessPermission"]},
+  {"topic": "LocalizedString", "file": "uxp/uxp-manifest/localized-string.md", "summary": "Open when looking up LocalizedString in InDesign.", "keywords": ["LocalizedString"]},
+  {"topic": "Manifest", "file": "uxp/uxp-manifest/manifest.md", "summary": "Open when looking up Manifest in InDesign.", "keywords": ["Manifest"]},
+  {"topic": "NetworkPermission", "file": "uxp/uxp-manifest/network-permission.md", "summary": "Open when looking up NetworkPermission in InDesign.", "keywords": ["NetworkPermission"]},
+  {"topic": "Permission module for Scripts", "file": "uxp/uxp-manifest/permission-module-for-scripts.md", "summary": "Open when looking up Permission module for Scripts in InDesign.", "keywords": ["Permission module for Scripts"]},
+  {"topic": "PermissionsDefinition", "file": "uxp/uxp-manifest/permissions-definition.md", "summary": "Open when looking up PermissionsDefinition in InDesign.", "keywords": ["PermissionsDefinition"]},
+  {"topic": "StringsDefinition", "file": "uxp/uxp-manifest/strings-definition.md", "summary": "Open when looking up StringsDefinition in InDesign.", "keywords": ["StringsDefinition"]},
+  {"topic": "WebViewPermission", "file": "uxp/uxp-manifest/web-view-permission.md", "summary": "Open when looking up WebViewPermission in InDesign.", "keywords": ["WebViewPermission"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

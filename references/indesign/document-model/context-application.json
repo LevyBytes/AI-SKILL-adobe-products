@@ -1,0 +1,21 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Application references", "file": "document-model/application/reference-index.md", "summary": "Open when looking up Application in InDesign.", "keywords": ["Application references"]},
+  {"topic": "AttachedDevices", "file": "document-model/attached-devices.md", "summary": "Open when looking up AttachedDevices in InDesign.", "keywords": ["AttachedDevices"]},
+  {"topic": "AttachedDevices references", "file": "document-model/attached-devices/reference-index.md", "summary": "Open when looking up AttachedDevices in InDesign.", "keywords": ["AttachedDevices references"]},
+  {"topic": "FeatureSetOptions", "file": "document-model/feature-set-options.md", "summary": "Open when looking up FeatureSetOptions in InDesign.", "keywords": ["FeatureSetOptions"]},
+  {"topic": "FeatureSetOptions references", "file": "document-model/feature-set-options/reference-index.md", "summary": "Open when looking up FeatureSetOptions in InDesign.", "keywords": ["FeatureSetOptions references"]},
+  {"topic": "GeneralPreference", "file": "document-model/general-preference.md", "summary": "Open when looking up GeneralPreference in InDesign.", "keywords": ["GeneralPreference"]},
+  {"topic": "GeneralPreference references", "file": "document-model/general-preference/reference-index.md", "summary": "Open when looking up GeneralPreference in InDesign.", "keywords": ["GeneralPreference references"]},
+  {"topic": "Locale references", "file": "document-model/locale/reference-index.md", "summary": "Open when looking up Locale in InDesign.", "keywords": ["Locale references"]},
+  {"topic": "Preference", "file": "document-model/preference.md", "summary": "Open when looking up Preference in InDesign.", "keywords": ["Preference"]},
+  {"topic": "Preference references", "file": "document-model/preference/reference-index.md", "summary": "Open when looking up Preference in InDesign.", "keywords": ["Preference references"]},
+  {"topic": "Preferences", "file": "document-model/preferences.md", "summary": "Open when looking up Preferences in InDesign.", "keywords": ["Preferences"]},
+  {"topic": "Preferences references", "file": "document-model/preferences/reference-index.md", "summary": "Open when looking up Preferences in InDesign.", "keywords": ["Preferences references"]},
+  {"topic": "UserDictionaries", "file": "document-model/user-dictionaries.md", "summary": "Open when looking up UserDictionaries in InDesign.", "keywords": ["UserDictionaries"]},
+  {"topic": "UserDictionaries references", "file": "document-model/user-dictionaries/reference-index.md", "summary": "Open when looking up UserDictionaries in InDesign.", "keywords": ["UserDictionaries references"]},
+  {"topic": "UserDictionary", "file": "document-model/user-dictionary.md", "summary": "Open when looking up UserDictionary in InDesign.", "keywords": ["UserDictionary"]},
+  {"topic": "UserDictionary references", "file": "document-model/user-dictionary/reference-index.md", "summary": "Open when looking up UserDictionary in InDesign.", "keywords": ["UserDictionary references"]},
+  {"topic": "UserInteractionLevels", "file": "document-model/user-interaction-levels.md", "summary": "Open when looking up UserInteractionLevels in InDesign.", "keywords": ["UserInteractionLevels"]},
+  {"topic": "UserInteractionLevels references", "file": "document-model/user-interaction-levels/reference-index.md", "summary": "Open when looking up UserInteractionLevels in InDesign.", "keywords": ["UserInteractionLevels references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Apply Quick Actions", "file": "desktop/get-started/learn-the-basics/learn-faster-with-the-discover-panel/apply-quick-actions.md", "summary": "Open when looking up Apply Quick Actions in Illustrator.", "keywords": ["Apply Quick Actions"]},
+  {"topic": "Configure Discover panel preferences", "file": "desktop/get-started/learn-the-basics/learn-faster-with-the-discover-panel/configure-discover-panel-preferences.md", "summary": "Open when looking up Configure Discover panel preferences in Illustrator.", "keywords": ["Configure Discover panel preferences"]},
+  {"topic": "Explore tool tips and tool techniques", "file": "desktop/get-started/learn-the-basics/learn-faster-with-the-discover-panel/explore-tool-tips-and-tool-techniques.md", "summary": "Open when looking up Explore tool tips and tool techniques in Illustrator.", "keywords": ["Explore tool tips and tool techniques"]},
+  {"topic": "Use and manage the Discover panel", "file": "desktop/get-started/learn-the-basics/learn-faster-with-the-discover-panel/use-and-manage-the-discover-panel.md", "summary": "Open when looking up Use and manage the Discover panel in Illustrator.", "keywords": ["Use and manage the Discover panel"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

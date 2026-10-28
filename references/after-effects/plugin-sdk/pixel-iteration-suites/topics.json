@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "iterate", "file": "plugin-sdk/pixel-iteration-suites/iterate.md", "summary": "Open when looking up iterate in After Effects.", "keywords": ["iterate"]},
+  {"topic": "iterate_generic", "file": "plugin-sdk/pixel-iteration-suites/iterategeneric.md", "summary": "Open when looking up iterate_generic in After Effects.", "keywords": ["iterate_generic"]},
+  {"topic": "iterate_lut", "file": "plugin-sdk/pixel-iteration-suites/iteratelut.md", "summary": "Open when looking up iterate_lut in After Effects.", "keywords": ["iterate_lut"]},
+  {"topic": "iterate_origin", "file": "plugin-sdk/pixel-iteration-suites/iterateorigin.md", "summary": "Open when looking up iterate_origin in After Effects.", "keywords": ["iterate_origin"]},
+  {"topic": "iterate_origin_non_clip_src", "file": "plugin-sdk/pixel-iteration-suites/iterateoriginnonclipsrc.md", "summary": "Open when looking up iterate_origin_non_clip_src in After Effects.", "keywords": ["iterate_origin_non_clip_src"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

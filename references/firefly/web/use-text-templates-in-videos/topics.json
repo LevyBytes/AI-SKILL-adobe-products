@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Add a pre-designed text template and customize it for your video.", "file": "web/use-text-templates-in-videos/video-text-template-customization.md", "summary": "Open when looking up Add a pre-designed text template and customize it for your video. in Firefly.", "keywords": ["Add a pre-designed text template and customize it for your video."]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

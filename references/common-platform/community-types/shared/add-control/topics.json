@@ -1,0 +1,21 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "_AddControl button", "file": "community-types/shared/add-control/button.md", "summary": "Open when looking up _AddControl button in Shared Adobe platform.", "keywords": ["_AddControl button"]},
+  {"topic": "_AddControl checkbox", "file": "community-types/shared/add-control/checkbox.md", "summary": "Open when looking up _AddControl checkbox in Shared Adobe platform.", "keywords": ["_AddControl checkbox"]},
+  {"topic": "_AddControl declaration", "file": "community-types/shared/add-control/declaration.md", "summary": "Open when looking up _AddControl declaration in Shared Adobe platform.", "keywords": ["_AddControl declaration"]},
+  {"topic": "_AddControl dropdownlist", "file": "community-types/shared/add-control/dropdownlist.md", "summary": "Open when looking up _AddControl dropdownlist in Shared Adobe platform.", "keywords": ["_AddControl dropdownlist"]},
+  {"topic": "_AddControl edittext", "file": "community-types/shared/add-control/edittext.md", "summary": "Open when looking up _AddControl edittext in Shared Adobe platform.", "keywords": ["_AddControl edittext"]},
+  {"topic": "_AddControl flashplayer", "file": "community-types/shared/add-control/flashplayer.md", "summary": "Open when looking up _AddControl flashplayer in Shared Adobe platform.", "keywords": ["_AddControl flashplayer"]},
+  {"topic": "_AddControl group", "file": "community-types/shared/add-control/group.md", "summary": "Open when looking up _AddControl group in Shared Adobe platform.", "keywords": ["_AddControl group"]},
+  {"topic": "_AddControl iconbutton", "file": "community-types/shared/add-control/iconbutton.md", "summary": "Open when looking up _AddControl iconbutton in Shared Adobe platform.", "keywords": ["_AddControl iconbutton"]},
+  {"topic": "_AddControl image", "file": "community-types/shared/add-control/image.md", "summary": "Open when looking up _AddControl image in Shared Adobe platform.", "keywords": ["_AddControl image"]},
+  {"topic": "_AddControl listbox", "file": "community-types/shared/add-control/listbox.md", "summary": "Open when looking up _AddControl listbox in Shared Adobe platform.", "keywords": ["_AddControl listbox"]},
+  {"topic": "_AddControl panel", "file": "community-types/shared/add-control/panel.md", "summary": "Open when looking up _AddControl panel in Shared Adobe platform.", "keywords": ["_AddControl panel"]},
+  {"topic": "_AddControl progressbar", "file": "community-types/shared/add-control/progressbar.md", "summary": "Open when looking up _AddControl progressbar in Shared Adobe platform.", "keywords": ["_AddControl progressbar"]},
+  {"topic": "_AddControl radiobutton", "file": "community-types/shared/add-control/radiobutton.md", "summary": "Open when looking up _AddControl radiobutton in Shared Adobe platform.", "keywords": ["_AddControl radiobutton"]},
+  {"topic": "_AddControl scrollbar", "file": "community-types/shared/add-control/scrollbar.md", "summary": "Open when looking up _AddControl scrollbar in Shared Adobe platform.", "keywords": ["_AddControl scrollbar"]},
+  {"topic": "_AddControl slider", "file": "community-types/shared/add-control/slider.md", "summary": "Open when looking up _AddControl slider in Shared Adobe platform.", "keywords": ["_AddControl slider"]},
+  {"topic": "_AddControl statictext", "file": "community-types/shared/add-control/statictext.md", "summary": "Open when looking up _AddControl statictext in Shared Adobe platform.", "keywords": ["_AddControl statictext"]},
+  {"topic": "_AddControl tabbedpanel", "file": "community-types/shared/add-control/tabbedpanel.md", "summary": "Open when looking up _AddControl tabbedpanel in Shared Adobe platform.", "keywords": ["_AddControl tabbedpanel"]},
+  {"topic": "_AddControl treeview", "file": "community-types/shared/add-control/treeview.md", "summary": "Open when looking up _AddControl treeview in Shared Adobe platform.", "keywords": ["_AddControl treeview"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

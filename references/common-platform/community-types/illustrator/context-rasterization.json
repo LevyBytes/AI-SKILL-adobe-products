@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "AntiAliasingMethod", "file": "community-types/illustrator/anti-aliasing-method.md", "summary": "Open when looking up AntiAliasingMethod in Shared Adobe platform.", "keywords": ["AntiAliasingMethod"]},
+  {"topic": "DocumentRasterResolution", "file": "community-types/illustrator/document-raster-resolution.md", "summary": "Open when looking up DocumentRasterResolution in Shared Adobe platform.", "keywords": ["DocumentRasterResolution"]},
+  {"topic": "ImageCaptureOptions", "file": "community-types/illustrator/image-capture-options.md", "summary": "Open when looking up ImageCaptureOptions in Shared Adobe platform.", "keywords": ["ImageCaptureOptions"]},
+  {"topic": "ImageColorSpace", "file": "community-types/illustrator/image-color-space.md", "summary": "Open when looking up ImageColorSpace in Shared Adobe platform.", "keywords": ["ImageColorSpace"]},
+  {"topic": "RasterEffectOptions", "file": "community-types/illustrator/raster-effect-options.md", "summary": "Open when looking up RasterEffectOptions in Shared Adobe platform.", "keywords": ["RasterEffectOptions"]},
+  {"topic": "RasterizationColorModel", "file": "community-types/illustrator/rasterization-color-model.md", "summary": "Open when looking up RasterizationColorModel in Shared Adobe platform.", "keywords": ["RasterizationColorModel"]},
+  {"topic": "RasterizeOptions", "file": "community-types/illustrator/rasterize-options.md", "summary": "Open when looking up RasterizeOptions in Shared Adobe platform.", "keywords": ["RasterizeOptions"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

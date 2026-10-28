@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "addRequirement", "file": "references/scripting/doc/add-requirement.md", "summary": "Open when looking up addRequirement in Acrobat.", "keywords": ["addRequirement"]},
-  {"topic": "closeDoc", "file": "references/scripting/doc/close-doc.md", "summary": "Open when looking up closeDoc in Acrobat.", "keywords": ["closeDoc"]},
-  {"topic": "removeRequirement", "file": "references/scripting/doc/remove-requirement.md", "summary": "Open when looking up removeRequirement in Acrobat.", "keywords": ["removeRequirement"]},
-  {"topic": "Doc.saveAs", "file": "references/scripting/doc/save-as.md", "summary": "Open when looking up Doc.saveAs in Acrobat.", "keywords": ["Doc.saveAs"]},
-  {"topic": "Saving and converting document examples", "file": "references/scripting/doc/save-document-examples.md", "summary": "Open when looking up Saving and converting document examples in Acrobat.", "keywords": ["Saving and converting document examples"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Export", "file": "references/desktop/save-and-export/export-to-cloud/export.md", "summary": "Open when looking up Export in Photoshop.", "keywords": ["Export"]},
-  {"topic": "Save", "file": "references/desktop/save-and-export/export-to-cloud/save.md", "summary": "Open when looking up Save in Photoshop.", "keywords": ["Save"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

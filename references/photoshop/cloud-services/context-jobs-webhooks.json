@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Get job status", "file": "cloud-services/get-job-status.md", "summary": "Open when looking up Get job status in Photoshop.", "keywords": ["Get job status"]},
+  {"topic": "Get job status references", "file": "cloud-services/get-job-status/reference-index.md", "summary": "Open when looking up Get job status in Photoshop.", "keywords": ["Get job status references"]},
+  {"topic": "Status migration references", "file": "cloud-services/status-migration/reference-index.md", "summary": "Open when looking up Status migration in Photoshop.", "keywords": ["Status migration references"]},
+  {"topic": "Photoshop API webhooks and Adobe I/O Events", "file": "cloud-services/photoshop-api-webhooks-and-adobe-i-o-events.md", "summary": "Open when looking up Photoshop API webhooks and Adobe I/O Events in Photoshop.", "keywords": ["Photoshop API webhooks and Adobe I/O Events"]},
+  {"topic": "Photoshop API webhooks and Adobe I/O Events references", "file": "cloud-services/photoshop-api-webhooks-and-adobe-i-o-events/reference-index.md", "summary": "Open when looking up Photoshop API webhooks and Adobe I/O Events in Photoshop.", "keywords": ["Photoshop API webhooks and Adobe I/O Events references"]},
+  {"topic": "Triggering an Event", "file": "cloud-services/triggering-an-event.md", "summary": "Open when looking up Triggering an Event in Photoshop.", "keywords": ["Triggering an Event"]},
+  {"topic": "Triggering an Event references", "file": "cloud-services/triggering-an-event/reference-index.md", "summary": "Open when looking up Triggering an Event in Photoshop.", "keywords": ["Triggering an Event references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

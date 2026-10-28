@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Add navigation controls", "file": "desktop/interactive-elements-and-forms/buttons/create-multiple-versions-of-an-object/add-navigation-controls.md", "summary": "Open when looking up Add navigation controls in InDesign.", "keywords": ["Add navigation controls"]},
+  {"topic": "Configure multi-state object options", "file": "desktop/interactive-elements-and-forms/buttons/create-multiple-versions-of-an-object/configure-multi-state-object-options.md", "summary": "Open when looking up Configure multi-state object options in InDesign.", "keywords": ["Configure multi-state object options"]},
+  {"topic": "Create a multi-state object", "file": "desktop/interactive-elements-and-forms/buttons/create-multiple-versions-of-an-object/create-a-multi-state-object.md", "summary": "Open when looking up Create a multi-state object in InDesign.", "keywords": ["Create a multi-state object"]},
+  {"topic": "Edit states in a multi-state object", "file": "desktop/interactive-elements-and-forms/buttons/create-multiple-versions-of-an-object/edit-states-in-a-multi-state-object.md", "summary": "Open when looking up Edit states in a multi-state object in InDesign.", "keywords": ["Edit states in a multi-state object"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

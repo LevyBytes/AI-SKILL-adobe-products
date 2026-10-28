@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Edit directly on the canvas", "file": "references/desktop/language-and-proofing/glyphs-and-expressions/edit-math-expressions/edit-directly-on-the-canvas.md", "summary": "Open when looking up Edit directly on the canvas in InDesign.", "keywords": ["Edit directly on the canvas"]},
-  {"topic": "Edit using MathML code", "file": "references/desktop/language-and-proofing/glyphs-and-expressions/edit-math-expressions/edit-using-math-ml-code.md", "summary": "Open when looking up Edit using MathML code in InDesign.", "keywords": ["Edit using MathML code"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "apiVersion", "file": "references/uxp/photoshop-specific-manifest-properties/api-version.md", "summary": "Open when looking up apiVersion in Photoshop.", "keywords": ["apiVersion"]},
-  {"topic": "Default value", "file": "references/uxp/photoshop-specific-manifest-properties/default-value.md", "summary": "Open when looking up Default value in Photoshop.", "keywords": ["Default value"]},
-  {"topic": "enableMenuRecording", "file": "references/uxp/photoshop-specific-manifest-properties/enable-menu-recording.md", "summary": "Open when looking up enableMenuRecording in Photoshop.", "keywords": ["enableMenuRecording"]},
-  {"topic": "loadEvent", "file": "references/uxp/photoshop-specific-manifest-properties/load-event.md", "summary": "Open when looking up loadEvent in Photoshop.", "keywords": ["loadEvent"]},
-  {"topic": "Why use version 1 (2021)?", "file": "references/uxp/photoshop-specific-manifest-properties/why-use-version-1-2021.md", "summary": "Open when looking up Why use version 1 (2021)? in Photoshop.", "keywords": ["Why use version 1 (2021)?"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Acrobat AI workflows references", "file": "ai-assistant/reference-index.md", "summary": "Open when looking up Acrobat AI workflows in Acrobat.", "keywords": ["Acrobat AI workflows references"]},
+  {"topic": "Application integrations references", "file": "integrations/reference-index.md", "summary": "Open when looking up Application integrations in Acrobat.", "keywords": ["Application integrations references"]},
+  {"topic": "Desktop workflows references", "file": "desktop/reference-index.md", "summary": "Open when looking up Desktop workflows in Acrobat.", "keywords": ["Desktop workflows references"]},
+  {"topic": "Document Generation API references", "file": "document-generation/reference-index.md", "summary": "Open when looking up Document Generation API in Acrobat.", "keywords": ["Document Generation API references"]},
+  {"topic": "Mobile workflows references", "file": "mobile/reference-index.md", "summary": "Open when looking up Mobile workflows in Acrobat.", "keywords": ["Mobile workflows references"]},
+  {"topic": "PDF Embed API references", "file": "pdf-embed/reference-index.md", "summary": "Open when looking up PDF Embed API in Acrobat.", "keywords": ["PDF Embed API references"]},
+  {"topic": "PDF Services API references", "file": "pdf-services/reference-index.md", "summary": "Open when looking up PDF Services API in Acrobat.", "keywords": ["PDF Services API references"]},
+  {"topic": "Scripting APIs references", "file": "scripting/reference-index.md", "summary": "Open when looking up Scripting APIs in Acrobat.", "keywords": ["Scripting APIs references"]},
+  {"topic": "Web workflows references", "file": "web/reference-index.md", "summary": "Open when looking up Web workflows in Acrobat.", "keywords": ["Web workflows references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Row declaration", "file": "references/community-types/indesign/row/declaration.md", "summary": "Open when looking up Row declaration in Shared Adobe platform.", "keywords": ["Row declaration"]},
-  {"topic": "Row identity and parent", "file": "references/community-types/indesign/row/identity-and-parent.md", "summary": "Open when looking up Row identity and parent in Shared Adobe platform.", "keywords": ["Row identity and parent"]},
-  {"topic": "Row object resolution", "file": "references/community-types/indesign/row/object-resolution.md", "summary": "Open when looking up Row object resolution in Shared Adobe platform.", "keywords": ["Row object resolution"]},
-  {"topic": "Row.properties", "file": "references/community-types/indesign/row/properties.md", "summary": "Open when looking up Row.properties in Shared Adobe platform.", "keywords": ["Row.properties"]},
-  {"topic": "Row.remove", "file": "references/community-types/indesign/row/remove.md", "summary": "Open when looking up Row.remove in Shared Adobe platform.", "keywords": ["Row.remove"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

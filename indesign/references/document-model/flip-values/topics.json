@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "FLIPPED", "file": "references/document-model/flip-values/flipped.md", "summary": "Open when looking up FLIPPED in InDesign.", "keywords": ["FLIPPED"]},
-  {"topic": "NOT_FLIPPED", "file": "references/document-model/flip-values/notflipped.md", "summary": "Open when looking up NOT_FLIPPED in InDesign.", "keywords": ["NOT_FLIPPED"]},
-  {"topic": "UNDEFINED_FLIP_VALUE", "file": "references/document-model/flip-values/undefinedflipvalue.md", "summary": "Open when looking up UNDEFINED_FLIP_VALUE in InDesign.", "keywords": ["UNDEFINED_FLIP_VALUE"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

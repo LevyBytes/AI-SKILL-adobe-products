@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Image Formats", "file": "cloud-services/image-upload/image-formats.md", "summary": "Open when looking up Image Formats in Firefly.", "keywords": ["Image Formats"]},
+  {"topic": "Pre-signed URLs", "file": "cloud-services/image-upload/pre-signed-urls.md", "summary": "Open when looking up Pre-signed URLs in Firefly.", "keywords": ["Pre-signed URLs"]},
+  {"topic": "Prerequisites", "file": "cloud-services/image-upload/prerequisites.md", "summary": "Open when looking up Prerequisites in Firefly.", "keywords": ["Prerequisites"]},
+  {"topic": "Upload Source Image", "file": "cloud-services/image-upload/upload-source-image.md", "summary": "Open when looking up Upload Source Image in Firefly.", "keywords": ["Upload Source Image"]},
+  {"topic": "Using the Upload Endpoint", "file": "cloud-services/image-upload/using-the-upload-endpoint.md", "summary": "Open when looking up Using the Upload Endpoint in Firefly.", "keywords": ["Using the Upload Endpoint"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

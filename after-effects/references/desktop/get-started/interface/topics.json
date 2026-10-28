@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "General user interface items", "file": "references/desktop/get-started/interface/general-user-interface-items.md", "summary": "Open when looking up General user interface items in After Effects.", "keywords": ["General user interface items"]},
-  {"topic": "General user interface items references", "file": "references/desktop/get-started/interface/general-user-interface-items/reference-index.md", "summary": "Open when looking up General user interface items in After Effects.", "keywords": ["General user interface items references"]},
-  {"topic": "Workspaces, panels, and viewers", "file": "references/desktop/get-started/interface/workspaces-panels-and-viewers.md", "summary": "Open when looking up Workspaces, panels, and viewers in After Effects.", "keywords": ["Workspaces, panels, and viewers"]},
-  {"topic": "Workspaces, panels, and viewers references", "file": "references/desktop/get-started/interface/workspaces-panels-and-viewers/reference-index.md", "summary": "Open when looking up Workspaces, panels, and viewers in After Effects.", "keywords": ["Workspaces, panels, and viewers references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

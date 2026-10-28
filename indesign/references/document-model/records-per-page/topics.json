@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "MULTIPLE_RECORD", "file": "references/document-model/records-per-page/multiplerecord.md", "summary": "Open when looking up MULTIPLE_RECORD in InDesign.", "keywords": ["MULTIPLE_RECORD"]},
-  {"topic": "SINGLE_RECORD", "file": "references/document-model/records-per-page/singlerecord.md", "summary": "Open when looking up SINGLE_RECORD in InDesign.", "keywords": ["SINGLE_RECORD"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

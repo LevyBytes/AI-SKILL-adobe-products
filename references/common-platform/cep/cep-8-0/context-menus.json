@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Alternate Context Menu Implementations", "file": "cep/cep-8-0/alternate-context-menu-implementations.md", "summary": "Open when looking up Alternate Context Menu Implementations in Shared Adobe platform.", "keywords": ["Alternate Context Menu Implementations"]},
+  {"topic": "CEP XML context menus", "file": "cep/cep-8-0/context-menu-configuration.md", "summary": "Open when looking up CEP XML context menus in Shared Adobe platform.", "keywords": ["CEP XML context menus"]},
+  {"topic": "Customize Extension Menu", "file": "cep/cep-8-0/customize-extension-menu.md", "summary": "Open when looking up Customize Extension Menu in Shared Adobe platform.", "keywords": ["Customize Extension Menu"]},
+  {"topic": "Disable Context Menu", "file": "cep/cep-8-0/disable-context-menu.md", "summary": "Open when looking up Disable Context Menu in Shared Adobe platform.", "keywords": ["Disable Context Menu"]},
+  {"topic": "Fly-out menu", "file": "cep/cep-8-0/fly-out-menu.md", "summary": "Open when looking up Fly-out menu in Shared Adobe platform.", "keywords": ["Fly-out menu"]},
+  {"topic": "CEP JSON context menus", "file": "cep/cep-8-0/json-context-menus.md", "summary": "Open when looking up CEP JSON context menus in Shared Adobe platform.", "keywords": ["CEP JSON context menus"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

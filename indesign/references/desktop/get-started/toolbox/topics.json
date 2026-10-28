@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Change the toolbox layout", "file": "references/desktop/get-started/toolbox/change-the-toolbox-layout.md", "summary": "Open when looking up Change the toolbox layout in InDesign.", "keywords": ["Change the toolbox layout"]},
-  {"topic": "Create layouts with hand gestures", "file": "references/desktop/get-started/toolbox/create-layouts-with-hand-gestures.md", "summary": "Open when looking up Create layouts with hand gestures in InDesign.", "keywords": ["Create layouts with hand gestures"]},
-  {"topic": "Use the Contextual Task Bar", "file": "references/desktop/get-started/toolbox/use-the-contextual-task-bar.md", "summary": "Open when looking up Use the Contextual Task Bar in InDesign.", "keywords": ["Use the Contextual Task Bar"]},
-  {"topic": "Use the Contextual Task Bar references", "file": "references/desktop/get-started/toolbox/use-the-contextual-task-bar/reference-index.md", "summary": "Open when looking up Use the Contextual Task Bar in InDesign.", "keywords": ["Use the Contextual Task Bar references"]},
-  {"topic": "View and select tools", "file": "references/desktop/get-started/toolbox/view-and-select-tools.md", "summary": "Open when looking up View and select tools in InDesign.", "keywords": ["View and select tools"]},
-  {"topic": "View and select tools references", "file": "references/desktop/get-started/toolbox/view-and-select-tools/reference-index.md", "summary": "Open when looking up View and select tools in InDesign.", "keywords": ["View and select tools references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

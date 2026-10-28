@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Clear spread rotation", "file": "desktop/pages-and-books/arrange-and-order-pages/rotate-the-spread-view/clear-spread-rotation.md", "summary": "Open when looking up Clear spread rotation in InDesign.", "keywords": ["Clear spread rotation"]},
+  {"topic": "Rotate a spread", "file": "desktop/pages-and-books/arrange-and-order-pages/rotate-the-spread-view/rotate-a-spread.md", "summary": "Open when looking up Rotate a spread in InDesign.", "keywords": ["Rotate a spread"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

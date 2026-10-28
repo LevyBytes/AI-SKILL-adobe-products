@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Create book files", "file": "desktop/pages-and-books/create-and-manage-book-files/create-and-save-book-files/create-book-files.md", "summary": "Open when looking up Create book files in InDesign.", "keywords": ["Create book files"]},
+  {"topic": "Open book files in Explorer or Finder", "file": "desktop/pages-and-books/create-and-manage-book-files/create-and-save-book-files/open-book-files-in-explorer-or-finder.md", "summary": "Open when looking up Open book files in Explorer or Finder in InDesign.", "keywords": ["Open book files in Explorer or Finder"]},
+  {"topic": "Save book files", "file": "desktop/pages-and-books/create-and-manage-book-files/create-and-save-book-files/save-book-files.md", "summary": "Open when looking up Save book files in InDesign.", "keywords": ["Save book files"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "FindObjectPreference.firstBaselineOffset", "file": "references/community-types/indesign/find-object-preference/first-baseline-offset.md", "summary": "Open when looking up FindObjectPreference.firstBaselineOffset in Shared Adobe platform.", "keywords": ["FindObjectPreference.firstBaselineOffset"]},
-  {"topic": "FindObjectPreference.minimumFirstBaselineOffset", "file": "references/community-types/indesign/find-object-preference/minimum-first-baseline-offset.md", "summary": "Open when looking up FindObjectPreference.minimumFirstBaselineOffset in Shared Adobe platform.", "keywords": ["FindObjectPreference.minimumFirstBaselineOffset"]},
-  {"topic": "FindObjectPreference.verticalJustification", "file": "references/community-types/indesign/find-object-preference/vertical-justification.md", "summary": "Open when looking up FindObjectPreference.verticalJustification in Shared Adobe platform.", "keywords": ["FindObjectPreference.verticalJustification"]},
-  {"topic": "FindObjectPreference.verticalThreshold", "file": "references/community-types/indesign/find-object-preference/vertical-threshold.md", "summary": "Open when looking up FindObjectPreference.verticalThreshold in Shared Adobe platform.", "keywords": ["FindObjectPreference.verticalThreshold"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

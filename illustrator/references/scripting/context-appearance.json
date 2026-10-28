@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Blend modes references", "file": "references/scripting/blend-modes/reference-index.md", "summary": "Open when looking up Blend modes in Illustrator.", "keywords": ["Blend modes references"]},
-  {"topic": "Knockout state references", "file": "references/scripting/knockout-state/reference-index.md", "summary": "Open when looking up Knockout state in Illustrator.", "keywords": ["Knockout state references"]},
-  {"topic": "Stroke cap references", "file": "references/scripting/stroke-cap/reference-index.md", "summary": "Open when looking up Stroke cap in Illustrator.", "keywords": ["Stroke cap references"]},
-  {"topic": "Stroke join references", "file": "references/scripting/stroke-join/reference-index.md", "summary": "Open when looking up Stroke join in Illustrator.", "keywords": ["Stroke join references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

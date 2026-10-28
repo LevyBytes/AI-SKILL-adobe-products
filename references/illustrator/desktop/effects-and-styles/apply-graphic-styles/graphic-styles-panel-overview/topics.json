@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Graphic Styles panel", "file": "desktop/effects-and-styles/apply-graphic-styles/graphic-styles-panel-overview/graphic-styles-panel.md", "summary": "Open when looking up Graphic Styles panel in Illustrator.", "keywords": ["Graphic Styles panel"]},
+  {"topic": "Graphic Styles panel menu", "file": "desktop/effects-and-styles/apply-graphic-styles/graphic-styles-panel-overview/graphic-styles-panel-menu.md", "summary": "Open when looking up Graphic Styles panel menu in Illustrator.", "keywords": ["Graphic Styles panel menu"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "add()", "file": "references/scripting/list-control-object-functions/add.md", "summary": "Open when looking up add() in Shared Adobe platform.", "keywords": ["add()"]},
-  {"topic": "Control objects - List control object functions", "file": "references/scripting/list-control-object-functions/control-objects-list-control-object-functions.md", "summary": "Open when looking up Control objects - List control object functions in Shared Adobe platform.", "keywords": ["Control objects - List control object functions"]},
-  {"topic": "find()", "file": "references/scripting/list-control-object-functions/find.md", "summary": "Open when looking up find() in Shared Adobe platform.", "keywords": ["find()"]},
-  {"topic": "remove()", "file": "references/scripting/list-control-object-functions/remove.md", "summary": "Open when looking up remove() in Shared Adobe platform.", "keywords": ["remove()"]},
-  {"topic": "removeAll()", "file": "references/scripting/list-control-object-functions/remove-all.md", "summary": "Open when looking up removeAll() in Shared Adobe platform.", "keywords": ["removeAll()"]},
-  {"topic": "revealItem()", "file": "references/scripting/list-control-object-functions/reveal-item.md", "summary": "Open when looking up revealItem() in Shared Adobe platform.", "keywords": ["revealItem()"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

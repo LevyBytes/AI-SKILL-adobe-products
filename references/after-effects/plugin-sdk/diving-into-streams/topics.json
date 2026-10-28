@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "AEGP Suites - Diving Into Streams!", "file": "plugin-sdk/diving-into-streams/aegp-suites-diving-into-streams.md", "summary": "Open when looking up AEGP Suites - Diving Into Streams! in After Effects.", "keywords": ["AEGP Suites - Diving Into Streams!"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

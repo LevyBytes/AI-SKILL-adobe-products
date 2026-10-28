@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "CLOSED_PATH", "file": "document-model/path-type/closedpath.md", "summary": "Open when looking up CLOSED_PATH in InDesign.", "keywords": ["CLOSED_PATH"]},
+  {"topic": "OPEN_PATH", "file": "document-model/path-type/openpath.md", "summary": "Open when looking up OPEN_PATH in InDesign.", "keywords": ["OPEN_PATH"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Cloud service APIs references", "file": "references/cloud-services/reference-index.md", "summary": "Open when looking up Cloud service APIs in Illustrator.", "keywords": ["Cloud service APIs references"]},
-  {"topic": "Desktop workflows references", "file": "references/desktop/reference-index.md", "summary": "Open when looking up Desktop workflows in Illustrator.", "keywords": ["Desktop workflows references"]},
-  {"topic": "Scripting APIs references", "file": "references/scripting/reference-index.md", "summary": "Open when looking up Scripting APIs in Illustrator.", "keywords": ["Scripting APIs references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Use Bridge to manage and access assets", "file": "desktop/app-integrations/use-adobe-bridge-with-in-design/use-bridge-to-manage-and-access-assets.md", "summary": "Open when looking up Use Bridge to manage and access assets in InDesign.", "keywords": ["Use Bridge to manage and access assets"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

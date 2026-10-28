@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Missing Windows Media components (Windows N)", "file": "desktop/troubleshoot/launch-and-crash-issues/app-launch-issues-on-windows/missing-windows-media-components-windows-n.md", "summary": "Open when looking up Missing Windows Media components (Windows N) in InDesign.", "keywords": ["Missing Windows Media components (Windows N)"]},
+  {"topic": "Outdated Windows system files", "file": "desktop/troubleshoot/launch-and-crash-issues/app-launch-issues-on-windows/outdated-windows-system-files.md", "summary": "Open when looking up Outdated Windows system files in InDesign.", "keywords": ["Outdated Windows system files"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

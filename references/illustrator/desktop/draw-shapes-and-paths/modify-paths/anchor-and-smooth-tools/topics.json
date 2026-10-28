@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Adjust anchor points", "file": "desktop/draw-shapes-and-paths/modify-paths/anchor-and-smooth-tools/adjust-anchor-points.md", "summary": "Open when looking up Adjust anchor points in Illustrator.", "keywords": ["Adjust anchor points"]},
+  {"topic": "Create smooth anchor points with the Anchor Point tool", "file": "desktop/draw-shapes-and-paths/modify-paths/anchor-and-smooth-tools/create-smooth-anchor-points-with-the-anchor-point-tool.md", "summary": "Open when looking up Create smooth anchor points with the Anchor Point tool in Illustrator.", "keywords": ["Create smooth anchor points with the Anchor Point tool"]},
+  {"topic": "Smooth paths using the Smooth tool", "file": "desktop/draw-shapes-and-paths/modify-paths/anchor-and-smooth-tools/smooth-paths-using-the-smooth-tool.md", "summary": "Open when looking up Smooth paths using the Smooth tool in Illustrator.", "keywords": ["Smooth paths using the Smooth tool"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

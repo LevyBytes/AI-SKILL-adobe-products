@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Export the remixed audio back to Premiere", "file": "desktop/add-audio-effects/advanced-audio-techniques/audition-remix/export-the-remixed-audio-back-to-premiere.md", "summary": "Open when looking up Export the remixed audio back to Premiere in Premiere Pro.", "keywords": ["Export the remixed audio back to Premiere"]},
+  {"topic": "Remix", "file": "desktop/add-audio-effects/advanced-audio-techniques/audition-remix/remix.md", "summary": "Open when looking up Remix in Premiere Pro.", "keywords": ["Remix"]},
+  {"topic": "Remix the audio of your Premiere project in Audition", "file": "desktop/add-audio-effects/advanced-audio-techniques/audition-remix/remix-the-audio-of-your-premiere-project-in-audition.md", "summary": "Open when looking up Remix the audio of your Premiere project in Audition in Premiere Pro.", "keywords": ["Remix the audio of your Premiere project in Audition"]},
+  {"topic": "Stretch", "file": "desktop/add-audio-effects/advanced-audio-techniques/audition-remix/stretch.md", "summary": "Open when looking up Stretch in Premiere Pro.", "keywords": ["Stretch"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

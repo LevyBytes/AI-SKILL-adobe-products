@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "BEVEL_END_JOIN", "file": "references/document-model/end-join/bevelendjoin.md", "summary": "Open when looking up BEVEL_END_JOIN in InDesign.", "keywords": ["BEVEL_END_JOIN"]},
-  {"topic": "MITER_END_JOIN", "file": "references/document-model/end-join/miterendjoin.md", "summary": "Open when looking up MITER_END_JOIN in InDesign.", "keywords": ["MITER_END_JOIN"]},
-  {"topic": "ROUND_END_JOIN", "file": "references/document-model/end-join/roundendjoin.md", "summary": "Open when looking up ROUND_END_JOIN in InDesign.", "keywords": ["ROUND_END_JOIN"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

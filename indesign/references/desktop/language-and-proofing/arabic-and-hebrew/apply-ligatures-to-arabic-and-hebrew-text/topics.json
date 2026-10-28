@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Activate standard ligatures", "file": "references/desktop/language-and-proofing/arabic-and-hebrew/apply-ligatures-to-arabic-and-hebrew-text/activate-standard-ligatures.md", "summary": "Open when looking up Activate standard ligatures in InDesign.", "keywords": ["Activate standard ligatures"]},
-  {"topic": "Apply decorative discretionary ligatures", "file": "references/desktop/language-and-proofing/arabic-and-hebrew/apply-ligatures-to-arabic-and-hebrew-text/apply-decorative-discretionary-ligatures.md", "summary": "Open when looking up Apply decorative discretionary ligatures in InDesign.", "keywords": ["Apply decorative discretionary ligatures"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

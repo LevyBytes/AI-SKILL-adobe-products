@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "JavaScript APIs - collectionField", "file": "scripting/collection-field/java-script-apis-collection-field.md", "summary": "Open when looking up JavaScript APIs - collectionField in Acrobat.", "keywords": ["JavaScript APIs - collectionField"]},
+  {"topic": "name", "file": "scripting/collection-field/name.md", "summary": "Open when looking up name in Acrobat.", "keywords": ["name"]},
+  {"topic": "order", "file": "scripting/collection-field/order.md", "summary": "Open when looking up order in Acrobat.", "keywords": ["order"]},
+  {"topic": "sort", "file": "scripting/collection-field/sort.md", "summary": "Open when looking up sort in Acrobat.", "keywords": ["sort"]},
+  {"topic": "text", "file": "scripting/collection-field/text.md", "summary": "Open when looking up text in Acrobat.", "keywords": ["text"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

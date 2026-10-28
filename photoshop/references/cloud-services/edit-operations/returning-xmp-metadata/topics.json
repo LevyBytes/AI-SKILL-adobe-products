@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Complete Example: Auto Tone with Inline XMP", "file": "references/cloud-services/edit-operations/returning-xmp-metadata/complete-example-auto-tone-with-inline-xmp.md", "summary": "Open when looking up Complete Example: Auto Tone with Inline XMP in Photoshop.", "keywords": ["Complete Example: Auto Tone with Inline XMP"]},
-  {"topic": "Inline XMP (Embedded)", "file": "references/cloud-services/edit-operations/returning-xmp-metadata/inline-xmp-embedded.md", "summary": "Open when looking up Inline XMP (Embedded) in Photoshop.", "keywords": ["Inline XMP (Embedded)"]},
-  {"topic": "Using XMP Output", "file": "references/cloud-services/edit-operations/returning-xmp-metadata/using-xmp-output.md", "summary": "Open when looking up Using XMP Output in Photoshop.", "keywords": ["Using XMP Output"]},
-  {"topic": "XMP Output Options", "file": "references/cloud-services/edit-operations/returning-xmp-metadata/xmp-output-options.md", "summary": "Open when looking up XMP Output Options in Photoshop.", "keywords": ["XMP Output Options"]},
-  {"topic": "XMP with Auto Tone", "file": "references/cloud-services/edit-operations/returning-xmp-metadata/xmp-with-auto-tone.md", "summary": "Open when looking up XMP with Auto Tone in Photoshop.", "keywords": ["XMP with Auto Tone"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

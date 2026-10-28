@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "addIcon", "file": "references/scripting/doc/add-icon.md", "summary": "Open when looking up addIcon in Acrobat.", "keywords": ["addIcon"]},
-  {"topic": "getIcon", "file": "references/scripting/doc/get-icon.md", "summary": "Open when looking up getIcon in Acrobat.", "keywords": ["getIcon"]},
-  {"topic": "icons", "file": "references/scripting/doc/icons.md", "summary": "Open when looking up icons in Acrobat.", "keywords": ["icons"]},
-  {"topic": "importIcon", "file": "references/scripting/doc/import-icon.md", "summary": "Open when looking up importIcon in Acrobat.", "keywords": ["importIcon"]},
-  {"topic": "removeIcon", "file": "references/scripting/doc/remove-icon.md", "summary": "Open when looking up removeIcon in Acrobat.", "keywords": ["removeIcon"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

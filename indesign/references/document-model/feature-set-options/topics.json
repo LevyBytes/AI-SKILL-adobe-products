@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "JAPANESE", "file": "references/document-model/feature-set-options/japanese.md", "summary": "Open when looking up JAPANESE in InDesign.", "keywords": ["JAPANESE"]},
-  {"topic": "RIGHTTOLEFT", "file": "references/document-model/feature-set-options/righttoleft.md", "summary": "Open when looking up RIGHTTOLEFT in InDesign.", "keywords": ["RIGHTTOLEFT"]},
-  {"topic": "ROMAN", "file": "references/document-model/feature-set-options/roman.md", "summary": "Open when looking up ROMAN in InDesign.", "keywords": ["ROMAN"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

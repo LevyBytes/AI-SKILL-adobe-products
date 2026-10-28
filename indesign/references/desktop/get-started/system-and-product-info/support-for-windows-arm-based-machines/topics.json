@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Fix startup error (0xc0000142) on Windows ARM", "file": "references/desktop/get-started/system-and-product-info/support-for-windows-arm-based-machines/fix-startup-error-0xc0000142-on-windows-arm.md", "summary": "Open when looking up Fix startup error (0xc0000142) on Windows ARM in InDesign.", "keywords": ["Fix startup error (0xc0000142) on Windows ARM"]},
-  {"topic": "Known issues", "file": "references/desktop/get-started/system-and-product-info/support-for-windows-arm-based-machines/known-issues.md", "summary": "Open when looking up Known issues in InDesign.", "keywords": ["Known issues"]},
-  {"topic": "Minimum system requirements", "file": "references/desktop/get-started/system-and-product-info/support-for-windows-arm-based-machines/minimum-system-requirements.md", "summary": "Open when looking up Minimum system requirements in InDesign.", "keywords": ["Minimum system requirements"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

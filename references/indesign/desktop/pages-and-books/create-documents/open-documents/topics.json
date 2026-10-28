@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Check your InDesign version", "file": "desktop/pages-and-books/create-documents/open-documents/check-your-in-design-version.md", "summary": "Open when looking up Check your InDesign version in InDesign.", "keywords": ["Check your InDesign version"]},
+  {"topic": "Make cloud documents available offline", "file": "desktop/pages-and-books/create-documents/open-documents/make-cloud-documents-available-offline.md", "summary": "Open when looking up Make cloud documents available offline in InDesign.", "keywords": ["Make cloud documents available offline"]},
+  {"topic": "Open a cloud document", "file": "desktop/pages-and-books/create-documents/open-documents/open-a-cloud-document.md", "summary": "Open when looking up Open a cloud document in InDesign.", "keywords": ["Open a cloud document"]},
+  {"topic": "Open a document from your computer", "file": "desktop/pages-and-books/create-documents/open-documents/open-a-document-from-your-computer.md", "summary": "Open when looking up Open a document from your computer in InDesign.", "keywords": ["Open a document from your computer"]},
+  {"topic": "Open documents from Adobe Bridge", "file": "desktop/pages-and-books/create-documents/open-documents/open-documents-from-adobe-bridge.md", "summary": "Open when looking up Open documents from Adobe Bridge in InDesign.", "keywords": ["Open documents from Adobe Bridge"]},
+  {"topic": "Open recent documents", "file": "desktop/pages-and-books/create-documents/open-documents/open-recent-documents.md", "summary": "Open when looking up Open recent documents in InDesign.", "keywords": ["Open recent documents"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Meet and collaborate", "file": "ai-assistant/explore-generative-ai-in-acrobat/meet-and-collaborate.md", "summary": "Open when looking up Meet and collaborate in Acrobat.", "keywords": ["Meet and collaborate"]},
+  {"topic": "Questions about document content", "file": "ai-assistant/explore-generative-ai-in-acrobat/questions-about-document-content.md", "summary": "Open when looking up Questions about document content in Acrobat.", "keywords": ["Questions about document content"]},
+  {"topic": "Research customer information", "file": "ai-assistant/explore-generative-ai-in-acrobat/research-customer-information.md", "summary": "Open when looking up Research customer information in Acrobat.", "keywords": ["Research customer information"]},
+  {"topic": "Understand documents", "file": "ai-assistant/explore-generative-ai-in-acrobat/understand-documents.md", "summary": "Open when looking up Understand documents in Acrobat.", "keywords": ["Understand documents"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

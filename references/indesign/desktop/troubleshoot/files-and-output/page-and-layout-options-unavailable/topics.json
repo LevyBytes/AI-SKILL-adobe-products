@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Adobe PDF PPD isn’t installed", "file": "desktop/troubleshoot/files-and-output/page-and-layout-options-unavailable/adobe-pdf-ppd-isn-t-installed.md", "summary": "Open when looking up Adobe PDF PPD isn’t installed in InDesign.", "keywords": ["Adobe PDF PPD isn’t installed"]},
+  {"topic": "Page size and layout options aren’t configured", "file": "desktop/troubleshoot/files-and-output/page-and-layout-options-unavailable/page-size-and-layout-options-aren-t-configured.md", "summary": "Open when looking up Page size and layout options aren’t configured in InDesign.", "keywords": ["Page size and layout options aren’t configured"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

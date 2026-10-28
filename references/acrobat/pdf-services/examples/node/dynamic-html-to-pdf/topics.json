@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Dynamic html to pdf example setup", "file": "pdf-services/examples/node/dynamic-html-to-pdf/dynamic-html-to-pdf-setup.md", "summary": "Open when looking up Dynamic html to pdf example setup in Acrobat.", "keywords": ["Dynamic html to pdf example setup"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

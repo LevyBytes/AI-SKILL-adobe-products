@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Command line Templates", "file": "uxp/spectrum-web-component/command-line-templates.md", "summary": "Open when looking up Command line Templates in Photoshop.", "keywords": ["Command line Templates"]},
+  {"topic": "Getting started", "file": "uxp/spectrum-web-component/getting-started.md", "summary": "Open when looking up Getting started in Photoshop.", "keywords": ["Getting started"]},
+  {"topic": "InDesign", "file": "uxp/spectrum-web-component/in-design.md", "summary": "Open when looking up InDesign in Photoshop.", "keywords": ["InDesign"]},
+  {"topic": "List of supported SWC", "file": "uxp/spectrum-web-component/list-of-supported-swc.md", "summary": "Open when looking up List of supported SWC in Photoshop.", "keywords": ["List of supported SWC"]},
+  {"topic": "Photoshop", "file": "uxp/spectrum-web-component/photoshop.md", "summary": "Open when looking up Photoshop in Photoshop.", "keywords": ["Photoshop"]},
+  {"topic": "Sample plugin", "file": "uxp/spectrum-web-component/sample-plugin.md", "summary": "Open when looking up Sample plugin in Photoshop.", "keywords": ["Sample plugin"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

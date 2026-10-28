@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Assign a language to text inside a frame", "file": "references/desktop/language-and-proofing/language-settings/language-assignment/assign-a-language-to-text-inside-a-frame.md", "summary": "Open when looking up Assign a language to text inside a frame in InDesign.", "keywords": ["Assign a language to text inside a frame"]},
-  {"topic": "Change the default language for new documents", "file": "references/desktop/language-and-proofing/language-settings/language-assignment/change-the-default-language-for-new-documents.md", "summary": "Open when looking up Change the default language for new documents in InDesign.", "keywords": ["Change the default language for new documents"]},
-  {"topic": "Change the default language for text frames", "file": "references/desktop/language-and-proofing/language-settings/language-assignment/change-the-default-language-for-text-frames.md", "summary": "Open when looking up Change the default language for text frames in InDesign.", "keywords": ["Change the default language for text frames"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

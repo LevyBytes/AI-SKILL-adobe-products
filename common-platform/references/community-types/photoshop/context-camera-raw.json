@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "CameraRAWOpenOptions references", "file": "references/community-types/photoshop/camera-raw-open-options/reference-index.md", "summary": "Open when looking up CameraRAWOpenOptions in Shared Adobe platform.", "keywords": ["CameraRAWOpenOptions references"]},
-  {"topic": "CameraRAWSettingsType", "file": "references/community-types/photoshop/camera-raw-settings-type.md", "summary": "Open when looking up CameraRAWSettingsType in Shared Adobe platform.", "keywords": ["CameraRAWSettingsType"]},
-  {"topic": "CameraRAWSize", "file": "references/community-types/photoshop/camera-raw-size.md", "summary": "Open when looking up CameraRAWSize in Shared Adobe platform.", "keywords": ["CameraRAWSize"]},
-  {"topic": "RawFormatOpenOptions", "file": "references/community-types/photoshop/raw-format-open-options.md", "summary": "Open when looking up RawFormatOpenOptions in Shared Adobe platform.", "keywords": ["RawFormatOpenOptions"]},
-  {"topic": "WhiteBalanceType", "file": "references/community-types/photoshop/white-balance-type.md", "summary": "Open when looking up WhiteBalanceType in Shared Adobe platform.", "keywords": ["WhiteBalanceType"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

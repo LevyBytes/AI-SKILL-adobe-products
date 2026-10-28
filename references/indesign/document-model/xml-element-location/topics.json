@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "ELEMENT_END", "file": "document-model/xml-element-location/elementend.md", "summary": "Open when looking up ELEMENT_END in InDesign.", "keywords": ["ELEMENT_END"]},
+  {"topic": "ELEMENT_START", "file": "document-model/xml-element-location/elementstart.md", "summary": "Open when looking up ELEMENT_START in InDesign.", "keywords": ["ELEMENT_START"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

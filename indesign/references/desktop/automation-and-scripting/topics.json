@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Document automation references", "file": "references/desktop/automation-and-scripting/document-automation/reference-index.md", "summary": "Open when looking up Document automation in InDesign.", "keywords": ["Document automation references"]},
-  {"topic": "Merge data references", "file": "references/desktop/automation-and-scripting/merge-data/reference-index.md", "summary": "Open when looking up Merge data in InDesign.", "keywords": ["Merge data references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

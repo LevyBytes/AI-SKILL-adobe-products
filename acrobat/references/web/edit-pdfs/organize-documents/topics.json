@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Combine files", "file": "references/web/edit-pdfs/organize-documents/combine-files.md", "summary": "Open when looking up Combine files in Acrobat.", "keywords": ["Combine files"]},
-  {"topic": "Crop pages", "file": "references/web/edit-pdfs/organize-documents/crop-pages.md", "summary": "Open when looking up Crop pages in Acrobat.", "keywords": ["Crop pages"]},
-  {"topic": "Extract pages", "file": "references/web/edit-pdfs/organize-documents/extract-pages.md", "summary": "Open when looking up Extract pages in Acrobat.", "keywords": ["Extract pages"]},
-  {"topic": "Number pages", "file": "references/web/edit-pdfs/organize-documents/number-pages.md", "summary": "Open when looking up Number pages in Acrobat.", "keywords": ["Number pages"]},
-  {"topic": "Supported file formats for combining or converting", "file": "references/web/edit-pdfs/organize-documents/supported-file-formats-for-combining-or-converting.md", "summary": "Open when looking up Supported file formats for combining or converting in Acrobat.", "keywords": ["Supported file formats for combining or converting"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

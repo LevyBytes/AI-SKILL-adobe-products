@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "baselineFrameGridOptions", "file": "document-model/object-style/baseline-frame-grid-options.md", "summary": "Open when looking up baselineFrameGridOptions in InDesign.", "keywords": ["baselineFrameGridOptions"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,18 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "binary", "file": "scripting/certificate/binary.md", "summary": "Open when looking up binary in Acrobat.", "keywords": ["binary"]},
+  {"topic": "issuerDN", "file": "scripting/certificate/issuer-dn.md", "summary": "Open when looking up issuerDN in Acrobat.", "keywords": ["issuerDN"]},
+  {"topic": "JavaScript APIs - Certificate", "file": "scripting/certificate/java-script-apis-certificate.md", "summary": "Open when looking up JavaScript APIs - Certificate in Acrobat.", "keywords": ["JavaScript APIs - Certificate"]},
+  {"topic": "keyUsage", "file": "scripting/certificate/key-usage.md", "summary": "Open when looking up keyUsage in Acrobat.", "keywords": ["keyUsage"]},
+  {"topic": "MD5Hash", "file": "scripting/certificate/md5-hash.md", "summary": "Open when looking up MD5Hash in Acrobat.", "keywords": ["MD5Hash"]},
+  {"topic": "privateKeyValidityEnd", "file": "scripting/certificate/private-key-validity-end.md", "summary": "Open when looking up privateKeyValidityEnd in Acrobat.", "keywords": ["privateKeyValidityEnd"]},
+  {"topic": "privateKeyValidityStart", "file": "scripting/certificate/private-key-validity-start.md", "summary": "Open when looking up privateKeyValidityStart in Acrobat.", "keywords": ["privateKeyValidityStart"]},
+  {"topic": "serialNumber", "file": "scripting/certificate/serial-number.md", "summary": "Open when looking up serialNumber in Acrobat.", "keywords": ["serialNumber"]},
+  {"topic": "SHA1Hash", "file": "scripting/certificate/sha1-hash.md", "summary": "Open when looking up SHA1Hash in Acrobat.", "keywords": ["SHA1Hash"]},
+  {"topic": "subjectCN", "file": "scripting/certificate/subject-cn.md", "summary": "Open when looking up subjectCN in Acrobat.", "keywords": ["subjectCN"]},
+  {"topic": "subjectDN", "file": "scripting/certificate/subject-dn.md", "summary": "Open when looking up subjectDN in Acrobat.", "keywords": ["subjectDN"]},
+  {"topic": "ubRights", "file": "scripting/certificate/ub-rights.md", "summary": "Open when looking up ubRights in Acrobat.", "keywords": ["ubRights"]},
+  {"topic": "usage", "file": "scripting/certificate/usage.md", "summary": "Open when looking up usage in Acrobat.", "keywords": ["usage"]},
+  {"topic": "validityEnd", "file": "scripting/certificate/validity-end.md", "summary": "Open when looking up validityEnd in Acrobat.", "keywords": ["validityEnd"]},
+  {"topic": "validityStart", "file": "scripting/certificate/validity-start.md", "summary": "Open when looking up validityStart in Acrobat.", "keywords": ["validityStart"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "AUTO", "file": "document-model/folio-orientation-options/auto.md", "summary": "Open when looking up AUTO in InDesign.", "keywords": ["AUTO"]},
+  {"topic": "LANDSCAPE", "file": "document-model/folio-orientation-options/landscape.md", "summary": "Open when looking up LANDSCAPE in InDesign.", "keywords": ["LANDSCAPE"]},
+  {"topic": "PORTRAIT", "file": "document-model/folio-orientation-options/portrait.md", "summary": "Open when looking up PORTRAIT in InDesign.", "keywords": ["PORTRAIT"]},
+  {"topic": "PORTRAIT_AND_LANDSCAPE", "file": "document-model/folio-orientation-options/portraitandlandscape.md", "summary": "Open when looking up PORTRAIT_AND_LANDSCAPE in InDesign.", "keywords": ["PORTRAIT_AND_LANDSCAPE"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

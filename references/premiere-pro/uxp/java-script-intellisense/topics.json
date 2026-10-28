@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Setup steps", "file": "uxp/java-script-intellisense/setup-steps.md", "summary": "Open when looking up Setup steps in Premiere Pro.", "keywords": ["Setup steps"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

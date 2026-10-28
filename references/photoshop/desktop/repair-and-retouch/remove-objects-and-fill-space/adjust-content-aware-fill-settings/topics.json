@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Fill settings", "file": "desktop/repair-and-retouch/remove-objects-and-fill-space/adjust-content-aware-fill-settings/fill-settings.md", "summary": "Open when looking up Fill settings in Photoshop.", "keywords": ["Fill settings"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

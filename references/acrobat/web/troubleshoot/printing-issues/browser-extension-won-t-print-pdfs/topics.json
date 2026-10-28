@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Incorrect Google Chrome settings", "file": "web/troubleshoot/printing-issues/browser-extension-won-t-print-pdfs/incorrect-google-chrome-settings.md", "summary": "Open when looking up Incorrect Google Chrome settings in Acrobat.", "keywords": ["Incorrect Google Chrome settings"]},
+  {"topic": "Incorrect Microsoft Edge settings", "file": "web/troubleshoot/printing-issues/browser-extension-won-t-print-pdfs/incorrect-microsoft-edge-settings.md", "summary": "Open when looking up Incorrect Microsoft Edge settings in Acrobat.", "keywords": ["Incorrect Microsoft Edge settings"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

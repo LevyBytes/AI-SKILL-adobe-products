@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Menu declaration", "file": "community-types/indesign/menu/declaration.md", "summary": "Open when looking up Menu declaration in Shared Adobe platform.", "keywords": ["Menu declaration"]},
+  {"topic": "Menu event listeners", "file": "community-types/indesign/menu/event-listeners.md", "summary": "Open when looking up Menu event listeners in Shared Adobe platform.", "keywords": ["Menu event listeners"]},
+  {"topic": "Menu identity and parent", "file": "community-types/indesign/menu/identity-and-parent.md", "summary": "Open when looking up Menu identity and parent in Shared Adobe platform.", "keywords": ["Menu identity and parent"]},
+  {"topic": "Menu object resolution", "file": "community-types/indesign/menu/object-resolution.md", "summary": "Open when looking up Menu object resolution in Shared Adobe platform.", "keywords": ["Menu object resolution"]},
+  {"topic": "Menu.BEFORE_DISPLAY", "file": "community-types/indesign/menu/beforedisplay.md", "summary": "Open when looking up Menu.BEFORE_DISPLAY in Shared Adobe platform.", "keywords": ["Menu.BEFORE_DISPLAY"]},
+  {"topic": "Menu.menuElements", "file": "community-types/indesign/menu/menu-elements.md", "summary": "Open when looking up Menu.menuElements in Shared Adobe platform.", "keywords": ["Menu.menuElements"]},
+  {"topic": "Menu.menuItems", "file": "community-types/indesign/menu/menu-items.md", "summary": "Open when looking up Menu.menuItems in Shared Adobe platform.", "keywords": ["Menu.menuItems"]},
+  {"topic": "Menu.menuSeparators", "file": "community-types/indesign/menu/menu-separators.md", "summary": "Open when looking up Menu.menuSeparators in Shared Adobe platform.", "keywords": ["Menu.menuSeparators"]},
+  {"topic": "Menu.properties", "file": "community-types/indesign/menu/properties.md", "summary": "Open when looking up Menu.properties in Shared Adobe platform.", "keywords": ["Menu.properties"]},
+  {"topic": "Menu.submenus", "file": "community-types/indesign/menu/submenus.md", "summary": "Open when looking up Menu.submenus in Shared Adobe platform.", "keywords": ["Menu.submenus"]},
+  {"topic": "Menu.title", "file": "community-types/indesign/menu/title.md", "summary": "Open when looking up Menu.title in Shared Adobe platform.", "keywords": ["Menu.title"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

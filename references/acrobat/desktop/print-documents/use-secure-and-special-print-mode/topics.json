@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Enable protected print mode on Windows", "file": "desktop/print-documents/use-secure-and-special-print-mode/enable-protected-print-mode-on-windows.md", "summary": "Open when looking up Enable protected print mode on Windows in Acrobat.", "keywords": ["Enable protected print mode on Windows"]},
+  {"topic": "Enable protected print mode on Windows references", "file": "desktop/print-documents/use-secure-and-special-print-mode/enable-protected-print-mode-on-windows/reference-index.md", "summary": "Open when looking up Enable protected print mode on Windows in Acrobat.", "keywords": ["Enable protected print mode on Windows references"]},
+  {"topic": "Print comments", "file": "desktop/print-documents/use-secure-and-special-print-mode/print-comments.md", "summary": "Open when looking up Print comments in Acrobat.", "keywords": ["Print comments"]},
+  {"topic": "Print comments references", "file": "desktop/print-documents/use-secure-and-special-print-mode/print-comments/reference-index.md", "summary": "Open when looking up Print comments in Acrobat.", "keywords": ["Print comments references"]},
+  {"topic": "Print layers", "file": "desktop/print-documents/use-secure-and-special-print-mode/print-layers.md", "summary": "Open when looking up Print layers in Acrobat.", "keywords": ["Print layers"]},
+  {"topic": "Print layers references", "file": "desktop/print-documents/use-secure-and-special-print-mode/print-layers/reference-index.md", "summary": "Open when looking up Print layers in Acrobat.", "keywords": ["Print layers references"]},
+  {"topic": "Print PDFs with unembedded Asian fonts", "file": "desktop/print-documents/use-secure-and-special-print-mode/print-pdfs-with-unembedded-asian-fonts.md", "summary": "Open when looking up Print PDFs with unembedded Asian fonts in Acrobat.", "keywords": ["Print PDFs with unembedded Asian fonts"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

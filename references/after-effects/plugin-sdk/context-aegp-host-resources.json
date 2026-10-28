@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "AEGP_CommandSuite1 references", "file": "plugin-sdk/aegp-command-suite1/reference-index.md", "summary": "Open when looking up AEGP_CommandSuite1 in After Effects.", "keywords": ["AEGP_CommandSuite1 references"]},
+  {"topic": "AEGP_MemorySuite1 references", "file": "plugin-sdk/aegp-memory-suite1/reference-index.md", "summary": "Open when looking up AEGP_MemorySuite1 in After Effects.", "keywords": ["AEGP_MemorySuite1 references"]},
+  {"topic": "AEGP_PersistentDataSuite4 references", "file": "plugin-sdk/aegp-persistent-data-suite4/reference-index.md", "summary": "Open when looking up AEGP_PersistentDataSuite4 in After Effects.", "keywords": ["AEGP_PersistentDataSuite4 references"]},
+  {"topic": "AEGP_PFInterfaceSuite1 references", "file": "plugin-sdk/aegppf-interface-suite1/reference-index.md", "summary": "Open when looking up AEGP_PFInterfaceSuite1 in After Effects.", "keywords": ["AEGP_PFInterfaceSuite1 references"]},
+  {"topic": "AEGP_RegisterSuite5 references", "file": "plugin-sdk/aegp-register-suite5/reference-index.md", "summary": "Open when looking up AEGP_RegisterSuite5 in After Effects.", "keywords": ["AEGP_RegisterSuite5 references"]},
+  {"topic": "AEGP_UtilitySuite6 references", "file": "plugin-sdk/aegp-utility-suite6/reference-index.md", "summary": "Open when looking up AEGP_UtilitySuite6 in After Effects.", "keywords": ["AEGP_UtilitySuite6 references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

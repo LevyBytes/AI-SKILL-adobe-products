@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "JavaScript APIs - HostContainer", "file": "scripting/host-container/java-script-apis-host-container.md", "summary": "Open when looking up JavaScript APIs - HostContainer in Acrobat.", "keywords": ["JavaScript APIs - HostContainer"]},
+  {"topic": "messageHandler", "file": "scripting/host-container/message-handler.md", "summary": "Open when looking up messageHandler in Acrobat.", "keywords": ["messageHandler"]},
+  {"topic": "postMessage", "file": "scripting/host-container/post-message.md", "summary": "Open when looking up postMessage in Acrobat.", "keywords": ["postMessage"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

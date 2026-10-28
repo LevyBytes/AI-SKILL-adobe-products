@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Bring media into the editing application references", "file": "desktop/bring-media-into-the-editing-application/reference-index.md", "summary": "Open when looking up Bring media into the editing application in Premiere Pro.", "keywords": ["Bring media into the editing application references"]},
+  {"topic": "Add media references", "file": "desktop/add-media/reference-index.md", "summary": "Open when looking up Add media in Premiere Pro.", "keywords": ["Add media references"]},
+  {"topic": "Manage media references", "file": "desktop/manage-media/reference-index.md", "summary": "Open when looking up Manage media in Premiere Pro.", "keywords": ["Manage media references"]},
+  {"topic": "Organize media references", "file": "desktop/organize-media/reference-index.md", "summary": "Open when looking up Organize media in Premiere Pro.", "keywords": ["Organize media references"]},
+  {"topic": "Manage bins references", "file": "desktop/manage-bins/reference-index.md", "summary": "Open when looking up Manage bins in Premiere Pro.", "keywords": ["Manage bins references"]},
+  {"topic": "About source clips references", "file": "desktop/about-source-clips/reference-index.md", "summary": "Open when looking up About source clips in Premiere Pro.", "keywords": ["About source clips references"]},
+  {"topic": "Locate and link offline files references", "file": "desktop/locate-and-link-offline-files/reference-index.md", "summary": "Open when looking up Locate and link offline files in Premiere Pro.", "keywords": ["Locate and link offline files references"]},
+  {"topic": "Create proxies references", "file": "desktop/create-proxies/reference-index.md", "summary": "Open when looking up Create proxies in Premiere Pro.", "keywords": ["Create proxies references"]},
+  {"topic": "Blackmagic raw support references", "file": "desktop/blackmagic-raw-support/reference-index.md", "summary": "Open when looking up Blackmagic raw support in Premiere Pro.", "keywords": ["Blackmagic raw support references"]},
+  {"topic": "Networks and removable media with digital video references", "file": "desktop/networks-and-removable-media-with-digital-video/reference-index.md", "summary": "Open when looking up Networks and removable media with digital video in Premiere Pro.", "keywords": ["Networks and removable media with digital video references"]},
+  {"topic": "Import selected premiere sequences references", "file": "desktop/import-selected-premiere-sequences/reference-index.md", "summary": "Open when looking up Import selected premiere sequences in Premiere Pro.", "keywords": ["Import selected premiere sequences references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Access column rule settings", "file": "desktop/add-and-manage-text/add-and-manage-text-frames/set-column-rules-for-text-frames/access-column-rule-settings.md", "summary": "Open when looking up Access column rule settings in InDesign.", "keywords": ["Access column rule settings"]},
+  {"topic": "Adjust column rule position", "file": "desktop/add-and-manage-text/add-and-manage-text-frames/set-column-rules-for-text-frames/adjust-column-rule-position.md", "summary": "Open when looking up Adjust column rule position in InDesign.", "keywords": ["Adjust column rule position"]},
+  {"topic": "Configure column rule appearance", "file": "desktop/add-and-manage-text/add-and-manage-text-frames/set-column-rules-for-text-frames/configure-column-rule-appearance.md", "summary": "Open when looking up Configure column rule appearance in InDesign.", "keywords": ["Configure column rule appearance"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

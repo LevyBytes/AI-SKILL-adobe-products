@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "align-content", "file": "uxp/css/properties/align-content.md", "summary": "Open when looking up align-content in Photoshop.", "keywords": ["align-content"]},
+  {"topic": "align-items", "file": "uxp/css/properties/align-items.md", "summary": "Open when looking up align-items in Photoshop.", "keywords": ["align-items"]},
+  {"topic": "align-self", "file": "uxp/css/properties/align-self.md", "summary": "Open when looking up align-self in Photoshop.", "keywords": ["align-self"]},
+  {"topic": "flex", "file": "uxp/css/properties/flex.md", "summary": "Open when looking up flex in Photoshop.", "keywords": ["flex"]},
+  {"topic": "flex-basis", "file": "uxp/css/properties/flex-basis.md", "summary": "Open when looking up flex-basis in Photoshop.", "keywords": ["flex-basis"]},
+  {"topic": "flex-direction", "file": "uxp/css/properties/flex-direction.md", "summary": "Open when looking up flex-direction in Photoshop.", "keywords": ["flex-direction"]},
+  {"topic": "flex-grow", "file": "uxp/css/properties/flex-grow.md", "summary": "Open when looking up flex-grow in Photoshop.", "keywords": ["flex-grow"]},
+  {"topic": "flex-shrink", "file": "uxp/css/properties/flex-shrink.md", "summary": "Open when looking up flex-shrink in Photoshop.", "keywords": ["flex-shrink"]},
+  {"topic": "flex-wrap", "file": "uxp/css/properties/flex-wrap.md", "summary": "Open when looking up flex-wrap in Photoshop.", "keywords": ["flex-wrap"]},
+  {"topic": "justify-content", "file": "uxp/css/properties/justify-content.md", "summary": "Open when looking up justify-content in Photoshop.", "keywords": ["justify-content"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

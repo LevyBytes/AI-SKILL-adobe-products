@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Precomposing, nesting, and pre-rendering - About precomposing and nesting", "file": "desktop/compositions/precomposing-and-nesting/precomposition-overview.md", "summary": "Open when looking up Precomposing, nesting, and pre-rendering - About precomposing and nesting in After Effects.", "keywords": ["Precomposing, nesting, and pre-rendering - About precomposing and nesting"]},
+  {"topic": "Precomposing, nesting, and pre-rendering - About precomposing and nesting references", "file": "desktop/compositions/precomposing-and-nesting/precomposition-workflows.md", "summary": "Open when looking up Precomposing, nesting, and pre-rendering - About precomposing and nesting in After Effects.", "keywords": ["Precomposing, nesting, and pre-rendering - About precomposing and nesting references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

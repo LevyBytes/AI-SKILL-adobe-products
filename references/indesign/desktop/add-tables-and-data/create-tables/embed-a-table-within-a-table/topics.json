@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Embed an existing table", "file": "desktop/add-tables-and-data/create-tables/embed-a-table-within-a-table/embed-an-existing-table.md", "summary": "Open when looking up Embed an existing table in InDesign.", "keywords": ["Embed an existing table"]},
+  {"topic": "Insert a new table inside a cell", "file": "desktop/add-tables-and-data/create-tables/embed-a-table-within-a-table/insert-a-new-table-inside-a-cell.md", "summary": "Open when looking up Insert a new table inside a cell in InDesign.", "keywords": ["Insert a new table inside a cell"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

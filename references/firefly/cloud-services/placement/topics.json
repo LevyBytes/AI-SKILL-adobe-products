@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Placement with Alignment", "file": "cloud-services/placement/placement-with-alignment.md", "summary": "Open when looking up Placement with Alignment in Firefly.", "keywords": ["Placement with Alignment"]},
+  {"topic": "Placement with Inset", "file": "cloud-services/placement/placement-with-inset.md", "summary": "Open when looking up Placement with Inset in Firefly.", "keywords": ["Placement with Inset"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

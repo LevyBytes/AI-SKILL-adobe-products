@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Migrating from Avid Media Composer", "file": "desktop/export-from-avid-media-composer-to-premiere/migrating-from-avid-media-composer.md", "summary": "Open when looking up Migrating from Avid Media Composer in Premiere Pro.", "keywords": ["Migrating from Avid Media Composer"]},
+  {"topic": "Move an AAF file from Avid Media Composer into Adobe Premiere.", "file": "desktop/export-from-avid-media-composer-to-premiere/move-an-aaf-file-from-avid-media-composer-into-adobe-premiere.md", "summary": "Open when looking up Move an AAF file from Avid Media Composer into Adobe Premiere. in Premiere Pro.", "keywords": ["Move an AAF file from Avid Media Composer into Adobe Premiere."]},
+  {"topic": "Translated and untranslated elements", "file": "desktop/export-from-avid-media-composer-to-premiere/translated-and-untranslated-elements.md", "summary": "Open when looking up Translated and untranslated elements in Premiere Pro.", "keywords": ["Translated and untranslated elements"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

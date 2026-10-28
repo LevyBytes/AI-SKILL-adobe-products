@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "BOTH_SIDES", "file": "document-model/text-wrap-side-options/bothsides.md", "summary": "Open when looking up BOTH_SIDES in InDesign.", "keywords": ["BOTH_SIDES"]},
+  {"topic": "LARGEST_AREA", "file": "document-model/text-wrap-side-options/largestarea.md", "summary": "Open when looking up LARGEST_AREA in InDesign.", "keywords": ["LARGEST_AREA"]},
+  {"topic": "LEFT_SIDE", "file": "document-model/text-wrap-side-options/leftside.md", "summary": "Open when looking up LEFT_SIDE in InDesign.", "keywords": ["LEFT_SIDE"]},
+  {"topic": "RIGHT_SIDE", "file": "document-model/text-wrap-side-options/rightside.md", "summary": "Open when looking up RIGHT_SIDE in InDesign.", "keywords": ["RIGHT_SIDE"]},
+  {"topic": "SIDE_AWAY_FROM_SPINE", "file": "document-model/text-wrap-side-options/sideawayfromspine.md", "summary": "Open when looking up SIDE_AWAY_FROM_SPINE in InDesign.", "keywords": ["SIDE_AWAY_FROM_SPINE"]},
+  {"topic": "SIDE_TOWARDS_SPINE", "file": "document-model/text-wrap-side-options/sidetowardsspine.md", "summary": "Open when looking up SIDE_TOWARDS_SPINE in InDesign.", "keywords": ["SIDE_TOWARDS_SPINE"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

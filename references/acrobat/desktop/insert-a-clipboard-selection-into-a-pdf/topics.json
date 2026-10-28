@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Bring text, images, or other clipboard content into a PDF file.", "file": "desktop/insert-a-clipboard-selection-into-a-pdf/bring-text-images-or-other-clipboard-content-into-a-pdf-file.md", "summary": "Open when looking up Bring text, images, or other clipboard content into a PDF file. in Acrobat.", "keywords": ["Bring text, images, or other clipboard content into a PDF file."]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

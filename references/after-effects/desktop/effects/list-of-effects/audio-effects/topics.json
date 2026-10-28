@@ -1,0 +1,16 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Backwards effect", "file": "desktop/effects/list-of-effects/audio-effects/backwards-effect.md", "summary": "Open when looking up Backwards effect in After Effects.", "keywords": ["Backwards effect"]},
+  {"topic": "Bass & Treble effect", "file": "desktop/effects/list-of-effects/audio-effects/bass-treble-effect.md", "summary": "Open when looking up Bass & Treble effect in After Effects.", "keywords": ["Bass & Treble effect"]},
+  {"topic": "Compressor effect", "file": "desktop/effects/list-of-effects/audio-effects/compressor-effect.md", "summary": "Open when looking up Compressor effect in After Effects.", "keywords": ["Compressor effect"]},
+  {"topic": "Delay effect", "file": "desktop/effects/list-of-effects/audio-effects/delay-effect.md", "summary": "Open when looking up Delay effect in After Effects.", "keywords": ["Delay effect"]},
+  {"topic": "Distortion effect", "file": "desktop/effects/list-of-effects/audio-effects/distortion-effect.md", "summary": "Open when looking up Distortion effect in After Effects.", "keywords": ["Distortion effect"]},
+  {"topic": "Flange & Chorus effect", "file": "desktop/effects/list-of-effects/audio-effects/flange-chorus-effect.md", "summary": "Open when looking up Flange & Chorus effect in After Effects.", "keywords": ["Flange & Chorus effect"]},
+  {"topic": "Gate effect", "file": "desktop/effects/list-of-effects/audio-effects/gate-effect.md", "summary": "Open when looking up Gate effect in After Effects.", "keywords": ["Gate effect"]},
+  {"topic": "High-Low Pass effect", "file": "desktop/effects/list-of-effects/audio-effects/high-low-pass-effect.md", "summary": "Open when looking up High-Low Pass effect in After Effects.", "keywords": ["High-Low Pass effect"]},
+  {"topic": "Modulator effect", "file": "desktop/effects/list-of-effects/audio-effects/modulator-effect.md", "summary": "Open when looking up Modulator effect in After Effects.", "keywords": ["Modulator effect"]},
+  {"topic": "Parametric EQ effect", "file": "desktop/effects/list-of-effects/audio-effects/parametric-eq-effect.md", "summary": "Open when looking up Parametric EQ effect in After Effects.", "keywords": ["Parametric EQ effect"]},
+  {"topic": "Reverb effect", "file": "desktop/effects/list-of-effects/audio-effects/reverb-effect.md", "summary": "Open when looking up Reverb effect in After Effects.", "keywords": ["Reverb effect"]},
+  {"topic": "Stereo Mixer effect", "file": "desktop/effects/list-of-effects/audio-effects/stereo-mixer-effect.md", "summary": "Open when looking up Stereo Mixer effect in After Effects.", "keywords": ["Stereo Mixer effect"]},
+  {"topic": "Tone effect", "file": "desktop/effects/list-of-effects/audio-effects/tone-effect.md", "summary": "Open when looking up Tone effect in After Effects.", "keywords": ["Tone effect"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

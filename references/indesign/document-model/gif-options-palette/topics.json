@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "ADAPTIVE_PALETTE", "file": "document-model/gif-options-palette/adaptivepalette.md", "summary": "Open when looking up ADAPTIVE_PALETTE in InDesign.", "keywords": ["ADAPTIVE_PALETTE"]},
+  {"topic": "MACINTOSH_PALETTE", "file": "document-model/gif-options-palette/macintoshpalette.md", "summary": "Open when looking up MACINTOSH_PALETTE in InDesign.", "keywords": ["MACINTOSH_PALETTE"]},
+  {"topic": "WEB_PALETTE", "file": "document-model/gif-options-palette/webpalette.md", "summary": "Open when looking up WEB_PALETTE in InDesign.", "keywords": ["WEB_PALETTE"]},
+  {"topic": "WINDOWS_PALETTE", "file": "document-model/gif-options-palette/windowspalette.md", "summary": "Open when looking up WINDOWS_PALETTE in InDesign.", "keywords": ["WINDOWS_PALETTE"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

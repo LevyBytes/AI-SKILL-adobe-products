@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "hasChecks", "file": "scripting/preflight-profile/has-checks.md", "summary": "Open when looking up hasChecks in Acrobat.", "keywords": ["hasChecks"]},
+  {"topic": "hasConversion", "file": "scripting/preflight-profile/has-conversion.md", "summary": "Open when looking up hasConversion in Acrobat.", "keywords": ["hasConversion"]},
+  {"topic": "hasFixups", "file": "scripting/preflight-profile/has-fixups.md", "summary": "Open when looking up hasFixups in Acrobat.", "keywords": ["hasFixups"]},
+  {"topic": "name", "file": "scripting/preflight-profile/name.md", "summary": "Open when looking up name in Acrobat.", "keywords": ["name"]},
+  {"topic": "Preflight APIs - PreflightProfile", "file": "scripting/preflight-profile/preflight-apis-preflight-profile.md", "summary": "Open when looking up Preflight APIs - PreflightProfile in Acrobat.", "keywords": ["Preflight APIs - PreflightProfile"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "PDFFileOptions.pageToOpen", "file": "scripting/pdf-file-options/page-to-open.md", "summary": "Open when looking up PDFFileOptions.pageToOpen in Illustrator.", "keywords": ["PDFFileOptions.pageToOpen"]},
+  {"topic": "PDFFileOptions.parent", "file": "scripting/pdf-file-options/parent.md", "summary": "Open when looking up PDFFileOptions.parent in Illustrator.", "keywords": ["PDFFileOptions.parent"]},
+  {"topic": "PDFFileOptions.pDFCropToBox", "file": "scripting/pdf-file-options/p-df-crop-to-box.md", "summary": "Open when looking up PDFFileOptions.pDFCropToBox in Illustrator.", "keywords": ["PDFFileOptions.pDFCropToBox"]},
+  {"topic": "PDFFileOptions.typename", "file": "scripting/pdf-file-options/typename.md", "summary": "Open when looking up PDFFileOptions.typename in Illustrator.", "keywords": ["PDFFileOptions.typename"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

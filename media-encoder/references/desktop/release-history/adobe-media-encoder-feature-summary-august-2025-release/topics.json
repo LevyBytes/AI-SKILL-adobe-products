@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "media-encoder", "topics": [
-  {"topic": "ARRIRAW HDE decoding support", "file": "references/desktop/release-history/adobe-media-encoder-feature-summary-august-2025-release/arriraw-hde-decoding-support.md", "summary": "Open when looking up ARRIRAW HDE decoding support in Media Encoder.", "keywords": ["ARRIRAW HDE decoding support"]},
-  {"topic": "Hardware acceleration for Canon Cinema RAW Light", "file": "references/desktop/release-history/adobe-media-encoder-feature-summary-august-2025-release/hardware-acceleration-for-canon-cinema-raw-light.md", "summary": "Open when looking up Hardware acceleration for Canon Cinema RAW Light in Media Encoder.", "keywords": ["Hardware acceleration for Canon Cinema RAW Light"]},
-  {"topic": "Reset preferences to fix startup issues", "file": "references/desktop/release-history/adobe-media-encoder-feature-summary-august-2025-release/reset-preferences-to-fix-startup-issues.md", "summary": "Open when looking up Reset preferences to fix startup issues in Media Encoder.", "keywords": ["Reset preferences to fix startup issues"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

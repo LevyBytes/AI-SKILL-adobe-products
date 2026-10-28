@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "EXTRA_LARGE_ICON", "file": "references/document-model/icon-sizes/extralargeicon.md", "summary": "Open when looking up EXTRA_LARGE_ICON in InDesign.", "keywords": ["EXTRA_LARGE_ICON"]},
-  {"topic": "EXTRA_SMALL_ICON", "file": "references/document-model/icon-sizes/extrasmallicon.md", "summary": "Open when looking up EXTRA_SMALL_ICON in InDesign.", "keywords": ["EXTRA_SMALL_ICON"]},
-  {"topic": "JUMBO_ICON", "file": "references/document-model/icon-sizes/jumboicon.md", "summary": "Open when looking up JUMBO_ICON in InDesign.", "keywords": ["JUMBO_ICON"]},
-  {"topic": "LARGE_ICON", "file": "references/document-model/icon-sizes/largeicon.md", "summary": "Open when looking up LARGE_ICON in InDesign.", "keywords": ["LARGE_ICON"]},
-  {"topic": "MEDIUM_ICON", "file": "references/document-model/icon-sizes/mediumicon.md", "summary": "Open when looking up MEDIUM_ICON in InDesign.", "keywords": ["MEDIUM_ICON"]},
-  {"topic": "SMALL_ICON", "file": "references/document-model/icon-sizes/smallicon.md", "summary": "Open when looking up SMALL_ICON in InDesign.", "keywords": ["SMALL_ICON"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Localization and Platforms - OS Identification", "file": "uxp/localization-and-platforms-localization/localization-and-platforms-os-identification.md", "summary": "Open when looking up Localization and Platforms - OS Identification in Photoshop.", "keywords": ["Localization and Platforms - OS Identification"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

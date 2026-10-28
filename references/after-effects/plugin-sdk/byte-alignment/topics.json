@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "PF_EffectWorld / PF_LayerDef - Byte Alignment", "file": "plugin-sdk/byte-alignment/pf-effect-world-pf-layer-def-byte-alignment.md", "summary": "Open when looking up PF_EffectWorld / PF_LayerDef - Byte Alignment in After Effects.", "keywords": ["PF_EffectWorld / PF_LayerDef - Byte Alignment"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "BlendModes", "file": "community-types/illustrator/blend-modes.md", "summary": "Open when looking up BlendModes in Shared Adobe platform.", "keywords": ["BlendModes"]},
+  {"topic": "KnockoutState", "file": "community-types/illustrator/knockout-state.md", "summary": "Open when looking up KnockoutState in Shared Adobe platform.", "keywords": ["KnockoutState"]},
+  {"topic": "StrokeCap", "file": "community-types/illustrator/stroke-cap.md", "summary": "Open when looking up StrokeCap in Shared Adobe platform.", "keywords": ["StrokeCap"]},
+  {"topic": "StrokeJoin", "file": "community-types/illustrator/stroke-join.md", "summary": "Open when looking up StrokeJoin in Shared Adobe platform.", "keywords": ["StrokeJoin"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

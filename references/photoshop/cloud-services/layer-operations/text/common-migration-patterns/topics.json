@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Custom fonts", "file": "cloud-services/layer-operations/text/common-migration-patterns/custom-fonts.md", "summary": "Open when looking up Custom fonts in Photoshop.", "keywords": ["Custom fonts"]},
+  {"topic": "Multi-line text", "file": "cloud-services/layer-operations/text/common-migration-patterns/multi-line-text.md", "summary": "Open when looking up Multi-line text in Photoshop.", "keywords": ["Multi-line text"]},
+  {"topic": "Multi-style text", "file": "cloud-services/layer-operations/text/common-migration-patterns/multi-style-text.md", "summary": "Open when looking up Multi-style text in Photoshop.", "keywords": ["Multi-style text"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

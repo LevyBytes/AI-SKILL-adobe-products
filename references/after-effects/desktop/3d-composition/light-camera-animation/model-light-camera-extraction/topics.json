@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Extract cameras from a 3D model and animate them", "file": "desktop/3d-composition/light-camera-animation/model-light-camera-extraction/extract-cameras-from-a-3-d-model-and-animate-them.md", "summary": "Open when looking up Extract cameras from a 3D model and animate them in After Effects.", "keywords": ["Extract cameras from a 3D model and animate them"]},
+  {"topic": "Extract lights from a 3D model and animate them", "file": "desktop/3d-composition/light-camera-animation/model-light-camera-extraction/extract-lights-from-a-3-d-model-and-animate-them.md", "summary": "Open when looking up Extract lights from a 3D model and animate them in After Effects.", "keywords": ["Extract lights from a 3D model and animate them"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

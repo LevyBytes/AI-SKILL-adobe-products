@@ -1,0 +1,18 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "characters", "file": "document-model/line/characters.md", "summary": "Open when looking up characters in InDesign.", "keywords": ["characters"]},
+  {"topic": "endnoteRanges", "file": "document-model/line/endnote-ranges.md", "summary": "Open when looking up endnoteRanges in InDesign.", "keywords": ["endnoteRanges"]},
+  {"topic": "endnoteTextFrames", "file": "document-model/line/endnote-text-frames.md", "summary": "Open when looking up endnoteTextFrames in InDesign.", "keywords": ["endnoteTextFrames"]},
+  {"topic": "footnotes", "file": "document-model/line/footnotes.md", "summary": "Open when looking up footnotes in InDesign.", "keywords": ["footnotes"]},
+  {"topic": "insertionPoints", "file": "document-model/line/insertion-points.md", "summary": "Open when looking up insertionPoints in InDesign.", "keywords": ["insertionPoints"]},
+  {"topic": "lines", "file": "document-model/line/lines.md", "summary": "Open when looking up lines in InDesign.", "keywords": ["lines"]},
+  {"topic": "notes", "file": "document-model/line/notes.md", "summary": "Open when looking up notes in InDesign.", "keywords": ["notes"]},
+  {"topic": "paragraphs", "file": "document-model/line/paragraphs.md", "summary": "Open when looking up paragraphs in InDesign.", "keywords": ["paragraphs"]},
+  {"topic": "parentStory", "file": "document-model/line/parent-story.md", "summary": "Open when looking up parentStory in InDesign.", "keywords": ["parentStory"]},
+  {"topic": "parentTextFrames", "file": "document-model/line/parent-text-frames.md", "summary": "Open when looking up parentTextFrames in InDesign.", "keywords": ["parentTextFrames"]},
+  {"topic": "textColumns", "file": "document-model/line/text-columns.md", "summary": "Open when looking up textColumns in InDesign.", "keywords": ["textColumns"]},
+  {"topic": "textFrames", "file": "document-model/line/text-frames.md", "summary": "Open when looking up textFrames in InDesign.", "keywords": ["textFrames"]},
+  {"topic": "texts", "file": "document-model/line/texts.md", "summary": "Open when looking up texts in InDesign.", "keywords": ["texts"]},
+  {"topic": "textStyleRanges", "file": "document-model/line/text-style-ranges.md", "summary": "Open when looking up textStyleRanges in InDesign.", "keywords": ["textStyleRanges"]},
+  {"topic": "words", "file": "document-model/line/words.md", "summary": "Open when looking up words in InDesign.", "keywords": ["words"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Break character types", "file": "desktop/text-formatting/composition-and-wrapping/paragraph-break-options/break-character-types.md", "summary": "Open when looking up Break character types in InDesign.", "keywords": ["Break character types"]},
+  {"topic": "Break insertion location", "file": "desktop/text-formatting/composition-and-wrapping/paragraph-break-options/break-insertion-location.md", "summary": "Open when looking up Break insertion location in InDesign.", "keywords": ["Break insertion location"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

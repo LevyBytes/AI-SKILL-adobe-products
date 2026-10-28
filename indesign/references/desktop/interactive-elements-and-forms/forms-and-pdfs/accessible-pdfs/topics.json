@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Essential accessibility components", "file": "references/desktop/interactive-elements-and-forms/forms-and-pdfs/accessible-pdfs/essential-accessibility-components.md", "summary": "Open when looking up Essential accessibility components in InDesign.", "keywords": ["Essential accessibility components"]},
-  {"topic": "How accessibility works in PDF documents", "file": "references/desktop/interactive-elements-and-forms/forms-and-pdfs/accessible-pdfs/how-accessibility-works-in-pdf-documents.md", "summary": "Open when looking up How accessibility works in PDF documents in InDesign.", "keywords": ["How accessibility works in PDF documents"]},
-  {"topic": "How InDesign supports accessible PDFs", "file": "references/desktop/interactive-elements-and-forms/forms-and-pdfs/accessible-pdfs/how-in-design-supports-accessible-pdfs.md", "summary": "Open when looking up How InDesign supports accessible PDFs in InDesign.", "keywords": ["How InDesign supports accessible PDFs"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

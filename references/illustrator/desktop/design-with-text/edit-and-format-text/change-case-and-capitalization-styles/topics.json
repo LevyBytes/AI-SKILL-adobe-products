@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Apply All Caps and Small Caps formatting", "file": "desktop/design-with-text/edit-and-format-text/change-case-and-capitalization-styles/apply-all-caps-and-small-caps-formatting.md", "summary": "Open when looking up Apply All Caps and Small Caps formatting in Illustrator.", "keywords": ["Apply All Caps and Small Caps formatting"]},
+  {"topic": "Change capitalization styles", "file": "desktop/design-with-text/edit-and-format-text/change-case-and-capitalization-styles/change-capitalization-styles.md", "summary": "Open when looking up Change capitalization styles in Illustrator.", "keywords": ["Change capitalization styles"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

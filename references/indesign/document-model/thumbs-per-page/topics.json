@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "K1X2", "file": "document-model/thumbs-per-page/k1-x2.md", "summary": "Open when looking up K1X2 in InDesign.", "keywords": ["K1X2"]},
+  {"topic": "K2X2", "file": "document-model/thumbs-per-page/k2-x2.md", "summary": "Open when looking up K2X2 in InDesign.", "keywords": ["K2X2"]},
+  {"topic": "K3X3", "file": "document-model/thumbs-per-page/k3-x3.md", "summary": "Open when looking up K3X3 in InDesign.", "keywords": ["K3X3"]},
+  {"topic": "K4X4", "file": "document-model/thumbs-per-page/k4-x4.md", "summary": "Open when looking up K4X4 in InDesign.", "keywords": ["K4X4"]},
+  {"topic": "K5X5", "file": "document-model/thumbs-per-page/k5-x5.md", "summary": "Open when looking up K5X5 in InDesign.", "keywords": ["K5X5"]},
+  {"topic": "K6X6", "file": "document-model/thumbs-per-page/k6-x6.md", "summary": "Open when looking up K6X6 in InDesign.", "keywords": ["K6X6"]},
+  {"topic": "K7X7", "file": "document-model/thumbs-per-page/k7-x7.md", "summary": "Open when looking up K7X7 in InDesign.", "keywords": ["K7X7"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

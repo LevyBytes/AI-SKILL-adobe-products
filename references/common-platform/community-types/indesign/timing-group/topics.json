@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "TimingGroup declaration", "file": "community-types/indesign/timing-group/declaration.md", "summary": "Open when looking up TimingGroup declaration in Shared Adobe platform.", "keywords": ["TimingGroup declaration"]},
+  {"topic": "TimingGroup event listeners", "file": "community-types/indesign/timing-group/event-listeners.md", "summary": "Open when looking up TimingGroup event listeners in Shared Adobe platform.", "keywords": ["TimingGroup event listeners"]},
+  {"topic": "TimingGroup identity and parent", "file": "community-types/indesign/timing-group/identity-and-parent.md", "summary": "Open when looking up TimingGroup identity and parent in Shared Adobe platform.", "keywords": ["TimingGroup identity and parent"]},
+  {"topic": "TimingGroup object lifecycle", "file": "community-types/indesign/timing-group/object-lifecycle.md", "summary": "Open when looking up TimingGroup object lifecycle in Shared Adobe platform.", "keywords": ["TimingGroup object lifecycle"]},
+  {"topic": "TimingGroup object resolution", "file": "community-types/indesign/timing-group/object-resolution.md", "summary": "Open when looking up TimingGroup object resolution in Shared Adobe platform.", "keywords": ["TimingGroup object resolution"]},
+  {"topic": "TimingGroup.placement", "file": "community-types/indesign/timing-group/placement.md", "summary": "Open when looking up TimingGroup.placement in Shared Adobe platform.", "keywords": ["TimingGroup.placement"]},
+  {"topic": "TimingGroup.plays", "file": "community-types/indesign/timing-group/plays.md", "summary": "Open when looking up TimingGroup.plays in Shared Adobe platform.", "keywords": ["TimingGroup.plays"]},
+  {"topic": "TimingGroup.playsLoop", "file": "community-types/indesign/timing-group/plays-loop.md", "summary": "Open when looking up TimingGroup.playsLoop in Shared Adobe platform.", "keywords": ["TimingGroup.playsLoop"]},
+  {"topic": "TimingGroup.properties", "file": "community-types/indesign/timing-group/properties.md", "summary": "Open when looking up TimingGroup.properties in Shared Adobe platform.", "keywords": ["TimingGroup.properties"]},
+  {"topic": "TimingGroup.timingTargets", "file": "community-types/indesign/timing-group/timing-targets.md", "summary": "Open when looking up TimingGroup.timingTargets in Shared Adobe platform.", "keywords": ["TimingGroup.timingTargets"]},
+  {"topic": "TimingGroup.unlink", "file": "community-types/indesign/timing-group/unlink.md", "summary": "Open when looking up TimingGroup.unlink in Shared Adobe platform.", "keywords": ["TimingGroup.unlink"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

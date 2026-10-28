@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Displaying tab stop information", "file": "scripting/tab-stop-info-example/displaying-tab-stop-information.md", "summary": "Open when looking up Displaying tab stop information in Illustrator.", "keywords": ["Displaying tab stop information"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

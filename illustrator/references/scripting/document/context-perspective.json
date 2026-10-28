@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Document.getPerspectiveActivePlane()", "file": "references/scripting/document/get-perspective-active-plane.md", "summary": "Open when looking up Document.getPerspectiveActivePlane() in Illustrator.", "keywords": ["Document.getPerspectiveActivePlane()"]},
-  {"topic": "Document.hidePerspectiveGrid()", "file": "references/scripting/document/hide-perspective-grid.md", "summary": "Open when looking up Document.hidePerspectiveGrid() in Illustrator.", "keywords": ["Document.hidePerspectiveGrid()"]},
-  {"topic": "Document.exportPerspectiveGridPreset()", "file": "references/scripting/document/export-perspective-grid-preset.md", "summary": "Open when looking up Document.exportPerspectiveGridPreset() in Illustrator.", "keywords": ["Document.exportPerspectiveGridPreset()"]},
-  {"topic": "Document.selectPerspectivePreset()", "file": "references/scripting/document/select-perspective-preset.md", "summary": "Open when looking up Document.selectPerspectivePreset() in Illustrator.", "keywords": ["Document.selectPerspectivePreset()"]},
-  {"topic": "Document.setActivePlane()", "file": "references/scripting/document/set-active-plane.md", "summary": "Open when looking up Document.setActivePlane() in Illustrator.", "keywords": ["Document.setActivePlane()"]},
-  {"topic": "Document.showPerspectiveGrid()", "file": "references/scripting/document/show-perspective-grid.md", "summary": "Open when looking up Document.showPerspectiveGrid() in Illustrator.", "keywords": ["Document.showPerspectiveGrid()"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

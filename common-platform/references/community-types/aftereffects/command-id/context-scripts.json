@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "_CommandID.OpenScriptEditor", "file": "references/community-types/aftereffects/command-id/open-script-editor.md", "summary": "Open when looking up _CommandID.OpenScriptEditor in Shared Adobe platform.", "keywords": ["_CommandID.OpenScriptEditor"]},
-  {"topic": "_CommandID.RunScriptFile", "file": "references/community-types/aftereffects/command-id/run-script-file.md", "summary": "Open when looking up _CommandID.RunScriptFile in Shared Adobe platform.", "keywords": ["_CommandID.RunScriptFile"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

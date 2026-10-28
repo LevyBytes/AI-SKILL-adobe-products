@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Admin control for Enterprise users", "file": "desktop/graphics-and-media/add-and-edit-graphics/generate-alt-text-for-images/admin-control-for-enterprise-users.md", "summary": "Open when looking up Admin control for Enterprise users in InDesign.", "keywords": ["Admin control for Enterprise users"]},
+  {"topic": "Generate Alt Text automatically", "file": "desktop/graphics-and-media/add-and-edit-graphics/generate-alt-text-for-images/generate-alt-text-automatically.md", "summary": "Open when looking up Generate Alt Text automatically in InDesign.", "keywords": ["Generate Alt Text automatically"]},
+  {"topic": "Generate Alt Text manually", "file": "desktop/graphics-and-media/add-and-edit-graphics/generate-alt-text-for-images/generate-alt-text-manually.md", "summary": "Open when looking up Generate Alt Text manually in InDesign.", "keywords": ["Generate Alt Text manually"]},
+  {"topic": "Known issues", "file": "desktop/graphics-and-media/add-and-edit-graphics/generate-alt-text-for-images/known-issues.md", "summary": "Open when looking up Known issues in InDesign.", "keywords": ["Known issues"]},
+  {"topic": "Turn off automatic Alt Text generation", "file": "desktop/graphics-and-media/add-and-edit-graphics/generate-alt-text-for-images/turn-off-automatic-alt-text-generation.md", "summary": "Open when looking up Turn off automatic Alt Text generation in InDesign.", "keywords": ["Turn off automatic Alt Text generation"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

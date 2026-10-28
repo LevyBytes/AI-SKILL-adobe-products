@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "ANPA-COLOR", "file": "references/desktop/adjust-color/choose-colors/spot-color-libraries/anpa-color.md", "summary": "Open when looking up ANPA-COLOR in Photoshop.", "keywords": ["ANPA-COLOR"]},
-  {"topic": "DIC Color Guide", "file": "references/desktop/adjust-color/choose-colors/spot-color-libraries/dic-color-guide.md", "summary": "Open when looking up DIC Color Guide in Photoshop.", "keywords": ["DIC Color Guide"]},
-  {"topic": "Focoltone", "file": "references/desktop/adjust-color/choose-colors/spot-color-libraries/focoltone.md", "summary": "Open when looking up Focoltone in Photoshop.", "keywords": ["Focoltone"]},
-  {"topic": "HKS", "file": "references/desktop/adjust-color/choose-colors/spot-color-libraries/hks.md", "summary": "Open when looking up HKS in Photoshop.", "keywords": ["HKS"]},
-  {"topic": "Trumatch", "file": "references/desktop/adjust-color/choose-colors/spot-color-libraries/trumatch.md", "summary": "Open when looking up Trumatch in Photoshop.", "keywords": ["Trumatch"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

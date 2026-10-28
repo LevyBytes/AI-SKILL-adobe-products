@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Dynamic value (order form)", "file": "web/e-sign-documents/collect-online-payments/payment-field-values-overview/dynamic-value-order-form.md", "summary": "Open when looking up Dynamic value (order form) in Acrobat.", "keywords": ["Dynamic value (order form)"]},
+  {"topic": "Field configuration", "file": "web/e-sign-documents/collect-online-payments/payment-field-values-overview/field-configuration.md", "summary": "Open when looking up Field configuration in Acrobat.", "keywords": ["Field configuration"]},
+  {"topic": "Recipient defined values (donations)", "file": "web/e-sign-documents/collect-online-payments/payment-field-values-overview/recipient-defined-values-donations.md", "summary": "Open when looking up Recipient defined values (donations) in Acrobat.", "keywords": ["Recipient defined values (donations)"]},
+  {"topic": "Static value (quotes)", "file": "web/e-sign-documents/collect-online-payments/payment-field-values-overview/static-value-quotes.md", "summary": "Open when looking up Static value (quotes) in Acrobat.", "keywords": ["Static value (quotes)"]},
+  {"topic": "User experience", "file": "web/e-sign-documents/collect-online-payments/payment-field-values-overview/user-experience.md", "summary": "Open when looking up User experience in Acrobat.", "keywords": ["User experience"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

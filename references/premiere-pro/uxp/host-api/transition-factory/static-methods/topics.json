@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "createVideoTransition", "file": "uxp/host-api/transition-factory/static-methods/create-video-transition.md", "summary": "Open when looking up createVideoTransition in Premiere Pro.", "keywords": ["createVideoTransition"]},
+  {"topic": "getVideoTransitionMatchNames", "file": "uxp/host-api/transition-factory/static-methods/get-video-transition-match-names.md", "summary": "Open when looking up getVideoTransitionMatchNames in Premiere Pro.", "keywords": ["getVideoTransitionMatchNames"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

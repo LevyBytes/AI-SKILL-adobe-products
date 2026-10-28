@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "DEFAULT_VALUE", "file": "document-model/tag-vector/defaultvalue.md", "summary": "Open when looking up DEFAULT_VALUE in InDesign.", "keywords": ["DEFAULT_VALUE"]},
+  {"topic": "GRAY_OUT", "file": "document-model/tag-vector/grayout.md", "summary": "Open when looking up GRAY_OUT in InDesign.", "keywords": ["GRAY_OUT"]},
+  {"topic": "HIGH_RESOLUTION", "file": "document-model/tag-vector/highresolution.md", "summary": "Open when looking up HIGH_RESOLUTION in InDesign.", "keywords": ["HIGH_RESOLUTION"]},
+  {"topic": "PROXY", "file": "document-model/tag-vector/proxy.md", "summary": "Open when looking up PROXY in InDesign.", "keywords": ["PROXY"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

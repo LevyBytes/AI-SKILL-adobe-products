@@ -1,0 +1,17 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Css references", "file": "uxp/css/reference-index.md", "summary": "Open when looking up Css in Photoshop.", "keywords": ["Css references"]},
+  {"topic": "Spectrum CSS", "file": "uxp/spectrum-css.md", "summary": "Open when looking up Spectrum CSS in Photoshop.", "keywords": ["Spectrum CSS"]},
+  {"topic": "Spectrum UXP Reference", "file": "uxp/spectrum-uxp-reference.md", "summary": "Open when looking up Spectrum UXP Reference in Photoshop.", "keywords": ["Spectrum UXP Reference"]},
+  {"topic": "Spectrum UXP Reference references", "file": "uxp/spectrum-uxp-reference/reference-index.md", "summary": "Open when looking up Spectrum UXP Reference in Photoshop.", "keywords": ["Spectrum UXP Reference references"]},
+  {"topic": "Spectrum UXP Widgets", "file": "uxp/spectrum-uxp-widgets.md", "summary": "Open when looking up Spectrum UXP Widgets in Photoshop.", "keywords": ["Spectrum UXP Widgets"]},
+  {"topic": "Spectrum UXP Widgets references", "file": "uxp/spectrum-uxp-widgets/reference-index.md", "summary": "Open when looking up Spectrum UXP Widgets in Photoshop.", "keywords": ["Spectrum UXP Widgets references"]},
+  {"topic": "Spectrum Web Component", "file": "uxp/spectrum-web-component.md", "summary": "Open when looking up Spectrum Web Component in Photoshop.", "keywords": ["Spectrum Web Component"]},
+  {"topic": "Spectrum Web Component references", "file": "uxp/spectrum-web-component/reference-index.md", "summary": "Open when looking up Spectrum Web Component in Photoshop.", "keywords": ["Spectrum Web Component references"]},
+  {"topic": "Typography", "file": "uxp/typography.md", "summary": "Open when looking up Typography in Photoshop.", "keywords": ["Typography"]},
+  {"topic": "Using with React", "file": "uxp/using-with-react.md", "summary": "Open when looking up Using with React in Photoshop.", "keywords": ["Using with React"]},
+  {"topic": "Using with React references", "file": "uxp/using-with-react/reference-index.md", "summary": "Open when looking up Using with React in Photoshop.", "keywords": ["Using with React references"]},
+  {"topic": "UXP Spectrum widgets to SWC mapping", "file": "uxp/uxp-spectrum-widgets-to-swc-mapping.md", "summary": "Open when looking up UXP Spectrum widgets to SWC mapping in Photoshop.", "keywords": ["UXP Spectrum widgets to SWC mapping"]},
+  {"topic": "Working with React", "file": "uxp/working-with-react.md", "summary": "Open when looking up Working with React in Photoshop.", "keywords": ["Working with React"]},
+  {"topic": "Working with React references", "file": "uxp/working-with-react/reference-index.md", "summary": "Open when looking up Working with React in Photoshop.", "keywords": ["Working with React references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

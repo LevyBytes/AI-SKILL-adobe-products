@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Supported assets", "file": "desktop/organize-media/import-files/import-media-from-firefly-boards-to-premiere-on-desktop/supported-assets.md", "summary": "Open when looking up Supported assets in Premiere Pro.", "keywords": ["Supported assets"]},
+  {"topic": "Unsupported assets", "file": "desktop/organize-media/import-files/import-media-from-firefly-boards-to-premiere-on-desktop/unsupported-assets.md", "summary": "Open when looking up Unsupported assets in Premiere Pro.", "keywords": ["Unsupported assets"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

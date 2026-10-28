@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Create a new barcode parameter set", "file": "desktop/work-with-pdf-forms/insert-barcodes-in-pdfs/manage-custom-barcode-parameters/create-a-new-barcode-parameter-set.md", "summary": "Open when looking up Create a new barcode parameter set in Acrobat.", "keywords": ["Create a new barcode parameter set"]},
+  {"topic": "Edit or delete a custom barcode parameter set", "file": "desktop/work-with-pdf-forms/insert-barcodes-in-pdfs/manage-custom-barcode-parameters/edit-or-delete-a-custom-barcode-parameter-set.md", "summary": "Open when looking up Edit or delete a custom barcode parameter set in Acrobat.", "keywords": ["Edit or delete a custom barcode parameter set"]},
+  {"topic": "Export or import a custom barcode parameter set", "file": "desktop/work-with-pdf-forms/insert-barcodes-in-pdfs/manage-custom-barcode-parameters/export-or-import-a-custom-barcode-parameter-set.md", "summary": "Open when looking up Export or import a custom barcode parameter set in Acrobat.", "keywords": ["Export or import a custom barcode parameter set"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

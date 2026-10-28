@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "INNER_COORDINATES", "file": "document-model/coordinate-spaces/innercoordinates.md", "summary": "Open when looking up INNER_COORDINATES in InDesign.", "keywords": ["INNER_COORDINATES"]},
+  {"topic": "PAGE_COORDINATES", "file": "document-model/coordinate-spaces/pagecoordinates.md", "summary": "Open when looking up PAGE_COORDINATES in InDesign.", "keywords": ["PAGE_COORDINATES"]},
+  {"topic": "PARENT_COORDINATES", "file": "document-model/coordinate-spaces/parentcoordinates.md", "summary": "Open when looking up PARENT_COORDINATES in InDesign.", "keywords": ["PARENT_COORDINATES"]},
+  {"topic": "PASTEBOARD_COORDINATES", "file": "document-model/coordinate-spaces/pasteboardcoordinates.md", "summary": "Open when looking up PASTEBOARD_COORDINATES in InDesign.", "keywords": ["PASTEBOARD_COORDINATES"]},
+  {"topic": "SPREAD_COORDINATES", "file": "document-model/coordinate-spaces/spreadcoordinates.md", "summary": "Open when looking up SPREAD_COORDINATES in InDesign.", "keywords": ["SPREAD_COORDINATES"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

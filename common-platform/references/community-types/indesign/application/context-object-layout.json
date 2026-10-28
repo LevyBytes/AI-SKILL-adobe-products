@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Application.transformationMatrices", "file": "references/community-types/indesign/application/transformation-matrices.md", "summary": "Open when looking up Application.transformationMatrices in Shared Adobe platform.", "keywords": ["Application.transformationMatrices"]},
-  {"topic": "Application.transformPreferences", "file": "references/community-types/indesign/application/transform-preferences.md", "summary": "Open when looking up Application.transformPreferences in Shared Adobe platform.", "keywords": ["Application.transformPreferences"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

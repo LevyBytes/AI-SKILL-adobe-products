@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Automatic layout - Automatic layout restrictions", "file": "scripting/automatic-layout-restrictions/automatic-layout-automatic-layout-restrictions.md", "summary": "Open when looking up Automatic layout - Automatic layout restrictions in Shared Adobe platform.", "keywords": ["Automatic layout - Automatic layout restrictions"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

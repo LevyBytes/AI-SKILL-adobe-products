@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Stories.index()", "file": "scripting/stories/index.md", "summary": "Open when looking up Stories.index() in Illustrator.", "keywords": ["Stories.index()"]},
+  {"topic": "Stories.length", "file": "scripting/stories/length.md", "summary": "Open when looking up Stories.length in Illustrator.", "keywords": ["Stories.length"]},
+  {"topic": "Stories.parent", "file": "scripting/stories/parent.md", "summary": "Open when looking up Stories.parent in Illustrator.", "keywords": ["Stories.parent"]},
+  {"topic": "Stories.typename", "file": "scripting/stories/typename.md", "summary": "Open when looking up Stories.typename in Illustrator.", "keywords": ["Stories.typename"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

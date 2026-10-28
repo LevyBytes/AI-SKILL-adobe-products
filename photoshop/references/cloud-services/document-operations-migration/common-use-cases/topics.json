@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Correcting aspect ratio", "file": "references/cloud-services/document-operations-migration/common-use-cases/correcting-aspect-ratio.md", "summary": "Open when looking up Correcting aspect ratio in Photoshop.", "keywords": ["Correcting aspect ratio"]},
-  {"topic": "Thumbnail generation", "file": "references/cloud-services/document-operations-migration/common-use-cases/thumbnail-generation.md", "summary": "Open when looking up Thumbnail generation in Photoshop.", "keywords": ["Thumbnail generation"]},
-  {"topic": "Trim transparent edges", "file": "references/cloud-services/document-operations-migration/common-use-cases/trim-transparent-edges.md", "summary": "Open when looking up Trim transparent edges in Photoshop.", "keywords": ["Trim transparent edges"]},
-  {"topic": "Web image optimization", "file": "references/cloud-services/document-operations-migration/common-use-cases/web-image-optimization.md", "summary": "Open when looking up Web image optimization in Photoshop.", "keywords": ["Web image optimization"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

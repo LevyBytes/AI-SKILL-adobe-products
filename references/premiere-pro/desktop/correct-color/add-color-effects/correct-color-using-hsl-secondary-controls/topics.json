@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Best practices", "file": "desktop/correct-color/add-color-effects/correct-color-using-hsl-secondary-controls/best-practices.md", "summary": "Open when looking up Best practices in Premiere Pro.", "keywords": ["Best practices"]},
+  {"topic": "Refine a key", "file": "desktop/correct-color/add-color-effects/correct-color-using-hsl-secondary-controls/refine-a-key.md", "summary": "Open when looking up Refine a key in Premiere Pro.", "keywords": ["Refine a key"]},
+  {"topic": "Set a key", "file": "desktop/correct-color/add-color-effects/correct-color-using-hsl-secondary-controls/set-a-key.md", "summary": "Open when looking up Set a key in Premiere Pro.", "keywords": ["Set a key"]},
+  {"topic": "Verify your selection", "file": "desktop/correct-color/add-color-effects/correct-color-using-hsl-secondary-controls/verify-your-selection.md", "summary": "Open when looking up Verify your selection in Premiere Pro.", "keywords": ["Verify your selection"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

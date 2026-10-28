@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Group objects", "file": "desktop/graphics-and-media/object-transforms/group-and-lock-objects/group-objects.md", "summary": "Open when looking up Group objects in InDesign.", "keywords": ["Group objects"]},
+  {"topic": "Lock objects", "file": "desktop/graphics-and-media/object-transforms/group-and-lock-objects/lock-objects.md", "summary": "Open when looking up Lock objects in InDesign.", "keywords": ["Lock objects"]},
+  {"topic": "Ungroup objects", "file": "desktop/graphics-and-media/object-transforms/group-and-lock-objects/ungroup-objects.md", "summary": "Open when looking up Ungroup objects in InDesign.", "keywords": ["Ungroup objects"]},
+  {"topic": "Unlock objects", "file": "desktop/graphics-and-media/object-transforms/group-and-lock-objects/unlock-objects.md", "summary": "Open when looking up Unlock objects in InDesign.", "keywords": ["Unlock objects"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

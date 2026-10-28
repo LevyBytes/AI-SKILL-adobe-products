@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Clear a clip", "file": "references/desktop/get-started/source-and-program-monitors/open-or-clear-a-clip-in-the-source-monitor/clear-a-clip.md", "summary": "Open when looking up Clear a clip in Premiere Pro.", "keywords": ["Clear a clip"]},
-  {"topic": "Open a clip", "file": "references/desktop/get-started/source-and-program-monitors/open-or-clear-a-clip-in-the-source-monitor/open-a-clip.md", "summary": "Open when looking up Open a clip in Premiere Pro.", "keywords": ["Open a clip"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

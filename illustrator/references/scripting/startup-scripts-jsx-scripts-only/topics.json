@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Application-specific startup scripts folder", "file": "references/scripting/startup-scripts-jsx-scripts-only/application-specific-startup-scripts-folder.md", "summary": "Open when looking up Application-specific startup scripts folder in Illustrator.", "keywords": ["Application-specific startup scripts folder"]},
-  {"topic": "Executing Scripts - Startup scripts (.jsx scripts only)", "file": "references/scripting/startup-scripts-jsx-scripts-only/executing-scripts-startup-scripts-jsx-scripts-only.md", "summary": "Open when looking up Executing Scripts - Startup scripts (.jsx scripts only) in Illustrator.", "keywords": ["Executing Scripts - Startup scripts (.jsx scripts only)"]},
-  {"topic": "Startup scripts shared through Creative Cloud", "file": "references/scripting/startup-scripts-jsx-scripts-only/startup-scripts-shared-through-creative-cloud.md", "summary": "Open when looking up Startup scripts shared through Creative Cloud in Illustrator.", "keywords": ["Startup scripts shared through Creative Cloud"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

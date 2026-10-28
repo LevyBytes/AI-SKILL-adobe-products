@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "CENTER_EDGES", "file": "document-model/trap-image-placement-types/centeredges.md", "summary": "Open when looking up CENTER_EDGES in InDesign.", "keywords": ["CENTER_EDGES"]},
+  {"topic": "CHOKE", "file": "document-model/trap-image-placement-types/choke.md", "summary": "Open when looking up CHOKE in InDesign.", "keywords": ["CHOKE"]},
+  {"topic": "IMAGE_NEUTRAL_DENSITY", "file": "document-model/trap-image-placement-types/imageneutraldensity.md", "summary": "Open when looking up IMAGE_NEUTRAL_DENSITY in InDesign.", "keywords": ["IMAGE_NEUTRAL_DENSITY"]},
+  {"topic": "IMAGES_OVER_SPREAD", "file": "document-model/trap-image-placement-types/imagesoverspread.md", "summary": "Open when looking up IMAGES_OVER_SPREAD in InDesign.", "keywords": ["IMAGES_OVER_SPREAD"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

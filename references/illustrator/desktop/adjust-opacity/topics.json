@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Adjust opacity for an object, object group, layer, Fill, or Stroke.", "file": "desktop/adjust-opacity/object-layer-fill-and-stroke-opacity.md", "summary": "Open when looking up Adjust opacity for an object, object group, layer, Fill, or Stroke. in Illustrator.", "keywords": ["Adjust opacity for an object, object group, layer, Fill, or Stroke."]},
+  {"topic": "Select all objects of the same opacity", "file": "desktop/adjust-opacity/select-all-objects-of-the-same-opacity.md", "summary": "Open when looking up Select all objects of the same opacity in Illustrator.", "keywords": ["Select all objects of the same opacity"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

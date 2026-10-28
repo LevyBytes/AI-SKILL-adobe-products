@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "baselineFrameGridOptions", "file": "document-model/document/baseline-frame-grid-options.md", "summary": "Open when looking up baselineFrameGridOptions in InDesign.", "keywords": ["baselineFrameGridOptions"]},
+  {"topic": "cjkGridPreferences", "file": "document-model/document/cjk-grid-preferences.md", "summary": "Open when looking up cjkGridPreferences in InDesign.", "keywords": ["cjkGridPreferences"]},
+  {"topic": "gridPreferences", "file": "document-model/document/grid-preferences.md", "summary": "Open when looking up gridPreferences in InDesign.", "keywords": ["gridPreferences"]},
+  {"topic": "guidePreferences", "file": "document-model/document/guide-preferences.md", "summary": "Open when looking up guidePreferences in InDesign.", "keywords": ["guidePreferences"]},
+  {"topic": "guides", "file": "document-model/document/guides.md", "summary": "Open when looking up guides in InDesign.", "keywords": ["guides"]},
+  {"topic": "layoutGridData", "file": "document-model/document/layout-grid-data.md", "summary": "Open when looking up layoutGridData in InDesign.", "keywords": ["layoutGridData"]},
+  {"topic": "marginPreferences", "file": "document-model/document/margin-preferences.md", "summary": "Open when looking up marginPreferences in InDesign.", "keywords": ["marginPreferences"]},
+  {"topic": "namedGrids", "file": "document-model/document/named-grids.md", "summary": "Open when looking up namedGrids in InDesign.", "keywords": ["namedGrids"]},
+  {"topic": "pasteboardPreferences", "file": "document-model/document/pasteboard-preferences.md", "summary": "Open when looking up pasteboardPreferences in InDesign.", "keywords": ["pasteboardPreferences"]},
+  {"topic": "storyGridData", "file": "document-model/document/story-grid-data.md", "summary": "Open when looking up storyGridData in InDesign.", "keywords": ["storyGridData"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

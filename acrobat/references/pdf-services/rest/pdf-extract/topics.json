@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Public REST API setup", "file": "references/pdf-services/rest/pdf-extract/credential-setup.md", "summary": "Open when looking up Public REST API setup in Acrobat.", "keywords": ["Public REST API setup"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

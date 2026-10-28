@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "After Effects 24.0 (October 2023)", "file": "scripting/after-effects-24/after-effects-24-0-october-2023.md", "summary": "Open when looking up After Effects 24.0 (October 2023) in After Effects.", "keywords": ["After Effects 24.0 (October 2023)"]},
+  {"topic": "After Effects 24.2 (February 2024)", "file": "scripting/after-effects-24/after-effects-24-2-february-2024.md", "summary": "Open when looking up After Effects 24.2 (February 2024) in After Effects.", "keywords": ["After Effects 24.2 (February 2024)"]},
+  {"topic": "After Effects 24.3 (March 2024)", "file": "scripting/after-effects-24/after-effects-24-3-march-2024.md", "summary": "Open when looking up After Effects 24.3 (March 2024) in After Effects.", "keywords": ["After Effects 24.3 (March 2024)"]},
+  {"topic": "After Effects 24.4 (May 2024)", "file": "scripting/after-effects-24/after-effects-24-4-may-2024.md", "summary": "Open when looking up After Effects 24.4 (May 2024) in After Effects.", "keywords": ["After Effects 24.4 (May 2024)"]},
+  {"topic": "After Effects 24.5 (May 2024)", "file": "scripting/after-effects-24/after-effects-24-5-may-2024.md", "summary": "Open when looking up After Effects 24.5 (May 2024) in After Effects.", "keywords": ["After Effects 24.5 (May 2024)"]},
+  {"topic": "After Effects 24.6 (August 2024)", "file": "scripting/after-effects-24/after-effects-24-6-august-2024.md", "summary": "Open when looking up After Effects 24.6 (August 2024) in After Effects.", "keywords": ["After Effects 24.6 (August 2024)"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "imageRenderingIntent", "file": "document-model/image/image-rendering-intent.md", "summary": "Open when looking up imageRenderingIntent in InDesign.", "keywords": ["imageRenderingIntent"]},
+  {"topic": "profileList", "file": "document-model/image/profile-list.md", "summary": "Open when looking up profileList in InDesign.", "keywords": ["profileList"]},
+  {"topic": "space", "file": "document-model/image/space.md", "summary": "Open when looking up space in InDesign.", "keywords": ["space"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

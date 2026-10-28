@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "window.HTMLCollection - forEach(callback)", "file": "uxp/html-collection/for-each.md", "summary": "Open when looking up window.HTMLCollection - forEach(callback) in InDesign.", "keywords": ["window.HTMLCollection - forEach(callback)"]},
+  {"topic": "window.HTMLCollection - item(index)", "file": "uxp/html-collection/item.md", "summary": "Open when looking up window.HTMLCollection - item(index) in InDesign.", "keywords": ["window.HTMLCollection - item(index)"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "TextDefault.warichu", "file": "community-types/indesign/text-default/warichu.md", "summary": "Open when looking up TextDefault.warichu in Shared Adobe platform.", "keywords": ["TextDefault.warichu"]},
+  {"topic": "TextDefault.warichuAlignment", "file": "community-types/indesign/text-default/warichu-alignment.md", "summary": "Open when looking up TextDefault.warichuAlignment in Shared Adobe platform.", "keywords": ["TextDefault.warichuAlignment"]},
+  {"topic": "TextDefault.warichuCharsAfterBreak", "file": "community-types/indesign/text-default/warichu-chars-after-break.md", "summary": "Open when looking up TextDefault.warichuCharsAfterBreak in Shared Adobe platform.", "keywords": ["TextDefault.warichuCharsAfterBreak"]},
+  {"topic": "TextDefault.warichuCharsBeforeBreak", "file": "community-types/indesign/text-default/warichu-chars-before-break.md", "summary": "Open when looking up TextDefault.warichuCharsBeforeBreak in Shared Adobe platform.", "keywords": ["TextDefault.warichuCharsBeforeBreak"]},
+  {"topic": "TextDefault.warichuLines", "file": "community-types/indesign/text-default/warichu-lines.md", "summary": "Open when looking up TextDefault.warichuLines in Shared Adobe platform.", "keywords": ["TextDefault.warichuLines"]},
+  {"topic": "TextDefault.warichuLineSpacing", "file": "community-types/indesign/text-default/warichu-line-spacing.md", "summary": "Open when looking up TextDefault.warichuLineSpacing in Shared Adobe platform.", "keywords": ["TextDefault.warichuLineSpacing"]},
+  {"topic": "TextDefault.warichuSize", "file": "community-types/indesign/text-default/warichu-size.md", "summary": "Open when looking up TextDefault.warichuSize in Shared Adobe platform.", "keywords": ["TextDefault.warichuSize"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

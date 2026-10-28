@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Arbitrary Data Parameters - Implementing Arbitrary Data", "file": "plugin-sdk/implementing-arbitrary-data/arbitrary-data-parameters-implementing-arbitrary-data.md", "summary": "Open when looking up Arbitrary Data Parameters - Implementing Arbitrary Data in After Effects.", "keywords": ["Arbitrary Data Parameters - Implementing Arbitrary Data"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

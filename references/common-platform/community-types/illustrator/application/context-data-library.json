@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Application.applyDataToItem", "file": "community-types/illustrator/application/apply-data-to-item.md", "summary": "Open when looking up Application.applyDataToItem in Shared Adobe platform.", "keywords": ["Application.applyDataToItem"]},
+  {"topic": "Application.applySingleDataPointToItem", "file": "community-types/illustrator/application/apply-single-data-point-to-item.md", "summary": "Open when looking up Application.applySingleDataPointToItem in Shared Adobe platform.", "keywords": ["Application.applySingleDataPointToItem"]},
+  {"topic": "Application.openCloudLibraryAssetForEditing", "file": "community-types/illustrator/application/open-cloud-library-asset-for-editing.md", "summary": "Open when looking up Application.openCloudLibraryAssetForEditing in Shared Adobe platform.", "keywords": ["Application.openCloudLibraryAssetForEditing"]},
+  {"topic": "Application.setThumbnailOptionsForCloudLibrary", "file": "community-types/illustrator/application/set-thumbnail-options-for-cloud-library.md", "summary": "Open when looking up Application.setThumbnailOptionsForCloudLibrary in Shared Adobe platform.", "keywords": ["Application.setThumbnailOptionsForCloudLibrary"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

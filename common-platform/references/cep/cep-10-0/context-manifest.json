@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Extension Manifest", "file": "references/cep/cep-10-0/extension-manifest.md", "summary": "Open when looking up Extension Manifest in Shared Adobe platform.", "keywords": ["Extension Manifest"]},
-  {"topic": "Extension Manifest XSD", "file": "references/cep/cep-10-0/extension-manifest-xsd.md", "summary": "Open when looking up Extension Manifest XSD in Shared Adobe platform.", "keywords": ["Extension Manifest XSD"]},
-  {"topic": "Important Manifest Change for CEP 5.0 Extensions", "file": "references/cep/cep-10-0/important-manifest-change-for-cep-5-0-extensions.md", "summary": "Open when looking up Important Manifest Change for CEP 5.0 Extensions in Shared Adobe platform.", "keywords": ["Important Manifest Change for CEP 5.0 Extensions"]},
-  {"topic": "Important Manifest Change for CEP 7.0 Extensions", "file": "references/cep/cep-10-0/important-manifest-change-for-cep-7-0-extensions.md", "summary": "Open when looking up Important Manifest Change for CEP 7.0 Extensions in Shared Adobe platform.", "keywords": ["Important Manifest Change for CEP 7.0 Extensions"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

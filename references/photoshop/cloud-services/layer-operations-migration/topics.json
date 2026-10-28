@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Adjustment Layer Operations", "file": "cloud-services/layer-operations-migration/adjustment-layer-operations.md", "summary": "Open when looking up Adjustment Layer Operations in Photoshop.", "keywords": ["Adjustment Layer Operations"]},
+  {"topic": "Advanced Layer Operations", "file": "cloud-services/layer-operations-migration/advanced-layer-operations.md", "summary": "Open when looking up Advanced Layer Operations in Photoshop.", "keywords": ["Advanced Layer Operations"]},
+  {"topic": "Building a composition", "file": "cloud-services/layer-operations-migration/building-a-composition.md", "summary": "Open when looking up Building a composition in Photoshop.", "keywords": ["Building a composition"]},
+  {"topic": "By layer type", "file": "cloud-services/layer-operations-migration/by-layer-type.md", "summary": "Open when looking up By layer type in Photoshop.", "keywords": ["By layer type"]},
+  {"topic": "By operation type", "file": "cloud-services/layer-operations-migration/by-operation-type.md", "summary": "Open when looking up By operation type in Photoshop.", "keywords": ["By operation type"]},
+  {"topic": "Editing existing documents", "file": "cloud-services/layer-operations-migration/editing-existing-documents.md", "summary": "Open when looking up Editing existing documents in Photoshop.", "keywords": ["Editing existing documents"]},
+  {"topic": "Image Layer Operations", "file": "cloud-services/layer-operations-migration/image-layer-operations.md", "summary": "Open when looking up Image Layer Operations in Photoshop.", "keywords": ["Image Layer Operations"]},
+  {"topic": "Layer Operations Overview", "file": "cloud-services/layer-operations-migration/layer-operations-overview.md", "summary": "Open when looking up Layer Operations Overview in Photoshop.", "keywords": ["Layer Operations Overview"]},
+  {"topic": "Need help?", "file": "cloud-services/layer-operations-migration/need-help.md", "summary": "Open when looking up Need help? in Photoshop.", "keywords": ["Need help?"]},
+  {"topic": "Smart Object Operations", "file": "cloud-services/layer-operations-migration/smart-object-operations.md", "summary": "Open when looking up Smart Object Operations in Photoshop.", "keywords": ["Smart Object Operations"]},
+  {"topic": "Text Layer Operations", "file": "cloud-services/layer-operations-migration/text-layer-operations.md", "summary": "Open when looking up Text Layer Operations in Photoshop.", "keywords": ["Text Layer Operations"]},
+  {"topic": "What's next?", "file": "cloud-services/layer-operations-migration/what-s-next.md", "summary": "Open when looking up What's next? in Photoshop.", "keywords": ["What's next?"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

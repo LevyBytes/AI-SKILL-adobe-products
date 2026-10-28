@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "About Adobe Firefly", "file": "web/get-started/learn-the-basics/adobe-firefly-faq/about-adobe-firefly.md", "summary": "Open when looking up About Adobe Firefly in Firefly.", "keywords": ["About Adobe Firefly"]},
+  {"topic": "Data and content usage", "file": "web/get-started/learn-the-basics/adobe-firefly-faq/data-and-content-usage.md", "summary": "Open when looking up Data and content usage in Firefly.", "keywords": ["Data and content usage"]},
+  {"topic": "Plans and membership", "file": "web/get-started/learn-the-basics/adobe-firefly-faq/plans-and-membership.md", "summary": "Open when looking up Plans and membership in Firefly.", "keywords": ["Plans and membership"]},
+  {"topic": "Using Firefly", "file": "web/get-started/learn-the-basics/adobe-firefly-faq/using-firefly.md", "summary": "Open when looking up Using Firefly in Firefly.", "keywords": ["Using Firefly"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

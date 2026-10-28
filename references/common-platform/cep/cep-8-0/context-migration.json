@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Changes for Extensions Developers", "file": "cep/cep-8-0/changes-for-extensions-developers.md", "summary": "Open when looking up Changes for Extensions Developers in Shared Adobe platform.", "keywords": ["Changes for Extensions Developers"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

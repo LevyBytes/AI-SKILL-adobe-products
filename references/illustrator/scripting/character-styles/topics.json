@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "CharacterStyles.add()", "file": "scripting/character-styles/add.md", "summary": "Open when looking up CharacterStyles.add() in Illustrator.", "keywords": ["CharacterStyles.add()"]},
+  {"topic": "CharacterStyles.getByName()", "file": "scripting/character-styles/get-by-name.md", "summary": "Open when looking up CharacterStyles.getByName() in Illustrator.", "keywords": ["CharacterStyles.getByName()"]},
+  {"topic": "CharacterStyles.index()", "file": "scripting/character-styles/index.md", "summary": "Open when looking up CharacterStyles.index() in Illustrator.", "keywords": ["CharacterStyles.index()"]},
+  {"topic": "CharacterStyles.length", "file": "scripting/character-styles/length.md", "summary": "Open when looking up CharacterStyles.length in Illustrator.", "keywords": ["CharacterStyles.length"]},
+  {"topic": "CharacterStyles.parent", "file": "scripting/character-styles/parent.md", "summary": "Open when looking up CharacterStyles.parent in Illustrator.", "keywords": ["CharacterStyles.parent"]},
+  {"topic": "CharacterStyles.removeAll()", "file": "scripting/character-styles/remove-all.md", "summary": "Open when looking up CharacterStyles.removeAll() in Illustrator.", "keywords": ["CharacterStyles.removeAll()"]},
+  {"topic": "CharacterStyles.typename", "file": "scripting/character-styles/typename.md", "summary": "Open when looking up CharacterStyles.typename in Illustrator.", "keywords": ["CharacterStyles.typename"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

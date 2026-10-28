@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "addPath(path)", "file": "uxp/dom/path2-d/add-path.md", "summary": "Open when looking up addPath(path) in Photoshop.", "keywords": ["addPath(path)"]},
+  {"topic": "Path2D(path)", "file": "uxp/dom/path2-d/path2-d.md", "summary": "Open when looking up Path2D(path) in Photoshop.", "keywords": ["Path2D(path)"]},
+  {"topic": "window.Path2D", "file": "uxp/dom/path2-d/overview.md", "summary": "Open when looking up window.Path2D in Photoshop.", "keywords": ["window.Path2D"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

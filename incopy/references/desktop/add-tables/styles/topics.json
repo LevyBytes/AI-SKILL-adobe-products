@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "incopy", "topics": [
-  {"topic": "Table Cell Styles", "file": "references/desktop/add-tables/styles/table-cell-styles.md", "summary": "Open when looking up Table Cell Styles in InCopy.", "keywords": ["Table Cell Styles"]},
-  {"topic": "Table Cell Styles references", "file": "references/desktop/add-tables/styles/table-cell-styles/reference-index.md", "summary": "Open when looking up Table Cell Styles in InCopy.", "keywords": ["Table Cell Styles references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

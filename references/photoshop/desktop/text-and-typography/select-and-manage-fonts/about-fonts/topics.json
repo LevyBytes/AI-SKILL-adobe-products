@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Font types and their icons", "file": "desktop/text-and-typography/select-and-manage-fonts/about-fonts/font-types-and-their-icons.md", "summary": "Open when looking up Font types and their icons in Photoshop.", "keywords": ["Font types and their icons"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Bevel emboss references", "file": "scripting/bevel-emboss/reference-index.md", "summary": "Open when looking up Bevel emboss in After Effects.", "keywords": ["Bevel emboss references"]},
+  {"topic": "Drop shadow references", "file": "scripting/drop-shadow/reference-index.md", "summary": "Open when looking up Drop shadow in After Effects.", "keywords": ["Drop shadow references"]},
+  {"topic": "Inner glow references", "file": "scripting/inner-glow/reference-index.md", "summary": "Open when looking up Inner glow in After Effects.", "keywords": ["Inner glow references"]},
+  {"topic": "Inner shadow references", "file": "scripting/inner-shadow/reference-index.md", "summary": "Open when looking up Inner shadow in After Effects.", "keywords": ["Inner shadow references"]},
+  {"topic": "Outer glow references", "file": "scripting/outer-glow/reference-index.md", "summary": "Open when looking up Outer glow in After Effects.", "keywords": ["Outer glow references"]},
+  {"topic": "Pattern references", "file": "scripting/pattern/reference-index.md", "summary": "Open when looking up Pattern in After Effects.", "keywords": ["Pattern references"]},
+  {"topic": "Satin references", "file": "scripting/satin/reference-index.md", "summary": "Open when looking up Satin in After Effects.", "keywords": ["Satin references"]},
+  {"topic": "Solid fill references", "file": "scripting/solid-fill/reference-index.md", "summary": "Open when looking up Solid fill in After Effects.", "keywords": ["Solid fill references"]},
+  {"topic": "Styles references", "file": "scripting/styles/reference-index.md", "summary": "Open when looking up Styles in After Effects.", "keywords": ["Styles references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

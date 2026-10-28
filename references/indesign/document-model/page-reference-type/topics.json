@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "CURRENT_PAGE", "file": "document-model/page-reference-type/currentpage.md", "summary": "Open when looking up CURRENT_PAGE in InDesign.", "keywords": ["CURRENT_PAGE"]},
+  {"topic": "FOR_NEXT_N_PAGES", "file": "document-model/page-reference-type/fornextnpages.md", "summary": "Open when looking up FOR_NEXT_N_PAGES in InDesign.", "keywords": ["FOR_NEXT_N_PAGES"]},
+  {"topic": "FOR_NEXT_N_PARAGRAPHS", "file": "document-model/page-reference-type/fornextnparagraphs.md", "summary": "Open when looking up FOR_NEXT_N_PARAGRAPHS in InDesign.", "keywords": ["FOR_NEXT_N_PARAGRAPHS"]},
+  {"topic": "SUPPRESS_PAGE_NUMBERS", "file": "document-model/page-reference-type/suppresspagenumbers.md", "summary": "Open when looking up SUPPRESS_PAGE_NUMBERS in InDesign.", "keywords": ["SUPPRESS_PAGE_NUMBERS"]},
+  {"topic": "TO_END_OF_DOCUMENT", "file": "document-model/page-reference-type/toendofdocument.md", "summary": "Open when looking up TO_END_OF_DOCUMENT in InDesign.", "keywords": ["TO_END_OF_DOCUMENT"]},
+  {"topic": "TO_END_OF_SECTION", "file": "document-model/page-reference-type/toendofsection.md", "summary": "Open when looking up TO_END_OF_SECTION in InDesign.", "keywords": ["TO_END_OF_SECTION"]},
+  {"topic": "TO_END_OF_STORY", "file": "document-model/page-reference-type/toendofstory.md", "summary": "Open when looking up TO_END_OF_STORY in InDesign.", "keywords": ["TO_END_OF_STORY"]},
+  {"topic": "TO_NEXT_STYLE_CHANGE", "file": "document-model/page-reference-type/tonextstylechange.md", "summary": "Open when looking up TO_NEXT_STYLE_CHANGE in InDesign.", "keywords": ["TO_NEXT_STYLE_CHANGE"]},
+  {"topic": "TO_NEXT_USE_OF_STYLE", "file": "document-model/page-reference-type/tonextuseofstyle.md", "summary": "Open when looking up TO_NEXT_USE_OF_STYLE in InDesign.", "keywords": ["TO_NEXT_USE_OF_STYLE"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

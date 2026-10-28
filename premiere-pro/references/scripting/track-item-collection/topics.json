@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "TrackItemCollection object", "file": "references/scripting/track-item-collection/track-item-collection-object.md", "summary": "Open when looking up TrackItemCollection object in Premiere Pro.", "keywords": ["TrackItemCollection object"]},
-  {"topic": "TrackItemCollection.numItems", "file": "references/scripting/track-item-collection/num-items.md", "summary": "Open when looking up TrackItemCollection.numItems in Premiere Pro.", "keywords": ["TrackItemCollection.numItems"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

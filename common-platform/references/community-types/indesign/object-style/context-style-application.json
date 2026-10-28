@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "ObjectStyle.appliedParagraphStyle", "file": "references/community-types/indesign/object-style/applied-paragraph-style.md", "summary": "Open when looking up ObjectStyle.appliedParagraphStyle in Shared Adobe platform.", "keywords": ["ObjectStyle.appliedParagraphStyle"]},
-  {"topic": "ObjectStyle.applyNextParagraphStyle", "file": "references/community-types/indesign/object-style/apply-next-paragraph-style.md", "summary": "Open when looking up ObjectStyle.applyNextParagraphStyle in Shared Adobe platform.", "keywords": ["ObjectStyle.applyNextParagraphStyle"]},
-  {"topic": "ObjectStyle.basedOn", "file": "references/community-types/indesign/object-style/based-on.md", "summary": "Open when looking up ObjectStyle.basedOn in Shared Adobe platform.", "keywords": ["ObjectStyle.basedOn"]},
-  {"topic": "ObjectStyle.emitCss", "file": "references/community-types/indesign/object-style/emit-css.md", "summary": "Open when looking up ObjectStyle.emitCss in Shared Adobe platform.", "keywords": ["ObjectStyle.emitCss"]},
-  {"topic": "ObjectStyle.includeClass", "file": "references/community-types/indesign/object-style/include-class.md", "summary": "Open when looking up ObjectStyle.includeClass in Shared Adobe platform.", "keywords": ["ObjectStyle.includeClass"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "NonNativeItems.getByName()", "file": "scripting/non-native-items/get-by-name.md", "summary": "Open when looking up NonNativeItems.getByName() in Illustrator.", "keywords": ["NonNativeItems.getByName()"]},
+  {"topic": "NonNativeItems.length", "file": "scripting/non-native-items/length.md", "summary": "Open when looking up NonNativeItems.length in Illustrator.", "keywords": ["NonNativeItems.length"]},
+  {"topic": "NonNativeItems.parent", "file": "scripting/non-native-items/parent.md", "summary": "Open when looking up NonNativeItems.parent in Illustrator.", "keywords": ["NonNativeItems.parent"]},
+  {"topic": "NonNativeItems.typename", "file": "scripting/non-native-items/typename.md", "summary": "Open when looking up NonNativeItems.typename in Illustrator.", "keywords": ["NonNativeItems.typename"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

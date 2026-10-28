@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Acrobat compatibility warning for Rosetta on Mac with Apple Silicon", "file": "desktop/troubleshoot/compatibility/rosetta-compatibility-warning.md", "summary": "Open when looking up Acrobat compatibility warning for Rosetta on Mac with Apple Silicon in Acrobat.", "keywords": ["Acrobat compatibility warning for Rosetta on Mac with Apple Silicon"]},
+  {"topic": "Acrobat compatibility warning for Rosetta on Mac with Apple Silicon references", "file": "desktop/troubleshoot/compatibility/rosetta-native-mode/reference-index.md", "summary": "Open when looking up Acrobat compatibility warning for Rosetta on Mac with Apple Silicon in Acrobat.", "keywords": ["Acrobat compatibility warning for Rosetta on Mac with Apple Silicon references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

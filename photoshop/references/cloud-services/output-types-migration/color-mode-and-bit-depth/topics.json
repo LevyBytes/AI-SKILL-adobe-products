@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Bit depth validation", "file": "references/cloud-services/output-types-migration/color-mode-and-bit-depth/bit-depth-validation.md", "summary": "Open when looking up Bit depth validation in Photoshop.", "keywords": ["Bit depth validation"]},
-  {"topic": "Color mode validation", "file": "references/cloud-services/output-types-migration/color-mode-and-bit-depth/color-mode-validation.md", "summary": "Open when looking up Color mode validation in Photoshop.", "keywords": ["Color mode validation"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

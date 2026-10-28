@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Plot the distance between any two points", "file": "desktop/measure-and-align/plot-and-measure/linear-dimensions/plot-the-distance-between-any-two-points.md", "summary": "Open when looking up Plot the distance between any two points in Illustrator.", "keywords": ["Plot the distance between any two points"]},
+  {"topic": "Plot the side dimensions of basic shapes", "file": "desktop/measure-and-align/plot-and-measure/linear-dimensions/plot-the-side-dimensions-of-basic-shapes.md", "summary": "Open when looking up Plot the side dimensions of basic shapes in Illustrator.", "keywords": ["Plot the side dimensions of basic shapes"]},
+  {"topic": "Plot the vertical and horizontal dimensions of objects", "file": "desktop/measure-and-align/plot-and-measure/linear-dimensions/plot-the-vertical-and-horizontal-dimensions-of-objects.md", "summary": "Open when looking up Plot the vertical and horizontal dimensions of objects in Illustrator.", "keywords": ["Plot the vertical and horizontal dimensions of objects"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

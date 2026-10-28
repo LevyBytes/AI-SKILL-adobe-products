@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "BOTTOM_CENTER_POINT", "file": "document-model/auto-sizing-reference-enum/bottomcenterpoint.md", "summary": "Open when looking up BOTTOM_CENTER_POINT in InDesign.", "keywords": ["BOTTOM_CENTER_POINT"]},
+  {"topic": "BOTTOM_LEFT_POINT", "file": "document-model/auto-sizing-reference-enum/bottomleftpoint.md", "summary": "Open when looking up BOTTOM_LEFT_POINT in InDesign.", "keywords": ["BOTTOM_LEFT_POINT"]},
+  {"topic": "BOTTOM_RIGHT_POINT", "file": "document-model/auto-sizing-reference-enum/bottomrightpoint.md", "summary": "Open when looking up BOTTOM_RIGHT_POINT in InDesign.", "keywords": ["BOTTOM_RIGHT_POINT"]},
+  {"topic": "CENTER_POINT", "file": "document-model/auto-sizing-reference-enum/centerpoint.md", "summary": "Open when looking up CENTER_POINT in InDesign.", "keywords": ["CENTER_POINT"]},
+  {"topic": "LEFT_CENTER_POINT", "file": "document-model/auto-sizing-reference-enum/leftcenterpoint.md", "summary": "Open when looking up LEFT_CENTER_POINT in InDesign.", "keywords": ["LEFT_CENTER_POINT"]},
+  {"topic": "RIGHT_CENTER_POINT", "file": "document-model/auto-sizing-reference-enum/rightcenterpoint.md", "summary": "Open when looking up RIGHT_CENTER_POINT in InDesign.", "keywords": ["RIGHT_CENTER_POINT"]},
+  {"topic": "TOP_CENTER_POINT", "file": "document-model/auto-sizing-reference-enum/topcenterpoint.md", "summary": "Open when looking up TOP_CENTER_POINT in InDesign.", "keywords": ["TOP_CENTER_POINT"]},
+  {"topic": "TOP_LEFT_POINT", "file": "document-model/auto-sizing-reference-enum/topleftpoint.md", "summary": "Open when looking up TOP_LEFT_POINT in InDesign.", "keywords": ["TOP_LEFT_POINT"]},
+  {"topic": "TOP_RIGHT_POINT", "file": "document-model/auto-sizing-reference-enum/toprightpoint.md", "summary": "Open when looking up TOP_RIGHT_POINT in InDesign.", "keywords": ["TOP_RIGHT_POINT"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "anchoredObjectDefaults", "file": "references/document-model/application/anchored-object-defaults.md", "summary": "Open when looking up anchoredObjectDefaults in InDesign.", "keywords": ["anchoredObjectDefaults"]},
-  {"topic": "anchoredObjectSettings", "file": "references/document-model/application/anchored-object-settings.md", "summary": "Open when looking up anchoredObjectSettings in InDesign.", "keywords": ["anchoredObjectSettings"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

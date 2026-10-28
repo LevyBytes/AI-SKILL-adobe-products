@@ -1,0 +1,16 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "PrintOptions.colorManagementOptions", "file": "scripting/print-options/color-management-options.md", "summary": "Open when looking up PrintOptions.colorManagementOptions in Illustrator.", "keywords": ["PrintOptions.colorManagementOptions"]},
+  {"topic": "PrintOptions.colorSeparationOptions", "file": "scripting/print-options/color-separation-options.md", "summary": "Open when looking up PrintOptions.colorSeparationOptions in Illustrator.", "keywords": ["PrintOptions.colorSeparationOptions"]},
+  {"topic": "PrintOptions.coordinateOptions", "file": "scripting/print-options/coordinate-options.md", "summary": "Open when looking up PrintOptions.coordinateOptions in Illustrator.", "keywords": ["PrintOptions.coordinateOptions"]},
+  {"topic": "PrintOptions.flattenerOptions", "file": "scripting/print-options/flattener-options.md", "summary": "Open when looking up PrintOptions.flattenerOptions in Illustrator.", "keywords": ["PrintOptions.flattenerOptions"]},
+  {"topic": "PrintOptions.flattenerPreset", "file": "scripting/print-options/flattener-preset.md", "summary": "Open when looking up PrintOptions.flattenerPreset in Illustrator.", "keywords": ["PrintOptions.flattenerPreset"]},
+  {"topic": "PrintOptions.fontOptions", "file": "scripting/print-options/font-options.md", "summary": "Open when looking up PrintOptions.fontOptions in Illustrator.", "keywords": ["PrintOptions.fontOptions"]},
+  {"topic": "PrintOptions.jobOptions", "file": "scripting/print-options/job-options.md", "summary": "Open when looking up PrintOptions.jobOptions in Illustrator.", "keywords": ["PrintOptions.jobOptions"]},
+  {"topic": "PrintOptions.pageMarksOptions", "file": "scripting/print-options/page-marks-options.md", "summary": "Open when looking up PrintOptions.pageMarksOptions in Illustrator.", "keywords": ["PrintOptions.pageMarksOptions"]},
+  {"topic": "PrintOptions.paperOptions", "file": "scripting/print-options/paper-options.md", "summary": "Open when looking up PrintOptions.paperOptions in Illustrator.", "keywords": ["PrintOptions.paperOptions"]},
+  {"topic": "PrintOptions.postScriptOptions", "file": "scripting/print-options/post-script-options.md", "summary": "Open when looking up PrintOptions.postScriptOptions in Illustrator.", "keywords": ["PrintOptions.postScriptOptions"]},
+  {"topic": "PrintOptions.PPDName", "file": "scripting/print-options/ppd-name.md", "summary": "Open when looking up PrintOptions.PPDName in Illustrator.", "keywords": ["PrintOptions.PPDName"]},
+  {"topic": "PrintOptions.printerName", "file": "scripting/print-options/printer-name.md", "summary": "Open when looking up PrintOptions.printerName in Illustrator.", "keywords": ["PrintOptions.printerName"]},
+  {"topic": "PrintOptions.printPreset", "file": "scripting/print-options/print-preset.md", "summary": "Open when looking up PrintOptions.printPreset in Illustrator.", "keywords": ["PrintOptions.printPreset"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

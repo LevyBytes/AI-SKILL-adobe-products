@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "How to Delete a DS_Store File for a Specific Folder", "file": "cep/faqs-how-can-i-fix-the-following-ds-store-or-mac-osx-error/how-to-delete-a-ds-store-file-for-a-specific-folder.md", "summary": "Open when looking up How to Delete a DS_Store File for a Specific Folder in Shared Adobe platform.", "keywords": ["How to Delete a DS_Store File for a Specific Folder"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

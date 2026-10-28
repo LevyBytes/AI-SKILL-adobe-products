@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Example 1: Simple edit (auto tone)", "file": "cloud-services/v1-v2-migration-reference/code-transformation-examples/example-1-simple-edit-auto-tone.md", "summary": "Open when looking up Example 1: Simple edit (auto tone) in Photoshop.", "keywords": ["Example 1: Simple edit (auto tone)"]},
+  {"topic": "Example 2: Complex edit (multiple adjustments)", "file": "cloud-services/v1-v2-migration-reference/code-transformation-examples/example-2-complex-edit-multiple-adjustments.md", "summary": "Open when looking up Example 2: Complex edit (multiple adjustments) in Photoshop.", "keywords": ["Example 2: Complex edit (multiple adjustments)"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Apply and format fonts in your document", "file": "desktop/fonts/apply-and-format-fonts-in-your-document.md", "summary": "Open when looking up Apply and format fonts in your document in InDesign.", "keywords": ["Apply and format fonts in your document"]},
+  {"topic": "Apply and format fonts in your document references", "file": "desktop/fonts/apply-and-format-fonts-in-your-document/reference-index.md", "summary": "Open when looking up Apply and format fonts in your document in InDesign.", "keywords": ["Apply and format fonts in your document references"]},
+  {"topic": "Find and replace fonts", "file": "desktop/fonts/find-and-replace-fonts.md", "summary": "Open when looking up Find and replace fonts in InDesign.", "keywords": ["Find and replace fonts"]},
+  {"topic": "Fonts", "file": "desktop/fonts/fonts.md", "summary": "Open when looking up Fonts in InDesign.", "keywords": ["Fonts"]},
+  {"topic": "Fonts in InDesign", "file": "desktop/fonts/fonts-in-in-design.md", "summary": "Open when looking up Fonts in InDesign in InDesign.", "keywords": ["Fonts in InDesign"]},
+  {"topic": "Fonts in InDesign references", "file": "desktop/fonts/fonts-in-in-design/reference-index.md", "summary": "Open when looking up Fonts in InDesign in InDesign.", "keywords": ["Fonts in InDesign references"]},
+  {"topic": "OpenType font attributes", "file": "desktop/fonts/open-type-font-attributes.md", "summary": "Open when looking up OpenType font attributes in InDesign.", "keywords": ["OpenType font attributes"]},
+  {"topic": "Preview and explore fonts", "file": "desktop/fonts/preview-and-explore-fonts.md", "summary": "Open when looking up Preview and explore fonts in InDesign.", "keywords": ["Preview and explore fonts"]},
+  {"topic": "Preview and explore fonts references", "file": "desktop/fonts/preview-and-explore-fonts/reference-index.md", "summary": "Open when looking up Preview and explore fonts in InDesign.", "keywords": ["Preview and explore fonts references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

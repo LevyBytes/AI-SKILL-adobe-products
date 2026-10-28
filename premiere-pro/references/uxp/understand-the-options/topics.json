@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Spectrum UXP Widgets", "file": "references/uxp/understand-the-options/spectrum-uxp-widgets.md", "summary": "Open when looking up Spectrum UXP Widgets in Premiere Pro.", "keywords": ["Spectrum UXP Widgets"]},
-  {"topic": "Spectrum Web Components (SWC)", "file": "references/uxp/understand-the-options/spectrum-web-components-swc.md", "summary": "Open when looking up Spectrum Web Components (SWC) in Premiere Pro.", "keywords": ["Spectrum Web Components (SWC)"]},
-  {"topic": "Standard HTML Elements", "file": "references/uxp/understand-the-options/standard-html-elements.md", "summary": "Open when looking up Standard HTML Elements in Premiere Pro.", "keywords": ["Standard HTML Elements"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "What's new in Adobe Firefly", "file": "web/what-s-new/new-features/what-s-new-in-adobe-firefly.md", "summary": "Open when looking up What's new in Adobe Firefly in Firefly.", "keywords": ["What's new in Adobe Firefly"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

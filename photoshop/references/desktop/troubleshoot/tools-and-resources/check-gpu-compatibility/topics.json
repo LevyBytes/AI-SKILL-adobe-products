@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Check GPU compatibility manually", "file": "references/desktop/troubleshoot/tools-and-resources/check-gpu-compatibility/check-gpu-compatibility-manually.md", "summary": "Open when looking up Check GPU compatibility manually in Photoshop.", "keywords": ["Check GPU compatibility manually"]},
-  {"topic": "Run the built-in Photoshop GPU compatibility check", "file": "references/desktop/troubleshoot/tools-and-resources/check-gpu-compatibility/run-the-built-in-photoshop-gpu-compatibility-check.md", "summary": "Open when looking up Run the built-in Photoshop GPU compatibility check in Photoshop.", "keywords": ["Run the built-in Photoshop GPU compatibility check"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

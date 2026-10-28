@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Adobe Scripts folder", "file": "scripting/the-scripts-panel-and-favorite-script-locations/adobe-scripts-folder.md", "summary": "Open when looking up Adobe Scripts folder in Shared Adobe platform.", "keywords": ["Adobe Scripts folder"]},
+  {"topic": "Selecting Scripts - The Scripts panel and favorite script locations", "file": "scripting/the-scripts-panel-and-favorite-script-locations/the-scripts-panel-and-favorite-script-locations.md", "summary": "Open when looking up Selecting Scripts - The Scripts panel and favorite script locations in Shared Adobe platform.", "keywords": ["Selecting Scripts - The Scripts panel and favorite script locations"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

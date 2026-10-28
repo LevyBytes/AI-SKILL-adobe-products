@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Viewer object", "file": "scripting/viewer/viewer-object.md", "summary": "Open when looking up Viewer object in After Effects.", "keywords": ["Viewer object"]},
+  {"topic": "Viewer.active", "file": "scripting/viewer/active.md", "summary": "Open when looking up Viewer.active in After Effects.", "keywords": ["Viewer.active"]},
+  {"topic": "Viewer.activeViewIndex", "file": "scripting/viewer/active-view-index.md", "summary": "Open when looking up Viewer.activeViewIndex in After Effects.", "keywords": ["Viewer.activeViewIndex"]},
+  {"topic": "Viewer.maximized", "file": "scripting/viewer/maximized.md", "summary": "Open when looking up Viewer.maximized in After Effects.", "keywords": ["Viewer.maximized"]},
+  {"topic": "Viewer.setActive()", "file": "scripting/viewer/set-active.md", "summary": "Open when looking up Viewer.setActive() in After Effects.", "keywords": ["Viewer.setActive()"]},
+  {"topic": "Viewer.type", "file": "scripting/viewer/type.md", "summary": "Open when looking up Viewer.type in After Effects.", "keywords": ["Viewer.type"]},
+  {"topic": "Viewer.views", "file": "scripting/viewer/views.md", "summary": "Open when looking up Viewer.views in After Effects.", "keywords": ["Viewer.views"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

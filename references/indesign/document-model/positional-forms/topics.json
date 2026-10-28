@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "CALCULATE", "file": "document-model/positional-forms/calculate.md", "summary": "Open when looking up CALCULATE in InDesign.", "keywords": ["CALCULATE"]},
+  {"topic": "FINAL", "file": "document-model/positional-forms/final.md", "summary": "Open when looking up FINAL in InDesign.", "keywords": ["FINAL"]},
+  {"topic": "INITIAL", "file": "document-model/positional-forms/initial.md", "summary": "Open when looking up INITIAL in InDesign.", "keywords": ["INITIAL"]},
+  {"topic": "ISOLATED", "file": "document-model/positional-forms/isolated.md", "summary": "Open when looking up ISOLATED in InDesign.", "keywords": ["ISOLATED"]},
+  {"topic": "MEDIAL", "file": "document-model/positional-forms/medial.md", "summary": "Open when looking up MEDIAL in InDesign.", "keywords": ["MEDIAL"]},
+  {"topic": "NONE", "file": "document-model/positional-forms/none.md", "summary": "Open when looking up NONE in InDesign.", "keywords": ["NONE"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

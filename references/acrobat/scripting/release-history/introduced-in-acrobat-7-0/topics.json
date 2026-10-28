@@ -1,0 +1,20 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Alerter", "file": "scripting/release-history/introduced-in-acrobat-7-0/alerter.md", "summary": "Open when looking up Alerter in Acrobat.", "keywords": ["Alerter"]},
+  {"topic": "Annot3D", "file": "scripting/release-history/introduced-in-acrobat-7-0/annot3-d.md", "summary": "Open when looking up Annot3D in Acrobat.", "keywords": ["Annot3D"]},
+  {"topic": "Annotation", "file": "scripting/release-history/introduced-in-acrobat-7-0/annotation.md", "summary": "Open when looking up Annotation in Acrobat.", "keywords": ["Annotation"]},
+  {"topic": "app", "file": "scripting/release-history/introduced-in-acrobat-7-0/app.md", "summary": "Open when looking up app in Acrobat.", "keywords": ["app"]},
+  {"topic": "Dialog", "file": "scripting/release-history/introduced-in-acrobat-7-0/dialog.md", "summary": "Open when looking up Dialog in Acrobat.", "keywords": ["Dialog"]},
+  {"topic": "Doc", "file": "scripting/release-history/introduced-in-acrobat-7-0/doc.md", "summary": "Open when looking up Doc in Acrobat.", "keywords": ["Doc"]},
+  {"topic": "Doc.media", "file": "scripting/release-history/introduced-in-acrobat-7-0/doc-media.md", "summary": "Open when looking up Doc.media in Acrobat.", "keywords": ["Doc.media"]},
+  {"topic": "Field", "file": "scripting/release-history/introduced-in-acrobat-7-0/field.md", "summary": "Open when looking up Field in Acrobat.", "keywords": ["Field"]},
+  {"topic": "OCG", "file": "scripting/release-history/introduced-in-acrobat-7-0/ocg.md", "summary": "Open when looking up OCG in Acrobat.", "keywords": ["OCG"]},
+  {"topic": "PlayerInfo", "file": "scripting/release-history/introduced-in-acrobat-7-0/player-info.md", "summary": "Open when looking up PlayerInfo in Acrobat.", "keywords": ["PlayerInfo"]},
+  {"topic": "PrintParams", "file": "scripting/release-history/introduced-in-acrobat-7-0/print-params.md", "summary": "Open when looking up PrintParams in Acrobat.", "keywords": ["PrintParams"]},
+  {"topic": "search", "file": "scripting/release-history/introduced-in-acrobat-7-0/search.md", "summary": "Open when looking up search in Acrobat.", "keywords": ["search"]},
+  {"topic": "security", "file": "scripting/release-history/introduced-in-acrobat-7-0/security.md", "summary": "Open when looking up security in Acrobat.", "keywords": ["security"]},
+  {"topic": "SecurityPolicy", "file": "scripting/release-history/introduced-in-acrobat-7-0/security-policy.md", "summary": "Open when looking up SecurityPolicy in Acrobat.", "keywords": ["SecurityPolicy"]},
+  {"topic": "SOAP", "file": "scripting/release-history/introduced-in-acrobat-7-0/soap.md", "summary": "Open when looking up SOAP in Acrobat.", "keywords": ["SOAP"]},
+  {"topic": "util", "file": "scripting/release-history/introduced-in-acrobat-7-0/util.md", "summary": "Open when looking up util in Acrobat.", "keywords": ["util"]},
+  {"topic": "XMLData", "file": "scripting/release-history/introduced-in-acrobat-7-0/xml-data.md", "summary": "Open when looking up XMLData in Acrobat.", "keywords": ["XMLData"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

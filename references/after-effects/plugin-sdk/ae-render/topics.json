@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Other Integration Possibilities - AERender", "file": "plugin-sdk/ae-render/other-integration-possibilities-ae-render.md", "summary": "Open when looking up Other Integration Possibilities - AERender in After Effects.", "keywords": ["Other Integration Possibilities - AERender"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

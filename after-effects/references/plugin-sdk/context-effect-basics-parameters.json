@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "Floating point parameters references", "file": "references/plugin-sdk/floating-point-parameters/reference-index.md", "summary": "Open when looking up Floating point parameters in After Effects.", "keywords": ["Floating point parameters references"]},
-  {"topic": "Parameter types references", "file": "references/plugin-sdk/parameter-types/reference-index.md", "summary": "Open when looking up Parameter types in After Effects.", "keywords": ["Parameter types references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

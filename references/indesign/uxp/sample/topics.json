@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "sample.idjs", "file": "uxp/sample/idjs.md", "summary": "Open when looking up sample.idjs in InDesign.", "keywords": ["sample.idjs"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

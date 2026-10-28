@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Change measurement units for the current geospatial PDF", "file": "desktop/edit-documents/geospatial-pdfs/geospatial-measurement-settings/change-measurement-units-for-the-current-geospatial-pdf.md", "summary": "Open when looking up Change measurement units for the current geospatial PDF in Acrobat.", "keywords": ["Change measurement units for the current geospatial PDF"]},
+  {"topic": "Set default measurement preferences for all geospatial PDFs", "file": "desktop/edit-documents/geospatial-pdfs/geospatial-measurement-settings/set-default-measurement-preferences-for-all-geospatial-pdfs.md", "summary": "Open when looking up Set default measurement preferences for all geospatial PDFs in Acrobat.", "keywords": ["Set default measurement preferences for all geospatial PDFs"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

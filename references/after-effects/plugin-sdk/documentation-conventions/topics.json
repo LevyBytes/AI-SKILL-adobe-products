@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Introduction - Documentation Conventions", "file": "plugin-sdk/documentation-conventions/introduction-documentation-conventions.md", "summary": "Open when looking up Introduction - Documentation Conventions in After Effects.", "keywords": ["Introduction - Documentation Conventions"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

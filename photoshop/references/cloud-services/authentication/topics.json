@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Execute an API call", "file": "references/cloud-services/authentication/execute-an-api-call.md", "summary": "Open when looking up Execute an API call in Photoshop.", "keywords": ["Execute an API call"]},
-  {"topic": "Prerequisites", "file": "references/cloud-services/authentication/prerequisites.md", "summary": "Open when looking up Prerequisites in Photoshop.", "keywords": ["Prerequisites"]},
-  {"topic": "Retrieve an access token", "file": "references/cloud-services/authentication/retrieve-an-access-token.md", "summary": "Open when looking up Retrieve an access token in Photoshop.", "keywords": ["Retrieve an access token"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

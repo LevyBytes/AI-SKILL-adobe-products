@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Adjustment layers", "file": "references/desktop/layers/adjustment-and-fill/adjustment-and-fill-layers-overview/adjustment-layers.md", "summary": "Open when looking up Adjustment layers in Photoshop.", "keywords": ["Adjustment layers"]},
-  {"topic": "Fill layers", "file": "references/desktop/layers/adjustment-and-fill/adjustment-and-fill-layers-overview/fill-layers.md", "summary": "Open when looking up Fill layers in Photoshop.", "keywords": ["Fill layers"]},
-  {"topic": "Types of adjustment layers", "file": "references/desktop/layers/adjustment-and-fill/adjustment-and-fill-layers-overview/types-of-adjustment-layers.md", "summary": "Open when looking up Types of adjustment layers in Photoshop.", "keywords": ["Types of adjustment layers"]},
-  {"topic": "Types of fill layers", "file": "references/desktop/layers/adjustment-and-fill/adjustment-and-fill-layers-overview/types-of-fill-layers.md", "summary": "Open when looking up Types of fill layers in Photoshop.", "keywords": ["Types of fill layers"]},
-  {"topic": "What are adjustment and fill layers?", "file": "references/desktop/layers/adjustment-and-fill/adjustment-and-fill-layers-overview/what-are-adjustment-and-fill-layers.md", "summary": "Open when looking up What are adjustment and fill layers? in Photoshop.", "keywords": ["What are adjustment and fill layers?"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

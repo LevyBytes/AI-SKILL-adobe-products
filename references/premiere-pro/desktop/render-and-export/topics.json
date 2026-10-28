@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Cloud rendering references", "file": "desktop/render-and-export/cloud-rendering/reference-index.md", "summary": "Open when looking up Cloud rendering in Premiere Pro.", "keywords": ["Cloud rendering references"]},
+  {"topic": "Content credentials references", "file": "desktop/render-and-export/content-credentials/reference-index.md", "summary": "Open when looking up Content credentials in Premiere Pro.", "keywords": ["Content credentials references"]},
+  {"topic": "Export files references", "file": "desktop/render-and-export/export-files/reference-index.md", "summary": "Open when looking up Export files in Premiere Pro.", "keywords": ["Export files references"]},
+  {"topic": "Render sequences for playback references", "file": "desktop/render-and-export/render-sequences-for-playback/reference-index.md", "summary": "Open when looking up Render sequences for playback in Premiere Pro.", "keywords": ["Render sequences for playback references"]},
+  {"topic": "Stream video references", "file": "desktop/render-and-export/stream-video/reference-index.md", "summary": "Open when looking up Stream video in Premiere Pro.", "keywords": ["Stream video references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "AssignedStory declaration", "file": "community-types/indesign/assigned-story/declaration.md", "summary": "Open when looking up AssignedStory declaration in Shared Adobe platform.", "keywords": ["AssignedStory declaration"]},
+  {"topic": "AssignedStory event listeners", "file": "community-types/indesign/assigned-story/event-listeners.md", "summary": "Open when looking up AssignedStory event listeners in Shared Adobe platform.", "keywords": ["AssignedStory event listeners"]},
+  {"topic": "AssignedStory identity and parent", "file": "community-types/indesign/assigned-story/identity-and-parent.md", "summary": "Open when looking up AssignedStory identity and parent in Shared Adobe platform.", "keywords": ["AssignedStory identity and parent"]},
+  {"topic": "AssignedStory labels and metadata", "file": "community-types/indesign/assigned-story/labels-and-metadata.md", "summary": "Open when looking up AssignedStory labels and metadata in Shared Adobe platform.", "keywords": ["AssignedStory labels and metadata"]},
+  {"topic": "AssignedStory object resolution", "file": "community-types/indesign/assigned-story/object-resolution.md", "summary": "Open when looking up AssignedStory object resolution in Shared Adobe platform.", "keywords": ["AssignedStory object resolution"]},
+  {"topic": "AssignedStory.filePath", "file": "community-types/indesign/assigned-story/file-path.md", "summary": "Open when looking up AssignedStory.filePath in Shared Adobe platform.", "keywords": ["AssignedStory.filePath"]},
+  {"topic": "AssignedStory.move", "file": "community-types/indesign/assigned-story/move.md", "summary": "Open when looking up AssignedStory.move in Shared Adobe platform.", "keywords": ["AssignedStory.move"]},
+  {"topic": "AssignedStory.properties", "file": "community-types/indesign/assigned-story/properties.md", "summary": "Open when looking up AssignedStory.properties in Shared Adobe platform.", "keywords": ["AssignedStory.properties"]},
+  {"topic": "AssignedStory.storyReference", "file": "community-types/indesign/assigned-story/story-reference.md", "summary": "Open when looking up AssignedStory.storyReference in Shared Adobe platform.", "keywords": ["AssignedStory.storyReference"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

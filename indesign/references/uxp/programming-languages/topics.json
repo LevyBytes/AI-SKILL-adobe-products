@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Chrome debug tool (CDT)", "file": "references/uxp/programming-languages/chrome-debug-tool-cdt.md", "summary": "Open when looking up Chrome debug tool (CDT) in InDesign.", "keywords": ["Chrome debug tool (CDT)"]},
-  {"topic": "Frameworks", "file": "references/uxp/programming-languages/frameworks.md", "summary": "Open when looking up Frameworks in InDesign.", "keywords": ["Frameworks"]},
-  {"topic": "Reading material", "file": "references/uxp/programming-languages/reading-material.md", "summary": "Open when looking up Reading material in InDesign.", "keywords": ["Reading material"]},
-  {"topic": "System requirements", "file": "references/uxp/programming-languages/system-requirements.md", "summary": "Open when looking up System requirements in InDesign.", "keywords": ["System requirements"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

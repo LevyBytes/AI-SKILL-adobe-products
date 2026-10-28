@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Changelog", "file": "scripting/changelog.md", "summary": "Open when looking up Changelog in Illustrator.", "keywords": ["Changelog"]},
+  {"topic": "Illustrator 24 0 cc 2020 references", "file": "scripting/illustrator-24-0-cc-2020/reference-index.md", "summary": "Open when looking up Illustrator 24 0 cc 2020 in Illustrator.", "keywords": ["Illustrator 24 0 cc 2020 references"]},
+  {"topic": "Illustrator xx x cc 2017 references", "file": "scripting/illustrator-xx-x-cc-2017/reference-index.md", "summary": "Open when looking up Illustrator xx x cc 2017 in Illustrator.", "keywords": ["Illustrator xx x cc 2017 references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

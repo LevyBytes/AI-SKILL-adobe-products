@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "EXTERNAL_IMAGE", "file": "document-model/epub-cover/externalimage.md", "summary": "Open when looking up EXTERNAL_IMAGE in InDesign.", "keywords": ["EXTERNAL_IMAGE"]},
+  {"topic": "FIRST_PAGE", "file": "document-model/epub-cover/firstpage.md", "summary": "Open when looking up FIRST_PAGE in InDesign.", "keywords": ["FIRST_PAGE"]},
+  {"topic": "NONE", "file": "document-model/epub-cover/none.md", "summary": "Open when looking up NONE in InDesign.", "keywords": ["NONE"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

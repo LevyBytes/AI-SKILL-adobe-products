@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Graphic customization objects - ScriptUIImage Object", "file": "scripting/script-ui-image/graphic-customization-objects-script-ui-image-object.md", "summary": "Open when looking up Graphic customization objects - ScriptUIImage Object in Shared Adobe platform.", "keywords": ["Graphic customization objects - ScriptUIImage Object"]},
+  {"topic": "ScriptUIImage Object Attributes", "file": "scripting/script-ui-image/script-ui-image-object-attributes.md", "summary": "Open when looking up ScriptUIImage Object Attributes in Shared Adobe platform.", "keywords": ["ScriptUIImage Object Attributes"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

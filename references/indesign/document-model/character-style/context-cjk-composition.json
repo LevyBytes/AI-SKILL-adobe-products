@@ -1,0 +1,16 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "characterAlignment", "file": "document-model/character-style/character-alignment.md", "summary": "Open when looking up characterAlignment in InDesign.", "keywords": ["characterAlignment"]},
+  {"topic": "cjkGridTracking", "file": "document-model/character-style/cjk-grid-tracking.md", "summary": "Open when looking up cjkGridTracking in InDesign.", "keywords": ["cjkGridTracking"]},
+  {"topic": "jidori", "file": "document-model/character-style/jidori.md", "summary": "Open when looking up jidori in InDesign.", "keywords": ["jidori"]},
+  {"topic": "leadingAki", "file": "document-model/character-style/leading-aki.md", "summary": "Open when looking up leadingAki in InDesign.", "keywords": ["leadingAki"]},
+  {"topic": "shataiAdjustRotation", "file": "document-model/character-style/shatai-adjust-rotation.md", "summary": "Open when looking up shataiAdjustRotation in InDesign.", "keywords": ["shataiAdjustRotation"]},
+  {"topic": "shataiAdjustTsume", "file": "document-model/character-style/shatai-adjust-tsume.md", "summary": "Open when looking up shataiAdjustTsume in InDesign.", "keywords": ["shataiAdjustTsume"]},
+  {"topic": "shataiDegreeAngle", "file": "document-model/character-style/shatai-degree-angle.md", "summary": "Open when looking up shataiDegreeAngle in InDesign.", "keywords": ["shataiDegreeAngle"]},
+  {"topic": "shataiMagnification", "file": "document-model/character-style/shatai-magnification.md", "summary": "Open when looking up shataiMagnification in InDesign.", "keywords": ["shataiMagnification"]},
+  {"topic": "tatechuyoko", "file": "document-model/character-style/tatechuyoko.md", "summary": "Open when looking up tatechuyoko in InDesign.", "keywords": ["tatechuyoko"]},
+  {"topic": "tatechuyokoXOffset", "file": "document-model/character-style/tatechuyoko-x-offset.md", "summary": "Open when looking up tatechuyokoXOffset in InDesign.", "keywords": ["tatechuyokoXOffset"]},
+  {"topic": "tatechuyokoYOffset", "file": "document-model/character-style/tatechuyoko-y-offset.md", "summary": "Open when looking up tatechuyokoYOffset in InDesign.", "keywords": ["tatechuyokoYOffset"]},
+  {"topic": "trailingAki", "file": "document-model/character-style/trailing-aki.md", "summary": "Open when looking up trailingAki in InDesign.", "keywords": ["trailingAki"]},
+  {"topic": "tsume", "file": "document-model/character-style/tsume.md", "summary": "Open when looking up tsume in InDesign.", "keywords": ["tsume"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

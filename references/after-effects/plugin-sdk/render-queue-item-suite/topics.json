@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "AEGP Suites - Render Queue Item Suite", "file": "plugin-sdk/render-queue-item-suite/aegp-suites-render-queue-item-suite.md", "summary": "Open when looking up AEGP Suites - Render Queue Item Suite in After Effects.", "keywords": ["AEGP Suites - Render Queue Item Suite"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

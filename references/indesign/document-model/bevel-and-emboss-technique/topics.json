@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "CHISEL_HARD", "file": "document-model/bevel-and-emboss-technique/chiselhard.md", "summary": "Open when looking up CHISEL_HARD in InDesign.", "keywords": ["CHISEL_HARD"]},
+  {"topic": "CHISEL_SOFT", "file": "document-model/bevel-and-emboss-technique/chiselsoft.md", "summary": "Open when looking up CHISEL_SOFT in InDesign.", "keywords": ["CHISEL_SOFT"]},
+  {"topic": "SMOOTH_CONTOUR", "file": "document-model/bevel-and-emboss-technique/smoothcontour.md", "summary": "Open when looking up SMOOTH_CONTOUR in InDesign.", "keywords": ["SMOOTH_CONTOUR"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Change the shape mode of objects within a compound shape", "file": "desktop/manage-objects/object-transforms/pathfinder-compound-shapes/change-the-shape-mode-of-objects-within-a-compound-shape.md", "summary": "Open when looking up Change the shape mode of objects within a compound shape in Illustrator.", "keywords": ["Change the shape mode of objects within a compound shape"]},
+  {"topic": "Create a compound shape", "file": "desktop/manage-objects/object-transforms/pathfinder-compound-shapes/create-a-compound-shape.md", "summary": "Open when looking up Create a compound shape in Illustrator.", "keywords": ["Create a compound shape"]},
+  {"topic": "Expand the compound shape", "file": "desktop/manage-objects/object-transforms/pathfinder-compound-shapes/expand-the-compound-shape.md", "summary": "Open when looking up Expand the compound shape in Illustrator.", "keywords": ["Expand the compound shape"]},
+  {"topic": "Release the compound shape", "file": "desktop/manage-objects/object-transforms/pathfinder-compound-shapes/release-the-compound-shape.md", "summary": "Open when looking up Release the compound shape in Illustrator.", "keywords": ["Release the compound shape"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

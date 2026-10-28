@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Accessing and referencing objects - Working with selections", "file": "references/scripting/working-with-selections/accessing-and-referencing-objects-working-with-selections.md", "summary": "Open when looking up Accessing and referencing objects - Working with selections in Illustrator.", "keywords": ["Accessing and referencing objects - Working with selections"]},
-  {"topic": "Object references - Working with selections", "file": "references/scripting/working-with-selections/object-references-working-with-selections.md", "summary": "Open when looking up Object references - Working with selections in Illustrator.", "keywords": ["Object references - Working with selections"]},
-  {"topic": "Selecting artwork objects", "file": "references/scripting/working-with-selections/selecting-artwork-objects.md", "summary": "Open when looking up Selecting artwork objects in Illustrator.", "keywords": ["Selecting artwork objects"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

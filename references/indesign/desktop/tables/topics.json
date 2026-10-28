@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Add text, graphics, and headers to tables", "file": "desktop/tables/add-text-graphics-and-headers-to-tables.md", "summary": "Open when looking up Add text, graphics, and headers to tables in InDesign.", "keywords": ["Add text, graphics, and headers to tables"]},
+  {"topic": "Add text, graphics, and headers to tables references", "file": "desktop/tables/add-text-graphics-and-headers-to-tables/reference-index.md", "summary": "Open when looking up Add text, graphics, and headers to tables in InDesign.", "keywords": ["Add text, graphics, and headers to tables references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

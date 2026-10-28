@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/audition", "topics": [
+  {"topic": "Analog Delay effect", "file": "desktop/effects/delay-and-echo-effects/analog-delay-effect.md", "summary": "Open when looking up Analog Delay effect in Audition.", "keywords": ["Analog Delay effect"]},
+  {"topic": "Delay effect", "file": "desktop/effects/delay-and-echo-effects/delay-effect.md", "summary": "Open when looking up Delay effect in Audition.", "keywords": ["Delay effect"]},
+  {"topic": "Echo effect", "file": "desktop/effects/delay-and-echo-effects/echo-effect.md", "summary": "Open when looking up Echo effect in Audition.", "keywords": ["Echo effect"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

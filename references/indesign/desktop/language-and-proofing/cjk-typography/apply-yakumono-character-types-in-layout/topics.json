@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Adjust spacing for specific punctuation", "file": "desktop/language-and-proofing/cjk-typography/apply-yakumono-character-types-in-layout/adjust-spacing-for-specific-punctuation.md", "summary": "Open when looking up Adjust spacing for specific punctuation in InDesign.", "keywords": ["Adjust spacing for specific punctuation"]},
+  {"topic": "Configure Yakumono spacing in Mojikumi sets", "file": "desktop/language-and-proofing/cjk-typography/apply-yakumono-character-types-in-layout/configure-yakumono-spacing-in-mojikumi-sets.md", "summary": "Open when looking up Configure Yakumono spacing in Mojikumi sets in InDesign.", "keywords": ["Configure Yakumono spacing in Mojikumi sets"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

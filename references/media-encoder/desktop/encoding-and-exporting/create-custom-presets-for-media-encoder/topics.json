@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/media-encoder", "topics": [
+  {"topic": "Create and save a custom preset", "file": "desktop/encoding-and-exporting/create-custom-presets-for-media-encoder/create-and-save-a-custom-preset.md", "summary": "Open when looking up Create and save a custom preset in Media Encoder.", "keywords": ["Create and save a custom preset"]},
+  {"topic": "Delete custom presets", "file": "desktop/encoding-and-exporting/create-custom-presets-for-media-encoder/delete-custom-presets.md", "summary": "Open when looking up Delete custom presets in Media Encoder.", "keywords": ["Delete custom presets"]},
+  {"topic": "Export a preset", "file": "desktop/encoding-and-exporting/create-custom-presets-for-media-encoder/export-a-preset.md", "summary": "Open when looking up Export a preset in Media Encoder.", "keywords": ["Export a preset"]},
+  {"topic": "Import a preset", "file": "desktop/encoding-and-exporting/create-custom-presets-for-media-encoder/import-a-preset.md", "summary": "Open when looking up Import a preset in Media Encoder.", "keywords": ["Import a preset"]},
+  {"topic": "Manage presets using the Preset Browser", "file": "desktop/encoding-and-exporting/create-custom-presets-for-media-encoder/manage-presets-using-the-preset-browser.md", "summary": "Open when looking up Manage presets using the Preset Browser in Media Encoder.", "keywords": ["Manage presets using the Preset Browser"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

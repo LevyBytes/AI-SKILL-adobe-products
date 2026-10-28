@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "GotoURLBehaviors collection iteration", "file": "community-types/indesign/goto-url-behaviors/collection-iteration.md", "summary": "Open when looking up GotoURLBehaviors collection iteration in Shared Adobe platform.", "keywords": ["GotoURLBehaviors collection iteration"]},
+  {"topic": "GotoURLBehaviors declaration", "file": "community-types/indesign/goto-url-behaviors/declaration.md", "summary": "Open when looking up GotoURLBehaviors declaration in Shared Adobe platform.", "keywords": ["GotoURLBehaviors declaration"]},
+  {"topic": "GotoURLBehaviors named and indexed items", "file": "community-types/indesign/goto-url-behaviors/named-and-indexed-items.md", "summary": "Open when looking up GotoURLBehaviors named and indexed items in Shared Adobe platform.", "keywords": ["GotoURLBehaviors named and indexed items"]},
+  {"topic": "GotoURLBehaviors.add", "file": "community-types/indesign/goto-url-behaviors/add.md", "summary": "Open when looking up GotoURLBehaviors.add in Shared Adobe platform.", "keywords": ["GotoURLBehaviors.add"]},
+  {"topic": "GotoURLBehaviors.count", "file": "community-types/indesign/goto-url-behaviors/count.md", "summary": "Open when looking up GotoURLBehaviors.count in Shared Adobe platform.", "keywords": ["GotoURLBehaviors.count"]},
+  {"topic": "GotoURLBehaviors.IndexSignature", "file": "community-types/indesign/goto-url-behaviors/index-signature.md", "summary": "Open when looking up GotoURLBehaviors.IndexSignature in Shared Adobe platform.", "keywords": ["GotoURLBehaviors.IndexSignature"]},
+  {"topic": "GotoURLBehaviors.itemByRange", "file": "community-types/indesign/goto-url-behaviors/item-by-range.md", "summary": "Open when looking up GotoURLBehaviors.itemByRange in Shared Adobe platform.", "keywords": ["GotoURLBehaviors.itemByRange"]},
+  {"topic": "GotoURLBehaviors.length", "file": "community-types/indesign/goto-url-behaviors/length.md", "summary": "Open when looking up GotoURLBehaviors.length in Shared Adobe platform.", "keywords": ["GotoURLBehaviors.length"]},
+  {"topic": "GotoURLBehaviors.toSource", "file": "community-types/indesign/goto-url-behaviors/to-source.md", "summary": "Open when looking up GotoURLBehaviors.toSource in Shared Adobe platform.", "keywords": ["GotoURLBehaviors.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

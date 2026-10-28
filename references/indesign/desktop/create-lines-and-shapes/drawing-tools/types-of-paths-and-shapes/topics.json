@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Compound paths", "file": "desktop/create-lines-and-shapes/drawing-tools/types-of-paths-and-shapes/compound-paths.md", "summary": "Open when looking up Compound paths in InDesign.", "keywords": ["Compound paths"]},
+  {"topic": "Compound shapes", "file": "desktop/create-lines-and-shapes/drawing-tools/types-of-paths-and-shapes/compound-shapes.md", "summary": "Open when looking up Compound shapes in InDesign.", "keywords": ["Compound shapes"]},
+  {"topic": "Simple paths", "file": "desktop/create-lines-and-shapes/drawing-tools/types-of-paths-and-shapes/simple-paths.md", "summary": "Open when looking up Simple paths in InDesign.", "keywords": ["Simple paths"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

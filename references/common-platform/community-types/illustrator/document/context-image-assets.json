@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Document.embeddedItems", "file": "community-types/illustrator/document/embedded-items.md", "summary": "Open when looking up Document.embeddedItems in Shared Adobe platform.", "keywords": ["Document.embeddedItems"]},
+  {"topic": "Document.importFile", "file": "community-types/illustrator/document/import-file.md", "summary": "Open when looking up Document.importFile in Shared Adobe platform.", "keywords": ["Document.importFile"]},
+  {"topic": "Document.imageCapture", "file": "community-types/illustrator/document/image-capture.md", "summary": "Open when looking up Document.imageCapture in Shared Adobe platform.", "keywords": ["Document.imageCapture"]},
+  {"topic": "Document.placedItems", "file": "community-types/illustrator/document/placed-items.md", "summary": "Open when looking up Document.placedItems in Shared Adobe platform.", "keywords": ["Document.placedItems"]},
+  {"topic": "Document.rasterItems", "file": "community-types/illustrator/document/raster-items.md", "summary": "Open when looking up Document.rasterItems in Shared Adobe platform.", "keywords": ["Document.rasterItems"]},
+  {"topic": "Document.rasterize", "file": "community-types/illustrator/document/rasterize.md", "summary": "Open when looking up Document.rasterize in Shared Adobe platform.", "keywords": ["Document.rasterize"]},
+  {"topic": "Document.rasterEffectSettings", "file": "community-types/illustrator/document/raster-effect-settings.md", "summary": "Open when looking up Document.rasterEffectSettings in Shared Adobe platform.", "keywords": ["Document.rasterEffectSettings"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "NOTHING", "file": "document-model/page-color-options/nothing.md", "summary": "Open when looking up NOTHING in InDesign.", "keywords": ["NOTHING"]},
+  {"topic": "USE_MASTER_COLOR", "file": "document-model/page-color-options/usemastercolor.md", "summary": "Open when looking up USE_MASTER_COLOR in InDesign.", "keywords": ["USE_MASTER_COLOR"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

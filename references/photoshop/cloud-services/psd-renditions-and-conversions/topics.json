@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Creating a document rendition", "file": "cloud-services/psd-renditions-and-conversions/creating-a-document-rendition.md", "summary": "Open when looking up Creating a document rendition in Photoshop.", "keywords": ["Creating a document rendition"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

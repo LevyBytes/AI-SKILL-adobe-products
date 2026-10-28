@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Scan quality is low", "file": "references/web/troubleshoot/feature-issues/text-is-garbled-in-a-converted-file/scan-quality-is-low.md", "summary": "Open when looking up Scan quality is low in Acrobat.", "keywords": ["Scan quality is low"]},
-  {"topic": "Source PDF quality is low", "file": "references/web/troubleshoot/feature-issues/text-is-garbled-in-a-converted-file/source-pdf-quality-is-low.md", "summary": "Open when looking up Source PDF quality is low in Acrobat.", "keywords": ["Source PDF quality is low"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

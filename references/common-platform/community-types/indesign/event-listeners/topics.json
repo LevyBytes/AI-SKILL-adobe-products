@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "EventListeners collection iteration", "file": "community-types/indesign/event-listeners/collection-iteration.md", "summary": "Open when looking up EventListeners collection iteration in Shared Adobe platform.", "keywords": ["EventListeners collection iteration"]},
+  {"topic": "EventListeners declaration", "file": "community-types/indesign/event-listeners/declaration.md", "summary": "Open when looking up EventListeners declaration in Shared Adobe platform.", "keywords": ["EventListeners declaration"]},
+  {"topic": "EventListeners named and indexed items", "file": "community-types/indesign/event-listeners/named-and-indexed-items.md", "summary": "Open when looking up EventListeners named and indexed items in Shared Adobe platform.", "keywords": ["EventListeners named and indexed items"]},
+  {"topic": "EventListeners.add", "file": "community-types/indesign/event-listeners/add.md", "summary": "Open when looking up EventListeners.add in Shared Adobe platform.", "keywords": ["EventListeners.add"]},
+  {"topic": "EventListeners.count", "file": "community-types/indesign/event-listeners/count.md", "summary": "Open when looking up EventListeners.count in Shared Adobe platform.", "keywords": ["EventListeners.count"]},
+  {"topic": "EventListeners.IndexSignature", "file": "community-types/indesign/event-listeners/index-signature.md", "summary": "Open when looking up EventListeners.IndexSignature in Shared Adobe platform.", "keywords": ["EventListeners.IndexSignature"]},
+  {"topic": "EventListeners.itemByRange", "file": "community-types/indesign/event-listeners/item-by-range.md", "summary": "Open when looking up EventListeners.itemByRange in Shared Adobe platform.", "keywords": ["EventListeners.itemByRange"]},
+  {"topic": "EventListeners.length", "file": "community-types/indesign/event-listeners/length.md", "summary": "Open when looking up EventListeners.length in Shared Adobe platform.", "keywords": ["EventListeners.length"]},
+  {"topic": "EventListeners.toSource", "file": "community-types/indesign/event-listeners/to-source.md", "summary": "Open when looking up EventListeners.toSource in Shared Adobe platform.", "keywords": ["EventListeners.toSource"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

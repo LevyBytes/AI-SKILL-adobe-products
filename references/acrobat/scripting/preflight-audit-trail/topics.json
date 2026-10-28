@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Preflight APIs - PreflightAuditTrail", "file": "scripting/preflight-audit-trail/preflight-apis-preflight-audit-trail.md", "summary": "Open when looking up Preflight APIs - PreflightAuditTrail in Acrobat.", "keywords": ["Preflight APIs - PreflightAuditTrail"]},
+  {"topic": "preflight_executed_date", "file": "scripting/preflight-audit-trail/preflightexecuteddate.md", "summary": "Open when looking up preflight_executed_date in Acrobat.", "keywords": ["preflight_executed_date"]},
+  {"topic": "preflight_results", "file": "scripting/preflight-audit-trail/preflightresults.md", "summary": "Open when looking up preflight_results in Acrobat.", "keywords": ["preflight_results"]},
+  {"topic": "preflight_results_description", "file": "scripting/preflight-audit-trail/preflightresultsdescription.md", "summary": "Open when looking up preflight_results_description in Acrobat.", "keywords": ["preflight_results_description"]},
+  {"topic": "profile_creator", "file": "scripting/preflight-audit-trail/profilecreator.md", "summary": "Open when looking up profile_creator in Acrobat.", "keywords": ["profile_creator"]},
+  {"topic": "profile_creator_version", "file": "scripting/preflight-audit-trail/profilecreatorversion.md", "summary": "Open when looking up profile_creator_version in Acrobat.", "keywords": ["profile_creator_version"]},
+  {"topic": "profile_fingerprint", "file": "scripting/preflight-audit-trail/profilefingerprint.md", "summary": "Open when looking up profile_fingerprint in Acrobat.", "keywords": ["profile_fingerprint"]},
+  {"topic": "profile_format_version", "file": "scripting/preflight-audit-trail/profileformatversion.md", "summary": "Open when looking up profile_format_version in Acrobat.", "keywords": ["profile_format_version"]},
+  {"topic": "profile_name", "file": "scripting/preflight-audit-trail/profilename.md", "summary": "Open when looking up profile_name in Acrobat.", "keywords": ["profile_name"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

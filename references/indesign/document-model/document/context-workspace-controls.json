@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "layoutWindows", "file": "document-model/document/layout-windows.md", "summary": "Open when looking up layoutWindows in InDesign.", "keywords": ["layoutWindows"]},
+  {"topic": "storyWindows", "file": "document-model/document/story-windows.md", "summary": "Open when looking up storyWindows in InDesign.", "keywords": ["storyWindows"]},
+  {"topic": "viewPreferences", "file": "document-model/document/view-preferences.md", "summary": "Open when looking up viewPreferences in InDesign.", "keywords": ["viewPreferences"]},
+  {"topic": "windows", "file": "document-model/document/windows.md", "summary": "Open when looking up windows in InDesign.", "keywords": ["windows"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Stopping the same transaction from being paid twice.", "file": "web/prevent-duplicate-payments/stopping-the-same-transaction-from-being-paid-twice.md", "summary": "Open when looking up Stopping the same transaction from being paid twice. in Acrobat.", "keywords": ["Stopping the same transaction from being paid twice."]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

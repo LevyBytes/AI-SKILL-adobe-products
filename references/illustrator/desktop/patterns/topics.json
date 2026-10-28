@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Create patterns", "file": "desktop/patterns/create-patterns.md", "summary": "Open when looking up Create patterns in Illustrator.", "keywords": ["Create patterns"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

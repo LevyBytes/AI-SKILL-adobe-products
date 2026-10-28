@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "firefly", "topics": [
-  {"topic": "Get started references", "file": "references/web/get-started/reference-index.md", "summary": "Open when looking up Get started in Firefly.", "keywords": ["Get started references"]},
-  {"topic": "Generative credits overview references", "file": "references/web/generative-credits-overview/reference-index.md", "summary": "Open when looking up Generative credits overview in Firefly.", "keywords": ["Generative credits overview references"]},
-  {"topic": "What s new references", "file": "references/web/what-s-new/reference-index.md", "summary": "Open when looking up What s new in Firefly.", "keywords": ["What s new references"]},
-  {"topic": "Known limitations in firefly references", "file": "references/web/known-limitations-in-firefly/reference-index.md", "summary": "Open when looking up Known limitations in firefly in Firefly.", "keywords": ["Known limitations in firefly references"]},
-  {"topic": "Troubleshoot references", "file": "references/web/troubleshoot/reference-index.md", "summary": "Open when looking up Troubleshoot in Firefly.", "keywords": ["Troubleshoot references"]},
-  {"topic": "Firefly ai assistant references", "file": "references/web/firefly-ai-assistant/reference-index.md", "summary": "Open when looking up Firefly ai assistant in Firefly.", "keywords": ["Firefly ai assistant references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

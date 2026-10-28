@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "incopy", "topics": [
-  {"topic": "Setting Printer", "file": "references/desktop/print-documents/setting-printer.md", "summary": "Open when looking up Setting Printer in InCopy.", "keywords": ["Setting Printer"]},
-  {"topic": "Setting Printer references", "file": "references/desktop/print-documents/setting-printer/reference-index.md", "summary": "Open when looking up Setting Printer in InCopy.", "keywords": ["Setting Printer references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

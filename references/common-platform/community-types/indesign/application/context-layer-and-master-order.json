@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Application.select", "file": "community-types/indesign/application/select.md", "summary": "Open when looking up Application.select in Shared Adobe platform.", "keywords": ["Application.select"]},
+  {"topic": "Application.selection", "file": "community-types/indesign/application/selection.md", "summary": "Open when looking up Application.selection in Shared Adobe platform.", "keywords": ["Application.selection"]},
+  {"topic": "Application.selectionKeyObject", "file": "community-types/indesign/application/selection-key-object.md", "summary": "Open when looking up Application.selectionKeyObject in Shared Adobe platform.", "keywords": ["Application.selectionKeyObject"]},
+  {"topic": "Application.visible", "file": "community-types/indesign/application/visible.md", "summary": "Open when looking up Application.visible in Shared Adobe platform.", "keywords": ["Application.visible"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

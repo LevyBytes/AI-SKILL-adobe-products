@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Apply saved settings", "file": "desktop/adjust-color/selective-color-adjustments/save-and-apply-settings-in-match-color/apply-saved-settings.md", "summary": "Open when looking up Apply saved settings in Photoshop.", "keywords": ["Apply saved settings"]},
+  {"topic": "Save settings", "file": "desktop/adjust-color/selective-color-adjustments/save-and-apply-settings-in-match-color/save-settings.md", "summary": "Open when looking up Save settings in Photoshop.", "keywords": ["Save settings"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

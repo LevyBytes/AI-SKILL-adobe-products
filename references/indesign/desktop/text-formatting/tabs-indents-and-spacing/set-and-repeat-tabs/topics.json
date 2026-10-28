@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Create repeated tabs at equal intervals", "file": "desktop/text-formatting/tabs-indents-and-spacing/set-and-repeat-tabs/create-repeated-tabs-at-equal-intervals.md", "summary": "Open when looking up Create repeated tabs at equal intervals in InDesign.", "keywords": ["Create repeated tabs at equal intervals"]},
+  {"topic": "Set tabs for text alignment", "file": "desktop/text-formatting/tabs-indents-and-spacing/set-and-repeat-tabs/set-tabs-for-text-alignment.md", "summary": "Open when looking up Set tabs for text alignment in InDesign.", "keywords": ["Set tabs for text alignment"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

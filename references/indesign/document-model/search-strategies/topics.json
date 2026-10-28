@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "FIRST_ON_PAGE", "file": "document-model/search-strategies/firstonpage.md", "summary": "Open when looking up FIRST_ON_PAGE in InDesign.", "keywords": ["FIRST_ON_PAGE"]},
+  {"topic": "LAST_ON_PAGE", "file": "document-model/search-strategies/lastonpage.md", "summary": "Open when looking up LAST_ON_PAGE in InDesign.", "keywords": ["LAST_ON_PAGE"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

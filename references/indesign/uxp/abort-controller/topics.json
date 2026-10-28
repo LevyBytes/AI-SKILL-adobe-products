@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "abort(reason)", "file": "uxp/abort-controller/abort.md", "summary": "Open when looking up abort(reason) in InDesign.", "keywords": ["abort(reason)"]},
+  {"topic": "signal : AbortSignal", "file": "uxp/abort-controller/signal-abort-signal.md", "summary": "Open when looking up signal : AbortSignal in InDesign.", "keywords": ["signal : AbortSignal"]},
+  {"topic": "window.AbortController", "file": "uxp/abort-controller/overview.md", "summary": "Open when looking up window.AbortController in InDesign.", "keywords": ["window.AbortController"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

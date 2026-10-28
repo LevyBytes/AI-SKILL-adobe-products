@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Example request body", "file": "cloud-services/image-trace-guide/example-request-body.md", "summary": "Open when looking up Example request body in Illustrator.", "keywords": ["Example request body"]},
+  {"topic": "Request parameters", "file": "cloud-services/image-trace-guide/request-parameters.md", "summary": "Open when looking up Request parameters in Illustrator.", "keywords": ["Request parameters"]},
+  {"topic": "Required input for Image Trace", "file": "cloud-services/image-trace-guide/required-input-for-image-trace.md", "summary": "Open when looking up Required input for Image Trace in Illustrator.", "keywords": ["Required input for Image Trace"]},
+  {"topic": "Status and outputs", "file": "cloud-services/image-trace-guide/status-and-outputs.md", "summary": "Open when looking up Status and outputs in Illustrator.", "keywords": ["Status and outputs"]},
+  {"topic": "Status response (failed)", "file": "cloud-services/image-trace-guide/status-response-failed.md", "summary": "Open when looking up Status response (failed) in Illustrator.", "keywords": ["Status response (failed)"]},
+  {"topic": "Status response (succeeded)", "file": "cloud-services/image-trace-guide/status-response-succeeded.md", "summary": "Open when looking up Status response (succeeded) in Illustrator.", "keywords": ["Status response (succeeded)"]},
+  {"topic": "Submit response (202 Accepted)", "file": "cloud-services/image-trace-guide/submit-response-202-accepted.md", "summary": "Open when looking up Submit response (202 Accepted) in Illustrator.", "keywords": ["Submit response (202 Accepted)"]},
+  {"topic": "Workflow", "file": "cloud-services/image-trace-guide/workflow.md", "summary": "Open when looking up Workflow in Illustrator.", "keywords": ["Workflow"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

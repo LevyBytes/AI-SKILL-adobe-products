@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Css references", "file": "references/uxp/css/reference-index.md", "summary": "Open when looking up Css in InDesign.", "keywords": ["Css references"]},
-  {"topic": "CSS styling", "file": "references/uxp/css-styling.md", "summary": "Open when looking up CSS styling in InDesign.", "keywords": ["CSS styling"]},
-  {"topic": "CSS styling references", "file": "references/uxp/css-styling/reference-index.md", "summary": "Open when looking up CSS styling in InDesign.", "keywords": ["CSS styling references"]},
-  {"topic": "Working with React", "file": "references/uxp/working-with-react.md", "summary": "Open when looking up Working with React in InDesign.", "keywords": ["Working with React"]},
-  {"topic": "Working with React references", "file": "references/uxp/working-with-react/reference-index.md", "summary": "Open when looking up Working with React in InDesign.", "keywords": ["Working with React references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

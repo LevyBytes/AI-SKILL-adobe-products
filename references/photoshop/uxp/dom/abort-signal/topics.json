@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "abort(reason)", "file": "uxp/dom/abort-signal/abort.md", "summary": "Open when looking up abort(reason) in Photoshop.", "keywords": ["abort(reason)"]},
+  {"topic": "aborted : boolean", "file": "uxp/dom/abort-signal/aborted-boolean.md", "summary": "Open when looking up aborted : boolean in Photoshop.", "keywords": ["aborted : boolean"]},
+  {"topic": "reason : _", "file": "uxp/dom/abort-signal/reason.md", "summary": "Open when looking up reason : _ in Photoshop.", "keywords": ["reason : _"]},
+  {"topic": "throwIfAborted()", "file": "uxp/dom/abort-signal/throw-if-aborted.md", "summary": "Open when looking up throwIfAborted() in Photoshop.", "keywords": ["throwIfAborted()"]},
+  {"topic": "window.AbortSignal", "file": "uxp/dom/abort-signal/overview.md", "summary": "Open when looking up window.AbortSignal in Photoshop.", "keywords": ["window.AbortSignal"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

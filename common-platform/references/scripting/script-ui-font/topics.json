@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Graphic customization objects - ScriptUIFont Object", "file": "references/scripting/script-ui-font/graphic-customization-objects-script-ui-font-object.md", "summary": "Open when looking up Graphic customization objects - ScriptUIFont Object in Shared Adobe platform.", "keywords": ["Graphic customization objects - ScriptUIFont Object"]},
-  {"topic": "ScriptUIFont Object Attributes", "file": "references/scripting/script-ui-font/script-ui-font-object-attributes.md", "summary": "Open when looking up ScriptUIFont Object Attributes in Shared Adobe platform.", "keywords": ["ScriptUIFont Object Attributes"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

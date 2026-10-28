@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Edit library graphics", "file": "desktop/graphics-and-media/add-and-edit-graphics/add-and-manage-graphics-from-cc-libraries/edit-library-graphics.md", "summary": "Open when looking up Edit library graphics in InDesign.", "keywords": ["Edit library graphics"]},
+  {"topic": "Manage library-linked graphics", "file": "desktop/graphics-and-media/add-and-edit-graphics/add-and-manage-graphics-from-cc-libraries/manage-library-linked-graphics.md", "summary": "Open when looking up Manage library-linked graphics in InDesign.", "keywords": ["Manage library-linked graphics"]},
+  {"topic": "Place a graphic from CC Libraries", "file": "desktop/graphics-and-media/add-and-edit-graphics/add-and-manage-graphics-from-cc-libraries/place-a-graphic-from-cc-libraries.md", "summary": "Open when looking up Place a graphic from CC Libraries in InDesign.", "keywords": ["Place a graphic from CC Libraries"]},
+  {"topic": "Place graphics using the menu command", "file": "desktop/graphics-and-media/add-and-edit-graphics/add-and-manage-graphics-from-cc-libraries/place-graphics-using-the-menu-command.md", "summary": "Open when looking up Place graphics using the menu command in InDesign.", "keywords": ["Place graphics using the menu command"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

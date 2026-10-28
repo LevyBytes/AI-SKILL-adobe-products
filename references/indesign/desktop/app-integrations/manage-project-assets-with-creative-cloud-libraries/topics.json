@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Add assets to a library", "file": "desktop/app-integrations/manage-project-assets-with-creative-cloud-libraries/add-assets-to-a-library.md", "summary": "Open when looking up Add assets to a library in InDesign.", "keywords": ["Add assets to a library"]},
+  {"topic": "Invite people to edit or view your library", "file": "desktop/app-integrations/manage-project-assets-with-creative-cloud-libraries/invite-people-to-edit-or-view-your-library.md", "summary": "Open when looking up Invite people to edit or view your library in InDesign.", "keywords": ["Invite people to edit or view your library"]},
+  {"topic": "Open a Creative Cloud library", "file": "desktop/app-integrations/manage-project-assets-with-creative-cloud-libraries/open-a-creative-cloud-library.md", "summary": "Open when looking up Open a Creative Cloud library in InDesign.", "keywords": ["Open a Creative Cloud library"]},
+  {"topic": "Use library assets in a document", "file": "desktop/app-integrations/manage-project-assets-with-creative-cloud-libraries/use-library-assets-in-a-document.md", "summary": "Open when looking up Use library assets in a document in InDesign.", "keywords": ["Use library assets in a document"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

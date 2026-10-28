@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Combining path point types", "file": "scripting/paths/combining-path-point-types.md", "summary": "Open when looking up Combining path point types in Illustrator.", "keywords": ["Combining path point types"]},
+  {"topic": "Creating paths and shapes - Paths", "file": "scripting/paths/creating-paths-and-shapes-paths.md", "summary": "Open when looking up Creating paths and shapes - Paths in Illustrator.", "keywords": ["Creating paths and shapes - Paths"]},
+  {"topic": "Mixing path point forms", "file": "scripting/paths/mixing-path-point-forms.md", "summary": "Open when looking up Mixing path point forms in Illustrator.", "keywords": ["Mixing path point forms"]},
+  {"topic": "Providing x-y coordinate pairs", "file": "scripting/paths/providing-x-y-coordinate-pairs.md", "summary": "Open when looking up Providing x-y coordinate pairs in Illustrator.", "keywords": ["Providing x-y coordinate pairs"]},
+  {"topic": "Specifying a series of x-y coordinates", "file": "scripting/paths/specifying-a-series-of-x-y-coordinates.md", "summary": "Open when looking up Specifying a series of x-y coordinates in Illustrator.", "keywords": ["Specifying a series of x-y coordinates"]},
+  {"topic": "Using path point objects", "file": "scripting/paths/using-path-point-objects.md", "summary": "Open when looking up Using path point objects in Illustrator.", "keywords": ["Using path point objects"]},
+  {"topic": "Working with PathPoint objects", "file": "scripting/paths/working-with-path-point-objects.md", "summary": "Open when looking up Working with PathPoint objects in Illustrator.", "keywords": ["Working with PathPoint objects"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

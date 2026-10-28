@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "CEP Vulcan endpoint discovery", "file": "cep/cep-10-0/vulcan-endpoint-discovery.md", "summary": "Open when looking up CEP Vulcan endpoint discovery in Shared Adobe platform.", "keywords": ["CEP Vulcan endpoint discovery"]},
+  {"topic": "CEP Vulcan messages and listeners", "file": "cep/cep-10-0/vulcan-messaging.md", "summary": "Open when looking up CEP Vulcan messages and listeners in Shared Adobe platform.", "keywords": ["CEP Vulcan messages and listeners"]},
+  {"topic": "Vulcan message", "file": "cep/cep-10-0/vulcan-message.md", "summary": "Open when looking up Vulcan message in Shared Adobe platform.", "keywords": ["Vulcan message"]},
+  {"topic": "Vulcan messages", "file": "cep/cep-10-0/vulcan-messages.md", "summary": "Open when looking up Vulcan messages in Shared Adobe platform.", "keywords": ["Vulcan messages"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

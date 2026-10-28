@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Scale the user interface", "file": "desktop/get-started/learn-the-basics/modify-workspaces/scale-the-user-interface.md", "summary": "Open when looking up Scale the user interface in Illustrator.", "keywords": ["Scale the user interface"]},
+  {"topic": "Set the interface color", "file": "desktop/get-started/learn-the-basics/modify-workspaces/set-the-interface-color.md", "summary": "Open when looking up Set the interface color in Illustrator.", "keywords": ["Set the interface color"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

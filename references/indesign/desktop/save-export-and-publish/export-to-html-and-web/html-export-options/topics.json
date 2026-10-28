@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Exported content", "file": "desktop/save-export-and-publish/export-to-html-and-web/html-export-options/exported-content.md", "summary": "Open when looking up Exported content in InDesign.", "keywords": ["Exported content"]},
+  {"topic": "Unsupported content", "file": "desktop/save-export-and-publish/export-to-html-and-web/html-export-options/unsupported-content.md", "summary": "Open when looking up Unsupported content in InDesign.", "keywords": ["Unsupported content"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

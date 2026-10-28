@@ -1,0 +1,16 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "characters", "file": "document-model/cell/characters.md", "summary": "Open when looking up characters in InDesign.", "keywords": ["characters"]},
+  {"topic": "endnotes", "file": "document-model/cell/endnotes.md", "summary": "Open when looking up endnotes in InDesign.", "keywords": ["endnotes"]},
+  {"topic": "endnoteTextFrames", "file": "document-model/cell/endnote-text-frames.md", "summary": "Open when looking up endnoteTextFrames in InDesign.", "keywords": ["endnoteTextFrames"]},
+  {"topic": "footnotes", "file": "document-model/cell/footnotes.md", "summary": "Open when looking up footnotes in InDesign.", "keywords": ["footnotes"]},
+  {"topic": "insertionPoints", "file": "document-model/cell/insertion-points.md", "summary": "Open when looking up insertionPoints in InDesign.", "keywords": ["insertionPoints"]},
+  {"topic": "lines", "file": "document-model/cell/lines.md", "summary": "Open when looking up lines in InDesign.", "keywords": ["lines"]},
+  {"topic": "notes", "file": "document-model/cell/notes.md", "summary": "Open when looking up notes in InDesign.", "keywords": ["notes"]},
+  {"topic": "paragraphs", "file": "document-model/cell/paragraphs.md", "summary": "Open when looking up paragraphs in InDesign.", "keywords": ["paragraphs"]},
+  {"topic": "textColumns", "file": "document-model/cell/text-columns.md", "summary": "Open when looking up textColumns in InDesign.", "keywords": ["textColumns"]},
+  {"topic": "textFrames", "file": "document-model/cell/text-frames.md", "summary": "Open when looking up textFrames in InDesign.", "keywords": ["textFrames"]},
+  {"topic": "texts", "file": "document-model/cell/texts.md", "summary": "Open when looking up texts in InDesign.", "keywords": ["texts"]},
+  {"topic": "textStyleRanges", "file": "document-model/cell/text-style-ranges.md", "summary": "Open when looking up textStyleRanges in InDesign.", "keywords": ["textStyleRanges"]},
+  {"topic": "words", "file": "document-model/cell/words.md", "summary": "Open when looking up words in InDesign.", "keywords": ["words"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

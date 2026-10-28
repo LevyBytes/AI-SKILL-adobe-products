@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Next steps", "file": "references/uxp/creating-your-first-uxp-based-photoshop-plugin/next-steps.md", "summary": "Open when looking up Next steps in Photoshop.", "keywords": ["Next steps"]},
-  {"topic": "Prerequisites", "file": "references/uxp/creating-your-first-uxp-based-photoshop-plugin/prerequisites.md", "summary": "Open when looking up Prerequisites in Photoshop.", "keywords": ["Prerequisites"]},
-  {"topic": "Step 1: Create the plugin", "file": "references/uxp/creating-your-first-uxp-based-photoshop-plugin/step-1-create-the-plugin.md", "summary": "Open when looking up Step 1: Create the plugin in Photoshop.", "keywords": ["Step 1: Create the plugin"]},
-  {"topic": "Step 2: Run the plugin", "file": "references/uxp/creating-your-first-uxp-based-photoshop-plugin/step-2-run-the-plugin.md", "summary": "Open when looking up Step 2: Run the plugin in Photoshop.", "keywords": ["Step 2: Run the plugin"]},
-  {"topic": "Step 3: Adjust the plugin", "file": "references/uxp/creating-your-first-uxp-based-photoshop-plugin/step-3-adjust-the-plugin.md", "summary": "Open when looking up Step 3: Adjust the plugin in Photoshop.", "keywords": ["Step 3: Adjust the plugin"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

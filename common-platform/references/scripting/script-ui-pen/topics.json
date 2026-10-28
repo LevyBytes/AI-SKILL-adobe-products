@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Graphic customization objects - ScriptUIPen Object", "file": "references/scripting/script-ui-pen/graphic-customization-objects-script-ui-pen-object.md", "summary": "Open when looking up Graphic customization objects - ScriptUIPen Object in Shared Adobe platform.", "keywords": ["Graphic customization objects - ScriptUIPen Object"]},
-  {"topic": "ScriptUIPen Object Attributes", "file": "references/scripting/script-ui-pen/script-ui-pen-object-attributes.md", "summary": "Open when looking up ScriptUIPen Object Attributes in Shared Adobe platform.", "keywords": ["ScriptUIPen Object Attributes"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

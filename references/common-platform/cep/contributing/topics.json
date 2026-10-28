@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Code Of Conduct", "file": "cep/contributing/code-of-conduct.md", "summary": "Open when looking up Code Of Conduct in Shared Adobe platform.", "keywords": ["Code Of Conduct"]},
+  {"topic": "Code Reviews", "file": "cep/contributing/code-reviews.md", "summary": "Open when looking up Code Reviews in Shared Adobe platform.", "keywords": ["Code Reviews"]},
+  {"topic": "Contribution guidelines", "file": "cep/contributing/contribution-guidelines.md", "summary": "Open when looking up Contribution guidelines in Shared Adobe platform.", "keywords": ["Contribution guidelines"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

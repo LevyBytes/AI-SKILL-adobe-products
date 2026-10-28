@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Create new snapshots", "file": "references/desktop/get-started/set-up-toolbars-and-panels/use-snapshots-in-the-history-panel/create-new-snapshots.md", "summary": "Open when looking up Create new snapshots in Photoshop.", "keywords": ["Create new snapshots"]},
-  {"topic": "Snapshot actions", "file": "references/desktop/get-started/set-up-toolbars-and-panels/use-snapshots-in-the-history-panel/snapshot-actions.md", "summary": "Open when looking up Snapshot actions in Photoshop.", "keywords": ["Snapshot actions"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

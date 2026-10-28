@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "firefly", "topics": [
-  {"topic": "Instruct to Assemble", "file": "references/web/adobe-brand-intelligence/adobe-brand-intelligence-overview/instruct-to-assemble.md", "summary": "Open when looking up Instruct to Assemble in Firefly.", "keywords": ["Instruct to Assemble"]},
-  {"topic": "Key skills", "file": "references/web/adobe-brand-intelligence/adobe-brand-intelligence-overview/key-skills.md", "summary": "Open when looking up Key skills in Firefly.", "keywords": ["Key skills"]},
-  {"topic": "Validate", "file": "references/web/adobe-brand-intelligence/adobe-brand-intelligence-overview/validate.md", "summary": "Open when looking up Validate in Firefly.", "keywords": ["Validate"]},
-  {"topic": "What is Adobe Brand Intelligence?", "file": "references/web/adobe-brand-intelligence/adobe-brand-intelligence-overview/what-is-adobe-brand-intelligence.md", "summary": "Open when looking up What is Adobe Brand Intelligence? in Firefly.", "keywords": ["What is Adobe Brand Intelligence?"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

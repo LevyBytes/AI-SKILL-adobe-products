@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "GpuAccelType", "file": "community-types/aftereffects/gpu-accel-type.md", "summary": "Open when looking up GpuAccelType in Shared Adobe platform.", "keywords": ["GpuAccelType"]},
+  {"topic": "OMCollection", "file": "community-types/aftereffects/om-collection.md", "summary": "Open when looking up OMCollection in Shared Adobe platform.", "keywords": ["OMCollection"]},
+  {"topic": "OutputModule", "file": "community-types/aftereffects/output-module.md", "summary": "Open when looking up OutputModule in Shared Adobe platform.", "keywords": ["OutputModule"]},
+  {"topic": "PostRenderAction", "file": "community-types/aftereffects/post-render-action.md", "summary": "Open when looking up PostRenderAction in Shared Adobe platform.", "keywords": ["PostRenderAction"]},
+  {"topic": "RenderQueue", "file": "community-types/aftereffects/render-queue.md", "summary": "Open when looking up RenderQueue in Shared Adobe platform.", "keywords": ["RenderQueue"]},
+  {"topic": "RenderQueueItem", "file": "community-types/aftereffects/render-queue-item.md", "summary": "Open when looking up RenderQueueItem in Shared Adobe platform.", "keywords": ["RenderQueueItem"]},
+  {"topic": "RQItemCollection", "file": "community-types/aftereffects/rq-item-collection.md", "summary": "Open when looking up RQItemCollection in Shared Adobe platform.", "keywords": ["RQItemCollection"]},
+  {"topic": "RQItemStatus", "file": "community-types/aftereffects/rq-item-status.md", "summary": "Open when looking up RQItemStatus in Shared Adobe platform.", "keywords": ["RQItemStatus"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

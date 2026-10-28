@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/audition", "topics": [
+  {"topic": "Applying effects", "file": "desktop/podcasts/creating-podcasts/applying-effects.md", "summary": "Open when looking up Applying effects in Audition.", "keywords": ["Applying effects"]},
+  {"topic": "Editing your podcast", "file": "desktop/podcasts/creating-podcasts/editing-your-podcast.md", "summary": "Open when looking up Editing your podcast in Audition.", "keywords": ["Editing your podcast"]},
+  {"topic": "Exporting and publishing your podcast", "file": "desktop/podcasts/creating-podcasts/exporting-and-publishing-your-podcast.md", "summary": "Open when looking up Exporting and publishing your podcast in Audition.", "keywords": ["Exporting and publishing your podcast"]},
+  {"topic": "Matching loudness", "file": "desktop/podcasts/creating-podcasts/matching-loudness.md", "summary": "Open when looking up Matching loudness in Audition.", "keywords": ["Matching loudness"]},
+  {"topic": "Preparing your recording setup", "file": "desktop/podcasts/creating-podcasts/preparing-your-recording-setup.md", "summary": "Open when looking up Preparing your recording setup in Audition.", "keywords": ["Preparing your recording setup"]},
+  {"topic": "Record using Multitrack editor", "file": "desktop/podcasts/creating-podcasts/record-using-multitrack-editor.md", "summary": "Open when looking up Record using Multitrack editor in Audition.", "keywords": ["Record using Multitrack editor"]},
+  {"topic": "Record using Waveform editor", "file": "desktop/podcasts/creating-podcasts/record-using-waveform-editor.md", "summary": "Open when looking up Record using Waveform editor in Audition.", "keywords": ["Record using Waveform editor"]},
+  {"topic": "Recording your podcast", "file": "desktop/podcasts/creating-podcasts/recording-your-podcast.md", "summary": "Open when looking up Recording your podcast in Audition.", "keywords": ["Recording your podcast"]},
+  {"topic": "Removing unwanted background noise from your audio", "file": "desktop/podcasts/creating-podcasts/removing-unwanted-background-noise-from-your-audio.md", "summary": "Open when looking up Removing unwanted background noise from your audio in Audition.", "keywords": ["Removing unwanted background noise from your audio"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

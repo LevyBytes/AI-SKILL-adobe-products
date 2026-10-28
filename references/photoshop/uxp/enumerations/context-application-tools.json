@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "DialogModes", "file": "uxp/enumerations/dialog-modes.md", "summary": "Open when looking up DialogModes in Photoshop.", "keywords": ["DialogModes"]},
+  {"topic": "EditLogItemsType", "file": "uxp/enumerations/edit-log-items-type.md", "summary": "Open when looking up EditLogItemsType in Photoshop.", "keywords": ["EditLogItemsType"]},
+  {"topic": "LabelColors", "file": "uxp/enumerations/label-colors.md", "summary": "Open when looking up LabelColors in Photoshop.", "keywords": ["LabelColors"]},
+  {"topic": "OperatingSystem", "file": "uxp/enumerations/operating-system.md", "summary": "Open when looking up OperatingSystem in Photoshop.", "keywords": ["OperatingSystem"]},
+  {"topic": "OtherCursors", "file": "uxp/enumerations/other-cursors.md", "summary": "Open when looking up OtherCursors in Photoshop.", "keywords": ["OtherCursors"]},
+  {"topic": "PaintingCursors", "file": "uxp/enumerations/painting-cursors.md", "summary": "Open when looking up PaintingCursors in Photoshop.", "keywords": ["PaintingCursors"]},
+  {"topic": "SampleSize", "file": "uxp/enumerations/sample-size.md", "summary": "Open when looking up SampleSize in Photoshop.", "keywords": ["SampleSize"]},
+  {"topic": "SaveLogItemsType", "file": "uxp/enumerations/save-log-items-type.md", "summary": "Open when looking up SaveLogItemsType in Photoshop.", "keywords": ["SaveLogItemsType"]},
+  {"topic": "ToolType", "file": "uxp/enumerations/tool-type.md", "summary": "Open when looking up ToolType in Photoshop.", "keywords": ["ToolType"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

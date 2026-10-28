@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "HYPH_AESTHETIC", "file": "references/document-model/hyphenation-style-enum/hyphaesthetic.md", "summary": "Open when looking up HYPH_AESTHETIC in InDesign.", "keywords": ["HYPH_AESTHETIC"]},
-  {"topic": "HYPH_ALL", "file": "references/document-model/hyphenation-style-enum/hyphall.md", "summary": "Open when looking up HYPH_ALL in InDesign.", "keywords": ["HYPH_ALL"]},
-  {"topic": "HYPH_ALL_BUT_UNAESTHETIC", "file": "references/document-model/hyphenation-style-enum/hyphallbutunaesthetic.md", "summary": "Open when looking up HYPH_ALL_BUT_UNAESTHETIC in InDesign.", "keywords": ["HYPH_ALL_BUT_UNAESTHETIC"]},
-  {"topic": "HYPH_PREFERRED_AESTHETIC", "file": "references/document-model/hyphenation-style-enum/hyphpreferredaesthetic.md", "summary": "Open when looking up HYPH_PREFERRED_AESTHETIC in InDesign.", "keywords": ["HYPH_PREFERRED_AESTHETIC"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

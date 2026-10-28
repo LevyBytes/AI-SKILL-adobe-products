@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Document.filePath", "file": "community-types/indesign/document/file-path.md", "summary": "Open when looking up Document.filePath in Shared Adobe platform.", "keywords": ["Document.filePath"]},
+  {"topic": "Document.fullName", "file": "community-types/indesign/document/full-name.md", "summary": "Open when looking up Document.fullName in Shared Adobe platform.", "keywords": ["Document.fullName"]},
+  {"topic": "Document.preferences", "file": "community-types/indesign/document/preferences.md", "summary": "Open when looking up Document.preferences in Shared Adobe platform.", "keywords": ["Document.preferences"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

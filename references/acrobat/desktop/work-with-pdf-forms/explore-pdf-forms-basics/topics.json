@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "PDF forms overview", "file": "desktop/work-with-pdf-forms/explore-pdf-forms-basics/pdf-forms-overview.md", "summary": "Open when looking up PDF forms overview in Acrobat.", "keywords": ["PDF forms overview"]},
+  {"topic": "PDF forms overview references", "file": "desktop/work-with-pdf-forms/explore-pdf-forms-basics/pdf-forms-overview/reference-index.md", "summary": "Open when looking up PDF forms overview in Acrobat.", "keywords": ["PDF forms overview references"]},
+  {"topic": "PDF forms preferences", "file": "desktop/work-with-pdf-forms/explore-pdf-forms-basics/pdf-forms-preferences.md", "summary": "Open when looking up PDF forms preferences in Acrobat.", "keywords": ["PDF forms preferences"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Combine and convert paths", "file": "desktop/create-lines-and-shapes/combine-and-convert-paths.md", "summary": "Open when looking up Combine and convert paths in InDesign.", "keywords": ["Combine and convert paths"]},
+  {"topic": "Combine and convert paths references", "file": "desktop/create-lines-and-shapes/combine-and-convert-paths/reference-index.md", "summary": "Open when looking up Combine and convert paths in InDesign.", "keywords": ["Combine and convert paths references"]},
+  {"topic": "Draw lines and shapes", "file": "desktop/create-lines-and-shapes/draw-lines-and-shapes.md", "summary": "Open when looking up Draw lines and shapes in InDesign.", "keywords": ["Draw lines and shapes"]},
+  {"topic": "Draw lines and shapes references", "file": "desktop/create-lines-and-shapes/draw-lines-and-shapes/reference-index.md", "summary": "Open when looking up Draw lines and shapes in InDesign.", "keywords": ["Draw lines and shapes references"]},
+  {"topic": "Drawing tools", "file": "desktop/create-lines-and-shapes/drawing-tools.md", "summary": "Open when looking up Drawing tools in InDesign.", "keywords": ["Drawing tools"]},
+  {"topic": "Drawing tools references", "file": "desktop/create-lines-and-shapes/drawing-tools/reference-index.md", "summary": "Open when looking up Drawing tools in InDesign.", "keywords": ["Drawing tools references"]},
+  {"topic": "Edit and style paths", "file": "desktop/create-lines-and-shapes/edit-and-style-paths.md", "summary": "Open when looking up Edit and style paths in InDesign.", "keywords": ["Edit and style paths"]},
+  {"topic": "Edit and style paths references", "file": "desktop/create-lines-and-shapes/edit-and-style-paths/reference-index.md", "summary": "Open when looking up Edit and style paths in InDesign.", "keywords": ["Edit and style paths references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "activeStateIndex", "file": "references/document-model/multi-state-object/active-state-index.md", "summary": "Open when looking up activeStateIndex in InDesign.", "keywords": ["activeStateIndex"]},
-  {"topic": "addItemsAsState", "file": "references/document-model/multi-state-object/add-items-as-state.md", "summary": "Open when looking up addItemsAsState in InDesign.", "keywords": ["addItemsAsState"]},
-  {"topic": "description", "file": "references/document-model/multi-state-object/description.md", "summary": "Open when looking up description in InDesign.", "keywords": ["description"]},
-  {"topic": "initiallyHidden", "file": "references/document-model/multi-state-object/initially-hidden.md", "summary": "Open when looking up initiallyHidden in InDesign.", "keywords": ["initiallyHidden"]},
-  {"topic": "releaseAsObjects", "file": "references/document-model/multi-state-object/release-as-objects.md", "summary": "Open when looking up releaseAsObjects in InDesign.", "keywords": ["releaseAsObjects"]},
-  {"topic": "states", "file": "references/document-model/multi-state-object/states.md", "summary": "Open when looking up states in InDesign.", "keywords": ["states"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

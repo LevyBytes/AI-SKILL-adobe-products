@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "Change time-display units", "file": "references/desktop/animation/add-timecode-and-time-display-units/timecode-and-time-display-units/change-time-display-units.md", "summary": "Open when looking up Change time-display units in After Effects.", "keywords": ["Change time-display units"]},
-  {"topic": "Options for time-display units", "file": "references/desktop/animation/add-timecode-and-time-display-units/timecode-and-time-display-units/options-for-time-display-units.md", "summary": "Open when looking up Options for time-display units in After Effects.", "keywords": ["Options for time-display units"]},
-  {"topic": "Source timecode", "file": "references/desktop/animation/add-timecode-and-time-display-units/timecode-and-time-display-units/source-timecode.md", "summary": "Open when looking up Source timecode in After Effects.", "keywords": ["Source timecode"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

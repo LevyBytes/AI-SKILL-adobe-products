@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "CHANGE_USES_CHANGE_PREF_COLOR", "file": "document-model/change-text-color-choices/changeuseschangeprefcolor.md", "summary": "Open when looking up CHANGE_USES_CHANGE_PREF_COLOR in InDesign.", "keywords": ["CHANGE_USES_CHANGE_PREF_COLOR"]},
+  {"topic": "CHANGE_USES_GALLEY_TEXT_COLOR", "file": "document-model/change-text-color-choices/changeusesgalleytextcolor.md", "summary": "Open when looking up CHANGE_USES_GALLEY_TEXT_COLOR in InDesign.", "keywords": ["CHANGE_USES_GALLEY_TEXT_COLOR"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

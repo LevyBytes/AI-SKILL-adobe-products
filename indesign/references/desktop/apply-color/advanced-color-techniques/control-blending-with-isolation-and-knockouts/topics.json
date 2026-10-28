@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Create knockout effects in a group", "file": "references/desktop/apply-color/advanced-color-techniques/control-blending-with-isolation-and-knockouts/create-knockout-effects-in-a-group.md", "summary": "Open when looking up Create knockout effects in a group in InDesign.", "keywords": ["Create knockout effects in a group"]},
-  {"topic": "Isolate blending within a group", "file": "references/desktop/apply-color/advanced-color-techniques/control-blending-with-isolation-and-knockouts/isolate-blending-within-a-group.md", "summary": "Open when looking up Isolate blending within a group in InDesign.", "keywords": ["Isolate blending within a group"]},
-  {"topic": "Set the transparency blend space", "file": "references/desktop/apply-color/advanced-color-techniques/control-blending-with-isolation-and-knockouts/set-the-transparency-blend-space.md", "summary": "Open when looking up Set the transparency blend space in InDesign.", "keywords": ["Set the transparency blend space"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

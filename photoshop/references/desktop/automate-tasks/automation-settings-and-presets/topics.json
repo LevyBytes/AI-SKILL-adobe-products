@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Apply actions in the Actions panel", "file": "references/desktop/automate-tasks/automation-settings-and-presets/apply-actions-in-the-actions-panel.md", "summary": "Open when looking up Apply actions in the Actions panel in Photoshop.", "keywords": ["Apply actions in the Actions panel"]},
-  {"topic": "Apply actions in the Actions panel references", "file": "references/desktop/automate-tasks/automation-settings-and-presets/apply-actions-in-the-actions-panel/reference-index.md", "summary": "Open when looking up Apply actions in the Actions panel in Photoshop.", "keywords": ["Apply actions in the Actions panel references"]},
-  {"topic": "Overview of Actions", "file": "references/desktop/automate-tasks/automation-settings-and-presets/overview-of-actions.md", "summary": "Open when looking up Overview of Actions in Photoshop.", "keywords": ["Overview of Actions"]},
-  {"topic": "Use the Actions panel", "file": "references/desktop/automate-tasks/automation-settings-and-presets/use-the-actions-panel.md", "summary": "Open when looking up Use the Actions panel in Photoshop.", "keywords": ["Use the Actions panel"]},
-  {"topic": "Use the Actions panel references", "file": "references/desktop/automate-tasks/automation-settings-and-presets/use-the-actions-panel/reference-index.md", "summary": "Open when looking up Use the Actions panel in Photoshop.", "keywords": ["Use the Actions panel references"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,19 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Array declaration", "file": "community-types/shared/array/declaration.md", "summary": "Open when looking up Array declaration in Shared Adobe platform.", "keywords": ["Array declaration"]},
+  {"topic": "Array.concat", "file": "community-types/shared/array/concat.md", "summary": "Open when looking up Array.concat in Shared Adobe platform.", "keywords": ["Array.concat"]},
+  {"topic": "Array.IndexSignature", "file": "community-types/shared/array/index-signature.md", "summary": "Open when looking up Array.IndexSignature in Shared Adobe platform.", "keywords": ["Array.IndexSignature"]},
+  {"topic": "Array.join", "file": "community-types/shared/array/join.md", "summary": "Open when looking up Array.join in Shared Adobe platform.", "keywords": ["Array.join"]},
+  {"topic": "Array.length", "file": "community-types/shared/array/length.md", "summary": "Open when looking up Array.length in Shared Adobe platform.", "keywords": ["Array.length"]},
+  {"topic": "Array.pop", "file": "community-types/shared/array/pop.md", "summary": "Open when looking up Array.pop in Shared Adobe platform.", "keywords": ["Array.pop"]},
+  {"topic": "Array.push", "file": "community-types/shared/array/push.md", "summary": "Open when looking up Array.push in Shared Adobe platform.", "keywords": ["Array.push"]},
+  {"topic": "Array.reverse", "file": "community-types/shared/array/reverse.md", "summary": "Open when looking up Array.reverse in Shared Adobe platform.", "keywords": ["Array.reverse"]},
+  {"topic": "Array.shift", "file": "community-types/shared/array/shift.md", "summary": "Open when looking up Array.shift in Shared Adobe platform.", "keywords": ["Array.shift"]},
+  {"topic": "Array.slice", "file": "community-types/shared/array/slice.md", "summary": "Open when looking up Array.slice in Shared Adobe platform.", "keywords": ["Array.slice"]},
+  {"topic": "Array.sort", "file": "community-types/shared/array/sort.md", "summary": "Open when looking up Array.sort in Shared Adobe platform.", "keywords": ["Array.sort"]},
+  {"topic": "Array.splice", "file": "community-types/shared/array/splice.md", "summary": "Open when looking up Array.splice in Shared Adobe platform.", "keywords": ["Array.splice"]},
+  {"topic": "Array.toLocaleString", "file": "community-types/shared/array/to-locale-string.md", "summary": "Open when looking up Array.toLocaleString in Shared Adobe platform.", "keywords": ["Array.toLocaleString"]},
+  {"topic": "Array.toSource", "file": "community-types/shared/array/to-source.md", "summary": "Open when looking up Array.toSource in Shared Adobe platform.", "keywords": ["Array.toSource"]},
+  {"topic": "Array.toString", "file": "community-types/shared/array/to-string.md", "summary": "Open when looking up Array.toString in Shared Adobe platform.", "keywords": ["Array.toString"]},
+  {"topic": "Array.unshift", "file": "community-types/shared/array/unshift.md", "summary": "Open when looking up Array.unshift in Shared Adobe platform.", "keywords": ["Array.unshift"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

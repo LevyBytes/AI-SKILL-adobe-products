@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "BARBELL_CURSOR", "file": "references/document-model/cursor-types/barbellcursor.md", "summary": "Open when looking up BARBELL_CURSOR in InDesign.", "keywords": ["BARBELL_CURSOR"]},
-  {"topic": "BLOCK_CURSOR", "file": "references/document-model/cursor-types/blockcursor.md", "summary": "Open when looking up BLOCK_CURSOR in InDesign.", "keywords": ["BLOCK_CURSOR"]},
-  {"topic": "STANDARD_CURSOR", "file": "references/document-model/cursor-types/standardcursor.md", "summary": "Open when looking up STANDARD_CURSOR in InDesign.", "keywords": ["STANDARD_CURSOR"]},
-  {"topic": "THICK_CURSOR", "file": "references/document-model/cursor-types/thickcursor.md", "summary": "Open when looking up THICK_CURSOR in InDesign.", "keywords": ["THICK_CURSOR"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

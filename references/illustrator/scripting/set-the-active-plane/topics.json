@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Working with the perspective grid - Set the active plane", "file": "scripting/set-the-active-plane/working-with-the-perspective-grid-set-the-active-plane.md", "summary": "Open when looking up Working with the perspective grid - Set the active plane in Illustrator.", "keywords": ["Working with the perspective grid - Set the active plane"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "PF_ParamDef - The Rest Of The Parameters", "file": "plugin-sdk/the-rest-of-the-parameters/pf-param-def-the-rest-of-the-parameters.md", "summary": "Open when looking up PF_ParamDef - The Rest Of The Parameters in After Effects.", "keywords": ["PF_ParamDef - The Rest Of The Parameters"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

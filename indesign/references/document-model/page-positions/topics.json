@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "CENTER_HORIZONTALLY", "file": "references/document-model/page-positions/centerhorizontally.md", "summary": "Open when looking up CENTER_HORIZONTALLY in InDesign.", "keywords": ["CENTER_HORIZONTALLY"]},
-  {"topic": "CENTER_VERTICALLY", "file": "references/document-model/page-positions/centervertically.md", "summary": "Open when looking up CENTER_VERTICALLY in InDesign.", "keywords": ["CENTER_VERTICALLY"]},
-  {"topic": "CENTERED", "file": "references/document-model/page-positions/centered.md", "summary": "Open when looking up CENTERED in InDesign.", "keywords": ["CENTERED"]},
-  {"topic": "UPPER_LEFT", "file": "references/document-model/page-positions/upperleft.md", "summary": "Open when looking up UPPER_LEFT in InDesign.", "keywords": ["UPPER_LEFT"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

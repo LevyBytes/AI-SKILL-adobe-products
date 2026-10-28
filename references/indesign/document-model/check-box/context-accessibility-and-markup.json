@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "associatedXMLElement", "file": "document-model/check-box/associated-xml-element.md", "summary": "Open when looking up associatedXMLElement in InDesign.", "keywords": ["associatedXMLElement"]},
+  {"topic": "autoTag", "file": "document-model/check-box/auto-tag.md", "summary": "Open when looking up autoTag in InDesign.", "keywords": ["autoTag"]},
+  {"topic": "markup", "file": "document-model/check-box/markup.md", "summary": "Open when looking up markup in InDesign.", "keywords": ["markup"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

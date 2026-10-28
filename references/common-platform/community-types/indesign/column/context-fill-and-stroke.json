@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Column.fillColor", "file": "community-types/indesign/column/fill-color.md", "summary": "Open when looking up Column.fillColor in Shared Adobe platform.", "keywords": ["Column.fillColor"]},
+  {"topic": "Column.fillTint", "file": "community-types/indesign/column/fill-tint.md", "summary": "Open when looking up Column.fillTint in Shared Adobe platform.", "keywords": ["Column.fillTint"]},
+  {"topic": "Column.gradientFillAngle", "file": "community-types/indesign/column/gradient-fill-angle.md", "summary": "Open when looking up Column.gradientFillAngle in Shared Adobe platform.", "keywords": ["Column.gradientFillAngle"]},
+  {"topic": "Column.gradientFillLength", "file": "community-types/indesign/column/gradient-fill-length.md", "summary": "Open when looking up Column.gradientFillLength in Shared Adobe platform.", "keywords": ["Column.gradientFillLength"]},
+  {"topic": "Column.gradientFillStart", "file": "community-types/indesign/column/gradient-fill-start.md", "summary": "Open when looking up Column.gradientFillStart in Shared Adobe platform.", "keywords": ["Column.gradientFillStart"]},
+  {"topic": "Column.overprintFill", "file": "community-types/indesign/column/overprint-fill.md", "summary": "Open when looking up Column.overprintFill in Shared Adobe platform.", "keywords": ["Column.overprintFill"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

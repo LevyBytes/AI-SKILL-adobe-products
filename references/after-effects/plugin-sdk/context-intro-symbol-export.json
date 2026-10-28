@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Disabling visual studio export references", "file": "plugin-sdk/disabling-visual-studio-export/reference-index.md", "summary": "Open when looking up Disabling visual studio export in After Effects.", "keywords": ["Disabling visual studio export references"]},
+  {"topic": "Disabling xcode symbol export references", "file": "plugin-sdk/disabling-xcode-symbol-export/reference-index.md", "summary": "Open when looking up Disabling xcode symbol export in After Effects.", "keywords": ["Disabling xcode symbol export references"]},
+  {"topic": "Exporting Symbols in Effects", "file": "plugin-sdk/exporting-symbols-in-effects.md", "summary": "Open when looking up Exporting Symbols in Effects in After Effects.", "keywords": ["Exporting Symbols in Effects"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

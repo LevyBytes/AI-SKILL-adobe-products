@@ -1,0 +1,21 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "colorGroups", "file": "document-model/document/color-groups.md", "summary": "Open when looking up colorGroups in InDesign.", "keywords": ["colorGroups"]},
+  {"topic": "colors", "file": "document-model/document/colors.md", "summary": "Open when looking up colors in InDesign.", "keywords": ["colors"]},
+  {"topic": "dashedStrokeStyles", "file": "document-model/document/dashed-stroke-styles.md", "summary": "Open when looking up dashedStrokeStyles in InDesign.", "keywords": ["dashedStrokeStyles"]},
+  {"topic": "dottedStrokeStyles", "file": "document-model/document/dotted-stroke-styles.md", "summary": "Open when looking up dottedStrokeStyles in InDesign.", "keywords": ["dottedStrokeStyles"]},
+  {"topic": "exportStrokeStyles", "file": "document-model/document/export-stroke-styles.md", "summary": "Open when looking up exportStrokeStyles in InDesign.", "keywords": ["exportStrokeStyles"]},
+  {"topic": "gradients", "file": "document-model/document/gradients.md", "summary": "Open when looking up gradients in InDesign.", "keywords": ["gradients"]},
+  {"topic": "importAdobeSwatchbookProcessColor", "file": "document-model/document/import-adobe-swatchbook-process-color.md", "summary": "Open when looking up importAdobeSwatchbookProcessColor in InDesign.", "keywords": ["importAdobeSwatchbookProcessColor"]},
+  {"topic": "importAdobeSwatchbookSpotColor", "file": "document-model/document/import-adobe-swatchbook-spot-color.md", "summary": "Open when looking up importAdobeSwatchbookSpotColor in InDesign.", "keywords": ["importAdobeSwatchbookSpotColor"]},
+  {"topic": "inks", "file": "document-model/document/inks.md", "summary": "Open when looking up inks in InDesign.", "keywords": ["inks"]},
+  {"topic": "loadSwatches", "file": "document-model/document/load-swatches.md", "summary": "Open when looking up loadSwatches in InDesign.", "keywords": ["loadSwatches"]},
+  {"topic": "mixedInkGroups", "file": "document-model/document/mixed-ink-groups.md", "summary": "Open when looking up mixedInkGroups in InDesign.", "keywords": ["mixedInkGroups"]},
+  {"topic": "mixedInks", "file": "document-model/document/mixed-inks.md", "summary": "Open when looking up mixedInks in InDesign.", "keywords": ["mixedInks"]},
+  {"topic": "saveSwatches", "file": "document-model/document/save-swatches.md", "summary": "Open when looking up saveSwatches in InDesign.", "keywords": ["saveSwatches"]},
+  {"topic": "stripedStrokeStyles", "file": "document-model/document/striped-stroke-styles.md", "summary": "Open when looking up stripedStrokeStyles in InDesign.", "keywords": ["stripedStrokeStyles"]},
+  {"topic": "strokeStyles", "file": "document-model/document/stroke-styles.md", "summary": "Open when looking up strokeStyles in InDesign.", "keywords": ["strokeStyles"]},
+  {"topic": "swatches", "file": "document-model/document/swatches.md", "summary": "Open when looking up swatches in InDesign.", "keywords": ["swatches"]},
+  {"topic": "tints", "file": "document-model/document/tints.md", "summary": "Open when looking up tints in InDesign.", "keywords": ["tints"]},
+  {"topic": "unusedSwatches", "file": "document-model/document/unused-swatches.md", "summary": "Open when looking up unusedSwatches in InDesign.", "keywords": ["unusedSwatches"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

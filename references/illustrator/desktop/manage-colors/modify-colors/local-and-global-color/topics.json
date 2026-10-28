@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Globally edit saturation, brightness, temperature, or luminosity", "file": "desktop/manage-colors/modify-colors/local-and-global-color/globally-edit-saturation-brightness-temperature-or-luminosity.md", "summary": "Open when looking up Globally edit saturation, brightness, temperature, or luminosity in Illustrator.", "keywords": ["Globally edit saturation, brightness, temperature, or luminosity"]},
+  {"topic": "Randomly change color order or saturation and brightness", "file": "desktop/manage-colors/modify-colors/local-and-global-color/randomly-change-color-order-or-saturation-and-brightness.md", "summary": "Open when looking up Randomly change color order or saturation and brightness in Illustrator.", "keywords": ["Randomly change color order or saturation and brightness"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

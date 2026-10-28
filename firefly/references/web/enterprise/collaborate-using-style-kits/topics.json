@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "firefly", "topics": [
-  {"topic": "Create Style Kits", "file": "references/web/enterprise/collaborate-using-style-kits/create-style-kits.md", "summary": "Open when looking up Create Style Kits in Firefly.", "keywords": ["Create Style Kits"]},
-  {"topic": "Leave shared Style Kits", "file": "references/web/enterprise/collaborate-using-style-kits/leave-shared-style-kits.md", "summary": "Open when looking up Leave shared Style Kits in Firefly.", "keywords": ["Leave shared Style Kits"]},
-  {"topic": "Style Kits overview", "file": "references/web/enterprise/collaborate-using-style-kits/style-kits-overview.md", "summary": "Open when looking up Style Kits overview in Firefly.", "keywords": ["Style Kits overview"]},
-  {"topic": "Use shared Style Kits", "file": "references/web/enterprise/collaborate-using-style-kits/use-shared-style-kits.md", "summary": "Open when looking up Use shared Style Kits in Firefly.", "keywords": ["Use shared Style Kits"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "Add a single page after the active page", "file": "desktop/pages-and-books/arrange-and-order-pages/add-new-pages-to-a-document/add-a-single-page-after-the-active-page.md", "summary": "Open when looking up Add a single page after the active page in InDesign.", "keywords": ["Add a single page after the active page"]},
+  {"topic": "Add multiple pages at a specific location", "file": "desktop/pages-and-books/arrange-and-order-pages/add-new-pages-to-a-document/add-multiple-pages-at-a-specific-location.md", "summary": "Open when looking up Add multiple pages at a specific location in InDesign.", "keywords": ["Add multiple pages at a specific location"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

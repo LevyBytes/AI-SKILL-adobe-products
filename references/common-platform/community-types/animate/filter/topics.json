@@ -1,0 +1,23 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Filter declaration", "file": "community-types/animate/filter/declaration.md", "summary": "Open when looking up Filter declaration in Shared Adobe platform.", "keywords": ["Filter declaration"]},
+  {"topic": "Filter.angle", "file": "community-types/animate/filter/angle.md", "summary": "Open when looking up Filter.angle in Shared Adobe platform.", "keywords": ["Filter.angle"]},
+  {"topic": "Filter.blurX", "file": "community-types/animate/filter/blur-x.md", "summary": "Open when looking up Filter.blurX in Shared Adobe platform.", "keywords": ["Filter.blurX"]},
+  {"topic": "Filter.blurY", "file": "community-types/animate/filter/blur-y.md", "summary": "Open when looking up Filter.blurY in Shared Adobe platform.", "keywords": ["Filter.blurY"]},
+  {"topic": "Filter.brightness", "file": "community-types/animate/filter/brightness.md", "summary": "Open when looking up Filter.brightness in Shared Adobe platform.", "keywords": ["Filter.brightness"]},
+  {"topic": "Filter.color", "file": "community-types/animate/filter/color.md", "summary": "Open when looking up Filter.color in Shared Adobe platform.", "keywords": ["Filter.color"]},
+  {"topic": "Filter.contrast", "file": "community-types/animate/filter/contrast.md", "summary": "Open when looking up Filter.contrast in Shared Adobe platform.", "keywords": ["Filter.contrast"]},
+  {"topic": "Filter.distance", "file": "community-types/animate/filter/distance.md", "summary": "Open when looking up Filter.distance in Shared Adobe platform.", "keywords": ["Filter.distance"]},
+  {"topic": "Filter.enabled", "file": "community-types/animate/filter/enabled.md", "summary": "Open when looking up Filter.enabled in Shared Adobe platform.", "keywords": ["Filter.enabled"]},
+  {"topic": "Filter.hideObject", "file": "community-types/animate/filter/hide-object.md", "summary": "Open when looking up Filter.hideObject in Shared Adobe platform.", "keywords": ["Filter.hideObject"]},
+  {"topic": "Filter.highlightColor", "file": "community-types/animate/filter/highlight-color.md", "summary": "Open when looking up Filter.highlightColor in Shared Adobe platform.", "keywords": ["Filter.highlightColor"]},
+  {"topic": "Filter.hue", "file": "community-types/animate/filter/hue.md", "summary": "Open when looking up Filter.hue in Shared Adobe platform.", "keywords": ["Filter.hue"]},
+  {"topic": "Filter.inner", "file": "community-types/animate/filter/inner.md", "summary": "Open when looking up Filter.inner in Shared Adobe platform.", "keywords": ["Filter.inner"]},
+  {"topic": "Filter.knockout", "file": "community-types/animate/filter/knockout.md", "summary": "Open when looking up Filter.knockout in Shared Adobe platform.", "keywords": ["Filter.knockout"]},
+  {"topic": "Filter.name", "file": "community-types/animate/filter/name.md", "summary": "Open when looking up Filter.name in Shared Adobe platform.", "keywords": ["Filter.name"]},
+  {"topic": "Filter.quality", "file": "community-types/animate/filter/quality.md", "summary": "Open when looking up Filter.quality in Shared Adobe platform.", "keywords": ["Filter.quality"]},
+  {"topic": "Filter.saturation", "file": "community-types/animate/filter/saturation.md", "summary": "Open when looking up Filter.saturation in Shared Adobe platform.", "keywords": ["Filter.saturation"]},
+  {"topic": "Filter.shadowColor", "file": "community-types/animate/filter/shadow-color.md", "summary": "Open when looking up Filter.shadowColor in Shared Adobe platform.", "keywords": ["Filter.shadowColor"]},
+  {"topic": "Filter.strength", "file": "community-types/animate/filter/strength.md", "summary": "Open when looking up Filter.strength in Shared Adobe platform.", "keywords": ["Filter.strength"]},
+  {"topic": "Filter.type", "file": "community-types/animate/filter/type.md", "summary": "Open when looking up Filter.type in Shared Adobe platform.", "keywords": ["Filter.type"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

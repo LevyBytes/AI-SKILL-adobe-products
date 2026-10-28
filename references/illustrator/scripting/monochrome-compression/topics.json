@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Scripting Constants - MonochromeCompression", "file": "scripting/monochrome-compression/scripting-constants-monochrome-compression.md", "summary": "Open when looking up Scripting Constants - MonochromeCompression in Illustrator.", "keywords": ["Scripting Constants - MonochromeCompression"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

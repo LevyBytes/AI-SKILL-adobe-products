@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Artisan Data Types - Horz? Vert?", "file": "plugin-sdk/horz-vert/artisan-data-types-horz-vert.md", "summary": "Open when looking up Artisan Data Types - Horz? Vert? in After Effects.", "keywords": ["Artisan Data Types - Horz? Vert?"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

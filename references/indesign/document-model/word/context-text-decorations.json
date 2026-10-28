@@ -1,0 +1,23 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "strikeThroughColor", "file": "document-model/word/strike-through-color.md", "summary": "Open when looking up strikeThroughColor in InDesign.", "keywords": ["strikeThroughColor"]},
+  {"topic": "strikeThroughGapColor", "file": "document-model/word/strike-through-gap-color.md", "summary": "Open when looking up strikeThroughGapColor in InDesign.", "keywords": ["strikeThroughGapColor"]},
+  {"topic": "strikeThroughGapOverprint", "file": "document-model/word/strike-through-gap-overprint.md", "summary": "Open when looking up strikeThroughGapOverprint in InDesign.", "keywords": ["strikeThroughGapOverprint"]},
+  {"topic": "strikeThroughGapTint", "file": "document-model/word/strike-through-gap-tint.md", "summary": "Open when looking up strikeThroughGapTint in InDesign.", "keywords": ["strikeThroughGapTint"]},
+  {"topic": "strikeThroughOffset", "file": "document-model/word/strike-through-offset.md", "summary": "Open when looking up strikeThroughOffset in InDesign.", "keywords": ["strikeThroughOffset"]},
+  {"topic": "strikeThroughOverprint", "file": "document-model/word/strike-through-overprint.md", "summary": "Open when looking up strikeThroughOverprint in InDesign.", "keywords": ["strikeThroughOverprint"]},
+  {"topic": "strikeThroughTint", "file": "document-model/word/strike-through-tint.md", "summary": "Open when looking up strikeThroughTint in InDesign.", "keywords": ["strikeThroughTint"]},
+  {"topic": "strikeThroughType", "file": "document-model/word/strike-through-type.md", "summary": "Open when looking up strikeThroughType in InDesign.", "keywords": ["strikeThroughType"]},
+  {"topic": "strikeThroughWeight", "file": "document-model/word/strike-through-weight.md", "summary": "Open when looking up strikeThroughWeight in InDesign.", "keywords": ["strikeThroughWeight"]},
+  {"topic": "strikeThru", "file": "document-model/word/strike-thru.md", "summary": "Open when looking up strikeThru in InDesign.", "keywords": ["strikeThru"]},
+  {"topic": "underline", "file": "document-model/word/underline.md", "summary": "Open when looking up underline in InDesign.", "keywords": ["underline"]},
+  {"topic": "underlineColor", "file": "document-model/word/underline-color.md", "summary": "Open when looking up underlineColor in InDesign.", "keywords": ["underlineColor"]},
+  {"topic": "underlineGapColor", "file": "document-model/word/underline-gap-color.md", "summary": "Open when looking up underlineGapColor in InDesign.", "keywords": ["underlineGapColor"]},
+  {"topic": "underlineGapOverprint", "file": "document-model/word/underline-gap-overprint.md", "summary": "Open when looking up underlineGapOverprint in InDesign.", "keywords": ["underlineGapOverprint"]},
+  {"topic": "underlineGapTint", "file": "document-model/word/underline-gap-tint.md", "summary": "Open when looking up underlineGapTint in InDesign.", "keywords": ["underlineGapTint"]},
+  {"topic": "underlineOffset", "file": "document-model/word/underline-offset.md", "summary": "Open when looking up underlineOffset in InDesign.", "keywords": ["underlineOffset"]},
+  {"topic": "underlineOverprint", "file": "document-model/word/underline-overprint.md", "summary": "Open when looking up underlineOverprint in InDesign.", "keywords": ["underlineOverprint"]},
+  {"topic": "underlineTint", "file": "document-model/word/underline-tint.md", "summary": "Open when looking up underlineTint in InDesign.", "keywords": ["underlineTint"]},
+  {"topic": "underlineType", "file": "document-model/word/underline-type.md", "summary": "Open when looking up underlineType in InDesign.", "keywords": ["underlineType"]},
+  {"topic": "underlineWeight", "file": "document-model/word/underline-weight.md", "summary": "Open when looking up underlineWeight in InDesign.", "keywords": ["underlineWeight"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

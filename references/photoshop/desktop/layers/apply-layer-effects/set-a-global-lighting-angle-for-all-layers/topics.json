@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Set global lighting from a layer effect", "file": "desktop/layers/apply-layer-effects/set-a-global-lighting-angle-for-all-layers/set-global-lighting-from-a-layer-effect.md", "summary": "Open when looking up Set global lighting from a layer effect in Photoshop.", "keywords": ["Set global lighting from a layer effect"]},
+  {"topic": "Set the global lighting angle", "file": "desktop/layers/apply-layer-effects/set-a-global-lighting-angle-for-all-layers/set-the-global-lighting-angle.md", "summary": "Open when looking up Set the global lighting angle in Photoshop.", "keywords": ["Set the global lighting angle"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

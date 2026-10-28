@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "BEVEL_CORNER", "file": "document-model/corner-options/bevelcorner.md", "summary": "Open when looking up BEVEL_CORNER in InDesign.", "keywords": ["BEVEL_CORNER"]},
+  {"topic": "FANCY_CORNER", "file": "document-model/corner-options/fancycorner.md", "summary": "Open when looking up FANCY_CORNER in InDesign.", "keywords": ["FANCY_CORNER"]},
+  {"topic": "INSET_CORNER", "file": "document-model/corner-options/insetcorner.md", "summary": "Open when looking up INSET_CORNER in InDesign.", "keywords": ["INSET_CORNER"]},
+  {"topic": "INVERSE_ROUNDED_CORNER", "file": "document-model/corner-options/inverseroundedcorner.md", "summary": "Open when looking up INVERSE_ROUNDED_CORNER in InDesign.", "keywords": ["INVERSE_ROUNDED_CORNER"]},
+  {"topic": "NONE", "file": "document-model/corner-options/none.md", "summary": "Open when looking up NONE in InDesign.", "keywords": ["NONE"]},
+  {"topic": "ROUNDED_CORNER", "file": "document-model/corner-options/roundedcorner.md", "summary": "Open when looking up ROUNDED_CORNER in InDesign.", "keywords": ["ROUNDED_CORNER"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

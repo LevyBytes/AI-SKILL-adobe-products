@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "DASHED", "file": "references/document-model/hyperlink-appearance-style/dashed.md", "summary": "Open when looking up DASHED in InDesign.", "keywords": ["DASHED"]},
-  {"topic": "SOLID", "file": "references/document-model/hyperlink-appearance-style/solid.md", "summary": "Open when looking up SOLID in InDesign.", "keywords": ["SOLID"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

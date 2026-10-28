@@ -1,0 +1,16 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "AEGP_Dispose", "file": "plugin-sdk/aegp-world-suite3/aegp-dispose.md", "summary": "Open when looking up AEGP_Dispose in After Effects.", "keywords": ["AEGP_Dispose"]},
+  {"topic": "AEGP_DisposePlatformWorld", "file": "plugin-sdk/aegp-world-suite3/aegp-dispose-platform-world.md", "summary": "Open when looking up AEGP_DisposePlatformWorld in After Effects.", "keywords": ["AEGP_DisposePlatformWorld"]},
+  {"topic": "AEGP_FastBlur", "file": "plugin-sdk/aegp-world-suite3/aegp-fast-blur.md", "summary": "Open when looking up AEGP_FastBlur in After Effects.", "keywords": ["AEGP_FastBlur"]},
+  {"topic": "AEGP_FillOutPFEffectWorld", "file": "plugin-sdk/aegp-world-suite3/aegp-fill-out-pf-effect-world.md", "summary": "Open when looking up AEGP_FillOutPFEffectWorld in After Effects.", "keywords": ["AEGP_FillOutPFEffectWorld"]},
+  {"topic": "AEGP_GetBaseAddr16", "file": "plugin-sdk/aegp-world-suite3/aegp-get-base-addr16.md", "summary": "Open when looking up AEGP_GetBaseAddr16 in After Effects.", "keywords": ["AEGP_GetBaseAddr16"]},
+  {"topic": "AEGP_GetBaseAddr32", "file": "plugin-sdk/aegp-world-suite3/aegp-get-base-addr32.md", "summary": "Open when looking up AEGP_GetBaseAddr32 in After Effects.", "keywords": ["AEGP_GetBaseAddr32"]},
+  {"topic": "AEGP_GetBaseAddr8", "file": "plugin-sdk/aegp-world-suite3/aegp-get-base-addr8.md", "summary": "Open when looking up AEGP_GetBaseAddr8 in After Effects.", "keywords": ["AEGP_GetBaseAddr8"]},
+  {"topic": "AEGP_GetRowBytes", "file": "plugin-sdk/aegp-world-suite3/aegp-get-row-bytes.md", "summary": "Open when looking up AEGP_GetRowBytes in After Effects.", "keywords": ["AEGP_GetRowBytes"]},
+  {"topic": "AEGP_GetSize", "file": "plugin-sdk/aegp-world-suite3/aegp-get-size.md", "summary": "Open when looking up AEGP_GetSize in After Effects.", "keywords": ["AEGP_GetSize"]},
+  {"topic": "AEGP_GetType", "file": "plugin-sdk/aegp-world-suite3/aegp-get-type.md", "summary": "Open when looking up AEGP_GetType in After Effects.", "keywords": ["AEGP_GetType"]},
+  {"topic": "AEGP_New", "file": "plugin-sdk/aegp-world-suite3/aegp-new.md", "summary": "Open when looking up AEGP_New in After Effects.", "keywords": ["AEGP_New"]},
+  {"topic": "AEGP_NewPlatformWorld", "file": "plugin-sdk/aegp-world-suite3/aegp-new-platform-world.md", "summary": "Open when looking up AEGP_NewPlatformWorld in After Effects.", "keywords": ["AEGP_NewPlatformWorld"]},
+  {"topic": "AEGP_NewReferenceFromPlatformWorld", "file": "plugin-sdk/aegp-world-suite3/aegp-new-reference-from-platform-world.md", "summary": "Open when looking up AEGP_NewReferenceFromPlatformWorld in After Effects.", "keywords": ["AEGP_NewReferenceFromPlatformWorld"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

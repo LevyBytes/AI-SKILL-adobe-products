@@ -1,7 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "Building the sample projects references", "file": "references/plugin-sdk/building-the-sample-projects/reference-index.md", "summary": "Open when looking up Building the sample projects in After Effects.", "keywords": ["Building the sample projects references"]},
-  {"topic": "Examples references", "file": "references/plugin-sdk/examples/reference-index.md", "summary": "Open when looking up Examples in After Effects.", "keywords": ["Examples references"]},
-  {"topic": "Sample project descriptions references", "file": "references/plugin-sdk/sample-project-descriptions/reference-index.md", "summary": "Open when looking up Sample project descriptions in After Effects.", "keywords": ["Sample project descriptions references"]},
-  {"topic": "Sample Projects", "file": "references/plugin-sdk/sample-projects.md", "summary": "Open when looking up Sample Projects in After Effects.", "keywords": ["Sample Projects"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

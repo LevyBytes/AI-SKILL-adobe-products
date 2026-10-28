@@ -1,0 +1,20 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Book references", "file": "community-types/indesign/book/reference-index.md", "summary": "Open when looking up Book in Shared Adobe platform.", "keywords": ["Book references"]},
+  {"topic": "BookContent references", "file": "community-types/indesign/book-content/reference-index.md", "summary": "Open when looking up BookContent in Shared Adobe platform.", "keywords": ["BookContent references"]},
+  {"topic": "BookContents references", "file": "community-types/indesign/book-contents/reference-index.md", "summary": "Open when looking up BookContents in Shared Adobe platform.", "keywords": ["BookContents references"]},
+  {"topic": "BookContentStatus", "file": "community-types/indesign/book-content-status.md", "summary": "Open when looking up BookContentStatus in Shared Adobe platform.", "keywords": ["BookContentStatus"]},
+  {"topic": "Books references", "file": "community-types/indesign/books/reference-index.md", "summary": "Open when looking up Books in Shared Adobe platform.", "keywords": ["Books references"]},
+  {"topic": "Document references", "file": "community-types/indesign/document/reference-index.md", "summary": "Open when looking up Document in Shared Adobe platform.", "keywords": ["Document references"]},
+  {"topic": "DocumentIntentOptions", "file": "community-types/indesign/document-intent-options.md", "summary": "Open when looking up DocumentIntentOptions in Shared Adobe platform.", "keywords": ["DocumentIntentOptions"]},
+  {"topic": "DocumentPreference references", "file": "community-types/indesign/document-preference/reference-index.md", "summary": "Open when looking up DocumentPreference in Shared Adobe platform.", "keywords": ["DocumentPreference references"]},
+  {"topic": "DocumentPreset references", "file": "community-types/indesign/document-preset/reference-index.md", "summary": "Open when looking up DocumentPreset in Shared Adobe platform.", "keywords": ["DocumentPreset references"]},
+  {"topic": "DocumentPresets references", "file": "community-types/indesign/document-presets/reference-index.md", "summary": "Open when looking up DocumentPresets in Shared Adobe platform.", "keywords": ["DocumentPresets references"]},
+  {"topic": "Documents references", "file": "community-types/indesign/documents/reference-index.md", "summary": "Open when looking up Documents in Shared Adobe platform.", "keywords": ["Documents references"]},
+  {"topic": "EditingState", "file": "community-types/indesign/editing-state.md", "summary": "Open when looking up EditingState in Shared Adobe platform.", "keywords": ["EditingState"]},
+  {"topic": "OpenOptions", "file": "community-types/indesign/open-options.md", "summary": "Open when looking up OpenOptions in Shared Adobe platform.", "keywords": ["OpenOptions"]},
+  {"topic": "SaveOptions", "file": "community-types/indesign/save-options.md", "summary": "Open when looking up SaveOptions in Shared Adobe platform.", "keywords": ["SaveOptions"]},
+  {"topic": "SyncConflictResolution", "file": "community-types/indesign/sync-conflict-resolution.md", "summary": "Open when looking up SyncConflictResolution in Shared Adobe platform.", "keywords": ["SyncConflictResolution"]},
+  {"topic": "VersionCueSyncStatus", "file": "community-types/indesign/version-cue-sync-status.md", "summary": "Open when looking up VersionCueSyncStatus in Shared Adobe platform.", "keywords": ["VersionCueSyncStatus"]},
+  {"topic": "VersionState", "file": "community-types/indesign/version-state.md", "summary": "Open when looking up VersionState in Shared Adobe platform.", "keywords": ["VersionState"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

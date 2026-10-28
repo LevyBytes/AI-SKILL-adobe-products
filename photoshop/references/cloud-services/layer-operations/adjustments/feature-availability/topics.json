@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Coming Soon", "file": "references/cloud-services/layer-operations/adjustments/feature-availability/coming-soon.md", "summary": "Open when looking up Coming Soon in Photoshop.", "keywords": ["Coming Soon"]},
-  {"topic": "Currently Available in V2", "file": "references/cloud-services/layer-operations/adjustments/feature-availability/currently-available-in-v2.md", "summary": "Open when looking up Currently Available in V2 in Photoshop.", "keywords": ["Currently Available in V2"]},
-  {"topic": "Not Applicable to Adjustment Layers", "file": "references/cloud-services/layer-operations/adjustments/feature-availability/not-applicable-to-adjustment-layers.md", "summary": "Open when looking up Not Applicable to Adjustment Layers in Photoshop.", "keywords": ["Not Applicable to Adjustment Layers"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

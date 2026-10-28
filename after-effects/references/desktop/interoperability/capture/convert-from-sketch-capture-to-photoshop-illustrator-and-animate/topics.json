@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "Create a shape in Capture", "file": "references/desktop/interoperability/capture/convert-from-sketch-capture-to-photoshop-illustrator-and-animate/create-a-shape-in-capture.md", "summary": "Open when looking up Create a shape in Capture in After Effects.", "keywords": ["Create a shape in Capture"]},
-  {"topic": "Create a shape in Sketch", "file": "references/desktop/interoperability/capture/convert-from-sketch-capture-to-photoshop-illustrator-and-animate/create-a-shape-in-sketch.md", "summary": "Open when looking up Create a shape in Sketch in After Effects.", "keywords": ["Create a shape in Sketch"]},
-  {"topic": "Import a shape into After Effects and animate it as 2D or 3D", "file": "references/desktop/interoperability/capture/convert-from-sketch-capture-to-photoshop-illustrator-and-animate/capture-shape-animation.md", "summary": "Open when looking up Import a shape into After Effects and animate it as 2D or 3D in After Effects.", "keywords": ["Import a shape into After Effects and animate it as 2D or 3D"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

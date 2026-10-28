@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Full JPEG request migration", "file": "references/cloud-services/output-types-migration/output-types-migration-guide-jpeg-output-migration/full-jpeg-request-migration.md", "summary": "Open when looking up Full JPEG request migration in Photoshop.", "keywords": ["Full JPEG request migration"]},
-  {"topic": "JPEG quality mapping table", "file": "references/cloud-services/output-types-migration/output-types-migration-guide-jpeg-output-migration/jpeg-quality-mapping-table.md", "summary": "Open when looking up JPEG quality mapping table in Photoshop.", "keywords": ["JPEG quality mapping table"]},
-  {"topic": "Quality parameter changes", "file": "references/cloud-services/output-types-migration/output-types-migration-guide-jpeg-output-migration/quality-parameter-changes.md", "summary": "Open when looking up Quality parameter changes in Photoshop.", "keywords": ["Quality parameter changes"]},
-  {"topic": "V1 JPEG quality (numeric)", "file": "references/cloud-services/output-types-migration/output-types-migration-guide-jpeg-output-migration/v1-jpeg-quality-numeric.md", "summary": "Open when looking up V1 JPEG quality (numeric) in Photoshop.", "keywords": ["V1 JPEG quality (numeric)"]},
-  {"topic": "V2 JPEG quality enum", "file": "references/cloud-services/output-types-migration/output-types-migration-guide-jpeg-output-migration/v2-jpeg-quality-enum.md", "summary": "Open when looking up V2 JPEG quality enum in Photoshop.", "keywords": ["V2 JPEG quality enum"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

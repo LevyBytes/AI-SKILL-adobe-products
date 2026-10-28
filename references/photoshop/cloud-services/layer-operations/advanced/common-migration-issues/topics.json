@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Issue: blend mode naming", "file": "cloud-services/layer-operations/advanced/common-migration-issues/issue-blend-mode-naming.md", "summary": "Open when looking up Issue: blend mode naming in Photoshop.", "keywords": ["Issue: blend mode naming"]},
+  {"topic": "Issue: group children structure", "file": "cloud-services/layer-operations/advanced/common-migration-issues/issue-group-children-structure.md", "summary": "Open when looking up Issue: group children structure in Photoshop.", "keywords": ["Issue: group children structure"]},
+  {"topic": "Issue: multiple operations on same layer", "file": "cloud-services/layer-operations/advanced/common-migration-issues/issue-multiple-operations-on-same-layer.md", "summary": "Open when looking up Issue: multiple operations on same layer in Photoshop.", "keywords": ["Issue: multiple operations on same layer"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

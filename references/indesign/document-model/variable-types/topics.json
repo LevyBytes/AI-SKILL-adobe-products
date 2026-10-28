@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "CHAPTER_NUMBER_TYPE", "file": "document-model/variable-types/chapternumbertype.md", "summary": "Open when looking up CHAPTER_NUMBER_TYPE in InDesign.", "keywords": ["CHAPTER_NUMBER_TYPE"]},
+  {"topic": "CREATION_DATE_TYPE", "file": "document-model/variable-types/creationdatetype.md", "summary": "Open when looking up CREATION_DATE_TYPE in InDesign.", "keywords": ["CREATION_DATE_TYPE"]},
+  {"topic": "CUSTOM_TEXT_TYPE", "file": "document-model/variable-types/customtexttype.md", "summary": "Open when looking up CUSTOM_TEXT_TYPE in InDesign.", "keywords": ["CUSTOM_TEXT_TYPE"]},
+  {"topic": "FILE_NAME_TYPE", "file": "document-model/variable-types/filenametype.md", "summary": "Open when looking up FILE_NAME_TYPE in InDesign.", "keywords": ["FILE_NAME_TYPE"]},
+  {"topic": "LAST_PAGE_NUMBER_TYPE", "file": "document-model/variable-types/lastpagenumbertype.md", "summary": "Open when looking up LAST_PAGE_NUMBER_TYPE in InDesign.", "keywords": ["LAST_PAGE_NUMBER_TYPE"]},
+  {"topic": "LIVE_CAPTION_TYPE", "file": "document-model/variable-types/livecaptiontype.md", "summary": "Open when looking up LIVE_CAPTION_TYPE in InDesign.", "keywords": ["LIVE_CAPTION_TYPE"]},
+  {"topic": "MATCH_CHARACTER_STYLE_TYPE", "file": "document-model/variable-types/matchcharacterstyletype.md", "summary": "Open when looking up MATCH_CHARACTER_STYLE_TYPE in InDesign.", "keywords": ["MATCH_CHARACTER_STYLE_TYPE"]},
+  {"topic": "MATCH_PARAGRAPH_STYLE_TYPE", "file": "document-model/variable-types/matchparagraphstyletype.md", "summary": "Open when looking up MATCH_PARAGRAPH_STYLE_TYPE in InDesign.", "keywords": ["MATCH_PARAGRAPH_STYLE_TYPE"]},
+  {"topic": "MODIFICATION_DATE_TYPE", "file": "document-model/variable-types/modificationdatetype.md", "summary": "Open when looking up MODIFICATION_DATE_TYPE in InDesign.", "keywords": ["MODIFICATION_DATE_TYPE"]},
+  {"topic": "OUTPUT_DATE_TYPE", "file": "document-model/variable-types/outputdatetype.md", "summary": "Open when looking up OUTPUT_DATE_TYPE in InDesign.", "keywords": ["OUTPUT_DATE_TYPE"]},
+  {"topic": "XREF_CHAPTER_NUMBER_TYPE", "file": "document-model/variable-types/xrefchapternumbertype.md", "summary": "Open when looking up XREF_CHAPTER_NUMBER_TYPE in InDesign.", "keywords": ["XREF_CHAPTER_NUMBER_TYPE"]},
+  {"topic": "XREF_PAGE_NUMBER_TYPE", "file": "document-model/variable-types/xrefpagenumbertype.md", "summary": "Open when looking up XREF_PAGE_NUMBER_TYPE in InDesign.", "keywords": ["XREF_PAGE_NUMBER_TYPE"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "macOS", "file": "references/desktop/protect-documents/mitigate-security-risks/allow-or-block-links-to-other-websites/mac-os.md", "summary": "Open when looking up macOS in Acrobat.", "keywords": ["macOS"]},
-  {"topic": "Windows", "file": "references/desktop/protect-documents/mitigate-security-risks/allow-or-block-links-to-other-websites/windows.md", "summary": "Open when looking up Windows in Acrobat.", "keywords": ["Windows"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

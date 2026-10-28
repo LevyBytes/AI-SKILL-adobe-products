@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Cause", "file": "references/desktop/troubleshoot/compatibility/rosetta-native-mode/cause.md", "summary": "Open when looking up Cause in Acrobat.", "keywords": ["Cause"]},
-  {"topic": "Check whether Acrobat is running in native Apple Silicon mode or Rosetta", "file": "references/desktop/troubleshoot/compatibility/rosetta-native-mode/identify-native-or-rosetta-mode.md", "summary": "Open when looking up Check whether Acrobat is running in native Apple Silicon mode or Rosetta in Acrobat.", "keywords": ["Check whether Acrobat is running in native Apple Silicon mode or Rosetta"]},
-  {"topic": "Switch Acrobat to native Apple Silicon mode", "file": "references/desktop/troubleshoot/compatibility/rosetta-native-mode/switch-acrobat-to-native-apple-silicon-mode.md", "summary": "Open when looking up Switch Acrobat to native Apple Silicon mode in Acrobat.", "keywords": ["Switch Acrobat to native Apple Silicon mode"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

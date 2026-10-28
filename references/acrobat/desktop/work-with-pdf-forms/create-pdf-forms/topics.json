@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Align form fields", "file": "desktop/work-with-pdf-forms/create-pdf-forms/align-form-fields.md", "summary": "Open when looking up Align form fields in Acrobat.", "keywords": ["Align form fields"]},
+  {"topic": "Convert documents to PDF forms", "file": "desktop/work-with-pdf-forms/create-pdf-forms/convert-documents-to-pdf-forms.md", "summary": "Open when looking up Convert documents to PDF forms in Acrobat.", "keywords": ["Convert documents to PDF forms"]},
+  {"topic": "Copy form fields", "file": "desktop/work-with-pdf-forms/create-pdf-forms/copy-form-fields.md", "summary": "Open when looking up Copy form fields in Acrobat.", "keywords": ["Copy form fields"]},
+  {"topic": "Copy form fields references", "file": "desktop/work-with-pdf-forms/create-pdf-forms/copy-form-fields/reference-index.md", "summary": "Open when looking up Copy form fields in Acrobat.", "keywords": ["Copy form fields references"]},
+  {"topic": "Create PDF forms from scratch", "file": "desktop/work-with-pdf-forms/create-pdf-forms/create-pdf-forms-from-scratch.md", "summary": "Open when looking up Create PDF forms from scratch in Acrobat.", "keywords": ["Create PDF forms from scratch"]},
+  {"topic": "Enable filling and saving rights in PDF forms for Acrobat Reader users", "file": "desktop/work-with-pdf-forms/create-pdf-forms/reader-form-filling-and-saving-rights.md", "summary": "Open when looking up Enable filling and saving rights in PDF forms for Acrobat Reader users in Acrobat.", "keywords": ["Enable filling and saving rights in PDF forms for Acrobat Reader users"]},
+  {"topic": "Move form fields", "file": "desktop/work-with-pdf-forms/create-pdf-forms/move-form-fields.md", "summary": "Open when looking up Move form fields in Acrobat.", "keywords": ["Move form fields"]},
+  {"topic": "Select multiple form fields", "file": "desktop/work-with-pdf-forms/create-pdf-forms/select-multiple-form-fields.md", "summary": "Open when looking up Select multiple form fields in Acrobat.", "keywords": ["Select multiple form fields"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

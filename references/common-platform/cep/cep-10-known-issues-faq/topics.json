@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "CEP 10 Windows file-size limit for cep.fs.stat", "file": "cep/cep-10-known-issues-faq/windows-large-file-stat.md", "summary": "Open when looking up CEP 10 Windows file-size limit for cep.fs.stat in Shared Adobe platform.", "keywords": ["CEP 10 Windows file-size limit for cep.fs.stat"]},
+  {"topic": "Drag events while debugging CEP 10 extensions", "file": "cep/cep-10-known-issues-faq/debugger-drag-events.md", "summary": "Open when looking up Drag events while debugging CEP 10 extensions in Shared Adobe platform.", "keywords": ["Drag events while debugging CEP 10 extensions"]},
+  {"topic": "FAQ", "file": "cep/cep-10-known-issues-faq/faq.md", "summary": "Open when looking up FAQ in Shared Adobe platform.", "keywords": ["FAQ"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

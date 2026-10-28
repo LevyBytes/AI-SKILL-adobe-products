@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "First-Party Effect Match Names - 3D Channel", "file": "scripting/3-d-channel/first-party-effect-match-names-3-d-channel.md", "summary": "Open when looking up First-Party Effect Match Names - 3D Channel in After Effects.", "keywords": ["First-Party Effect Match Names - 3D Channel"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/firefly", "topics": [
+  {"topic": "Generate vectors using text prompts", "file": "web/generate-vectors/text-to-vector/generate-vectors-using-text-prompts.md", "summary": "Open when looking up Generate vectors using text prompts in Firefly.", "keywords": ["Generate vectors using text prompts"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Blame references", "file": "plugin-sdk/blame/reference-index.md", "summary": "Open when looking up Blame in After Effects.", "keywords": ["Blame references"]},
+  {"topic": "Developers matter references", "file": "plugin-sdk/developers-matter/reference-index.md", "summary": "Open when looking up Developers matter in After Effects.", "keywords": ["Developers matter references"]},
+  {"topic": "Hack references", "file": "plugin-sdk/hack/reference-index.md", "summary": "Open when looking up Hack in After Effects.", "keywords": ["Hack references"]},
+  {"topic": "Plan references", "file": "plugin-sdk/plan/reference-index.md", "summary": "Open when looking up Plan in After Effects.", "keywords": ["Plan references"]},
+  {"topic": "Play references", "file": "plugin-sdk/play/reference-index.md", "summary": "Open when looking up Play in After Effects.", "keywords": ["Play references"]},
+  {"topic": "Steal references", "file": "plugin-sdk/steal/reference-index.md", "summary": "Open when looking up Steal in After Effects.", "keywords": ["Steal references"]},
+  {"topic": "Test references", "file": "plugin-sdk/test/reference-index.md", "summary": "Open when looking up Test in After Effects.", "keywords": ["Test references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

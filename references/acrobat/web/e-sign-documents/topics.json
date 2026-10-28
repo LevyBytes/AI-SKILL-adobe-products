@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Add e-sign branding", "file": "web/e-sign-documents/add-e-sign-branding.md", "summary": "Open when looking up Add e-sign branding in Acrobat.", "keywords": ["Add e-sign branding"]},
+  {"topic": "Add e-sign branding references", "file": "web/e-sign-documents/add-e-sign-branding/reference-index.md", "summary": "Open when looking up Add e-sign branding in Acrobat.", "keywords": ["Add e-sign branding references"]},
+  {"topic": "Collect online payments", "file": "web/e-sign-documents/collect-online-payments.md", "summary": "Open when looking up Collect online payments in Acrobat.", "keywords": ["Collect online payments"]},
+  {"topic": "Collect online payments references", "file": "web/e-sign-documents/collect-online-payments/reference-index.md", "summary": "Open when looking up Collect online payments in Acrobat.", "keywords": ["Collect online payments references"]},
+  {"topic": "Fill and sign", "file": "web/e-sign-documents/fill-and-sign.md", "summary": "Open when looking up Fill and sign in Acrobat.", "keywords": ["Fill and sign"]},
+  {"topic": "Fill and sign references", "file": "web/e-sign-documents/fill-and-sign/reference-index.md", "summary": "Open when looking up Fill and sign in Acrobat.", "keywords": ["Fill and sign references"]},
+  {"topic": "Manage agreements", "file": "web/e-sign-documents/manage-agreements.md", "summary": "Open when looking up Manage agreements in Acrobat.", "keywords": ["Manage agreements"]},
+  {"topic": "Manage agreements references", "file": "web/e-sign-documents/manage-agreements/reference-index.md", "summary": "Open when looking up Manage agreements in Acrobat.", "keywords": ["Manage agreements references"]},
+  {"topic": "Request e-signatures", "file": "web/e-sign-documents/request-e-signatures.md", "summary": "Open when looking up Request e-signatures in Acrobat.", "keywords": ["Request e-signatures"]},
+  {"topic": "Request e-signatures references", "file": "web/e-sign-documents/request-e-signatures/reference-index.md", "summary": "Open when looking up Request e-signatures in Acrobat.", "keywords": ["Request e-signatures references"]},
+  {"topic": "Work with Webforms", "file": "web/e-sign-documents/work-with-webforms.md", "summary": "Open when looking up Work with Webforms in Acrobat.", "keywords": ["Work with Webforms"]},
+  {"topic": "Work with Webforms references", "file": "web/e-sign-documents/work-with-webforms/reference-index.md", "summary": "Open when looking up Work with Webforms in Acrobat.", "keywords": ["Work with Webforms references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "ImageBlob(arrayBuffer, options)", "file": "references/uxp/image-blob/image-blob.md", "summary": "Open when looking up ImageBlob(arrayBuffer, options) in Premiere Pro.", "keywords": ["ImageBlob(arrayBuffer, options)"]},
-  {"topic": "window.ImageBlob", "file": "references/uxp/image-blob/overview.md", "summary": "Open when looking up window.ImageBlob in Premiere Pro.", "keywords": ["window.ImageBlob"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

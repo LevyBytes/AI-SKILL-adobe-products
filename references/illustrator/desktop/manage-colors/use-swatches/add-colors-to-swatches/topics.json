@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "Add all document colors", "file": "desktop/manage-colors/use-swatches/add-colors-to-swatches/add-all-document-colors.md", "summary": "Open when looking up Add all document colors in Illustrator.", "keywords": ["Add all document colors"]},
+  {"topic": "Add colors from selected artwork", "file": "desktop/manage-colors/use-swatches/add-colors-to-swatches/add-colors-from-selected-artwork.md", "summary": "Open when looking up Add colors from selected artwork in Illustrator.", "keywords": ["Add colors from selected artwork"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "ALL", "file": "document-model/sequences/all.md", "summary": "Open when looking up ALL in InDesign.", "keywords": ["ALL"]},
+  {"topic": "EVEN", "file": "document-model/sequences/even.md", "summary": "Open when looking up EVEN in InDesign.", "keywords": ["EVEN"]},
+  {"topic": "ODD", "file": "document-model/sequences/odd.md", "summary": "Open when looking up ODD in InDesign.", "keywords": ["ODD"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

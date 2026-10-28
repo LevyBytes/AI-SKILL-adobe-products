@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "ALL", "file": "document-model/digpub-version/all.md", "summary": "Open when looking up ALL in InDesign.", "keywords": ["ALL"]},
+  {"topic": "FOLIO", "file": "document-model/digpub-version/folio.md", "summary": "Open when looking up FOLIO in InDesign.", "keywords": ["FOLIO"]},
+  {"topic": "PLIST", "file": "document-model/digpub-version/plist.md", "summary": "Open when looking up PLIST in InDesign.", "keywords": ["PLIST"]},
+  {"topic": "PLUGIN", "file": "document-model/digpub-version/plugin.md", "summary": "Open when looking up PLUGIN in InDesign.", "keywords": ["PLUGIN"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

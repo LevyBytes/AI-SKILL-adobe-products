@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "JavaScript APIs - PlayerInfoList", "file": "scripting/player-info-list/java-script-apis-player-info-list.md", "summary": "Open when looking up JavaScript APIs - PlayerInfoList in Acrobat.", "keywords": ["JavaScript APIs - PlayerInfoList"]},
+  {"topic": "select", "file": "scripting/player-info-list/select.md", "summary": "Open when looking up select in Acrobat.", "keywords": ["select"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

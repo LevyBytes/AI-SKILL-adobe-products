@@ -1,9 +1,0 @@
-{"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "AEGP_GetGlobalContextFromInstanceContext", "file": "references/plugin-sdk/aegp-artisan-util-suite1/aegp-get-global-context-from-instance-context.md", "summary": "Open when looking up AEGP_GetGlobalContextFromInstanceContext in After Effects.", "keywords": ["AEGP_GetGlobalContextFromInstanceContext"]},
-  {"topic": "AEGP_GetGlobalData", "file": "references/plugin-sdk/aegp-artisan-util-suite1/aegp-get-global-data.md", "summary": "Open when looking up AEGP_GetGlobalData in After Effects.", "keywords": ["AEGP_GetGlobalData"]},
-  {"topic": "AEGP_GetInstanceContextFromQueryContext", "file": "references/plugin-sdk/aegp-artisan-util-suite1/aegp-get-instance-context-from-query-context.md", "summary": "Open when looking up AEGP_GetInstanceContextFromQueryContext in After Effects.", "keywords": ["AEGP_GetInstanceContextFromQueryContext"]},
-  {"topic": "AEGP_GetInstanceContextFromRenderContext", "file": "references/plugin-sdk/aegp-artisan-util-suite1/aegp-get-instance-context-from-render-context.md", "summary": "Open when looking up AEGP_GetInstanceContextFromRenderContext in After Effects.", "keywords": ["AEGP_GetInstanceContextFromRenderContext"]},
-  {"topic": "AEGP_GetInstanceData", "file": "references/plugin-sdk/aegp-artisan-util-suite1/aegp-get-instance-data.md", "summary": "Open when looking up AEGP_GetInstanceData in After Effects.", "keywords": ["AEGP_GetInstanceData"]},
-  {"topic": "AEGP_GetRenderData", "file": "references/plugin-sdk/aegp-artisan-util-suite1/aegp-get-render-data.md", "summary": "Open when looking up AEGP_GetRenderData in After Effects.", "keywords": ["AEGP_GetRenderData"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

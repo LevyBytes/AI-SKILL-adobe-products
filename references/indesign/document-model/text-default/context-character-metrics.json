@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "autoLeading", "file": "document-model/text-default/auto-leading.md", "summary": "Open when looking up autoLeading in InDesign.", "keywords": ["autoLeading"]},
+  {"topic": "baselineShift", "file": "document-model/text-default/baseline-shift.md", "summary": "Open when looking up baselineShift in InDesign.", "keywords": ["baselineShift"]},
+  {"topic": "characterRotation", "file": "document-model/text-default/character-rotation.md", "summary": "Open when looking up characterRotation in InDesign.", "keywords": ["characterRotation"]},
+  {"topic": "horizontalScale", "file": "document-model/text-default/horizontal-scale.md", "summary": "Open when looking up horizontalScale in InDesign.", "keywords": ["horizontalScale"]},
+  {"topic": "kerningMethod", "file": "document-model/text-default/kerning-method.md", "summary": "Open when looking up kerningMethod in InDesign.", "keywords": ["kerningMethod"]},
+  {"topic": "leading", "file": "document-model/text-default/leading.md", "summary": "Open when looking up leading in InDesign.", "keywords": ["leading"]},
+  {"topic": "leadingModel", "file": "document-model/text-default/leading-model.md", "summary": "Open when looking up leadingModel in InDesign.", "keywords": ["leadingModel"]},
+  {"topic": "position", "file": "document-model/text-default/position.md", "summary": "Open when looking up position in InDesign.", "keywords": ["position"]},
+  {"topic": "scaleAffectsLineHeight", "file": "document-model/text-default/scale-affects-line-height.md", "summary": "Open when looking up scaleAffectsLineHeight in InDesign.", "keywords": ["scaleAffectsLineHeight"]},
+  {"topic": "skew", "file": "document-model/text-default/skew.md", "summary": "Open when looking up skew in InDesign.", "keywords": ["skew"]},
+  {"topic": "tracking", "file": "document-model/text-default/tracking.md", "summary": "Open when looking up tracking in InDesign.", "keywords": ["tracking"]},
+  {"topic": "verticalScale", "file": "document-model/text-default/vertical-scale.md", "summary": "Open when looking up verticalScale in InDesign.", "keywords": ["verticalScale"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

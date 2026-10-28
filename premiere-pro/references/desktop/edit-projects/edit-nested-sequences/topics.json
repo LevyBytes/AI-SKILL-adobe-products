@@ -1,8 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "About nested sequences", "file": "references/desktop/edit-projects/edit-nested-sequences/about-nested-sequences.md", "summary": "Open when looking up About nested sequences in Premiere Pro.", "keywords": ["About nested sequences"]},
-  {"topic": "About nested sequences references", "file": "references/desktop/edit-projects/edit-nested-sequences/about-nested-sequences/reference-index.md", "summary": "Open when looking up About nested sequences in Premiere Pro.", "keywords": ["About nested sequences references"]},
-  {"topic": "Nest a sequence in another sequence", "file": "references/desktop/edit-projects/edit-nested-sequences/nest-a-sequence-in-another-sequence.md", "summary": "Open when looking up Nest a sequence in another sequence in Premiere Pro.", "keywords": ["Nest a sequence in another sequence"]},
-  {"topic": "Nest a sequence in another sequence references", "file": "references/desktop/edit-projects/edit-nested-sequences/nest-a-sequence-in-another-sequence/reference-index.md", "summary": "Open when looking up Nest a sequence in another sequence in Premiere Pro.", "keywords": ["Nest a sequence in another sequence references"]},
-  {"topic": "Reveal a clip in a nested source sequence", "file": "references/desktop/edit-projects/edit-nested-sequences/reveal-a-clip-in-a-nested-source-sequence.md", "summary": "Open when looking up Reveal a clip in a nested source sequence in Premiere Pro.", "keywords": ["Reveal a clip in a nested source sequence"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

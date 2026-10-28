@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "AEIOs - Registering Your AEIO", "file": "plugin-sdk/registering-your-aeio/aeios-registering-your-aeio.md", "summary": "Open when looking up AEIOs - Registering Your AEIO in After Effects.", "keywords": ["AEIOs - Registering Your AEIO"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

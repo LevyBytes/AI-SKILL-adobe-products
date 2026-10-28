@@ -1,0 +1,19 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Changelog", "file": "scripting/changelog.md", "summary": "Open when looking up Changelog in After Effects.", "keywords": ["Changelog"]},
+  {"topic": "After effects 9 references", "file": "scripting/after-effects-9/reference-index.md", "summary": "Open when looking up After effects 9 in After Effects.", "keywords": ["After effects 9 references"]},
+  {"topic": "After effects 10 references", "file": "scripting/after-effects-10/reference-index.md", "summary": "Open when looking up After effects 10 in After Effects.", "keywords": ["After effects 10 references"]},
+  {"topic": "After effects 11 references", "file": "scripting/after-effects-11/reference-index.md", "summary": "Open when looking up After effects 11 in After Effects.", "keywords": ["After effects 11 references"]},
+  {"topic": "After effects 12 references", "file": "scripting/after-effects-12/reference-index.md", "summary": "Open when looking up After effects 12 in After Effects.", "keywords": ["After effects 12 references"]},
+  {"topic": "After effects 13 references", "file": "scripting/after-effects-13/reference-index.md", "summary": "Open when looking up After effects 13 in After Effects.", "keywords": ["After effects 13 references"]},
+  {"topic": "After effects 14 references", "file": "scripting/after-effects-14/reference-index.md", "summary": "Open when looking up After effects 14 in After Effects.", "keywords": ["After effects 14 references"]},
+  {"topic": "After effects 15 references", "file": "scripting/after-effects-15/reference-index.md", "summary": "Open when looking up After effects 15 in After Effects.", "keywords": ["After effects 15 references"]},
+  {"topic": "After effects 16 references", "file": "scripting/after-effects-16/reference-index.md", "summary": "Open when looking up After effects 16 in After Effects.", "keywords": ["After effects 16 references"]},
+  {"topic": "After effects 17 references", "file": "scripting/after-effects-17/reference-index.md", "summary": "Open when looking up After effects 17 in After Effects.", "keywords": ["After effects 17 references"]},
+  {"topic": "After effects 18 references", "file": "scripting/after-effects-18/reference-index.md", "summary": "Open when looking up After effects 18 in After Effects.", "keywords": ["After effects 18 references"]},
+  {"topic": "After effects 22 references", "file": "scripting/after-effects-22/reference-index.md", "summary": "Open when looking up After effects 22 in After Effects.", "keywords": ["After effects 22 references"]},
+  {"topic": "After effects 23 references", "file": "scripting/after-effects-23/reference-index.md", "summary": "Open when looking up After effects 23 in After Effects.", "keywords": ["After effects 23 references"]},
+  {"topic": "After effects 24 references", "file": "scripting/after-effects-24/reference-index.md", "summary": "Open when looking up After effects 24 in After Effects.", "keywords": ["After effects 24 references"]},
+  {"topic": "After effects 25 references", "file": "scripting/after-effects-25/reference-index.md", "summary": "Open when looking up After effects 25 in After Effects.", "keywords": ["After effects 25 references"]},
+  {"topic": "After effects 26 references", "file": "scripting/after-effects-26/reference-index.md", "summary": "Open when looking up After effects 26 in After Effects.", "keywords": ["After effects 26 references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

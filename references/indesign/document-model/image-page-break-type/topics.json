@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/indesign", "topics": [
+  {"topic": "PAGE_BREAK_AFTER", "file": "document-model/image-page-break-type/pagebreakafter.md", "summary": "Open when looking up PAGE_BREAK_AFTER in InDesign.", "keywords": ["PAGE_BREAK_AFTER"]},
+  {"topic": "PAGE_BREAK_BEFORE", "file": "document-model/image-page-break-type/pagebreakbefore.md", "summary": "Open when looking up PAGE_BREAK_BEFORE in InDesign.", "keywords": ["PAGE_BREAK_BEFORE"]},
+  {"topic": "PAGE_BREAK_BEFORE_AND_AFTER", "file": "document-model/image-page-break-type/pagebreakbeforeandafter.md", "summary": "Open when looking up PAGE_BREAK_BEFORE_AND_AFTER in InDesign.", "keywords": ["PAGE_BREAK_BEFORE_AND_AFTER"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

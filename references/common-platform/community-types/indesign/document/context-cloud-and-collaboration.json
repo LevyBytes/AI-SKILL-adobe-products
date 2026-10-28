@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/common-platform", "topics": [
+  {"topic": "Document.assignments", "file": "community-types/indesign/document/assignments.md", "summary": "Open when looking up Document.assignments in Shared Adobe platform.", "keywords": ["Document.assignments"]},
+  {"topic": "Document.checkIn", "file": "community-types/indesign/document/check-in.md", "summary": "Open when looking up Document.checkIn in Shared Adobe platform.", "keywords": ["Document.checkIn"]},
+  {"topic": "Document.cloudPath", "file": "community-types/indesign/document/cloud-path.md", "summary": "Open when looking up Document.cloudPath in Shared Adobe platform.", "keywords": ["Document.cloudPath"]},
+  {"topic": "Document.exportForCloudLibrary", "file": "community-types/indesign/document/export-for-cloud-library.md", "summary": "Open when looking up Document.exportForCloudLibrary in Shared Adobe platform.", "keywords": ["Document.exportForCloudLibrary"]},
+  {"topic": "Document.isCloudDocument", "file": "community-types/indesign/document/is-cloud-document.md", "summary": "Open when looking up Document.isCloudDocument in Shared Adobe platform.", "keywords": ["Document.isCloudDocument"]},
+  {"topic": "Document.placeCloudAsset", "file": "community-types/indesign/document/place-cloud-asset.md", "summary": "Open when looking up Document.placeCloudAsset in Shared Adobe platform.", "keywords": ["Document.placeCloudAsset"]},
+  {"topic": "Document.revertToProject", "file": "community-types/indesign/document/revert-to-project.md", "summary": "Open when looking up Document.revertToProject in Shared Adobe platform.", "keywords": ["Document.revertToProject"]},
+  {"topic": "Document.saveACopyCloud", "file": "community-types/indesign/document/save-a-copy-cloud.md", "summary": "Open when looking up Document.saveACopyCloud in Shared Adobe platform.", "keywords": ["Document.saveACopyCloud"]},
+  {"topic": "Document.saveAsCloud", "file": "community-types/indesign/document/save-as-cloud.md", "summary": "Open when looking up Document.saveAsCloud in Shared Adobe platform.", "keywords": ["Document.saveAsCloud"]},
+  {"topic": "Document.synchronizeWithVersionCue", "file": "community-types/indesign/document/synchronize-with-version-cue.md", "summary": "Open when looking up Document.synchronizeWithVersionCue in Shared Adobe platform.", "keywords": ["Document.synchronizeWithVersionCue"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

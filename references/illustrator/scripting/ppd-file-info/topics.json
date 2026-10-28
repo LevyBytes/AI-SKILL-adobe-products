@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/illustrator", "topics": [
+  {"topic": "PPDFileInfo.languageLevel", "file": "scripting/ppd-file-info/language-level.md", "summary": "Open when looking up PPDFileInfo.languageLevel in Illustrator.", "keywords": ["PPDFileInfo.languageLevel"]},
+  {"topic": "PPDFileInfo.PPDFilePath", "file": "scripting/ppd-file-info/ppd-file-path.md", "summary": "Open when looking up PPDFileInfo.PPDFilePath in Illustrator.", "keywords": ["PPDFileInfo.PPDFilePath"]},
+  {"topic": "PPDFileInfo.screenList", "file": "scripting/ppd-file-info/screen-list.md", "summary": "Open when looking up PPDFileInfo.screenList in Illustrator.", "keywords": ["PPDFileInfo.screenList"]},
+  {"topic": "PPDFileInfo.screenSpotFunctionList", "file": "scripting/ppd-file-info/screen-spot-function-list.md", "summary": "Open when looking up PPDFileInfo.screenSpotFunctionList in Illustrator.", "keywords": ["PPDFileInfo.screenSpotFunctionList"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

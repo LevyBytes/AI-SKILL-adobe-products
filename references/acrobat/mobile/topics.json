@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "Create PDF Spaces on mobile", "file": "mobile/create-pdf-spaces-on-mobile.md", "summary": "Open when looking up Create PDF Spaces on mobile in Acrobat.", "keywords": ["Create PDF Spaces on mobile"]},
+  {"topic": "Create podcasts in Acrobat on mobile", "file": "mobile/create-podcasts-in-acrobat-on-mobile.md", "summary": "Open when looking up Create podcasts in Acrobat on mobile in Acrobat.", "keywords": ["Create podcasts in Acrobat on mobile"]},
+  {"topic": "Share PDF Spaces on mobile", "file": "mobile/share-pdf-spaces-on-mobile.md", "summary": "Open when looking up Share PDF Spaces on mobile in Acrobat.", "keywords": ["Share PDF Spaces on mobile"]},
+  {"topic": "Use personalized AI Assistant in PDF Spaces on mobile", "file": "mobile/use-personalized-ai-assistant-in-pdf-spaces-on-mobile.md", "summary": "Open when looking up Use personalized AI Assistant in PDF Spaces on mobile in Acrobat.", "keywords": ["Use personalized AI Assistant in PDF Spaces on mobile"]},
+  {"topic": "Use personalized AI Assistant in PDF Spaces on mobile references", "file": "mobile/use-personalized-ai-assistant-in-pdf-spaces-on-mobile/reference-index.md", "summary": "Open when looking up Use personalized AI Assistant in PDF Spaces on mobile in Acrobat.", "keywords": ["Use personalized AI Assistant in PDF Spaces on mobile references"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

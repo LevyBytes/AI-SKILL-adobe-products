@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/acrobat", "topics": [
+  {"topic": "JavaScript APIs - ColumnInfo", "file": "scripting/column-info/java-script-apis-column-info.md", "summary": "Open when looking up JavaScript APIs - ColumnInfo in Acrobat.", "keywords": ["JavaScript APIs - ColumnInfo"]},
+  {"topic": "name", "file": "scripting/column-info/name.md", "summary": "Open when looking up name in Acrobat.", "keywords": ["name"]},
+  {"topic": "typeName", "file": "scripting/column-info/type-name.md", "summary": "Open when looking up typeName in Acrobat.", "keywords": ["typeName"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

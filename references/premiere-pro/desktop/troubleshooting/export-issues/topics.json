@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "Unable to find the cause of render or export issue", "file": "desktop/troubleshooting/export-issues/unable-to-find-the-cause-of-render-or-export-issue.md", "summary": "Open when looking up Unable to find the cause of render or export issue in Premiere Pro.", "keywords": ["Unable to find the cause of render or export issue"]},
+  {"topic": "Unable to render or export Premiere project", "file": "desktop/troubleshooting/export-issues/unable-to-render-or-export-premiere-project.md", "summary": "Open when looking up Unable to render or export Premiere project in Premiere Pro.", "keywords": ["Unable to render or export Premiere project"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

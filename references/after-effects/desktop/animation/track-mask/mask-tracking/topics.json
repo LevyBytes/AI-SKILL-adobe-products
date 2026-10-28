@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Before you begin", "file": "desktop/animation/track-mask/mask-tracking/before-you-begin.md", "summary": "Open when looking up Before you begin in After Effects.", "keywords": ["Before you begin"]},
+  {"topic": "Other considerations when using the mask tracker", "file": "desktop/animation/track-mask/mask-tracking/other-considerations-when-using-the-mask-tracker.md", "summary": "Open when looking up Other considerations when using the mask tracker in After Effects.", "keywords": ["Other considerations when using the mask tracker"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

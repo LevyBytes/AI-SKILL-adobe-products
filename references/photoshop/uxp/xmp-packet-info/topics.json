@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "charForm : number", "file": "uxp/xmp-packet-info/char-form-number.md", "summary": "Open when looking up charForm : number in Photoshop.", "keywords": ["charForm : number"]},
+  {"topic": "length : number", "file": "uxp/xmp-packet-info/length-number.md", "summary": "Open when looking up length : number in Photoshop.", "keywords": ["length : number"]},
+  {"topic": "offset : number", "file": "uxp/xmp-packet-info/offset-number.md", "summary": "Open when looking up offset : number in Photoshop.", "keywords": ["offset : number"]},
+  {"topic": "packet : string", "file": "uxp/xmp-packet-info/packet-string.md", "summary": "Open when looking up packet : string in Photoshop.", "keywords": ["packet : string"]},
+  {"topic": "padSize : number", "file": "uxp/xmp-packet-info/pad-size-number.md", "summary": "Open when looking up padSize : number in Photoshop.", "keywords": ["padSize : number"]},
+  {"topic": "writeable : boolean", "file": "uxp/xmp-packet-info/writeable-boolean.md", "summary": "Open when looking up writeable : boolean in Photoshop.", "keywords": ["writeable : boolean"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

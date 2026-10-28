@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "references/premiere-pro", "topics": [
+  {"topic": "append(name, value)", "file": "uxp/network-and-data/headers/append.md", "summary": "Open when looking up append(name, value) in Premiere Pro.", "keywords": ["append(name, value)"]},
+  {"topic": "delete(name)", "file": "uxp/network-and-data/headers/delete.md", "summary": "Open when looking up delete(name) in Premiere Pro.", "keywords": ["delete(name)"]},
+  {"topic": "entries()", "file": "uxp/network-and-data/headers/entries.md", "summary": "Open when looking up entries() in Premiere Pro.", "keywords": ["entries()"]},
+  {"topic": "forEach(callbackFn, thisArg)", "file": "uxp/network-and-data/headers/for-each.md", "summary": "Open when looking up forEach(callbackFn, thisArg) in Premiere Pro.", "keywords": ["forEach(callbackFn, thisArg)"]},
+  {"topic": "get(name)", "file": "uxp/network-and-data/headers/get.md", "summary": "Open when looking up get(name) in Premiere Pro.", "keywords": ["get(name)"]},
+  {"topic": "has(name)", "file": "uxp/network-and-data/headers/has.md", "summary": "Open when looking up has(name) in Premiere Pro.", "keywords": ["has(name)"]},
+  {"topic": "Headers([init])", "file": "uxp/network-and-data/headers/headers.md", "summary": "Open when looking up Headers([init]) in Premiere Pro.", "keywords": ["Headers([init])"]},
+  {"topic": "keys()", "file": "uxp/network-and-data/headers/keys.md", "summary": "Open when looking up keys() in Premiere Pro.", "keywords": ["keys()"]},
+  {"topic": "set(name, value)", "file": "uxp/network-and-data/headers/set.md", "summary": "Open when looking up set(name, value) in Premiere Pro.", "keywords": ["set(name, value)"]},
+  {"topic": "values()", "file": "uxp/network-and-data/headers/values.md", "summary": "Open when looking up values() in Premiere Pro.", "keywords": ["values()"]},
+  {"topic": "window.Headers", "file": "uxp/network-and-data/headers/overview.md", "summary": "Open when looking up window.Headers in Premiere Pro.", "keywords": ["window.Headers"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

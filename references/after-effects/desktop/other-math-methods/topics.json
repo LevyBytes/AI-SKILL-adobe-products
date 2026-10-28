@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "degreesToRadians(degrees)", "file": "desktop/other-math-methods/degrees-to-radians.md", "summary": "Open when looking up degreesToRadians(degrees) in After Effects.", "keywords": ["degreesToRadians(degrees)"]},
+  {"topic": "radiansToDegrees(radians)", "file": "desktop/other-math-methods/radians-to-degrees.md", "summary": "Open when looking up radiansToDegrees(radians) in After Effects.", "keywords": ["radiansToDegrees(radians)"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

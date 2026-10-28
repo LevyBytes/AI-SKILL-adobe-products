@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/photoshop", "topics": [
+  {"topic": "Artboard information in the JSON Manifest", "file": "cloud-services/artboards/artboard-information-in-the-json-manifest.md", "summary": "Open when looking up Artboard information in the JSON Manifest in Photoshop.", "keywords": ["Artboard information in the JSON Manifest"]},
+  {"topic": "Create a new artboard from multiple input images", "file": "cloud-services/artboards/create-a-new-artboard-from-multiple-input-images.md", "summary": "Open when looking up Create a new artboard from multiple input images in Photoshop.", "keywords": ["Create a new artboard from multiple input images"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

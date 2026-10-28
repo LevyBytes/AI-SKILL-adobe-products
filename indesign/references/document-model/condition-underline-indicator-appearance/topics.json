@@ -1,6 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "DASHED", "file": "references/document-model/condition-underline-indicator-appearance/dashed.md", "summary": "Open when looking up DASHED in InDesign.", "keywords": ["DASHED"]},
-  {"topic": "SOLID", "file": "references/document-model/condition-underline-indicator-appearance/solid.md", "summary": "Open when looking up SOLID in InDesign.", "keywords": ["SOLID"]},
-  {"topic": "WAVY", "file": "references/document-model/condition-underline-indicator-appearance/wavy.md", "summary": "Open when looking up WAVY in InDesign.", "keywords": ["WAVY"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

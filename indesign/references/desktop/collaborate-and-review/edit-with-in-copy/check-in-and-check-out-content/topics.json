@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "indesign", "topics": [
-  {"topic": "Check in content", "file": "references/desktop/collaborate-and-review/edit-with-in-copy/check-in-and-check-out-content/check-in-content.md", "summary": "Open when looking up Check in content in InDesign.", "keywords": ["Check in content"]},
-  {"topic": "Check out content", "file": "references/desktop/collaborate-and-review/edit-with-in-copy/check-in-and-check-out-content/check-out-content.md", "summary": "Open when looking up Check out content in InDesign.", "keywords": ["Check out content"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

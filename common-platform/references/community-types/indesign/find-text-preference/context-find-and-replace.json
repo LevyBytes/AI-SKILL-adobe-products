@@ -1,4 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "FindTextPreference.findWhat", "file": "references/community-types/indesign/find-text-preference/find-what.md", "summary": "Open when looking up FindTextPreference.findWhat in Shared Adobe platform.", "keywords": ["FindTextPreference.findWhat"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

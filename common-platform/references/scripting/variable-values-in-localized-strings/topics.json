@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Localization in ScriptUI objects - Variable values in localized strings", "file": "references/scripting/variable-values-in-localized-strings/scriptui-localized-variable-values.md", "summary": "Open when looking up Localization in ScriptUI objects - Variable values in localized strings in Shared Adobe platform.", "keywords": ["Localization in ScriptUI objects - Variable values in localized strings"]},
-  {"topic": "Localizing ExtendScript strings - Variable values in localized strings", "file": "references/scripting/variable-values-in-localized-strings/extendscript-localized-variable-values.md", "summary": "Open when looking up Localizing ExtendScript strings - Variable values in localized strings in Shared Adobe platform.", "keywords": ["Localizing ExtendScript strings - Variable values in localized strings"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}

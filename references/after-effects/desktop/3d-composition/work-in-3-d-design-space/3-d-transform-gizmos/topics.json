@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/after-effects", "topics": [
+  {"topic": "Different axis modes", "file": "desktop/3d-composition/work-in-3-d-design-space/3-d-transform-gizmos/different-axis-modes.md", "summary": "Open when looking up Different axis modes in After Effects.", "keywords": ["Different axis modes"]},
+  {"topic": "Different gizmo variations", "file": "desktop/3d-composition/work-in-3-d-design-space/3-d-transform-gizmos/different-gizmo-variations.md", "summary": "Open when looking up Different gizmo variations in After Effects.", "keywords": ["Different gizmo variations"]},
+  {"topic": "Dimensional guide", "file": "desktop/3d-composition/work-in-3-d-design-space/3-d-transform-gizmos/dimensional-guide.md", "summary": "Open when looking up Dimensional guide in After Effects.", "keywords": ["Dimensional guide"]},
+  {"topic": "Use hotkeys to switch between gizmos", "file": "desktop/3d-composition/work-in-3-d-design-space/3-d-transform-gizmos/use-hotkeys-to-switch-between-gizmos.md", "summary": "Open when looking up Use hotkeys to switch between gizmos in After Effects.", "keywords": ["Use hotkeys to switch between gizmos"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

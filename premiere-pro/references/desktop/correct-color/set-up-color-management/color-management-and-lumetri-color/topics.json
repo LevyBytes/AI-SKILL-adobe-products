@@ -1,5 +1,0 @@
-{"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Look LUT behavior across color spaces", "file": "references/desktop/correct-color/set-up-color-management/color-management-and-lumetri-color/look-lut-behavior-across-color-spaces.md", "summary": "Open when looking up Look LUT behavior across color spaces in Premiere Pro.", "keywords": ["Look LUT behavior across color spaces"]},
-  {"topic": "Lumetri Color space", "file": "references/desktop/correct-color/set-up-color-management/color-management-and-lumetri-color/lumetri-color-space.md", "summary": "Open when looking up Lumetri Color space in Premiere Pro.", "keywords": ["Lumetri Color space"]},
-  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
-]}
