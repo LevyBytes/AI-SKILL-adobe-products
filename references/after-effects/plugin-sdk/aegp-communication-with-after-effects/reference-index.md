@@ -1,4 +1,7 @@
-# After Effects - Aegp communication with after effects
+# AEGP communication with After Effects
 
-- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
-- Open when looking up Overview - AEGP Communication With After Effects in After Effects. [Overview - AEGP Communication With After Effects](overview-aegp-communication-with-after-effects.md).
+With effect plug-ins, every exchange with After Effects flows through one entry point function, but AEGPs don't work that way.
+
+After Effects does invoke the entry point named in the AEGP's PiPL (which you still have to supply), yet from there on every interaction between the two travels through the hook functions that the AEGP has registered.
+
+You have to carry out that registration inside the plug-in's entry function, by way of the Register Suite.

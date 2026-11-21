@@ -1,4 +1,3 @@
-# Premiere Pro - Example code
+# Example code
 
-- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
-- Open when looking up Overview - Example code in Premiere Pro. [Overview - Example code](overview-example-code.md).
+[PProPanel](https://github.com/Adobe-CEP/Samples/tree/master/PProPanel) is the sample project for exercising the Premiere Pro ExtendScript API.

@@ -1,5 +1,4 @@
 {"schema_version": 1, "owner": "references/after-effects", "topics": [
-  {"topic": "Changelog", "file": "scripting/changelog.md", "summary": "Open when looking up Changelog in After Effects.", "keywords": ["Changelog"]},
   {"topic": "After effects 9 references", "file": "scripting/after-effects-9/reference-index.md", "summary": "Open when looking up After effects 9 in After Effects.", "keywords": ["After effects 9 references"]},
   {"topic": "After effects 10 references", "file": "scripting/after-effects-10/reference-index.md", "summary": "Open when looking up After effects 10 in After Effects.", "keywords": ["After effects 10 references"]},
   {"topic": "After effects 11 references", "file": "scripting/after-effects-11/reference-index.md", "summary": "Open when looking up After effects 11 in After Effects.", "keywords": ["After effects 11 references"]},

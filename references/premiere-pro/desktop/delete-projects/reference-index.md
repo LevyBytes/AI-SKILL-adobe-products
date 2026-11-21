@@ -1,4 +1,9 @@
-# Premiere Pro - Delete projects
+# Delete an Adobe Premiere project.
 
-- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
-- Open when looking up Delete an Adobe Premiere project. in Premiere Pro. [Delete an Adobe Premiere project.](delete-an-adobe-premiere-project.md).
+On the computer or storage device, find the project file (.prproj).
+
+Use the context menu on the project file, select Delete, or move it to the trash.
+
+To remove the project permanently, empty the trash or recycle bin.
+
+Deleting the project file does not remove the media files associated with it. Remove those files manually if needed.

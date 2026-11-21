@@ -4,7 +4,7 @@ Open when working with text, fonts and text animators in After Effects - Scripti
 
 Open when selecting an exact reference: [Topic catalog](context-text-fonts.json).
 
-- Open when looking up 3d text in After Effects [3d text references](3d-text/reference-index.md).
+- Open when resolving front, bevel, side or back material-property match names for 3D text. [3D text match names](3d-text/reference-index.md).
 - Open when looking up Animators in After Effects [Animators references](animators/reference-index.md).
 - Open when looking up Character range in After Effects [Character range references](character-range/reference-index.md).
 - Open when looking up Composed line range in After Effects [Composed line range references](composed-line-range/reference-index.md).

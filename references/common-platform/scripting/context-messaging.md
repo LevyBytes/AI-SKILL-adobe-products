@@ -26,7 +26,7 @@ Open when selecting an exact reference: [Topic catalog](context-messaging.json).
 - Open when looking up Interapplication Communication with Scripts in Shared Adobe platform [Interapplication Communication with Scripts](interapplication-communication-with-scripts.md).
 - Open when looking up Messaging error codes in Shared Adobe platform [Messaging error codes](messaging-error-codes.md).
 - Open when looking up Messaging framework API reference in Shared Adobe platform [Messaging framework API reference](messaging-framework-api-reference.md).
-- Open when looking up Messaging framework in Shared Adobe platform [Messaging framework references](messaging-framework/reference-index.md).
+- Open when choosing script-message communication and locating its usage or API reference. [Messaging framework overview](messaging-framework/reference-index.md).
 - Open when looking up Namespace specifiers in Shared Adobe platform [Namespace specifiers references](namespace-specifiers/reference-index.md).
 - Open when looking up Passing values between applications in Shared Adobe platform [Passing values between applications references](passing-values-between-applications/reference-index.md).
 - Open when looking up Receiving messages in Shared Adobe platform [Receiving messages references](receiving-messages/reference-index.md).

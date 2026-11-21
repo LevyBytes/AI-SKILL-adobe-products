@@ -18,7 +18,7 @@
 - Open when looking up Pan or balance a stereo track in Premiere Pro. [Pan or balance a stereo track references](pan-or-balance-a-stereo-track/reference-index.md).
 - Open when looking up Pan or balance a track in the timeline in Premiere Pro. [Pan or balance a track in the timeline](pan-or-balance-a-track-in-the-timeline.md).
 - Open when looking up Pan or balance an adaptive track in Premiere Pro. [Pan or balance an adaptive track](pan-or-balance-an-adaptive-track.md).
-- Open when looking up Pan or balance an adaptive track in Premiere Pro. [Pan or balance an adaptive track references](pan-or-balance-an-adaptive-track/reference-index.md).
+- Open when mapping an adaptive audio track to Master-track output channels. [Adaptive track output channel assignments](pan-or-balance-an-adaptive-track/reference-index.md).
 - Open when looking up Record changes to sound tracks in Premiere Pro. [Record changes to sound tracks](record-changes-to-sound-tracks.md).
 - Open when looking up Remix audio in Premiere in Premiere Pro. [Remix audio in Premiere](remix-audio-in-premiere.md).
 - Open when looking up Remix audio in Premiere in Premiere Pro. [Remix audio in Premiere references](remix-audio-in-premiere/reference-index.md).

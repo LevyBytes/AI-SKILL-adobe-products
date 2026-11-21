@@ -17,9 +17,9 @@ Open when selecting an exact reference: [Topic catalog](context-paint-resources.
 - Open when looking up Brushes in Illustrator [Brushes](brushes.md).
 - Open when looking up Brushes example in Illustrator [Brushes example references](brushes-example/reference-index.md).
 - Open when looking up Brushes in Illustrator [Brushes references](brushes/reference-index.md).
-- Open when looking up Cmyk color example in Illustrator [Cmyk color example references](cmyk-color-example/reference-index.md).
+- Open when applying a CMYK fill to the first path [Setting a CMYK color](cmyk-color.md#setting-a-cmyk-color).
 - Open when looking up CMYKColor in Illustrator [CMYKColor](cmyk-color.md).
-- Open when looking up CMYKColor in Illustrator [CMYKColor references](cmyk-color/reference-index.md).
+- Open when choosing among Illustrator color classes [Illustrator color classes](color-classes.md).
 - Open when looking up Gray color example in Illustrator [Gray color example references](gray-color-example/reference-index.md).
 - Open when looking up GrayColor in Illustrator [GrayColor](gray-color.md).
 - Open when looking up GrayColor in Illustrator [GrayColor references](gray-color/reference-index.md).

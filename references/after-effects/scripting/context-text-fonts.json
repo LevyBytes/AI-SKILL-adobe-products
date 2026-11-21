@@ -1,5 +1,5 @@
 {"schema_version": 1, "owner": "references/after-effects", "topics": [
-  {"topic": "3d text references", "file": "scripting/3d-text/reference-index.md", "summary": "Open when looking up 3d text in After Effects.", "keywords": ["3d text references"]},
+  {"topic": "3D text match names", "file": "scripting/3d-text/reference-index.md", "summary": "Open when resolving front, bevel, side or back material-property match names for 3D text.", "keywords": ["3d text references", "Text Layer Match Names - 3d Text", "3D text", "match names", "ADBE 3DText"]},
   {"topic": "Animators references", "file": "scripting/animators/reference-index.md", "summary": "Open when looking up Animators in After Effects.", "keywords": ["Animators references"]},
   {"topic": "Character range references", "file": "scripting/character-range/reference-index.md", "summary": "Open when looking up Character range in After Effects.", "keywords": ["Character range references"]},
   {"topic": "Composed line range references", "file": "scripting/composed-line-range/reference-index.md", "summary": "Open when looking up Composed line range in After Effects.", "keywords": ["Composed line range references"]},

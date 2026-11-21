@@ -10,21 +10,19 @@
 - Open when looking up App in Premiere Pro. [App references](app/reference-index.md).
 - Open when looking up Application in Premiere Pro. [Application references](application/reference-index.md).
 - Open when looking up Audio channel mapping in Premiere Pro. [Audio channel mapping references](audio-channel-mapping/reference-index.md).
-- Open when looking up Changelog in Premiere Pro. [Changelog](changelog.md).
 - Open when looking up Collection object in Premiere Pro. [Collection object references](collection-object/reference-index.md).
 - Open when looking up Collection in Premiere Pro. [Collection references](collection/reference-index.md).
 - Open when looking up Component collection in Premiere Pro. [Component collection references](component-collection/reference-index.md).
 - Open when looking up Component param in Premiere Pro. [Component param references](component-param/reference-index.md).
 - Open when looking up Component in Premiere Pro. [Component references](component/reference-index.md).
 - Open when looking up Contribution in Premiere Pro. [Contribution references](contribution/reference-index.md).
-- Open when looking up Development and debugging tools in Premiere Pro. [Development and debugging tools references](development-and-debugging-tools/reference-index.md).
+- Open when selecting the Visual Studio Code debugger for ExtendScript. [Development and debugging tools](development-and-debugging-tools/reference-index.md).
 - Open when looking up Encoder in Premiere Pro. [Encoder references](encoder/reference-index.md).
-- Open when looking up Example code in Premiere Pro. [Example code references](example-code/reference-index.md).
+- Open when locating the PProPanel sample for the Premiere Pro ExtendScript API. [Example code](example-code/reference-index.md).
 - Open when looking up How to Execute ExtendScript in Premiere Pro in Premiere Pro. [How to Execute ExtendScript in Premiere Pro](how-to-execute-extend-script-in-premiere-pro.md).
 - Open when looking up Marker collection in Premiere Pro. [Marker collection references](marker-collection/reference-index.md).
 - Open when looking up Marker in Premiere Pro. [Marker references](marker/reference-index.md).
 - Open when looking up Metadata in Premiere Pro. [Metadata references](metadata/reference-index.md).
-- Open when looking up Navigating the guide in Premiere Pro. [Navigating the guide references](navigating-the-guide/reference-index.md).
 - Open when looking up Objects in Premiere Pro. [Objects references](objects/reference-index.md).
 - Open when looking up Premiere Pro Scripting Guide in Premiere Pro. [Premiere Pro Scripting Guide](premiere-pro-scripting-guide.md).
 - Open when looking up Production in Premiere Pro. [Production references](production/reference-index.md).

@@ -1,4 +1,3 @@
-# Acrobat - Acrobat 8 1 changes
+# Changes Across Versions - Acrobat 8.1 changes
 
-- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
-- Open when looking up Changes Across Versions - Acrobat 8.1 changes in Acrobat. [Changes Across Versions - Acrobat 8.1 changes](changes-across-versions-acrobat-8-1-changes.md).
+Fresh security limits now apply to the search object's addIndex, query, and removeIndex methods, and to the spell object's removeWord method. Each of those method writeups has the details.

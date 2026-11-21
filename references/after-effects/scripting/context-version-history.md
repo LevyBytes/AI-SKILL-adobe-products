@@ -4,7 +4,6 @@ Open when working with version-specific scripting changes in After Effects - Scr
 
 Open when selecting an exact reference: [Topic catalog](context-version-history.json).
 
-- Open when looking up Changelog in After Effects [Changelog](changelog.md).
 - Open when looking up After effects 9 in After Effects [After effects 9 references](after-effects-9/reference-index.md).
 - Open when looking up After effects 10 in After Effects [After effects 10 references](after-effects-10/reference-index.md).
 - Open when looking up After effects 11 in After Effects [After effects 11 references](after-effects-11/reference-index.md).
