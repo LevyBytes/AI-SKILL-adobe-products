@@ -11,4 +11,5 @@ Keep expression, ExtendScript and C++ SDK requirements distinct. Use the runtime
 - Open when looking up Desktop workflows in After Effects. [Desktop workflows references](desktop/reference-index.md).
 - Open when looking up Scripting APIs in After Effects. [Scripting APIs references](scripting/reference-index.md).
 - Open when checking product guidance against its source. [Official documentation](https://helpx.adobe.com/after-effects.html).
+- Open when reviewing the product overview. [Product overview](README.md).
 - Open when you need a language version of references other than English. [Reference Language Selection](languages.md).

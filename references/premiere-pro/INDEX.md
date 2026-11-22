@@ -12,4 +12,5 @@ Select the interface supported by the target Premiere Pro version. Read [plug-in
 - Open when looking up Scripting APIs in Premiere Pro. [Scripting APIs references](scripting/reference-index.md).
 - Open when looking up UXP plugins and APIs in Premiere Pro. [UXP plugins and APIs references](uxp/reference-index.md).
 - Open when checking product guidance against its source. [Official documentation](https://helpx.adobe.com/premiere-pro.html).
+- Open when reviewing the product overview. [Product overview](README.md).
 - Open when you need a language version of references other than English. [Reference Language Selection](languages.md).

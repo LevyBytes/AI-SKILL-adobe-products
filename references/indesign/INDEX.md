@@ -11,4 +11,5 @@ Use the host and runtime version required by the selected example. A document-mo
 - Open when looking up InDesign document object model in InDesign. [InDesign document object model references](document-model/reference-index.md).
 - Open when looking up UXP plugins and APIs in InDesign. [UXP plugins and APIs references](uxp/reference-index.md).
 - Open when checking product guidance against its source. [Official documentation](https://helpx.adobe.com/indesign.html).
+- Open when reviewing the product overview. [Product overview](README.md).
 - Open when you need a language version of references other than English. [Reference Language Selection](languages.md).

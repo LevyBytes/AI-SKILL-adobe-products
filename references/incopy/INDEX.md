@@ -9,4 +9,5 @@ Match the document and assignment context before applying a workflow. Preserve t
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Desktop workflows in InCopy. [Desktop workflows references](desktop/reference-index.md).
 - Open when checking product guidance against its source. [Official documentation](https://helpx.adobe.com/incopy.html).
+- Open when reviewing the product overview. [Product overview](README.md).
 - Open when you need a language version of references other than English. [Reference Language Selection](languages.md).

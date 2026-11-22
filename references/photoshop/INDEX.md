@@ -12,4 +12,5 @@ Keep Photoshop desktop, legacy scripting, UXP and cloud-service behavior distinc
 - Open when looking up Plugin examples in Photoshop. [Plugin examples references](plugin-samples/reference-index.md).
 - Open when looking up UXP plugins and APIs in Photoshop. [UXP plugins and APIs references](uxp/reference-index.md).
 - Open when checking product guidance against its source. [Official documentation](https://helpx.adobe.com/photoshop.html).
+- Open when reviewing the product overview. [Product overview](README.md).
 - Open when you need a language version of references other than English. [Reference Language Selection](languages.md).

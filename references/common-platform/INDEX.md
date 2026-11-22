@@ -11,4 +11,5 @@ Match the host application and runtime version to the selected API. Community de
 - Open when looking up Community application declarations in Shared Adobe platform. [Community application declarations references](community-types/reference-index.md).
 - Open when looking up Scripting APIs in Shared Adobe platform. [Scripting APIs references](scripting/reference-index.md).
 - Open when checking product guidance against its source. [Official documentation](https://github.com/Adobe-CEP/CEP-Resources).
+- Open when reviewing the product overview. [Product overview](README.md).
 - Open when you need a language version of references other than English. [Reference Language Selection](languages.md).

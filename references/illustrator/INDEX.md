@@ -11,4 +11,5 @@ Select the desktop scripting language or cloud API before adapting an example. K
 - Open when looking up Desktop workflows in Illustrator. [Desktop workflows references](desktop/reference-index.md).
 - Open when looking up Scripting APIs in Illustrator. [Scripting APIs references](scripting/reference-index.md).
 - Open when checking product guidance against its source. [Official documentation](https://helpx.adobe.com/illustrator.html).
+- Open when reviewing the product overview. [Product overview](README.md).
 - Open when you need a language version of references other than English. [Reference Language Selection](languages.md).

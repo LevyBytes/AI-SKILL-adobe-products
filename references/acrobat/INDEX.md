@@ -17,4 +17,5 @@ Select desktop, web, mobile or service behavior before adapting an example. The 
 - Open when looking up Scripting APIs in Acrobat. [Scripting APIs references](scripting/reference-index.md).
 - Open when looking up Web workflows in Acrobat. [Web workflows references](web/reference-index.md).
 - Open when checking product guidance against its source. [Official documentation](https://helpx.adobe.com/acrobat.html).
+- Open when reviewing the product overview. [Product overview](README.md).
 - Open when you need a language version of references other than English. [Reference Language Selection](languages.md).

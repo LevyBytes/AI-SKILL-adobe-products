@@ -11,4 +11,5 @@ Match the installed Media Encoder version and the required media formats. Read t
 - Open when looking up Desktop workflows in Media Encoder. [Desktop workflows references](desktop/reference-index.md).
 - Open when looking up Scripting APIs in Media Encoder. [Scripting APIs references](scripting/reference-index.md).
 - Open when checking product guidance against its source. [Official documentation](https://helpx.adobe.com/media-encoder.html).
+- Open when reviewing the product overview. [Product overview](README.md).
 - Open when you need a language version of references other than English. [Reference Language Selection](languages.md).
